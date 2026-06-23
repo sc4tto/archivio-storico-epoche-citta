@@ -1,0 +1,64 @@
+{
+  "id": "P1_ASO_01_Gerico",
+  "name": "Gerico",
+  "alternative_name": "Tell es-Sultan",
+  "entry_type": "sito_archeologico_centro_abitato",
+  "archive_hierarchy": {
+    "period_order": 1,
+    "period_code": "P1",
+    "period_name": "Prima del 3000 a.C. — Neolitico e prime concentrazioni",
+    "macroregion_order": 1,
+    "macroregion_name": "Asia sud-occidentale e altopiano iranico",
+    "center_order": 1,
+    "folder_name": "01_Gerico"
+  },
+  "location": "Gerico, Governatorato di Gerico e al-Aghwar, Palestina",
+  "coordinates": {
+    "lat": 31.8713,
+    "lon": 35.4441
+  },
+  "periods": [
+    "Natufiano",
+    "PPNA",
+    "PPNB",
+    "Neolitico ceramico"
+  ],
+  "reliability_levels": [
+    "documentato",
+    "sintesi",
+    "inferito",
+    "non_documentato"
+  ],
+  "documents": [
+    {
+      "id": "01_alimentazione",
+      "type": "grafo_stratificato",
+      "path": "documenti/01_alimentazione.html"
+    },
+    {
+      "id": "02_provenienze",
+      "type": "mappa_flussi",
+      "path": "documenti/02_provenienze.html"
+    },
+    {
+      "id": "03_insediamento",
+      "type": "timeline_corsie",
+      "path": "documenti/03_insediamento.html"
+    },
+    {
+      "id": "04_costruzione",
+      "type": "grafo_processo",
+      "path": "documenti/04_costruzione.html"
+    },
+    {
+      "id": "05_conoscenze",
+      "type": "albero_radiale",
+      "path": "documenti/05_conoscenze.html"
+    },
+    {
+      "id": "06_fonti_certezza",
+      "type": "matrice_controllo",
+      "path": "documenti/06_fonti_certezza.html"
+    }
+  ]
+}

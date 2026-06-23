@@ -1,0 +1,125 @@
+{
+  "places": [
+    {
+      "id": "jericho",
+      "label": "Tell es-Sultan / Gerico",
+      "lat": 31.8713,
+      "lon": 35.4441,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 42,
+      "anchor": "middle"
+    },
+    {
+      "id": "oasis",
+      "label": "Oasi e campi immediati",
+      "lat": 31.93,
+      "lon": 35.39,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": -25,
+      "anchor": "end"
+    },
+    {
+      "id": "jordan",
+      "label": "Bassa Valle del Giordano",
+      "lat": 31.72,
+      "lon": 35.55,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 10,
+      "dy": 27,
+      "anchor": "start"
+    },
+    {
+      "id": "wadiqelt",
+      "label": "Wadi Qelt e alture occidentali",
+      "lat": 31.84,
+      "lon": 35.23,
+      "status": "inferito",
+      "kind": "regionale",
+      "dx": -12,
+      "dy": 27,
+      "anchor": "end"
+    },
+    {
+      "id": "transjordan",
+      "label": "Altopiano della Giordania centrale",
+      "lat": 31.95,
+      "lon": 35.91,
+      "status": "inferito",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 28,
+      "anchor": "middle"
+    },
+    {
+      "id": "coast",
+      "label": "Costa mediterranea (Giaffa / Tel Aviv)",
+      "lat": 32.05,
+      "lon": 34.76,
+      "status": "inferito",
+      "kind": "scambio",
+      "dx": 0,
+      "dy": 28,
+      "anchor": "middle"
+    },
+    {
+      "id": "anatolia",
+      "label": "Anatolia (Turchia): materiali esotici, non derrate certe",
+      "lat": 38.6,
+      "lon": 35.2,
+      "status": "non_documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 32,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "oasis",
+      "target": "jericho",
+      "label": "acqua, suoli agricoli, colture",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "jordan",
+      "target": "jericho",
+      "label": "selvaggina, raccolta regionale, possibili pascoli",
+      "status": "inferito",
+      "food": "probabile"
+    },
+    {
+      "source": "wadiqelt",
+      "target": "jericho",
+      "label": "pietra, legname, selvaggina; alimenti non specificati",
+      "status": "inferito",
+      "food": "parziale"
+    },
+    {
+      "source": "transjordan",
+      "target": "jericho",
+      "label": "reti regionali e mobilità; derrate non dimostrate",
+      "status": "inferito",
+      "food": "non dimostrato"
+    },
+    {
+      "source": "coast",
+      "target": "jericho",
+      "label": "conchiglie/materiali; non prova importazione alimentare",
+      "status": "non_documentato",
+      "food": "no"
+    },
+    {
+      "source": "anatolia",
+      "target": "jericho",
+      "label": "possibile origine di ossidiana; non prova commercio di cibo",
+      "status": "non_documentato",
+      "food": "no"
+    }
+  ]
+}

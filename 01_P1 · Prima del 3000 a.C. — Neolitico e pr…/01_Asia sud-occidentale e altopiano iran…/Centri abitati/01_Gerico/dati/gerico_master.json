@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "title": "Gerico neolitica — prototipo multi-grafo",
+    "site": "Ancient Jericho / Tell es-Sultan",
+    "modern_location": "Gerico, Governatorato di Gerico e al-Aghwar, Palestina",
+    "coordinates": {
+      "lat": 31.8713,
+      "lon": 35.4441
+    },
+    "scope": "Natufiano, PPNA, PPNB e Neolitico ceramico; fasi da non mescolare",
+    "version": "0.1-prototipo",
+    "warning": "Il modello dimostra l'architettura informativa. Le specie e le attribuzioni puntuali devono essere rifasate sulle pubblicazioni specialistiche."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato nel dossier UNESCO/ICOMOS",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Riportato in sintesi bibliografiche; verifica primaria richiesta",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "UNESCO_LIST",
+      "title": "UNESCO World Heritage Centre — Ancient Jericho/Tell es-Sultan",
+      "url": "https://whc.unesco.org/en/list/1687/",
+      "use": "localizzazione, sorgente, insediamento permanente, muro, fossato, torre, transizione a nuove economie di sussistenza, pratiche rituali"
+    },
+    {
+      "id": "UNESCO_EXEC",
+      "title": "UNESCO nomination — Executive Summary, document 192662",
+      "url": "https://whc.unesco.org/document/192662",
+      "use": "suoli alluvionali, agricoltura, granai e strumenti di raccolta, evoluzione delle abitazioni, mattoni crudi, fondazioni in pietra, pavimenti in calce"
+    },
+    {
+      "id": "ICOMOS",
+      "title": "ICOMOS Advisory Body Evaluation, document 205764",
+      "url": "https://whc.unesco.org/document/205764",
+      "use": "29 fasi di occupazione, evoluzione delle case, irrigazione neolitica, sepolture sotto i pavimenti, architetture comunitarie"
+    },
+    {
+      "id": "SECONDARY",
+      "title": "Sintesi bibliografiche generali su Tell es-Sultan",
+      "url": "https://en.wikipedia.org/wiki/Tell_es-Sultan",
+      "use": "nomi specifici di cereali e legumi usati nel prototipo, da verificare poi sulle pubblicazioni di scavo"
+    }
+  ]
+}

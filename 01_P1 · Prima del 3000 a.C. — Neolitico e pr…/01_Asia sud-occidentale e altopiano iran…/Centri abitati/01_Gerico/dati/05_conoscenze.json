@@ -1,0 +1,161 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Gerico",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "env",
+      "label": "Ambiente",
+      "status": "inferito",
+      "children": [
+        {
+          "id": "seasons",
+          "label": "Cicli stagionali",
+          "status": "inferito"
+        },
+        {
+          "id": "soils",
+          "label": "Proprietà dei suoli",
+          "status": "inferito"
+        },
+        {
+          "id": "fauna",
+          "label": "Comportamento della fauna",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "agri",
+      "label": "Agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "seed",
+          "label": "Selezione e conservazione dei semi",
+          "status": "inferito"
+        },
+        {
+          "id": "harvest",
+          "label": "Semina, raccolta e trebbiatura",
+          "status": "documentato"
+        },
+        {
+          "id": "storageK",
+          "label": "Gestione dei granai",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "water",
+      "label": "Acqua",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "spring",
+          "label": "Sfruttamento della sorgente",
+          "status": "documentato"
+        },
+        {
+          "id": "irrigation",
+          "label": "Irrigazione neolitica",
+          "status": "documentato"
+        },
+        {
+          "id": "drain",
+          "label": "Drenaggio e controllo dei flussi",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "foodK",
+      "label": "Tecnologie alimentari",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "grinding",
+          "label": "Macinazione",
+          "status": "documentato"
+        },
+        {
+          "id": "fire",
+          "label": "Cottura e controllo del fuoco",
+          "status": "inferito"
+        },
+        {
+          "id": "dry",
+          "label": "Essiccazione e conservazione",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "lithic",
+      "label": "Tecnologia litica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "fracture",
+          "label": "Scheggiatura e controllo della frattura",
+          "status": "documentato"
+        },
+        {
+          "id": "tools",
+          "label": "Utensili di raccolta e costruzione",
+          "status": "documentato"
+        },
+        {
+          "id": "grindstone",
+          "label": "Macine e pestelli",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "buildingK",
+      "label": "Edilizia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "brickK",
+          "label": "Produzione di mattoni crudi",
+          "status": "documentato"
+        },
+        {
+          "id": "limeK",
+          "label": "Tecnologia della calce",
+          "status": "documentato"
+        },
+        {
+          "id": "load",
+          "label": "Geometria pratica e gestione dei carichi",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "socialK",
+      "label": "Organizzazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "labour",
+          "label": "Coordinamento del lavoro",
+          "status": "documentato"
+        },
+        {
+          "id": "planning",
+          "label": "Pianificazione di opere collettive",
+          "status": "documentato"
+        },
+        {
+          "id": "ritualK",
+          "label": "Trattamento rituale dei defunti",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

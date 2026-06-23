@@ -1,0 +1,80 @@
+[
+  {
+    "claim": "Sorgente perenne di ‘Ain es-Sultan",
+    "theme": "Ambiente",
+    "status": "documentato",
+    "source": "UNESCO_LIST, UNESCO_EXEC, ICOMOS"
+  },
+  {
+    "claim": "Suoli alluvionali fertili e adatti all’agricoltura",
+    "theme": "Alimentazione/provenienza",
+    "status": "documentato",
+    "source": "UNESCO_EXEC"
+  },
+  {
+    "claim": "Insediamento permanente nel IX–VIII millennio a.C.",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "UNESCO_LIST, ICOMOS"
+  },
+  {
+    "claim": "Agricoltura attestata da granai e strumenti di raccolta",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "UNESCO_EXEC"
+  },
+  {
+    "claim": "Farro dicocco, orzo e legumi",
+    "theme": "Alimentazione",
+    "status": "sintesi",
+    "source": "SECONDARY; verificare pubblicazioni di scavo"
+  },
+  {
+    "claim": "Specie precise di ortaggi",
+    "theme": "Alimentazione",
+    "status": "non_documentato",
+    "source": "nessuna fonte primaria inserita"
+  },
+  {
+    "claim": "Case circolari/semi-sotterranee e poi rettangolari",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "UNESCO_EXEC, ICOMOS"
+  },
+  {
+    "claim": "Muro, fossato e torre con scala interna",
+    "theme": "Costruzione",
+    "status": "documentato",
+    "source": "UNESCO_LIST, UNESCO_EXEC, ICOMOS"
+  },
+  {
+    "claim": "Mattoni crudi su fondazioni in pietra",
+    "theme": "Costruzione",
+    "status": "documentato",
+    "source": "UNESCO_EXEC"
+  },
+  {
+    "claim": "Pavimenti in calce levigata",
+    "theme": "Costruzione",
+    "status": "documentato",
+    "source": "UNESCO_EXEC"
+  },
+  {
+    "claim": "Irrigazione già nel Neolitico",
+    "theme": "Acqua/agricoltura",
+    "status": "documentato",
+    "source": "ICOMOS"
+  },
+  {
+    "claim": "Importazione sistematica di alimenti a lunga distanza",
+    "theme": "Commercio",
+    "status": "non_documentato",
+    "source": "non dimostrata nel prototipo"
+  },
+  {
+    "claim": "Conchiglie o ossidiana equivalgono a commercio alimentare",
+    "theme": "Commercio",
+    "status": "non_documentato",
+    "source": "inferenza non valida"
+  }
+]

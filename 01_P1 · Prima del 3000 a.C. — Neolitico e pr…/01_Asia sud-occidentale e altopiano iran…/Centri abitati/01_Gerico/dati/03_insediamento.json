@@ -1,0 +1,98 @@
+{
+  "phases": [
+    "Natufiano",
+    "PPNA",
+    "PPNB",
+    "Neolitico ceramico"
+  ],
+  "items": [
+    {
+      "id": "light",
+      "label": "Strutture leggere / piattaforme iniziali",
+      "lane": "Abitazioni",
+      "start": 0,
+      "end": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "round",
+      "label": "Case circolari o semi-sotterranee",
+      "lane": "Abitazioni",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "rect",
+      "label": "Case in mattoni crudi con cortili e stanze rettangolari",
+      "lane": "Abitazioni",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "pit",
+      "label": "Pit dwellings / abitazioni infossate",
+      "lane": "Abitazioni",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "wall",
+      "label": "Muro, fossato e torre con scala interna",
+      "lane": "Comunitarie",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "enclosure",
+      "label": "Muro di cinta e terrazzamenti occidentali",
+      "lane": "Comunitarie",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "hearth",
+      "label": "Focolari e spazi di lavorazione",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 3,
+      "status": "inferito"
+    },
+    {
+      "id": "storage",
+      "label": "Granai e vani di deposito",
+      "lane": "Conservazione",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "burial",
+      "label": "Sepolture sotto i pavimenti",
+      "lane": "Funerarie",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "skulls",
+      "label": "Crani trattati e statue antropomorfe",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "fields",
+      "label": "Campi irrigati dell’oasi",
+      "lane": "Periferia",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    }
+  ]
+}

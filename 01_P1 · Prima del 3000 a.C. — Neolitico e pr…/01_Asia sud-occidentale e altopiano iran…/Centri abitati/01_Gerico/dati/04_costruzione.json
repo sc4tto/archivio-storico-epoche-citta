@@ -1,0 +1,216 @@
+{
+  "nodes": [
+    {
+      "id": "stone",
+      "label": "Pietra",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "earth",
+      "label": "Terra e argilla",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "limestone",
+      "label": "Calcare",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "wood",
+      "label": "Legno e fibre vegetali",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "stonework",
+      "label": "Estrazione, trasporto e posa",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "brickmaking",
+      "label": "Impasto, formatura ed essiccazione al sole",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "lime",
+      "label": "Cottura, spegnimento e stesura della calce",
+      "layer": 1,
+      "status": "inferito"
+    },
+    {
+      "id": "carpentry",
+      "label": "Intelaiatura, architravi e coperture",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "foundation",
+      "label": "Fondazioni e murature in pietra",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "mudbrick",
+      "label": "Mattoni crudi e malta di terra",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "plaster",
+      "label": "Pavimenti e intonaci in calce",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "roof",
+      "label": "Coperture e lintelli",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "tower",
+      "label": "Torre e scala interna",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "wall",
+      "label": "Muro e fossato",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "houses_round",
+      "label": "Case circolari PPNA",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "houses_rect",
+      "label": "Case rettangolari PPNB",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ritual",
+      "label": "Pavimenti, crani modellati e statue",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "maintenance",
+      "label": "Manutenzione e ricostruzione periodica",
+      "layer": 3,
+      "status": "inferito"
+    }
+  ],
+  "edges": [
+    {
+      "source": "stone",
+      "target": "stonework",
+      "label": "materiale lavorato mediante",
+      "status": "documentato"
+    },
+    {
+      "source": "earth",
+      "target": "brickmaking",
+      "label": "materiale trasformato mediante",
+      "status": "documentato"
+    },
+    {
+      "source": "limestone",
+      "target": "lime",
+      "label": "materia prima della calce",
+      "status": "inferito"
+    },
+    {
+      "source": "wood",
+      "target": "carpentry",
+      "label": "materiale impiegato per",
+      "status": "documentato"
+    },
+    {
+      "source": "stonework",
+      "target": "foundation",
+      "label": "genera",
+      "status": "documentato"
+    },
+    {
+      "source": "brickmaking",
+      "target": "mudbrick",
+      "label": "genera",
+      "status": "documentato"
+    },
+    {
+      "source": "lime",
+      "target": "plaster",
+      "label": "genera",
+      "status": "documentato"
+    },
+    {
+      "source": "carpentry",
+      "target": "roof",
+      "label": "genera",
+      "status": "documentato"
+    },
+    {
+      "source": "foundation",
+      "target": "tower",
+      "label": "costituisce",
+      "status": "documentato"
+    },
+    {
+      "source": "foundation",
+      "target": "wall",
+      "label": "costituisce",
+      "status": "documentato"
+    },
+    {
+      "source": "mudbrick",
+      "target": "houses_round",
+      "label": "costituisce",
+      "status": "documentato"
+    },
+    {
+      "source": "mudbrick",
+      "target": "houses_rect",
+      "label": "costituisce",
+      "status": "documentato"
+    },
+    {
+      "source": "roof",
+      "target": "houses_round",
+      "label": "copre",
+      "status": "documentato"
+    },
+    {
+      "source": "roof",
+      "target": "houses_rect",
+      "label": "copre",
+      "status": "documentato"
+    },
+    {
+      "source": "plaster",
+      "target": "ritual",
+      "label": "impiegato per",
+      "status": "documentato"
+    },
+    {
+      "source": "mudbrick",
+      "target": "maintenance",
+      "label": "richiede",
+      "status": "inferito"
+    },
+    {
+      "source": "plaster",
+      "target": "maintenance",
+      "label": "richiede",
+      "status": "inferito"
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "nodes": [
+    {
+      "id": "oasi",
+      "label": "Oasi immediata di Gerico",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "valle",
+      "label": "Bassa Valle del Giordano",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "levante",
+      "label": "Reti regionali del Levante",
+      "layer": 0,
+      "status": "inferito"
+    },
+    {
+      "id": "farro",
+      "label": "Farro dicocco",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "orzo",
+      "label": "Orzo",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "legumi",
+      "label": "Legumi / pulses",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "ortaggi",
+      "label": "Ortaggi: specie non identificate",
+      "layer": 1,
+      "status": "non_documentato"
+    },
+    {
+      "id": "selvaggina",
+      "label": "Selvaggina",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "domestici",
+      "label": "Animali domesticati: fase da precisare",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "coltivazione",
+      "label": "Coltivazione",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "raccolta",
+      "label": "Raccolta di piante spontanee",
+      "layer": 2,
+      "status": "inferito"
+    },
+    {
+      "id": "caccia",
+      "label": "Caccia",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "allevamento",
+      "label": "Allevamento / pastoralismo",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "raccolto",
+      "label": "Mietitura, trebbiatura, decorticazione",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "macinazione",
+      "label": "Macinazione",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "cottura",
+      "label": "Cottura su focolare",
+      "layer": 3,
+      "status": "inferito"
+    },
+    {
+      "id": "conservazione",
+      "label": "Essiccazione e immagazzinamento",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "macellazione",
+      "label": "Macellazione e cottura",
+      "layer": 3,
+      "status": "inferito"
+    },
+    {
+      "id": "prod_cereali",
+      "label": "Chicchi, farine, pappe o impasti",
+      "layer": 4,
+      "status": "inferito"
+    },
+    {
+      "id": "carne",
+      "label": "Carne e grassi animali",
+      "layer": 4,
+      "status": "inferito"
+    },
+    {
+      "id": "granai",
+      "label": "Granai e strumenti di raccolta",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "resti",
+      "label": "Resti botanici e faunistici da rifasare",
+      "layer": 4,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "oasi",
+      "target": "farro",
+      "label": "area probabile di coltivazione locale",
+      "status": "inferito"
+    },
+    {
+      "source": "oasi",
+      "target": "orzo",
+      "label": "area probabile di coltivazione locale",
+      "status": "inferito"
+    },
+    {
+      "source": "oasi",
+      "target": "legumi",
+      "label": "produzione locale o regionale",
+      "status": "inferito"
+    },
+    {
+      "source": "oasi",
+      "target": "ortaggi",
+      "label": "nessuna specie certa nel prototipo",
+      "status": "non_documentato"
+    },
+    {
+      "source": "valle",
+      "target": "selvaggina",
+      "label": "habitat di caccia regionale",
+      "status": "inferito"
+    },
+    {
+      "source": "levante",
+      "target": "domestici",
+      "label": "diffusione regionale di domesticazione e pastoralismo",
+      "status": "inferito"
+    },
+    {
+      "source": "farro",
+      "target": "coltivazione",
+      "label": "ottenuto mediante coltivazione",
+      "status": "documentato"
+    },
+    {
+      "source": "orzo",
+      "target": "coltivazione",
+      "label": "ottenuto mediante coltivazione",
+      "status": "documentato"
+    },
+    {
+      "source": "legumi",
+      "target": "coltivazione",
+      "label": "ottenuti mediante coltivazione",
+      "status": "inferito"
+    },
+    {
+      "source": "ortaggi",
+      "target": "raccolta",
+      "label": "categoria aperta",
+      "status": "non_documentato"
+    },
+    {
+      "source": "selvaggina",
+      "target": "caccia",
+      "label": "ottenuta mediante caccia",
+      "status": "documentato"
+    },
+    {
+      "source": "domestici",
+      "target": "allevamento",
+      "label": "ottenuti mediante allevamento",
+      "status": "documentato"
+    },
+    {
+      "source": "coltivazione",
+      "target": "raccolto",
+      "label": "sequenza agricola",
+      "status": "documentato"
+    },
+    {
+      "source": "raccolto",
+      "target": "macinazione",
+      "label": "trattamento dei cereali",
+      "status": "documentato"
+    },
+    {
+      "source": "macinazione",
+      "target": "prod_cereali",
+      "label": "prodotti trasformati",
+      "status": "inferito"
+    },
+    {
+      "source": "cottura",
+      "target": "prod_cereali",
+      "label": "preparazione finale ipotizzata",
+      "status": "inferito"
+    },
+    {
+      "source": "raccolto",
+      "target": "conservazione",
+      "label": "stoccaggio delle derrate",
+      "status": "documentato"
+    },
+    {
+      "source": "conservazione",
+      "target": "granai",
+      "label": "evidenza strutturale",
+      "status": "documentato"
+    },
+    {
+      "source": "caccia",
+      "target": "macellazione",
+      "label": "trattamento animale",
+      "status": "inferito"
+    },
+    {
+      "source": "allevamento",
+      "target": "macellazione",
+      "label": "trattamento animale",
+      "status": "inferito"
+    },
+    {
+      "source": "macellazione",
+      "target": "carne",
+      "label": "prodotto alimentare",
+      "status": "inferito"
+    },
+    {
+      "source": "farro",
+      "target": "resti",
+      "label": "identificazione riportata in sintesi",
+      "status": "sintesi"
+    },
+    {
+      "source": "orzo",
+      "target": "resti",
+      "label": "identificazione riportata in sintesi",
+      "status": "sintesi"
+    },
+    {
+      "source": "legumi",
+      "target": "resti",
+      "label": "categoria riportata in sintesi",
+      "status": "sintesi"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "block": "blocco_pilota_json_gerico_v3",
+  "center": "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\01_P1 · Prima del 3000 a.C. — Neolitico e pr…\\01_Asia sud-occidentale e altopiano iran…\\Centri abitati\\01_Gerico",
+  "source_json": [
+    "01_alimentazione.json",
+    "02_provenienze.json",
+    "03_insediamento.json",
+    "04_costruzione.json",
+    "05_conoscenze.json",
+    "06_fonti_certezza.json",
+    "affermazioni.json",
+    "centro.json",
+    "fonti.json",
+    "gerico_master.json"
+  ],
+  "generated_pages": [
+    "index.html",
+    "documenti\\01_alimentazione.html",
+    "documenti\\02_provenienze.html",
+    "documenti\\03_insediamento.html",
+    "documenti\\04_costruzione.html",
+    "documenti\\05_conoscenze.html",
+    "documenti\\06_fonti_certezza.html"
+  ],
+  "engine": "strumenti\\genera_centro_da_json.py",
+  "installed_at": "2026-06-23T11:59:37"
+}
