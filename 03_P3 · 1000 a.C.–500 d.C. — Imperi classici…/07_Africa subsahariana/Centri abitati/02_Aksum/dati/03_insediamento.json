@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Formazione del centro",
+    "Espansione del regno",
+    "Monetazione e commerci",
+    "Regno di Ezana e cristianizzazione",
+    "Tarda antichità"
+  ],
+  "items": [
+    {
+      "id": "stelae",
+      "label": "Stele monumentali e tombe",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "palaces",
+      "label": "Palazzi e residenze élitarie",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "coins",
+      "label": "Coniazione monetaria",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "inscriptions",
+      "label": "Iscrizioni in ge’ez, sabeo e greco",
+      "lane": "Amministrative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "adulis",
+      "label": "Rete con Adulis e il Mar Rosso",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "christian",
+      "label": "Cristianizzazione del IV secolo",
+      "lane": "Rituali",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Quartieri domestici e artigiani",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

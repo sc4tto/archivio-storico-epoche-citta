@@ -1,0 +1,282 @@
+{
+  "nodes": [
+    {
+      "id": "m0",
+      "label": "Adobe e terra",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m1",
+      "label": "Pietra e ciottoli",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m2",
+      "label": "Legno, canne e fibre",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m3",
+      "label": "Argilla, intonaco e pigmenti",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "o0",
+      "label": "Produzione e posa di adobes",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o1",
+      "label": "Fondazioni e muri di contenimento",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o2",
+      "label": "Carpenteria e coperture",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "o3",
+      "label": "Intonacatura, pittura e rilievo",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "c0",
+      "label": "Muri, terrazze e rampe",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c1",
+      "label": "Pavimenti e cortili",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c2",
+      "label": "Tetti e chiusure leggere",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "c3",
+      "label": "Facciate dipinte e superfici rituali",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "s0",
+      "label": "Templi e piattaforme",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s1",
+      "label": "Recinti per offerte e pellegrini",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "s2",
+      "label": "Depositi e ambienti di servizio",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s3",
+      "label": "Aree funerarie",
+      "layer": 3,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m0",
+      "target": "o0",
+      "status": "documentato",
+      "label": "Adobe e terra erano preparati e posati in muratura."
+    },
+    {
+      "source": "m0",
+      "target": "o1",
+      "status": "documentato",
+      "label": "Terra e adobes contribuivano a terrazze e muri di contenimento."
+    },
+    {
+      "source": "m1",
+      "target": "o1",
+      "status": "documentato",
+      "label": "Pietra e ciottoli erano impiegati in fondazioni e contenimenti."
+    },
+    {
+      "source": "m1",
+      "target": "o0",
+      "status": "sintesi",
+      "label": "Pietrame minuto poteva essere integrato nei nuclei delle murature."
+    },
+    {
+      "source": "m2",
+      "target": "o2",
+      "status": "sintesi",
+      "label": "Legno, canne e fibre erano impiegati in carpenteria e coperture."
+    },
+    {
+      "source": "m3",
+      "target": "o3",
+      "status": "documentato",
+      "label": "Argilla, intonaco e pigmenti erano applicati alle superfici."
+    },
+    {
+      "source": "m3",
+      "target": "o0",
+      "status": "documentato",
+      "label": "L’argilla era anche materia prima per gli adobes."
+    },
+    {
+      "source": "o0",
+      "target": "c0",
+      "status": "documentato",
+      "label": "La posa degli adobes formava muri, terrazze e rampe."
+    },
+    {
+      "source": "o0",
+      "target": "c1",
+      "status": "documentato",
+      "label": "Adobes e terra contribuivano a pavimenti e cortili."
+    },
+    {
+      "source": "o1",
+      "target": "c0",
+      "status": "documentato",
+      "label": "Fondazioni e contenimenti sostenevano muri, terrazze e rampe."
+    },
+    {
+      "source": "o1",
+      "target": "c1",
+      "status": "documentato",
+      "label": "Pietrame e riempimenti formavano basi di pavimenti e cortili."
+    },
+    {
+      "source": "o2",
+      "target": "c2",
+      "status": "sintesi",
+      "label": "Carpenteria e fibre formavano tetti e chiusure leggere."
+    },
+    {
+      "source": "o2",
+      "target": "c0",
+      "status": "inferito",
+      "label": "Architravi e sostegni lignei erano integrati nelle murature."
+    },
+    {
+      "source": "o3",
+      "target": "c3",
+      "status": "documentato",
+      "label": "Intonacatura, pittura e rilievo producevano facciate e superfici rituali."
+    },
+    {
+      "source": "o3",
+      "target": "c0",
+      "status": "documentato",
+      "label": "Gli intonaci rivestivano muri e rampe."
+    },
+    {
+      "source": "o3",
+      "target": "c1",
+      "status": "documentato",
+      "label": "Pavimenti e cortili potevano ricevere finiture e pitture."
+    },
+    {
+      "source": "c0",
+      "target": "s0",
+      "status": "documentato",
+      "label": "Muri, terrazze e rampe costituivano templi e piattaforme."
+    },
+    {
+      "source": "c0",
+      "target": "s1",
+      "status": "sintesi",
+      "label": "Recinti per offerte e pellegrini erano delimitati da murature."
+    },
+    {
+      "source": "c0",
+      "target": "s2",
+      "status": "documentato",
+      "label": "Muri e terrazze definivano depositi e ambienti di servizio."
+    },
+    {
+      "source": "c0",
+      "target": "s3",
+      "status": "documentato",
+      "label": "Murature e piattaforme erano presenti nelle aree funerarie."
+    },
+    {
+      "source": "c1",
+      "target": "s0",
+      "status": "documentato",
+      "label": "Pavimenti e cortili organizzavano gli spazi templari."
+    },
+    {
+      "source": "c1",
+      "target": "s1",
+      "status": "sintesi",
+      "label": "I recinti per pellegrini comprendevano cortili e superfici pavimentate."
+    },
+    {
+      "source": "c1",
+      "target": "s2",
+      "status": "documentato",
+      "label": "Pavimenti e cortili servivano depositi e ambienti di servizio."
+    },
+    {
+      "source": "c1",
+      "target": "s3",
+      "status": "documentato",
+      "label": "Pavimenti e cortili erano presenti nei complessi funerari."
+    },
+    {
+      "source": "c2",
+      "target": "s0",
+      "status": "sintesi",
+      "label": "Tetti e chiusure leggere coprivano ambienti dei templi."
+    },
+    {
+      "source": "c2",
+      "target": "s1",
+      "status": "sintesi",
+      "label": "Strutture leggere proteggevano spazi di offerta e accoglienza."
+    },
+    {
+      "source": "c2",
+      "target": "s2",
+      "status": "sintesi",
+      "label": "Depositi e ambienti di servizio richiedevano coperture."
+    },
+    {
+      "source": "c3",
+      "target": "s0",
+      "status": "documentato",
+      "label": "Facciate dipinte e superfici rituali caratterizzavano i templi."
+    },
+    {
+      "source": "c3",
+      "target": "s1",
+      "status": "sintesi",
+      "label": "Superfici decorate segnalavano recinti e percorsi rituali."
+    },
+    {
+      "source": "c3",
+      "target": "s3",
+      "status": "documentato",
+      "label": "Pitture e finiture erano impiegate anche in contesti funerari."
+    }
+  ]
+}

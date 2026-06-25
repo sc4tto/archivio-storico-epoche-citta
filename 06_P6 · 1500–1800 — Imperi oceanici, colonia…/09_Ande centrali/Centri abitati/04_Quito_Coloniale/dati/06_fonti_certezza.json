@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Quito fu fondata dagli spagnoli nel 1534.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "QU1; QU2"
+  },
+  {
+    "claim": "La città divenne sede di una audiencia nel 1563.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "QU2; QU4"
+  },
+  {
+    "claim": "Il centro storico conserva un vasto complesso di chiese e conventi coloniali.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "QU1; QU3"
+  },
+  {
+    "claim": "Obrajes tessili e botteghe artistiche sostennero l’economia urbana.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "QU3; QU4"
+  },
+  {
+    "claim": "Terremoti ed eruzioni influenzarono ricostruzioni e tecniche edilizie.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "QU1; QU2"
+  },
+  {
+    "claim": "Le reti commerciali collegavano altopiani, costa pacifica e città andine.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "QU4; QU5"
+  },
+  {
+    "claim": "Tributo e lavoro coercitivo pesarono sulle comunità indigene.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "QU4"
+  },
+  {
+    "claim": "Le trasformazioni repubblicane successive al 1800 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "QU2"
+  }
+]

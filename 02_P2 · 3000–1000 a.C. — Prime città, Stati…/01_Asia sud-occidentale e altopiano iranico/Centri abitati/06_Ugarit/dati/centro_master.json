@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Ugarit — modulo multi-grafo",
+    "short_name": "Ugarit",
+    "site": "Ugarit / Ras Shamra",
+    "modern_location": "Governatorato di Latakia, Siria",
+    "coordinates": {
+      "lat": 35.602,
+      "lon": 35.785
+    },
+    "scope": "Capitale costiera del Bronzo recente, con palazzo reale, templi, quartieri residenziali, archivi multilingui, scrittura alfabetica cuneiforme e collegamenti commerciali con Mediterraneo, Siria interna ed Egitto.",
+    "version": "1.0-blocco_14_p2_asia_so_completamento_5_centri_v1",
+    "warning": "Il modulo privilegia le fasi del II millennio a.C. La città fu distrutta all’inizio del XII secolo a.C.; il rapporto preciso tra crisi interna, terremoti, guerre e collasso delle reti resta discusso."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "UGARIT_UNESCO",
+      "title": "UNESCO — Ugarit (Tell Shamra), Tentative List",
+      "url": "https://whc.unesco.org/en/tentativelists/1292/",
+      "use": "urbanistica, palazzo, templi, economia e scrittura"
+    },
+    {
+      "id": "UGARIT_RSTI",
+      "title": "University of Chicago — Ras Shamra Tablet Inventory",
+      "url": "https://voices.uchicago.edu/rsti/",
+      "use": "catalogo delle tavolette e degli oggetti iscritti"
+    },
+    {
+      "id": "UGARIT_MISSION",
+      "title": "Mission archéologique syro-française de Ras Shamra–Ougarit",
+      "url": "https://www.ugarit-france.org/",
+      "use": "storia degli scavi e quadro archeologico"
+    }
+  ]
+}

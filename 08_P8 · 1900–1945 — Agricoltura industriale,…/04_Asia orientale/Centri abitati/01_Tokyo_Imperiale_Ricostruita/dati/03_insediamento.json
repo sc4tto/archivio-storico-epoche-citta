@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1900–1909",
+    "1910–1918",
+    "1919–1928",
+    "1929–1938",
+    "1939–1945"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Elettrificazione, tram e crescita industriale",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Annessione della Corea e consolidamento della capitale imperiale",
+      "lane": "Politica",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Terremoto e incendi del Kantō del 1923",
+      "lane": "Rischi",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Ricostruzione con strade, ponti, parchi e riordino fondiario",
+      "lane": "Urbanistica",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Espansione della Grande Tokyo nel 1932",
+      "lane": "Urbanistica",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Militarizzazione, razionamento e controllo sociale",
+      "lane": "Politica",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Bombardamenti e distruzioni del 1944–1945",
+      "lane": "Conflitti",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Occupazione e ricostruzione postbellica escluse",
+      "lane": "Cronologia",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

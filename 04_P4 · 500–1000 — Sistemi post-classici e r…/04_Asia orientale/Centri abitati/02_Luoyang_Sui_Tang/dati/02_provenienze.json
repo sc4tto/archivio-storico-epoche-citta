@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Luoyang Sui–Tang",
+      "lat": 34.6197,
+      "lon": 112.454,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "luo",
+      "label": "Fiume Luo e canali urbani",
+      "lat": 34.64,
+      "lon": 112.42,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "changan",
+      "label": "Chang’an",
+      "lat": 34.34,
+      "lon": 108.94,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "canal",
+      "label": "Grande Canale verso sud-est",
+      "lat": 33.0,
+      "lon": 117.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "longmen",
+      "label": "Longmen",
+      "lat": 34.47,
+      "lon": 112.47,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "hebei",
+      "label": "Pianura della Cina settentrionale",
+      "lat": 36.0,
+      "lon": 115.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "luo",
+      "target": "site",
+      "label": "acqua, trasporti e rifornimenti",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "changan",
+      "target": "site",
+      "label": "corte, funzionari e rivalità di capitale",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "canal",
+      "target": "site",
+      "label": "cereali fiscali, merci e persone",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "longmen",
+      "target": "site",
+      "label": "pellegrinaggi, patronato e artigiani",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "hebei",
+      "target": "site",
+      "label": "grano, cavalli e truppe",
+      "status": "sintesi",
+      "food": "sì"
+    }
+  ]
+}

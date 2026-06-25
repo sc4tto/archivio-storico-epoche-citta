@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Le principali opere in terra furono costruite da comunità Hopewell",
+    "theme": "Identità",
+    "status": "documentato",
+    "source": "HOPEWELL_UNESCO"
+  },
+  {
+    "claim": "Il sito fu realizzato in più fasi nell’arco di secoli",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "HOPEWELL_LYNOTT"
+  },
+  {
+    "claim": "I terrapieni seguono il margine di un promontorio sulla valle",
+    "theme": "Paesaggio",
+    "status": "documentato",
+    "source": "HOPEWELL_UNESCO"
+  },
+  {
+    "claim": "Fort Ancient era certamente una fortezza militare",
+    "theme": "Funzione",
+    "status": "non_documentato",
+    "source": "Interpretazione cerimoniale"
+  },
+  {
+    "claim": "La cultura Fort Ancient più tarda diede il nome moderno al sito",
+    "theme": "Storiografia",
+    "status": "documentato",
+    "source": "Storia della ricerca"
+  },
+  {
+    "claim": "Il Moorehead Circle conserva tracce di strutture lignee rituali",
+    "theme": "Archeologia",
+    "status": "documentato",
+    "source": "HOPEWELL_LYNOTT"
+  },
+  {
+    "claim": "Il complesso appartiene al sito seriale UNESCO",
+    "theme": "Tutela",
+    "status": "documentato",
+    "source": "HOPEWELL_NPS"
+  },
+  {
+    "claim": "Tutte le porte avevano la stessa funzione",
+    "theme": "Interpretazione",
+    "status": "non_documentato",
+    "source": "Funzioni diversificate o ignote"
+  }
+]

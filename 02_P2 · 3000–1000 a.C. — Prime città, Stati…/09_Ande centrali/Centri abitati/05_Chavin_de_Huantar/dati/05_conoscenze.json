@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Chavín de Huántar",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Terrazze e piazze",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Gallerie",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Drenaggi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Scultura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Pietra lavorata",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Iconografia zoomorfa",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Cronologia di ogni pezzo",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Idraulica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Canali interni",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Controllo dell’acqua",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_3",
+          "label": "Effetti acustici",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Pellegrinaggio",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Visitatori regionali",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_2",
+          "label": "Beni da più regioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Oracolo",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Agricoltura",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Colture d’altura",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_2",
+          "label": "Camelidi",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Redistribuzione",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Organizzazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Specialisti rituali",
+          "status": "inferito"
+        },
+        {
+          "id": "k6_2",
+          "label": "Coordinamento edilizio",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_3",
+          "label": "Impero territoriale",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

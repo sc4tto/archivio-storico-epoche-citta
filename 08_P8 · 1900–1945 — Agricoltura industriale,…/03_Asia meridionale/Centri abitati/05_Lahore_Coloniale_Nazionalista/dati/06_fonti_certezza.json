@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Lahore fu capitale amministrativa e culturale del Punjab britannico.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "LA2; LA3"
+  },
+  {
+    "claim": "La ferrovia collegò la città alle colonie agricole dei canali e a Karachi.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "LA2; LA3"
+  },
+  {
+    "claim": "Università, museo, college e stampa ampliarono la vita intellettuale.",
+    "theme": "cultura",
+    "status": "documentato",
+    "source": "LA4; LA5"
+  },
+  {
+    "claim": "La città murata rimase un importante centro commerciale e residenziale.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "LA1; LA2"
+  },
+  {
+    "claim": "Movimenti nazionalisti e comunitari usarono Lahore come centro politico.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "LA2; LA3"
+  },
+  {
+    "claim": "La Risoluzione di Lahore fu adottata nel 1940.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "LA2; LA3"
+  },
+  {
+    "claim": "Povertà, epidemie e tensioni comunitarie segnarono la crescita urbana.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "LA2; LA3"
+  },
+  {
+    "claim": "Partizione e violenze del 1947 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "LA2"
+  }
+]

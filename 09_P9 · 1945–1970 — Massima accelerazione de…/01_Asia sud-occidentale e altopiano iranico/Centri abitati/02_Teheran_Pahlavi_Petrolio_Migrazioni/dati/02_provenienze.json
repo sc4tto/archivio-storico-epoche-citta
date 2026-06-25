@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Teheran",
+      "lat": 35.6892,
+      "lon": 51.389,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "alb",
+      "label": "Alborz e Shemiran",
+      "lat": 35.85,
+      "lon": 51.45,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "var",
+      "label": "Varamin e pianura agricola",
+      "lat": 35.32,
+      "lon": 51.65,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "kar",
+      "label": "Karaj",
+      "lat": 35.84,
+      "lon": 50.94,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "casp",
+      "label": "Caspio e Mazandaran",
+      "lat": 36.5,
+      "lon": 52.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "khz",
+      "label": "Khuzestan petrolifero",
+      "lat": 31.3,
+      "lon": 48.7,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "tab",
+      "label": "Tabriz e Azerbaigian iraniano",
+      "lat": 38.08,
+      "lon": 46.29,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "alb",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "qanat, strade e condotte",
+      "food": "acqua, frutta, ortaggi e materiali"
+    },
+    {
+      "source": "var",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e mercati",
+      "food": "grano, latte, carne e ortaggi"
+    },
+    {
+      "source": "kar",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e autostrada",
+      "food": "industrie, lavoratori e prodotti agricoli"
+    },
+    {
+      "source": "casp",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade montane",
+      "food": "riso, tè, pesce e legname"
+    },
+    {
+      "source": "khz",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "oleodotti, ferrovia e finanza statale",
+      "food": "entrate petrolifere, carburanti e investimenti"
+    },
+    {
+      "source": "tab",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e strade",
+      "food": "manufatti, commercianti e migranti"
+    }
+  ]
+}

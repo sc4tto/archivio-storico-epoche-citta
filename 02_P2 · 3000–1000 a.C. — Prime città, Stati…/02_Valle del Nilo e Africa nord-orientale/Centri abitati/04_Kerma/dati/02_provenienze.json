@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Kerma",
+      "lat": 19.6,
+      "lon": 30.41,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "nile",
+      "label": "Nilo e terza cateratta",
+      "lat": 19.58,
+      "lon": 30.42,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "dukki",
+      "label": "Dukki Gel",
+      "lat": 19.61,
+      "lon": 30.42,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "necropolis",
+      "label": "Necropoli orientale",
+      "lat": 19.6,
+      "lon": 30.45,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "egypt",
+      "label": "Egitto e seconda cateratta",
+      "lat": 21.9,
+      "lon": 31.3,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "africa",
+      "label": "Africa interna e Mar Rosso",
+      "lat": 16.0,
+      "lon": 35.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "nile",
+      "target": "site",
+      "label": "acqua, pesca e trasporto",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "dukki",
+      "target": "site",
+      "label": "culto, palazzi e fasi successive",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "necropolis",
+      "target": "site",
+      "label": "riti funerari e memoria dinastica",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "egypt",
+      "target": "site",
+      "label": "guerra, scambio e diplomazia",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "africa",
+      "target": "site",
+      "label": "oro, bestiame, avorio e beni esotici",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

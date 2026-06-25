@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Ninive",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Ingegneria",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Acquedotti",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Canali",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Gestione delle pendenze",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Scrittura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Cuneiforme",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Catalogazione dei testi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Copiatura e commento",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Edilizia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Mattoni crudi",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Rilievi in alabastro",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Grandi portali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Amministrazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Tributi",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Razioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Corrispondenza imperiale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Arte",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Rilievi narrativi",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Lamassu",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Iconografia reale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Società",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Corte imperiale",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Artigiani specializzati",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Popolazione urbana precisa",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

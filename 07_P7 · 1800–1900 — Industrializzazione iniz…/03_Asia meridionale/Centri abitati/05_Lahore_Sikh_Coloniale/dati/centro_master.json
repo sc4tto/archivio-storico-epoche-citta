@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Lahore sikh e coloniale",
+    "site": "Lahore sikh e coloniale",
+    "modern_location": "Lahore, Pakistan",
+    "coordinates": {
+      "lat": 31.5889,
+      "lon": 74.3108
+    },
+    "scope": "Lahore fra 1800 e 1900: capitale sikh, poi sede amministrativa britannica del Punjab, nodo della Grand Trunk Road e delle ferrovie, con forti continuità artigiane e religiose.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. La partizione del 1947, l’espansione novecentesca e le trasformazioni metropolitane contemporanee sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "LA1",
+      "title": "UNESCO — Fort and Shalamar Gardens in Lahore",
+      "use": "Monumenti moghul, trasformazioni sikh e coloniali.",
+      "url": "https://whc.unesco.org/en/list/171/"
+    },
+    {
+      "id": "LA2",
+      "title": "Encyclopaedia Britannica — Lahore",
+      "use": "Storia sikh, annessione britannica e sviluppo urbano.",
+      "url": "https://www.britannica.com/place/Lahore"
+    },
+    {
+      "id": "LA3",
+      "title": "Lahore Museum — Official site",
+      "use": "Collezioni, museo e cultura materiale del Punjab.",
+      "url": "https://lahoremuseum.punjab.gov.pk/"
+    },
+    {
+      "id": "LA4",
+      "title": "Punjab Archives, Pakistan",
+      "use": "Documenti amministrativi e cartografia del Punjab.",
+      "url": "https://archives.punjab.gov.pk/"
+    },
+    {
+      "id": "LA5",
+      "title": "Pakistan Railways — Heritage",
+      "use": "Ferrovia, stazione e officine di Lahore.",
+      "url": "https://www.pakrail.gov.pk/"
+    }
+  ]
+}

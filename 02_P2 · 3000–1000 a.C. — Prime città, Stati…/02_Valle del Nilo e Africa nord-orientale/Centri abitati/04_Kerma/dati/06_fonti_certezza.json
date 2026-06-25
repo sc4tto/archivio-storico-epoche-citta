@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Kerma fu la capitale del primo grande regno di Nubia",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "KERMA_MISSION"
+  },
+  {
+    "claim": "La città era dominata da una grande struttura templare in mattoni crudi",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "KERMA_ISAC"
+  },
+  {
+    "claim": "Sono documentati palazzo, sala di udienza, laboratori e necropoli",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "KERMA_ISAC"
+  },
+  {
+    "claim": "La cultura di Kerma si estese per un ampio tratto della Nubia",
+    "theme": "Territorio",
+    "status": "documentato",
+    "source": "KERMA_ISAC"
+  },
+  {
+    "claim": "I rapporti con l’Egitto comprendevano conflitto, scambio e diplomazia",
+    "theme": "Relazioni",
+    "status": "documentato",
+    "source": "KERMA_ISAC"
+  },
+  {
+    "claim": "Kerma era una colonia egiziana durante tutto il P2",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Regno nubiano autonomo"
+  },
+  {
+    "claim": "Ogni grande tumulo appartiene a un sovrano identificato per nome",
+    "theme": "Funerario",
+    "status": "non_documentato",
+    "source": "Identificazioni limitate"
+  },
+  {
+    "claim": "La presenza di oggetti egiziani prova sempre controllo egiziano",
+    "theme": "Interpretazione",
+    "status": "non_documentato",
+    "source": "Scambi e appropriazioni culturali plurali"
+  }
+]

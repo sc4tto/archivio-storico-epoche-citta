@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Nenumbo è un sito Lapita delle isole Santa Cruz",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "NEN_GREEN"
+  },
+  {
+    "claim": "La datazione deve considerare l’effetto serbatoio marino",
+    "theme": "Metodo",
+    "status": "documentato",
+    "source": "NEN_RADIO"
+  },
+  {
+    "claim": "Il sito conserva ceramica dentellata e comune",
+    "theme": "Ceramica",
+    "status": "documentato",
+    "source": "NEN_LAPITA"
+  },
+  {
+    "claim": "Sono documentati strumenti e ornamenti in conchiglia",
+    "theme": "Artigianato",
+    "status": "documentato",
+    "source": "NEN_GREEN"
+  },
+  {
+    "claim": "Nenumbo partecipava alle rotte dell’espansione Lapita verso est",
+    "theme": "Navigazione",
+    "status": "sintesi",
+    "source": "NEN_LAPITA"
+  },
+  {
+    "claim": "Il villaggio aveva una popolazione numericamente nota",
+    "theme": "Demografia",
+    "status": "non_documentato",
+    "source": "Estensione incompleta"
+  },
+  {
+    "claim": "Le strutture su pali erano tutte contemporanee",
+    "theme": "Edilizia",
+    "status": "non_documentato",
+    "source": "Sequenza non completa"
+  },
+  {
+    "claim": "La lingua degli abitanti è direttamente attestata",
+    "theme": "Lingua",
+    "status": "non_documentato",
+    "source": "Inferenza linguistica"
+  }
+]

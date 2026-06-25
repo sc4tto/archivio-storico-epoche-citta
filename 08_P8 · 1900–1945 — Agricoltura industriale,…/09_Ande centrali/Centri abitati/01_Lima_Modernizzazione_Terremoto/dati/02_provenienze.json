@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Lima",
+      "lat": -12.0464,
+      "lon": -77.0428,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "cal",
+      "label": "Callao e litorale",
+      "lat": -12.0566,
+      "lon": -77.1181,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "rim",
+      "label": "Valle del Rímac",
+      "lat": -11.95,
+      "lon": -76.75,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "lur",
+      "label": "Lurín e valli meridionali",
+      "lat": -12.27,
+      "lon": -76.87,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "jun",
+      "label": "Junín e altopiani centrali",
+      "lat": -11.5,
+      "lon": -75.2,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "ica",
+      "label": "Ica e costa meridionale",
+      "lat": -14.1,
+      "lon": -75.7,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "nor",
+      "label": "Costa settentrionale e mercati esteri",
+      "lat": -8.0,
+      "lon": -79.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "cal",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto, ferrovia e strada",
+      "food": "pesce, importazioni, carbone e macchinari"
+    },
+    {
+      "source": "rim",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiume, acequias e ferrovia",
+      "food": "acqua, ortaggi, frutta e materiali"
+    },
+    {
+      "source": "lur",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade costiere",
+      "food": "verdure, bestiame, latte e legname"
+    },
+    {
+      "source": "jun",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Ferrocarril Central",
+      "food": "patate, cereali, lana e minerali"
+    },
+    {
+      "source": "ica",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e Panamericana iniziale",
+      "food": "cotone, vino, frutta e zucchero"
+    },
+    {
+      "source": "nor",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cabotaggio e ferrovie",
+      "food": "zucchero, riso, cotone e merci oceaniche"
+    }
+  ]
+}

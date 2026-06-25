@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Antica Dongola",
+      "lat": 18.25,
+      "lon": 30.75,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "nile",
+      "label": "Nilo e isole agricole",
+      "lat": 18.24,
+      "lon": 30.74,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "fustat",
+      "label": "Fustat",
+      "lat": 30.005,
+      "lon": 31.23,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "faras",
+      "label": "Faras e Nobadia",
+      "lat": 22.2,
+      "lon": 31.5,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "soba",
+      "label": "Soba",
+      "lat": 15.54,
+      "lon": 32.65,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "darfur",
+      "label": "Darfur e Kordofan",
+      "lat": 13.5,
+      "lon": 24.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "nile",
+      "target": "site",
+      "label": "acqua, cereali, pesce e trasporto",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "faras",
+      "target": "site",
+      "label": "clero, artigiani e reti nubiane",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "fustat",
+      "target": "site",
+      "label": "tributi, tessili, vino e diplomazia",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "soba",
+      "target": "site",
+      "label": "contatti fra regni cristiani",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "darfur",
+      "target": "site",
+      "label": "carovane e prodotti dell’interno",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

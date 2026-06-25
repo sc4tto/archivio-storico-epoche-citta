@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Tardo Pleistocene",
+    "Sepoltura umana",
+    "Primo Olocene",
+    "Uso tropicale ricorrente",
+    "Fasi ceramiche successive"
+  ],
+  "items": [
+    {
+      "id": "shelter",
+      "label": "Frequentazione del riparo",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "ash",
+      "label": "Focolari e pavimenti di cenere",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "burial",
+      "label": "Deposizione del defunto",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "lithics",
+      "label": "Produzione intensiva di strumenti litici",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "plants",
+      "label": "Uso di frutti e piante tropicali",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "fauna",
+      "label": "Caccia e trattamento della fauna",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ceramics",
+      "label": "Comparsa tardiva della ceramica",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

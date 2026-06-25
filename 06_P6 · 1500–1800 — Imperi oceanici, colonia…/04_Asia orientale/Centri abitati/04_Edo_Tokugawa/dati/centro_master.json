@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Edo Tokugawa",
+    "site": "Edo Tokugawa",
+    "modern_location": "Tokyo, Giappone",
+    "coordinates": {
+      "lat": 35.6762,
+      "lon": 139.6503
+    },
+    "scope": "Edo fra 1500 e 1800: trasformazione da castello regionale a capitale politica Tokugawa, metropoli di samurai, mercanti e artigiani, porto della baia e centro di cultura urbana.",
+    "version": "1.0",
+    "warning": "Il modulo include le origini cinquecentesche e lo sviluppo Tokugawa fino al 1800. La restaurazione Meiji, il nome Tokyo e la modernizzazione successiva sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "ED1",
+      "title": "Encyclopaedia Britannica — Tokyo: History",
+      "use": "Sviluppo di Edo, shogunato Tokugawa e crescita urbana.",
+      "url": "https://www.britannica.com/place/Tokyo/History"
+    },
+    {
+      "id": "ED2",
+      "title": "The Metropolitan Museum of Art — Art of the Edo Period",
+      "use": "Cultura materiale, stampa, arti e società urbana Tokugawa.",
+      "url": "https://www.metmuseum.org/toah/hd/edop/hd_edop.htm"
+    },
+    {
+      "id": "ED3",
+      "title": "Edo-Tokyo Museum",
+      "use": "Storia urbana, vita quotidiana e trasformazioni di Edo.",
+      "url": "https://www.edo-tokyo-museum.or.jp/en/"
+    },
+    {
+      "id": "ED4",
+      "title": "National Diet Library — The Landmarks of Edo",
+      "use": "Mappe, vedute e paesaggio urbano di Edo.",
+      "url": "https://www.ndl.go.jp/landmarks/e/"
+    },
+    {
+      "id": "ED5",
+      "title": "Tokyo National Museum",
+      "use": "Architettura, arti e cultura materiale del Giappone Tokugawa.",
+      "url": "https://www.tnm.jp/?lang=en"
+    }
+  ]
+}

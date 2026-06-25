@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Srivijaya fu un regno marittimo e commerciale sviluppatosi dal VII secolo e associato a Palembang.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "P1"
+  },
+  {
+    "claim": "Il controllo del commercio internazionale e dello stretto di Malacca fu una base della sua potenza.",
+    "theme": "commercio",
+    "status": "documentato",
+    "source": "P1"
+  },
+  {
+    "claim": "Palembang fu un importante centro buddhista e tappa per pellegrini diretti in India.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "P1; P5"
+  },
+  {
+    "claim": "Le iscrizioni di Kedukan Bukit e Talang Tuo attestano il potere regio nel 683–684.",
+    "theme": "epigrafia",
+    "status": "documentato",
+    "source": "P2; P3"
+  },
+  {
+    "claim": "L’abitato comprendeva strutture lignee e forse case su acqua o palafitte.",
+    "theme": "insediamento",
+    "status": "inferito",
+    "source": "P4; confronto ambientale"
+  },
+  {
+    "claim": "Karanganyar conserva tracce di canali, fossati e insediamento connessi a Srivijaya.",
+    "theme": "acqua",
+    "status": "sintesi",
+    "source": "P4"
+  },
+  {
+    "claim": "Riso, pesce e fecole tropicali costituivano una base alimentare plausibile.",
+    "theme": "alimentazione",
+    "status": "inferito",
+    "source": "confronto regionale; archeologia ambientale"
+  },
+  {
+    "claim": "La forma precisa della capitale e l’estensione del centro politico restano oggetto di discussione.",
+    "theme": "certezza",
+    "status": "documentato",
+    "source": "P4"
+  }
+]

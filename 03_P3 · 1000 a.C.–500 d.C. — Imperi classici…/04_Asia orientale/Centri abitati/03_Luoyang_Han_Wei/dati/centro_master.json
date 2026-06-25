@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Luoyang Han–Wei — modulo multi-grafo",
+    "short_name": "Luoyang Han–Wei",
+    "site": "Città di Luoyang degli Han orientali, Wei, Jin e Wei settentrionali",
+    "modern_location": "Luoyang, Henan, Cina",
+    "coordinates": {
+      "lat": 34.735,
+      "lon": 112.625
+    },
+    "scope": "Capitale degli Han orientali e, in fasi successive, di regimi Wei, Jin e Wei settentrionali, con palazzi, asse urbano, accademie, mercati, quartieri, templi e collegamenti carovanieri.",
+    "version": "1.0-blocco_29_p3_asia_orientale_5_centri_v1",
+    "warning": "Le strutture visibili appartengono a fasi differenti e non devono essere fuse in un’unica pianta. Il modulo si arresta al 500 d.C.; sviluppi successivi della città sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "LUO_UNESCO",
+      "title": "UNESCO — Silk Roads: Chang’an-Tianshan Corridor",
+      "url": "https://whc.unesco.org/en/list/1442/",
+      "use": "Luoyang, capitali Han e corridoio della Via della Seta"
+    },
+    {
+      "id": "LUO_MET",
+      "title": "Metropolitan Museum — Han Dynasty",
+      "url": "https://www.metmuseum.org/essays/han-dynasty-206-b-c-220-a-d",
+      "use": "Luoyang orientata su asse, palazzi e traffici Han"
+    },
+    {
+      "id": "LUO_BOOK",
+      "title": "Albert Dien — Six Dynasties Civilization",
+      "url": "https://search.worldcat.org/search?q=Six+Dynasties+Civilization",
+      "use": "Luoyang, Wei-Jin e trasformazioni tardoantiche"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Città del Messico repubblicana e porfiriana",
+    "site": "Città del Messico repubblicana e porfiriana",
+    "modern_location": "Città del Messico, Messico",
+    "coordinates": {
+      "lat": 19.4326,
+      "lon": -99.1332
+    },
+    "scope": "Città del Messico fra 1800 e 1900: fine del vicereame, indipendenza, repubbliche e imperi, Reforma, interventi stranieri, crescita ferroviaria, opere idrauliche, espansione urbana e trasformazione dei mercati.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Rivoluzione messicana, grandi viali novecenteschi, metropolitana e metropolizzazione contemporanea sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MC1",
+      "title": "UNESCO — Historic Centre of Mexico City and Xochimilco",
+      "use": "Palinsesto urbano, architettura e paesaggio lacustre.",
+      "url": "https://whc.unesco.org/en/list/412/"
+    },
+    {
+      "id": "MC2",
+      "title": "Encyclopaedia Britannica — Mexico City",
+      "use": "Storia politica e crescita della capitale.",
+      "url": "https://www.britannica.com/place/Mexico-City"
+    },
+    {
+      "id": "MC3",
+      "title": "Instituto Nacional de Antropología e Historia",
+      "use": "Patrimonio storico, archeologia e monumenti.",
+      "url": "https://www.inah.gob.mx/"
+    },
+    {
+      "id": "MC4",
+      "title": "Instituto Nacional de Estudios Históricos de las Revoluciones de México",
+      "use": "Indipendenza, Reforma e Porfiriato.",
+      "url": "https://www.inehrm.gob.mx/"
+    },
+    {
+      "id": "MC5",
+      "title": "Archivo General de la Nación de México",
+      "use": "Mappe, amministrazione, infrastrutture e società.",
+      "url": "https://www.gob.mx/agn"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Lago pieno e prime presenze",
+    "Occupazioni pleistoceniche",
+    "Rituali funerari",
+    "Inaridimento e mobilità",
+    "Paesaggio culturale continuo"
+  ],
+  "items": [
+    {
+      "id": "hearths",
+      "label": "Focolari lungo le antiche rive",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "fish",
+      "label": "Pesca e raccolta lacustre",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "grind",
+      "label": "Macinazione di semi",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "burials",
+      "label": "Sepolture con pratiche rituali",
+      "lane": "Funerarie",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ochre",
+      "label": "Uso rituale dell’ocra",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "drying",
+      "label": "Adattamento al prosciugamento",
+      "lane": "Territorio",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "erosion",
+      "label": "Erosione ed esposizione dei depositi",
+      "lane": "Formazione",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

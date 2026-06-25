@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1800–1820",
+    "1820–1840",
+    "1840–1860",
+    "1860–1880",
+    "1880–1900"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Ingresso di Miguel Hidalgo e fase insurrezionale del 1810",
+      "lane": "Politica",
+      "start": 0,
+      "end": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Guadalajara capitale dello Stato di Jalisco",
+      "lane": "Politica",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Apertura e sviluppo dell’Hospicio Cabañas",
+      "lane": "Istituzioni",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Conflitti fra federalisti, centralisti e liberali",
+      "lane": "Rischi",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Crescita di tessili, concerie, distillerie e mercati",
+      "lane": "Economia",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Ferrovie verso Città del Messico e il Pacifico",
+      "lane": "Infrastrutture",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Espansione urbana oltre il nucleo coloniale",
+      "lane": "Urbanistica",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Metropolizzazione novecentesca esclusa",
+      "lane": "Cronologia",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

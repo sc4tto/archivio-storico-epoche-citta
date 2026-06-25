@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Prime deposizioni funerarie",
+    "Uso intensivo dello stagno",
+    "Tessili e corredi",
+    "Chiusura del cimitero",
+    "Seppellimento nella torba"
+  ],
+  "items": [
+    {
+      "id": "burials",
+      "label": "Deposizioni funerarie nello stagno",
+      "lane": "Rituali",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "stakes",
+      "label": "Pali che fissano i corpi",
+      "lane": "Costruzione",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "textiles",
+      "label": "Tessili e stuoie funerarie",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "tools",
+      "label": "Atlatl, punte e strumenti",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "plants",
+      "label": "Contenitori e materiali vegetali",
+      "lane": "Conservazione",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "community",
+      "label": "Uso comunitario ripetuto",
+      "lane": "Organizzazione",
+      "start": 0,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "peat",
+      "label": "Conservazione nella torba",
+      "lane": "Formazione",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

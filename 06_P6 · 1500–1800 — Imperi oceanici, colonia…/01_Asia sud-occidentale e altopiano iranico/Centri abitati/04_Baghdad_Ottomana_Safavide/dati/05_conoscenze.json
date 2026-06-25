@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Baghdad ottomana e safavide",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Frontiera imperiale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Difesa e fortificazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Alternanza ottomano-safavide",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Idraulica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Canali irrigui e argini",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Navigazione sul Tigri",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Basra e il Golfo",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Carovane persiane e anatoliche",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Mattone e gesso",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Ponti di barche",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Società",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Santuari sciiti e istituzioni sunnite",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Comunità ebraiche e cristiane",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

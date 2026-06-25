@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Napata–Gebel Barkal",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Culto di Amon",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Gebel Barkal",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Templi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Legittimazione regale",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Necropoli",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "El-Kurru",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Nuri",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Piramidi e camere funerarie",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Regalità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Titolatura kushita",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "XXV dinastia",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Successione",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Edilizia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Arenaria",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Mattoni crudi",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Rilievi e statue",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Reti",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Egitto",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Meroe",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Africa interna",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Paesaggio sacro",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Montagna",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Nilo",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Percorsi rituali",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

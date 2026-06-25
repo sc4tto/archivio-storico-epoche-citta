@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Un settore di Maloata ha restituito date comprese circa fra 550 e 1000.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "MA1; MA3"
+  },
+  {
+    "claim": "Il sito comprende muri di pietra, recinzioni e terrazzamenti.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "MA1; MA3"
+  },
+  {
+    "claim": "Pesca, orticoltura e arboricoltura sostenevano la comunità.",
+    "theme": "alimentazione",
+    "status": "sintesi",
+    "source": "MA2; MA5"
+  },
+  {
+    "claim": "Le strutture visibili non devono essere considerate tutte contemporanee.",
+    "theme": "certezza",
+    "status": "documentato",
+    "source": "MA1"
+  },
+  {
+    "claim": "Le reti marittime collegavano i villaggi di Tutuila.",
+    "theme": "commercio",
+    "status": "sintesi",
+    "source": "MA2; MA4"
+  },
+  {
+    "claim": "L’associazione con capi di alto rango deriva anche dalla tradizione orale.",
+    "theme": "politica",
+    "status": "sintesi",
+    "source": "MA1; MA3"
+  },
+  {
+    "claim": "Le case erano in gran parte costruite con materiali deperibili.",
+    "theme": "costruzione",
+    "status": "sintesi",
+    "source": "MA2; MA5"
+  },
+  {
+    "claim": "Il sito mantiene valore culturale per le comunità samoane.",
+    "theme": "continuità",
+    "status": "documentato",
+    "source": "MA1; MA5"
+  }
+]

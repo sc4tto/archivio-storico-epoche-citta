@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1970–1979",
+    "1980–1989",
+    "1990–1999",
+    "2000–2009",
+    "2010–25 giugno 2026"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Trasferimento del mercato da Les Halles a Rungis e ristrutturazione del centro",
+      "lane": "Rigenerazione",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "RER, TGV e grandi nodi intermodali della regione capitale",
+      "lane": "Mobilità",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Deindustrializzazione, terziarizzazione e crescita di La Défense",
+      "lane": "Economia",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Immigrazione postcoloniale, segregazione e crisi delle banlieues",
+      "lane": "Società",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Rivolte del 2005 e risposta securitaria dello Stato",
+      "lane": "Politica",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Grand Paris e cantiere del Grand Paris Express dal 2016",
+      "lane": "Mobilità",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Riduzione del traffico, ciclabilità e città dei quindici minuti",
+      "lane": "Clima",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Piano climatico 2024–2030 e rigenerazione olimpica",
+      "lane": "Pianificazione",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

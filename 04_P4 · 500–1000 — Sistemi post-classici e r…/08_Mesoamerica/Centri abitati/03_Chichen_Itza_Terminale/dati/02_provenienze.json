@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Chichén Itzá",
+      "lat": 20.6843,
+      "lon": -88.5678,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "ik",
+      "label": "Cenote Ik Kil e bacino locale",
+      "lat": 20.66,
+      "lon": -88.55,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "ek",
+      "label": "Ek Balam",
+      "lat": 20.892,
+      "lon": -88.136,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "coba",
+      "label": "Cobá",
+      "lat": 20.492,
+      "lon": -87.732,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "uxmal",
+      "label": "Uxmal",
+      "lat": 20.359,
+      "lon": -89.771,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "coast",
+      "label": "Porti della costa settentrionale",
+      "lat": 21.5,
+      "lon": -88.2,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "tula",
+      "label": "Tula",
+      "lat": 20.064,
+      "lon": -99.341,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "ik",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "approvvigionamento idrico locale",
+      "food": "acqua"
+    },
+    {
+      "source": "ek",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete settentrionale",
+      "food": "ceramiche e prodotti agricoli"
+    },
+    {
+      "source": "coba",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "rapporti politici e commerciali",
+      "food": "beni e persone"
+    },
+    {
+      "source": "uxmal",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "scambi nello Yucatán",
+      "food": "tecniche, ceramiche e prestigio"
+    },
+    {
+      "source": "coast",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte costiere e porti",
+      "food": "sale, pesce e conchiglie"
+    },
+    {
+      "source": "tula",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "reti o mediazioni interregionali",
+      "food": "motivi artistici e beni di prestigio"
+    }
+  ]
+}

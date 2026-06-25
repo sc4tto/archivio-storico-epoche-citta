@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Khartoum, crescita informale, guerra, sfollamenti e ritorni",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Acqua urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Captazione, trattamento, distribuzione e pozzi",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Riparazione d’emergenza e accesso equo",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Alluvioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Idrologia del Nilo, drenaggio e allerta",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Protezione dei quartieri informali e ricostruzione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Reti civiche",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Comitati di quartiere, cucine comunitarie e mutuo aiuto",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Documentazione dei bisogni e protezione dei civili",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Sfollamento e ritorno",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Campi, ospitalità, mobilità e beni perduti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Ritorno volontario, sicurezza e ripristino dei servizi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Ricostruzione postbellica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Valutazione dei danni e priorità sanitarie",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Diritti fondiari, memoria e responsabilità",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

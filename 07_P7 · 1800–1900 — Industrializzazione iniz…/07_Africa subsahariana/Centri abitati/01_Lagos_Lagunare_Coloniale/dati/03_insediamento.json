@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1800–1820",
+    "1820–1840",
+    "1840–1860",
+    "1860–1880",
+    "1880–1900"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Conflitti dinastici e guerre nell’entroterra yoruba",
+      "lane": "Politica",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Crescita del commercio dell’olio di palma",
+      "lane": "Economia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Bombardamento britannico di Lagos nel 1851",
+      "lane": "Trasformazioni",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Annessione britannica del 1861",
+      "lane": "Politica",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Arrivo e crescita di comunità afro-brasiliane e krio",
+      "lane": "Società",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Moli, strade, missioni e nuovi edifici coloniali",
+      "lane": "Infrastrutture",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Segregazione e imposizione amministrativa coloniale",
+      "lane": "Vincoli",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Amalgamazione e metropoli novecentesca escluse",
+      "lane": "Cronologia",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

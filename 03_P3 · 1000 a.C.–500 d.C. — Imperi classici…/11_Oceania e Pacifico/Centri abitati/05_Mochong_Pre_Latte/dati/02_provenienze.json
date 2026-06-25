@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Mochong",
+      "lat": 14.183,
+      "lon": 145.245,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "rota",
+      "label": "Rota settentrionale",
+      "lat": 14.16,
+      "lon": 145.22,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "guam",
+      "label": "Guam",
+      "lat": 13.45,
+      "lon": 144.75,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "saipan",
+      "label": "Saipan",
+      "lat": 15.19,
+      "lon": 145.75,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "philippines",
+      "label": "Filippine settentrionali",
+      "lat": 18.0,
+      "lon": 121.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "carolines",
+      "label": "Isole Caroline",
+      "lat": 7.0,
+      "lon": 151.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "rota",
+      "target": "site",
+      "label": "pietra, legname e orticoltura",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "guam",
+      "target": "site",
+      "label": "ceramiche e mobilità nell’arcipelago",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "saipan",
+      "target": "site",
+      "label": "tradizioni pre-Latte",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "philippines",
+      "target": "site",
+      "label": "ascendenze e tradizioni ceramiche remote",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "carolines",
+      "target": "site",
+      "label": "contatti più tardi",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

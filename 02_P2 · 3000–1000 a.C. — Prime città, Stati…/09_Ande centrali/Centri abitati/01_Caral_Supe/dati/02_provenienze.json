@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Caral-Supe",
+      "lat": -10.891,
+      "lon": -77.52,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "valley",
+      "label": "Media valle del Supe",
+      "lat": -10.88,
+      "lon": -77.55,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "aspero",
+      "label": "Áspero e costa",
+      "lat": -10.81,
+      "lon": -77.74,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "pativilca",
+      "label": "Valli Pativilca e Fortaleza",
+      "lat": -10.7,
+      "lon": -77.45,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "highlands",
+      "label": "Altopiani andini",
+      "lat": -10.7,
+      "lon": -76.8,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "east",
+      "label": "Versante orientale",
+      "lat": -10.2,
+      "lon": -75.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "valley",
+      "target": "site",
+      "label": "cotone, colture, acqua e legname",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "aspero",
+      "target": "site",
+      "label": "pesce, molluschi e sale",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "pativilca",
+      "target": "site",
+      "label": "rete di centri monumentali",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "highlands",
+      "target": "site",
+      "label": "pietra e prodotti d’altura",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "east",
+      "target": "site",
+      "label": "beni esotici e connessioni",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

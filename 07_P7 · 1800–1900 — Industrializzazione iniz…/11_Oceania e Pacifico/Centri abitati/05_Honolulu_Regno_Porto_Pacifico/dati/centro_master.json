@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Honolulu, regno hawaiano e porto del Pacifico",
+    "site": "Honolulu, regno hawaiano e porto del Pacifico",
+    "modern_location": "Honolulu, Hawaiʻi",
+    "coordinates": {
+      "lat": 21.3069,
+      "lon": -157.8583
+    },
+    "scope": "Honolulu fra 1800 e 1900: consolidamento come capitale, porto baleniero e commerciale, influenza missionaria e mercantile, piantagioni, lavoro migrante, monarchia hawaiana, crisi sanitaria, colpo di Stato del 1893 e annessione del 1898.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Pearl Harbor novecentesca, turismo di massa, stato federato del 1959 e Honolulu contemporanea sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "HO1",
+      "title": "ʻIolani Palace — History",
+      "use": "Monarchia hawaiana, palazzo e rovesciamento.",
+      "url": "https://www.iolanipalace.org/history/"
+    },
+    {
+      "id": "HO2",
+      "title": "Bishop Museum",
+      "use": "Storia hawaiana, cultura materiale e società indigena.",
+      "url": "https://www.bishopmuseum.org/"
+    },
+    {
+      "id": "HO3",
+      "title": "National Park Service — Hawaiian history",
+      "use": "Monarchia, annessione e contesto politico.",
+      "url": "https://www.nps.gov/"
+    },
+    {
+      "id": "HO4",
+      "title": "Hawaiʻi State Archives",
+      "use": "Fonti del regno, governo e annessione.",
+      "url": "https://ags.hawaii.gov/archives/"
+    },
+    {
+      "id": "HO5",
+      "title": "University of Hawaiʻi — Hawaiian collections",
+      "use": "Ricerca su piantagioni, lavoro e società.",
+      "url": "https://manoa.hawaii.edu/"
+    }
+  ]
+}

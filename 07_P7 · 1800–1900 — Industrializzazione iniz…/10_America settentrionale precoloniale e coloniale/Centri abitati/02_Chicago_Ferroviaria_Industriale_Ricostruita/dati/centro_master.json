@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Chicago ferroviaria, industriale e ricostruita",
+    "site": "Chicago ferroviaria, industriale e ricostruita",
+    "modern_location": "Chicago, Stati Uniti",
+    "coordinates": {
+      "lat": 41.8781,
+      "lon": -87.6298
+    },
+    "scope": "Chicago fra 1800 e 1900: fondazione municipale, canale Illinois–Michigan, ferrovie, grain elevators, Union Stock Yards, incendio del 1871, ricostruzione, scioperi, World’s Columbian Exposition e architettura commerciale.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Piano Burnham del 1909, grandi autostrade, skyline novecentesco e suburbanizzazione automobilistica sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "CH1",
+      "title": "Chicago History Museum",
+      "use": "Storia urbana, incendio, immigrazione e lavoro.",
+      "url": "https://www.chicagohistory.org/"
+    },
+    {
+      "id": "CH2",
+      "title": "Encyclopedia of Chicago",
+      "use": "Industria, ferrovie, quartieri e infrastrutture.",
+      "url": "http://www.encyclopedia.chicagohistory.org/"
+    },
+    {
+      "id": "CH3",
+      "title": "National Park Service — Pullman",
+      "use": "Città industriale, lavoro e conflitto sociale.",
+      "url": "https://www.nps.gov/pull/"
+    },
+    {
+      "id": "CH4",
+      "title": "Chicago Architecture Center",
+      "use": "Ricostruzione e architettura commerciale.",
+      "url": "https://www.architecture.org/"
+    },
+    {
+      "id": "CH5",
+      "title": "Library of Congress — Great Chicago Fire",
+      "use": "Fonti e cartografia sull’incendio del 1871.",
+      "url": "https://www.loc.gov/"
+    }
+  ]
+}

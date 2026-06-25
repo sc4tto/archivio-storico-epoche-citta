@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Surat, porto moghul",
+    "site": "Surat, porto moghul",
+    "modern_location": "Surat, Gujarat, India",
+    "coordinates": {
+      "lat": 21.1702,
+      "lon": 72.8311
+    },
+    "scope": "Surat fra 1500 e 1800: porto del Gujarat e dell’Impero moghul, commercio oceanico, pellegrinaggio, compagnie europee, mercanti armeni, musulmani, hindu e jain, cantieri e quartieri portuali.",
+    "version": "1.0",
+    "warning": "Il modulo distingue la prosperità del XVII secolo dal declino relativo del XVIII, quando Bombay e altri porti acquisirono maggiore importanza. La città industriale ottocentesca è esclusa."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SU1",
+      "title": "Encyclopaedia Britannica — Surat",
+      "use": "Storia portuale, commercio e sviluppo della città.",
+      "url": "https://www.britannica.com/place/Surat"
+    },
+    {
+      "id": "SU2",
+      "title": "Encyclopaedia Britannica — East India Company",
+      "use": "Compagnie europee e reti commerciali nell’Oceano Indiano.",
+      "url": "https://www.britannica.com/topic/East-India-Company"
+    },
+    {
+      "id": "SU3",
+      "title": "The Metropolitan Museum of Art — The Art of the Mughals",
+      "use": "Contesto politico e materiale dell’India moghul.",
+      "url": "https://www.metmuseum.org/toah/hd/mugh/hd_mugh.htm"
+    },
+    {
+      "id": "SU4",
+      "title": "Gujarat Tourism — Surat Castle",
+      "use": "Fortezza, fiume Tapi e difesa del porto.",
+      "url": "https://www.gujarattourism.com/south-zone/surat/surat-castle.html"
+    },
+    {
+      "id": "SU5",
+      "title": "Encyclopaedia Britannica — Gujarat",
+      "use": "Geografia e reti regionali del Gujarat.",
+      "url": "https://www.britannica.com/place/Gujarat"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Ocmulgee–Macon Plateau",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Movimento della terra",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Costruzione di mound",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Compattazione stratificata",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Mais e colture associate",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Uso delle pianure alluvionali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura lignea",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Pali, pareti e tetti",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Earth lodge seminterrata",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Reti fluviali",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Trasporto sull’Ocmulgee",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Scambi di conchiglie e rame",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Politica rituale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Piattaforme per edifici pubblici",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_1",
+          "label": "Assemblee e gerarchie emergenti",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "La popolazione di Lima crebbe rapidamente nel dopoguerra per migrazione interna e concentrazione di attività industriali e statali.",
+    "theme": "demografia",
+    "status": "documentato",
+    "source": "LI1; LI2; LI4"
+  },
+  {
+    "claim": "Le barriadas furono costruite anche attraverso organizzazione collettiva, comitati e lavoro degli abitanti, non come semplice espansione spontanea.",
+    "theme": "abitazione",
+    "status": "documentato",
+    "source": "LI1; LI2"
+  },
+  {
+    "claim": "La legge 13517 del 1961 istituì un quadro per riconoscere e risanare i barrios marginales.",
+    "theme": "politica urbana",
+    "status": "documentato",
+    "source": "LI3"
+  },
+  {
+    "claim": "La crescita metropolitana superò l’offerta di alloggi, acqua, trasporti e fognature, producendo forti disuguaglianze territoriali.",
+    "theme": "servizi",
+    "status": "sintesi",
+    "source": "LI1; LI2; LI4"
+  },
+  {
+    "claim": "Il governo militare instaurato nel 1968 avviò riforme che modificarono rapporti agrari e flussi verso la capitale.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "LI1; LI4"
+  },
+  {
+    "claim": "Lima, migrazione, barriadas e metropoli industriale è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "La marginalizzazione, gli sgomberi e la segregazione infrastrutturale delle barriadas sono descritti come disuguaglianza e coercizione urbana; migranti e abitanti sono rappresentati come soggetti organizzati che costruirono quartieri, servizi e cittadinanza.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Manchester industriale e Cottonopolis",
+    "site": "Manchester industriale e Cottonopolis",
+    "modern_location": "Manchester, Regno Unito",
+    "coordinates": {
+      "lat": 53.4808,
+      "lon": -2.2426
+    },
+    "scope": "Manchester fra 1800 e 1900: cotonifici, vapore, Liverpool and Manchester Railway, magazzini, municipalizzazione dei servizi, movimento operaio, commercio globale e Ship Canal.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Trafford Park maturo, guerre mondiali, deindustrializzazione e rigenerazione contemporanea sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MA1",
+      "title": "Science and Industry Museum Manchester",
+      "use": "Industria tessile, energia, ferrovia e infrastrutture.",
+      "url": "https://www.scienceandindustrymuseum.org.uk/"
+    },
+    {
+      "id": "MA2",
+      "title": "People’s History Museum",
+      "use": "Lavoro, democrazia, sindacati e movimenti sociali.",
+      "url": "https://phm.org.uk/"
+    },
+    {
+      "id": "MA3",
+      "title": "Manchester Archives and Local Studies",
+      "use": "Mappe, amministrazione, sanità e sviluppo urbano.",
+      "url": "https://www.manchester.gov.uk/archives"
+    },
+    {
+      "id": "MA4",
+      "title": "Historic England",
+      "use": "Patrimonio industriale, mulini, canali e magazzini.",
+      "url": "https://historicengland.org.uk/"
+    },
+    {
+      "id": "MA5",
+      "title": "Science Museum Group Collection",
+      "use": "Macchine tessili, vapore e storia della tecnologia.",
+      "url": "https://collection.sciencemuseumgroup.org.uk/"
+    }
+  ]
+}

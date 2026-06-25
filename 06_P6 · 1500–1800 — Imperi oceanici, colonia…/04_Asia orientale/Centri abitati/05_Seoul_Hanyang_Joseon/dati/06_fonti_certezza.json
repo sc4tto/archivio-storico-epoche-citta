@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Hanyang rimase la capitale della dinastia Joseon durante il periodo 1500–1800.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "SE4"
+  },
+  {
+    "claim": "Changdeokgung divenne il principale palazzo ricostruito dopo le guerre del XVI secolo.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "SE1"
+  },
+  {
+    "claim": "Jongmyo era il santuario dinastico centrale dei riti confuciani.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "SE2"
+  },
+  {
+    "claim": "Le mura, le porte e le fortezze esterne proteggevano la capitale.",
+    "theme": "difesa",
+    "status": "documentato",
+    "source": "SE3; SE4"
+  },
+  {
+    "claim": "Le invasioni Imjin provocarono gravi distruzioni nel 1592.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "SE1; SE4"
+  },
+  {
+    "claim": "Mercati e artigiani crebbero durante i secoli XVII e XVIII.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "SE4"
+  },
+  {
+    "claim": "L’architettura palatina integrava edifici lignei, cortili, ondol e giardini.",
+    "theme": "tecniche",
+    "status": "documentato",
+    "source": "SE1; SE5"
+  },
+  {
+    "claim": "Le trasformazioni successive al 1800 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "SE4"
+  }
+]

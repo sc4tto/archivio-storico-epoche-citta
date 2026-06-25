@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_70_P7_Asia_Sud_Occidentale_5_Centri_v1",
+  "macroregion": "Asia sud-occidentale e altopiano iranico",
+  "centers": [
+    "01_Istanbul_Ottomana_Tanzimat",
+    "02_Teheran_Qajar",
+    "03_Baghdad_Ottomana_Tanzimat",
+    "04_Beirut_Porto_Ottomano",
+    "05_Damasco_Ottomana_Tanzimat"
+  ],
+  "uses_central_assets": true
+}

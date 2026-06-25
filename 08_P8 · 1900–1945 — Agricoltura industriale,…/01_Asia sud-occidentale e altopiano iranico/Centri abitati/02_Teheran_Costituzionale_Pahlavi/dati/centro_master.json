@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Teheran costituzionale e pahlavi",
+    "site": "Teheran costituzionale e pahlavi",
+    "modern_location": "Teheran, Iran",
+    "coordinates": {
+      "lat": 35.6892,
+      "lon": 51.389
+    },
+    "scope": "Teheran fra 1900 e 1945: rivoluzione costituzionale, crisi qajar, colpo di Stato del 1921, dinastia Pahlavi, centralizzazione, urbanistica stradale, ferrovia transiraniana, occupazione anglo-sovietica e Conferenza di Teheran.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1945. Espansione metropolitana, riforme agrarie, torre Azadi e grandi trasformazioni petrolifere del secondo dopoguerra sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "TE1",
+      "title": "UNESCO — Golestan Palace",
+      "use": "Palazzo qajar, rappresentazione del potere e trasformazioni.",
+      "url": "https://whc.unesco.org/en/list/1422/"
+    },
+    {
+      "id": "TE2",
+      "title": "National Library and Archives of Iran",
+      "use": "Fonti politiche, fotografiche e amministrative.",
+      "url": "https://www.nlai.ir/"
+    },
+    {
+      "id": "TE3",
+      "title": "Encyclopaedia Iranica — Tehran",
+      "use": "Storia urbana e istituzionale della capitale.",
+      "url": "https://iranicaonline.org/articles/tehran-i"
+    },
+    {
+      "id": "TE4",
+      "title": "Encyclopaedia Britannica — Tehran",
+      "use": "Cronologia generale e crescita urbana.",
+      "url": "https://www.britannica.com/place/Tehran"
+    },
+    {
+      "id": "TE5",
+      "title": "Golestan Palace official collection",
+      "use": "Architettura e cultura materiale qajar-pahlavi.",
+      "url": "https://www.golestanpalace.ir/"
+    }
+  ]
+}

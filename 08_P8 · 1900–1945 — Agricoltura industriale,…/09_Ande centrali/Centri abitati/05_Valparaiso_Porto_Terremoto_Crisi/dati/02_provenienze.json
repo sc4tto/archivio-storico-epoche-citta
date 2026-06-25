@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Valparaíso",
+      "lat": -33.0472,
+      "lon": -71.6127,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "vin",
+      "label": "Viña del Mar e costa vicina",
+      "lat": -33.02,
+      "lon": -71.55,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "aco",
+      "label": "Valle dell’Aconcagua",
+      "lat": -32.9,
+      "lon": -70.7,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "san",
+      "label": "Santiago e valle centrale",
+      "lat": -33.45,
+      "lon": -70.67,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "nor",
+      "label": "Nord minerario e del salnitro",
+      "lat": -23.5,
+      "lon": -70.4,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "sur",
+      "label": "Porti e agricoltura del sud",
+      "lat": -37.0,
+      "lon": -73.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "pac",
+      "label": "Pacifico, Europa e Americhe",
+      "lat": 0.0,
+      "lon": -90.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "vin",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "tram, ferrovia e strada costiera",
+      "food": "ortaggi, turismo, lavoro e servizi"
+    },
+    {
+      "source": "aco",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e strade",
+      "food": "frutta, vino, cereali e bestiame"
+    },
+    {
+      "source": "san",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia Valparaíso–Santiago",
+      "food": "consumi, finanza, manufatti e amministrazione"
+    },
+    {
+      "source": "nor",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cabotaggio",
+      "food": "salnitro, minerali e traffico marittimo"
+    },
+    {
+      "source": "sur",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cabotaggio e ferrovia",
+      "food": "grano, legname, carne e prodotti agricoli"
+    },
+    {
+      "source": "pac",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte oceaniche",
+      "food": "importazioni, migranti, posta e capitale"
+    }
+  ]
+}

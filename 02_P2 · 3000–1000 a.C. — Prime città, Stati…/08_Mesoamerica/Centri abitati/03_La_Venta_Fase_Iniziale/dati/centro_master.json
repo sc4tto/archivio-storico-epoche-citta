@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "La Venta — fase iniziale — modulo multi-grafo",
+    "short_name": "La Venta — fase iniziale",
+    "site": "Prime fasi del centro olmeco di La Venta",
+    "modern_location": "Huimanguillo, Tabasco, Messico",
+    "coordinates": {
+      "lat": 18.1,
+      "lon": -94.04
+    },
+    "scope": "Insediamento su un rilievo naturale in ambiente palustre, con piattaforme di terra, orientamento degli spazi, sculture e reti regionali; il modulo si concentra sulle fasi iniziali entro il limite del 1000 a.C.",
+    "version": "1.0-blocco_21_p2_mesoamerica_5_centri_v1",
+    "warning": "La massima fioritura di La Venta, inclusi molti monumenti del Complesso A, è successiva al 1000 a.C. Il modulo distingue la presenza iniziale P2 dagli sviluppi del Formativo medio."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "LV_GONZALEZ",
+      "title": "González Lauck — La Venta, Tabasco: A Middle Formative Capital",
+      "url": "https://www.cambridge.org/core/books/olmec-world/",
+      "use": "cronologia, architettura e ricerca del sito"
+    },
+    {
+      "id": "LV_HEIZER",
+      "title": "Heizer — Investigations at La Venta, Tabasco, 1955",
+      "url": "https://digitalassets.lib.berkeley.edu/anthpubs/",
+      "use": "scavi, monumenti e complessi architettonici"
+    },
+    {
+      "id": "LV_POOL",
+      "title": "Pool — Olmec Archaeology and Early Mesoamerica",
+      "url": "https://doi.org/10.1017/CBO9780511812286",
+      "use": "quadro regionale e sviluppo di La Venta"
+    }
+  ]
+}

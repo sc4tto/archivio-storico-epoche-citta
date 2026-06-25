@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Wairau Bar–Te Pokohiwi",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Viaggi oceanici dalla Polinesia orientale",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Esplorazione delle coste neozelandesi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Litica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Produzione di asce in argillite",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Scambio di pietre su grandi distanze",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Sussistenza",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Caccia alla megafauna",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Pesca e raccolta lagunare",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Waka e carpenteria",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_1",
+          "label": "Abitazioni leggere e umu",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Ritualità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Sepolture e corredi",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Continuità con la Polinesia orientale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Antigua Guatemala capitale coloniale",
+    "site": "Antigua Guatemala capitale coloniale",
+    "modern_location": "Antigua Guatemala, Guatemala",
+    "coordinates": {
+      "lat": 14.5586,
+      "lon": -90.7295
+    },
+    "scope": "Santiago de Guatemala nella valle di Panchoy fra 1543 e 1773, con persistenze fino al 1800: capitale amministrativa e religiosa dell’America centrale spagnola.",
+    "version": "1.0",
+    "warning": "Il trasferimento della capitale alla Nueva Guatemala de la Asunción dopo il 1773 costituisce il limite principale. Restauri turistici e trasformazioni moderne sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "AG1",
+      "title": "UNESCO — Antigua Guatemala",
+      "use": "Fondazione, urbanistica, monumenti e terremoti del 1773.",
+      "url": "https://whc.unesco.org/en/list/65/"
+    },
+    {
+      "id": "AG2",
+      "title": "Ministerio de Cultura y Deportes de Guatemala",
+      "use": "Patrimonio e conservazione della città storica.",
+      "url": "https://mcd.gob.gt/"
+    },
+    {
+      "id": "AG3",
+      "title": "Encyclopaedia Britannica — Antigua Guatemala",
+      "use": "Storia della capitale coloniale.",
+      "url": "https://www.britannica.com/place/Antigua-Guatemala"
+    },
+    {
+      "id": "AG4",
+      "title": "Consejo Nacional para la Protección de La Antigua Guatemala",
+      "use": "Tutela del tessuto urbano e dei monumenti.",
+      "url": "https://cnpag.com/"
+    },
+    {
+      "id": "AG5",
+      "title": "UNESCO — Documentary heritage of Central America",
+      "use": "Contesto amministrativo e religioso della regione.",
+      "url": "https://www.unesco.org/en/memory-world"
+    }
+  ]
+}

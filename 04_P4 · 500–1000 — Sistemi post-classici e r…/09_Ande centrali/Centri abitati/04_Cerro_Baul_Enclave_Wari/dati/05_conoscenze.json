@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Cerro Baúl, enclave Wari",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Agricoltura di frontiera",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Canali e terrazze irrigue",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Adattamento a un ambiente arido",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Produzione di chicha",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Macinazione, bollitura e fermentazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Servizio in grandi keros",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Logistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Trasporto su pendii ripidi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Carovane e rifornimento",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Politica rituale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Banchetti e ospitalità",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Chiusure rituali e distruzione controllata",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Interazione culturale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Stili Wari e Tiwanaku",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Convivenza senza modello unico",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

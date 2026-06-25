@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Susa — modulo multi-grafo",
+    "short_name": "Susa",
+    "site": "Susa / Shush",
+    "modern_location": "Provincia del Khuzestan, Iran",
+    "coordinates": {
+      "lat": 32.19,
+      "lon": 48.257
+    },
+    "scope": "Centro urbano della Susiana fra pianura mesopotamica e altopiano iranico, con acropoli, terrazze, quartieri amministrativi e residenziali, tradizioni proto-elamite ed elamite, scrittura, artigianato e scambi di lunga distanza.",
+    "version": "1.0-blocco_14_p2_asia_so_completamento_5_centri_v1",
+    "warning": "Il sito ha una continuità plurimillenaria. Il modulo P2 esclude i grandi palazzi achemenidi posteriori e concentra l’attenzione sulle fasi proto-elamite, sukkalmah e medio-elamite."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "SUSA_UNESCO",
+      "title": "UNESCO — Susa",
+      "url": "https://whc.unesco.org/en/list/1455/",
+      "use": "stratigrafia urbana, strutture e interazione Mesopotamia–Iran"
+    },
+    {
+      "id": "SUSA_IRANICA",
+      "title": "Encyclopaedia Iranica — Susa",
+      "url": "https://iranicaonline.org/articles/susa",
+      "use": "cronologia, storia politica e cultura materiale"
+    },
+    {
+      "id": "SUSA_LOUVRE",
+      "title": "Musée du Louvre — Collections from Susa",
+      "url": "https://collections.louvre.fr/en/recherche?nQuery=Suse",
+      "use": "oggetti, iscrizioni, arte e storia degli scavi"
+    }
+  ]
+}

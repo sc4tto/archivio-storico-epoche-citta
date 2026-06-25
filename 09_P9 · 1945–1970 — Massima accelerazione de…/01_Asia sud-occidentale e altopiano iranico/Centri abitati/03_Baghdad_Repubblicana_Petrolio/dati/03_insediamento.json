@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1945–1949",
+    "1950–1954",
+    "1955–1959",
+    "1960–1964",
+    "1965–1970"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Ricostruzione e crescita della monarchia hashemita",
+      "lane": "Politica",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Università di Baghdad e nuovi servizi",
+      "lane": "Istruzione",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Rivoluzione del 14 luglio 1958",
+      "lane": "Rischi",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Costruzione di Madinat al-Thawra e quartieri popolari",
+      "lane": "Urbanistica",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Fondazione dell’OPEC a Baghdad nel 1960",
+      "lane": "Economia",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Colpo di Stato del 1963",
+      "lane": "Politica",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Colpo di Stato baathista del 1968",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Grandi progetti post-1970 esclusi",
+      "lane": "Cronologia",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

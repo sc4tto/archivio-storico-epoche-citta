@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Metrorrey gestisce le linee 1, 2 e 3 e programmi di modernizzazione della rete.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "MT1"
+  },
+  {
+    "claim": "Le linee 4, 5 e 6 sono progetti di espansione e non vanno presentate come rete interamente completata.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "MT2"
+  },
+  {
+    "claim": "Il piano PIGECA 2023–2033 mira a migliorare progressivamente la qualità dell’aria dell’area metropolitana.",
+    "theme": "aria",
+    "status": "documentato",
+    "source": "MT3"
+  },
+  {
+    "claim": "La crisi idrica del 2022 ha richiesto misure straordinarie di gestione della domanda e dell’offerta.",
+    "theme": "acqua",
+    "status": "documentato",
+    "source": "MT4"
+  },
+  {
+    "claim": "PIGECA 2033 e nuove linee ferroviarie sono piani o progetti futuri oltre la data di chiusura.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "MT2, MT3"
+  },
+  {
+    "claim": "Monterrey è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Disuguaglianze nell’accesso all’acqua, esposizione all’inquinamento e costi delle grandi opere non sono descritti come neutrali.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Baghdad ottomana, mandataria e monarchica",
+    "site": "Baghdad ottomana, mandataria e monarchica",
+    "modern_location": "Baghdad, Iraq",
+    "coordinates": {
+      "lat": 33.3152,
+      "lon": 44.3661
+    },
+    "scope": "Baghdad fra 1900 e 1945: tardo dominio ottomano, ferrovia, conquista britannica, rivolta del 1920, monarchia hascemita, indipendenza del 1932, crescita amministrativa, petrolio, colpo di Stato del 1941 e guerra anglo-irachena.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1945. Rivoluzione del 1958, boom petrolifero degli anni Settanta e grandi autostrade contemporanee sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "BA1",
+      "title": "Encyclopaedia Britannica — Baghdad",
+      "use": "Cronologia politica e sviluppo urbano.",
+      "url": "https://www.britannica.com/place/Baghdad"
+    },
+    {
+      "id": "BA2",
+      "title": "British Library — Qatar Digital Library",
+      "use": "Mappe, fotografie e documenti sul mandato e sull’Iraq.",
+      "url": "https://www.qdl.qa/"
+    },
+    {
+      "id": "BA3",
+      "title": "Library of Congress — Iraq country studies",
+      "use": "Mandato, monarchia, infrastrutture e società.",
+      "url": "https://www.loc.gov/"
+    },
+    {
+      "id": "BA4",
+      "title": "Iraq National Library and Archive",
+      "use": "Fonti nazionali e amministrative.",
+      "url": "https://www.iraqnla.gov.iq/"
+    },
+    {
+      "id": "BA5",
+      "title": "The British Museum — Iraq collections",
+      "use": "Cultura materiale e storia moderna irachena.",
+      "url": "https://www.britishmuseum.org/collection/galleries/mesopotamia-1500-539-bc"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Damasco",
+      "lat": 33.5138,
+      "lon": 36.2765,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "gho",
+      "label": "Ghouta e valle del Barada",
+      "lat": 33.55,
+      "lon": 36.45,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "hau",
+      "label": "Hauran",
+      "lat": 32.8,
+      "lon": 36.1,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "ant",
+      "label": "Anti-Libano e Qalamun",
+      "lat": 33.8,
+      "lon": 36.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "bei",
+      "label": "Beirut e Monte Libano",
+      "lat": 33.89,
+      "lon": 35.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "ale",
+      "label": "Aleppo e Anatolia",
+      "lat": 36.2,
+      "lon": 37.16,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "ara",
+      "label": "Baghdad, Hegiaz e rotte carovaniere",
+      "lat": 29.0,
+      "lon": 41.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "gho",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali del Barada e strade",
+      "food": "frutta, ortaggi, acqua e legna"
+    },
+    {
+      "source": "hau",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane e strade meridionali",
+      "food": "grano, bestiame e paglia"
+    },
+    {
+      "source": "ant",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "valichi montani",
+      "food": "lana, latticini e frutta secca"
+    },
+    {
+      "source": "bei",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strada Beirut–Damasco",
+      "food": "merci europee, zucchero e servizi portuali"
+    },
+    {
+      "source": "ale",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "asse settentrionale",
+      "food": "tessili, sapone e manufatti"
+    },
+    {
+      "source": "ara",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane dell’Hajj e vie orientali",
+      "food": "pellegrini, caffè, spezie e bestiame"
+    }
+  ]
+}

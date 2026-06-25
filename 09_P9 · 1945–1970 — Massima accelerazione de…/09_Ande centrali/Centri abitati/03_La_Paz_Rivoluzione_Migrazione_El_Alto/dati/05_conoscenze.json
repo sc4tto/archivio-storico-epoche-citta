@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di La Paz, rivoluzione nazionale e conurbazione altiplanica",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Verticalità ecologica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Scambi fra altopiano, valli, Yungas e lago",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Conoscenze di quota, clima, tuberi e conservazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mercati e reti aymara",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Fiere, cholas comerciantes, parentela e trasporto",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Mediazione fra comunità rurali e consumatori urbani",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Rivoluzione e lavoro",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Sindacati, COB, minatori, fabriles e milizie",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Nazionalizzazione, riforma agraria e conflitto politico",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Costruzione in quota",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Adobe, pietra, pendii, drenaggio e muri di sostegno",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Freddo, frane, scarsità idrica e consolidamento graduale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Conurbazione e servizi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Aeroporto, ferrovia, strade, lottizzazioni e mercati",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Accesso diseguale ad acqua, fognature, scuola e salute",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

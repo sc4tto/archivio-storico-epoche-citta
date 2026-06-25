@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di New York, autostrade, urban renewal e diritti civili",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Infrastrutture metropolitane",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Ponti, tunnel, expressway, metropolitane e terminali",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Coordinamento fra città, Stato e autorità speciali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Urban renewal e alloggio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Titolo I, esproprio, demolizione, torri e superblocchi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Ricollocazioni, discriminazione e scarsità di case accessibili",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Mercati e logistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Porto, ferrovia, camion, mercati terminali e catene del freddo",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Distribuzione alimentare in una metropoli multietnica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Diritti civili e comunità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Organizzazioni afroamericane, portoricane, sindacali e religiose",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Lotte per casa, scuola, lavoro e rappresentanza",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Ambiente urbano",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Traffico, rumore, scarichi, smog e perdita di tessuto urbano",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Prime critiche alla dipendenza automobilistica e alla pianificazione dall’alto",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

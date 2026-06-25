@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Fase antica del conchigliero",
+    "Sviluppo dell’occupazione",
+    "Fase funeraria",
+    "Ceramica più diffusa",
+    "Transizione verso culture neolitiche tarde"
+  ],
+  "items": [
+    {
+      "id": "midden",
+      "label": "Grande accumulo di conchiglie e rifiuti",
+      "lane": "Conservazione",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "hearths",
+      "label": "Focolari e superfici di consumo",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "burials",
+      "label": "Sepolture nel deposito",
+      "lane": "Funerarie",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "activity",
+      "label": "Aree di lavorazione litica e organica",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "seasonal",
+      "label": "Occupazione probabilmente ripetuta o stagionale",
+      "lane": "Ripari",
+      "start": 0,
+      "end": 3,
+      "status": "inferito"
+    },
+    {
+      "id": "pottery",
+      "label": "Ceramica nelle fasi neolitiche",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "farming",
+      "label": "Possibili pratiche produttive tardive",
+      "lane": "Economia",
+      "start": 3,
+      "end": 4,
+      "status": "inferito"
+    }
+  ]
+}

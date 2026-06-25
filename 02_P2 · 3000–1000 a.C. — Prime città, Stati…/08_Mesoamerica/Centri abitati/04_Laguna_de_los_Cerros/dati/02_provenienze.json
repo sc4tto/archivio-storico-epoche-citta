@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Laguna de los Cerros",
+      "lat": 18.12,
+      "lon": -94.83,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "jicaro",
+      "label": "Llano del Jícaro",
+      "lat": 18.2,
+      "lon": -95.05,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "tuxtlas",
+      "label": "Sierra de los Tuxtlas",
+      "lat": 18.5,
+      "lon": -95.2,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "sanlorenzo",
+      "label": "San Lorenzo",
+      "lat": 17.95,
+      "lon": -94.79,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "papaloapan",
+      "label": "Bacino del Papaloapan",
+      "lat": 18.0,
+      "lon": -96.0,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "highlands",
+      "label": "Altopiano centrale",
+      "lat": 19.2,
+      "lon": -98.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "jicaro",
+      "target": "site",
+      "label": "lavorazione di basalto",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "tuxtlas",
+      "target": "site",
+      "label": "materie prime vulcaniche",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "sanlorenzo",
+      "target": "site",
+      "label": "circolazione di monumenti e stili",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "papaloapan",
+      "target": "site",
+      "label": "corridoi fluviali e agricoli",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "highlands",
+      "target": "site",
+      "label": "ossidiana e scambi",
+      "status": "documentato",
+      "food": "no"
+    }
+  ]
+}

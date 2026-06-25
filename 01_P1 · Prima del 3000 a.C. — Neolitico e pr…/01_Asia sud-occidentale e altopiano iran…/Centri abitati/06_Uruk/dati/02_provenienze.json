@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Uruk/Warka",
+      "lat": 31.3222,
+      "lon": 45.6361,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 40,
+      "anchor": "middle"
+    },
+    {
+      "id": "euphrates",
+      "label": "Antichi rami dell’Eufrate",
+      "lat": 31.35,
+      "lon": 45.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": -22,
+      "anchor": "end"
+    },
+    {
+      "id": "marsh",
+      "label": "Margini delle paludi mesopotamiche",
+      "lat": 31.05,
+      "lon": 46.0,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 10,
+      "dy": 28,
+      "anchor": "start"
+    },
+    {
+      "id": "alluvium",
+      "label": "Piana alluvionale meridionale",
+      "lat": 31.55,
+      "lon": 45.8,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 10,
+      "dy": -22,
+      "anchor": "start"
+    },
+    {
+      "id": "zagros",
+      "label": "Zagros: pietra, legname e metalli",
+      "lat": 33.0,
+      "lon": 46.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "gulf",
+      "label": "Golfo e reti meridionali",
+      "lat": 29.5,
+      "lon": 48.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "euphrates",
+      "target": "site",
+      "label": "acqua, trasporto e irrigazione",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "marsh",
+      "target": "site",
+      "label": "pesce, canne e risorse palustri",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "alluvium",
+      "target": "site",
+      "label": "cereali e allevamento",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "zagros",
+      "target": "site",
+      "label": "pietra, legname e metalli; derrate non specificate",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "gulf",
+      "target": "site",
+      "label": "conchiglie e reti di scambio; alimenti da precisare",
+      "status": "sintesi",
+      "food": "non dimostrato"
+    }
+  ]
+}

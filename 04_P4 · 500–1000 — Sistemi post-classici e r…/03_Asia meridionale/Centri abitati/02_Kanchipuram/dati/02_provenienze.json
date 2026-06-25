@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Kanchipuram",
+      "lat": 12.8342,
+      "lon": 79.7036,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "palar",
+      "label": "Fiume Palar e pianure irrigue",
+      "lat": 12.75,
+      "lon": 79.8,
+      "status": "sintesi",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "mamal",
+      "label": "Mamallapuram",
+      "lat": 12.62,
+      "lon": 80.19,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "kaveri",
+      "label": "Delta del Kaveri",
+      "lat": 10.95,
+      "lon": 79.85,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "deccan",
+      "label": "Altopiano del Deccan",
+      "lat": 15.5,
+      "lon": 76.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "srilanka",
+      "label": "Sri Lanka",
+      "lat": 8.3,
+      "lon": 80.6,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "palar",
+      "target": "site",
+      "label": "acqua, riso e materiali",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "mamal",
+      "target": "site",
+      "label": "merci marittime, pietra e pellegrini",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "kaveri",
+      "target": "site",
+      "label": "cereali, tessili e reti chola",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "deccan",
+      "target": "site",
+      "label": "contatti politici e artistici",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "srilanka",
+      "target": "site",
+      "label": "monaci, testi e traffici marittimi",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

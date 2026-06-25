@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Teheran, rivoluzione, mobilità e crisi ambientale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Trasporto integrato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Metro, BRT, autobus e interscambi",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Tariffe, accessibilità e gestione della domanda",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Aria e salute",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Inventari emissivi, monitoraggio e rischio sanitario",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Veicoli, combustibili, industria e inversione termica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Acqua e suolo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Approvvigionamento, perdite e riuso",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Subsidenza, impermeabilizzazione e crescita periferica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Abitare informale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Autocostruzione, tenure e servizi incompleti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Conflitto con demolizioni e politiche di upgrading",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Società e diritti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Reti di quartiere, università, lavoro e proteste",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Repressione, sorveglianza e rivendicazioni di genere",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

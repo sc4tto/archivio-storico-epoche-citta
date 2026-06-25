@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Prime occupazioni",
+    "Olocene antico",
+    "Ceramica precoce",
+    "Uso periodico del riparo",
+    "Fasi successive fuori fuoco"
+  ],
+  "items": [
+    {
+      "id": "shelter",
+      "label": "Uso ricorrente del riparo",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "hearth",
+      "label": "Focolari e accumuli di cenere",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "microliths",
+      "label": "Produzione di microliti e strumenti bifacciali",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "plants",
+      "label": "Lavorazione di frutti, noci e piante",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "pottery",
+      "label": "Ceramica decorata precoce",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "storage",
+      "label": "Conservazione temporanea di risorse",
+      "lane": "Conservazione",
+      "start": 2,
+      "end": 4,
+      "status": "inferito"
+    },
+    {
+      "id": "periodic",
+      "label": "Alternanza di uso e abbandono",
+      "lane": "Trasformazione",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

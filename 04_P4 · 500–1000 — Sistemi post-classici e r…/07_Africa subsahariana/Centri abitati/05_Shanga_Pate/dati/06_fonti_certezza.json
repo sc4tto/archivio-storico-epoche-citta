@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Shanga fu fondata e occupata dall’VIII secolo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "S1; S2"
+  },
+  {
+    "claim": "La sequenza archeologica conserva più fasi di moschee antiche.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "S1"
+  },
+  {
+    "claim": "Pesca, agricoltura, allevamento e artigianato sostenevano l’insediamento.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "S1; S5"
+  },
+  {
+    "claim": "Ceramiche, vetro, perline e monete attestano scambi con il mondo islamico e l’Asia.",
+    "theme": "commercio",
+    "status": "documentato",
+    "source": "S1; S3"
+  },
+  {
+    "claim": "I pozzi determinarono la localizzazione e la crescita del centro.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "S1"
+  },
+  {
+    "claim": "Le abitazioni iniziali impiegavano soprattutto terra e materiali vegetali.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "S1"
+  },
+  {
+    "claim": "L’uso esteso della pietra corallina aumentò gradualmente e non fu immediato.",
+    "theme": "architettura",
+    "status": "sintesi",
+    "source": "S1; S5"
+  },
+  {
+    "claim": "Shanga documenta la formazione locale di comunità swahili musulmane, non una semplice colonia esterna.",
+    "theme": "interpretazione",
+    "status": "sintesi",
+    "source": "S1; S5"
+  }
+]

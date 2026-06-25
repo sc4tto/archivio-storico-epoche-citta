@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "La rivoluzione del 1979 e la guerra Iran–Iraq modificarono istituzioni, economie familiari e flussi migratori verso la capitale.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "TE3"
+  },
+  {
+    "claim": "La rete di trasporto collettivo combina metro e corridoi BRT ad alta capacità.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "TE1"
+  },
+  {
+    "claim": "Traffico e motorizzazione sono fra le principali fonti dell’inquinamento atmosferico di Teheran.",
+    "theme": "ambiente",
+    "status": "documentato",
+    "source": "TE2"
+  },
+  {
+    "claim": "Urbanizzazione rapida, clima arido, rifiuti e qualità dell’aria restano problemi strutturali.",
+    "theme": "resilienza",
+    "status": "documentato",
+    "source": "TE3"
+  },
+  {
+    "claim": "La missione ONU ha documentato gravi violazioni dei diritti nel contesto delle proteste iniziate nel 2022.",
+    "theme": "diritti",
+    "status": "documentato",
+    "source": "TE4"
+  },
+  {
+    "claim": "Teheran, rivoluzione, mobilità e crisi ambientale è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "La guerra, gli sfollamenti forzati, le demolizioni degli insediamenti informali e la repressione statale delle proteste non sono trattati come semplici effetti collaterali della crescita; donne, lavoratori, residenti periferici e manifestanti sono rappresentati come soggetti politici.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

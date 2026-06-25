@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Port Said fu fondata nel 1859 all’ingresso mediterraneo del Canale di Suez.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "PS1; PS2"
+  },
+  {
+    "claim": "Il canale fu aperto alla navigazione nel 1869.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "PS1; PS3"
+  },
+  {
+    "claim": "Le prime fasi dei lavori impiegarono lavoro coatto in condizioni coercitive.",
+    "theme": "coercizione",
+    "status": "documentato",
+    "source": "PS1; PS3"
+  },
+  {
+    "claim": "Draghe, moli e frangiflutti crearono un nuovo paesaggio portuale.",
+    "theme": "ingegneria",
+    "status": "documentato",
+    "source": "PS1; PS4"
+  },
+  {
+    "claim": "Carbone e servizi alle navi a vapore sostennero la crescita urbana.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "PS2; PS3"
+  },
+  {
+    "claim": "Acqua dolce, quarantena ed epidemie furono problemi centrali.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "PS2; PS4"
+  },
+  {
+    "claim": "Il canale acquistò valore strategico crescente dopo l’occupazione britannica del 1882.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "PS3"
+  },
+  {
+    "claim": "Nazionalizzazione e ampliamenti successivi al 1900 sono esclusi.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "PS1; PS3"
+  }
+]

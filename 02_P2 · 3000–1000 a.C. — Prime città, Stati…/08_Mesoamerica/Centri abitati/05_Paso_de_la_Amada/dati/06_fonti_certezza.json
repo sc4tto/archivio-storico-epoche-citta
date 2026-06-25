@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Paso de la Amada fu occupata durante il Formativo iniziale",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "PA_LESURE"
+  },
+  {
+    "claim": "Il Tumulo 6 conserva una sequenza di edifici e piattaforme",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "PA_PLATFORM"
+  },
+  {
+    "claim": "Il sito comprende uno dei più antichi campi formalizzati per il gioco della palla",
+    "theme": "Rituali",
+    "status": "documentato",
+    "source": "PA_HILL"
+  },
+  {
+    "claim": "Le differenze fra edifici indicano crescente distinzione di rango",
+    "theme": "Società",
+    "status": "sintesi",
+    "source": "PA_LESURE"
+  },
+  {
+    "claim": "Le fasi finali mostrano contatti con tradizioni della costa del Golfo",
+    "theme": "Scambi",
+    "status": "sintesi",
+    "source": "PA_LESURE"
+  },
+  {
+    "claim": "Paso de la Amada era una colonia olmeca",
+    "theme": "Identità",
+    "status": "non_documentato",
+    "source": "Centro locale del Soconusco"
+  },
+  {
+    "claim": "Il campo aveva le stesse regole dei giochi del periodo classico",
+    "theme": "Gioco della palla",
+    "status": "non_documentato",
+    "source": "Regole non conservate"
+  },
+  {
+    "claim": "Un unico sovrano controllava tutta la regione",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Gerarchia e scala del potere discusse"
+  }
+]

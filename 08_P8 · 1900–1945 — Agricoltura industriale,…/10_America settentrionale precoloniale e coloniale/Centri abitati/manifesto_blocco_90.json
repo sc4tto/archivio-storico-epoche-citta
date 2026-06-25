@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_90_P8_America_Settentrionale_5_Centri_v1",
+  "macroregion": "America settentrionale precoloniale e coloniale",
+  "centers": [
+    "01_New_York_Metropolitana_Immigrazione_Depressione",
+    "02_Chicago_Ferrovie_Industria_Segregazione",
+    "03_Los_Angeles_Acqua_Automobile_Cinema",
+    "04_Detroit_Automobile_Produzione_Massa",
+    "05_Toronto_Industriale_Sanita_Guerra"
+  ],
+  "uses_central_assets": true
+}

@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Nukuleka",
+      "lat": -21.137,
+      "lon": -175.048,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "lagoon",
+      "label": "Laguna Fanga ‘Uta",
+      "lat": -21.17,
+      "lon": -175.15,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "haapai",
+      "label": "Ha‘apai",
+      "lat": -19.75,
+      "lon": -174.35,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "samoa",
+      "label": "Samoa occidentale",
+      "lat": -13.8,
+      "lon": -172.1,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "fiji",
+      "label": "Figi orientali",
+      "lat": -17.8,
+      "lon": 178.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "bismarck",
+      "label": "Arcipelago di Bismarck",
+      "lat": -4.5,
+      "lon": 151.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "lagoon",
+      "target": "site",
+      "label": "pesca, molluschi e approdi",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "haapai",
+      "target": "site",
+      "label": "espansione insulare e ceramiche",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "samoa",
+      "target": "site",
+      "label": "mobilità verso la Polinesia occidentale",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "fiji",
+      "target": "site",
+      "label": "rotte Lapita occidentali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "bismarck",
+      "target": "site",
+      "label": "tradizioni ceramiche e antenati remoti",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

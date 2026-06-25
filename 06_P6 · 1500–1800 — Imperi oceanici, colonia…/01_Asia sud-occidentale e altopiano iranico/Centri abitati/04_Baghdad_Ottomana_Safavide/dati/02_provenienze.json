@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Baghdad",
+      "lat": 33.3152,
+      "lon": 44.3661,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "diy",
+      "label": "Diyala e Baquba",
+      "lat": 33.75,
+      "lon": 44.64,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "hil",
+      "label": "Hilla e medio Eufrate",
+      "lat": 32.47,
+      "lon": 44.43,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "kur",
+      "label": "Kurdistan e Kirkuk",
+      "lat": 35.47,
+      "lon": 44.39,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "bas",
+      "label": "Basra e Golfo Persico",
+      "lat": 30.5,
+      "lon": 47.81,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "isf",
+      "label": "Isfahan e Iran centrale",
+      "lat": 32.65,
+      "lon": 51.67,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "mos",
+      "label": "Mosul e Anatolia",
+      "lat": 36.34,
+      "lon": 43.13,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "diy",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali e strade",
+      "food": "grano, riso, frutta e ortaggi"
+    },
+    {
+      "source": "hil",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Tigri-Eufrate e vie terrestri",
+      "food": "datteri, cereali e bestiame"
+    },
+    {
+      "source": "kur",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane montane",
+      "food": "lana, animali e latticini"
+    },
+    {
+      "source": "bas",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione fluviale",
+      "food": "spezie, zucchero, caffè e beni indiani"
+    },
+    {
+      "source": "isf",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotta persiana",
+      "food": "tessili, seta e beni di lusso"
+    },
+    {
+      "source": "mos",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "via settentrionale",
+      "food": "grano, metalli e manufatti"
+    }
+  ]
+}

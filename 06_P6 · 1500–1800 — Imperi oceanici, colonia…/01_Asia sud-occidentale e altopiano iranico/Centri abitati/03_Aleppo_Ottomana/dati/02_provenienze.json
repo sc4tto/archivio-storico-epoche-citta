@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Aleppo",
+      "lat": 36.2021,
+      "lon": 37.1343,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "idl",
+      "label": "Idlib e Jabal Zawiya",
+      "lat": 35.93,
+      "lon": 36.63,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "afr",
+      "label": "Afrin e oliveti settentrionali",
+      "lat": 36.51,
+      "lon": 36.87,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "eup",
+      "label": "Valle dell’Eufrate",
+      "lat": 36.5,
+      "lon": 38.1,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "ant",
+      "label": "Antiochia e İskenderun",
+      "lat": 36.2,
+      "lon": 36.16,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "ana",
+      "label": "Anatolia centrale",
+      "lat": 38.5,
+      "lon": 35.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "bag",
+      "label": "Baghdad e Persia",
+      "lat": 33.31,
+      "lon": 44.36,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "idl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade rurali",
+      "food": "grano, legumi e frutta"
+    },
+    {
+      "source": "afr",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "vie dei villaggi",
+      "food": "olive, olio e legname"
+    },
+    {
+      "source": "eup",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane della steppa",
+      "food": "bestiame, cereali e lana"
+    },
+    {
+      "source": "ant",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strada del Mediterraneo",
+      "food": "merci europee, pesce e sale"
+    },
+    {
+      "source": "ana",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane anatoliche",
+      "food": "lana, cavalli e metalli"
+    },
+    {
+      "source": "bag",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotta orientale",
+      "food": "spezie, seta, coloranti e caffè"
+    }
+  ]
+}

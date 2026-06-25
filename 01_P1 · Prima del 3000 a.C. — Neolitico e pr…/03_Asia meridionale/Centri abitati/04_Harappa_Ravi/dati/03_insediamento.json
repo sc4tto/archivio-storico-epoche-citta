@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Ravi iniziale",
+    "Ravi sviluppata",
+    "Transizione Kot Diji",
+    "Early Harappan",
+    "Città matura successiva"
+  ],
+  "items": [
+    {
+      "id": "mounds",
+      "label": "Occupazione dei mound AB ed E",
+      "lane": "Impianto",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Case in mattoni crudi",
+      "lane": "Abitazioni",
+      "start": 0,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "pits",
+      "label": "Fosse e aree di deposito",
+      "lane": "Conservazione",
+      "start": 0,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "craft",
+      "label": "Ceramica, perle e strumenti",
+      "lane": "Artigianato",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "marks",
+      "label": "Marchi e simboli su ceramica",
+      "lane": "Segni",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "growth",
+      "label": "Espansione dell’area abitata",
+      "lane": "Trasformazione",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "streets",
+      "label": "Prime regolarità di percorso e quartiere",
+      "lane": "Impianto",
+      "start": 2,
+      "end": 4,
+      "status": "inferito"
+    }
+  ]
+}

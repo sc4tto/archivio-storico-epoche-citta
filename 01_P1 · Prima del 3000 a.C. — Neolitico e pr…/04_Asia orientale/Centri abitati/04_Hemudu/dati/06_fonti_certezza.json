@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Hemudu appartiene a una cultura neolitica del basso Yangtze",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "CHINA_NEOLITHIC"
+  },
+  {
+    "claim": "La conservazione umida ha restituito importanti strutture lignee",
+    "theme": "Costruzione",
+    "status": "documentato",
+    "source": "HEMUDU_MUSEUM"
+  },
+  {
+    "claim": "Il riso è centrale nell’economia del sito",
+    "theme": "Agricoltura",
+    "status": "documentato",
+    "source": "HEMUDU_RICE"
+  },
+  {
+    "claim": "Pesca, raccolta e caccia integrarono la dieta",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "CHINA_NEOLITHIC"
+  },
+  {
+    "claim": "Sono documentate tecniche di incastro e carpenteria",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "HEMUDU_MUSEUM"
+  },
+  {
+    "claim": "Tutto il riso era morfologicamente domestico fin dall’inizio",
+    "theme": "Agricoltura",
+    "status": "non_documentato",
+    "source": "La domesticazione fu un processo"
+  },
+  {
+    "claim": "Le case erano identiche in tutte le fasi",
+    "theme": "Insediamento",
+    "status": "non_documentato",
+    "source": "La sequenza presenta cambiamenti"
+  },
+  {
+    "claim": "La presenza di lacca implica produzione di massa",
+    "theme": "Artigianato",
+    "status": "non_documentato",
+    "source": "I reperti non quantificano una produzione seriale"
+  }
+]

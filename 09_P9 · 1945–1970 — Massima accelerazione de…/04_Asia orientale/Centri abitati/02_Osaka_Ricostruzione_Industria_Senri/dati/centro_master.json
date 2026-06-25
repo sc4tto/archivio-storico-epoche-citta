@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Osaka, ricostruzione industriale e nuova urbanizzazione",
+    "site": "Osaka, ricostruzione industriale e nuova urbanizzazione",
+    "modern_location": "Osaka, Giappone",
+    "coordinates": {
+      "lat": 34.6937,
+      "lon": 135.5023
+    },
+    "scope": "Osaka fra 1945 e 1970: ricostruzione dopo i bombardamenti, riconversione industriale, porto e reti del Keihanshin, espansione suburbana, Senri New Town, inquinamento, subsidenza e Expo 1970.",
+    "version": "1.0",
+    "warning": "Sono esclusi la fusione amministrativa dei porti con Kobe nei primi anni Settanta, le politiche ambientali successive e le trasformazioni metropolitane dopo Expo 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "OS1",
+      "title": "Encyclopaedia Britannica — History of the Osaka–Kobe metropolitan area",
+      "use": "Distruzione bellica, ricostruzione, industria e relazioni regionali.",
+      "url": "https://www.britannica.com/place/Osaka-Kobe-metropolitan-area/History"
+    },
+    {
+      "id": "OS2",
+      "title": "Encyclopaedia Britannica — Keihanshin Industrial Zone",
+      "use": "Riconversione industriale, infrastrutture, problemi di spazio e subsidenza.",
+      "url": "https://www.britannica.com/place/Keihanshin-Industrial-Zone"
+    },
+    {
+      "id": "OS3",
+      "title": "Osaka Convention & Tourism Bureau — Daikokucho",
+      "use": "Bombardamenti del 1945 e riordino fondiario postbellico.",
+      "url": "https://osaka-info.jp/experience/en/osaka/spot/317"
+    },
+    {
+      "id": "OS4",
+      "title": "Osaka University — The Restructuring of Cotton Spinning Companies in Postwar Japan",
+      "use": "Tessili, alta crescita e riconversione industriale nel dopoguerra.",
+      "url": "https://www2.econ.osaka-u.ac.jp/econ_society/dp/0519.pdf"
+    }
+  ]
+}

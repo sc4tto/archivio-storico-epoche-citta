@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Guadalajara repubblicana e ferroviaria",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Mercati regionali",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Bajío, Chapala e altopiani",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Credito, fiere e grossisti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Produzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Tessili, cuoio e ceramica",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Agave, distillazione e alimenti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Cantera, adobe e cortili",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Neoclassico, ferro e stazioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Hospicio, ospedali e scuole",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Municipio, Stato e Chiesa",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Territorio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Acqua della valle e crescita urbana",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Ferrovie e porti del Pacifico",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

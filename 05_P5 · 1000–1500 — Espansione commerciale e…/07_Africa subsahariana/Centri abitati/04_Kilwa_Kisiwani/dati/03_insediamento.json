@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "w1",
+      "label": "Crescita dell’insediamento in pietra corallina",
+      "lane": "Urbanistica",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "w2",
+      "label": "Sultanato e coniazione monetaria",
+      "lane": "Politica",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "w3",
+      "label": "Espansione della Grande Moschea",
+      "lane": "Religione",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "w4",
+      "label": "Apogeo del commercio dell’oro",
+      "lane": "Economia",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "w5",
+      "label": "Costruzione e uso di Husuni Kubwa",
+      "lane": "Governo",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "w6",
+      "label": "Case in pietra e quartieri mercantili",
+      "lane": "Urbanistica",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "w7",
+      "label": "Reti con Arabia, India e Cina",
+      "lane": "Economia",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "w8",
+      "label": "Concorrenza regionale nel XV secolo",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

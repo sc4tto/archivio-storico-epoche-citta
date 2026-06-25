@@ -1,0 +1,318 @@
+{
+  "nodes": [
+    {
+      "id": "t0",
+      "label": "Pianure risicole del Fiume dei Profumi",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t1",
+      "label": "Lagune, fiumi e costa di Thuận Hóa",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t2",
+      "label": "Orti, colline e villaggi periurbani",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t3",
+      "label": "Tributi Nguyễn e rotte del Mar Cinese meridionale",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "r0",
+      "label": "Riso, mais, legumi e sesamo",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r1",
+      "label": "Pesce, gamberi, molluschi e sale",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r2",
+      "label": "Frutta, verdure, maiale e pollame",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r3",
+      "label": "Tè, spezie, zucchero e derrate regionali",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "a0",
+      "label": "Coltivazione irrigua, imposta e trasporto fluviale",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a1",
+      "label": "Pesca, raccolta lagunare e navigazione",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a2",
+      "label": "Orticoltura, allevamento e mercato",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a3",
+      "label": "Tributo, porti e commercio regionale",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "x0",
+      "label": "Molitura, cottura a vapore e bollitura",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x1",
+      "label": "Essiccazione, salatura e fermentazione",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x2",
+      "label": "Macellazione, grigliatura e conserve",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x3",
+      "label": "Granai, mercati, cucine di corte e pagode",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "p0",
+      "label": "Riso, zuppe, noodles e legumi",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "p1",
+      "label": "Pesce, crostacei e salse fermentate",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "p2",
+      "label": "Carni, frutta e ortaggi",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "p3",
+      "label": "Banchetti Nguyễn–Tây Sơn e consumo urbano",
+      "layer": 4,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "t0",
+      "target": "r0",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "t0",
+      "target": "r2",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "t1",
+      "target": "r1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "t1",
+      "target": "r3",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "t2",
+      "target": "r2",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "t2",
+      "target": "r0",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "t3",
+      "target": "r3",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "t3",
+      "target": "r1",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "r0",
+      "target": "a0",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "r0",
+      "target": "a3",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "r1",
+      "target": "a1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "r1",
+      "target": "a3",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "r2",
+      "target": "a2",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "r2",
+      "target": "a0",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "r3",
+      "target": "a3",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "r3",
+      "target": "a2",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "a0",
+      "target": "x0",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "a0",
+      "target": "x2",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "a1",
+      "target": "x1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "a1",
+      "target": "x0",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "a2",
+      "target": "x2",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "a2",
+      "target": "x3",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "a3",
+      "target": "x3",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "a3",
+      "target": "x1",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "x0",
+      "target": "p0",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "x0",
+      "target": "p3",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "x1",
+      "target": "p1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "x1",
+      "target": "p3",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "x2",
+      "target": "p2",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "x2",
+      "target": "p0",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "x3",
+      "target": "p3",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "x3",
+      "target": "p2",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    }
+  ]
+}

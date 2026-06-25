@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Formazione urbana di Magadha",
+    "Capitale Nanda e Maurya",
+    "Fase Shunga e Kanva",
+    "Trasformazioni dei primi secoli d.C.",
+    "Rinnovamento e declino Gupta"
+  ],
+  "items": [
+    {
+      "id": "palisade",
+      "label": "Palisade lignea e fossati",
+      "lane": "Difensive",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "hall",
+      "label": "Sala colonnata di Kumhrar",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "river",
+      "label": "Approdi e traffici fluviali",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "quarters",
+      "label": "Quartieri domestici e artigiani",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "administration",
+      "label": "Amministrazione imperiale e fiscalità",
+      "lane": "Amministrative",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "monastic",
+      "label": "Monasteri e strutture religiose",
+      "lane": "Religiose",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "decline",
+      "label": "Riduzione delle strutture a Kumhrar",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

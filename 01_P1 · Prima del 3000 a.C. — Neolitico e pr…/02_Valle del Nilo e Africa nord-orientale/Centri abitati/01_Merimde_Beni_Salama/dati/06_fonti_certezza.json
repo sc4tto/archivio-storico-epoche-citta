@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Insediamento neolitico plurifase nel Delta occidentale",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "MERIMDE_ROWLAND"
+  },
+  {
+    "claim": "Agricoltura e allevamento sono presenti nella sequenza",
+    "theme": "Alimentazione",
+    "status": "sintesi",
+    "source": "MERIMDE_QI"
+  },
+  {
+    "claim": "Fosse e strutture di deposito erano integrate nell’abitato",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "MERIMDE_ROWLAND"
+  },
+  {
+    "claim": "Canne e materiali vegetali partecipavano all’edilizia",
+    "theme": "Costruzione",
+    "status": "sintesi",
+    "source": "MERIMDE_ROWLAND"
+  },
+  {
+    "claim": "Il Nilo e le zone umide sostenevano pesca e raccolta",
+    "theme": "Alimentazione",
+    "status": "sintesi",
+    "source": "MERIMDE_QI"
+  },
+  {
+    "claim": "Contatti con il Levante implicano scambi alimentari regolari",
+    "theme": "Commercio",
+    "status": "non_documentato",
+    "source": "I confronti materiali non provano trasferimenti sistematici di derrate"
+  },
+  {
+    "claim": "La popolazione del sito è calcolabile con precisione",
+    "theme": "Demografia",
+    "status": "non_documentato",
+    "source": "Le stime variano con l’estensione e la densità ipotizzate"
+  },
+  {
+    "claim": "Ogni fase ebbe identica organizzazione sociale",
+    "theme": "Società",
+    "status": "non_documentato",
+    "source": "La lunga sequenza richiede analisi per fase"
+  }
+]

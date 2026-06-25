@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Batavia fu capitale amministrativa ed economica delle Indie orientali olandesi.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "JA1; JA2; JA5"
+  },
+  {
+    "claim": "Tanjung Priok era il principale porto moderno della città.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "JA1; JA3"
+  },
+  {
+    "claim": "Quartieri europei e kampung ebbero accesso diseguale ai servizi.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "JA2; JA3"
+  },
+  {
+    "claim": "Ferrovie e tram collegavano porto, centro e periferie.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "JA3; JA5"
+  },
+  {
+    "claim": "La crisi degli anni Trenta colpì le economie di esportazione.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "JA2; JA4"
+  },
+  {
+    "claim": "Le forze giapponesi occuparono la città nel 1942 e promossero il nome Jakarta.",
+    "theme": "conflitti",
+    "status": "documentato",
+    "source": "JA2; JA5"
+  },
+  {
+    "claim": "Romusha, requisizioni e penuria caratterizzarono l’occupazione.",
+    "theme": "violenza",
+    "status": "documentato",
+    "source": "JA2"
+  },
+  {
+    "claim": "La guerra d’indipendenza successiva all’agosto 1945 è esclusa.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "JA5"
+  }
+]

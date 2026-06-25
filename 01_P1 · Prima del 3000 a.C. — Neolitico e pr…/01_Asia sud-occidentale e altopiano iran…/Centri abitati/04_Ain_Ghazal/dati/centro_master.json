@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "‘Ain Ghazal — modulo multi-grafo",
+    "short_name": "‘Ain Ghazal",
+    "site": "‘Ain Ghazal",
+    "modern_location": "Amman, Giordania",
+    "coordinates": {
+      "lat": 31.991,
+      "lon": 35.976
+    },
+    "scope": "PPNB medio e tardo, PPNC e Neolitico ceramico, circa 7250–5000 a.C.",
+    "version": "1.0-blocco-02",
+    "warning": "Le stime di popolazione e le cause del ridimensionamento sono discusse; il modello privilegia dati architettonici e tecnologici."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "DOA_JORDAN",
+      "title": "Department of Antiquities of Jordan — The Neolithic Period 10,200–5,000 BC",
+      "url": "https://doa.gov.jo/En/Pages/Neolithic_Period",
+      "use": "quadro istituzionale del Neolitico giordano e contesto di ‘Ain Ghazal"
+    },
+    {
+      "id": "ROLLEFSON_KAFAFI",
+      "title": "Rollefson & Kafafi — rapporti preliminari degli scavi di ‘Ain Ghazal",
+      "url": "https://publication.doa.gov.jo/Publications/Department%20of%20Antiquities/Publications%20of%20the%20Department%20of%20Antiquities",
+      "use": "sequenza, abitazioni, edifici speciali, sepolture e uso del territorio"
+    },
+    {
+      "id": "BRITISH_MUSEUM",
+      "title": "British Museum — Lime plaster statues from ‘Ain Ghazal",
+      "url": "https://www.britishmuseum.org/collection/term/x32768",
+      "use": "materiali, tecnica e conservazione delle statue in calce su armatura vegetale"
+    },
+    {
+      "id": "GRISSOM_2000",
+      "title": "Grissom — Neolithic Statues from ‘Ain Ghazal: Construction and Form",
+      "url": "https://doi.org/10.2307/506792",
+      "use": "tecnologia delle statue e analisi costruttiva"
+    }
+  ]
+}

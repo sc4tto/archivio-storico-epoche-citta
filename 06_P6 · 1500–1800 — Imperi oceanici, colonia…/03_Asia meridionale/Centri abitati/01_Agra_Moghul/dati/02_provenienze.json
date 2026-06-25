@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Agra",
+      "lat": 27.1767,
+      "lon": 78.0081,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "yam",
+      "label": "Doab dello Yamuna",
+      "lat": 27.45,
+      "lon": 78.05,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "bra",
+      "label": "Braj e Mathura",
+      "lat": 27.49,
+      "lon": 77.67,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "eta",
+      "label": "Etawah e medio Yamuna",
+      "lat": 26.78,
+      "lon": 79.02,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "lah",
+      "label": "Lahore e Punjab",
+      "lat": 31.52,
+      "lon": 74.36,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "sur",
+      "label": "Surat e Gujarat",
+      "lat": 21.17,
+      "lon": 72.83,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "ben",
+      "label": "Bengala",
+      "lat": 23.8,
+      "lon": 90.4,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "yam",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiume e strade del Doab",
+      "food": "cereali, legumi e bestiame"
+    },
+    {
+      "source": "bra",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "mercati regionali",
+      "food": "latte, frutta e ortaggi"
+    },
+    {
+      "source": "eta",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "asse fluviale e terrestre",
+      "food": "grano, riso e legname"
+    },
+    {
+      "source": "lah",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strada imperiale",
+      "food": "cavalli, frutta secca e tessili"
+    },
+    {
+      "source": "sur",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti mercantili moghul",
+      "food": "spezie, metalli e merci oceaniche"
+    },
+    {
+      "source": "ben",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte gangetiche",
+      "food": "riso, zucchero e tessili"
+    }
+  ]
+}

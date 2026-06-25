@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Houston, energia, logistica, alluvioni e alloggi",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Governance regionale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Città, contea, METRO, porto e distretti speciali",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Coordinamento, fondi, dati e responsabilità",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Energia e logistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Petrolio, petrolchimica, porto, aerospazio e medicina",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Transizione energetica, sicurezza e lavoro",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Mobilità dispersa",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "METRORail, bus, freeway, aeroporti e porto",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Accessibilità, dipendenza dall’auto e manutenzione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Acqua e uragani",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Bayou, piogge estreme, Harvey, calore e reti elettriche",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Drenaggio, allerta, ricostruzione e adattamento equo",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Alloggi e giustizia ambientale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Affitti, proprietà, quartieri storici e housing recovery",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Segregazione, displacement, inquinamento e diritti comunitari",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

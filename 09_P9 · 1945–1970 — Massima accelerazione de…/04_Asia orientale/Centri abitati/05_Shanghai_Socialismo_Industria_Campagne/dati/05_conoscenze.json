@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Shanghai, trasformazione socialista e città industriale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Infrastrutture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Porto, ferrovie, tram, strade, energia e telecomunicazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Acqua, fognature, sanità, mense, scuole e servizi di danwei",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Economia urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Tessili, meccanica, cantieristica, chimica e industria alimentare",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Pianificazione, imprese statali, approvvigionamento e razionamento",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Politica e istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Partito-Stato, municipalità, unità di lavoro e organizzazioni di massa",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Campagne politiche, hukou, controllo del lavoro e sicurezza pubblica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Operai, tecnici, quadri, famiglie di danwei e residenti dei lilong",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Comitati di quartiere, scuole, associazioni e mobilitazioni politiche",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Crisi e disuguaglianze",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Guerra civile, carenze alimentari, sovraffollamento e inquinamento",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Repressioni, purghe, lavoro coercitivo e accesso diseguale ai servizi",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

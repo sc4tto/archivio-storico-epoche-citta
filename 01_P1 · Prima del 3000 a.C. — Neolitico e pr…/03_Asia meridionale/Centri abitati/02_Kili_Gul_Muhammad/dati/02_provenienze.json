@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Kili Gul Muhammad",
+      "lat": 30.25,
+      "lon": 66.95,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "quetta",
+      "label": "Valle di Quetta",
+      "lat": 30.2,
+      "lon": 66.9,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": -20,
+      "anchor": "end"
+    },
+    {
+      "id": "streams",
+      "label": "Corsi stagionali",
+      "lat": 30.35,
+      "lon": 67.05,
+      "status": "sintesi",
+      "kind": "locale",
+      "dx": 10,
+      "dy": 25,
+      "anchor": "start"
+    },
+    {
+      "id": "hills",
+      "label": "Colline circostanti",
+      "lat": 30.5,
+      "lon": 66.6,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 28,
+      "anchor": "middle"
+    },
+    {
+      "id": "bolan",
+      "label": "Passo di Bolan e piana di Kachi",
+      "lat": 29.8,
+      "lon": 67.4,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "iran",
+      "label": "Altopiano iranico",
+      "lat": 30.0,
+      "lon": 61.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "quetta",
+      "target": "site",
+      "label": "suoli, pascoli e colture",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "streams",
+      "target": "site",
+      "label": "acqua e argille",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "hills",
+      "target": "site",
+      "label": "pietra, pascolo e caccia",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "bolan",
+      "target": "site",
+      "label": "collegamenti con Mehrgarh e Kachi",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "iran",
+      "target": "site",
+      "label": "confronti ceramici e tecnologici",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

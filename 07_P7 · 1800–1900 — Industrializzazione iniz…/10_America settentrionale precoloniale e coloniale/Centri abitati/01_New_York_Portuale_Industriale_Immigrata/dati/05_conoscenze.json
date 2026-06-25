@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di New York portuale, industriale e immigrata",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Porto e commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Docks, dogane e linee a vapore",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Canale Erie, ferrovie e magazzini",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Infrastrutture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Croton Aqueduct e fognature",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Ponti, traghetti e pavimentazioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Industria",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Confezioni, stampa e lavorazione alimentare",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Finanza, assicurazioni e distribuzione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Immigrazione e quartieri etnici",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Tenements, lavoro minorile e riforme",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Conflitti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Segregazione razziale e violenza",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Espropriazione Lenape e memoria indigena",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

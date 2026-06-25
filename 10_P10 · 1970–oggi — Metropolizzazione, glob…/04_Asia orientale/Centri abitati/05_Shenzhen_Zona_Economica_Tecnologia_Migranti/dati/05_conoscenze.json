@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Shenzhen, zona economica, tecnologia, mobilità elettrica e migranti",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Manifattura e innovazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Elettronica, telecomunicazioni e hardware",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Ricerca, startup e catene globali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Lavoro migrante",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Fabbriche, dormitori e urban villages",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Hukou, salari, sicurezza e protezione sociale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Mobilità elettrica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Autobus, taxi, batterie e ricarica",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Gestione della flotta e rete energetica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Pianificazione della baia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Qianhai, Hong Kong e corridoi regionali",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Porti, finanza e cooperazione transfrontaliera",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Clima costiero",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Tifoni, piogge, drenaggio e mare",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Calore, resilienza e decarbonizzazione",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

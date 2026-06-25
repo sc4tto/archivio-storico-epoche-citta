@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Nel 1945 circa 600.000 appartamenti berlinesi erano distrutti e la popolazione era molto inferiore al livello prebellico.",
+    "theme": "distruzione",
+    "status": "documentato",
+    "source": "BE1"
+  },
+  {
+    "claim": "Il blocco del 1948–1949 fu contrastato dal ponte aereo occidentale e accelerò la divisione amministrativa della città.",
+    "theme": "guerra fredda",
+    "status": "documentato",
+    "source": "BE1"
+  },
+  {
+    "claim": "La ricostruzione seguì modelli concorrenti a Est e Ovest, fra monumentalità socialista, prefabbricazione e modernismo occidentale.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "BE3; BE4"
+  },
+  {
+    "claim": "Il Muro del 1961 fu costruito per bloccare l’esodo dalla RDT e separò coercitivamente famiglie, lavoro e trasporti.",
+    "theme": "coercizione",
+    "status": "documentato",
+    "source": "BE2"
+  },
+  {
+    "claim": "Alexanderplatz fu trasformata come centro rappresentativo della capitale della RDT entro il 1970.",
+    "theme": "centro urbano",
+    "status": "documentato",
+    "source": "BE4"
+  },
+  {
+    "claim": "Berlino divisa, ricostruzione e Muro è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Occupazione, blocco, repressione armata della rivolta del 1953, sorveglianza, chiusura del confine e costruzione del Muro sono descritti esplicitamente come sistemi di coercizione e violenza politica; le persone uccise, ferite o separate non sono ridotte a effetti collaterali della pianificazione.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

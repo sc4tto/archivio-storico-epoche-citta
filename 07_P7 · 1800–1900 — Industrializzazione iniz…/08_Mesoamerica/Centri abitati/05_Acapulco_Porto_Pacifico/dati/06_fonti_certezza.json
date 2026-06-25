@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Acapulco perse parte della propria centralità dopo la fine del galeone di Manila.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "AC1; AC2"
+  },
+  {
+    "claim": "Il Forte San Diego rimase il principale presidio difensivo e doganale del porto.",
+    "theme": "difesa",
+    "status": "documentato",
+    "source": "AC2; AC5"
+  },
+  {
+    "claim": "La guerra d’indipendenza e il Plan de Ayutla coinvolsero direttamente la città.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "AC1; AC3"
+  },
+  {
+    "claim": "I transiti verso California e Panama favorirono una ripresa a metà Ottocento.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "AC1; AC4"
+  },
+  {
+    "claim": "La navigazione a vapore rafforzò i collegamenti costieri e internazionali.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "AC4; AC5"
+  },
+  {
+    "claim": "L’isolamento terrestre e i terremoti limitarono la crescita urbana.",
+    "theme": "vincoli",
+    "status": "documentato",
+    "source": "AC1; AC3"
+  },
+  {
+    "claim": "Il porto dipendeva da pesca, cabotaggio e rifornimenti dall’entroterra del Guerrero.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "AC3; AC4"
+  },
+  {
+    "claim": "Le trasformazioni turistiche successive al 1900 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "AC1"
+  }
+]

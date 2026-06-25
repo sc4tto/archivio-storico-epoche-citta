@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Saigon era il principale porto e centro amministrativo della Cocincina francese.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "SA1; SA2; SA5"
+  },
+  {
+    "claim": "Cholon costituiva un grande polo commerciale cinese collegato a Saigon.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "SA1; SA3; SA4"
+  },
+  {
+    "claim": "Riso e gomma sostenevano un’economia coloniale orientata all’esportazione.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "SA1; SA2"
+  },
+  {
+    "claim": "Ferrovie, tram, porto e servizi moderni furono distribuiti in modo diseguale.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "SA1; SA4"
+  },
+  {
+    "claim": "Il lavoro nelle piantagioni poteva essere vincolato, coercitivo e ad alta mortalità.",
+    "theme": "lavoro",
+    "status": "documentato",
+    "source": "SA1; SA2"
+  },
+  {
+    "claim": "Movimenti nazionalisti e operai furono repressi dalle autorità coloniali.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "SA2; SA3"
+  },
+  {
+    "claim": "La presenza giapponese e il colpo del marzo 1945 alterarono governo e approvvigionamenti.",
+    "theme": "conflitti",
+    "status": "documentato",
+    "source": "SA2; SA5"
+  },
+  {
+    "claim": "La guerra d’Indocina successiva all’agosto 1945 è esclusa.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "SA5"
+  }
+]

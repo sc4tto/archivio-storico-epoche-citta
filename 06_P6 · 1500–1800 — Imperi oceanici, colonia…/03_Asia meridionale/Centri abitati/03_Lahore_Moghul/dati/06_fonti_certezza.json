@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Lahore fu una delle principali città dell’Impero moghul.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "LA1; LA2"
+  },
+  {
+    "claim": "Akbar vi stabilì temporaneamente la capitale e rafforzò il forte.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "LA1; LA2"
+  },
+  {
+    "claim": "Forte e Shalimar Gardens rappresentano l’architettura di corte moghul.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "LA1"
+  },
+  {
+    "claim": "Bazar e quartieri suburbani collegavano la città ai mercati del Punjab.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "LA2; LA5"
+  },
+  {
+    "claim": "La città era un nodo delle rotte verso Kabul e Kashmir.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "LA2; LA5"
+  },
+  {
+    "claim": "Il XVII secolo vide una forte produzione artistica e letteraria persianata.",
+    "theme": "cultura",
+    "status": "documentato",
+    "source": "LA2; LA3"
+  },
+  {
+    "claim": "Il XVIII secolo fu segnato da invasioni e instabilità politica.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "LA2"
+  },
+  {
+    "claim": "La fase sikh è trattata solo come transizione finale del modulo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "LA2"
+  }
+]

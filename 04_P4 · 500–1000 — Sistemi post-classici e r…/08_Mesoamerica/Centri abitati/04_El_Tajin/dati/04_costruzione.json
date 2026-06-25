@@ -1,0 +1,264 @@
+{
+  "nodes": [
+    {
+      "id": "m_stone",
+      "label": "Arenaria e pietra locale",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_lime",
+      "label": "Calce, malta e intonaco",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_earth",
+      "label": "Terra e riempimenti di terrazza",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_wood",
+      "label": "Legname e fibre",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "o_cut",
+      "label": "Taglio, posa e scolpitura della pietra",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_plaster",
+      "label": "Produzione della calce e pittura",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_terrace",
+      "label": "Livellamento, drenaggio e terrapieni",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_carpentry",
+      "label": "Carpenteria e coperture",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "c_niches",
+      "label": "Nicchie, cornici e greche",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_reliefs",
+      "label": "Colonne, rilievi e pannelli",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_platforms",
+      "label": "Piattaforme, scale e drenaggi",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_rooms",
+      "label": "Muri, portici e ambienti coperti",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "s_pyramid",
+      "label": "Piramide delle Nicchie e templi",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_ballcourts",
+      "label": "Campi da gioco della palla",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_palaces",
+      "label": "Palazzi di Tajín Chico",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_plazas",
+      "label": "Piazze, terrazze e quartieri",
+      "layer": 3,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m_stone",
+      "target": "o_cut",
+      "status": "documentato",
+      "label": "blocchi e decorazione"
+    },
+    {
+      "source": "m_stone",
+      "target": "o_plaster",
+      "status": "documentato",
+      "label": "calcare per malte"
+    },
+    {
+      "source": "m_lime",
+      "target": "o_plaster",
+      "status": "documentato",
+      "label": "intonaci e pitture"
+    },
+    {
+      "source": "m_earth",
+      "target": "o_terrace",
+      "status": "documentato",
+      "label": "riempimenti"
+    },
+    {
+      "source": "m_earth",
+      "target": "o_plaster",
+      "status": "sintesi",
+      "label": "intonaci terrosi"
+    },
+    {
+      "source": "m_wood",
+      "target": "o_carpentry",
+      "status": "documentato",
+      "label": "tetti e architravi"
+    },
+    {
+      "source": "m_wood",
+      "target": "o_plaster",
+      "status": "documentato",
+      "label": "combustibile"
+    },
+    {
+      "source": "o_cut",
+      "target": "c_niches",
+      "status": "documentato",
+      "label": "moduli di nicchie"
+    },
+    {
+      "source": "o_cut",
+      "target": "c_reliefs",
+      "status": "documentato",
+      "label": "colonne e fregi"
+    },
+    {
+      "source": "o_cut",
+      "target": "c_platforms",
+      "status": "documentato",
+      "label": "gradini e cordoli"
+    },
+    {
+      "source": "o_plaster",
+      "target": "c_niches",
+      "status": "documentato",
+      "label": "finitura delle facciate"
+    },
+    {
+      "source": "o_plaster",
+      "target": "c_reliefs",
+      "status": "documentato",
+      "label": "pittura e modellato"
+    },
+    {
+      "source": "o_plaster",
+      "target": "c_rooms",
+      "status": "documentato",
+      "label": "rivestimenti interni"
+    },
+    {
+      "source": "o_terrace",
+      "target": "c_platforms",
+      "status": "documentato",
+      "label": "terrazzamenti"
+    },
+    {
+      "source": "o_terrace",
+      "target": "c_rooms",
+      "status": "sintesi",
+      "label": "livelli per palazzi"
+    },
+    {
+      "source": "o_carpentry",
+      "target": "c_rooms",
+      "status": "documentato",
+      "label": "coperture"
+    },
+    {
+      "source": "o_carpentry",
+      "target": "c_reliefs",
+      "status": "sintesi",
+      "label": "ponteggi"
+    },
+    {
+      "source": "c_niches",
+      "target": "s_pyramid",
+      "status": "documentato",
+      "label": "facciata simbolica"
+    },
+    {
+      "source": "c_niches",
+      "target": "s_palaces",
+      "status": "documentato",
+      "label": "decorazioni di Tajín Chico"
+    },
+    {
+      "source": "c_reliefs",
+      "target": "s_ballcourts",
+      "status": "documentato",
+      "label": "pannelli rituali"
+    },
+    {
+      "source": "c_reliefs",
+      "target": "s_palaces",
+      "status": "documentato",
+      "label": "colonne scolpite"
+    },
+    {
+      "source": "c_reliefs",
+      "target": "s_pyramid",
+      "status": "documentato",
+      "label": "fregi e cornici"
+    },
+    {
+      "source": "c_platforms",
+      "target": "s_pyramid",
+      "status": "documentato",
+      "label": "basamenti"
+    },
+    {
+      "source": "c_platforms",
+      "target": "s_ballcourts",
+      "status": "documentato",
+      "label": "tribune e campi"
+    },
+    {
+      "source": "c_platforms",
+      "target": "s_plazas",
+      "status": "documentato",
+      "label": "terrazzamenti urbani"
+    },
+    {
+      "source": "c_rooms",
+      "target": "s_palaces",
+      "status": "documentato",
+      "label": "sale e portici"
+    },
+    {
+      "source": "c_rooms",
+      "target": "s_plazas",
+      "status": "documentato",
+      "label": "quartieri e edifici pubblici"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Suzhou fu uno dei principali centri commerciali e manifatturieri del Jiangnan.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "SZ2; SZ3"
+  },
+  {
+    "claim": "La produzione e il commercio della seta furono centrali nell’economia urbana.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "SZ3"
+  },
+  {
+    "claim": "I giardini classici raggiunsero particolare sviluppo nelle epoche Ming e Qing.",
+    "theme": "paesaggio",
+    "status": "documentato",
+    "source": "SZ1"
+  },
+  {
+    "claim": "Canali e ponti organizzavano il trasporto e la forma urbana.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "SZ2; SZ3"
+  },
+  {
+    "claim": "Le residenze di letterati integravano architettura, acqua, rocce e vegetazione.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "SZ1"
+  },
+  {
+    "claim": "Stampa, pittura e teatro contribuirono alla cultura urbana.",
+    "theme": "cultura",
+    "status": "documentato",
+    "source": "SZ4; SZ5"
+  },
+  {
+    "claim": "La conquista Qing non cancellò il ruolo mercantile della città.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "SZ3"
+  },
+  {
+    "claim": "Le trasformazioni industriali del XIX secolo sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "SZ3"
+  }
+]

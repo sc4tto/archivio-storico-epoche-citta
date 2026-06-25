@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Gerusalemme — modulo multi-grafo",
+    "short_name": "Gerusalemme",
+    "site": "Gerusalemme bizantina e islamica antica",
+    "modern_location": "Gerusalemme",
+    "coordinates": {
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "scope": "Città sacra e fortificata trasformata fra VI e X secolo: centro cristiano bizantino, conquistata nel 638, sede del complesso del Haram al-Sharif con Cupola della Roccia e al-Aqsa, e luogo di convivenza, conflitto e pellegrinaggio per comunità cristiane, ebraiche e musulmane.",
+    "version": "1.0-blocco_37_p4_asia_so_5_centri_v1",
+    "warning": "Il modulo evita di proiettare le mura ottomane e l’attuale divisione in quartieri sul P4. Datazioni e funzioni di singoli edifici sono separate dalle tradizioni religiose; le denominazioni politiche contemporanee non vengono usate per definire la topografia antica."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "JER_UNESCO",
+      "title": "UNESCO — Old City of Jerusalem and its Walls",
+      "url": "https://whc.unesco.org/en/list/148/",
+      "use": "monumenti religiosi, Cupola della Roccia e valore stratificato"
+    },
+    {
+      "id": "JER_ARCHNET",
+      "title": "Archnet — Dome of the Rock",
+      "url": "https://www.archnet.org/sites/49",
+      "use": "architettura omayyade e decorazione"
+    },
+    {
+      "id": "JER_OXFORD",
+      "title": "Oxford Archaeological Guide — Jerusalem",
+      "url": "https://global.oup.com/academic/product/the-holy-land-9780199236664",
+      "use": "topografia e stratigrafia urbana"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Antigua Guatemala capitale coloniale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Rischio sismico",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Muri bassi e contrafforti",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Ricostruzioni e riuso dei materiali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Capitale regionale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Audiencia, cabildo e fiscalità",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Reti verso province centroamericane",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Pietra vulcanica, adobe e calce",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Volte, cupole e facciate barocche",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Acqua e città",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Acquedotti, fontane e drenaggi",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Huertas e mulini",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Società coloniale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Comunità kaqchikel e spagnole",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Tributi, repartimiento e confraternite",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

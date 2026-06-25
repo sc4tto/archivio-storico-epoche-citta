@@ -1,0 +1,234 @@
+{
+  "nodes": [
+    {
+      "id": "env1",
+      "label": "Stagno di torba presso la cresta atlantica",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "env2",
+      "label": "Zone umide, lagune e foreste della Florida",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "env3",
+      "label": "Falda e livelli marini in crescita nell’Olocene",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "res1",
+      "label": "Frutti, semi e piante di zona umida",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "res2",
+      "label": "Fibre vegetali, stuoie e tessili",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "res3",
+      "label": "Cervo, procione, opossum e uccelli",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "res4",
+      "label": "Pesci e molluschi",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "res5",
+      "label": "Zucca bottiglia e piante spontanee",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "acq1",
+      "label": "Raccolta stagionale e gestione di contenitori",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "acq2",
+      "label": "Caccia con atlatl e proiettili",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "acq3",
+      "label": "Pesca e raccolta nelle acque interne",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "tr1",
+      "label": "Frantumazione e preparazione vegetale",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "tr2",
+      "label": "Cottura su focolari regionali",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "tr3",
+      "label": "Intreccio, tessitura e deposito",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "tr4",
+      "label": "Macellazione e lavorazione delle pelli",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "out1",
+      "label": "Pasti misti di foresta e zona umida",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "out2",
+      "label": "Tessili, strumenti, botanica e resti umani",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "out3",
+      "label": "Depositi di torba e corredi funerari",
+      "layer": 4,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "env1",
+      "target": "res1",
+      "label": "ambiente e disponibilità",
+      "status": "sintesi"
+    },
+    {
+      "source": "env1",
+      "target": "res2",
+      "label": "ambiente e disponibilità",
+      "status": "sintesi"
+    },
+    {
+      "source": "env2",
+      "target": "res3",
+      "label": "habitat e stagionalità",
+      "status": "sintesi"
+    },
+    {
+      "source": "env2",
+      "target": "res4",
+      "label": "acqua e risorse",
+      "status": "sintesi"
+    },
+    {
+      "source": "env3",
+      "target": "res5",
+      "label": "paesaggio e raccolta",
+      "status": "sintesi"
+    },
+    {
+      "source": "res1",
+      "target": "acq1",
+      "label": "raccolta o gestione",
+      "status": "sintesi"
+    },
+    {
+      "source": "res2",
+      "target": "acq1",
+      "label": "raccolta o gestione",
+      "status": "sintesi"
+    },
+    {
+      "source": "res3",
+      "target": "acq2",
+      "label": "caccia o cattura",
+      "status": "documentato"
+    },
+    {
+      "source": "res4",
+      "target": "acq3",
+      "label": "pesca o raccolta",
+      "status": "documentato"
+    },
+    {
+      "source": "res5",
+      "target": "acq3",
+      "label": "raccolta mirata",
+      "status": "documentato"
+    },
+    {
+      "source": "acq1",
+      "target": "tr1",
+      "label": "trasformazione vegetale",
+      "status": "sintesi"
+    },
+    {
+      "source": "acq1",
+      "target": "tr3",
+      "label": "conservazione",
+      "status": "documentato"
+    },
+    {
+      "source": "acq2",
+      "target": "tr4",
+      "label": "lavorazione faunistica",
+      "status": "documentato"
+    },
+    {
+      "source": "acq3",
+      "target": "tr2",
+      "label": "cottura",
+      "status": "sintesi"
+    },
+    {
+      "source": "acq3",
+      "target": "tr4",
+      "label": "trattamento",
+      "status": "documentato"
+    },
+    {
+      "source": "tr1",
+      "target": "out1",
+      "label": "preparazione",
+      "status": "sintesi"
+    },
+    {
+      "source": "tr2",
+      "target": "out1",
+      "label": "cottura",
+      "status": "sintesi"
+    },
+    {
+      "source": "tr3",
+      "target": "out2",
+      "label": "depositi o contenitori",
+      "status": "documentato"
+    },
+    {
+      "source": "tr4",
+      "target": "out2",
+      "label": "resti e strumenti",
+      "status": "documentato"
+    },
+    {
+      "source": "tr2",
+      "target": "out3",
+      "label": "cenere e rifiuti",
+      "status": "documentato"
+    }
+  ]
+}

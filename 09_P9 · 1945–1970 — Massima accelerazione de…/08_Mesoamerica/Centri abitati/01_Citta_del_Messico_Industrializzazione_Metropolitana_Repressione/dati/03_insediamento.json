@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1945–1949",
+    "1950–1954",
+    "1955–1959",
+    "1960–1964",
+    "1965–1970"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Concentrazione industriale e migrazione accelerata nel dopoguerra",
+      "lane": "Economia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Costruzione e apertura di Ciudad Universitaria nel 1952",
+      "lane": "Istruzione",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Reggenza Uruchurtu e grandi opere viarie e di servizio",
+      "lane": "Governo",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Edificazione dell’Unidad Nonoalco-Tlatelolco",
+      "lane": "Abitazione",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Espansione continua verso lo Stato del Messico",
+      "lane": "Urbanizzazione",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Giochi olimpici e infrastrutture del 1968",
+      "lane": "Grandi opere",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Repressione del movimento studentesco e massacro di Tlatelolco",
+      "lane": "Repressione",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Apertura della prima linea del Metro nel 1969",
+      "lane": "Trasporti",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

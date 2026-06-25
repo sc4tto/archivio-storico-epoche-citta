@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Monte Albán — modulo multi-grafo",
+    "short_name": "Monte Albán",
+    "site": "Zona archeologica di Monte Albán",
+    "modern_location": "Oaxaca, Messico",
+    "coordinates": {
+      "lat": 17.0439,
+      "lon": -96.7677
+    },
+    "scope": "Capitale zapoteca costruita su una cima modificata delle Valli centrali di Oaxaca, con Grande Piazza, terrazze, templi, tombe, campi da gioco, iscrizioni e reti regionali fra circa 500 a.C. e il primo millennio d.C.",
+    "version": "1.0-blocco_33_p3_mesoamerica_5_centri_v1",
+    "warning": "Le etichette “olmechi”, “zapotechi” e “mixtechi” descrivono fasi e tradizioni complesse. Le figure dette Danzantes non sono semplicemente danzatori e la loro interpretazione rimane discussa."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "MONTE_UNESCO",
+      "title": "UNESCO — Historic Centre of Oaxaca and Archaeological Site of Monte Albán",
+      "url": "https://whc.unesco.org/en/list/415/",
+      "use": "cronologia, topografia sacra e architettura"
+    },
+    {
+      "id": "MONTE_INAH",
+      "title": "INAH — Zona arqueológica de Monte Albán",
+      "url": "https://www.inah.gob.mx/zonas/94-zona-arqueologica-de-monte-alban",
+      "use": "monumenti e tutela"
+    },
+    {
+      "id": "MONTE_BLANTON",
+      "title": "Richard Blanton — Monte Albán",
+      "url": "https://search.worldcat.org/search?q=Ancient+Oaxaca+Monte+Alban+Blanton",
+      "use": "urbanizzazione e sistemi regionali"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Quito ferroviaria, moderna e rivoluzionaria",
+    "site": "Quito ferroviaria, moderna e rivoluzionaria",
+    "modern_location": "Quito, Ecuador",
+    "coordinates": {
+      "lat": -0.1807,
+      "lon": -78.4678
+    },
+    "scope": "Quito fra 1900 e 1945: completamento della ferrovia Guayaquil–Quito, stazione di Chimbacalle, tram, espansione verso nord, crisi politica, guerra con il Perù e La Gloriosa del 1944.",
+    "version": "1.0",
+    "warning": "Sono escluse la grande espansione metropolitana, l’aeroporto moderno e le trasformazioni successive al 1945."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "QU1",
+      "title": "UNESCO — City of Quito",
+      "use": "Patrimonio urbano e continuità del centro storico.",
+      "url": "https://whc.unesco.org/en/list/2/"
+    },
+    {
+      "id": "QU2",
+      "title": "Instituto Metropolitano de Patrimonio de Quito",
+      "use": "Architettura, cartografia e conservazione urbana.",
+      "url": "https://www.patrimonio.quito.gob.ec/"
+    },
+    {
+      "id": "QU3",
+      "title": "Archivo Metropolitano de Historia de Quito",
+      "use": "Fonti amministrative e fotografiche.",
+      "url": "https://archivoqhistorico.quito.gob.ec/"
+    },
+    {
+      "id": "QU4",
+      "title": "Biblioteca Nacional Eugenio Espejo",
+      "use": "Periodici, mappe e studi storici.",
+      "url": "https://www.bne.gob.ec/"
+    },
+    {
+      "id": "QU5",
+      "title": "Universidad Andina Simón Bolívar — Repositorio",
+      "use": "Studi su ferrovia, politica e società ecuadoriana.",
+      "url": "https://repositorio.uasb.edu.ec/"
+    }
+  ]
+}

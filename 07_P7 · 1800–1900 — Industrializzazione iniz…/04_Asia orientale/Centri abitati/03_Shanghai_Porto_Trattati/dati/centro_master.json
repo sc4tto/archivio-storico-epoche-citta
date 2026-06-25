@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Shanghai, porto dei trattati",
+    "site": "Shanghai, porto dei trattati",
+    "modern_location": "Shanghai, Cina",
+    "coordinates": {
+      "lat": 31.2304,
+      "lon": 121.4737
+    },
+    "scope": "Shanghai fra 1800 e 1900: porto del delta dello Yangzi, trattati ineguali, concessioni, migrazioni, commercio di seta e tè, banche, cantieri, filature e infrastrutture municipali.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. La Repubblica, il boom degli anni 1920–1930, l’occupazione giapponese e la metropoli contemporanea sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SH1",
+      "title": "Encyclopaedia Britannica — Shanghai",
+      "use": "Storia del porto, concessioni e crescita urbana.",
+      "url": "https://www.britannica.com/place/Shanghai"
+    },
+    {
+      "id": "SH2",
+      "title": "Shanghai Municipal Archives",
+      "use": "Mappe, documenti e amministrazione urbana.",
+      "url": "https://www.archives.sh.cn/"
+    },
+    {
+      "id": "SH3",
+      "title": "Virtual Shanghai — Institut d’Asie Orientale",
+      "use": "Cartografia e storia spaziale della città.",
+      "url": "https://www.virtualshanghai.net/"
+    },
+    {
+      "id": "SH4",
+      "title": "Harvard-Yenching Library — Treaty Port China collections",
+      "use": "Fonti cartografiche e commerciali.",
+      "url": "https://library.harvard.edu/libraries/harvard-yenching"
+    },
+    {
+      "id": "SH5",
+      "title": "The Metropolitan Museum of Art — China in the nineteenth century",
+      "use": "Cultura materiale e contesto Qing.",
+      "url": "https://www.metmuseum.org/toah/hd/chnn/hd_chnn.htm"
+    }
+  ]
+}

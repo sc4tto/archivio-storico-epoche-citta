@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Spiaggia e laguna prima dell’occupazione",
+    "Insediamento Lapita",
+    "Produzione e uso della ceramica",
+    "Transizione verso Plainware",
+    "Sommersione, lavori portuali e ricerca"
+  ],
+  "items": [
+    {
+      "id": "beach",
+      "label": "Spiaggia lagunare antica",
+      "lane": "Paesaggio",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "pottery",
+      "label": "Ceramica Lapita decorata",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "plain",
+      "label": "Ceramiche comuni",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "adzes",
+      "label": "Asce e strumenti litici",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "fishing",
+      "label": "Pesca e raccolta marina",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Spazi abitativi costieri",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "submerge",
+      "label": "Sommersione e trasformazione portuale",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

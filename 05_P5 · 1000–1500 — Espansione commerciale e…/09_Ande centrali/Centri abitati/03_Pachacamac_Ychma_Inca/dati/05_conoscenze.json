@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Pachacamac fra Ychma e Inca",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Architettura in terra",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Adobes e rampe",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Intonaci e pitture",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Pellegrinaggio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Gestione dei percorsi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Accoglienza e offerte",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Idraulica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Canali della valle",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Gestione delle riserve",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Ritualità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Oracolo e sacrifici",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Calendari cerimoniali",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Amministrazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Depositi e personale",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Integrazione inca",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "nodes": [
+    {
+      "id": "t_bajos",
+      "label": "Bajos e zone umide stagionali",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_uplands",
+      "label": "Terre alte e campi di milpa",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_reservoirs",
+      "label": "Aguadas e bacini urbani",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_forest",
+      "label": "Foresta e margini agricoli",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "r_maize",
+      "label": "Mais, fagioli e zucca",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_fruit",
+      "label": "Frutti, cacao e piante utili",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "r_game",
+      "label": "Cervi, tacchini e piccola fauna",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_aquatic",
+      "label": "Pesci, tartarughe e risorse d’acqua",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "a_farm",
+      "label": "Coltivazione e gestione dei suoli",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_water",
+      "label": "Raccolta e distribuzione dell’acqua",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_hunt",
+      "label": "Caccia, cattura e raccolta",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_tribute",
+      "label": "Scambio, tributo e redistribuzione",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "x_grind",
+      "label": "Macinazione e preparazione alcalina",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x_cook",
+      "label": "Cottura in focolari e recipienti",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x_dry",
+      "label": "Essiccazione, tostatura e affumicatura",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "x_store",
+      "label": "Stoccaggio e servizio in ceramica",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "p_staples",
+      "label": "Tamales, tortillas, pappe e stufati",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_drinks",
+      "label": "Bevande di cacao e mais",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "p_preserved",
+      "label": "Carni e risorse conservate",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_provision",
+      "label": "Rifornimento domestico, rituale e di corte",
+      "layer": 4,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "t_bajos",
+      "target": "r_maize",
+      "status": "documentato",
+      "label": "colture adattate a suoli stagionalmente umidi"
+    },
+    {
+      "source": "t_uplands",
+      "target": "r_maize",
+      "status": "documentato",
+      "label": "milpa e coltivazione intensiva"
+    },
+    {
+      "source": "t_uplands",
+      "target": "r_fruit",
+      "status": "sintesi",
+      "label": "orti e arboricoltura"
+    },
+    {
+      "source": "t_forest",
+      "target": "r_fruit",
+      "status": "documentato",
+      "label": "raccolta e gestione di specie utili"
+    },
+    {
+      "source": "t_forest",
+      "target": "r_game",
+      "status": "documentato",
+      "label": "habitat di caccia"
+    },
+    {
+      "source": "t_reservoirs",
+      "target": "r_aquatic",
+      "status": "sintesi",
+      "label": "risorse acquatiche e fauna dei bacini"
+    },
+    {
+      "source": "r_maize",
+      "target": "a_farm",
+      "status": "documentato",
+      "label": "produzione agricola"
+    },
+    {
+      "source": "r_maize",
+      "target": "a_tribute",
+      "status": "sintesi",
+      "label": "surplus e redistribuzione"
+    },
+    {
+      "source": "r_fruit",
+      "target": "a_farm",
+      "status": "sintesi",
+      "label": "orti e colture permanenti"
+    },
+    {
+      "source": "r_fruit",
+      "target": "a_tribute",
+      "status": "documentato",
+      "label": "beni di prestigio e scambio"
+    },
+    {
+      "source": "r_game",
+      "target": "a_hunt",
+      "status": "documentato",
+      "label": "caccia e cattura"
+    },
+    {
+      "source": "r_aquatic",
+      "target": "a_hunt",
+      "status": "documentato",
+      "label": "pesca e raccolta"
+    },
+    {
+      "source": "r_aquatic",
+      "target": "a_water",
+      "status": "sintesi",
+      "label": "gestione dei bacini"
+    },
+    {
+      "source": "a_farm",
+      "target": "x_grind",
+      "status": "documentato",
+      "label": "lavorazione dei cereali"
+    },
+    {
+      "source": "a_farm",
+      "target": "x_store",
+      "status": "documentato",
+      "label": "conservazione dei raccolti"
+    },
+    {
+      "source": "a_water",
+      "target": "x_cook",
+      "status": "sintesi",
+      "label": "acqua per preparazioni alimentari"
+    },
+    {
+      "source": "a_hunt",
+      "target": "x_dry",
+      "status": "sintesi",
+      "label": "conservazione di carne e pesce"
+    },
+    {
+      "source": "a_hunt",
+      "target": "x_cook",
+      "status": "documentato",
+      "label": "cottura domestica"
+    },
+    {
+      "source": "a_tribute",
+      "target": "x_store",
+      "status": "documentato",
+      "label": "magazzini e servizio di corte"
+    },
+    {
+      "source": "a_tribute",
+      "target": "x_cook",
+      "status": "sintesi",
+      "label": "banchetti e redistribuzione"
+    },
+    {
+      "source": "x_grind",
+      "target": "p_staples",
+      "status": "documentato",
+      "label": "preparazioni di base"
+    },
+    {
+      "source": "x_grind",
+      "target": "p_drinks",
+      "status": "sintesi",
+      "label": "bevande di mais"
+    },
+    {
+      "source": "x_cook",
+      "target": "p_staples",
+      "status": "documentato",
+      "label": "pasti domestici"
+    },
+    {
+      "source": "x_cook",
+      "target": "p_provision",
+      "status": "sintesi",
+      "label": "pasti collettivi"
+    },
+    {
+      "source": "x_dry",
+      "target": "p_preserved",
+      "status": "sintesi",
+      "label": "conservazione"
+    },
+    {
+      "source": "x_store",
+      "target": "p_provision",
+      "status": "documentato",
+      "label": "approvvigionamento urbano"
+    },
+    {
+      "source": "x_store",
+      "target": "p_drinks",
+      "status": "documentato",
+      "label": "cacao e contenitori di servizio"
+    }
+  ]
+}

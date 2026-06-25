@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Nok iniziale — modulo multi-grafo",
+    "short_name": "Nok iniziale",
+    "site": "Primi siti della tradizione Nok",
+    "modern_location": "Nigeria centrale, altopiano di Jos e bacino del Kaduna",
+    "coordinates": {
+      "lat": 9.55,
+      "lon": 8.85
+    },
+    "scope": "Fase iniziale della tradizione Nok, dalla metà del II millennio a.C., con villaggi agricoli, miglio, ceramica, macine e prime produzioni in terracotta; la metallurgia del ferro appartiene soprattutto allo sviluppo terminale e successivo.",
+    "version": "1.0-blocco_20_p2_africa_subsahariana_5_centri_v1",
+    "warning": "La cultura Nok copre un’area vasta e molti secoli. Le celebri terracotte prive di contesto e le antiche date della metallurgia richiedono cautela; il modulo separa la fase iniziale P2 dagli sviluppi dell’età del Ferro."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "NOK_BREUNIG",
+      "title": "Breunig — Nok: African Sculpture in Archaeological Context",
+      "url": "https://www.cambridge.org/core/",
+      "use": "cronologia, siti, terracotte e contesti archeologici"
+    },
+    {
+      "id": "NOK_CHAMPION",
+      "title": "Champion et al. — Pearl millet consumption at Nok culture sites",
+      "url": "https://link.springer.com/journal/367",
+      "use": "archeobotanica e consumo rituale del miglio"
+    },
+    {
+      "id": "NOK_ANTIQUITY",
+      "title": "Breunig e Rupp — An outline of recent studies on the Nigerian Nok culture",
+      "url": "https://www.cambridge.org/core/journals/antiquity",
+      "use": "ricerca recente, siti e problemi di saccheggio"
+    }
+  ]
+}

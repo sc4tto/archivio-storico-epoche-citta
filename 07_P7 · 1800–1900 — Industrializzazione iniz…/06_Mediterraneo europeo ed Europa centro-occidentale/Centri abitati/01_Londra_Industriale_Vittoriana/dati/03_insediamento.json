@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1800–1820",
+    "1820–1840",
+    "1840–1860",
+    "1860–1880",
+    "1880–1900"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Crescita dei docks e del commercio imperiale",
+      "lane": "Economia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Incendio del Parlamento e ricostruzione di Westminster",
+      "lane": "Architettura",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Ferrovie terminali e urbanizzazione metropolitana",
+      "lane": "Infrastrutture",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Grande Esposizione del 1851",
+      "lane": "Cultura",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Colera, Great Stink e nuova rete fognaria",
+      "lane": "Rischi",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Metropolitan Railway e trasporto urbano",
+      "lane": "Infrastrutture",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Riforme municipali, scolastiche e sanitarie",
+      "lane": "Politica",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Guerre mondiali e trasformazioni novecentesche escluse",
+      "lane": "Cronologia",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

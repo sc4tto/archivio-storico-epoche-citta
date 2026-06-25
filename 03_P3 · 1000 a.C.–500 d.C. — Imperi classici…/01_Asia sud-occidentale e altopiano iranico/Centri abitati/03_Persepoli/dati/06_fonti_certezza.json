@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Persepoli fu fondata da Dario I intorno al 518 a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "PER_UNESCO"
+  },
+  {
+    "claim": "Il complesso fu costruito su una terrazza in parte artificiale",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "PER_UNESCO"
+  },
+  {
+    "claim": "Le tavolette di fortificazione documentano razioni, viaggiatori e amministrazione",
+    "theme": "Amministrazione",
+    "status": "documentato",
+    "source": "PER_PFA"
+  },
+  {
+    "claim": "Apadana e Sala delle Cento Colonne erano grandi spazi di rappresentanza",
+    "theme": "Palazzi",
+    "status": "documentato",
+    "source": "PER_UNESCO"
+  },
+  {
+    "claim": "Il complesso subì incendio e saccheggio nel 330 a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "Sintesi storica"
+  },
+  {
+    "claim": "Ogni figura dei rilievi rappresenta una delegazione tributaria certa",
+    "theme": "Iconografia",
+    "status": "non_documentato",
+    "source": "Interpretazioni differenziate"
+  },
+  {
+    "claim": "Persepoli era l’unica capitale dell’impero achemenide",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Sistema pluricapitale"
+  },
+  {
+    "claim": "Tutti gli edifici sono completamente ricostruibili",
+    "theme": "Metodo",
+    "status": "non_documentato",
+    "source": "Resti incompleti e materiali deperibili"
+  }
+]

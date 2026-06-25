@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Primo approdo Lapita",
+    "Villaggio costiero e midden",
+    "Espansione su circa venti ettari",
+    "Fase Polynesian Plainware",
+    "Riorganizzazione e uso funerario successivo"
+  ],
+  "items": [
+    {
+      "id": "beach",
+      "label": "Superficie di spiaggia iniziale",
+      "lane": "Paesaggio",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "midden",
+      "label": "Midden Lapita",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "pottery",
+      "label": "Ceramiche decorate e comuni",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "coral",
+      "label": "Abrasori in corallo e conchiglia",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Aree domestiche costiere",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "plainware",
+      "label": "Ceramica Plainware",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "burial",
+      "label": "Tumulo funerario più tardo",
+      "lane": "Funerarie",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

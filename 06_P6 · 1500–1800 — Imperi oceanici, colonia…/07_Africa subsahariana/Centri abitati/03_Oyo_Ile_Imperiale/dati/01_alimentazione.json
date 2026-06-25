@@ -1,0 +1,318 @@
+{
+  "nodes": [
+    {
+      "id": "t0",
+      "label": "Savana e campi attorno a Oyo-Ile",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t1",
+      "label": "Fiumi stagionali, pozzi e cisterne",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t2",
+      "label": "Villaggi tributari e aree di pascolo",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t3",
+      "label": "Rotte verso Borgu, Dahomey e paesi yoruba",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "r0",
+      "label": "Igname, sorgo, miglio, mais e legumi",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r1",
+      "label": "Acqua, pesce stagionale e prodotti raccolti",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r2",
+      "label": "Bovini, caprini, pollame e prodotti forestali",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r3",
+      "label": "Kola, sale, tessuti, cavalli e beni importati",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "a0",
+      "label": "Coltivazione, tributo e lavoro comunitario",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a1",
+      "label": "Gestione di pozzi, cisterne e raccolta",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a2",
+      "label": "Pastorizia, allevamento e mercato",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a3",
+      "label": "Carovane, tassazione e redistribuzione imperiale",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "x0",
+      "label": "Pestatura, molitura, bollitura e arrostimento",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x1",
+      "label": "Essiccazione, affumicatura e conserve",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x2",
+      "label": "Macellazione, fermentazione e lavorazione delle pelli",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x3",
+      "label": "Granai, mercati, cucine di palazzo e razioni militari",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "p0",
+      "label": "Preparazioni di igname e cereali",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "p1",
+      "label": "Pesce e derrate conservate",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "p2",
+      "label": "Carni, legumi e prodotti forestali",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "p3",
+      "label": "Banchetti, tributi e consumo della cavalleria",
+      "layer": 4,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "t0",
+      "target": "r0",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "t0",
+      "target": "r2",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "t1",
+      "target": "r1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "t1",
+      "target": "r3",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "t2",
+      "target": "r2",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "t2",
+      "target": "r0",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "t3",
+      "target": "r3",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "t3",
+      "target": "r1",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "r0",
+      "target": "a0",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "r0",
+      "target": "a3",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "r1",
+      "target": "a1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "r1",
+      "target": "a3",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "r2",
+      "target": "a2",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "r2",
+      "target": "a0",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "r3",
+      "target": "a3",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "r3",
+      "target": "a2",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "a0",
+      "target": "x0",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "a0",
+      "target": "x2",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "a1",
+      "target": "x1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "a1",
+      "target": "x0",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "a2",
+      "target": "x2",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "a2",
+      "target": "x3",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "a3",
+      "target": "x3",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "a3",
+      "target": "x1",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "x0",
+      "target": "p0",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "x0",
+      "target": "p3",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "x1",
+      "target": "p1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "x1",
+      "target": "p3",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "x2",
+      "target": "p2",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "x2",
+      "target": "p0",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "x3",
+      "target": "p3",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "x3",
+      "target": "p2",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    }
+  ]
+}

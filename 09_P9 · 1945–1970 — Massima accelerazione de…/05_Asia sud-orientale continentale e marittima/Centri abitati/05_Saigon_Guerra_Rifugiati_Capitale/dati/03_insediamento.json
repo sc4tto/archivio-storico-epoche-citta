@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1945–1949",
+    "1950–1954",
+    "1955–1959",
+    "1960–1964",
+    "1965–1970"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Ritorno francese, guerra d’Indocina e conflitto sul controllo urbano",
+      "lane": "Guerra",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Accordi di Ginevra del 1954 e grande afflusso di rifugiati dal Nord",
+      "lane": "Società",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Saigon capitale della Repubblica del Vietnam dal 1955",
+      "lane": "Politica",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Regime di Ngô Đình Diệm, repressione e crisi buddhista",
+      "lane": "Politica",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Crescita demografica per guerra, migrazione e sfollamento rurale",
+      "lane": "Società",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Economia di guerra, presenza statunitense e infrastrutture militari",
+      "lane": "Economia",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Offensiva del Têt del 1968 e combattimenti nell’area urbana",
+      "lane": "Guerra",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Caduta del 1975 e rinominazione del 1976 escluse",
+      "lane": "Cronologia",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

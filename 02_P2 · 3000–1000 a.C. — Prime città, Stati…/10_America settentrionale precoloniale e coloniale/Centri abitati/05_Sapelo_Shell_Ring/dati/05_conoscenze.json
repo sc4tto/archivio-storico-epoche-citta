@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Sapelo Island Shell Ring",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Estuario",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Maree",
+          "status": "sintesi"
+        },
+        {
+          "id": "k1_2",
+          "label": "Ostriche",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Pesca",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Anelli",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Forma circolare",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Spazio centrale",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Costruzione intenzionale",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Ceramica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Tempera di fibre",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Decorazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Produzione locale",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Geofisica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Anomalie sotterranee",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Aree di attività",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Case complete",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Raduni",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Attività collettive",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_2",
+          "label": "Feasting",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_3",
+          "label": "Culto specifico",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Paesaggio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Isole barriera",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Erosione",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Mobilità costiera",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

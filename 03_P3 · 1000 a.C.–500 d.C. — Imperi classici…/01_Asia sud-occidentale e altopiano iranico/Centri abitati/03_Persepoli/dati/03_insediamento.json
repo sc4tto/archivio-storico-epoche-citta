@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Fondazione di Dario",
+    "Costruzione dell’Apadana",
+    "Espansioni di Serse",
+    "Completamenti successivi",
+    "Conquista macedone e riusi"
+  ],
+  "items": [
+    {
+      "id": "terrace",
+      "label": "Terrazza monumentale",
+      "lane": "Monumentali",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "apadana",
+      "label": "Apadana",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "gate",
+      "label": "Porta di tutte le Nazioni",
+      "lane": "Monumentali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "treasury",
+      "label": "Tesoro e archivi",
+      "lane": "Amministrative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "palaces",
+      "label": "Palazzi reali",
+      "lane": "Monumentali",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "service",
+      "label": "Quartieri di servizio",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "fire",
+      "label": "Incendio e saccheggio del 330 a.C.",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

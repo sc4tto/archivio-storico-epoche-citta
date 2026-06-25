@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Addis Abeba",
+      "lat": 8.9806,
+      "lon": 38.7578,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "ent",
+      "label": "Entoto e alture settentrionali",
+      "lat": 9.08,
+      "lon": 38.76,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "fin",
+      "label": "Finfinne e pianure circostanti",
+      "lat": 8.98,
+      "lon": 38.76,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "sho",
+      "label": "Shewa rurale",
+      "lat": 9.2,
+      "lon": 39.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "har",
+      "label": "Harar e oriente etiopico",
+      "lat": 9.31,
+      "lon": 42.12,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "gon",
+      "label": "Gondar e altopiani settentrionali",
+      "lat": 12.6,
+      "lon": 37.47,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "red",
+      "label": "Zeila, Gibuti e Mar Rosso",
+      "lat": 11.6,
+      "lon": 43.15,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "ent",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sentieri di montagna",
+      "food": "legname, acqua, pietra e prodotti pastorali"
+    },
+    {
+      "source": "fin",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade locali e mercati",
+      "food": "ortaggi, cereali, acqua e manodopera"
+    },
+    {
+      "source": "sho",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane regionali",
+      "food": "teff, bestiame, miele e tributi"
+    },
+    {
+      "source": "har",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "via carovaniera di Harar",
+      "food": "caffè, pelli, avorio e merci orientali"
+    },
+    {
+      "source": "gon",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte dell’altopiano",
+      "food": "tessili, metalli, ecclesiastici e funzionari"
+    },
+    {
+      "source": "red",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane verso i porti",
+      "food": "sale, armi, tessili e beni importati"
+    }
+  ]
+}

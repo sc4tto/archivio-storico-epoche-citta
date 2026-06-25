@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Teouma — modulo multi-grafo",
+    "short_name": "Teouma",
+    "site": "Cimitero e insediamento Lapita di Teouma",
+    "modern_location": "Efate, Vanuatu",
+    "coordinates": {
+      "lat": -17.76,
+      "lon": 168.358
+    },
+    "scope": "Cimitero Lapita e area di attività associata, datati intorno al X–IX secolo a.C., con sepolture complesse, vasi decorati, manipolazione secondaria dei crani, conchiglie e resti alimentari. Il sito offre dati eccezionali su mobilità, dieta, rituale e primi abitanti di Vanuatu.",
+    "version": "1.0-blocco_36_p3_oceania_pacifico_5_centri_v1",
+    "warning": "Teouma non è una città: è soprattutto un cimitero con depositi e attività vicine. Le ricostruzioni dei rituali derivano da deposizioni incomplete e processi post-deposizionali; i risultati isotopici e genetici riguardano campioni limitati."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "TEO_NATURE",
+      "title": "Skoglund et al. — Ancient genomics and the peopling of the southwest Pacific",
+      "url": "https://www.nature.com/articles/nature19844",
+      "use": "DNA antico, mobilità e origini"
+    },
+    {
+      "id": "TEO_JAS",
+      "title": "Petchey et al. — Direct radiocarbon dating of burials from Teouma",
+      "url": "https://doi.org/10.1016/j.jas.2014.07.002",
+      "use": "cronologia diretta delle sepolture"
+    },
+    {
+      "id": "TEO_AA",
+      "title": "Bentley et al. — Lapita Migrants in the Pacific’s Oldest Cemetery",
+      "url": "https://doi.org/10.2307/25470438",
+      "use": "isotopi, dieta e mobilità"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Nanchino",
+      "lat": 32.0603,
+      "lon": 118.7969,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "yan",
+      "label": "Basso Yangtze",
+      "lat": 31.9,
+      "lon": 118.65,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "tai",
+      "label": "Lago Tai e Jiangnan",
+      "lat": 31.3,
+      "lon": 120.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "cha",
+      "label": "Chuzhou e campagne settentrionali",
+      "lat": 32.3,
+      "lon": 118.3,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "bei",
+      "label": "Pechino",
+      "lat": 39.9,
+      "lon": 116.4,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "suz",
+      "label": "Suzhou e Hangzhou",
+      "lat": 30.8,
+      "lon": 120.4,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "sea",
+      "label": "Porti del Mar Cinese orientale",
+      "lat": 30.0,
+      "lon": 122.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "yan",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione sullo Yangtze",
+      "food": "riso, pesce e legname"
+    },
+    {
+      "source": "tai",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali del Jiangnan",
+      "food": "riso, seta e prodotti acquatici"
+    },
+    {
+      "source": "cha",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade regionali",
+      "food": "grano, bestiame e carbone vegetale"
+    },
+    {
+      "source": "bei",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Grande Canale",
+      "food": "funzionari, tributi e domanda di corte"
+    },
+    {
+      "source": "suz",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti mercantili del Jiangnan",
+      "food": "seta, carta e beni di lusso"
+    },
+    {
+      "source": "sea",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte marittime e fluviali",
+      "food": "spezie, zucchero e merci oceaniche"
+    }
+  ]
+}

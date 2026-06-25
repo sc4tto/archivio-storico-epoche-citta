@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Atene — modulo multi-grafo",
+    "short_name": "Atene",
+    "site": "Atene classica ed ellenistico-romana: Acropoli, Agorà e Pireo",
+    "modern_location": "Attica, Grecia",
+    "coordinates": {
+      "lat": 37.9838,
+      "lon": 23.7275
+    },
+    "scope": "Polis dell’Attica e centro politico, religioso, economico e culturale del Mediterraneo, con Acropoli, Agorà, mura, quartieri, teatri e il sistema portuale del Pireo.",
+    "version": "1.0-blocco_31_p3_mediterraneo_europa_5_centri_v1",
+    "warning": "Il modulo non riduce Atene alla sola Acropoli: molte strutture urbane sono note in modo frammentario e i concetti moderni di democrazia, cittadinanza e schiavitù non coincidono con quelli antichi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "ATH_UNESCO",
+      "title": "UNESCO — Acropolis, Athens",
+      "url": "https://whc.unesco.org/en/list/404/",
+      "use": "Acropoli, monumenti e cronologia classica"
+    },
+    {
+      "id": "ATH_AGORA",
+      "title": "American School of Classical Studies — Athenian Agora Excavations",
+      "url": "https://www.agathe.gr/",
+      "use": "scavi dell’Agorà e vita civica"
+    },
+    {
+      "id": "ATH_PIRAEUS",
+      "title": "Encyclopaedia Britannica — Piraeus",
+      "url": "https://www.britannica.com/place/Piraeus",
+      "use": "porto, Lunghe Mura e reti marittime"
+    }
+  ]
+}

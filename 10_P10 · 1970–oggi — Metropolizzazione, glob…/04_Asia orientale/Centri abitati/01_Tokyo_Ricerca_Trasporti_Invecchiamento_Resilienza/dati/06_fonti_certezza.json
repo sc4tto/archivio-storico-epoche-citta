@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "La valutazione metropolitana del rischio sismico considera 5.192 comunità nelle aree urbanizzate di Tokyo.",
+    "theme": "rischio",
+    "status": "documentato",
+    "source": "TO2"
+  },
+  {
+    "claim": "Il piano Tokyo 2050 Strategy è stato formulato nel marzo 2025 e integra politiche da attuare entro il 2035 per una visione degli anni 2050.",
+    "theme": "pianificazione",
+    "status": "documentato",
+    "source": "TO3"
+  },
+  {
+    "claim": "La politica urbana metropolitana collega trasporti, resistenza ai terremoti, riduzione del carbonio, verde e qualità abitativa.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "TO1"
+  },
+  {
+    "claim": "Il programma di resilienza enfatizza infrastrutture e preparazione comunitaria per mantenere le funzioni vitali della capitale.",
+    "theme": "resilienza",
+    "status": "documentato",
+    "source": "TO4"
+  },
+  {
+    "claim": "Le iniziative future con orizzonte 2035 o 2050 sono obiettivi di piano e non risultati già completati.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "TO3"
+  },
+  {
+    "claim": "Tokyo, ricerca, trasporti, invecchiamento e resilienza è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Acquisizioni fondiarie, sostituzione edilizia, pressioni immobiliari, precarietà dei lavoratori migranti e costi sociali della riqualificazione non sono trattati come effetti neutrali; residenti anziani, persone con disabilità, minoranze e comunità locali sono soggetti storici e politici.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

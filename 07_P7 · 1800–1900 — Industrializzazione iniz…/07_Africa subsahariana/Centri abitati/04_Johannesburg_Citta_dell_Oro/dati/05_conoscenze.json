@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Johannesburg, città dell’oro",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Mineraria",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Geologia del reef e perforazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Stamp mills, cianurazione e pompaggio",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Trasporti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Ferrovie e carri",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Rotaie industriali e logistica dei pozzi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Finanza",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Compagnie minerarie e borsa",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Capitale britannico e Randlords",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Acqua e salute",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Scarsità idrica e serbatoi",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Polvere, incidenti e malattie del lavoro",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Coercizione e segregazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Compound e lavoro migrante",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Controllo razziale dello spazio e dei salari",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

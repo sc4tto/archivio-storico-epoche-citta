@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Costantinopoli rimase capitale dell’Impero bizantino fino al 1453.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "CO1; CO4"
+  },
+  {
+    "claim": "La penisola storica era difesa dalle mura teodosiane.",
+    "theme": "fortificazioni",
+    "status": "documentato",
+    "source": "CO1; CO5"
+  },
+  {
+    "claim": "Porti, mercati e rotte marittime sostenevano l’approvvigionamento urbano.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "CO1; CO4"
+  },
+  {
+    "claim": "La conquista latina del 1204 segnò una grave discontinuità politica e materiale.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "CO4"
+  },
+  {
+    "claim": "La restaurazione paleologa iniziò nel 1261.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "CO4"
+  },
+  {
+    "claim": "Cisterne e acquedotti erano essenziali per una città densamente costruita.",
+    "theme": "idraulica",
+    "status": "documentato",
+    "source": "CO1; CO5"
+  },
+  {
+    "claim": "L’approvvigionamento alimentare combinava campagne, pesca e importazioni.",
+    "theme": "alimentazione",
+    "status": "sintesi",
+    "source": "CO1; CO4"
+  },
+  {
+    "claim": "Le trasformazioni ottomane successive al 1453 non appartengono a questo modulo.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "CO1; CO4"
+  }
+]

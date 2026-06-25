@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Hane, primo insediamento delle Marquesas",
+    "site": "Hane Dune, Ua Huka",
+    "modern_location": "Ua Huka, Isole Marchesi, Polinesia Francese",
+    "coordinates": {
+      "lat": -8.93,
+      "lon": -139.54
+    },
+    "scope": "Hane attorno al 900–1000 e alla soglia dell’XI secolo: primo insediamento costiero, risorse marine, fauna insulare, navigazione e impianto di colture polinesiane.",
+    "version": "1.0",
+    "warning": "Le cronologie dell’insediamento delle Marchesi sono state più volte riviste. Le datazioni più affidabili concentrano l’occupazione iniziale intorno al 1000 o poco dopo; il modulo tratta Hane come sito di confine fra P4 e P5 e non accetta le vecchie date molto anteriori senza verifica."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "HA1",
+      "title": "Wilmshurst et al. — High-precision radiocarbon dating of East Polynesia",
+      "use": "Quadro cronologico della colonizzazione recente e rapida della Polinesia orientale.",
+      "url": "https://doi.org/10.1073/pnas.1015876108"
+    },
+    {
+      "id": "HA2",
+      "title": "Archaeology in Oceania",
+      "use": "Ricerche e revisioni cronologiche del sito di Hane.",
+      "url": "https://onlinelibrary.wiley.com/journal/18344453"
+    },
+    {
+      "id": "HA3",
+      "title": "Journal of Pacific Archaeology",
+      "use": "Cronologie delle Marchesi e interazioni post-colonizzazione.",
+      "url": "https://pacificarchaeology.org/"
+    },
+    {
+      "id": "HA4",
+      "title": "Service de la Culture et du Patrimoine de Polynésie française",
+      "use": "Patrimonio archeologico e siti delle Isole Marchesi.",
+      "url": "https://www.service-public.pf/culture/"
+    },
+    {
+      "id": "HA5",
+      "title": "UNESCO World Heritage Centre — Te Henua Enata / The Marquesas Islands",
+      "use": "Paesaggio culturale, colonizzazione e patrimonio delle Marchesi.",
+      "url": "https://whc.unesco.org/en/list/1707/"
+    }
+  ]
+}

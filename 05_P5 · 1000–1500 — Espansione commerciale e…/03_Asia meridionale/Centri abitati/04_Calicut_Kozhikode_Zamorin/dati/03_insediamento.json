@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "c1",
+      "label": "Porti precedenti e reti del Malabar",
+      "lane": "Economia",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c2",
+      "label": "Ascesa dei Samoothiri",
+      "lane": "Politica",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "c3",
+      "label": "Espansione del porto di Kozhikode",
+      "lane": "Urbanistica",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "c4",
+      "label": "Quartieri mercantili e moschee",
+      "lane": "Religione",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "c5",
+      "label": "Mercati di pepe e spezie",
+      "lane": "Economia",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "c6",
+      "label": "Cantieri e navigazione monsonica",
+      "lane": "Tecnologia",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "c7",
+      "label": "Contatti con Arabia, Africa e Cina",
+      "lane": "Reti",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "c8",
+      "label": "Arrivo di Vasco da Gama nel 1498",
+      "lane": "Cronologia",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

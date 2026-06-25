@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Ninive fu capitale dell’impero neo-assiro sotto Sennacherib",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "NIN_BM"
+  },
+  {
+    "claim": "Il palazzo sud-occidentale era decorato con rilievi narrativi",
+    "theme": "Arte",
+    "status": "documentato",
+    "source": "NIN_BM"
+  },
+  {
+    "claim": "La città disponeva di grandi opere idrauliche",
+    "theme": "Ingegneria",
+    "status": "documentato",
+    "source": "NIN_HEID"
+  },
+  {
+    "claim": "La biblioteca reale comprendeva decine di migliaia di tavolette e frammenti",
+    "theme": "Scrittura",
+    "status": "documentato",
+    "source": "NIN_LIB"
+  },
+  {
+    "claim": "La caduta del 612 a.C. pose fine alla capitale imperiale",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "Sintesi storica"
+  },
+  {
+    "claim": "Tutti gli abitanti furono deportati dopo la caduta",
+    "theme": "Demografia",
+    "status": "non_documentato",
+    "source": "Continuità e riusi successivi"
+  },
+  {
+    "claim": "I giardini pensili di Babilonia erano certamente a Ninive",
+    "theme": "Paesaggio",
+    "status": "non_documentato",
+    "source": "Ipotesi discussa"
+  },
+  {
+    "claim": "L’intera città è stata scavata",
+    "theme": "Metodo",
+    "status": "non_documentato",
+    "source": "Aree estese restano inesplorate"
+  }
+]

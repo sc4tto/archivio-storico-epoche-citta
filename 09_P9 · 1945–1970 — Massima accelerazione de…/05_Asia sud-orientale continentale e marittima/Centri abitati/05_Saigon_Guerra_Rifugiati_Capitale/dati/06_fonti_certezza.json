@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "La popolazione di Saigon crebbe rapidamente per insicurezza, migrazione e guerra.",
+    "theme": "demografia",
+    "status": "documentato",
+    "source": "SA1"
+  },
+  {
+    "claim": "Dopo il 1954 quasi un milione di persone lasciò il Nord e parte fu reinsediata nel Sud.",
+    "theme": "migrazione",
+    "status": "documentato",
+    "source": "SA2"
+  },
+  {
+    "claim": "Saigon fu capitale della Repubblica del Vietnam e centro dell’apparato statale e militare.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "SA1; SA3"
+  },
+  {
+    "claim": "La guerra trasformò economia, infrastrutture e forma urbana attraverso una forte presenza militare estera.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "SA3; SA4"
+  },
+  {
+    "claim": "L’offensiva del Têt del 1968 portò combattimenti e distruzioni nell’area urbana.",
+    "theme": "guerra",
+    "status": "documentato",
+    "source": "SA3"
+  },
+  {
+    "claim": "Saigon, guerra, rifugiati e capitale militarizzata è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Colonialismo, guerra, bombardamenti, repressione politica, reinsediamenti coercitivi, sfollamento rurale e uso dei rifugiati come strumenti di strategia statale sono descritti esplicitamente come processi violenti e subordinanti.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

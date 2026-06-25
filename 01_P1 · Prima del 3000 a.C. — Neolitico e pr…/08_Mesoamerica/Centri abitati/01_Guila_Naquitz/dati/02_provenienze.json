@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Guilá Naquitz",
+      "lat": 16.92,
+      "lon": -96.42,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "mitla",
+      "label": "Valle di Mitla",
+      "lat": 16.92,
+      "lon": -96.36,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "grass",
+      "label": "Aree erbose e boschi radi",
+      "lat": 16.9,
+      "lon": -96.45,
+      "status": "sintesi",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "yagul",
+      "label": "Yagul e altri ripari",
+      "lat": 16.96,
+      "lon": -96.44,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "atoyac",
+      "label": "Bacino dell’Atoyac",
+      "lat": 17.0,
+      "lon": -96.7,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "oaxaca",
+      "label": "Valli Centrali di Oaxaca",
+      "lat": 17.06,
+      "lon": -96.72,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "mitla",
+      "target": "site",
+      "label": "acqua, suoli e piante utili",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "grass",
+      "target": "site",
+      "label": "mesquite, agave, frutti e selvaggina",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "yagul",
+      "target": "site",
+      "label": "rete di ripari e mobilità stagionale",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "atoyac",
+      "target": "site",
+      "label": "corridoi ecologici e pietra",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "oaxaca",
+      "target": "site",
+      "label": "circolazione regionale di persone e conoscenze",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Hariharalaya–Roluos",
+    "site": "Hariharalaya / gruppo di Roluos",
+    "modern_location": "Provincia di Siem Reap, Cambogia",
+    "coordinates": {
+      "lat": 13.35,
+      "lon": 103.97
+    },
+    "scope": "Capitale khmer e paesaggio templare-idraulico del IX secolo, con attenzione al periodo 802–900.",
+    "version": "1.0",
+    "warning": "La ricostruzione dell’alimentazione quotidiana e di parte dell’abitato ordinario è indiretta: le evidenze monumentali e idrauliche sono molto più visibili delle strutture domestiche."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "H1",
+      "title": "UNESCO World Heritage Centre — Angkor",
+      "use": "Quadro generale delle capitali khmer, urbanistica e sistemi idraulici.",
+      "url": "https://whc.unesco.org/en/list/668/"
+    },
+    {
+      "id": "H2",
+      "title": "Encyclopaedia Britannica — Angkor",
+      "use": "Contesto storico del regno khmer e delle prime capitali angkoriane.",
+      "url": "https://www.britannica.com/place/Angkor"
+    },
+    {
+      "id": "H3",
+      "title": "George Coedès, The Indianized States of Southeast Asia",
+      "use": "Cronologia politica e quadro storico comparativo.",
+      "url": "https://archive.org/details/indianizedstates0000coed"
+    },
+    {
+      "id": "H4",
+      "title": "Charles Higham, The Civilization of Angkor",
+      "use": "Sintesi archeologica su insediamento, agricoltura e potere khmer.",
+      "url": "https://books.google.com/books?id=tp5jQgAACAAJ"
+    },
+    {
+      "id": "H5",
+      "title": "Michael Freeman e Claude Jacques, Ancient Angkor",
+      "use": "Descrizione dei monumenti di Roluos e del paesaggio storico.",
+      "url": "https://books.google.com/books?id=diQ2PwAACAAJ"
+    }
+  ]
+}

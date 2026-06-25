@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Karachi",
+      "lat": 24.8607,
+      "lon": 67.0011,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "ind",
+      "label": "Bassa valle dell’Indo",
+      "lat": 25.5,
+      "lon": 68.3,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "hyd",
+      "label": "Hyderabad Sindh",
+      "lat": 25.396,
+      "lon": 68.3578,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "por",
+      "label": "Karachi Port e Port Qasim",
+      "lat": 24.78,
+      "lon": 67.35,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "bal",
+      "label": "Belucistan costiero",
+      "lat": 25.1,
+      "lon": 63.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "air",
+      "label": "Aeroporto Jinnah",
+      "lat": 24.9065,
+      "lon": 67.1608,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "glo",
+      "label": "Mar Arabico",
+      "lat": 20.5,
+      "lon": 64.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "ind",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e canali",
+      "food": "frumento, riso, ortaggi e lavoratori"
+    },
+    {
+      "source": "hyd",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e autostrada",
+      "food": "latte, carne, cereali e famiglie"
+    },
+    {
+      "source": "por",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navi, terminal e camion",
+      "food": "importazioni, pesce, carburanti e container"
+    },
+    {
+      "source": "bal",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade costiere e migrazione",
+      "food": "pesce, datteri, minerali e lavoratori"
+    },
+    {
+      "source": "air",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cargo aereo",
+      "food": "alimenti ad alto valore, passeggeri e servizi"
+    },
+    {
+      "source": "glo",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte marittime",
+      "food": "ingredienti, merci e capitale"
+    }
+  ]
+}

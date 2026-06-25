@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Insediamento antico",
+    "Ampliamento di Sennacherib",
+    "Capitale imperiale",
+    "Assurbanipal e la biblioteca",
+    "Assedio e caduta"
+  ],
+  "items": [
+    {
+      "id": "walls",
+      "label": "Mura e porte monumentali",
+      "lane": "Difensive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "palace",
+      "label": "Palazzo sud-occidentale",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "water",
+      "label": "Canali e acquedotti",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Quartieri residenziali",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "library",
+      "label": "Biblioteca e archivi",
+      "lane": "Amministrative",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "gardens",
+      "label": "Giardini e parchi reali",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "fall",
+      "label": "Distruzione del 612 a.C.",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

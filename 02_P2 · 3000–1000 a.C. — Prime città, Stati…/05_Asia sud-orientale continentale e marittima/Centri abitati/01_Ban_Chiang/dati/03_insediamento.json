@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Prime occupazioni agricole",
+    "Sviluppo del villaggio",
+    "Introduzione del bronzo",
+    "Crescita dei cimiteri",
+    "Fase tarda"
+  ],
+  "items": [
+    {
+      "id": "houses",
+      "label": "Abitazioni su pali o strutture leggere",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "rice",
+      "label": "Agricoltura del riso",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "pottery",
+      "label": "Ceramica locale",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "bronze",
+      "label": "Produzione e uso del bronzo",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "burials",
+      "label": "Sepolture con corredi",
+      "lane": "Funerarie",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "animals",
+      "label": "Allevamento domestico",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "change",
+      "label": "Aumento della complessità sociale",
+      "lane": "Trasformazione",
+      "start": 2,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

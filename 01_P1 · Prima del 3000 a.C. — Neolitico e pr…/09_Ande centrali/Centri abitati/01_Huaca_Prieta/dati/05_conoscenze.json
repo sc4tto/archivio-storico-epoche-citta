@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Huaca Prieta",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Ambiente marino",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Pesca costiera",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Raccolta di molluschi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Stagionalità litoranea",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Piante",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Raccolta selettiva",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Coltivazione progressiva",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_3",
+          "label": "Conservazione",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Fibre e tessili",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Intreccio",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Cotone",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Pigmento indaco",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Litica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Utensili unifacciali",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Pesi da rete",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Macinazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Edilizia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Scavo seminterrato",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Uso di ciottoli",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Manutenzione dei pavimenti",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Organizzazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Cooperazione nella pesca",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_2",
+          "label": "Gestione degli spazi domestici",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_3",
+          "label": "Gerarchie permanenti",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

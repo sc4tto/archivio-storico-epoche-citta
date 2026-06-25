@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Berlino imperiale, weimariana e nazista",
+    "site": "Berlino imperiale, weimariana e nazista",
+    "modern_location": "Berlino, Germania",
+    "coordinates": {
+      "lat": 52.52,
+      "lon": 13.405
+    },
+    "scope": "Berlino fra 1900 e 1945: metropoli industriale, Grande Berlino, Weimar, ascesa nazista, persecuzioni, armamenti, lavoro forzato, bombardamenti e battaglia del 1945.",
+    "version": "1.0",
+    "warning": "Divisione della città, Muro e ricostruzioni postbelliche sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "BE1",
+      "title": "Stadtmuseum Berlin",
+      "use": "Storia urbana e sociale di Berlino.",
+      "url": "https://www.stadtmuseum.de/"
+    },
+    {
+      "id": "BE2",
+      "title": "Topographie des Terrors",
+      "use": "Nazismo, repressione e persecuzioni.",
+      "url": "https://www.topographie.de/"
+    },
+    {
+      "id": "BE3",
+      "title": "Deutsches Historisches Museum",
+      "use": "Storia politica tedesca.",
+      "url": "https://www.dhm.de/"
+    },
+    {
+      "id": "BE4",
+      "title": "UNESCO — Berlin Modernism Housing Estates",
+      "use": "Edilizia moderna e riforma abitativa.",
+      "url": "https://whc.unesco.org/en/list/1239/"
+    },
+    {
+      "id": "BE5",
+      "title": "Berliner Verkehrsbetriebe",
+      "use": "Trasporti urbani e U-Bahn.",
+      "url": "https://www.bvg.de/"
+    }
+  ]
+}

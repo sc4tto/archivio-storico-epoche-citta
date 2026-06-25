@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Beirut ottomana, mandataria e indipendente",
+    "site": "Beirut ottomana, mandataria e indipendente",
+    "modern_location": "Beirut, Libano",
+    "coordinates": {
+      "lat": 33.8938,
+      "lon": 35.5018
+    },
+    "scope": "Beirut fra 1900 e 1945: porto ottomano, Prima guerra mondiale e Grande carestia, occupazione alleata, Mandato francese, proclamazione del Grande Libano, espansione amministrativa e commerciale, indipendenza del 1943 e fine della guerra mondiale.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1945. Guerra civile libanese, ricostruzioni del dopoguerra, autostrade e crescita metropolitana successiva sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "BE1",
+      "title": "American University of Beirut — University Libraries",
+      "use": "Fotografie, mappe e archivi della città.",
+      "url": "https://www.aub.edu.lb/Libraries/"
+    },
+    {
+      "id": "BE2",
+      "title": "Institut français du Proche-Orient — Beirut archives",
+      "use": "Ricerca storica e urbana sul mandato.",
+      "url": "https://www.ifporient.org/"
+    },
+    {
+      "id": "BE3",
+      "title": "Encyclopaedia Britannica — Beirut",
+      "use": "Storia politica, portuale e urbana.",
+      "url": "https://www.britannica.com/place/Beirut"
+    },
+    {
+      "id": "BE4",
+      "title": "Lebanese National Library",
+      "use": "Stampa, amministrazione e memoria nazionale.",
+      "url": "https://bnl.gov.lb/"
+    },
+    {
+      "id": "BE5",
+      "title": "UNESCO — Beirut heritage and reconstruction resources",
+      "use": "Patrimonio urbano e continuità storiche.",
+      "url": "https://www.unesco.org/en/countries/lb"
+    }
+  ]
+}

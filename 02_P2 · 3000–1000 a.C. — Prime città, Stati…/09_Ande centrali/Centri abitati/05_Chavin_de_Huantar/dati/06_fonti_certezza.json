@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Chavín si sviluppò fra il II e il I millennio a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "CHAVIN_UNESCO"
+  },
+  {
+    "claim": "Il sito comprende terrazze, piazze ed edifici in pietra",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "CHAVIN_UNESCO"
+  },
+  {
+    "claim": "Le strutture includono una rete di gallerie, condotti e drenaggi",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "CHAVIN_UNESCO"
+  },
+  {
+    "claim": "Chavín ebbe un ruolo cerimoniale e di convergenza interregionale",
+    "theme": "Rituali",
+    "status": "documentato",
+    "source": "CHAVIN_UNESCO"
+  },
+  {
+    "claim": "Le fasi iniziali ricadono nella parte finale del P2",
+    "theme": "Periodizzazione",
+    "status": "sintesi",
+    "source": "CHAVIN_UNESCO"
+  },
+  {
+    "claim": "Tutte le sculture celebri erano già presenti prima del 1000 a.C.",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Cronologia interna complessa"
+  },
+  {
+    "claim": "Chavín governava militarmente tutte le regioni collegate",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Rete religiosa, non impero dimostrato"
+  },
+  {
+    "claim": "I canali servivano esclusivamente a produrre effetti sonori",
+    "theme": "Idraulica",
+    "status": "non_documentato",
+    "source": "Funzioni multiple possibili"
+  }
+]

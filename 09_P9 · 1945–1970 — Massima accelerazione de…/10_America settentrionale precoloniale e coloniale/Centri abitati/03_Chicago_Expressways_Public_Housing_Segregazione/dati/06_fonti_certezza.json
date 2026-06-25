@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Chicago rimase un grande nodo industriale e ferroviario, ma nel dopoguerra iniziò il decentramento di fabbriche e residenti verso i sobborghi.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "CH2; CH4"
+  },
+  {
+    "claim": "La CHA concentrò progressivamente l’edilizia familiare in aree nere o adiacenti, anche per l’opposizione politica dei quartieri bianchi.",
+    "theme": "abitazione",
+    "status": "documentato",
+    "source": "CH1"
+  },
+  {
+    "claim": "La Dan Ryan Expressway separò aree urbane e contribuì allo spostamento di abitanti nel South Side.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "CH3; CH4"
+  },
+  {
+    "claim": "Urban renewal, public housing e ampliamenti istituzionali trasformarono profondamente il South Side.",
+    "theme": "pianificazione",
+    "status": "documentato",
+    "source": "CH2"
+  },
+  {
+    "claim": "Il Chicago Freedom Movement contestò discriminazione immobiliare, scuole segregate e disuguaglianza urbana.",
+    "theme": "diritti civili",
+    "status": "documentato",
+    "source": "CH1; CH2"
+  },
+  {
+    "claim": "Chicago, expressways, public housing e segregazione è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "La segregazione immobiliare, le demolizioni per expressways e urban renewal, la concentrazione dell’edilizia pubblica e la repressione delle proteste sono descritti come politiche e sistemi di subordinazione razziale; abitanti neri, messicani e operai sono rappresentati come soggetti organizzati.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

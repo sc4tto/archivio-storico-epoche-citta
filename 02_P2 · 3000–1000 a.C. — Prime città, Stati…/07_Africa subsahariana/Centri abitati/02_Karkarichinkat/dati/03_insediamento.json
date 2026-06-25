@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Pastori mobili",
+    "Occupazione del Nord",
+    "Sepolture e deposizioni",
+    "Coltivazione del miglio",
+    "Aridificazione e spostamenti"
+  ],
+  "items": [
+    {
+      "id": "camps",
+      "label": "Campi pastorali",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "herds",
+      "label": "Gestione delle mandrie",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "grinding",
+      "label": "Macinazione di vegetali",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "millet",
+      "label": "Miglio perlato domestico",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "burials",
+      "label": "Sepolture umane",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "cattle",
+      "label": "Deposizioni selettive di bovini",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "shift",
+      "label": "Spostamento verso aree più umide",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

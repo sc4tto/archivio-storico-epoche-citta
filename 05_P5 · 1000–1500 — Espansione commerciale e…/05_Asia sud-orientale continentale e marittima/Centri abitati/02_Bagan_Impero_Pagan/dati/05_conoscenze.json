@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Bagan, capitale dell’Impero Pagan",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Muratura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Volte e archi in laterizio",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Malte e intonaci",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Irrigazione di Kyaukse",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Colture della dry zone",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Religione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Merit making e donazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Monasteri theravada",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Arte",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Pittura murale e stucco",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Scultura e iscrizioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Amministrazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Terre religiose e tributo",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Controllo del trasporto fluviale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

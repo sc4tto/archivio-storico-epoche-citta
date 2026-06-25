@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_68_P6_America_Settentrionale_5_Centri_v1",
+  "macroregion": "America settentrionale precoloniale e coloniale",
+  "centers": [
+    "01_Quebec_Citta_Fortificata",
+    "02_Boston_Coloniale_Rivoluzionaria",
+    "03_Philadelphia_Coloniale_Rivoluzionaria",
+    "04_New_York_Coloniale_Prima_Repubblica",
+    "05_Williamsburg_Capitale_Coloniale"
+  ],
+  "uses_central_assets": true
+}

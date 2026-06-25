@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Lima repubblicana, guano e ferrovie",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Acqua e sanità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Rímac, acquedotti e canali",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Epidemie, fognature e igiene pubblica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Trasporti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Ferrovia Lima–Callao",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Ferrovie andine, tram e porto",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Adobe, quincha e cortili",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Ferro, vetro e stili repubblicani",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Economia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Guano, dogane e credito estero",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Mercati, haciendas e consumo urbano",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Disuguaglianza",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Quartieri popolari e sovraffollamento",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Lavoro servile, debito e concentrazione fondiaria",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

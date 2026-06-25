@@ -1,7 +1,9 @@
 # Kanchipuram
 
-- **Epoca:** P4 · 500–1000 — Sistemi post-classici e religioni universalistiche
-- **Macroregione:** Asia meridionale
-- **Voce di origine:** Kannauj, Kanchipuram, Anuradhapura e città portuali.
+Modulo del Blocco 39, generato da sette JSON nella cartella `dati`.
 
-Questa cartella può contenere mappe, immagini, testi, fonti e appunti relativi al centro abitato o sistema d'insediamento indicato.
+- `APRI_CENTRO.bat`: apre il modulo.
+- `RIGENERA_CENTRO.bat`: rigenera le pagine.
+- `VERIFICA_CENTRO.bat`: controlla JSON, collegamenti e grafi.
+
+Descrizione: Capitale e città sacra dell’India meridionale fra VI e X secolo, con templi shaiva e vaishnava, tradizioni buddhiste e giainiste, istituzioni brahmaniche, artigianato e collegamenti con il porto pallava di Mamallapuram..

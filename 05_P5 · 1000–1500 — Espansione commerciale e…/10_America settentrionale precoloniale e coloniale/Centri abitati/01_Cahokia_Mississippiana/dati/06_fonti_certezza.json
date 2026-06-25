@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Cahokia fu il maggiore insediamento precolombiano a nord del Messico.",
+    "theme": "scala urbana",
+    "status": "documentato",
+    "source": "CA1"
+  },
+  {
+    "claim": "Il picco demografico è collocato soprattutto fra 1050 e 1150.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "CA1"
+  },
+  {
+    "claim": "Monks Mound è la maggiore struttura preistorica in terra delle Americhe.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "CA1"
+  },
+  {
+    "claim": "Il centro comprendeva piazze, tumuli, quartieri e palizzate.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "CA1; CA2"
+  },
+  {
+    "claim": "L’agricoltura del mais sosteneva una popolazione numerosa.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "CA1; CA3"
+  },
+  {
+    "claim": "Le reti di scambio portarono rame, conchiglie e pietre pregiate.",
+    "theme": "reti",
+    "status": "documentato",
+    "source": "CA3; CA4"
+  },
+  {
+    "claim": "La forma politica è descritta come società complessa senza assumere un unico modello statale.",
+    "theme": "metodo",
+    "status": "sintesi",
+    "source": "CA1; CA4"
+  },
+  {
+    "claim": "La contrazione del XIV secolo non è spiegata con una singola causa.",
+    "theme": "metodo",
+    "status": "sintesi",
+    "source": "CA2; CA5"
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "phases": [
+    "500–650",
+    "650–800",
+    "800–900",
+    "900–1000"
+  ],
+  "items": [
+    {
+      "id": "m1",
+      "label": "Occupazione costiera attestata",
+      "lane": "Abitato",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "m2",
+      "label": "Muri e terrazze di gestione del pendio",
+      "lane": "Costruzione",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "m3",
+      "label": "Orticoltura tropicale e arboricoltura",
+      "lane": "Agricoltura",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "m4",
+      "label": "Pesca di reef e laguna",
+      "lane": "Sussistenza",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "m5",
+      "label": "Crescita di recinzioni e spazi domestici",
+      "lane": "Urbanistica",
+      "start": 1,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "m6",
+      "label": "Scambi fra villaggi e isole",
+      "lane": "Commercio",
+      "start": 1,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "m7",
+      "label": "Associazioni di rango nella tradizione orale",
+      "lane": "Politica",
+      "start": 2,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "m8",
+      "label": "Strutture visibili di età più tarda",
+      "lane": "Cronologia",
+      "start": 3,
+      "end": 3,
+      "status": "non_documentato"
+    }
+  ]
+}

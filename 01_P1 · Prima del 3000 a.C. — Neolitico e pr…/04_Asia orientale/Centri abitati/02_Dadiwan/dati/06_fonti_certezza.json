@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Dadiwan conserva una sequenza dal VI al III millennio a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "DADIWAN_CAMBRIDGE"
+  },
+  {
+    "claim": "Il miglio svolse un ruolo crescente nella sussistenza",
+    "theme": "Agricoltura",
+    "status": "documentato",
+    "source": "DADIWAN_PNAS"
+  },
+  {
+    "claim": "La caccia rimase importante nelle fasi antiche",
+    "theme": "Economia",
+    "status": "documentato",
+    "source": "DADIWAN_PNAS"
+  },
+  {
+    "claim": "Sono documentate case seminterrate, fosse e fornaci",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "DADIWAN_CAMBRIDGE"
+  },
+  {
+    "claim": "Alcuni edifici sono molto più grandi delle abitazioni comuni",
+    "theme": "Organizzazione",
+    "status": "documentato",
+    "source": "DADIWAN_CAMBRIDGE"
+  },
+  {
+    "claim": "Gli edifici maggiori erano certamente palazzi reali",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Dimensione e funzione comunitaria non provano una monarchia"
+  },
+  {
+    "claim": "La dieta era esclusivamente basata sul miglio",
+    "theme": "Alimentazione",
+    "status": "non_documentato",
+    "source": "Caccia, raccolta e animali restarono rilevanti"
+  },
+  {
+    "claim": "Tutte le fasi avevano la stessa struttura del villaggio",
+    "theme": "Insediamento",
+    "status": "non_documentato",
+    "source": "La lunga sequenza mostra trasformazioni"
+  }
+]

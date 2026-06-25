@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "La crescita di Riyadh dagli anni settanta è stata sostenuta da entrate petrolifere, funzioni statali e grandi investimenti.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "RI1"
+  },
+  {
+    "claim": "La pianificazione ha cercato di distribuire housing e servizi in una città molto estesa.",
+    "theme": "pianificazione",
+    "status": "documentato",
+    "source": "RI2"
+  },
+  {
+    "claim": "Wadi Hanifa e altri programmi ambientali sono parte della strategia di riqualificazione metropolitana.",
+    "theme": "ambiente",
+    "status": "documentato",
+    "source": "RI3"
+  },
+  {
+    "claim": "La rete pubblica combina il sistema Riyadh Bus con linee metropolitane progressivamente aperte.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "RI3; RI4"
+  },
+  {
+    "claim": "La Western Station del metro è entrata in esercizio il 15 maggio 2026.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "RI4"
+  },
+  {
+    "claim": "Riyadh, petrolio, espansione automobilistica e metro è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "La dipendenza dagli idrocarburi, l’acquisizione fondiaria, la repressione del dissenso e il lavoro migrante controllato non sono presentati come semplici input della crescita; lavoratori migranti e residenti dei quartieri trasformati sono soggetti con diritti e interessi propri.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

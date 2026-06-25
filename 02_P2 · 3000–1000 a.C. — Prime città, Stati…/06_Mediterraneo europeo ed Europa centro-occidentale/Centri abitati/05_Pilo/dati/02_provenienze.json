@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Pilo/Ano Englianos",
+      "lat": 37.028,
+      "lon": 21.695,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "navarino",
+      "label": "Baia di Navarino",
+      "lat": 36.95,
+      "lon": 21.68,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "messenia",
+      "label": "Pianura messenica",
+      "lat": 37.1,
+      "lon": 21.9,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "nichoria",
+      "label": "Nichoria e siti regionali",
+      "lat": 37.06,
+      "lon": 21.92,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "crete",
+      "label": "Creta e Kythera",
+      "lat": 35.5,
+      "lon": 23.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "east",
+      "label": "Egitto e Levante",
+      "lat": 31.5,
+      "lon": 30.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "navarino",
+      "target": "site",
+      "label": "pesce, approdi e mobilità",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "messenia",
+      "target": "site",
+      "label": "cereali, vino, olio e bestiame",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "nichoria",
+      "target": "site",
+      "label": "tributi, persone e produzioni",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "crete",
+      "target": "site",
+      "label": "iconografie, ceramiche e beni",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "east",
+      "target": "site",
+      "label": "materiali e beni prestigiosi",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

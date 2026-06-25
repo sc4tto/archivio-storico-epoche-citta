@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Londra medievale",
+    "site": "City of London, Southwark e Westminster medievali",
+    "modern_location": "Londra, Regno Unito",
+    "coordinates": {
+      "lat": 51.5074,
+      "lon": -0.1278
+    },
+    "scope": "Londra fra 1000 e 1500: conquista normanna, Torre, ponte medievale, crescita mercantile, governo civico, peste, rivolte e ricostruzioni tardomedievali.",
+    "version": "1.0",
+    "warning": "Il modulo distingue la City murata, Westminster e Southwark. Le trasformazioni successive al Grande Incendio del 1666 sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "LO1",
+      "title": "City of London — History and heritage",
+      "use": "Patrimonio civico, archivi e storia della City.",
+      "url": "https://www.cityoflondon.gov.uk/things-to-do/history-and-heritage"
+    },
+    {
+      "id": "LO2",
+      "title": "London Museum — Collections",
+      "use": "Archeologia e storia sociale di Londra.",
+      "url": "https://www.londonmuseum.org.uk/collections/"
+    },
+    {
+      "id": "LO3",
+      "title": "Historic Royal Palaces — Tower of London",
+      "use": "Fortezza normanna, palazzo, prigione e centro politico.",
+      "url": "https://www.hrp.org.uk/tower-of-london/history-and-stories/"
+    },
+    {
+      "id": "LO4",
+      "title": "Westminster Abbey — History",
+      "use": "Abbazia, monarchia, incoronazioni e paesaggio di Westminster.",
+      "url": "https://www.westminster-abbey.org/about-the-abbey/history"
+    },
+    {
+      "id": "LO5",
+      "title": "British Library — Magna Carta",
+      "use": "Libertà urbane, monarchia e contesto politico del XIII secolo.",
+      "url": "https://www.bl.uk/magna-carta"
+    }
+  ]
+}

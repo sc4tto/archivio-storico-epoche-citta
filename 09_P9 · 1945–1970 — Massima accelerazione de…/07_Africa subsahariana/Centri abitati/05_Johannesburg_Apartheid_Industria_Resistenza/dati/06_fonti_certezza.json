@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Dopo il 1948 l’apartheid trasformò la segregazione preesistente in un sistema legislativo e amministrativo più rigido.",
+    "theme": "apartheid",
+    "status": "documentato",
+    "source": "JO3; JO4"
+  },
+  {
+    "claim": "Il Group Areas Act del 1950 fornì una base legale per vaste rimozioni e redistribuzioni razziali dello spazio urbano.",
+    "theme": "legislazione",
+    "status": "documentato",
+    "source": "JO1; JO4"
+  },
+  {
+    "claim": "La rimozione di Sophiatown iniziata nel 1955 comportò espropriazione, demolizione e trasferimento coercitivo degli abitanti.",
+    "theme": "sgomberi",
+    "status": "documentato",
+    "source": "JO1"
+  },
+  {
+    "claim": "Soweto e altre township furono consolidate per separare la popolazione nera dal centro e controllarne mobilità e lavoro.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "JO2"
+  },
+  {
+    "claim": "Kliptown, Rivonia e le reti urbane di Johannesburg furono luoghi centrali della resistenza e della repressione anti-apartheid.",
+    "theme": "resistenza",
+    "status": "documentato",
+    "source": "JO2; JO3"
+  },
+  {
+    "claim": "Johannesburg, apartheid, industria e resistenza è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Apartheid, pass laws, lavoro migrante controllato, espropriazioni, rimozioni forzate, detenzione e repressione sono descritti esplicitamente come sistemi razzisti di coercizione e violenza; le comunità colpite sono rappresentate come soggetti politici e protagoniste della resistenza.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

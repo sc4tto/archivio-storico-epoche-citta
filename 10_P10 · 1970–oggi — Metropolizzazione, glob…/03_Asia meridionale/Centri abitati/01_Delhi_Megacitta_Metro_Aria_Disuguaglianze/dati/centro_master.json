@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Delhi, megacittà, metro, aria e disuguaglianze",
+    "site": "Delhi, megacittà, metro, aria e disuguaglianze",
+    "modern_location": "Delhi, India",
+    "coordinates": {
+      "lat": 28.6139,
+      "lon": 77.209
+    },
+    "scope": "Delhi dal 1970 al 25 giugno 2026: espansione della regione capitale, crescita di colonie autorizzate e non autorizzate, Emergency e demolizioni, violenza politica e comunitaria, liberalizzazione, rete metropolitana, motorizzazione, inquinamento atmosferico, scarsità idrica e pianificazione climatica.",
+    "version": "1.0",
+    "warning": "Il Master Plan Delhi 2041 è registrato come piano in preparazione o bozza; opere con conclusione successiva al 25 giugno 2026 sono indicate come progetti futuri."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "DE1",
+      "title": "Delhi Metro Rail Corporation — Introduction",
+      "use": "Apertura del primo corridoio nel 2002 e sviluppo della rete.",
+      "url": "https://delhimetrorail.com/pages/es/introduction"
+    },
+    {
+      "id": "DE2",
+      "title": "Delhi Development Authority — Draft Master Plan for Delhi 2041",
+      "use": "Strategie di sviluppo spaziale, ambiente, mobilità e inclusione.",
+      "url": "https://dda.gov.in/sites/default/files/inline-files/Draft%20MPD%202041%20%28English%2909062021_compressed_0.pdf"
+    },
+    {
+      "id": "DE3",
+      "title": "World Bank — The Effect of Metro Expansions on Air Pollution in Delhi",
+      "use": "Relazione fra espansione della metropolitana e qualità dell’aria locale.",
+      "url": "https://openknowledge.worldbank.org/entities/publication/c9c037a6-da00-5b20-87a7-ac5a5acc0e72"
+    },
+    {
+      "id": "DE4",
+      "title": "World Bank — Catalyzing Clean Air in India",
+      "use": "Gestione regionale dell’inquinamento, monitoraggio ed emissioni.",
+      "url": "https://www.worldbank.org/en/country/india/publication/catalyzing-clean-air-in-india"
+    }
+  ]
+}

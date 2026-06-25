@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Cnosso",
+      "lat": 35.298,
+      "lon": 25.163,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "heraklion",
+      "label": "Costa di Heraklion",
+      "lat": 35.34,
+      "lon": 25.14,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "juktas",
+      "label": "Monte Giouchtas",
+      "lat": 35.24,
+      "lon": 25.14,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "phaistos",
+      "label": "Festo e Messarà",
+      "lat": 35.05,
+      "lon": 24.81,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "cyclades",
+      "label": "Cicladi e Egeo",
+      "lat": 36.4,
+      "lon": 25.4,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "egypt",
+      "label": "Egitto e Levante",
+      "lat": 31.2,
+      "lon": 29.9,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "heraklion",
+      "target": "site",
+      "label": "approdi, pesce e mobilità",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "juktas",
+      "target": "site",
+      "label": "culto di altura e risorse",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "phaistos",
+      "target": "site",
+      "label": "ceramiche, persone e beni",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "cyclades",
+      "target": "site",
+      "label": "ossidiana, metalli e idee",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "egypt",
+      "target": "site",
+      "label": "beni prestigiosi e scambi",
+      "status": "documentato",
+      "food": "parziale"
+    }
+  ]
+}

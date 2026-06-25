@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Teheran, rivoluzione, mobilità e crisi ambientale",
+    "site": "Teheran, rivoluzione, mobilità e crisi ambientale",
+    "modern_location": "Teheran, Iran",
+    "coordinates": {
+      "lat": 35.6892,
+      "lon": 51.389
+    },
+    "scope": "Teheran dal 1970 al 25 giugno 2026: espansione metropolitana e insediamenti informali, rivoluzione del 1979, guerra Iran–Iraq e migrazioni, ricostruzione, autostrade, metro e BRT, motorizzazione, inquinamento atmosferico, stress idrico, economia dei servizi e mobilitazioni sociali sottoposte a repressione statale.",
+    "version": "1.0",
+    "warning": "I progetti e gli obiettivi annunciati per date successive al 25 giugno 2026 sono indicati soltanto come piani. Le informazioni su conflitti e diritti sono attribuite a fonti internazionali e non trasformate in giudizi non documentati."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "TE1",
+      "title": "UN-Habitat — An Integrated Approach to Public Transport, Tehran",
+      "use": "Metro, BRT e integrazione del trasporto pubblico.",
+      "url": "https://unhabitat.org/sites/default/files/2013/06/GRHS.2013.Case_.Study_.Tehran.Iran_.pdf"
+    },
+    {
+      "id": "TE2",
+      "title": "World Bank — Air Pollution in Tehran: Health Costs, Sources, and Policies",
+      "use": "Inquinamento atmosferico, traffico, salute e costi economici.",
+      "url": "https://openknowledge.worldbank.org/entities/publication/b277a02b-e8b7-546a-883b-75b6b4170682"
+    },
+    {
+      "id": "TE3",
+      "title": "UN-Habitat Iran Country Programme 2023–2027",
+      "use": "Urbanizzazione, clima, rifiuti, aria e resilienza in Iran.",
+      "url": "https://fukuoka.unhabitat.org/wp-content/uploads/2023/08/11.-Iran-Country-Program-Outlines-UN-Habitat-Tehran-Office-2023-2027.pdf"
+    },
+    {
+      "id": "TE4",
+      "title": "OHCHR — Independent International Fact-Finding Mission on Iran",
+      "use": "Violazioni dei diritti nel contesto delle proteste iniziate nel 2022.",
+      "url": "https://www.ohchr.org/en/hr-bodies/hrc/ffm-iran/index"
+    }
+  ]
+}

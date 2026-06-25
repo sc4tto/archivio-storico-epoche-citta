@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Seoul",
+      "lat": 37.5665,
+      "lon": 126.978,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "gyo",
+      "label": "Gyeonggi e bacino del Han",
+      "lat": 37.5,
+      "lon": 127.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "inc",
+      "label": "Incheon e costa occidentale",
+      "lat": 37.46,
+      "lon": 126.7,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "gim",
+      "label": "Gimpo e pianure periurbane",
+      "lat": 37.62,
+      "lon": 126.72,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "sou",
+      "label": "Province meridionali",
+      "lat": 35.6,
+      "lon": 127.6,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "ref",
+      "label": "Rotte dei rifugiati dalla Corea settentrionale",
+      "lat": 39.0,
+      "lon": 126.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "aid",
+      "label": "Aiuti ONU e statunitensi via Pacifico",
+      "lat": 34.0,
+      "lon": 140.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "gyo",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade, ponti e mercati",
+      "food": "riso, verdure, legname e pendolari"
+    },
+    {
+      "source": "inc",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e porto",
+      "food": "pesce, farina, combustibili e aiuti"
+    },
+    {
+      "source": "gim",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e mercati",
+      "food": "riso, ortaggi, acqua e lavoratori"
+    },
+    {
+      "source": "sou",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie nazionali",
+      "food": "cereali, migranti, studenti e manodopera"
+    },
+    {
+      "source": "ref",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fuga, reinsediamento e reti familiari",
+      "food": "rifugiati, competenze, bisogni abitativi e memorie"
+    },
+    {
+      "source": "aid",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porti, ferrovia e agenzie di soccorso",
+      "food": "grano, latte in polvere, medicinali e materiali"
+    }
+  ]
+}

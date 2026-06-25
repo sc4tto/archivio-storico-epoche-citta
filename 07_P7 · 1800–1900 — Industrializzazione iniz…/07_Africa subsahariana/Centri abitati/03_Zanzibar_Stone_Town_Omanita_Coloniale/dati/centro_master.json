@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Zanzibar Stone Town omanita e coloniale",
+    "site": "Zanzibar Stone Town omanita e coloniale",
+    "modern_location": "Zanzibar City, Tanzania",
+    "coordinates": {
+      "lat": -6.1622,
+      "lon": 39.1921
+    },
+    "scope": "Stone Town fra 1800 e 1900: trasferimento della corte omanita, commercio di chiodi di garofano e avorio, schiavitù e abolizione legale, comunità swahili, arabe, indiane ed europee, protettorato britannico e guerra del 1896.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Rivoluzione del 1964, unione con il Tanganica, turismo e restauri contemporanei sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "ZA1",
+      "title": "UNESCO — Stone Town of Zanzibar",
+      "use": "Paesaggio urbano, architettura e culture dell’Oceano Indiano.",
+      "url": "https://whc.unesco.org/en/list/173/"
+    },
+    {
+      "id": "ZA2",
+      "title": "Zanzibar Stone Town Heritage Society",
+      "use": "Conservazione, edifici e memoria urbana.",
+      "url": "https://zanzibarstonetown.org/"
+    },
+    {
+      "id": "ZA3",
+      "title": "Encyclopaedia Britannica — Zanzibar",
+      "use": "Sultanato, commercio e storia coloniale.",
+      "url": "https://www.britannica.com/place/Zanzibar-island-Tanzania"
+    },
+    {
+      "id": "ZA4",
+      "title": "British Library — East Africa collections",
+      "use": "Mappe, fotografie e commercio ottocentesco.",
+      "url": "https://www.bl.uk/"
+    },
+    {
+      "id": "ZA5",
+      "title": "The Metropolitan Museum of Art — Swahili Coast",
+      "use": "Cultura materiale e reti dell’Oceano Indiano.",
+      "url": "https://www.metmuseum.org/toah/hd/swah/hd_swah.htm"
+    }
+  ]
+}

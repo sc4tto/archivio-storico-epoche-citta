@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Teheran",
+      "lat": 35.6892,
+      "lon": 51.389,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "shem",
+      "label": "Shemiran ed Elburz",
+      "lat": 35.82,
+      "lon": 51.43,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "ray",
+      "label": "Rey e pianura meridionale",
+      "lat": 35.59,
+      "lon": 51.44,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "qaz",
+      "label": "Qazvin e altopiano occidentale",
+      "lat": 36.27,
+      "lon": 50.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "cas",
+      "label": "Regione caspica",
+      "lat": 36.8,
+      "lon": 52.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "tab",
+      "label": "Tabriz e Azerbaigian",
+      "lat": 38.08,
+      "lon": 46.29,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "gulf",
+      "label": "Golfo Persico e Khuzestan",
+      "lat": 30.0,
+      "lon": 49.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "shem",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "qanat e strade montane",
+      "food": "acqua, frutta, ghiaccio e legname"
+    },
+    {
+      "source": "ray",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade della pianura",
+      "food": "grano, ortaggi e bestiame"
+    },
+    {
+      "source": "qaz",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e ferrovia",
+      "food": "cereali, lana e manufatti"
+    },
+    {
+      "source": "cas",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade del Caspio",
+      "food": "riso, tè, pesce e seta"
+    },
+    {
+      "source": "tab",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "asse nord-occidentale",
+      "food": "tessili, mercanti e idee politiche"
+    },
+    {
+      "source": "gulf",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e strade nazionali",
+      "food": "petrolio, zucchero e merci importate"
+    }
+  ]
+}

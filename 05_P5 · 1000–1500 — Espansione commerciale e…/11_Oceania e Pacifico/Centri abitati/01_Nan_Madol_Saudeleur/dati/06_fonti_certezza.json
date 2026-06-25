@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Nan Madol comprende oltre cento isolotti artificiali.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "NM1"
+  },
+  {
+    "claim": "Palazzi, templi, tombe e domini residenziali furono costruiti soprattutto fra 1200 e 1500.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "NM1"
+  },
+  {
+    "claim": "Le murature impiegano colonne basaltiche e blocchi di corallo.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "NM1; NM5"
+  },
+  {
+    "claim": "Il complesso fu il centro cerimoniale della dinastia Saudeleur.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "NM1"
+  },
+  {
+    "claim": "I canali organizzavano accesso e circolazione fra gli isolotti.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "NM1; NM5"
+  },
+  {
+    "claim": "La scala del sito implica mobilitazione coordinata del lavoro.",
+    "theme": "società",
+    "status": "sintesi",
+    "source": "NM1; NM4"
+  },
+  {
+    "claim": "Agricoltura intensiva e tributo sostenevano il centro.",
+    "theme": "economia",
+    "status": "sintesi",
+    "source": "NM1; NM4"
+  },
+  {
+    "claim": "Tradizioni orali e archeologia devono essere mantenute distinte.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "NM3; NM4"
+  }
+]

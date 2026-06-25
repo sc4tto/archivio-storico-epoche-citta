@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Madjedbebe conserva una sequenza con occupazioni molto antiche",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "MAD_NATURE_2017"
+  },
+  {
+    "claim": "Il modello OSL del 2017 colloca l’inizio dell’occupazione intorno a 65.000 anni fa",
+    "theme": "Metodo",
+    "status": "documentato",
+    "source": "MAD_NATURE_2017"
+  },
+  {
+    "claim": "Sono documentate macine, pigmenti e asce a margine levigato",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "MAD_NATURE_2017"
+  },
+  {
+    "claim": "La sussistenza comprendeva piante tropicali e fauna locale",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "MAD_NATURE_2017"
+  },
+  {
+    "claim": "Il sito si trova nel territorio tradizionale dei Mirarr",
+    "theme": "Territorio",
+    "status": "documentato",
+    "source": "MIRARR"
+  },
+  {
+    "claim": "La data di 65.000 anni è universalmente accettata senza riserve",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Dibattito metodologico successivo"
+  },
+  {
+    "claim": "Il riparo era un villaggio permanente",
+    "theme": "Sedentarietà",
+    "status": "non_documentato",
+    "source": "Occupazioni ripetute, non urbanizzazione"
+  },
+  {
+    "claim": "Le asce provano agricoltura intensiva",
+    "theme": "Agricoltura",
+    "status": "non_documentato",
+    "source": "Funzione non equivalente ad agricoltura"
+  }
+]

@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Mantai–Mahatittha",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Archeobotanica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Riso e cereali",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Pepe e chiodi di garofano",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Origine di ogni singolo seme",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Ceramiche",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Produzioni locali",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Importazioni indiane e occidentali",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Comunità etniche dedotte automaticamente",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Perle",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Pietre semipreziose",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Lavorazione artigianale",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Monopolio portuale",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Porto",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Laguna e fiume",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Approdi",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Pianta completa",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Reti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Anuradhapura",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Tamilakam",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Oceano Indiano",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Cronologia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Continuità plurimillenaria",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Fasi P4 intense",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Fine improvvisa nel 993",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

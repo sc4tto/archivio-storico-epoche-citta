@@ -1,0 +1,74 @@
+{
+  "phases": [
+    "500–650",
+    "650–800",
+    "800–900",
+    "900–1000"
+  ],
+  "items": [
+    {
+      "id": "r1",
+      "label": "Villaggi costieri e occupazioni in grotta",
+      "lane": "Abitato",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "r2",
+      "label": "Approdi e mobilità nella laguna",
+      "lane": "Navigazione",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "r3",
+      "label": "Pesca specializzata di reef e passaggi",
+      "lane": "Sussistenza",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "r4",
+      "label": "Orticoltura su suoli limitati",
+      "lane": "Agricoltura",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "r5",
+      "label": "Muri, terrazze e spazi domestici",
+      "lane": "Costruzione",
+      "start": 1,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "r6",
+      "label": "Scambi con Babeldaob e Peleliu",
+      "lane": "Commercio",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "r7",
+      "label": "Reti micronesiane più ampie",
+      "lane": "Commercio",
+      "start": 2,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "r8",
+      "label": "Abbandoni e trasformazioni molto più tardi",
+      "lane": "Cronologia",
+      "start": 3,
+      "end": 3,
+      "status": "non_documentato"
+    }
+  ]
+}

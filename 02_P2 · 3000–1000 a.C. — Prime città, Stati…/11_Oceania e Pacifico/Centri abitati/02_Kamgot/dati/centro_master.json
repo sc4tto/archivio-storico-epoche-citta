@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Kamgot — modulo multi-grafo",
+    "short_name": "Kamgot",
+    "site": "Sito Lapita di Kamgot",
+    "modern_location": "Isola di Anir, provincia della Nuova Irlanda, Papua Nuova Guinea",
+    "coordinates": {
+      "lat": -4.0,
+      "lon": 153.6
+    },
+    "scope": "Insediamento Lapita del Bismarck orientale con ceramica dentellata, ossidiana, utensili in conchiglia, pesca, colture tropicali e reti che collegavano Nuova Irlanda, Nuova Britannia e le isole più orientali.",
+    "version": "1.0-blocco_24_p2_oceania_pacifico_5_centri_v1",
+    "warning": "Kamgot appartiene a un paesaggio archeologico con più siti e fasi. Le date assolute e la relazione tra Kamgot, Balbalankin e altri depositi di Anir richiedono lettura stratigrafica puntuale."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "KAM_SUMMER",
+      "title": "Summerhayes — Lapita Interaction",
+      "url": "https://search.worldcat.org/search?q=Summerhayes+Lapita+Interaction",
+      "use": "ceramica, ossidiana e reti del Bismarck"
+    },
+    {
+      "id": "KAM_ANIR",
+      "title": "Summerhayes — The archaeology of the Anir Islands and early Lapita",
+      "url": "https://scholar.google.com/scholar?q=Kamgot+Anir+Lapita",
+      "use": "cronologia e insediamento di Kamgot"
+    },
+    {
+      "id": "KAM_OBS",
+      "title": "Summerhayes et al. — Obsidian exchange in the Bismarck Archipelago",
+      "url": "https://scholar.google.com/scholar?q=Lapita+obsidian+Kamgot",
+      "use": "provenienza dell’ossidiana e mobilità"
+    }
+  ]
+}

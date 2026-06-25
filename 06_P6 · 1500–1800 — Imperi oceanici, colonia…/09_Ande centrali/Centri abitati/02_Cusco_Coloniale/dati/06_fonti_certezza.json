@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Cusco fu trasformata in centro coloniale dopo l’occupazione spagnola del 1533.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "CU1; CU2"
+  },
+  {
+    "claim": "Edifici coloniali furono costruiti sopra o accanto a strutture inca.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "CU1; CU3"
+  },
+  {
+    "claim": "Le parrocchie indigene conservarono comunità e identità urbane distinte.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "CU3; CU5"
+  },
+  {
+    "claim": "Il terremoto del 1650 produsse una vasta ricostruzione barocca.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "CU1; CU2"
+  },
+  {
+    "claim": "La città era collegata a Potosí, Titicaca e Yungas da reti stradali andine.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "CU4; CU5"
+  },
+  {
+    "claim": "Obrajes e botteghe sostennero tessili, pittura, argenteria e altri mestieri.",
+    "theme": "artigianato",
+    "status": "documentato",
+    "source": "CU3; CU5"
+  },
+  {
+    "claim": "Tributo, mita e coercizione coloniale pesarono sulle comunità indigene.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "CU5"
+  },
+  {
+    "claim": "Le trasformazioni successive al 1800 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "CU2"
+  }
+]

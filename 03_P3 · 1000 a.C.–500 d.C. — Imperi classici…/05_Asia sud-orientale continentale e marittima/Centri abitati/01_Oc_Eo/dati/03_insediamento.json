@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Formazione degli insediamenti del delta",
+    "Sviluppo di canali e officine",
+    "Apogeo portuale dei primi secoli d.C.",
+    "Riorganizzazioni del IV–V secolo",
+    "Trasformazioni post-Funan"
+  ],
+  "items": [
+    {
+      "id": "canals",
+      "label": "Canali e vie d’acqua",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "mounds",
+      "label": "Rialzi abitativi e piattaforme",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "workshops",
+      "label": "Officine di perle, vetro e metallo",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "markets",
+      "label": "Approdi, depositi e mercati",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "temples",
+      "label": "Strutture rituali in mattoni",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "burials",
+      "label": "Sepolture e depositi votivi",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "coins",
+      "label": "Monete e oggetti di scambio",
+      "lane": "Amministrative",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

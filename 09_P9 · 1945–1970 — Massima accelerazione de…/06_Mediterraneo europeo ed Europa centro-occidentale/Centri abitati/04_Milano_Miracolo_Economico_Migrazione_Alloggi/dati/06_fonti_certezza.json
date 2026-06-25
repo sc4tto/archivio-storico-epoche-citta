@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Nel 1945 Milano presentava distruzioni diffuse a edifici, abitazioni, trasporti e spazi pubblici.",
+    "theme": "ricostruzione",
+    "status": "documentato",
+    "source": "MI1"
+  },
+  {
+    "claim": "Il censimento urbanistico del 1946 preparò il nuovo PRG, adottato nel 1948 e approvato nel 1953.",
+    "theme": "pianificazione",
+    "status": "documentato",
+    "source": "MI2"
+  },
+  {
+    "claim": "La popolazione e l’area metropolitana crebbero fortemente durante il miracolo economico e le migrazioni interne.",
+    "theme": "demografia",
+    "status": "documentato",
+    "source": "MI3"
+  },
+  {
+    "claim": "I quartieri operai furono luoghi di partecipazione politica, sindacale e conflitto sociale.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "MI4"
+  },
+  {
+    "claim": "L’offerta di alloggi economici rimase insufficiente rispetto alla crescita, alimentando periferie precarie e mobilitazione.",
+    "theme": "abitazione",
+    "status": "sintesi",
+    "source": "MI2; MI3; MI4"
+  },
+  {
+    "claim": "Milano, miracolo economico, migrazione e crisi degli alloggi è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Bombardamenti, sfratti, demolizioni, baracche, segregazione periferica, repressione delle mobilitazioni e violenza politica culminata nella strage di Piazza Fontana sono descritti esplicitamente come esperienze di coercizione, perdita e disuguaglianza.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1900–1909",
+    "1910–1918",
+    "1919–1928",
+    "1929–1938",
+    "1939–1945"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Espansione di Fundidora e delle grandi fabbriche",
+      "lane": "Economia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Piena catastrofica del 1909",
+      "lane": "Rischi",
+      "start": 0,
+      "end": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Rivoluzione e interruzioni produttive del 1910–1920",
+      "lane": "Conflitti",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Riorganizzazione operaia e conflitti sindacali",
+      "lane": "Società",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Crescita di cemento, vetro, birra e metallurgia",
+      "lane": "Economia",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Nuove colonias, ospedali e scuole tecniche",
+      "lane": "Infrastrutture",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Fondazione del Tecnológico de Monterrey nel 1943",
+      "lane": "Istruzione",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Metropolizzazione post-1945 esclusa",
+      "lane": "Cronologia",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

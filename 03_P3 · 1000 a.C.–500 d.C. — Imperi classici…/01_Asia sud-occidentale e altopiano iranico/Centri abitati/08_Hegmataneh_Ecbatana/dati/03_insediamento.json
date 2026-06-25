@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Sede meda",
+    "Capitale estiva achemenide",
+    "Fase seleucide",
+    "Residenza partica",
+    "Continuità sasanide"
+  ],
+  "items": [
+    {
+      "id": "fort",
+      "label": "Fortificazioni e terrazze",
+      "lane": "Difensive",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "palace",
+      "label": "Edifici di rappresentanza",
+      "lane": "Monumentali",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "streets",
+      "label": "Trama urbana e drenaggi",
+      "lane": "Urbanistiche",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Quartieri residenziali",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "workshops",
+      "label": "Artigianato e metalli",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "roads",
+      "label": "Strade imperiali",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "modern",
+      "label": "Sovrapposizione della città moderna",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

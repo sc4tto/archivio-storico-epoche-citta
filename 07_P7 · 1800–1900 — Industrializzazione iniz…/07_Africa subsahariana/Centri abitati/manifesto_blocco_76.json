@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_76_P7_Africa_Subsahariana_5_Centri_v1",
+  "macroregion": "Africa subsahariana",
+  "centers": [
+    "01_Lagos_Lagunare_Coloniale",
+    "02_Freetown_Krio_Coloniale",
+    "03_Zanzibar_Stone_Town_Omanita_Coloniale",
+    "04_Johannesburg_Citta_dell_Oro",
+    "05_Pretoria_Repubblicana_Amministrativa"
+  ],
+  "uses_central_assets": true
+}

@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "El Paraíso",
+      "lat": -11.949,
+      "lon": -77.113,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "chillon",
+      "label": "Bassa valle del Chillón",
+      "lat": -11.95,
+      "lon": -77.08,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "coast",
+      "label": "Costa di Ancón-Chillón",
+      "lat": -11.85,
+      "lon": -77.18,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "perros",
+      "label": "Pampa de los Perros",
+      "lat": -11.93,
+      "lon": -77.08,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "rimac",
+      "label": "Valle del Rímac",
+      "lat": -12.05,
+      "lon": -77.05,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "highlands",
+      "label": "Altopiani centrali",
+      "lat": -11.7,
+      "lon": -76.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "chillon",
+      "target": "site",
+      "label": "acqua, colture e materiali",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "coast",
+      "target": "site",
+      "label": "pesce, molluschi e sale",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "perros",
+      "target": "site",
+      "label": "rete locale di monumenti",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "rimac",
+      "target": "site",
+      "label": "contatti costieri regionali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "highlands",
+      "target": "site",
+      "label": "pietre e beni d’altura",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

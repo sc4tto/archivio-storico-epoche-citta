@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Heijō-kyō / Nara",
+      "lat": 34.6851,
+      "lon": 135.8048,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "palace",
+      "label": "Palazzo di Heijō",
+      "lat": 34.6915,
+      "lon": 135.794,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "osaka",
+      "label": "Baia di Osaka e Naniwa",
+      "lat": 34.69,
+      "lon": 135.5,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "kyoto",
+      "label": "Heian-kyō / Kyoto",
+      "lat": 35.01,
+      "lon": 135.77,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "korea",
+      "label": "Penisola coreana",
+      "lat": 36.0,
+      "lon": 128.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "changan",
+      "label": "Chang’an Tang",
+      "lat": 34.34,
+      "lon": 108.94,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "palace",
+      "target": "site",
+      "label": "amministrazione, rituali e redistribuzione",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "osaka",
+      "target": "site",
+      "label": "sale, pesce e traffici marittimi",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "kyoto",
+      "target": "site",
+      "label": "trasferimento di corte e istituzioni",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "korea",
+      "target": "site",
+      "label": "artigiani, testi e modelli culturali",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "changan",
+      "target": "site",
+      "label": "modelli urbanistici e buddhisti",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

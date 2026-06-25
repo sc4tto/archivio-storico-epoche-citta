@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1945–1949",
+    "1950–1954",
+    "1955–1959",
+    "1960–1964",
+    "1965–1970"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Riconversione dall’economia di guerra e boom terziario",
+      "lane": "Economia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Grande migrazione afroamericana e crescita portoricana",
+      "lane": "Demografia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Urban renewal federale e demolizione di quartieri definiti blighted",
+      "lane": "Pianificazione",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Espansione della rete NYCHA e dei complessi a torre",
+      "lane": "Abitazione",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Costruzione e completamento di grandi expressway e ponti",
+      "lane": "Mobilità",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Lincoln Center e trasformazione di San Juan Hill",
+      "lane": "Cultura e sgomberi",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Opposizione comunitaria alle autostrade di Lower Manhattan",
+      "lane": "Partecipazione",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Diritti civili, lotte scolastiche e Fair Housing Act",
+      "lane": "Politica sociale",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

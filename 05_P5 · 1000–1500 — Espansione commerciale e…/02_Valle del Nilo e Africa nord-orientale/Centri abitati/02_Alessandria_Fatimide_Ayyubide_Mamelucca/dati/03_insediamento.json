@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "a1",
+      "label": "Porto fatimide e commerci mediterranei",
+      "lane": "Economia",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "a2",
+      "label": "Fortificazioni ayyubidi",
+      "lane": "Difesa",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a3",
+      "label": "Funduq e consolati mercantili",
+      "lane": "Economia",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "a4",
+      "label": "Controllo doganale mamelucco",
+      "lane": "Politica",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "a5",
+      "label": "Terremoti del 1303 e 1323",
+      "lane": "Crisi",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "a6",
+      "label": "Sacco crociato del 1365",
+      "lane": "Conflitto",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "a7",
+      "label": "Ripresa commerciale del XV secolo",
+      "lane": "Economia",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "a8",
+      "label": "Cittadella di Qaitbay",
+      "lane": "Difesa",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

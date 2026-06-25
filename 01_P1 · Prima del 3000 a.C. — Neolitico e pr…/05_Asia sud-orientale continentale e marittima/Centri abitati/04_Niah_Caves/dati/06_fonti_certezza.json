@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Niah conserva almeno 50.000 anni di interazione fra esseri umani e foresta tropicale",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "UNESCO_NIAH"
+  },
+  {
+    "claim": "Il complesso comprende depositi archeologici, siti funerari e pitture rupestri",
+    "theme": "Evidenze",
+    "status": "documentato",
+    "source": "UNESCO_NIAH"
+  },
+  {
+    "claim": "Le popolazioni svilupparono strategie diversificate di sfruttamento della foresta",
+    "theme": "Economia",
+    "status": "documentato",
+    "source": "UNESCO_NIAH"
+  },
+  {
+    "claim": "La sequenza include una transizione verso riso, arboricoltura e vegecoltura",
+    "theme": "Produzione",
+    "status": "sintesi",
+    "source": "UNESCO_NIAH"
+  },
+  {
+    "claim": "Le ricerche moderne hanno rivalutato la stratigrafia degli scavi storici",
+    "theme": "Metodo",
+    "status": "documentato",
+    "source": "NIAH_PROJECT"
+  },
+  {
+    "claim": "Le pitture e le sepolture a barca appartengono certamente al P1",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Molte sono posteriori"
+  },
+  {
+    "claim": "Niah era una città permanente",
+    "theme": "Urbanistica",
+    "status": "non_documentato",
+    "source": "È un complesso di grotte e paesaggi"
+  },
+  {
+    "claim": "La produzione del riso è documentata fin dalle occupazioni più antiche",
+    "theme": "Agricoltura",
+    "status": "non_documentato",
+    "source": "La produzione del cibo è tarda nella sequenza"
+  }
+]

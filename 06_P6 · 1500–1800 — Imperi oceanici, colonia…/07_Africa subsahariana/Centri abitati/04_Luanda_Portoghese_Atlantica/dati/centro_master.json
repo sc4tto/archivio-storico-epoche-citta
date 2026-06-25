@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Luanda portoghese e atlantica",
+    "site": "Luanda portoghese e atlantica",
+    "modern_location": "Luanda, Angola",
+    "coordinates": {
+      "lat": -8.839,
+      "lon": 13.2894
+    },
+    "scope": "Luanda fra 1576 e 1800: porto atlantico, sede coloniale, fortezze, quartieri europei e africani, reti con l’entroterra mbundu e ruolo centrale nella tratta schiavistica transatlantica.",
+    "version": "1.0",
+    "warning": "Il modulo affronta la tratta schiavistica come sistema coercitivo e violento. Sono escluse l’espansione ottocentesca, la città tardo-coloniale e le trasformazioni contemporanee."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "LU1",
+      "title": "Encyclopaedia Britannica — Luanda",
+      "use": "Fondazione nel 1576, ruolo amministrativo e traffico atlantico.",
+      "url": "https://www.britannica.com/place/Luanda"
+    },
+    {
+      "id": "LU2",
+      "title": "UNESCO — Mbanza Kongo",
+      "use": "Contesto del regno del Kongo e dei rapporti con il Portogallo.",
+      "url": "https://whc.unesco.org/en/list/1511/"
+    },
+    {
+      "id": "LU3",
+      "title": "Arquivo Histórico Ultramarino",
+      "use": "Fonti amministrative portoghesi su Angola e Atlantico.",
+      "url": "https://ahu.dglab.gov.pt/"
+    },
+    {
+      "id": "LU4",
+      "title": "The Metropolitan Museum of Art — Kongo and related peoples",
+      "use": "Cultura materiale e reti dell’Africa centro-occidentale.",
+      "url": "https://www.metmuseum.org/toah/hd/kong/hd_kong.htm"
+    },
+    {
+      "id": "LU5",
+      "title": "Museu Nacional da Escravatura — Angola",
+      "use": "Memoria della tratta e del sistema schiavistico.",
+      "url": "https://www.museusdeangola.org/"
+    }
+  ]
+}

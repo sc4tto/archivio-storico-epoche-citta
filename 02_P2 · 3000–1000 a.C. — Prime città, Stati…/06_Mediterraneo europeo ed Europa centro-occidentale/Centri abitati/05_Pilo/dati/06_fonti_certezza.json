@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Pilo fu un importante centro amministrativo miceneo",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "PYLOS_UC"
+  },
+  {
+    "claim": "Gli archivi conservano numerose tavolette in Lineare B",
+    "theme": "Scrittura",
+    "status": "documentato",
+    "source": "PYLOS_ASCSA"
+  },
+  {
+    "claim": "Le tavolette registrano persone, greggi, terre, offerte e produzioni",
+    "theme": "Amministrazione",
+    "status": "documentato",
+    "source": "PYLOS_ASCSA"
+  },
+  {
+    "claim": "Il palazzo comprendeva magazzini, laboratori, megaron e sistemi di drenaggio",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "PYLOS_ASCSA"
+  },
+  {
+    "claim": "Il centro coordinava un territorio articolato della Messenia",
+    "theme": "Territorio",
+    "status": "sintesi",
+    "source": "PYLOS_PRAP"
+  },
+  {
+    "claim": "Il sovrano del palazzo era certamente il Nestore omerico",
+    "theme": "Mito",
+    "status": "non_documentato",
+    "source": "Identificazione tradizionale"
+  },
+  {
+    "claim": "Pilo era protetta da una cinta ciclopica come Micene",
+    "theme": "Difese",
+    "status": "non_documentato",
+    "source": "Il palazzo noto non ha una cinta equivalente"
+  },
+  {
+    "claim": "L’incendio finale dimostra da solo l’identità degli aggressori",
+    "theme": "Crisi",
+    "status": "non_documentato",
+    "source": "Responsabili e cause non determinati"
+  }
+]

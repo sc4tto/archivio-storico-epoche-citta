@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Mantai fu un importante porto collegato ad Anuradhapura",
+    "theme": "Reti",
+    "status": "documentato",
+    "source": "MAN_CARSWELL"
+  },
+  {
+    "claim": "Gli scavi hanno restituito pepe, chiodi di garofano e cereali",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "MAN_ANTIQUITY"
+  },
+  {
+    "claim": "Ceramiche e monete indicano contatti a lunga distanza",
+    "theme": "Reti",
+    "status": "documentato",
+    "source": "MAN_CARSWELL"
+  },
+  {
+    "claim": "La lavorazione di perle faceva parte dell’economia locale",
+    "theme": "Produzione",
+    "status": "documentato",
+    "source": "MAN_CARSWELL"
+  },
+  {
+    "claim": "La linea di costa antica coincide esattamente con quella moderna",
+    "theme": "Paesaggio",
+    "status": "non_documentato",
+    "source": "Ambiente costiero trasformato"
+  },
+  {
+    "claim": "Ogni oggetto importato identifica l’etnia del proprietario",
+    "theme": "Società",
+    "status": "non_documentato",
+    "source": "Provenienza degli oggetti non equivale a identità"
+  },
+  {
+    "claim": "Il porto cessò istantaneamente ogni attività nel 993",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Sono documentate trasformazioni e continuità"
+  },
+  {
+    "claim": "Mantai integrava agricoltura interna e rotte oceaniche",
+    "theme": "Sintesi",
+    "status": "documentato",
+    "source": "MAN_ANTIQUITY"
+  }
+]

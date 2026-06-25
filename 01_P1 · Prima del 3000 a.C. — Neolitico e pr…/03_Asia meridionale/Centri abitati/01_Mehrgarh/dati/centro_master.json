@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Mehrgarh — modulo multi-grafo",
+    "short_name": "Mehrgarh",
+    "site": "Mehrgarh",
+    "modern_location": "Piana di Kachi, Belucistan, Pakistan",
+    "coordinates": {
+      "lat": 29.36,
+      "lon": 67.62
+    },
+    "scope": "Sequenza dal VII al III millennio a.C., con villaggi agricoli, strutture in mattoni crudi, cimiteri e specializzazione artigianale",
+    "version": "1.0-blocco_04_p1_asia_meridionale_5_centri_v1",
+    "warning": "La sequenza comprende più mound e spostamenti del centro di occupazione; i dati devono essere riferiti ai periodi e alle aree specifiche."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "UNESCO_MEHRGARH",
+      "title": "UNESCO World Heritage Centre — Archaeological Site of Mehrgarh",
+      "url": "https://whc.unesco.org/en/tentativelists/1876/",
+      "use": "cronologia, strutture in mattoni crudi, magazzini, cimiteri e specializzazione"
+    },
+    {
+      "id": "MAI_INDUS",
+      "title": "Mission archéologique de l’Indus",
+      "url": "https://www.arscan.fr/archeologie-asie-centrale/mai/",
+      "use": "ricerche francesi a Mehrgarh e nel bacino dell’Indo"
+    },
+    {
+      "id": "NATURE_DENTISTRY",
+      "title": "Coppa et al. — Early Neolithic tradition of dentistry",
+      "url": "https://doi.org/10.1038/440755a",
+      "use": "evidenze di perforazione dentale nel Neolitico"
+    }
+  ]
+}

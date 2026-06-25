@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Il sito conserva ceramiche di oltre 2600 anni",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "SIG_UNESCO"
+  },
+  {
+    "claim": "Le dune contengono una lunga sequenza archeologica",
+    "theme": "Stratigrafia",
+    "status": "documentato",
+    "source": "SIG_UNESCO"
+  },
+  {
+    "claim": "Sono presenti importanti aree funerarie",
+    "theme": "Funerario",
+    "status": "documentato",
+    "source": "SIG_UNESCO"
+  },
+  {
+    "claim": "Erosione e vento espongono continuamente nuovi materiali",
+    "theme": "Conservazione",
+    "status": "documentato",
+    "source": "SIG_TRUST"
+  },
+  {
+    "claim": "Il sito fu utilizzato in più periodi e non forma un unico episodio",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "SIG_UNESCO"
+  },
+  {
+    "claim": "Tutti i defunti appartenevano alla prima comunità Lapita",
+    "theme": "Funerario",
+    "status": "non_documentato",
+    "source": "Le sepolture coprono fasi differenti"
+  },
+  {
+    "claim": "Le dune erano una capitale politica centralizzata",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Paesaggio insediativo, non capitale dimostrata"
+  },
+  {
+    "claim": "La foce collegava costa e interno di Viti Levu",
+    "theme": "Mobilità",
+    "status": "sintesi",
+    "source": "Geografia fluviale"
+  }
+]

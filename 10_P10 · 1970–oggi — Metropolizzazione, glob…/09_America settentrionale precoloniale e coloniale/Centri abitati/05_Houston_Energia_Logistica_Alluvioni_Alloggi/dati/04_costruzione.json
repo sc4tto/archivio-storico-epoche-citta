@@ -1,0 +1,246 @@
+{
+  "nodes": [
+    {
+      "id": "m0",
+      "label": "Acciaio, calcestruzzo, legno, vetro e materiali industriali",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m1",
+      "label": "Rotaie leggere, autostrade, ponti, porti e impianti energetici",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m2",
+      "label": "Canali, bayou, bacini, pompe, drenaggi e argini",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m3",
+      "label": "Materiali resistenti ad alluvione, calore e uragani",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "o0",
+      "label": "Costruzione dispersa, elevazione di edifici e retrofit",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o1",
+      "label": "Posa ferroviaria, manutenzione stradale, portuale e industriale",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o2",
+      "label": "Drenaggio, laminazione, rinaturalizzazione e protezione dalle piene",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o3",
+      "label": "Efficienza energetica, ombreggiamento, ricostruzione e adattamento",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "c0",
+      "label": "Alloggi, ospedali, università, impianti energetici e logistici",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c1",
+      "label": "METRORail, bus, freeway, porto e aeroporti",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c2",
+      "label": "Bayou, bacini, reti idriche e sistemi di allerta",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c3",
+      "label": "Quartieri resilienti, edifici elevati e spazi raffrescati",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "s0",
+      "label": "Downtown, Medical Center e corridoi centrali",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s1",
+      "label": "Port of Houston e distretti industriali",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s2",
+      "label": "Suburbia e grandi arterie automobilistiche",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s3",
+      "label": "Quartieri esposti a alluvioni, calore e inquinamento industriale",
+      "layer": 3,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m0",
+      "target": "o0",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "m0",
+      "target": "o1",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "m1",
+      "target": "o1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "m1",
+      "target": "o3",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "m2",
+      "target": "o2",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "m2",
+      "target": "o0",
+      "status": "inferito",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "m3",
+      "target": "o3",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "m3",
+      "target": "o2",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o0",
+      "target": "c0",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o0",
+      "target": "c1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o1",
+      "target": "c0",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o1",
+      "target": "c1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o2",
+      "target": "c2",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o2",
+      "target": "c0",
+      "status": "inferito",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o3",
+      "target": "c3",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o3",
+      "target": "c1",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c0",
+      "target": "s0",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c0",
+      "target": "s1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c1",
+      "target": "s0",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c1",
+      "target": "s1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c2",
+      "target": "s0",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c2",
+      "target": "s2",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c3",
+      "target": "s1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c3",
+      "target": "s2",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    }
+  ]
+}

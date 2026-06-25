@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "La Congestion Relief Zone è operativa dal gennaio 2025.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "NY3"
+  },
+  {
+    "claim": "La Housing and Vacancy Survey 2023 documenta una crisi acuta della disponibilità locativa.",
+    "theme": "alloggi",
+    "status": "documentato",
+    "source": "NY2"
+  },
+  {
+    "claim": "City of Yes è una riforma urbanistica approvata nel 2024 per ampliare le possibilità abitative.",
+    "theme": "pianificazione",
+    "status": "documentato",
+    "source": "NY4"
+  },
+  {
+    "claim": "PlaNYC integra clima, edifici, mobilità e resilienza costiera.",
+    "theme": "clima",
+    "status": "documentato",
+    "source": "NY1"
+  },
+  {
+    "claim": "Gli obiettivi successivi al 2026 sono qualificati come piani futuri.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "NY1"
+  },
+  {
+    "claim": "New York è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Segregazione, sfratti, gentrificazione, discriminazione e spostamenti non sono presentati come processi neutrali.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

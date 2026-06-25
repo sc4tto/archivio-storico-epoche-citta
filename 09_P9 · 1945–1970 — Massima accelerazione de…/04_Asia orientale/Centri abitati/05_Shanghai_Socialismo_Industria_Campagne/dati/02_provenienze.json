@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Shanghai",
+      "lat": 31.2304,
+      "lon": 121.4737,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "del",
+      "label": "Delta del Chang Jiang",
+      "lat": 31.2,
+      "lon": 120.6,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "sub",
+      "label": "Contee suburbane di Shanghai",
+      "lat": 31.05,
+      "lon": 121.25,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "har",
+      "label": "Huangpu e porto",
+      "lat": 31.3,
+      "lon": 121.55,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "jia",
+      "label": "Jiangsu e Zhejiang",
+      "lat": 30.6,
+      "lon": 120.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "nat",
+      "label": "Reti ferroviarie della Cina interna",
+      "lat": 32.5,
+      "lon": 114.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "sea",
+      "label": "Rotte costiere e Mar Cinese orientale",
+      "lat": 28.0,
+      "lon": 125.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "del",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali, strade e ferrovia",
+      "food": "riso, cotone, ortaggi e lavoratori"
+    },
+    {
+      "source": "sub",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "camion, canali e acquisti statali",
+      "food": "verdure, carne, latte e manodopera"
+    },
+    {
+      "source": "har",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto, chiatte e magazzini",
+      "food": "pesce, carbone, materie prime e merci"
+    },
+    {
+      "source": "jia",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e vie d’acqua",
+      "food": "riso, seta, tè, legname e migranti"
+    },
+    {
+      "source": "nat",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "piani statali e ferrovie",
+      "food": "carbone, grano, cotone, operai e tecnici"
+    },
+    {
+      "source": "sea",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione costiera",
+      "food": "pesce, sale, combustibili e scambi nazionali"
+    }
+  ]
+}

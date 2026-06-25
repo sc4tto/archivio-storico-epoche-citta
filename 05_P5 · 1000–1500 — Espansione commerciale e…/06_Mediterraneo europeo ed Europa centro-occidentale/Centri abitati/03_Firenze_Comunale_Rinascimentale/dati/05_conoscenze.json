@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Firenze comunale e rinascimentale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Corporazioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Arti maggiori e minori",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Regole di bottega e apprendistato",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Finanza",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Contabilità e lettere di cambio",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Reti bancarie internazionali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Muratura lapidea e laterizia",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Cupole e ponteggi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Manifattura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Lana, seta e tintura",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Metalli e arti decorative",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Governo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Comune e priorati",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Fiscalità e opere pubbliche",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

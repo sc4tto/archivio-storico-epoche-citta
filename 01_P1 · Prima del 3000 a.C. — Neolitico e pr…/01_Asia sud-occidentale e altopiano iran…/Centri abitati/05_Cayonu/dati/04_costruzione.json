@@ -1,0 +1,186 @@
+{
+  "nodes": [
+    {
+      "id": "stone",
+      "label": "Pietra e ciottoli",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "earth",
+      "label": "Terra e argilla",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "timber",
+      "label": "Legname",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "lime",
+      "label": "Calce e aggregati",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "grid",
+      "label": "Costruzione di fondazioni a griglia",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "channels",
+      "label": "Canali e sottofondi",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "brick",
+      "label": "Murature in terra cruda",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "terrazzo",
+      "label": "Preparazione di pavimenti in terrazzo",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "grillbase",
+      "label": "Basi a griglia",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "drainbase",
+      "label": "Fondazioni drenanti",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "walls",
+      "label": "Pareti e partizioni",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "floor",
+      "label": "Pavimenti specializzati",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Edifici domestici evolutivi",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "cellhouse",
+      "label": "Edifici a celle",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "special",
+      "label": "Edifici comunitari",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "maintenance",
+      "label": "Adattamento a suoli argillosi",
+      "layer": 3,
+      "status": "inferito"
+    }
+  ],
+  "edges": [
+    {
+      "source": "stone",
+      "target": "grid",
+      "label": "materia prima",
+      "status": "documentato"
+    },
+    {
+      "source": "stone",
+      "target": "channels",
+      "label": "materia prima",
+      "status": "documentato"
+    },
+    {
+      "source": "earth",
+      "target": "brick",
+      "label": "materia prima",
+      "status": "sintesi"
+    },
+    {
+      "source": "lime",
+      "target": "terrazzo",
+      "label": "materia prima",
+      "status": "sintesi"
+    },
+    {
+      "source": "grid",
+      "target": "grillbase",
+      "label": "produce",
+      "status": "documentato"
+    },
+    {
+      "source": "channels",
+      "target": "drainbase",
+      "label": "produce",
+      "status": "documentato"
+    },
+    {
+      "source": "brick",
+      "target": "walls",
+      "label": "produce",
+      "status": "sintesi"
+    },
+    {
+      "source": "terrazzo",
+      "target": "floor",
+      "label": "produce",
+      "status": "documentato"
+    },
+    {
+      "source": "grillbase",
+      "target": "houses",
+      "label": "sostiene",
+      "status": "documentato"
+    },
+    {
+      "source": "drainbase",
+      "target": "houses",
+      "label": "sostiene",
+      "status": "documentato"
+    },
+    {
+      "source": "walls",
+      "target": "cellhouse",
+      "label": "costituisce",
+      "status": "documentato"
+    },
+    {
+      "source": "floor",
+      "target": "special",
+      "label": "caratterizza",
+      "status": "documentato"
+    },
+    {
+      "source": "drainbase",
+      "target": "maintenance",
+      "label": "risponde a umidità",
+      "status": "inferito"
+    },
+    {
+      "source": "timber",
+      "target": "houses",
+      "label": "copertura",
+      "status": "sintesi"
+    }
+  ]
+}

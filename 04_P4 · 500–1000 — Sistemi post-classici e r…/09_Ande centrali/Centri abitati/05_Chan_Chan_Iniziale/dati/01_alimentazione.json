@@ -1,0 +1,342 @@
+{
+  "nodes": [
+    {
+      "id": "t0",
+      "label": "Valle irrigua del Moche",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t1",
+      "label": "Litorale e baie costiere",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t2",
+      "label": "Valli vicine di Chicama e Virú",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t3",
+      "label": "Reti verso sierra e nord",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "r0",
+      "label": "Mais, fagioli, zucca e frutta",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r1",
+      "label": "Pesci, molluschi e alghe",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r2",
+      "label": "Camelidi e porcellini d’India",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r3",
+      "label": "Cotone, peperoncini e beni esotici",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "a0",
+      "label": "Agricoltura canalizzata",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a1",
+      "label": "Pesca e navigazione costiera",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a2",
+      "label": "Allevamento e carovane",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a3",
+      "label": "Tributo e scambio regionale",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "x0",
+      "label": "Macinazione e cottura",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x1",
+      "label": "Essiccazione e salatura del pesce",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x2",
+      "label": "Fermentazione di chicha",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x3",
+      "label": "Stoccaggio in depositi",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "p0",
+      "label": "Pasti di mais e legumi",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "p1",
+      "label": "Pesce fresco e conservato",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "p2",
+      "label": "Chicha per cerimonie",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p3",
+      "label": "Razioni per corte e laboratori",
+      "layer": 4,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "t0",
+      "target": "r0",
+      "status": "documentato",
+      "label": "La valle irrigua del Moche produceva mais, legumi, zucca e frutta."
+    },
+    {
+      "source": "t0",
+      "target": "r3",
+      "status": "documentato",
+      "label": "La valle forniva anche cotone e peperoncini."
+    },
+    {
+      "source": "t1",
+      "target": "r1",
+      "status": "documentato",
+      "label": "Il litorale forniva pesci, molluschi e alghe."
+    },
+    {
+      "source": "t1",
+      "target": "r3",
+      "status": "documentato",
+      "label": "Le reti costiere contribuivano ai beni esotici e alle fibre."
+    },
+    {
+      "source": "t2",
+      "target": "r0",
+      "status": "documentato",
+      "label": "Chicama e Virú fornivano derrate agricole."
+    },
+    {
+      "source": "t2",
+      "target": "r2",
+      "status": "documentato",
+      "label": "Le valli vicine sostenevano piccoli allevamenti e movimenti di camelidi."
+    },
+    {
+      "source": "t2",
+      "target": "r3",
+      "status": "documentato",
+      "label": "Le valli vicine fornivano cotone e peperoncini."
+    },
+    {
+      "source": "t3",
+      "target": "r2",
+      "status": "sintesi",
+      "label": "Le reti verso la sierra portavano camelidi e derivati."
+    },
+    {
+      "source": "t3",
+      "target": "r3",
+      "status": "documentato",
+      "label": "Le reti settentrionali portavano beni esotici."
+    },
+    {
+      "source": "r0",
+      "target": "a0",
+      "status": "documentato",
+      "label": "Mais, legumi e frutta derivavano dall’agricoltura canalizzata."
+    },
+    {
+      "source": "r0",
+      "target": "a3",
+      "status": "sintesi",
+      "label": "Parte delle derrate poteva essere tributata o scambiata."
+    },
+    {
+      "source": "r1",
+      "target": "a1",
+      "status": "documentato",
+      "label": "Pesci, molluschi e alghe derivavano da pesca e navigazione costiera."
+    },
+    {
+      "source": "r1",
+      "target": "a3",
+      "status": "documentato",
+      "label": "Prodotti marini circolavano negli scambi regionali."
+    },
+    {
+      "source": "r2",
+      "target": "a2",
+      "status": "documentato",
+      "label": "Camelidi e piccoli animali erano legati ad allevamento e carovane."
+    },
+    {
+      "source": "r2",
+      "target": "a3",
+      "status": "sintesi",
+      "label": "Animali e derivati potevano essere tributati."
+    },
+    {
+      "source": "r3",
+      "target": "a0",
+      "status": "documentato",
+      "label": "Cotone e peperoncini erano coltivati nelle valli irrigue."
+    },
+    {
+      "source": "r3",
+      "target": "a3",
+      "status": "documentato",
+      "label": "Beni esotici giungevano tramite scambio regionale."
+    },
+    {
+      "source": "a0",
+      "target": "x0",
+      "status": "documentato",
+      "label": "I prodotti agricoli erano macinati e cotti."
+    },
+    {
+      "source": "a0",
+      "target": "x2",
+      "status": "documentato",
+      "label": "Il mais alimentava la fermentazione della chicha."
+    },
+    {
+      "source": "a0",
+      "target": "x3",
+      "status": "documentato",
+      "label": "Cotone e derrate erano conservati nei depositi."
+    },
+    {
+      "source": "a1",
+      "target": "x1",
+      "status": "documentato",
+      "label": "Il pesce era essiccato e salato."
+    },
+    {
+      "source": "a1",
+      "target": "x3",
+      "status": "documentato",
+      "label": "Prodotti marini erano immagazzinati e distribuiti."
+    },
+    {
+      "source": "a2",
+      "target": "x1",
+      "status": "documentato",
+      "label": "Carne e derivati potevano essere essiccati."
+    },
+    {
+      "source": "a2",
+      "target": "x3",
+      "status": "documentato",
+      "label": "Le carovane richiedevano deposito e distribuzione."
+    },
+    {
+      "source": "a3",
+      "target": "x2",
+      "status": "sintesi",
+      "label": "Tributi di mais potevano alimentare la chicha cerimoniale."
+    },
+    {
+      "source": "a3",
+      "target": "x3",
+      "status": "documentato",
+      "label": "Tributo e scambio richiedevano depositi."
+    },
+    {
+      "source": "x0",
+      "target": "p0",
+      "status": "documentato",
+      "label": "Macinazione e cottura producevano pasti di mais e legumi."
+    },
+    {
+      "source": "x0",
+      "target": "p3",
+      "status": "sintesi",
+      "label": "Le preparazioni cotte potevano essere distribuite a corte e nei laboratori."
+    },
+    {
+      "source": "x1",
+      "target": "p1",
+      "status": "documentato",
+      "label": "Essiccazione e salatura producevano pesce conservato."
+    },
+    {
+      "source": "x1",
+      "target": "p3",
+      "status": "sintesi",
+      "label": "Pesce e carne conservati potevano entrare nelle razioni."
+    },
+    {
+      "source": "x2",
+      "target": "p2",
+      "status": "documentato",
+      "label": "La fermentazione produceva chicha per cerimonie."
+    },
+    {
+      "source": "x2",
+      "target": "p3",
+      "status": "sintesi",
+      "label": "La chicha poteva essere distribuita in contesti di corte."
+    },
+    {
+      "source": "x3",
+      "target": "p0",
+      "status": "documentato",
+      "label": "I depositi conservavano cereali e legumi."
+    },
+    {
+      "source": "x3",
+      "target": "p1",
+      "status": "documentato",
+      "label": "I depositi conservavano prodotti marini."
+    },
+    {
+      "source": "x3",
+      "target": "p2",
+      "status": "sintesi",
+      "label": "I depositi sostenevano la produzione e il servizio della chicha."
+    },
+    {
+      "source": "x3",
+      "target": "p3",
+      "status": "documentato",
+      "label": "Lo stoccaggio alimentava le razioni per corte e laboratori."
+    }
+  ]
+}

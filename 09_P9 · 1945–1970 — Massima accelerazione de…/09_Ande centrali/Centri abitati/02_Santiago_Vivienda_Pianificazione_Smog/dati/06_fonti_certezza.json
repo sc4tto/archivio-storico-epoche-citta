@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "La CORVI, istituita nel 1953, coordinò programmi di edilizia e urbanizzazione sociale.",
+    "theme": "abitazione",
+    "status": "documentato",
+    "source": "SA1"
+  },
+  {
+    "claim": "La toma de La Victoria del 1957 fu un’azione collettiva organizzata da famiglie senza casa, che costruirono una nueva población.",
+    "theme": "mobilitazione",
+    "status": "documentato",
+    "source": "SA3"
+  },
+  {
+    "claim": "Il Plan Intercomunal approvato nel 1960 definì un quadro metropolitano per usi del suolo e infrastrutture.",
+    "theme": "pianificazione",
+    "status": "documentato",
+    "source": "SA2"
+  },
+  {
+    "claim": "La crescita industriale, il traffico e la conformazione del bacino contribuirono al peggioramento dell’inquinamento atmosferico.",
+    "theme": "ambiente",
+    "status": "documentato",
+    "source": "SA4"
+  },
+  {
+    "claim": "I programmi pubblici ampliarono l’offerta, ma non eliminarono campamentos, sovraffollamento e segregazione territoriale.",
+    "theme": "disuguaglianza",
+    "status": "sintesi",
+    "source": "SA1; SA3"
+  },
+  {
+    "claim": "Santiago, vivienda sociale, pianificazione e smog è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Sgomberi, segregazione socio-spaziale e repressione delle mobilitazioni abitative non sono descritti come semplice amministrazione: pobladores e comitati sono rappresentati come soggetti politici che rivendicarono terra, casa e servizi.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

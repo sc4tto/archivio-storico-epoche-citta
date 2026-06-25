@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Costantinopoli",
+      "lat": 41.0082,
+      "lon": 28.9784,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "horn",
+      "label": "Corno d’Oro e porti",
+      "lat": 41.02,
+      "lon": 28.96,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "bosph",
+      "label": "Bosphoro",
+      "lat": 41.04,
+      "lon": 29.03,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "thrace",
+      "label": "Tracia orientale",
+      "lat": 41.2,
+      "lon": 28.62,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "bithynia",
+      "label": "Bitinia",
+      "lat": 40.82,
+      "lon": 29.4,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "black",
+      "label": "Porti del Mar Nero",
+      "lat": 44.0,
+      "lon": 34.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "aegean",
+      "label": "Egeo e Mediterraneo orientale",
+      "lat": 37.9,
+      "lon": 25.2,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "horn",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "scarico e redistribuzione",
+      "food": "grano e merci"
+    },
+    {
+      "source": "bosph",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "pesca e transito",
+      "food": "pesce e traffici"
+    },
+    {
+      "source": "thrace",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete stradale e fiscale",
+      "food": "cereali e bestiame"
+    },
+    {
+      "source": "bithynia",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "attraversamento marittimo",
+      "food": "vino, ortaggi e legname"
+    },
+    {
+      "source": "black",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte cerealicole e commerciali",
+      "food": "grano, cera, pellicce"
+    },
+    {
+      "source": "aegean",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cabotaggio imperiale",
+      "food": "olio, vino e manufatti"
+    }
+  ]
+}

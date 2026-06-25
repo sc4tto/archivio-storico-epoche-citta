@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Karachi portuale e aeronautica",
+    "site": "Karachi portuale e aeronautica",
+    "modern_location": "Karachi, Pakistan",
+    "coordinates": {
+      "lat": 24.8607,
+      "lon": 67.0011
+    },
+    "scope": "Karachi fra 1900 e 1945: espansione portuale, tram, ferrovie, elettricità, aeroporto, nuove istituzioni, separazione del Sindh nel 1936, mobilitazione militare e crescita del movimento politico.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1945. Partizione del 1947, capitale del Pakistan, migrazioni di massa e crescita postcoloniale sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "KA1",
+      "title": "Karachi Port Trust",
+      "use": "Sviluppo dei moli, docks e traffico portuale.",
+      "url": "https://kpt.gov.pk/"
+    },
+    {
+      "id": "KA2",
+      "title": "Sindh Archives",
+      "use": "Fonti amministrative e urbane del Sindh coloniale.",
+      "url": "https://archives.sindhculture.gov.pk/"
+    },
+    {
+      "id": "KA3",
+      "title": "Encyclopaedia Britannica — Karachi",
+      "use": "Storia del porto e della città.",
+      "url": "https://www.britannica.com/place/Karachi"
+    },
+    {
+      "id": "KA4",
+      "title": "National Archives of India",
+      "use": "Amministrazione coloniale, trasporti e guerra.",
+      "url": "https://nationalarchives.nic.in/"
+    },
+    {
+      "id": "KA5",
+      "title": "NED University — History",
+      "use": "Istruzione tecnica e sviluppo urbano.",
+      "url": "https://www.neduet.edu.pk/"
+    }
+  ]
+}

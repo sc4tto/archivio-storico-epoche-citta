@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Tiwanaku",
+      "lat": -16.5547,
+      "lon": -68.6733,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "lago",
+      "label": "Lago Titicaca",
+      "lat": -16.15,
+      "lon": -69.1,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "kat",
+      "label": "Lukurmata e Katari",
+      "lat": -16.32,
+      "lon": -68.65,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "coch",
+      "label": "Valli di Cochabamba",
+      "lat": -17.39,
+      "lon": -66.16,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "moq",
+      "label": "Valle di Moquegua",
+      "lat": -17.19,
+      "lon": -70.93,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "azapa",
+      "label": "Valle di Azapa",
+      "lat": -18.5,
+      "lon": -70.17,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "potosi",
+      "label": "Altipiano meridionale",
+      "lat": -19.58,
+      "lon": -65.75,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "lago",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "risorse lacustri e trasporto",
+      "food": "pesce e canne"
+    },
+    {
+      "source": "kat",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "agricoltura intensiva",
+      "food": "tuberi e quinoa"
+    },
+    {
+      "source": "coch",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "colonie vallive",
+      "food": "mais e peperoncini"
+    },
+    {
+      "source": "moq",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "insediamenti tiwanaku",
+      "food": "mais, coca e ceramica"
+    },
+    {
+      "source": "azapa",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "corridoi verso la costa",
+      "food": "cotone e prodotti marini"
+    },
+    {
+      "source": "potosi",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "reti meridionali",
+      "food": "metalli e camelidi"
+    }
+  ]
+}

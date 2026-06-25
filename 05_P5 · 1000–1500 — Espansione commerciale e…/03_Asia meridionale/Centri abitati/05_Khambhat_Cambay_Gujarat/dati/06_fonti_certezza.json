@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Khambhat fu uno dei maggiori empori dell’India occidentale medievale.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "KH1; KH2"
+  },
+  {
+    "claim": "Il porto esportava tessili, indaco e prodotti lapidari.",
+    "theme": "produzione",
+    "status": "documentato",
+    "source": "KH2; KH3"
+  },
+  {
+    "claim": "Mercanti persiani e arabi contribuirono al carattere cosmopolita della città.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "KH2; KH5"
+  },
+  {
+    "claim": "Le maree del golfo condizionavano accesso e navigazione.",
+    "theme": "ambiente",
+    "status": "documentato",
+    "source": "KH1; KH4"
+  },
+  {
+    "claim": "Bharuch, Patan e Ahmedabad collegavano il porto all’entroterra.",
+    "theme": "reti",
+    "status": "documentato",
+    "source": "KH1; KH2"
+  },
+  {
+    "claim": "Moschee e case mercantili riflettevano la ricchezza urbana.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "KH2; KH5"
+  },
+  {
+    "claim": "Il Sultanato del Gujarat rafforzò il ruolo di Khambhat nel XV secolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "KH1; KH2"
+  },
+  {
+    "claim": "Il declino per insabbiamento appartiene soprattutto ai secoli successivi.",
+    "theme": "cronologia",
+    "status": "sintesi",
+    "source": "KH1; KH4"
+  }
+]

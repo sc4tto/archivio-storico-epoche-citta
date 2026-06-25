@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Antiochia — modulo multi-grafo",
+    "short_name": "Antiochia",
+    "site": "Antiochia sull’Oronte",
+    "modern_location": "Antakya, provincia di Hatay, Turchia",
+    "coordinates": {
+      "lat": 36.2,
+      "lon": 36.16
+    },
+    "scope": "Capitale seleucide fondata alla fine del IV secolo a.C. e grande metropoli romana sull’Oronte, con mura, quartieri, colonnati, acquedotti, terme, ville, mosaici, porto a Seleucia Pieria e il vicino sobborgo di Dafne.",
+    "version": "1.0-blocco_25_p3_asia_so_5_centri_v1",
+    "warning": "Gran parte della città antica è sepolta sotto Antakya o da sedimenti dell’Oronte. I celebri mosaici provengono soprattutto da fasi romane e tardoantiche; la planimetria ellenistica resta ricostruita solo in parte."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "ANT_PRINCETON",
+      "title": "Princeton University Art Museum — Antioch mosaics and excavations",
+      "url": "https://artmuseum.princeton.edu/collections/objects",
+      "use": "mosaici e materiali delle campagne 1932–1939"
+    },
+    {
+      "id": "ANT_DO",
+      "title": "Dumbarton Oaks — Antioch-on-the-Orontes publications",
+      "url": "https://www.doaks.org/resources/publications/books/antioch-on-the-orontes",
+      "use": "rapporti di scavo, architettura e mosaici"
+    },
+    {
+      "id": "ANT_PLEIADES",
+      "title": "Pleiades — Antiocheia ad Orontem",
+      "url": "https://pleiades.stoa.org/places/658381",
+      "use": "localizzazione, topografia e bibliografia"
+    }
+  ]
+}

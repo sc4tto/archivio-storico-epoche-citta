@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "b1",
+      "label": "Unificazione sotto Anawrahta",
+      "lane": "Politica",
+      "start": 0,
+      "end": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "b2",
+      "label": "Espansione dell’irrigazione di Kyaukse",
+      "lane": "Economia",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "b3",
+      "label": "Grande stagione di templi e stupa",
+      "lane": "Religione",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "b4",
+      "label": "Crescita di monasteri e terre donate",
+      "lane": "Società",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "b5",
+      "label": "Pressioni fiscali e frammentazione",
+      "lane": "Politica",
+      "start": 2,
+      "end": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "b6",
+      "label": "Incursioni mongole e fine del regno unitario",
+      "lane": "Conflitto",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "b7",
+      "label": "Continuità del pellegrinaggio e delle comunità",
+      "lane": "Religione",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "b8",
+      "label": "Restauri e nuove fondazioni minori",
+      "lane": "Costruzione",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

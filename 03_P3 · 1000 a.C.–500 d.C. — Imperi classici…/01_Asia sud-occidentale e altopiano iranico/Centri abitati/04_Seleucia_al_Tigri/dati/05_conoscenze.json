@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Seleucia al Tigri",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Isolati",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Agorai",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Gerarchia stradale",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Moneta",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Bronzi urbani",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Tipi ellenistici",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Circolazione partica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Archivi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Bullae",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Sigilli",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Procedure amministrative",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Edilizia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Mattoni",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Case a corte",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Stucco",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Commercio",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Tigri",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Iran",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_3",
+          "label": "Mediterraneo",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Società",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Comunità greco-macedoni",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Popolazioni mesopotamiche",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Numero degli abitanti",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

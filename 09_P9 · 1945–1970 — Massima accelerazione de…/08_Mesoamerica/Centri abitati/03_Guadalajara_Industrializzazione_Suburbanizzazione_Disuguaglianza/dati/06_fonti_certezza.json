@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Nel dopoguerra Guadalajara accelerò industrializzazione, commercio e migrazione regionale.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "GD2; GD3"
+  },
+  {
+    "claim": "L’espansione urbana oltrepassò progressivamente i confini municipali verso Zapopan, Tlaquepaque e Tonalá.",
+    "theme": "urbanizzazione",
+    "status": "documentato",
+    "source": "GD1; GD4"
+  },
+  {
+    "claim": "La città divenne più dispersa e socialmente frammentata, con persistenti differenze fra ovest e oriente.",
+    "theme": "segregazione",
+    "status": "documentato",
+    "source": "GD1; GD2"
+  },
+  {
+    "claim": "Nuove arterie, mercati e fraccionamientos accompagnarono la motorizzazione e il consumo di suolo.",
+    "theme": "infrastrutture",
+    "status": "sintesi",
+    "source": "GD1; GD2"
+  },
+  {
+    "claim": "La crescita edilizia non garantì servizi equivalenti a tutte le colonias periferiche.",
+    "theme": "servizi",
+    "status": "sintesi",
+    "source": "GD1; GD3"
+  },
+  {
+    "claim": "Guadalajara, industrializzazione e suburbanizzazione diseguale è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "La segregazione territoriale, la precarietà dei servizi e l’espansione periferica sono trattate come effetti di politiche fondiarie e investimenti diseguali; abitanti dei barrios e migranti sono rappresentati come costruttori della metropoli e non come ostacoli alla modernizzazione.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

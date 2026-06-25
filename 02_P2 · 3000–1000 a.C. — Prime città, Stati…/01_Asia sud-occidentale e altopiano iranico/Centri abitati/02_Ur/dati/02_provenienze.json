@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Ur",
+      "lat": 30.9625,
+      "lon": 46.1031,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "harbour",
+      "label": "Porto e antichi canali",
+      "lat": 30.98,
+      "lon": 46.1,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "marsh",
+      "label": "Paludi meridionali",
+      "lat": 30.75,
+      "lon": 46.25,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "uruk",
+      "label": "Uruk",
+      "lat": 31.3222,
+      "lon": 45.6361,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "girsu",
+      "label": "Girsu e Lagash",
+      "lat": 31.56,
+      "lon": 46.17,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "dilmun",
+      "label": "Dilmun e Golfo Persico",
+      "lat": 26.15,
+      "lon": 50.55,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "harbour",
+      "target": "site",
+      "label": "trasporto, irrigazione e approdo",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "marsh",
+      "target": "site",
+      "label": "pesci, canne e prodotti umidi",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "uruk",
+      "target": "site",
+      "label": "cereali, testi e persone",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "girsu",
+      "target": "site",
+      "label": "tessili, lana e amministrazione",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "dilmun",
+      "target": "site",
+      "label": "rame, legni, pietre e conchiglie",
+      "status": "documentato",
+      "food": "parziale"
+    }
+  ]
+}

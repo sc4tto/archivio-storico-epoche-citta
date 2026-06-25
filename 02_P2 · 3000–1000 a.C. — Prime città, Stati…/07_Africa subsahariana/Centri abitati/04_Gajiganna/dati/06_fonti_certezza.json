@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "La tradizione Gajiganna iniziò con comunità a forte componente pastorale",
+    "theme": "Pastorizia",
+    "status": "sintesi",
+    "source": "GAJ_BREUNIG"
+  },
+  {
+    "claim": "Le fasi successive mostrano maggiore sedentarietà e coltivazione",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "GAJ_MAGNAVITA"
+  },
+  {
+    "claim": "Ceramiche decorate e figurine caratterizzano la sequenza",
+    "theme": "Artigianato",
+    "status": "documentato",
+    "source": "GAJ_BREUNIG"
+  },
+  {
+    "claim": "Fosse di deposito documentano strategie di sicurezza alimentare",
+    "theme": "Conservazione",
+    "status": "sintesi",
+    "source": "GAJ_MAGNAVITA"
+  },
+  {
+    "claim": "Le distribuzioni ceramiche aiutano a distinguere gruppi e fasi",
+    "theme": "Metodo",
+    "status": "documentato",
+    "source": "GAJ_OBRIEN"
+  },
+  {
+    "claim": "Zilum appartiene interamente al periodo 3000–1000 a.C.",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Sviluppo soprattutto posteriore"
+  },
+  {
+    "claim": "Ogni figurina rappresenta una divinità identificabile",
+    "theme": "Rituali",
+    "status": "non_documentato",
+    "source": "Funzione aperta"
+  },
+  {
+    "claim": "Tutti gli abitati erano fortificati",
+    "theme": "Difese",
+    "status": "non_documentato",
+    "source": "Fortificazioni tarde e non universali"
+  }
+]

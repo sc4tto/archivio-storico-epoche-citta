@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Shanghai",
+      "lat": 31.2304,
+      "lon": 121.4737,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "jia",
+      "label": "Jiangsu",
+      "lat": 32.06,
+      "lon": 118.79,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "zhe",
+      "label": "Zhejiang",
+      "lat": 30.27,
+      "lon": 120.15,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "cho",
+      "label": "Chongming",
+      "lat": 31.62,
+      "lon": 121.4,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "yan",
+      "label": "Bacino dello Yangtze",
+      "lat": 30.6,
+      "lon": 114.3,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "yanp",
+      "label": "Porto di Yangshan",
+      "lat": 30.62,
+      "lon": 122.07,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "glo",
+      "label": "Rotte globali",
+      "lat": 30.5,
+      "lon": 126.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "jia",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia, canali e camion",
+      "food": "riso, ortaggi, carne e pendolari"
+    },
+    {
+      "source": "zhe",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "alta velocità e autostrade",
+      "food": "tè, frutta, pesce e lavoratori"
+    },
+    {
+      "source": "cho",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ponti, traghetti e logistica",
+      "food": "ortaggi, granchi, riso e suolo agricolo"
+    },
+    {
+      "source": "yan",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiume, ferrovia e autostrade",
+      "food": "cereali, manufatti, migranti e materie prime"
+    },
+    {
+      "source": "yanp",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "container e catena del freddo",
+      "food": "alimenti, merci, carburanti e capitale"
+    },
+    {
+      "source": "glo",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navi e voli",
+      "food": "ingredienti, tecnologie, investimenti e persone"
+    }
+  ]
+}

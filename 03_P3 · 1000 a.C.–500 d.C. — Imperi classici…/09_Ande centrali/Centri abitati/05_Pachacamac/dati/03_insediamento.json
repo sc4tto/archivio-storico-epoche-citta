@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Prime occupazioni della valle",
+    "Formazione del santuario",
+    "Tradizione Lima e templi in adobe",
+    "Crescita monumentale fra III e V secolo",
+    "Transizione verso fasi successive"
+  ],
+  "items": [
+    {
+      "id": "oldtemple",
+      "label": "Tempio Antico e piattaforme",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "painted",
+      "label": "Prime fasi del Tempio Dipinto",
+      "lane": "Rituali",
+      "start": 3,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "plazas",
+      "label": "Piazze e recinti",
+      "lane": "Monumentali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "streets",
+      "label": "Strade interne e accessi",
+      "lane": "Urbanistiche",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "storage",
+      "label": "Depositi e aree di servizio",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "burials",
+      "label": "Sepolture e offerte",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "irrigation",
+      "label": "Canali e campi della valle",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

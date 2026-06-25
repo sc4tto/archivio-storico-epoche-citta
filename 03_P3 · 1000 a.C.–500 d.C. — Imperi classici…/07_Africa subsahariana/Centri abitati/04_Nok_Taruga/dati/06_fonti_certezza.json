@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Le terracotte Nok sono fra le più antiche tradizioni figurative note dell’Africa subsahariana",
+    "theme": "Arte",
+    "status": "documentato",
+    "source": "NOK_MET"
+  },
+  {
+    "claim": "La cultura Nok è distribuita in numerosi siti della Nigeria centrale",
+    "theme": "Geografia",
+    "status": "documentato",
+    "source": "NOK_JAA"
+  },
+  {
+    "claim": "Taruga ha restituito evidenze di lavorazione del ferro",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "NOK_JAA"
+  },
+  {
+    "claim": "Nok era una capitale urbana con un palazzo centrale",
+    "theme": "Urbanismo",
+    "status": "non_documentato",
+    "source": "Siti piccoli e distribuiti"
+  },
+  {
+    "claim": "La funzione di ogni terracotta è conosciuta",
+    "theme": "Rituali",
+    "status": "non_documentato",
+    "source": "Contesti incompleti"
+  },
+  {
+    "claim": "Il saccheggio ha distrutto importanti informazioni archeologiche",
+    "theme": "Conservazione",
+    "status": "documentato",
+    "source": "NOK_MET"
+  },
+  {
+    "claim": "Tutti i siti Nok appartenevano a un unico popolo politicamente unificato",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Categoria archeologica distribuita"
+  },
+  {
+    "claim": "Le cronologie sono state affinate da scavi moderni e datazioni",
+    "theme": "Metodo",
+    "status": "documentato",
+    "source": "NOK_JAA"
+  }
+]

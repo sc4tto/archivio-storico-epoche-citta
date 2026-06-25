@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Avvio circa 3300 a.C.",
+    "Fase Kot Dijian iniziale",
+    "Fase sviluppata",
+    "Transizione Harappan",
+    "Occupazioni successive"
+  ],
+  "items": [
+    {
+      "id": "high",
+      "label": "Area elevata o citadella",
+      "lane": "Impianto",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "lower",
+      "label": "Abitato inferiore",
+      "lane": "Impianto",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "wall",
+      "label": "Mura in mattoni crudi e pietra",
+      "lane": "Difese",
+      "start": 0,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "houses",
+      "label": "Edifici domestici",
+      "lane": "Abitazioni",
+      "start": 0,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "kilns",
+      "label": "Fornaci ceramiche",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "storage",
+      "label": "Depositi e contenitori",
+      "lane": "Conservazione",
+      "start": 0,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "transition",
+      "label": "Trasformazione verso l’orizzonte Harappan",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

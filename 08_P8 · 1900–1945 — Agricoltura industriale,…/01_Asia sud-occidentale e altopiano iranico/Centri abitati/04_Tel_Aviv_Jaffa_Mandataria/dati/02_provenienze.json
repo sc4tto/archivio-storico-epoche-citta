@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Tel Aviv–Jaffa",
+      "lat": 32.0853,
+      "lon": 34.7818,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "jaf",
+      "label": "Jaffa e agrumeti",
+      "lat": 32.05,
+      "lon": 34.75,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "yar",
+      "label": "Yarkon e pianura costiera",
+      "lat": 32.15,
+      "lon": 34.85,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "sha",
+      "label": "Sharon e insediamenti agricoli",
+      "lat": 32.3,
+      "lon": 34.9,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "jer",
+      "label": "Gerusalemme e altopiani",
+      "lat": 31.78,
+      "lon": 35.22,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "hai",
+      "label": "Haifa e Galilea",
+      "lat": 32.8,
+      "lon": 35.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "eur",
+      "label": "Europa e Mediterraneo",
+      "lat": 40.0,
+      "lon": 20.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "jaf",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e porto di Jaffa",
+      "food": "agrumi, pesce, servizi portuali e lavoro"
+    },
+    {
+      "source": "yar",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade costiere",
+      "food": "acqua, ortaggi e materiali"
+    },
+    {
+      "source": "sha",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "camion e ferrovia",
+      "food": "cereali, latticini e prodotti agricoli"
+    },
+    {
+      "source": "jer",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e strada",
+      "food": "merci, funzionari e pellegrini"
+    },
+    {
+      "source": "hai",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia costiera",
+      "food": "cemento, combustibili e merci portuali"
+    },
+    {
+      "source": "eur",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navi mediterranee",
+      "food": "migranti, capitale, macchinari e beni di consumo"
+    }
+  ]
+}

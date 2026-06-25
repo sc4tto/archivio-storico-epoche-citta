@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Puebla fu fondata nel 1531 lungo la via fra Veracruz e Città del Messico.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "PU1; PU3"
+  },
+  {
+    "claim": "La maglia ortogonale e la piazza maggiore organizzarono il centro urbano.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "PU1"
+  },
+  {
+    "claim": "La città divenne un importante centro religioso e manifatturiero.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "PU1; PU3"
+  },
+  {
+    "claim": "Obrajes, mulini e ceramica talavera sostennero la produzione urbana.",
+    "theme": "artigianato",
+    "status": "documentato",
+    "source": "PU1; PU5"
+  },
+  {
+    "claim": "Cattedrale e conventi documentano l’architettura vicereale.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "PU1; PU2"
+  },
+  {
+    "claim": "La valle forniva grano, mais e prodotti agricoli.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "PU3; PU5"
+  },
+  {
+    "claim": "Lavoro indigeno e sistemi corporativi furono parte dell’economia coloniale.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "PU2; PU5"
+  },
+  {
+    "claim": "Le trasformazioni industriali ottocentesche sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "PU3"
+  }
+]

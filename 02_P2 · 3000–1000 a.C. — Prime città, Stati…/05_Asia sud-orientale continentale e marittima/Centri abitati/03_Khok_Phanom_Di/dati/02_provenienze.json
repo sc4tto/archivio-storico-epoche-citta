@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Khok Phanom Di",
+      "lat": 13.458,
+      "lon": 101.175,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "estuary",
+      "label": "Antico estuario del Bang Pakong",
+      "lat": 13.5,
+      "lon": 101.15,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "nongnor",
+      "label": "Nong Nor",
+      "lat": 13.33,
+      "lon": 101.1,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "coast",
+      "label": "Golfo di Thailandia",
+      "lat": 13.15,
+      "lon": 100.8,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "inland",
+      "label": "Villaggi agricoli dell’interno",
+      "lat": 14.0,
+      "lon": 101.3,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "shell",
+      "label": "Fonti di conchiglie marine",
+      "lat": 13.2,
+      "lon": 100.95,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "estuary",
+      "target": "site",
+      "label": "pesce, crostacei e molluschi",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "nongnor",
+      "target": "site",
+      "label": "tradizioni ceramiche e mobilità",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "coast",
+      "target": "site",
+      "label": "risorse marine",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "inland",
+      "target": "site",
+      "label": "riso e persone",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "shell",
+      "target": "site",
+      "label": "materie prime per ornamenti",
+      "status": "documentato",
+      "food": "no"
+    }
+  ]
+}

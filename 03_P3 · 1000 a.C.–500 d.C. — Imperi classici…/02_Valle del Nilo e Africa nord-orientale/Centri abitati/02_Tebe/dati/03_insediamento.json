@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Eredità faraonica",
+    "Età tarda e persiana",
+    "Periodo tolemaico",
+    "Periodo romano",
+    "Cristianizzazione"
+  ],
+  "items": [
+    {
+      "id": "karnak",
+      "label": "Culto e restauri a Karnak",
+      "lane": "Religiose",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "luxor",
+      "label": "Tempio di Luxor e culto imperiale",
+      "lane": "Religiose",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "town",
+      "label": "Abitato e quartieri di riva",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "necropolis",
+      "label": "Necropoli, templi funerari e riusi",
+      "lane": "Rituali",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "priests",
+      "label": "Sacerdozi e amministrazione templare",
+      "lane": "Amministrative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "roman",
+      "label": "Aggiunte e presenze romane",
+      "lane": "Politiche",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "churches",
+      "label": "Chiese, monasteri e riuso cristiano",
+      "lane": "Religiose",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

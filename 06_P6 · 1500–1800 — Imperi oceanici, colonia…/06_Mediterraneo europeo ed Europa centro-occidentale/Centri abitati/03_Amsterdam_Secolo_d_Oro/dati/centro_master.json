@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Amsterdam del Secolo d’oro",
+    "site": "Amsterdam del Secolo d’oro",
+    "modern_location": "Amsterdam, Paesi Bassi",
+    "coordinates": {
+      "lat": 52.3676,
+      "lon": 4.9041
+    },
+    "scope": "Amsterdam fra 1500 e 1800: espansione del Grachtengordel, porto globale, compagnie commerciali, borsa, cantieri, quartieri artigiani e istituzioni civiche.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1800. Industrializzazione, stazione centrale, canali ottocenteschi e trasformazioni moderne sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "AM1",
+      "title": "UNESCO — Seventeenth-Century Canal Ring Area of Amsterdam",
+      "use": "Pianificazione del Grachtengordel e architettura dei canali.",
+      "url": "https://whc.unesco.org/en/list/1349/"
+    },
+    {
+      "id": "AM2",
+      "title": "Stadsarchief Amsterdam",
+      "use": "Mappe, registri e storia amministrativa della città.",
+      "url": "https://www.amsterdam.nl/stadsarchief/"
+    },
+    {
+      "id": "AM3",
+      "title": "Rijksmuseum — Dutch Golden Age",
+      "use": "Commercio, arte e cultura materiale del Seicento.",
+      "url": "https://www.rijksmuseum.nl/en/rijksstudio/timeline-dutch-history"
+    },
+    {
+      "id": "AM4",
+      "title": "Het Scheepvaartmuseum",
+      "use": "Navigazione, VOC, cantieri e reti marittime.",
+      "url": "https://www.hetscheepvaartmuseum.com/"
+    },
+    {
+      "id": "AM5",
+      "title": "Amsterdam Museum",
+      "use": "Storia urbana e sociale della città.",
+      "url": "https://www.amsterdammuseum.nl/en"
+    }
+  ]
+}

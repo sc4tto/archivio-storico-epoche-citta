@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Snaketown",
+      "lat": 33.187,
+      "lon": -111.92,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "gila",
+      "label": "Fiume Gila",
+      "lat": 33.18,
+      "lon": -111.88,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "santan",
+      "label": "Monti Santan",
+      "lat": 33.13,
+      "lon": -111.75,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "pueblo",
+      "label": "Pueblo Grande",
+      "lat": 33.43,
+      "lon": -112.02,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "shell",
+      "label": "Golfo di California",
+      "lat": 30.8,
+      "lon": -113.2,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "mog",
+      "label": "Mogollon Rim",
+      "lat": 34.4,
+      "lon": -111.3,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "meso",
+      "label": "Messico nord-occidentale",
+      "lat": 28.5,
+      "lon": -108.5,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "gila",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali e campi",
+      "food": "acqua e derrate"
+    },
+    {
+      "source": "santan",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "risorse locali",
+      "food": "pietra e piante desertiche"
+    },
+    {
+      "source": "pueblo",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete della valle",
+      "food": "ceramica e partecipanti"
+    },
+    {
+      "source": "shell",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "scambio di conchiglie",
+      "food": "Glycymeris e altri gusci"
+    },
+    {
+      "source": "mog",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "scambi con altopiani",
+      "food": "ossidiana e legname"
+    },
+    {
+      "source": "meso",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "connessioni meridionali",
+      "food": "idee del gioco e beni"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "La Senna organizzava il paesaggio monumentale e commerciale di Parigi.",
+    "theme": "territorio",
+    "status": "documentato",
+    "source": "PA1"
+  },
+  {
+    "claim": "Louvre e Tuileries furono centrali nella rappresentazione monarchica.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "PA1; PA3"
+  },
+  {
+    "claim": "Ponti, quais e piazze reali trasformarono lo spazio urbano.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "PA1; PA2"
+  },
+  {
+    "claim": "Le Halles e la navigazione fluviale sostenevano l’approvvigionamento.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "PA2; PA5"
+  },
+  {
+    "claim": "Manifatture e accademie rafforzarono il ruolo culturale della capitale.",
+    "theme": "cultura",
+    "status": "documentato",
+    "source": "PA2; PA4"
+  },
+  {
+    "claim": "La Rivoluzione del 1789 modificò istituzioni e simboli urbani.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "PA2; PA4"
+  },
+  {
+    "claim": "Pietra, legno e ardesia dominarono molte costruzioni.",
+    "theme": "tecniche",
+    "status": "documentato",
+    "source": "PA2; PA3"
+  },
+  {
+    "claim": "Gli interventi haussmanniani sono esclusi.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "PA1; PA2"
+  }
+]

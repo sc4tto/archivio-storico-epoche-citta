@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Fra il 1944 e il 1964 la capitale fu trasformata da nuovi assi, nomenclatura e proposte urbanistiche associate ad Aguilar Batres.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "GT1"
+  },
+  {
+    "claim": "Il colpo di Stato del 1954 interruppe il ciclo riformatore e aprì una fase di forte restaurazione autoritaria.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "GT4"
+  },
+  {
+    "claim": "Dal 1960 il conflitto armato interno coinvolse istituzioni, organizzazioni sociali e popolazioni urbane e rurali.",
+    "theme": "conflitto",
+    "status": "documentato",
+    "source": "GT2; GT4"
+  },
+  {
+    "claim": "La crescita demografica produsse espansione periferica e asentamientos con accesso insufficiente ai servizi.",
+    "theme": "abitazione",
+    "status": "sintesi",
+    "source": "GT1; GT2"
+  },
+  {
+    "claim": "La topografia dei barrancos influenzò viabilità, ponti, zonizzazione e disuguaglianze territoriali.",
+    "theme": "territorio",
+    "status": "documentato",
+    "source": "GT1; GT3"
+  },
+  {
+    "claim": "Città del Guatemala, modernizzazione, colpo di Stato e conflitto è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Il colpo di Stato del 1954, la repressione, la controinsurrezione, la discriminazione etnica e gli sgomberi sono descritti come violenza e coercizione politica; comunità indigene, lavoratori, studenti e abitanti degli asentamientos sono rappresentati come soggetti storici e organizzati.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

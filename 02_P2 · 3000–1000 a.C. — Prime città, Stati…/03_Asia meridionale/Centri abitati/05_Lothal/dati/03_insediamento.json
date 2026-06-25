@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Insediamento precedente",
+    "Fondazione harappana",
+    "Massima attività urbana",
+    "Inondazioni e ricostruzioni",
+    "Fase tarda"
+  ],
+  "items": [
+    {
+      "id": "upper",
+      "label": "Città alta su piattaforma",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "lower",
+      "label": "Città bassa e mercato",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "basin",
+      "label": "Grande bacino rettangolare",
+      "lane": "Infrastrutture",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "warehouse",
+      "label": "Piattaforma del magazzino",
+      "lane": "Amministrative",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "beads",
+      "label": "Officina di perle e faience",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "drains",
+      "label": "Drenaggi e piattaforme da bagno",
+      "lane": "Infrastrutture",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "floods",
+      "label": "Alluvioni e rialzi",
+      "lane": "Trasformazione",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

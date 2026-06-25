@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Calakmul ebbe una storia urbana estesa dal I millennio a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "CAL_UNESCO"
+  },
+  {
+    "claim": "Il paesaggio conserva sacbé, serbatoi e modifiche agricole",
+    "theme": "Paesaggio",
+    "status": "documentato",
+    "source": "CAL_UNESCO"
+  },
+  {
+    "claim": "Le iscrizioni documentano storia politica e organizzazione territoriale",
+    "theme": "Scrittura",
+    "status": "documentato",
+    "source": "CAL_UNESCO"
+  },
+  {
+    "claim": "La città era isolata e priva di centri secondari",
+    "theme": "Urbanismo",
+    "status": "non_documentato",
+    "source": "Numerosi insediamenti associati"
+  },
+  {
+    "claim": "Il massimo potere della dinastia Kaan ricade soprattutto dopo il 500",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "CAL_UNESCO"
+  },
+  {
+    "claim": "Tutte le strutture monumentali visibili appartengono al P3",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Sequenza preclassica e classica lunga"
+  },
+  {
+    "claim": "La scarsità stagionale d’acqua richiese sistemi di gestione",
+    "theme": "Ambiente",
+    "status": "documentato",
+    "source": "CAL_UNESCO"
+  },
+  {
+    "claim": "La foresta attuale conserva effetti di antiche pratiche agricole",
+    "theme": "Ecologia",
+    "status": "documentato",
+    "source": "CAL_UNESCO"
+  }
+]

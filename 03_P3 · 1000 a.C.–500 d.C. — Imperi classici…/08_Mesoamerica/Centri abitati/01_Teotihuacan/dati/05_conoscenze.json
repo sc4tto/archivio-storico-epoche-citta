@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Teotihuacan",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Viale dei Morti",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Griglia orientata",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Controllo centralizzato uniforme",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Talud-tablero",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Piramidi monumentali",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Ricostruzioni moderne",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Economia",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Ossidiana",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Mercati",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_3",
+          "label": "Tributi",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Società",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Quartieri multi-etnici",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Complessi residenziali",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Dinastia nominata",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Religione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Rituali pubblici",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Sacrifici",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Pantheon completamente noto",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Relazioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Oaxaca",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Area maya",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Impero territoriale uniforme",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

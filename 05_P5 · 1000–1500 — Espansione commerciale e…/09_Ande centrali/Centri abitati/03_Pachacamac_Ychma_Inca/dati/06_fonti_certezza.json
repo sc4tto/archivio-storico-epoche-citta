@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Pachacamac fu un santuario e un oracolo di lunga durata.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "PA1; PA5"
+  },
+  {
+    "claim": "Fra 1000 e 1470 il sito fu fortemente associato alle comunità Ychma.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "PA1; PA2"
+  },
+  {
+    "claim": "Le piramidi con rampa erano elementi centrali dell’urbanistica tardiva.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "PA1; PA2"
+  },
+  {
+    "claim": "Pellegrini e offerte giungevano da regioni diverse.",
+    "theme": "reti",
+    "status": "documentato",
+    "source": "PA1; PA5"
+  },
+  {
+    "claim": "Gli Inca costruirono nuovi edifici e mantennero il prestigio dell’oracolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "PA1; PA4"
+  },
+  {
+    "claim": "Agricoltura valliva e pesca costiera sostenevano il santuario.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "PA1; PA2"
+  },
+  {
+    "claim": "La funzione esatta di ogni piramide con rampa resta discussa.",
+    "theme": "metodo",
+    "status": "sintesi",
+    "source": "PA1; PA2"
+  },
+  {
+    "claim": "Gli eventi spagnoli del 1533 sono esclusi.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "PA1"
+  }
+]

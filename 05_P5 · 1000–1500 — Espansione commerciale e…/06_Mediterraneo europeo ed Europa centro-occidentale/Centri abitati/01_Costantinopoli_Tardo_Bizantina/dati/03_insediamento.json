@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "c1",
+      "label": "Rinascita comnena e consolidamento imperiale",
+      "lane": "Politica",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "c2",
+      "label": "Sviluppo di monasteri, mercati e porti",
+      "lane": "Urbanistica",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "c3",
+      "label": "Conquista latina del 1204",
+      "lane": "Conflitto",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c4",
+      "label": "Impero latino e frammentazione urbana",
+      "lane": "Politica",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c5",
+      "label": "Restaurazione paleologa del 1261",
+      "lane": "Politica",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c6",
+      "label": "Restauri, mosaici e nuove fondazioni",
+      "lane": "Religione",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "c7",
+      "label": "Contrazione demografica e quartieri discontinui",
+      "lane": "Società",
+      "start": 3,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "c8",
+      "label": "Assedio e conquista ottomana del 1453",
+      "lane": "Conflitto",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Berlino",
+      "lat": 52.52,
+      "lon": 13.405,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "spr",
+      "label": "Sprea e canali",
+      "lat": 52.51,
+      "lon": 13.38,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "bra",
+      "label": "Brandeburgo agricolo",
+      "lat": 52.4,
+      "lon": 13.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "ind",
+      "label": "Cintura industriale",
+      "lat": 52.55,
+      "lon": 13.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "ruh",
+      "label": "Ruhr e Slesia industriali",
+      "lat": 51.5,
+      "lon": 7.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "est",
+      "label": "Europa orientale occupata",
+      "lat": 52,
+      "lon": 21,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "front",
+      "label": "Fronti di guerra",
+      "lat": 50,
+      "lon": 20,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "spr",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Sprea e canali",
+      "food": "carbone, materiali e trasporto fluviale"
+    },
+    {
+      "source": "bra",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e strade",
+      "food": "latte, patate, cereali e ortaggi"
+    },
+    {
+      "source": "ind",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "S-Bahn e reti industriali",
+      "food": "operai, macchine, armi e energia"
+    },
+    {
+      "source": "ruh",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie nazionali",
+      "food": "carbone, acciaio e chimica"
+    },
+    {
+      "source": "est",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "apparati di occupazione",
+      "food": "cereali requisiti, deportati e lavoratori forzati"
+    },
+    {
+      "source": "front",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "logistica militare",
+      "food": "feriti, profughi, munizioni e soldati"
+    }
+  ]
+}

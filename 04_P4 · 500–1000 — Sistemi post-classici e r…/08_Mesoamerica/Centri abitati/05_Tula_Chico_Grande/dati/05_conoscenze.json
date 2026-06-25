@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Tula Chico–Tula Grande",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0_water",
+      "label": "Valle semiarida",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0_irrigation",
+          "label": "Uso di corsi d’acqua e campi",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1_drought",
+          "label": "Gestione della stagionalità",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k1_agri",
+      "label": "Risorse dell’altopiano",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0_maguey",
+          "label": "Lavorazione del maguey",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1_maize",
+          "label": "Agricoltura e stoccaggio",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2_craft",
+      "label": "Artigianato specializzato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0_stone",
+          "label": "Scultura lapidea e colonne",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1_obsidian",
+          "label": "Lavorazione di ossidiana e ceramica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3_building",
+      "label": "Architettura colonnata",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0_portico",
+          "label": "Portici e sale ipostile",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1_plaster",
+          "label": "Stucchi e pitture",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4_politics",
+      "label": "Reti e memoria",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0_trade",
+          "label": "Controllo dei corridoi di scambio",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1_myth",
+          "label": "Costruzione posteriore della memoria tolteca",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

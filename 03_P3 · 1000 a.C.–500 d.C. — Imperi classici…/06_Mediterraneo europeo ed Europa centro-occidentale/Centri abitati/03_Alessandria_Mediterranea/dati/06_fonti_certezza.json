@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Alessandria fu capitale tolemaica e grande porto romano",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "ALX_MET"
+  },
+  {
+    "claim": "Il CEAlex documenta porti, necropoli, cisterne e siti sommersi",
+    "theme": "Ricerca",
+    "status": "documentato",
+    "source": "ALX_CEALEX"
+  },
+  {
+    "claim": "Il lago Mareotide collegava la città alle campagne e al Nilo",
+    "theme": "Reti",
+    "status": "documentato",
+    "source": "ALX_CEALEX"
+  },
+  {
+    "claim": "La posizione esatta e la forma completa della Biblioteca sono note",
+    "theme": "Saperi",
+    "status": "non_documentato",
+    "source": "Resti e fonti parziali"
+  },
+  {
+    "claim": "Le necropoli mostrano pratiche funerarie greche, egizie e romane",
+    "theme": "Religione",
+    "status": "documentato",
+    "source": "ALX_IFAO"
+  },
+  {
+    "claim": "Tutta la città antica è accessibile archeologicamente",
+    "theme": "Conservazione",
+    "status": "non_documentato",
+    "source": "Abitato moderno e sommersione"
+  },
+  {
+    "claim": "Il porto partecipava alle rotte annonarie verso Roma",
+    "theme": "Economia",
+    "status": "documentato",
+    "source": "ALX_CEALEX"
+  },
+  {
+    "claim": "La cristianizzazione modificò spazi e istituzioni urbane",
+    "theme": "Religione",
+    "status": "documentato",
+    "source": "ALX_IFAO"
+  }
+]

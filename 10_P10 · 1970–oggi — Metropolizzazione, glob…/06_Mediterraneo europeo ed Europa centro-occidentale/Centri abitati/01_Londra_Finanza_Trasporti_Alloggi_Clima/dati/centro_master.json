@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Londra, finanza, trasporti, crisi abitativa e resilienza climatica",
+    "site": "Londra, finanza, trasporti, crisi abitativa e resilienza climatica",
+    "modern_location": "Londra, Regno Unito",
+    "coordinates": {
+      "lat": 51.5074,
+      "lon": -0.1278
+    },
+    "scope": "Londra dal 1970 al 25 giugno 2026: deindustrializzazione e declino dei docks, trasformazione della City e di Canary Wharf, rigenerazione dell’East End, migrazioni globali, espansione delle reti ferroviarie e ciclabili, congestion charge, apertura della Elizabeth line, crisi dell’accessibilità abitativa, disuguaglianze territoriali, inquinamento e adattamento a calore, alluvioni e altri rischi climatici.",
+    "version": "1.0",
+    "warning": "La nuova strategia spaziale londinese con adozione prevista nel 2027 e gli interventi climatici successivi al 25 giugno 2026 sono registrati come piani o programmi futuri, non come risultati già completati."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "LO1",
+      "title": "Greater London Authority — The London Plan",
+      "use": "Quadro strategico economico, ambientale, sociale e dei trasporti per la crescita urbana.",
+      "url": "https://www.london.gov.uk/programmes-strategies/planning/london-plan"
+    },
+    {
+      "id": "LO2",
+      "title": "Transport for London — Elizabeth line post-opening evaluation",
+      "use": "Apertura, capacità, domanda e primi effetti territoriali della Elizabeth line.",
+      "url": "https://content.tfl.gov.uk/elizabeth-line-post-opening-evaluation-full-report.pdf"
+    },
+    {
+      "id": "LO3",
+      "title": "Greater London Authority — Housing in London 2025",
+      "use": "Offerta, costi, accessibilità, edilizia sociale e precarietà abitativa.",
+      "url": "https://data.london.gov.uk/housing/housing-in-london/"
+    },
+    {
+      "id": "LO4",
+      "title": "Greater London Authority — London Climate Resilience Review 2024",
+      "use": "Calore, alluvioni, infrastrutture, vulnerabilità sociale e resilienza climatica.",
+      "url": "https://www.london.gov.uk/sites/default/files/2024-07/The_London_Climate_Resillience_Review_July_2024_FA.pdf"
+    }
+  ]
+}

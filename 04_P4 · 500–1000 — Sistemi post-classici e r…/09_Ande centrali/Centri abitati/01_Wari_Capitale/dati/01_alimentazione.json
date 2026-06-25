@@ -1,0 +1,318 @@
+{
+  "nodes": [
+    {
+      "id": "t0",
+      "label": "Valli coltivate di Ayacucho",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t1",
+      "label": "Terrazze e campi d’altura",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t2",
+      "label": "Pascoli di puna",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t3",
+      "label": "Reti interregionali",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "r0",
+      "label": "Mais, tuberi e quinoa",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r1",
+      "label": "Camelidi e porcellini d’India",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r2",
+      "label": "Molle e altre piante da bevanda",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r3",
+      "label": "Peperoncini, legumi e beni costieri",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "a0",
+      "label": "Coltivazione e terrazzamento",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a1",
+      "label": "Allevamento e carovane",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a2",
+      "label": "Tributo e redistribuzione",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "a3",
+      "label": "Scambio fra zone ecologiche",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "x0",
+      "label": "Macinazione e bollitura",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x1",
+      "label": "Macellazione, essiccazione e cottura",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x2",
+      "label": "Fermentazione della chicha",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x3",
+      "label": "Stoccaggio in grandi recipienti",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "p0",
+      "label": "Pappe, pani e stufati",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p1",
+      "label": "Carne fresca e charqui",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "p2",
+      "label": "Chicha per banchetti",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "p3",
+      "label": "Razioni domestiche e di corte",
+      "layer": 4,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "t0",
+      "target": "r0",
+      "status": "documentato",
+      "label": "Le valli di Ayacucho sostenevano cereali, tuberi e quinoa."
+    },
+    {
+      "source": "t0",
+      "target": "r2",
+      "status": "documentato",
+      "label": "Le aree vallive fornivano anche molle e piante impiegate nelle bevande."
+    },
+    {
+      "source": "t1",
+      "target": "r0",
+      "status": "documentato",
+      "label": "Terrazze e campi d’altura sostenevano soprattutto tuberi e quinoa."
+    },
+    {
+      "source": "t2",
+      "target": "r1",
+      "status": "documentato",
+      "label": "I pascoli di puna alimentavano l’allevamento dei camelidi."
+    },
+    {
+      "source": "t3",
+      "target": "r1",
+      "status": "sintesi",
+      "label": "Le reti interregionali contribuivano alla circolazione di camelidi e derivati."
+    },
+    {
+      "source": "t3",
+      "target": "r3",
+      "status": "sintesi",
+      "label": "Le reti interregionali portavano peperoncini, legumi e beni costieri."
+    },
+    {
+      "source": "r0",
+      "target": "a0",
+      "status": "documentato",
+      "label": "Mais, tuberi e quinoa derivavano dalla coltivazione e dal terrazzamento."
+    },
+    {
+      "source": "r0",
+      "target": "a2",
+      "status": "sintesi",
+      "label": "Parte dei raccolti poteva confluire nella redistribuzione."
+    },
+    {
+      "source": "r1",
+      "target": "a1",
+      "status": "documentato",
+      "label": "Camelidi e piccoli animali erano legati ad allevamento e carovane."
+    },
+    {
+      "source": "r1",
+      "target": "a2",
+      "status": "sintesi",
+      "label": "Carne e animali potevano entrare nei circuiti redistributivi."
+    },
+    {
+      "source": "r2",
+      "target": "a0",
+      "status": "documentato",
+      "label": "Le piante da bevanda richiedevano raccolta o coltivazione locale."
+    },
+    {
+      "source": "r2",
+      "target": "a2",
+      "status": "sintesi",
+      "label": "Le materie per bevande potevano essere concentrate per feste e redistribuzione."
+    },
+    {
+      "source": "r3",
+      "target": "a3",
+      "status": "documentato",
+      "label": "I beni costieri giungevano tramite scambio fra zone ecologiche."
+    },
+    {
+      "source": "r3",
+      "target": "a2",
+      "status": "sintesi",
+      "label": "Una parte dei beni importati poteva essere redistribuita."
+    },
+    {
+      "source": "a0",
+      "target": "x0",
+      "status": "documentato",
+      "label": "I prodotti coltivati venivano macinati e bolliti."
+    },
+    {
+      "source": "a0",
+      "target": "x2",
+      "status": "documentato",
+      "label": "Il mais coltivato alimentava la fermentazione della chicha."
+    },
+    {
+      "source": "a1",
+      "target": "x1",
+      "status": "documentato",
+      "label": "Allevamento e carovane fornivano carne da macellare, cuocere o essiccare."
+    },
+    {
+      "source": "a1",
+      "target": "x3",
+      "status": "documentato",
+      "label": "Prodotti animali e carovanieri richiedevano stoccaggio e trasporto."
+    },
+    {
+      "source": "a2",
+      "target": "x2",
+      "status": "sintesi",
+      "label": "La redistribuzione sosteneva la preparazione di bevande per banchetti."
+    },
+    {
+      "source": "a2",
+      "target": "x3",
+      "status": "documentato",
+      "label": "La redistribuzione richiedeva grandi contenitori e depositi."
+    },
+    {
+      "source": "a3",
+      "target": "x0",
+      "status": "sintesi",
+      "label": "Legumi e peperoncini importati entravano nelle preparazioni cotte."
+    },
+    {
+      "source": "a3",
+      "target": "x3",
+      "status": "documentato",
+      "label": "Lo scambio interregionale richiedeva stoccaggio."
+    },
+    {
+      "source": "x0",
+      "target": "p0",
+      "status": "documentato",
+      "label": "Macinazione e bollitura producevano pappe, pani e stufati."
+    },
+    {
+      "source": "x0",
+      "target": "p3",
+      "status": "sintesi",
+      "label": "Le preparazioni cotte potevano essere distribuite come razioni."
+    },
+    {
+      "source": "x1",
+      "target": "p1",
+      "status": "documentato",
+      "label": "Macellazione ed essiccazione producevano carne fresca e charqui."
+    },
+    {
+      "source": "x1",
+      "target": "p3",
+      "status": "sintesi",
+      "label": "La carne poteva essere inclusa nelle razioni."
+    },
+    {
+      "source": "x2",
+      "target": "p2",
+      "status": "documentato",
+      "label": "La fermentazione produceva chicha per banchetti."
+    },
+    {
+      "source": "x2",
+      "target": "p3",
+      "status": "sintesi",
+      "label": "La chicha poteva essere distribuita in contesti domestici e di corte."
+    },
+    {
+      "source": "x3",
+      "target": "p0",
+      "status": "sintesi",
+      "label": "Lo stoccaggio garantiva cereali e tuberi per le preparazioni quotidiane."
+    },
+    {
+      "source": "x3",
+      "target": "p1",
+      "status": "documentato",
+      "label": "Lo stoccaggio conservava anche carne essiccata."
+    },
+    {
+      "source": "x3",
+      "target": "p2",
+      "status": "documentato",
+      "label": "I grandi recipienti erano impiegati per preparare e conservare chicha."
+    },
+    {
+      "source": "x3",
+      "target": "p3",
+      "status": "documentato",
+      "label": "Lo stoccaggio sosteneva la distribuzione di razioni."
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "nodes": [
+    {
+      "id": "dm_argilla",
+      "label": "Argilla per mattoni",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "dm_arenaria",
+      "label": "Arenaria",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "dm_legno",
+      "label": "Legno",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "dm_terra",
+      "label": "Terra e ghiaia",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "do_mattone",
+      "label": "Cottura e posa del laterizio",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "do_scultura",
+      "label": "Scultura monumentale",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "do_carp",
+      "label": "Carpenteria",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "do_strade",
+      "label": "Livellamento, drenaggio e pavimentazione",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "dc_torri",
+      "label": "Torri e santuari",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "dc_guardiani",
+      "label": "Portali e sculture di guardiani",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "dc_sale",
+      "label": "Sale monastiche e palatine",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "dc_assi",
+      "label": "Strade, ponti e drenaggi",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "ds_monastero",
+      "label": "Monastero di Lokeśvara",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ds_capitale",
+      "label": "Capitale di Indrapura",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ds_residenze",
+      "label": "Quartieri residenziali",
+      "layer": 3,
+      "status": "inferito"
+    },
+    {
+      "id": "ds_paesaggio",
+      "label": "Complesso urbano-rituale",
+      "layer": 3,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "dm_argilla",
+      "target": "do_mattone",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "dm_arenaria",
+      "target": "do_scultura",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "dm_legno",
+      "target": "do_carp",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "dm_terra",
+      "target": "do_strade",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "do_mattone",
+      "target": "dc_torri",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "do_scultura",
+      "target": "dc_guardiani",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "do_carp",
+      "target": "dc_sale",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "do_strade",
+      "target": "dc_assi",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "dc_torri",
+      "target": "ds_monastero",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "dc_guardiani",
+      "target": "ds_capitale",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "dc_sale",
+      "target": "ds_residenze",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "dc_assi",
+      "target": "ds_paesaggio",
+      "status": "sintesi",
+      "label": ""
+    }
+  ]
+}

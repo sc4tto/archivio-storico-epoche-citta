@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di New York, finanza, alloggi, trasporto e clima",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Governance metropolitana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Città, MTA, Port Authority, Stato e comunità",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Bilanci, dati, coordinamento e responsabilità pubblica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mobilità di massa",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Subway, bus, commuter rail, ciclabilità e pedonalità",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Accessibilità, manutenzione, tariffe e congestion pricing",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Alloggi e diritti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Affitto regolato, edilizia pubblica, conversioni e nuovi alloggi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Segregazione, sfratti, gentrificazione e diritto alla città",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Clima costiero",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Sandy, mareggiate, calore, piogge intense e infrastrutture",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Adattamento equo, energia, drenaggio e protezione dei quartieri",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Pluralismo urbano",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Immigrazione, lingue, religioni, università e cultura",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Diritti civili, rappresentanza e contrasto alla discriminazione",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

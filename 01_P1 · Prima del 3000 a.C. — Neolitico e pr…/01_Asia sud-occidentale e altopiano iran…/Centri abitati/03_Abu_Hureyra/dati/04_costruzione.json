@@ -1,0 +1,186 @@
+{
+  "nodes": [
+    {
+      "id": "soil",
+      "label": "Terra della terrazza",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "wood",
+      "label": "Pali e legname",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "reeds",
+      "label": "Canne e frasche",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "mud",
+      "label": "Argilla per mattoni",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "excavate",
+      "label": "Scavo di fosse abitative",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "frame",
+      "label": "Montaggio di strutture lignee",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "brickmake",
+      "label": "Produzione di mattoni crudi",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "plaster",
+      "label": "Rivestimento e manutenzione",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "pitwall",
+      "label": "Pareti di capanne infossate",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "roof",
+      "label": "Coperture vegetali",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "brickwall",
+      "label": "Murature in mattoni crudi",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "floors",
+      "label": "Pavimenti e superfici domestiche",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "roundhouse",
+      "label": "Capanne della prima occupazione",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "recthouse",
+      "label": "Case rettangolari neolitiche",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "storage",
+      "label": "Fosse e vani di deposito",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "tell",
+      "label": "Accumulo stratificato del villaggio",
+      "layer": 3,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "soil",
+      "target": "excavate",
+      "label": "substrato",
+      "status": "documentato"
+    },
+    {
+      "source": "wood",
+      "target": "frame",
+      "label": "materia prima",
+      "status": "documentato"
+    },
+    {
+      "source": "reeds",
+      "target": "frame",
+      "label": "copertura",
+      "status": "sintesi"
+    },
+    {
+      "source": "mud",
+      "target": "brickmake",
+      "label": "materia prima",
+      "status": "documentato"
+    },
+    {
+      "source": "excavate",
+      "target": "pitwall",
+      "label": "produce",
+      "status": "documentato"
+    },
+    {
+      "source": "frame",
+      "target": "roof",
+      "label": "produce",
+      "status": "sintesi"
+    },
+    {
+      "source": "brickmake",
+      "target": "brickwall",
+      "label": "produce",
+      "status": "documentato"
+    },
+    {
+      "source": "plaster",
+      "target": "floors",
+      "label": "produce",
+      "status": "sintesi"
+    },
+    {
+      "source": "pitwall",
+      "target": "roundhouse",
+      "label": "costituisce",
+      "status": "documentato"
+    },
+    {
+      "source": "roof",
+      "target": "roundhouse",
+      "label": "copre",
+      "status": "documentato"
+    },
+    {
+      "source": "brickwall",
+      "target": "recthouse",
+      "label": "costituisce",
+      "status": "documentato"
+    },
+    {
+      "source": "floors",
+      "target": "recthouse",
+      "label": "completa",
+      "status": "documentato"
+    },
+    {
+      "source": "excavate",
+      "target": "storage",
+      "label": "genera",
+      "status": "documentato"
+    },
+    {
+      "source": "recthouse",
+      "target": "tell",
+      "label": "accumulo e ricostruzione",
+      "status": "inferito"
+    }
+  ]
+}

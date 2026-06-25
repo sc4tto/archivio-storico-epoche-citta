@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Quito",
+      "lat": -0.1807,
+      "lon": -78.4678,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "chil",
+      "label": "Valle de Los Chillos",
+      "lat": -0.3,
+      "lon": -78.43,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "tum",
+      "label": "Tumbaco e Cumbayá",
+      "lat": -0.2,
+      "lon": -78.4,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "imb",
+      "label": "Imbabura e Otavalo",
+      "lat": 0.25,
+      "lon": -78.27,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "cot",
+      "label": "Cotopaxi e Latacunga",
+      "lat": -0.93,
+      "lon": -78.62,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "gye",
+      "label": "Guayaquil e costa",
+      "lat": -2.19,
+      "lon": -79.89,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "ori",
+      "label": "Oriente amazzonico",
+      "lat": -0.5,
+      "lon": -77.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "chil",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade vallive e mercati",
+      "food": "mais, patate, bestiame e ortaggi"
+    },
+    {
+      "source": "tum",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sentieri e strade",
+      "food": "frutta, zucchero e prodotti orticoli"
+    },
+    {
+      "source": "imb",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cammini della sierra",
+      "food": "tessili, cereali e prodotti dei mercati indigeni"
+    },
+    {
+      "source": "cot",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane e strade andine",
+      "food": "lana, carne, formaggi e cereali"
+    },
+    {
+      "source": "gye",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strada interregionale e mulattiere",
+      "food": "cacao, riso, sale e importazioni"
+    },
+    {
+      "source": "ori",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sentieri transandini",
+      "food": "cera, resine, medicinali e prodotti forestali"
+    }
+  ]
+}

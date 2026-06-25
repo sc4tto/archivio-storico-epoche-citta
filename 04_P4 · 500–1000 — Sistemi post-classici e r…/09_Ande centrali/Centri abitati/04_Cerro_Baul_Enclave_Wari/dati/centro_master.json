@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Cerro Baúl, enclave Wari",
+    "site": "Cerro Baúl",
+    "modern_location": "Valle di Moquegua, Perù",
+    "coordinates": {
+      "lat": -17.106,
+      "lon": -70.849
+    },
+    "scope": "Cerro Baúl fra circa 600 e 1000, con attenzione al sistema di terrazze, alla produzione di chicha, ai banchetti, alle relazioni di frontiera e alla chiusura rituale del sito.",
+    "version": "1.0",
+    "warning": "I rapporti fra Wari e Tiwanaku nella valle di Moquegua non sono riducibili a guerra o pace permanente. Le identità e le interazioni variarono nel tempo e fra insediamenti."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "B1",
+      "title": "Moseley et al., Burning down the brewery",
+      "use": "Brewery, banchetti e chiusura rituale di Cerro Baúl.",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.0509820102"
+    },
+    {
+      "id": "B2",
+      "title": "Field Museum — Proyecto Arqueológico Cerro Baúl",
+      "use": "Scavi, architettura, frontiera Wari-Tiwanaku.",
+      "url": "https://www.fieldmuseum.org/science/research/area/cultural-heritage/cerro-baul"
+    },
+    {
+      "id": "B3",
+      "title": "Nash & Williams, Architecture and power at Cerro Baúl",
+      "use": "Organizzazione spaziale, residenze e amministrazione.",
+      "url": "https://doi.org/10.1016/j.jaa.2008.10.001"
+    },
+    {
+      "id": "B4",
+      "title": "Williams, Cerro Baúl: A Wari Center on the Tiwanaku Frontier",
+      "use": "Reti regionali e paesaggio politico.",
+      "url": "https://www.jstor.org/stable/2694078"
+    },
+    {
+      "id": "B5",
+      "title": "Jennings & Bowser, Drink, Power, and Society in the Andes",
+      "use": "Chicha, ospitalità e negoziazione politica.",
+      "url": "https://upf.com/book.asp?id=9780813033488"
+    }
+  ]
+}

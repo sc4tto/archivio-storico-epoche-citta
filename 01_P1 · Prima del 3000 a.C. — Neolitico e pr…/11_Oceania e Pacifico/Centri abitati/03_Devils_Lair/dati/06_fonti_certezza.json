@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Devil’s Lair conserva una lunga sequenza archeologica",
+    "theme": "Stratigrafia",
+    "status": "documentato",
+    "source": "DEVILS_WAM"
+  },
+  {
+    "claim": "Sono state proposte occupazioni vicine a 50.000 anni fa",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "DEVILS_QR_2001"
+  },
+  {
+    "claim": "Il sito contiene manufatti litici e ossei",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "DEVILS_WAM"
+  },
+  {
+    "claim": "Le occupazioni furono intermittenti",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "DEVILS_REVIEW"
+  },
+  {
+    "claim": "Ornamenti ossei appartengono soprattutto a fasi più recenti",
+    "theme": "Rituali",
+    "status": "documentato",
+    "source": "DEVILS_WAM"
+  },
+  {
+    "claim": "La data più antica è priva di qualsiasi incertezza",
+    "theme": "Metodo",
+    "status": "non_documentato",
+    "source": "Cronologia oggetto di revisione"
+  },
+  {
+    "claim": "La grotta fu occupata permanentemente",
+    "theme": "Sedentarietà",
+    "status": "non_documentato",
+    "source": "Uso episodico"
+  },
+  {
+    "claim": "Tutti gli accumuli faunistici sono di origine umana",
+    "theme": "Tafonomia",
+    "status": "non_documentato",
+    "source": "Contributi naturali e carnivori"
+  }
+]

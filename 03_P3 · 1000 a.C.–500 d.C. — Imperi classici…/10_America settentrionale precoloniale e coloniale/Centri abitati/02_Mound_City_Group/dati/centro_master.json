@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Mound City Group — modulo multi-grafo",
+    "short_name": "Mound City Group",
+    "site": "Complesso cerimoniale e funerario di Mound City",
+    "modern_location": "Chillicothe, Ohio, Stati Uniti",
+    "coordinates": {
+      "lat": 39.376,
+      "lon": -83.003
+    },
+    "scope": "Complesso Hopewell nella valle dello Scioto con recinto quadrangolare arrotondato, numerosi tumuli funerari, resti di edifici lignei e offerte rituali provenienti da reti continentali, attivo soprattutto fra I e IV secolo d.C.",
+    "version": "1.0-blocco_35_p3_america_settentrionale_5_centri_v1",
+    "warning": "Le forme oggi visibili furono in parte ricostruite dopo distruzioni e scavi novecenteschi. I tumuli non rappresentano un quartiere residenziale e le identità etniche moderne non possono essere dedotte automaticamente dal termine archeologico “Hopewell”."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "HOPEWELL_UNESCO",
+      "title": "UNESCO — Hopewell Ceremonial Earthworks",
+      "url": "https://whc.unesco.org/en/list/1689/",
+      "use": "cronologia, geometria, astronomia, reti e conservazione"
+    },
+    {
+      "id": "HOPEWELL_NPS",
+      "title": "National Park Service — Hopewell Ceremonial Earthworks",
+      "url": "https://www.nps.gov/hocu/learn/historyculture/hopewell-ceremonial-earthworks.htm",
+      "use": "componenti seriali, gestione e interpretazione"
+    },
+    {
+      "id": "HOPEWELL_LYNOTT",
+      "title": "Mark Lynott — Hopewell Ceremonial Landscapes of Ohio",
+      "url": "https://search.worldcat.org/search?q=Hopewell+Ceremonial+Landscapes+of+Ohio+Lynott",
+      "use": "paesaggi cerimoniali, costruzione e organizzazione sociale"
+    }
+  ]
+}

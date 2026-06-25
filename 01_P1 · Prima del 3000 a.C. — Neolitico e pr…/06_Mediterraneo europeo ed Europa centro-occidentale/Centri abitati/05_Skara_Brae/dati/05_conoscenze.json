@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Skara Brae",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Pietra",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Selezione delle lastre",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Muratura a secco",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Arredi integrati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Agricoltura",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Coltivazione dell’orzo",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_2",
+          "label": "Macinazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Stoccaggio",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Allevamento",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Gestione di bovini e ovini",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_2",
+          "label": "Pascolo insulare",
+          "status": "inferito"
+        },
+        {
+          "id": "k3_3",
+          "label": "Macellazione",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Mare",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Pesca",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_2",
+          "label": "Raccolta di molluschi",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Navigazione interinsulare",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Ambiente domestico",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Gestione del focolare",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Drenaggio",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Isolamento con midden",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Organizzazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Manutenzione dei passaggi",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_2",
+          "label": "Ricostruzione coordinata",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_3",
+          "label": "Funzione certa di ogni mobile in pietra",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

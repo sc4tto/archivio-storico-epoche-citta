@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Broken Hill mineraria, sindacale e desertica",
+    "site": "Broken Hill mineraria, sindacale e desertica",
+    "modern_location": "Broken Hill, Australia",
+    "coordinates": {
+      "lat": -31.9539,
+      "lon": 141.4539
+    },
+    "scope": "Broken Hill fra 1900 e 1945: miniere della Line of Lode, ferrovie, conflitti industriali del 1909 e 1919–1920, salute dei minatori, approvvigionamento idrico e produzione strategica.",
+    "version": "1.0",
+    "warning": "Sono escluse la ristrutturazione mineraria del dopoguerra, le politiche ambientali tarde e la candidatura/riconoscimento patrimoniale contemporaneo."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "BH1",
+      "title": "Broken Hill City Council",
+      "use": "Storia locale, patrimonio urbano e infrastrutture.",
+      "url": "https://www.brokenhill.nsw.gov.au/"
+    },
+    {
+      "id": "BH2",
+      "title": "Museums of History NSW — State Archives Collection",
+      "use": "Miniere, lavoro, ferrovie e amministrazione del New South Wales.",
+      "url": "https://mhnsw.au/collections/state-archives-collection/"
+    },
+    {
+      "id": "BH3",
+      "title": "National Archives of Australia",
+      "use": "Industria mineraria, guerra, lavoro e politiche federali.",
+      "url": "https://www.naa.gov.au/"
+    },
+    {
+      "id": "BH4",
+      "title": "State Library of New South Wales",
+      "use": "Fotografie, giornali e documenti sulla Barrier region.",
+      "url": "https://www.sl.nsw.gov.au/"
+    },
+    {
+      "id": "BH5",
+      "title": "Australian Workers’ Heritage Centre",
+      "use": "Storia del lavoro, sindacati e conflitti industriali.",
+      "url": "https://www.australianworkersheritagecentre.com.au/"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Alessandria fu fondata da Alessandro nel 331 a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "ALEX_PLEIADES"
+  },
+  {
+    "claim": "La città era collegata al Mediterraneo e al sistema nilotico",
+    "theme": "Commercio",
+    "status": "documentato",
+    "source": "ALEX_CEALEX"
+  },
+  {
+    "claim": "Porti e strutture del quartiere reale sono in parte sommersi",
+    "theme": "Archeologia",
+    "status": "documentato",
+    "source": "ALEX_IEASM"
+  },
+  {
+    "claim": "Museion e Biblioteca furono istituzioni centrali della capitale tolemaica",
+    "theme": "Conoscenza",
+    "status": "documentato",
+    "source": "ALEX_CEALEX"
+  },
+  {
+    "claim": "Le necropoli mostrano combinazioni di tradizioni greche ed egizie",
+    "theme": "Rituali",
+    "status": "documentato",
+    "source": "ALEX_CEALEX"
+  },
+  {
+    "claim": "Un singolo incendio distrusse tutta la Biblioteca in una sola data",
+    "theme": "Tradizione",
+    "status": "non_documentato",
+    "source": "Processo storico complesso e fonti divergenti"
+  },
+  {
+    "claim": "La posizione di ogni edificio reale è nota con precisione",
+    "theme": "Topografia",
+    "status": "non_documentato",
+    "source": "Città moderna e settori sommersi"
+  },
+  {
+    "claim": "Il Faro conservava la stessa forma in tutte le epoche",
+    "theme": "Architettura",
+    "status": "non_documentato",
+    "source": "Riparazioni e trasformazioni non completamente note"
+  }
+]

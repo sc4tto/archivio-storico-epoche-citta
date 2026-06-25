@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Seoul, metropolitana, città digitale, alloggi e rigenerazione",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Trasporto integrato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Metro, bus, T-money e interscambi",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Tariffe, dati e accessibilità",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Rigenerazione urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Riuso, patrimonio, corsi d’acqua e spazio pubblico",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Gentrificazione, ricollocazione e diritto alla città",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Città digitale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "TOPIS, sensori e servizi online",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Privacy, sorveglianza e inclusione digitale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Abitazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Appartamenti, affitto e programmi per giovani",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Prezzi, disuguaglianza e sicurezza abitativa",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Clima e rischio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Fiume Han, drenaggio, calore e alluvioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Riduzione delle emissioni e adattamento",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

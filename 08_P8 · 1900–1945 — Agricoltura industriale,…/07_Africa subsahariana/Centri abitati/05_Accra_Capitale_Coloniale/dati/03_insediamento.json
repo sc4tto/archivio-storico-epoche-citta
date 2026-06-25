@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1900–1909",
+    "1910–1918",
+    "1919–1928",
+    "1929–1938",
+    "1939–1945"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Consolidamento di Accra come capitale coloniale",
+      "lane": "Politica",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Ferrovia, cacao e crescita dei mercati",
+      "lane": "Economia",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Influenza del 1918 e sanità urbana",
+      "lane": "Sanità",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Scuole, stampa e associazioni politiche",
+      "lane": "Società",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Apertura del porto di Takoradi e riorientamento dei traffici",
+      "lane": "Infrastrutture",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Terremoto del 1939 e ricostruzioni",
+      "lane": "Rischi",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Economia di guerra e mobilitazione",
+      "lane": "Conflitti",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Indipendenza del 1957 esclusa",
+      "lane": "Cronologia",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

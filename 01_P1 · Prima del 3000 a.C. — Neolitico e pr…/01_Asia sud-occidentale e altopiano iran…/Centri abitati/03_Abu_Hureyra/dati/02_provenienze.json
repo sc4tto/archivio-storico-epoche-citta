@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Tell Abu Hureyra (oggi sommerso)",
+      "lat": 35.8667,
+      "lon": 38.4,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 40,
+      "anchor": "middle"
+    },
+    {
+      "id": "river",
+      "label": "Eufrate e pianura alluvionale",
+      "lat": 35.91,
+      "lon": 38.32,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": -22,
+      "anchor": "end"
+    },
+    {
+      "id": "steppe",
+      "label": "Steppe siriana",
+      "lat": 35.62,
+      "lon": 38.6,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 10,
+      "dy": 28,
+      "anchor": "start"
+    },
+    {
+      "id": "mureybet",
+      "label": "Mureybet",
+      "lat": 36.05,
+      "lon": 38.13,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": -10,
+      "dy": -20,
+      "anchor": "end"
+    },
+    {
+      "id": "jebel",
+      "label": "Jebel Bishri",
+      "lat": 35.35,
+      "lon": 39.05,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 28,
+      "anchor": "middle"
+    },
+    {
+      "id": "anatolia",
+      "label": "Anatolia orientale: ossidiana",
+      "lat": 38.0,
+      "lon": 39.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "river",
+      "target": "site",
+      "label": "acqua, piante ripariali e suoli",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "steppe",
+      "target": "site",
+      "label": "gazzelle, piante spontanee e pascoli",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "mureybet",
+      "target": "site",
+      "label": "reti regionali; derrate non dimostrate",
+      "status": "sintesi",
+      "food": "non dimostrato"
+    },
+    {
+      "source": "jebel",
+      "target": "site",
+      "label": "selvaggina e materie prime",
+      "status": "inferito",
+      "food": "parziale"
+    },
+    {
+      "source": "anatolia",
+      "target": "site",
+      "label": "ossidiana; non prova scambio alimentare",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

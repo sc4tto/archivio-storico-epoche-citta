@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Roma arcaica e monarchica",
+    "Repubblica e conquista italiana",
+    "Tarda Repubblica e Augusto",
+    "Alto Impero",
+    "Crisi, cristianizzazione e tardoantico"
+  ],
+  "items": [
+    {
+      "id": "forum",
+      "label": "Foro e Campidoglio",
+      "lane": "Amministrative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "walls",
+      "label": "Mura serviane e aureliane",
+      "lane": "Difensive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "palaces",
+      "label": "Palazzi imperiali",
+      "lane": "Monumentali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "water",
+      "label": "Acquedotti, cloache e fontane",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "spectacle",
+      "label": "Anfiteatri, circhi e teatri",
+      "lane": "Monumentali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "housing",
+      "label": "Insulae, domus e botteghe",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "churches",
+      "label": "Basiliche cristiane",
+      "lane": "Rituali",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

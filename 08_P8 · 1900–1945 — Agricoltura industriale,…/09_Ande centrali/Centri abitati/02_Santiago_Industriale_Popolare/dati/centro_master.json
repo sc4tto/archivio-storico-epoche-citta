@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Santiago industriale, popolare e statale",
+    "site": "Santiago industriale, popolare e statale",
+    "modern_location": "Santiago del Cile, Cile",
+    "coordinates": {
+      "lat": -33.4489,
+      "lon": -70.6693
+    },
+    "scope": "Santiago fra 1900 e 1945: tram elettrici, canalizzazione del Mapocho, barrios obreros, questione sociale, crisi del salnitro, depressione, Frente Popular, CORFO e industrializzazione statale.",
+    "version": "1.0",
+    "warning": "Sono escluse la metropolitana, la grande suburbanizzazione postbellica e le trasformazioni successive al 1945."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SA1",
+      "title": "Memoria Chilena — Biblioteca Nacional de Chile",
+      "use": "Urbanizzazione, questione sociale e storia politica.",
+      "url": "https://www.memoriachilena.gob.cl/"
+    },
+    {
+      "id": "SA2",
+      "title": "Archivo Nacional de Chile",
+      "use": "Fonti statali, cartografiche e fotografiche.",
+      "url": "https://www.archivonacional.gob.cl/"
+    },
+    {
+      "id": "SA3",
+      "title": "Museo Histórico Nacional de Chile",
+      "use": "Storia sociale e politica della capitale.",
+      "url": "https://www.mhn.gob.cl/"
+    },
+    {
+      "id": "SA4",
+      "title": "Biblioteca Nacional Digital de Chile",
+      "use": "Periodici, fotografie e mappe urbane.",
+      "url": "https://www.bibliotecanacionaldigital.gob.cl/"
+    },
+    {
+      "id": "SA5",
+      "title": "Museo de la Memoria y los Derechos Humanos — Archivos históricos",
+      "use": "Collezioni sul Novecento cileno e movimenti sociali.",
+      "url": "https://ww3.museodelamemoria.cl/"
+    }
+  ]
+}

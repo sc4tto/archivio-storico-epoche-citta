@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Los Angeles, freeway, smog e rivolta di Watts",
+    "site": "Los Angeles, freeway, smog e rivolta di Watts",
+    "modern_location": "Los Angeles, California, Stati Uniti",
+    "coordinates": {
+      "lat": 34.0522,
+      "lon": -118.2437
+    },
+    "scope": "Los Angeles fra 1945 e 1970: crescita demografica e industriale, suburbio e produzione aerospaziale, rete di freeway, espansione portuale, dipendenza dall’automobile, grave smog fotochimico, segregazione abitativa e creditizia, comunità afroamericane e messicano-americane, rivolta di Watts del 1965 e mobilitazioni chicane del 1968.",
+    "version": "1.0",
+    "warning": "Sono esclusi la deindustrializzazione aerospaziale successiva, la rivolta del 1992, le autostrade completate dopo il 1970 e le trasformazioni metropolitane posteriori."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "LA1",
+      "title": "South Coast Air Quality Management District — 50 Years of Progress",
+      "use": "Creazione del distretto antinquinamento nel 1947 e storia della lotta allo smog.",
+      "url": "https://www.aqmd.gov/home/research/publications/50-years-of-progress"
+    },
+    {
+      "id": "LA2",
+      "title": "California Air Resources Board — History of California Ambient Air Quality Standards",
+      "use": "Allerta smog del 1955, standard e regolazione delle emissioni.",
+      "url": "https://ww2.arb.ca.gov/resources/documents/history-californias-ambient-air-quality-standards"
+    },
+    {
+      "id": "LA3",
+      "title": "Library of Congress — From the Film Registry: Felicia (1965)",
+      "use": "Vita quotidiana, genere, razza e condizioni sociali a Watts prima della rivolta.",
+      "url": "https://blogs.loc.gov/now-see-hear/2021/07/from-the-film-registry-felicia-1965/"
+    },
+    {
+      "id": "LA4",
+      "title": "UCLA Institute of Transportation Studies — Freeway Siting in California",
+      "use": "Tracciamento autostradale, redlining, razzismo e spostamento di comunità.",
+      "url": "https://its.ucla.edu/projects/freeway-siting-in-california/"
+    }
+  ]
+}

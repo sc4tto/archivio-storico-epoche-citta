@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Le serie statistiche mostrano una crescita demografica eccezionalmente rapida dalla seconda metà degli anni settanta.",
+    "theme": "demografia",
+    "status": "documentato",
+    "source": "DU2"
+  },
+  {
+    "claim": "Porto, aviazione, zone franche e servizi hanno diversificato l’economia oltre il petrolio.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "DU1; DU2"
+  },
+  {
+    "claim": "La maggioranza della forza lavoro degli Emirati è composta da migranti, decisivi per costruzione e servizi.",
+    "theme": "lavoro",
+    "status": "documentato",
+    "source": "DU3"
+  },
+  {
+    "claim": "Il Dubai 2040 Urban Master Plan è un piano per crescita policentrica e maggiore accessibilità ai servizi.",
+    "theme": "pianificazione",
+    "status": "documentato",
+    "source": "DU1"
+  },
+  {
+    "claim": "Il 3 maggio 2026 sono stati avviati i lavori di scavo della Blue Line, che resta un progetto non ancora completato.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "DU4"
+  },
+  {
+    "claim": "Dubai, porto, aviazione, migrazione e urbanismo globale è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Il lavoro migrante controllato dai sistemi di sponsorizzazione, le disuguaglianze di status, gli alloggi segregati dei lavoratori e l’acquisizione del suolo non sono presentati come ingredienti neutrali della globalizzazione; le comunità migranti sono rappresentate come produttrici della città e portatrici di diritti.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

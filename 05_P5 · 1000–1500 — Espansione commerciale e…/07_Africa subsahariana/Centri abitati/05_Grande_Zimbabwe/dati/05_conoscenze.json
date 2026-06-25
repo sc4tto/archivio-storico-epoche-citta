@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Grande Zimbabwe e altopiano meridionale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Pietra a secco",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Selezione e posa del granito",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Curve, passaggi e muri monumentali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Allevamento",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Gestione delle mandrie",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Tributi e ricchezza bovina",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Metallurgia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Oro e rame",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Ferro e utensili",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Rotte verso Sofala",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Perline e ceramiche importate",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Governo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Gerarchie spaziali",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_1",
+          "label": "Controllo di tributi e scambi",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

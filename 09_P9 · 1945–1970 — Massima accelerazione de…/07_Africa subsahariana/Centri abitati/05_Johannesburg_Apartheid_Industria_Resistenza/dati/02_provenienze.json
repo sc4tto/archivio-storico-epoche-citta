@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Johannesburg",
+      "lat": -26.2041,
+      "lon": 28.0473,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "wit",
+      "label": "Witwatersrand e East Rand",
+      "lat": -26.2,
+      "lon": 28.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "vaa",
+      "label": "Vaal e Free State",
+      "lat": -27.0,
+      "lon": 27.0,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "tra",
+      "label": "Transvaal rurale",
+      "lat": -24.5,
+      "lon": 29.0,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "nat",
+      "label": "Natal e Durban",
+      "lat": -29.86,
+      "lon": 31.02,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "cap",
+      "label": "Cape Town e Cape Province",
+      "lat": -33.92,
+      "lon": 18.42,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "sou",
+      "label": "Africa australe e lavoro migrante",
+      "lat": -20.0,
+      "lon": 30.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "wit",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie, autobus e camion",
+      "food": "lavoratori, carbone, manufatti e alimenti"
+    },
+    {
+      "source": "vaa",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "dighe, ferrovie e strade",
+      "food": "acqua, mais, carne, latte e lavoratori"
+    },
+    {
+      "source": "tra",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e reclutamento migrante",
+      "food": "bestiame, cereali, manodopera e carbone"
+    },
+    {
+      "source": "nat",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e strade per Durban",
+      "food": "importazioni, zucchero, merci e passeggeri"
+    },
+    {
+      "source": "cap",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie nazionali",
+      "food": "frutta, vino, conserve e manufatti"
+    },
+    {
+      "source": "sou",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sistemi di reclutamento e trasporto",
+      "food": "lavoratori migranti, rimesse e prodotti regionali"
+    }
+  ]
+}

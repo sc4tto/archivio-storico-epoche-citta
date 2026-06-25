@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_84_P8_Asia_Orientale_5_Centri_v1",
+  "macroregion": "Asia orientale",
+  "centers": [
+    "01_Tokyo_Imperiale_Ricostruita",
+    "02_Osaka_Industriale_Portuale",
+    "03_Shanghai_Industriale_Concessioni",
+    "04_Pechino_Repubblicana_Occupata",
+    "05_Seoul_Gyeongseong_Coloniale"
+  ],
+  "uses_central_assets": true
+}

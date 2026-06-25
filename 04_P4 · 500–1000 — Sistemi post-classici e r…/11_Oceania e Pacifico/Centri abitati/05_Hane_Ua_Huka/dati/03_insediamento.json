@@ -1,0 +1,74 @@
+{
+  "phases": [
+    "500–700",
+    "700–850",
+    "850–950",
+    "950–1000"
+  ],
+  "items": [
+    {
+      "id": "h1",
+      "label": "Assenza di occupazione sicura nelle fasi iniziali",
+      "lane": "Cronologia",
+      "start": 0,
+      "end": 1,
+      "status": "non_documentato"
+    },
+    {
+      "id": "h2",
+      "label": "Prime presenze possibili nel X secolo",
+      "lane": "Abitato",
+      "start": 2,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "h3",
+      "label": "Occupazione costiera della duna",
+      "lane": "Abitato",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "h4",
+      "label": "Pesca e sfruttamento di uccelli e molluschi",
+      "lane": "Sussistenza",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "h5",
+      "label": "Utensili, ami e lavorazione di conchiglia",
+      "lane": "Artigianato",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "h6",
+      "label": "Impianto di piante e animali trasportati",
+      "lane": "Agricoltura",
+      "start": 3,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "h7",
+      "label": "Navigazione fra isole delle Marchesi",
+      "lane": "Commercio",
+      "start": 3,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "h8",
+      "label": "Sviluppo principale nell’XI–XIII secolo",
+      "lane": "Cronologia",
+      "start": 3,
+      "end": 3,
+      "status": "non_documentato"
+    }
+  ]
+}

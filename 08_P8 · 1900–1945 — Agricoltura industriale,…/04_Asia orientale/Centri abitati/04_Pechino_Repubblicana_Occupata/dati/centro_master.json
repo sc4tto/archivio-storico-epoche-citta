@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Pechino repubblicana e occupata",
+    "site": "Pechino repubblicana e occupata",
+    "modern_location": "Pechino, Cina",
+    "coordinates": {
+      "lat": 39.9042,
+      "lon": 116.4074
+    },
+    "scope": "Pechino fra 1900 e 1945: crisi finale Qing, Repubblica, università e Movimento del Quattro Maggio, ferrovie, municipalità, crescita suburbana, occupazione giapponese e scarsità bellica.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1945. Guerra civile finale, proclamazione della Repubblica Popolare nel 1949 e trasformazioni maoiste sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "BJ1",
+      "title": "UNESCO — Beijing Central Axis",
+      "use": "Struttura urbana, monumenti e continuità della capitale.",
+      "url": "https://whc.unesco.org/en/list/1714/"
+    },
+    {
+      "id": "BJ2",
+      "title": "The Palace Museum",
+      "use": "Città Proibita, collezioni e storia istituzionale.",
+      "url": "https://intl.dpm.org.cn/"
+    },
+    {
+      "id": "BJ3",
+      "title": "Beijing Municipal Archives",
+      "use": "Fonti amministrative e urbane.",
+      "url": "https://www.beijing.gov.cn/"
+    },
+    {
+      "id": "BJ4",
+      "title": "Encyclopaedia Britannica — Beijing",
+      "use": "Storia politica e urbana.",
+      "url": "https://www.britannica.com/place/Beijing"
+    },
+    {
+      "id": "BJ5",
+      "title": "National Museum of China",
+      "use": "Storia della Cina moderna e repubblicana.",
+      "url": "https://en.chnmuseum.cn/"
+    }
+  ]
+}

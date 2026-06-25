@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Cahuachi fu un importante centro cerimoniale Nasca",
+    "theme": "Funzione",
+    "status": "documentato",
+    "source": "CAHUACHI_SILVERMAN"
+  },
+  {
+    "claim": "Il paesaggio regionale comprende migliaia di linee e figure",
+    "theme": "Paesaggio",
+    "status": "documentato",
+    "source": "NASCA_UNESCO"
+  },
+  {
+    "claim": "I geoglifi furono realizzati rimuovendo la ghiaia superficiale",
+    "theme": "Tecnica",
+    "status": "documentato",
+    "source": "NASCA_UNESCO"
+  },
+  {
+    "claim": "Cahuachi aveva una popolazione permanente paragonabile a una grande capitale imperiale",
+    "theme": "Demografia",
+    "status": "non_documentato",
+    "source": "Interpretazioni insediative concorrenti"
+  },
+  {
+    "claim": "Canali e acquedotti sostenevano l’agricoltura delle valli aride",
+    "theme": "Acqua",
+    "status": "documentato",
+    "source": "CAHUACHI_SILVERMAN"
+  },
+  {
+    "claim": "Ogni geoglifo aveva una funzione esclusivamente astronomica",
+    "theme": "Interpretazione",
+    "status": "non_documentato",
+    "source": "Funzioni rituali e sociali discusse"
+  },
+  {
+    "claim": "Tessili e ceramiche documentano pratiche rituali e scambi",
+    "theme": "Materiali",
+    "status": "documentato",
+    "source": "NASCA_OREFICI"
+  },
+  {
+    "claim": "Il centro cambiò funzione e intensità nel corso del tempo",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "CAHUACHI_SILVERMAN"
+  }
+]

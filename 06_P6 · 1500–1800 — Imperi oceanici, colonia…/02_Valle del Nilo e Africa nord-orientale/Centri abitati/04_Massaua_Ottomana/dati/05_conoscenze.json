@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Massaua ottomana",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Cabotaggio del Mar Rosso",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Pilotaggio fra isole e scogliere",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Costruzione costiera",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Pietra corallina e calce",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Cisterne e impermeabilizzazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Dogane e magazzini",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Carovane dell’altopiano",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Governance",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Eyalet di Habesh",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Naib e qadi locali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Risorse",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Pesca e sale",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Acqua e approvvigionamento insulare",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

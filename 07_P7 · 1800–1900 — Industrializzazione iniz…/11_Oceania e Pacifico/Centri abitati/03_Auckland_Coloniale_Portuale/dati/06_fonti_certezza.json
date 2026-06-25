@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Auckland fu capitale coloniale prima del trasferimento a Wellington.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "AU3; AU5"
+  },
+  {
+    "claim": "Il porto del Waitematā sostenne commercio e migrazioni.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "AU1; AU2"
+  },
+  {
+    "claim": "La crescita coloniale implicò espropriazione e marginalizzazione Māori.",
+    "theme": "indigeni",
+    "status": "documentato",
+    "source": "AU2; AU4"
+  },
+  {
+    "claim": "Guerre e confische trasformarono l’entroterra regionale.",
+    "theme": "conflitti",
+    "status": "documentato",
+    "source": "AU3; AU5"
+  },
+  {
+    "claim": "Kauri e gum trade collegarono Northland e porto urbano.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "AU1; AU2"
+  },
+  {
+    "claim": "Ferrovie e servizi urbani crebbero nella seconda metà del secolo.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "AU1; AU5"
+  },
+  {
+    "claim": "Le comunità Māori restarono soggetti politici attivi.",
+    "theme": "indigeni",
+    "status": "documentato",
+    "source": "AU4; AU5"
+  },
+  {
+    "claim": "Harbour Bridge e metropoli automobilistica sono esclusi.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "AU1"
+  }
+]

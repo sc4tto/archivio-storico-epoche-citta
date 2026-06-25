@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Bagan divenne un centro fortificato nel IX secolo, secondo cronache e ricostruzioni archeologiche.",
+    "theme": "cronologia",
+    "status": "sintesi",
+    "source": "B2; B3"
+  },
+  {
+    "claim": "Il sito occupa una posizione strategica sull’Ayeyarwady nella zona secca della Birmania centrale.",
+    "theme": "geografia",
+    "status": "documentato",
+    "source": "B1; B4"
+  },
+  {
+    "claim": "Il grande paesaggio di templi e monasteri appartiene soprattutto ai secoli XI–XIII.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "B1"
+  },
+  {
+    "claim": "Nel X secolo il principato accrebbe gradualmente la propria autorità regionale.",
+    "theme": "politica",
+    "status": "sintesi",
+    "source": "B2; B3"
+  },
+  {
+    "claim": "La produzione di mattoni costituì una competenza fondamentale del successivo sviluppo monumentale.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "B1; B5"
+  },
+  {
+    "claim": "Riso, colture asciutte, pesca e allevamento sostenevano il centro iniziale.",
+    "theme": "alimentazione",
+    "status": "inferito",
+    "source": "B4; confronto regionale"
+  },
+  {
+    "claim": "Le strutture residenziali del primo insediamento erano in gran parte lignee.",
+    "theme": "insediamento",
+    "status": "inferito",
+    "source": "B2; confronto archeologico"
+  },
+  {
+    "claim": "Il modello non attribuisce alla fase anteriore al 1000 i monumenti più tardi e celebri.",
+    "theme": "certezza",
+    "status": "documentato",
+    "source": "B1"
+  }
+]

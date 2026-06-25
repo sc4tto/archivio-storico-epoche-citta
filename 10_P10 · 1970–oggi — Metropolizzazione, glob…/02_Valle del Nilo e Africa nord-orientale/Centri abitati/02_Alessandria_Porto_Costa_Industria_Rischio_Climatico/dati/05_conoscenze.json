@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Alessandria, porto, costa, industria e rischio climatico",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Porto e logistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Silos, dogane, ferrovia e catena del freddo",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Continuità operativa e accesso dei lavoratori",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Rischio costiero",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Mareggiate, erosione, subsidenza e drenaggio",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Protezione, adattamento e soluzioni basate sulla natura",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Industria e ambiente",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Acque reflue, Lago Mariout e qualità dell’aria",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Bonifica, monitoraggio e responsabilità d’impresa",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Abitazione densa",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Manutenzione, sopraelevazioni e servizi",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Sicurezza edilizia e tutela degli affittuari",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Patrimonio mediterraneo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Archeologia, architettura moderna e lungomare",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Turismo, accesso pubblico e memoria urbana",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

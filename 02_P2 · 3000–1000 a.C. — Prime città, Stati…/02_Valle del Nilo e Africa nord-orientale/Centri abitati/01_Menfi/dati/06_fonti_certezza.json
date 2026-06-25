@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Menfi occupava una posizione strategica all’ingresso del Delta",
+    "theme": "Geografia",
+    "status": "documentato",
+    "source": "MEMPHIS_UNESCO"
+  },
+  {
+    "claim": "Fu capitale amministrativa durante l’Antico Regno e in altre fasi",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "MEMPHIS_UNESCO"
+  },
+  {
+    "claim": "Il tempio di Ptah era il principale santuario cittadino",
+    "theme": "Culto",
+    "status": "documentato",
+    "source": "MEMPHIS_UNESCO"
+  },
+  {
+    "claim": "La regione comprendeva palazzi, laboratori, approdi e quartieri",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "MEMPHIS_UNESCO"
+  },
+  {
+    "claim": "La necropoli documenta lo sviluppo da mastabe a piramidi",
+    "theme": "Funerario",
+    "status": "documentato",
+    "source": "MEMPHIS_UNESCO"
+  },
+  {
+    "claim": "Giza e Saqqara erano lo stesso quartiere urbano",
+    "theme": "Topografia",
+    "status": "non_documentato",
+    "source": "Complessi distinti nella necropoli menfita"
+  },
+  {
+    "claim": "Ogni monumento fu costruito nella stessa dinastia",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Lunga sequenza dinastica"
+  },
+  {
+    "claim": "Menfi cessò di essere importante dopo l’Antico Regno",
+    "theme": "Continuità",
+    "status": "non_documentato",
+    "source": "Ruolo rilevante in fasi successive"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Mound City Group appartiene al sito seriale UNESCO Hopewell",
+    "theme": "Tutela",
+    "status": "documentato",
+    "source": "HOPEWELL_NPS"
+  },
+  {
+    "claim": "Il complesso fu costruito soprattutto tra I e IV secolo d.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "HOPEWELL_UNESCO"
+  },
+  {
+    "claim": "I tumuli coprivano strutture funerarie e deposizioni rituali",
+    "theme": "Funerario",
+    "status": "documentato",
+    "source": "HOPEWELL_NPS"
+  },
+  {
+    "claim": "Oggetti rituali utilizzavano materie prime provenienti da regioni lontane",
+    "theme": "Reti",
+    "status": "documentato",
+    "source": "HOPEWELL_UNESCO"
+  },
+  {
+    "claim": "Il sito era una città densamente abitata",
+    "theme": "Insediamento",
+    "status": "non_documentato",
+    "source": "HOPEWELL_UNESCO"
+  },
+  {
+    "claim": "Le ricostruzioni moderne coincidono in ogni dettaglio con gli originali",
+    "theme": "Conservazione",
+    "status": "non_documentato",
+    "source": "Storia di scavi e ricostruzioni"
+  },
+  {
+    "claim": "I costruttori praticavano raccolta, pesca e coltivazione",
+    "theme": "Economia",
+    "status": "documentato",
+    "source": "HOPEWELL_UNESCO"
+  },
+  {
+    "claim": "Il sito conserva valore sacro per comunità native contemporanee",
+    "theme": "Patrimonio",
+    "status": "sintesi",
+    "source": "HOPEWELL_NPS"
+  }
+]

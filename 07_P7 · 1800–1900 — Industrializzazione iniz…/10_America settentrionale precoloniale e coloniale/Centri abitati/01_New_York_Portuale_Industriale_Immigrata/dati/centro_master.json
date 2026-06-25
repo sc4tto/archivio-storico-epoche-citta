@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "New York portuale, industriale e immigrata",
+    "site": "New York portuale, industriale e immigrata",
+    "modern_location": "New York, Stati Uniti",
+    "coordinates": {
+      "lat": 40.7128,
+      "lon": -74.006
+    },
+    "scope": "New York fra 1800 e 1900: porto e mercato nazionale, canale Erie, crescita di Manhattan e Brooklyn, manifatture, finanza, immigrazione, Central Park, Brooklyn Bridge, tenements e consolidamento municipale del 1898.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Metropolitana del 1904, grattacieli novecenteschi, Harlem Renaissance e sviluppo automobilistico sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "NY1",
+      "title": "National Park Service — Statue of Liberty and Ellis Island",
+      "use": "Immigrazione e porto di New York.",
+      "url": "https://www.nps.gov/stli/learn/historyculture/index.htm"
+    },
+    {
+      "id": "NY2",
+      "title": "Museum of the City of New York",
+      "use": "Storia urbana, cartografia e cultura materiale.",
+      "url": "https://www.mcny.org/"
+    },
+    {
+      "id": "NY3",
+      "title": "New-York Historical Society",
+      "use": "Fonti sul commercio, lavoro e trasformazioni sociali.",
+      "url": "https://www.nyhistory.org/"
+    },
+    {
+      "id": "NY4",
+      "title": "NYC Parks — Central Park History",
+      "use": "Pianificazione del parco e trasformazione urbana.",
+      "url": "https://www.nycgovparks.org/parks/central-park/history"
+    },
+    {
+      "id": "NY5",
+      "title": "National Park Service — African Burial Ground",
+      "use": "Storia afroamericana e lavoro non libero nella città.",
+      "url": "https://www.nps.gov/afbg/"
+    }
+  ]
+}

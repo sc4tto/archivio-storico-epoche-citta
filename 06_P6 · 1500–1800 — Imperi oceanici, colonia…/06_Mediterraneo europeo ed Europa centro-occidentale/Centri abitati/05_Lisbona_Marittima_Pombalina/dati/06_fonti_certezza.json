@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Belém esprime il ruolo marittimo della Lisbona manuelina.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "LI1"
+  },
+  {
+    "claim": "Il porto del Tago collegava la capitale alle reti imperiali.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "LI1; LI5"
+  },
+  {
+    "claim": "Il terremoto del 1755 causò distruzioni estese.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "LI2; LI3"
+  },
+  {
+    "claim": "La Baixa fu ricostruita con una griglia e norme pombaline.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "LI2; LI3"
+  },
+  {
+    "claim": "Il sistema gaiola mirava a migliorare il comportamento sismico.",
+    "theme": "tecniche",
+    "status": "documentato",
+    "source": "LI2; LI3"
+  },
+  {
+    "claim": "Arsenali e magazzini sostenevano la navigazione oceanica.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "LI4; LI5"
+  },
+  {
+    "claim": "Azulejos, pietra lioz e legno caratterizzavano molte costruzioni.",
+    "theme": "tecniche",
+    "status": "documentato",
+    "source": "LI1; LI3"
+  },
+  {
+    "claim": "Le trasformazioni portuali ottocentesche sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "LI3; LI4"
+  }
+]

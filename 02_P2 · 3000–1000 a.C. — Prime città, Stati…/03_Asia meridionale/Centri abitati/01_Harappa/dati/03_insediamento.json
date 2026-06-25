@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Fase Ravi",
+    "Kot Diji / Primo Harappano",
+    "Harappano Maturo",
+    "Transizione",
+    "Tardo Harappano"
+  ],
+  "items": [
+    {
+      "id": "mounds",
+      "label": "Espansione dei monticoli urbani",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "walls",
+      "label": "Centri murati e porte",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "drains",
+      "label": "Pozzi, scarichi e strade",
+      "lane": "Infrastrutture",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "crafts",
+      "label": "Quartieri artigianali",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "seals",
+      "label": "Sigilli, pesi e scrittura",
+      "lane": "Amministrative",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "cemetery",
+      "label": "Cimiteri R-37 e H",
+      "lane": "Funerarie",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "transition",
+      "label": "Riorganizzazione posturbana",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

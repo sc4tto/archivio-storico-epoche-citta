@@ -1,0 +1,174 @@
+{
+  "nodes": [
+    {
+      "id": "m_brick",
+      "label": "Laterizi antichi e nuovi",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_tufa",
+      "label": "Tufo e pietra locale",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_spolia",
+      "label": "Marmi, colonne e spolia",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_timber",
+      "label": "Legname e tegole",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "o_reuse",
+      "label": "Smontaggio, selezione e riuso",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_mortar",
+      "label": "Muratura e malta di calce",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_mosaic",
+      "label": "Mosaico, affresco e arredo",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_carp",
+      "label": "Carpenteria e tetti",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "c_basilica",
+      "label": "Navate, absidi e portici",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_walls",
+      "label": "Mura, torri e porte",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_cloister",
+      "label": "Chiostri, diaconie e ospizi",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "c_house",
+      "label": "Case, botteghe e recinti",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "s_major",
+      "label": "Basiliche maggiori e tituli",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_lateran",
+      "label": "Laterano e complessi papali",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_leonine",
+      "label": "Città leonina e fortificazioni",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_districts",
+      "label": "Quartieri, mercati e monasteri",
+      "layer": 3,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m_brick",
+      "target": "o_reuse",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_reuse",
+      "target": "c_basilica",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_basilica",
+      "target": "s_major",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_tufa",
+      "target": "o_mortar",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_mortar",
+      "target": "c_walls",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_walls",
+      "target": "s_lateran",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_spolia",
+      "target": "o_mosaic",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_mosaic",
+      "target": "c_cloister",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_cloister",
+      "target": "s_leonine",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "m_timber",
+      "target": "o_carp",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_carp",
+      "target": "c_house",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_house",
+      "target": "s_districts",
+      "status": "sintesi",
+      "label": ""
+    }
+  ]
+}

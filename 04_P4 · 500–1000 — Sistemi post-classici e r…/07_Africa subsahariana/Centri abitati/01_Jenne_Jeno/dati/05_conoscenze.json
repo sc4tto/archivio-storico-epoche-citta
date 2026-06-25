@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Jenne-jeno",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0_water",
+      "label": "Gestione del delta",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0_floodcal",
+          "label": "Calendari delle piene e campi",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1_navigation",
+          "label": "Navigazione locale e pesca",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1_agri",
+      "label": "Agricoltura e allevamento",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0_riceknow",
+          "label": "Coltivazione del riso africano",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1_herdknow",
+          "label": "Gestione di bovini e ovicaprini",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2_craft",
+      "label": "Artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0_ironknow",
+          "label": "Siderurgia e forgiatura",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1_pottery",
+          "label": "Ceramica e cottura",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3_building",
+      "label": "Costruzione in terra",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0_brickknow",
+          "label": "Mattoni cilindrici e manutenzione",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1_drain",
+          "label": "Adattamento a umidità e alluvioni",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4_exchange",
+      "label": "Coordinamento degli scambi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0_markets",
+          "label": "Specializzazione fra comunità",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_1_routes",
+          "label": "Reti del Medio Niger",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

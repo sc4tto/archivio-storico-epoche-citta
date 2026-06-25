@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Tràng An conserva una sequenza archeologica superiore a 30.000 anni",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "UNESCO_TRANG_AN"
+  },
+  {
+    "claim": "Le grotte mostrano adattamenti a forti mutamenti climatici e del livello marino",
+    "theme": "Ambiente",
+    "status": "documentato",
+    "source": "UNESCO_TRANG_AN"
+  },
+  {
+    "claim": "I depositi comprendono conchiglie, ossa animali, strumenti, focolari e ceramica",
+    "theme": "Evidenze",
+    "status": "documentato",
+    "source": "UNESCO_TRANG_AN"
+  },
+  {
+    "claim": "Le occupazioni del P1 furono in parte stagionali e mobili",
+    "theme": "Insediamento",
+    "status": "sintesi",
+    "source": "UNESCO_TRANG_AN"
+  },
+  {
+    "claim": "Le economie combinarono risorse di foresta, acqua dolce e costa",
+    "theme": "Alimentazione",
+    "status": "sintesi",
+    "source": "UNESCO_TRANG_AN"
+  },
+  {
+    "claim": "Tràng An era una città pianificata nel VI millennio a.C.",
+    "theme": "Urbanistica",
+    "status": "non_documentato",
+    "source": "Il sito è un sistema di grotte e paesaggi, non una città"
+  },
+  {
+    "claim": "La presenza di ceramica prova una piena agricoltura del riso in tutte le fasi",
+    "theme": "Agricoltura",
+    "status": "non_documentato",
+    "source": "Ceramica e agricoltura non sono equivalenti"
+  },
+  {
+    "claim": "Ogni grotta ebbe la stessa funzione",
+    "theme": "Spazio",
+    "status": "non_documentato",
+    "source": "Le funzioni variano fra siti e periodi"
+  }
+]

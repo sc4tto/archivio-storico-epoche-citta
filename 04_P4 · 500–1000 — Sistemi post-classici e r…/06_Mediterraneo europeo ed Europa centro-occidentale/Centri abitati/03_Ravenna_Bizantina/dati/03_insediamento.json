@@ -1,0 +1,74 @@
+{
+  "phases": [
+    "500–540",
+    "540–751",
+    "751–876",
+    "876–1000"
+  ],
+  "items": [
+    {
+      "id": "vt1",
+      "label": "Corte ostrogota di Teodorico",
+      "lane": "Potere",
+      "start": 0,
+      "end": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "vt2",
+      "label": "San Vitale, Sant’Apollinare e grandi mosaici",
+      "lane": "Monumenti",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "vt3",
+      "label": "Conquista bizantina ed esarcato",
+      "lane": "Potere",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "vt4",
+      "label": "Classe, canali e traffici adriatici",
+      "lane": "Scambio",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "vt5",
+      "label": "Arcivescovado e patrimonio ecclesiastico",
+      "lane": "Istituzioni",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "vt6",
+      "label": "Conquista longobarda del 751",
+      "lane": "Crisi",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "vt7",
+      "label": "Rapporti con papi, Carolingi e Ottoni",
+      "lane": "Politica",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "vt8",
+      "label": "Riduzione del porto e trasformazione del tessuto urbano",
+      "lane": "Abitato",
+      "start": 1,
+      "end": 3,
+      "status": "sintesi"
+    }
+  ]
+}

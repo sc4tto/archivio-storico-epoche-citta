@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Osaka mercantile e industriale",
+    "site": "Osaka mercantile e industriale",
+    "modern_location": "Osaka, Giappone",
+    "coordinates": {
+      "lat": 34.6937,
+      "lon": 135.5023
+    },
+    "scope": "Osaka fra 1800 e 1900: mercati del riso, canali, quartieri mercantili, crisi dello shogunato e industrializzazione Meiji basata su tessili, metalmeccanica, porto e ferrovia.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Le grandi espansioni industriali, la metropolitana, le distruzioni del 1945 e la conurbazione contemporanea sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "OS1",
+      "title": "Encyclopaedia Britannica — Osaka",
+      "use": "Storia commerciale e industriale della città.",
+      "url": "https://www.britannica.com/place/Osaka-Japan"
+    },
+    {
+      "id": "OS2",
+      "title": "Osaka Museum of History",
+      "use": "Archeologia urbana e trasformazioni storiche.",
+      "url": "https://www.osakamushis.jp/eng/"
+    },
+    {
+      "id": "OS3",
+      "title": "Osaka Municipal Archives",
+      "use": "Mappe, amministrazione e infrastrutture urbane.",
+      "url": "https://www.city.osaka.lg.jp/contents/wdu120/arcas/"
+    },
+    {
+      "id": "OS4",
+      "title": "National Diet Library — Modern Japan",
+      "use": "Commercio, industria e società Meiji.",
+      "url": "https://www.ndl.go.jp/modern/e/"
+    },
+    {
+      "id": "OS5",
+      "title": "Port of Osaka",
+      "use": "Storia del porto e opere di fine Ottocento.",
+      "url": "https://www.city.osaka.lg.jp/port/"
+    }
+  ]
+}

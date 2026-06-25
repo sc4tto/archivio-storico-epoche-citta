@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Angkor Borei",
+      "lat": 10.983,
+      "lon": 104.98,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "phnomda",
+      "label": "Phnom Da",
+      "lat": 10.961,
+      "lon": 104.99,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "oceo",
+      "label": "Óc Eo",
+      "lat": 10.25,
+      "lon": 105.15,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "mekong",
+      "label": "Basso Mekong",
+      "lat": 11.4,
+      "lon": 105.0,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "gulf",
+      "label": "Golfo di Thailandia",
+      "lat": 9.7,
+      "lon": 103.8,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "china",
+      "label": "Rotte verso il Mar Cinese Meridionale",
+      "lat": 15.0,
+      "lon": 109.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "phnomda",
+      "target": "site",
+      "label": "santuari, sculture e paesaggio sacro",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "oceo",
+      "target": "site",
+      "label": "canali, ceramiche e reti del delta",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "mekong",
+      "target": "site",
+      "label": "riso, pesce, trasporto e comunicazioni",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "gulf",
+      "target": "site",
+      "label": "accesso alle rotte marittime",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "china",
+      "target": "site",
+      "label": "merci, ambascerie e descrizioni storiche",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

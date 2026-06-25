@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_92_P9_Asia_Sud_Occidentale_5_Centri_v1",
+  "macroregion": "Asia sud-occidentale e altopiano iranico",
+  "centers": [
+    "01_Istanbul_Postbellica_Industrializzata",
+    "02_Teheran_Pahlavi_Petrolio_Migrazioni",
+    "03_Baghdad_Repubblicana_Petrolio",
+    "04_Beirut_Bancaria_Cosmopolita",
+    "05_Damasco_Indipendente_Industrializzata"
+  ],
+  "uses_central_assets": true
+}

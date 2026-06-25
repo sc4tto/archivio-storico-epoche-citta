@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Ihò Eléérú",
+      "lat": 7.3,
+      "lon": 5.12,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "rocks",
+      "label": "Affioramenti e ripari di Isarun",
+      "lat": 7.31,
+      "lon": 5.1,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "forest",
+      "label": "Foresta-savana dell’Ondo",
+      "lat": 7.2,
+      "lon": 5.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": 24,
+      "anchor": "start"
+    },
+    {
+      "id": "niger",
+      "label": "Bacino del basso Niger",
+      "lat": 7.0,
+      "lon": 6.0,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "coast",
+      "label": "Corridoi verso la costa del Golfo di Guinea",
+      "lat": 6.3,
+      "lon": 4.8,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "west",
+      "label": "Reti della Later Stone Age dell’Africa occidentale",
+      "lat": 8.0,
+      "lon": 2.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "rocks",
+      "target": "site",
+      "label": "riparo e materie prime litiche",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "forest",
+      "target": "site",
+      "label": "frutti, fauna e legname",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "niger",
+      "target": "site",
+      "label": "ambienti acquatici e mobilità regionale",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "coast",
+      "target": "site",
+      "label": "corridoi ecologici e contatti",
+      "status": "inferito",
+      "food": "parziale"
+    },
+    {
+      "source": "west",
+      "target": "site",
+      "label": "confronti litici e ceramici",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

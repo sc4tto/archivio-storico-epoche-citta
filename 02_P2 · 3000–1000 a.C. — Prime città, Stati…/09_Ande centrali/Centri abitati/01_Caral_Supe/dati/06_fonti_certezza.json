@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Caral si sviluppò soprattutto fra circa 3000 e 1800 a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "CARAL_UNESCO"
+  },
+  {
+    "claim": "Il sito comprende piattaforme monumentali e corti circolari incassate",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "CARAL_UNESCO"
+  },
+  {
+    "claim": "Caral era uno di numerosi insediamenti monumentali della valle",
+    "theme": "Reti regionali",
+    "status": "documentato",
+    "source": "CARAL_UNESCO"
+  },
+  {
+    "claim": "Le datazioni radiocarboniche collocano il centro nel Tardo Arcaico",
+    "theme": "Metodo",
+    "status": "documentato",
+    "source": "CARAL_SCIENCE"
+  },
+  {
+    "claim": "Il piano distingue spazi monumentali e residenziali",
+    "theme": "Società",
+    "status": "documentato",
+    "source": "CARAL_UNESCO"
+  },
+  {
+    "claim": "Il quipu ritrovato dimostra una scrittura completa",
+    "theme": "Registrazione",
+    "status": "non_documentato",
+    "source": "Sistema di registrazione, non scrittura dimostrata"
+  },
+  {
+    "claim": "Caral controllava direttamente tutti i centri regionali",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Gerarchia politica discussa"
+  },
+  {
+    "claim": "La guerra fu il principale motore della crescita",
+    "theme": "Conflitto",
+    "status": "non_documentato",
+    "source": "Evidenza insufficiente"
+  }
+]

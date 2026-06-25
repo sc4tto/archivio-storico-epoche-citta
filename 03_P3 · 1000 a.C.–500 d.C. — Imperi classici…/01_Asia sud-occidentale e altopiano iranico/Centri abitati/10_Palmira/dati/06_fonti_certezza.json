@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Palmira fu un importante nodo delle rotte carovaniere",
+    "theme": "Commercio",
+    "status": "documentato",
+    "source": "PAL_UNESCO"
+  },
+  {
+    "claim": "La città combina tradizioni greco-romane e locali",
+    "theme": "Cultura",
+    "status": "documentato",
+    "source": "PAL_UNESCO"
+  },
+  {
+    "claim": "Sono documentati templi, colonnati, agorà e necropoli monumentali",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "PAL_UNESCO"
+  },
+  {
+    "claim": "I ritratti funerari informano su famiglie e abbigliamento",
+    "theme": "Società",
+    "status": "documentato",
+    "source": "PAL_MET"
+  },
+  {
+    "claim": "Nel III secolo la città fu centro del potere di Odenato e Zenobia",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "PAL_MET"
+  },
+  {
+    "claim": "Tutta la ricchezza proveniva esclusivamente da una singola Via della Seta",
+    "theme": "Commercio",
+    "status": "non_documentato",
+    "source": "Rete multipla di rotte e attività locali"
+  },
+  {
+    "claim": "Ogni torre funeraria apparteneva a una dinastia reale",
+    "theme": "Rituali",
+    "status": "non_documentato",
+    "source": "Prevalentemente tombe familiari di élite"
+  },
+  {
+    "claim": "La città rimase immutata dopo il III secolo",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Trasformazioni tardoantiche"
+  }
+]

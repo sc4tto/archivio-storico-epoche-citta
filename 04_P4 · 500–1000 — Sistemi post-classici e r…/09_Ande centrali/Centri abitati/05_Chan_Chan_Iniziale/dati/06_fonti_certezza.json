@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Chan Chan iniziò a svilupparsi nel IX secolo, ma il suo apogeo è molto posteriore.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "C1; C3; C5"
+  },
+  {
+    "claim": "Le fasi iniziali devono essere distinte dai nove grandi complessi palaziali pienamente sviluppati.",
+    "theme": "certezza",
+    "status": "documentato",
+    "source": "C1; C3"
+  },
+  {
+    "claim": "L’irrigazione della valle del Moche fu essenziale per la crescita urbana.",
+    "theme": "agricoltura",
+    "status": "documentato",
+    "source": "C1; C3"
+  },
+  {
+    "claim": "Pesca, agricoltura e artigianato erano integrati nell’economia regionale.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "C1; C2; C3"
+  },
+  {
+    "claim": "L’architettura combinava adobe, materiali vegetali, pietra di fondazione e intonaco.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "C1; C3"
+  },
+  {
+    "claim": "Le prime forme di gerarchia urbana sono plausibili ma non sempre databili con precisione al X secolo.",
+    "theme": "certezza",
+    "status": "sintesi",
+    "source": "C3; C5"
+  },
+  {
+    "claim": "Le reti raggiungevano valli vicine, sierra ed Ecuador.",
+    "theme": "commercio",
+    "status": "sintesi",
+    "source": "C1; C3; C5"
+  },
+  {
+    "claim": "El Niño e la fragilità dell’architettura in terra condizionano la conservazione del sito.",
+    "theme": "vincoli",
+    "status": "documentato",
+    "source": "C1; C2"
+  }
+]

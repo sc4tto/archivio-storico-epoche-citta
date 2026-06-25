@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Anuradhapura",
+      "lat": 8.3114,
+      "lon": 80.4037,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "tissa",
+      "label": "Tissa Wewa e serbatoi",
+      "lat": 8.33,
+      "lon": 80.37,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "mihintale",
+      "label": "Mihintale",
+      "lat": 8.35,
+      "lon": 80.51,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "mantai",
+      "label": "Mantai / Mahatittha",
+      "lat": 8.97,
+      "lon": 79.99,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "jambukola",
+      "label": "Jambukola e costa nord",
+      "lat": 9.75,
+      "lon": 80.03,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "tamil",
+      "label": "Costa del Tamil Nadu",
+      "lat": 10.8,
+      "lon": 79.8,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "tissa",
+      "target": "site",
+      "label": "acqua irrigua, riso e pesce",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "mihintale",
+      "target": "site",
+      "label": "monaci, pellegrini e assistenza",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "mantai",
+      "target": "site",
+      "label": "merci oceaniche, spezie e ceramiche",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "jambukola",
+      "target": "site",
+      "label": "pellegrinaggi e traffici costieri",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "tamil",
+      "target": "site",
+      "label": "mercanti, artigiani e conflitti",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

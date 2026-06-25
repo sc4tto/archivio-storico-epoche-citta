@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Medio Regno",
+    "Secondo Periodo Intermedio",
+    "Prima XVIII dinastia",
+    "Età ramesside",
+    "Fine del Nuovo Regno"
+  ],
+  "items": [
+    {
+      "id": "karnak",
+      "label": "Complesso di Karnak",
+      "lane": "Monumentali",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "luxor",
+      "label": "Tempio di Luxor",
+      "lane": "Monumentali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "palaces",
+      "label": "Palazzi e quartieri orientali",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "valleys",
+      "label": "Valli dei Re e delle Regine",
+      "lane": "Funerarie",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "mortuary",
+      "label": "Templi funerari della riva ovest",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "deirmedina",
+      "label": "Villaggio degli artigiani",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "harbor",
+      "label": "Approdi e processioni sul Nilo",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

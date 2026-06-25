@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Los Angeles, freeway, smog e rivolta di Watts",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Freeway e mobilità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Progettazione di svincoli, ponti, rampe e flussi automobilistici",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Costi di demolizione, barriera e dipendenza dall’auto",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Smog e sanità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Monitoraggio, chimica foto-ossidante, sistemi di allerta e standard",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Conflitto fra industria, automobili e salute pubblica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Industria e suburbio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Aerospazio, petrolio, porti, edilizia seriale e consumi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Decentramento di lavoro e residenza in un territorio esteso",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Comunità e diritti civili",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Organizzazioni di Watts, movimenti afroamericani e chicane",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Scuola, polizia, lavoro, casa e rappresentanza",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Acqua e ambiente",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Acquedotti, irrigazione, bacini e gestione della siccità",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Consumo territoriale, smog e vulnerabilità ecologica",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

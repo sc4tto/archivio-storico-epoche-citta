@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Hegmataneh–Ecbatana — modulo multi-grafo",
+    "short_name": "Hegmataneh–Ecbatana",
+    "site": "Hegmataneh / Ecbatana",
+    "modern_location": "Hamadan, Iran",
+    "coordinates": {
+      "lat": 34.8,
+      "lon": 48.52
+    },
+    "scope": "Antica sede meda e importante centro dell’altopiano iranico, poi capitale estiva e residenza amministrativa per Achemenidi, Seleucidi, Parti e Sasanidi, con continuità insediativa sotto la moderna Hamadan.",
+    "version": "1.0-blocco_26_p3_asia_so_completamento_v1",
+    "warning": "Le testimonianze attribuibili con sicurezza ai Medi sono limitate e molte descrizioni classiche sono idealizzate. Gran parte della città antica è coperta dall’abitato moderno."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "HEG_UNESCO",
+      "title": "UNESCO — Hegmataneh",
+      "url": "https://whc.unesco.org/en/list/1716/",
+      "use": "cronologia, continuità e valore archeologico"
+    },
+    {
+      "id": "HEG_IRANICA",
+      "title": "Encyclopaedia Iranica — Ecbatana",
+      "url": "https://www.iranicaonline.org/articles/ecbatana",
+      "use": "fonti, topografia e storia delle ricerche"
+    },
+    {
+      "id": "HEG_PLEIADES",
+      "title": "Pleiades — Ekbatana",
+      "url": "https://pleiades.stoa.org/places/903041",
+      "use": "localizzazione e bibliografia"
+    }
+  ]
+}

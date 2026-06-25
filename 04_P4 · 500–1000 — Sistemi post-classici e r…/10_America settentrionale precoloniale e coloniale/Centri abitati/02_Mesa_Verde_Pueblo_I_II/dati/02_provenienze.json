@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Mesa Verde",
+      "lat": 37.2309,
+      "lon": -108.4618,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "far",
+      "label": "Far View area",
+      "lat": 37.244,
+      "lon": -108.493,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "chap",
+      "label": "Chapin Mesa",
+      "lat": 37.169,
+      "lon": -108.487,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "weth",
+      "label": "Wetherill Mesa",
+      "lat": 37.189,
+      "lon": -108.56,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "mancos",
+      "label": "Valle del Mancos",
+      "lat": 37.35,
+      "lon": -108.4,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "dolores",
+      "label": "Valle del Dolores",
+      "lat": 37.47,
+      "lon": -108.49,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "chaco",
+      "label": "Chaco Canyon",
+      "lat": 36.06,
+      "lon": -107.96,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "far",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "villaggi sulle mesa",
+      "food": "mais e lavoro comunitario"
+    },
+    {
+      "source": "chap",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "insediamenti e campi",
+      "food": "derrate e ceramiche"
+    },
+    {
+      "source": "weth",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete locale",
+      "food": "legname e risorse selvatiche"
+    },
+    {
+      "source": "mancos",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "valle e scambi",
+      "food": "mais, argilla e pietra"
+    },
+    {
+      "source": "dolores",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete regionale",
+      "food": "ceramiche e parentela"
+    },
+    {
+      "source": "chaco",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "connessioni emergenti",
+      "food": "idee architettoniche e beni"
+    }
+  ]
+}

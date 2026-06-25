@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Seoul–Hanyang",
+      "lat": 37.5665,
+      "lon": 126.978,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "han",
+      "label": "Bacino del fiume Han",
+      "lat": 37.5,
+      "lon": 127.1,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "gye",
+      "label": "Campagne di Gyeonggi",
+      "lat": 37.3,
+      "lon": 127.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "buk",
+      "label": "Monti settentrionali",
+      "lat": 37.75,
+      "lon": 126.95,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "jeo",
+      "label": "Jeolla e pianure meridionali",
+      "lat": 35.7,
+      "lon": 127.1,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "gan",
+      "label": "Gangwon e costa orientale",
+      "lat": 37.8,
+      "lon": 128.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "chi",
+      "label": "Cina Qing e porti occidentali",
+      "lat": 39.0,
+      "lon": 121.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "han",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "barche sul fiume Han",
+      "food": "riso, legname e pesce"
+    },
+    {
+      "source": "gye",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade provinciali",
+      "food": "cereali, ortaggi e bestiame"
+    },
+    {
+      "source": "buk",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "valli montane",
+      "food": "legname, erbe e pietra"
+    },
+    {
+      "source": "jeo",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete fiscale Joseon",
+      "food": "riso, sale e tributi"
+    },
+    {
+      "source": "gan",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e rotte costiere",
+      "food": "pesce essiccato, alghe e legname"
+    },
+    {
+      "source": "chi",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "missioni e commercio tributario",
+      "food": "seta, libri e beni diplomatici"
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "nodes": [
+    {
+      "id": "env1",
+      "label": "Riva occidentale del Tigri",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "env2",
+      "label": "Canali fra Tigri ed Eufrate",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "env3",
+      "label": "Reti carovaniere e fluviali ellenistiche",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "res1",
+      "label": "Orzo, grano, sesamo e legumi",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "res2",
+      "label": "Datteri, vino, frutta e ortaggi",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "res3",
+      "label": "Ovini, caprini, bovini e pollame",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "res4",
+      "label": "Pesce del Tigri e dei canali",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "res5",
+      "label": "Olio, spezie e prodotti importati",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "acq1",
+      "label": "Agricoltura irrigua e mercati",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "acq2",
+      "label": "Allevamento e tassazione",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "acq3",
+      "label": "Pesca, navigazione e commercio",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "tr1",
+      "label": "Macinazione e panificazione",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "tr2",
+      "label": "Cottura domestica, commerciale e pubblica",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "tr3",
+      "label": "Deposito in magazzini e case",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "tr4",
+      "label": "Macellazione e distribuzione",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "out1",
+      "label": "Pasti urbani e razioni",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "out2",
+      "label": "Anfore, monete, sigilli e fauna",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "out3",
+      "label": "Ceneri, cocci e scarichi",
+      "layer": 4,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "env1",
+      "target": "res1",
+      "label": "ambiente produttivo",
+      "status": "sintesi"
+    },
+    {
+      "source": "env1",
+      "target": "res2",
+      "label": "ambiente produttivo",
+      "status": "sintesi"
+    },
+    {
+      "source": "env2",
+      "target": "res3",
+      "label": "habitat e gestione",
+      "status": "sintesi"
+    },
+    {
+      "source": "env2",
+      "target": "res4",
+      "label": "acqua e risorse",
+      "status": "sintesi"
+    },
+    {
+      "source": "env3",
+      "target": "res5",
+      "label": "paesaggio e raccolta",
+      "status": "sintesi"
+    },
+    {
+      "source": "res1",
+      "target": "acq1",
+      "label": "produzione o approvvigionamento",
+      "status": "documentato"
+    },
+    {
+      "source": "res2",
+      "target": "acq1",
+      "label": "produzione o approvvigionamento",
+      "status": "documentato"
+    },
+    {
+      "source": "res3",
+      "target": "acq2",
+      "label": "allevamento o acquisizione",
+      "status": "documentato"
+    },
+    {
+      "source": "res4",
+      "target": "acq3",
+      "label": "pesca o trasporto",
+      "status": "documentato"
+    },
+    {
+      "source": "res5",
+      "target": "acq3",
+      "label": "raccolta o scambio",
+      "status": "documentato"
+    },
+    {
+      "source": "acq1",
+      "target": "tr1",
+      "label": "trasformazione vegetale",
+      "status": "documentato"
+    },
+    {
+      "source": "acq1",
+      "target": "tr3",
+      "label": "conservazione",
+      "status": "documentato"
+    },
+    {
+      "source": "acq2",
+      "target": "tr4",
+      "label": "lavorazione animale",
+      "status": "documentato"
+    },
+    {
+      "source": "acq3",
+      "target": "tr2",
+      "label": "cottura",
+      "status": "documentato"
+    },
+    {
+      "source": "acq3",
+      "target": "tr4",
+      "label": "trattamento",
+      "status": "documentato"
+    },
+    {
+      "source": "tr1",
+      "target": "out1",
+      "label": "preparazione",
+      "status": "sintesi"
+    },
+    {
+      "source": "tr2",
+      "target": "out1",
+      "label": "cottura",
+      "status": "sintesi"
+    },
+    {
+      "source": "tr3",
+      "target": "out2",
+      "label": "depositi e reperti",
+      "status": "documentato"
+    },
+    {
+      "source": "tr4",
+      "target": "out2",
+      "label": "resti e strumenti",
+      "status": "documentato"
+    },
+    {
+      "source": "tr2",
+      "target": "out3",
+      "label": "cenere e residui",
+      "status": "documentato"
+    }
+  ]
+}

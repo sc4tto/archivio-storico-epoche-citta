@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Laguna de los Cerros — modulo multi-grafo",
+    "short_name": "Laguna de los Cerros",
+    "site": "Prime fasi di Laguna de los Cerros",
+    "modern_location": "Acayucan, Veracruz, Messico",
+    "coordinates": {
+      "lat": 18.12,
+      "lon": -94.83
+    },
+    "scope": "Insediamento ai piedi delle Tuxtlas con piattaforme, piazze e una posizione strategica fra fonti di basalto, pianure del Golfo e corridoi verso l’interno; il modulo isola le fasi formative iniziali.",
+    "version": "1.0-blocco_21_p2_mesoamerica_5_centri_v1",
+    "warning": "La maggior parte delle strutture visibili appartiene a fasi molto posteriori. L’importanza di Laguna de los Cerros come grande capitale olmeca del Formativo è stata ridimensionata da ricerche più recenti."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "LC_CYPHERS",
+      "title": "Cyphers — Laguna de los Cerros: A Terminal Classic Period Capital in the Southern Mexican Gulf Coast",
+      "url": "http://www.famsi.org/reports/01031/",
+      "use": "sequenza, topografia e revisione delle interpretazioni precedenti"
+    },
+    {
+      "id": "LC_RAMIREZ",
+      "title": "Ramírez — La obsidiana de Laguna de los Cerros: intercambio y tecnología",
+      "url": "https://repositorio.unam.mx/",
+      "use": "ossidiana, tecnologia e reti di scambio"
+    },
+    {
+      "id": "LC_POOL",
+      "title": "Pool — Olmec Archaeology and Early Mesoamerica",
+      "url": "https://doi.org/10.1017/CBO9780511812286",
+      "use": "cronologia e ruolo regionale delle prime fasi"
+    }
+  ]
+}

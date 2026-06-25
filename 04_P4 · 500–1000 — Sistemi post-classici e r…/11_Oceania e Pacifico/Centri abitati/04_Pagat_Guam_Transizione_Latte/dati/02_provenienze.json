@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Pagat",
+      "lat": 13.59,
+      "lon": 144.89,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "rit",
+      "label": "Ritidian",
+      "lat": 13.65,
+      "lon": 144.86,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "faf",
+      "label": "Fafai Beach",
+      "lat": 13.52,
+      "lon": 144.8,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "yigo",
+      "label": "Yigo e altopiano nord",
+      "lat": 13.54,
+      "lon": 144.89,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "rota",
+      "label": "Rota",
+      "lat": 14.15,
+      "lon": 145.2,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "saipan",
+      "label": "Saipan",
+      "lat": 15.19,
+      "lon": 145.75,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "palau",
+      "label": "Palau",
+      "lat": 7.5,
+      "lon": 134.58,
+      "status": "inferito",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "rit",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete costiera settentrionale",
+      "food": "pesce, persone e ceramica"
+    },
+    {
+      "source": "faf",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "connessioni lungo costa",
+      "food": "manufatti e matrimoni"
+    },
+    {
+      "source": "yigo",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "hinterland e grotte",
+      "food": "acqua e risorse forestali"
+    },
+    {
+      "source": "rota",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "navigazione nelle Marianne",
+      "food": "ceramica e beni"
+    },
+    {
+      "source": "saipan",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "rete dell’arcipelago",
+      "food": "persone e tecnologie"
+    },
+    {
+      "source": "palau",
+      "target": "ctr",
+      "status": "inferito",
+      "label": "reti micronesiane ampie",
+      "food": "beni selezionati"
+    }
+  ]
+}

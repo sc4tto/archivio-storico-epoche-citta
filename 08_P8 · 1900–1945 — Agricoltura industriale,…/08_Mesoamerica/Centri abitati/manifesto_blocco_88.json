@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_88_P8_Mesoamerica_5_Centri_v1",
+  "macroregion": "Mesoamerica",
+  "centers": [
+    "01_Citta_del_Messico_Rivoluzionaria",
+    "02_Monterrey_Industriale_Operaia",
+    "03_Guadalajara_Rivoluzionaria_Moderna",
+    "04_Citta_del_Guatemala_Terremoti_Autoritarismi",
+    "05_San_Salvador_Caffe_Dittatura"
+  ],
+  "uses_central_assets": true
+}

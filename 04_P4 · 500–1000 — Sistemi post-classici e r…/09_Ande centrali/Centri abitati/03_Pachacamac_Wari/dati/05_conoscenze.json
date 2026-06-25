@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Pachacamac nel periodo Wari",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Agricoltura costiera",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Canali della valle del Lurín",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Gestione di lomas e stagionalità",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Risorse marine",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Pesca e conservazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Navigazione costiera",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Culto e pellegrinaggio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Oracolo e offerte",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Accoglienza di gruppi diversi",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Architettura in terra",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Adobes, rampe e terrazze",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Pitture e superfici rituali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Reti interregionali",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Spondylus e beni esotici",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Relazioni con il mondo Wari",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

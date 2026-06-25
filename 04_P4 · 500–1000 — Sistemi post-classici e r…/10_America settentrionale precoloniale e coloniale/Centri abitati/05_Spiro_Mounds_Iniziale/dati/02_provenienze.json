@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Spiro Mounds",
+      "lat": 35.311,
+      "lon": -94.568,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "ark",
+      "label": "Fiume Arkansas",
+      "lat": 35.3,
+      "lon": -94.55,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "poteau",
+      "label": "Valle del Poteau",
+      "lat": 35.15,
+      "lon": -94.65,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "ozark",
+      "label": "Monti Ozark",
+      "lat": 35.8,
+      "lon": -94.2,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "gulf",
+      "label": "Costa del Golfo",
+      "lat": 29.5,
+      "lon": -90.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "miss",
+      "label": "Valle centrale del Mississippi",
+      "lat": 36.0,
+      "lon": -89.5,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "rock",
+      "label": "Montagne Rocciose meridionali",
+      "lat": 36.5,
+      "lon": -105.5,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "ark",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoio fluviale",
+      "food": "pesce, trasporto e terreni"
+    },
+    {
+      "source": "poteau",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "hinterland agricolo",
+      "food": "mais e legname"
+    },
+    {
+      "source": "ozark",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "risorse montane",
+      "food": "selce e selvaggina"
+    },
+    {
+      "source": "gulf",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "scambio meridionale",
+      "food": "conchiglie marine"
+    },
+    {
+      "source": "miss",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "rete mississippiana",
+      "food": "idee cerimoniali e beni"
+    },
+    {
+      "source": "rock",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "scambi occidentali",
+      "food": "minerali e pietre"
+    }
+  ]
+}

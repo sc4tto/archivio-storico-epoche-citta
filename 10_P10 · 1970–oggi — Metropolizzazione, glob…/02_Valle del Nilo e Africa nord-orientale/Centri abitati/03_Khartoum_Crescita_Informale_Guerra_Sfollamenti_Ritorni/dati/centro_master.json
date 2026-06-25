@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Khartoum, crescita informale, guerra, sfollamenti e ritorni",
+    "site": "Khartoum, crescita informale, guerra, sfollamenti e ritorni",
+    "modern_location": "Khartoum, Sudan",
+    "coordinates": {
+      "lat": 15.5007,
+      "lon": 32.5599
+    },
+    "scope": "Khartoum dal 1970 al 25 giugno 2026: crescita della conurbazione con Omdurman e Khartoum North, migrazioni e campi per sfollati, reti idriche fragili, alluvioni, infrastrutture petrolifere, rivoluzione del 2019 e guerra iniziata nel 2023, distruzione dei servizi, sfollamenti e ritorni in condizioni precarie.",
+    "version": "1.0",
+    "warning": "Il modulo non presume conclusa la guerra sudanese. Ritorni, ricostruzione e ripristino dei servizi sono descritti soltanto quando attestati entro il 25 giugno 2026."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "KH1",
+      "title": "UN-Habitat — Urban Sector Studies and Capacity Building for Khartoum State",
+      "use": "Crescita urbana, informalità, sfollamento e struttura metropolitana.",
+      "url": "https://unhabitat.org/sites/default/files/download-manager-files/Urban%20Sector%20Studies%20and%20Capacity%20Building%20for%20Khartoum%20State.pdf"
+    },
+    {
+      "id": "KH2",
+      "title": "World Bank — Meeting Water Demand in Growing Cities: Sudan",
+      "use": "Sottinvestimento e accesso insufficiente all’acqua potabile nella Grande Khartoum.",
+      "url": "https://ppp.worldbank.org/library/meeting-water-demand-growing-cities-ppp-project-sudan"
+    },
+    {
+      "id": "KH3",
+      "title": "UNHCR — Sudan Country Situation",
+      "use": "Sfollamento di massa, collasso dei servizi e crisi umanitaria.",
+      "url": "https://www.unhcr.org/where-we-work/countries/sudan"
+    },
+    {
+      "id": "KH4",
+      "title": "UNHCR — Three Years On, War-weary Sudanese Remain on the Move",
+      "use": "Persistenza della guerra e mobilità forzata aggiornata ad aprile 2026.",
+      "url": "https://www.unhcr.org/news/briefing-notes/three-years-war-weary-sudanese-remain-move"
+    }
+  ]
+}

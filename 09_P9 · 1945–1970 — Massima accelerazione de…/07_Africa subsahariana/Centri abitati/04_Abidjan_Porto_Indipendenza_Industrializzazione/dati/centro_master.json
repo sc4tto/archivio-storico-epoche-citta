@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Abidjan, porto, indipendenza e industrializzazione",
+    "site": "Abidjan, porto, indipendenza e industrializzazione",
+    "modern_location": "Abidjan, Côte d’Ivoire",
+    "coordinates": {
+      "lat": 5.35995,
+      "lon": -4.00826
+    },
+    "scope": "Abidjan fra 1945 e 1970: apertura del canale di Vridi nel 1950 e porto in acque profonde, indipendenza della Côte d’Ivoire nel 1960, capitale politica ed economica, industrializzazione, grandi opere, migrazione nazionale e internazionale, piani Badani e SETAP ed espansione di Treichville, Adjamé, Cocody, Marcory e Yopougon iniziale.",
+    "version": "1.0",
+    "warning": "Sono esclusi il trasferimento formale della capitale a Yamoussoukro nel 1983, i piani successivi al 1970 e l’espansione urbana tarda."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "AB1",
+      "title": "World Bank — Ivory Coast: A Basic Economic Report",
+      "use": "Crescita di Abidjan, investimenti pubblici, industrializzazione, migrazioni e servizi.",
+      "url": "https://documents1.worldbank.org/curated/en/654641468245113797/pdf/multi0page.pdf"
+    },
+    {
+      "id": "AB2",
+      "title": "World Bank — Urban Growth Model for Greater Abidjan",
+      "use": "Porto come motore urbano, piani Badani 1952 e SETAP 1960, assi di crescita e insediamenti irregolari.",
+      "url": "https://documents1.worldbank.org/curated/en/120621545029566851/txt/Urban-Growth-Model-for-Greater-Abidjan.txt"
+    },
+    {
+      "id": "AB3",
+      "title": "JICA — Project for the Development of the Urban Master Plan in Greater Abidjan",
+      "use": "Storia dei piani, porto, reti e struttura metropolitana.",
+      "url": "https://openjicareport.jica.go.jp/pdf/12230603_01.pdf"
+    },
+    {
+      "id": "AB4",
+      "title": "IRD — Urbanization in Africa: Abidjan",
+      "use": "Fasi coloniale, portuale 1950–1970 e nuova espansione urbana.",
+      "url": "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/pleins_textes_6/b_fdi_43-44/010005036.pdf"
+    }
+  ]
+}

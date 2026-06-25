@@ -1,0 +1,246 @@
+{
+  "nodes": [
+    {
+      "id": "m0",
+      "label": "Tufo vulcanico di Rano Raraku",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m1",
+      "label": "Basalto, scoria rossa e pietra costiera",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m2",
+      "label": "Legno, fibre e canne",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m3",
+      "label": "Pietrame minuto e suolo vulcanico",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "o0",
+      "label": "Scultura con toki e rifinitura",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o1",
+      "label": "Muratura degli ahu e posa delle statue",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o2",
+      "label": "Carpenteria, corde e coperture",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "o3",
+      "label": "Pacciamatura litica e costruzione di manavai",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "c0",
+      "label": "Moai, pukao e elementi scolpiti",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c1",
+      "label": "Piattaforme, rampe e muri degli ahu",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c2",
+      "label": "Case ellittiche e strutture leggere",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c3",
+      "label": "Giardini litici, recinti e percorsi",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "s0",
+      "label": "Rano Raraku e cave di scultura",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s1",
+      "label": "Ahu costieri e paesaggio ancestrale",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s2",
+      "label": "Villaggi e spazi domestici",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s3",
+      "label": "Paesaggio agricolo e produttivo",
+      "layer": 3,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m0",
+      "target": "o0",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "m0",
+      "target": "o1",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "m1",
+      "target": "o1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "m1",
+      "target": "o3",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "m2",
+      "target": "o2",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "m2",
+      "target": "o0",
+      "status": "inferito",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "m3",
+      "target": "o3",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "m3",
+      "target": "o2",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o0",
+      "target": "c0",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o0",
+      "target": "c1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o1",
+      "target": "c0",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o1",
+      "target": "c1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o2",
+      "target": "c2",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o2",
+      "target": "c0",
+      "status": "inferito",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o3",
+      "target": "c3",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o3",
+      "target": "c1",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c0",
+      "target": "s0",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c0",
+      "target": "s1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c1",
+      "target": "s0",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c1",
+      "target": "s1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c2",
+      "target": "s0",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c2",
+      "target": "s2",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c3",
+      "target": "s1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c3",
+      "target": "s2",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    }
+  ]
+}

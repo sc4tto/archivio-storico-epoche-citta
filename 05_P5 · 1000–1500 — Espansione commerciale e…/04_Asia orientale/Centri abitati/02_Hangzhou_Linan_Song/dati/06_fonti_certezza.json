@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Hangzhou divenne capitale permanente dei Song meridionali nel XII secolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "HZ3"
+  },
+  {
+    "claim": "Il Lago dell’Ovest fu trasformato attraverso dragaggi, causeway, isole e monumenti.",
+    "theme": "paesaggio",
+    "status": "documentato",
+    "source": "HZ1; HZ5"
+  },
+  {
+    "claim": "La città dipendeva dal basso Yangzi e dal Grande Canale per i rifornimenti.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "HZ2; HZ3"
+  },
+  {
+    "claim": "Il porto collegava la capitale alle reti marittime asiatiche.",
+    "theme": "reti",
+    "status": "documentato",
+    "source": "HZ3"
+  },
+  {
+    "claim": "La densità di edifici lignei aumentava il rischio di incendi.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "HZ3"
+  },
+  {
+    "claim": "La conquista Yuan non eliminò immediatamente il ruolo commerciale della città.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "HZ3"
+  },
+  {
+    "claim": "Il paesaggio del Lago dell’Ovest influenzò la progettazione dei giardini dell’Asia orientale.",
+    "theme": "cultura",
+    "status": "documentato",
+    "source": "HZ1"
+  },
+  {
+    "claim": "Le stime sulla popolazione medievale devono essere trattate con cautela.",
+    "theme": "metodo",
+    "status": "sintesi",
+    "source": "HZ3"
+  }
+]

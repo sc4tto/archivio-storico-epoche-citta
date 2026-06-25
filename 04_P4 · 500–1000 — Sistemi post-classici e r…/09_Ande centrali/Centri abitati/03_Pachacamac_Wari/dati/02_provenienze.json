@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Pachacamac",
+      "lat": -12.2553,
+      "lon": -76.9,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "lurin",
+      "label": "Valle del Lurín",
+      "lat": -12.23,
+      "lon": -76.86,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "costa",
+      "label": "Costa di Lurín",
+      "lat": -12.28,
+      "lon": -76.93,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "lima",
+      "label": "Valle del Rímac",
+      "lat": -12.05,
+      "lon": -77.04,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "wari",
+      "label": "Wari-Ayacucho",
+      "lat": -13.06,
+      "lon": -74.2,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "spond",
+      "label": "Ecuador e acque tropicali",
+      "lat": -2.2,
+      "lon": -80.9,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "nazca",
+      "label": "Costa meridionale e Nasca",
+      "lat": -14.83,
+      "lon": -74.94,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "lurin",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "agricoltura della valle",
+      "food": "mais e frutta"
+    },
+    {
+      "source": "costa",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "approvvigionamento marino",
+      "food": "pesce e molluschi"
+    },
+    {
+      "source": "lima",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti della costa centrale",
+      "food": "ceramiche e tessili"
+    },
+    {
+      "source": "wari",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "presenza e influenza del medio orizzonte",
+      "food": "ceramiche, tessili e iconografia"
+    },
+    {
+      "source": "spond",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "scambi a lunga distanza",
+      "food": "conchiglie spondylus"
+    },
+    {
+      "source": "nazca",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "corridoi costieri meridionali",
+      "food": "tessili e prodotti agricoli"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Frequentazioni pleistoceniche",
+    "Uso costiero dell’Olocene iniziale",
+    "Insediamento preceramico",
+    "Cotone, reti e tessili",
+    "Fasi finali e trasformazioni"
+  ],
+  "items": [
+    {
+      "id": "early",
+      "label": "Frequentazioni intermittenti della costa",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "marine",
+      "label": "Pesca e raccolta marina",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "hearth",
+      "label": "Focolari e superfici domestiche",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Strutture seminterrate",
+      "lane": "Abitative",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "fibres",
+      "label": "Intreccio, reti e tessili",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "cotton",
+      "label": "Uso crescente del cotone",
+      "lane": "Produttive",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "midden",
+      "label": "Accumulo del monticolo e rifiuti",
+      "lane": "Trasformazione",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

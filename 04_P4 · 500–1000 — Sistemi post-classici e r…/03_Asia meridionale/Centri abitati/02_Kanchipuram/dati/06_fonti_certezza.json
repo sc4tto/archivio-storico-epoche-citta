@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Kanchipuram conserva importanti templi pallava",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "KAN_UNESCO"
+  },
+  {
+    "claim": "Kailasanatha risale alla fase pallava fra VII e VIII secolo",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "KAN_UNESCO"
+  },
+  {
+    "claim": "Vaikuntha Perumal appartiene all’VIII secolo",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "KAN_UNESCO"
+  },
+  {
+    "claim": "La città ospitò tradizioni religiose multiple",
+    "theme": "Religioni",
+    "status": "documentato",
+    "source": "KAN_UNESCO"
+  },
+  {
+    "claim": "Tutti i grandi gopuram oggi visibili appartengono al P4",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Molti sono tardo-medievali"
+  },
+  {
+    "claim": "La topografia dell’abitato pallava è integralmente nota",
+    "theme": "Urbanistica",
+    "status": "non_documentato",
+    "source": "La città moderna copre gran parte dei livelli antichi"
+  },
+  {
+    "claim": "Mamallapuram collegava Kanchipuram al Golfo del Bengala",
+    "theme": "Reti",
+    "status": "sintesi",
+    "source": "KAN_UNESCO"
+  },
+  {
+    "claim": "I templi erano anche nodi economici e sociali",
+    "theme": "Società",
+    "status": "sintesi",
+    "source": "KAN_STEIN"
+  }
+]

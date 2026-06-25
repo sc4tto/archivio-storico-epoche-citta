@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Londra industriale e vittoriana",
+    "site": "Londra industriale e vittoriana",
+    "modern_location": "Londra, Regno Unito",
+    "coordinates": {
+      "lat": 51.5074,
+      "lon": -0.1278
+    },
+    "scope": "Londra fra 1800 e 1900: governo e finanza, porto e commercio mondiale, ferrovia e metropolitana, edilizia vittoriana, sanità urbana, quartieri operai e cultura industriale.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Guerre mondiali, ricostruzione postbellica, deindustrializzazione portuale e Greater London contemporanea sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "LO1",
+      "title": "UNESCO — Palace of Westminster and Westminster Abbey",
+      "use": "Ricostruzione ottocentesca, neogotico e istituzioni parlamentari.",
+      "url": "https://whc.unesco.org/en/list/426/"
+    },
+    {
+      "id": "LO2",
+      "title": "London Museum",
+      "use": "Società, lavoro, trasporti e vita urbana nel XIX secolo.",
+      "url": "https://www.londonmuseum.org.uk/"
+    },
+    {
+      "id": "LO3",
+      "title": "London Metropolitan Archives",
+      "use": "Mappe, amministrazione, edilizia e sanità urbana.",
+      "url": "https://www.cityoflondon.gov.uk/things-to-do/history-and-heritage/london-metropolitan-archives"
+    },
+    {
+      "id": "LO4",
+      "title": "Historic England",
+      "use": "Patrimonio industriale, stazioni, docks e quartieri storici.",
+      "url": "https://historicengland.org.uk/"
+    },
+    {
+      "id": "LO5",
+      "title": "UK Parliament — History",
+      "use": "Parlamento, riforme politiche e Palazzo di Westminster.",
+      "url": "https://www.parliament.uk/about/living-heritage/"
+    }
+  ]
+}

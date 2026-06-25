@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Chang’an fu la capitale principale degli Han occidentali",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "CHA_BOOK"
+  },
+  {
+    "claim": "Weiyang Palace è una componente del corridoio UNESCO della Via della Seta",
+    "theme": "Patrimonio",
+    "status": "documentato",
+    "source": "CHA_UNESCO"
+  },
+  {
+    "claim": "La città era collegata alle rotte transasiatiche attive dal II secolo a.C.",
+    "theme": "Reti",
+    "status": "documentato",
+    "source": "CHA_UNESCO"
+  },
+  {
+    "claim": "La burocrazia Han si fondò sempre più su formazione classica e confuciana",
+    "theme": "Amministrazione",
+    "status": "documentato",
+    "source": "CHA_MET"
+  },
+  {
+    "claim": "Produzioni di ferro, lacca e seta sostennero economia e tributi",
+    "theme": "Produzione",
+    "status": "documentato",
+    "source": "CHA_MET"
+  },
+  {
+    "claim": "La Chang’an Han aveva lo stesso impianto della capitale Tang",
+    "theme": "Urbanistica",
+    "status": "non_documentato",
+    "source": "Città di epoche e piante differenti"
+  },
+  {
+    "claim": "Ogni quartiere è archeologicamente localizzato con precisione",
+    "theme": "Topografia",
+    "status": "non_documentato",
+    "source": "Scavi e fonti sono incompleti"
+  },
+  {
+    "claim": "Il buddhismo era già la religione dominante della corte Han occidentale",
+    "theme": "Religione",
+    "status": "non_documentato",
+    "source": "Diffusione più tarda e graduale"
+  }
+]

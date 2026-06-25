@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Unguja Ukuu",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0_sea",
+      "label": "Navigazione costiera",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0_monsoon",
+          "label": "Stagioni dei monsoni e cabotaggio",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1_reefknow",
+          "label": "Lagune, reef e approdi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1_food",
+      "label": "Ecologia alimentare",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0_fishknow",
+          "label": "Pesca e raccolta marina",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1_farmknow",
+          "label": "Colture e allevamento insulare",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2_craft",
+      "label": "Artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0_beads",
+          "label": "Perline e lavorazione di materiali",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1_iron",
+          "label": "Ferro e utensili",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3_building",
+      "label": "Costruzione costiera",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0_posts",
+          "label": "Strutture lignee e coperture",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1_wellsci",
+          "label": "Scavo e manutenzione dei pozzi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4_exchange",
+      "label": "Scambio oceanico",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0_goods",
+          "label": "Riconoscimento di merci importate",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_1_hospitality",
+          "label": "Accoglienza di equipaggi e mercanti",
+          "status": "inferito"
+        }
+      ]
+    }
+  ]
+}

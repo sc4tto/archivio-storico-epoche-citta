@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Alessandria",
+      "lat": 31.2001,
+      "lon": 29.9187,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "kom",
+      "label": "Kom el-Dikka",
+      "lat": 31.198,
+      "lon": 29.907,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "delta",
+      "label": "Delta del Nilo",
+      "lat": 30.9,
+      "lon": 30.8,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "fustat",
+      "label": "Fustat",
+      "lat": 30.005,
+      "lon": 31.23,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "constantinople",
+      "label": "Costantinopoli",
+      "lat": 41.01,
+      "lon": 28.98,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "cyrenaica",
+      "label": "Cirenaica",
+      "lat": 32.65,
+      "lon": 21.85,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "kom",
+      "target": "site",
+      "label": "istruzione, terme e attività urbane",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "delta",
+      "target": "site",
+      "label": "cereali, lino e trasporto fluviale",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "fustat",
+      "target": "site",
+      "label": "amministrazione, merci e mobilità",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "constantinople",
+      "target": "site",
+      "label": "rotte mediterranee, testi e beni di lusso",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "cyrenaica",
+      "target": "site",
+      "label": "olio, vino e traffici costieri",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

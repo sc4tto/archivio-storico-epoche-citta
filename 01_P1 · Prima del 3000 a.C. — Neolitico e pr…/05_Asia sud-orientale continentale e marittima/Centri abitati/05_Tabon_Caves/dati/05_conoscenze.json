@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Tabon Caves",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Paesaggio insulare",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Grotte di Lipuun",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Mangrovie e estuari",
+          "status": "sintesi"
+        },
+        {
+          "id": "k1_3",
+          "label": "Mobilità costiera",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Caccia e raccolta",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Fauna terrestre",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Piante forestali",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_3",
+          "label": "Stagionalità",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Pesca",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Risorse estuarine",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_2",
+          "label": "Molluschi",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_3",
+          "label": "Tecniche di cattura",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Tecnologia litica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Produzione di schegge",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Trasporto della materia prima",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Uso differenziato degli utensili",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Pratiche funerarie",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Resti umani antichi",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Sepolture in giara tarde",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Simbolismo funerario del P1",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Navigazione e reti",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Contatti con Borneo",
+          "status": "inferito"
+        },
+        {
+          "id": "k6_2",
+          "label": "Mobilità insulare",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_3",
+          "label": "Commercio organizzato nel P1",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

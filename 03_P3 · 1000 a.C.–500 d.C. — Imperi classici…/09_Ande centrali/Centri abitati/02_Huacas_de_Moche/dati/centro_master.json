@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Huacas de Moche — modulo multi-grafo",
+    "short_name": "Huacas de Moche",
+    "site": "Huacas del Sol e de la Luna e città di Moche",
+    "modern_location": "Valle del Moche, La Libertad, Perù",
+    "coordinates": {
+      "lat": -8.135,
+      "lon": -78.995
+    },
+    "scope": "Complesso urbano e cerimoniale moche con due grandi huacas in adobe, quartieri residenziali e produttivi, piazze, canali e una ricca documentazione di pittura murale, ceramica, metallurgia e rituali.",
+    "version": "1.0-blocco_34_p3_ande_centrali_5_centri_v1",
+    "warning": "Le Huacas del Sol e della Luna ebbero funzioni diverse e furono trasformate ripetutamente. Le scene iconografiche non sono una cronaca letterale e il quadro politico moche non corrisponde necessariamente a un unico impero centralizzato."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "MOCHE_PROJECT",
+      "title": "Proyecto Arqueológico Huacas de Moche",
+      "url": "https://huacasdemoche.pe/",
+      "use": "scavi, conservazione, architettura e quartieri"
+    },
+    {
+      "id": "MOCHE_MUSEUM",
+      "title": "Ministerio de Cultura — Museo de Sitio Huacas de Moche",
+      "url": "https://museos.cultura.pe/",
+      "use": "collezioni e divulgazione istituzionale"
+    },
+    {
+      "id": "MOCHE_QUILTER",
+      "title": "Jeffrey Quilter — The Moche of Ancient Peru",
+      "url": "https://search.worldcat.org/search?q=The+Moche+of+Ancient+Peru+Quilter",
+      "use": "società, rituali, economia e dibattiti"
+    }
+  ]
+}

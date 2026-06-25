@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Cusco fu la capitale politica e rituale del Tawantinsuyu.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "CU1; CU3"
+  },
+  {
+    "claim": "La grande riorganizzazione monumentale appartiene soprattutto al XV secolo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "CU1; CU3"
+  },
+  {
+    "claim": "Kancha, palazzi e templi organizzavano il tessuto urbano.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "CU1; CU5"
+  },
+  {
+    "claim": "Strade radiali collegavano la capitale ai quattro suyus.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "CU2"
+  },
+  {
+    "claim": "Terrazze, canali e drenaggi erano integrati all’architettura.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "CU1; CU5"
+  },
+  {
+    "claim": "La redistribuzione impiegava qollqa, mit’a e reti stradali.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "CU2; CU4"
+  },
+  {
+    "claim": "Le liste dinastiche antiche non sono trattate come cronologia assoluta.",
+    "theme": "metodo",
+    "status": "sintesi",
+    "source": "CU3; CU4"
+  },
+  {
+    "claim": "Le sovrapposizioni coloniali sono escluse dal modello costruttivo.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "CU1"
+  }
+]

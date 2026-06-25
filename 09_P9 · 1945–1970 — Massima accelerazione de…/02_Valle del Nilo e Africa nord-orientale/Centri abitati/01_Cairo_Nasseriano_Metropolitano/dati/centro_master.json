@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Cairo nasseriano, industriale e metropolitano",
+    "site": "Cairo nasseriano, industriale e metropolitano",
+    "modern_location": "Cairo, Egitto",
+    "coordinates": {
+      "lat": 30.0444,
+      "lon": 31.2357
+    },
+    "scope": "Cairo fra 1945 e 1970: fine della monarchia, rivoluzione del 1952, governo di Nasser, industrializzazione, istruzione di massa, edilizia pubblica e crescita dell’agglomerazione.",
+    "version": "1.0",
+    "warning": "Sono escluse le nuove città desertiche avviate dopo il 1970, la metropolitana inaugurata nel 1987 e le espansioni metropolitane più recenti."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "CA1",
+      "title": "UNESCO — Historic Cairo",
+      "use": "Continuità del centro storico e pressioni della crescita moderna.",
+      "url": "https://whc.unesco.org/en/list/89/"
+    },
+    {
+      "id": "CA2",
+      "title": "Encyclopaedia Britannica — Cairo",
+      "use": "Storia politica, demografia, industria e infrastrutture.",
+      "url": "https://www.britannica.com/place/Cairo"
+    },
+    {
+      "id": "CA3",
+      "title": "CAPMAS — Central Agency for Public Mobilization and Statistics",
+      "use": "Popolazione, censimenti e crescita urbana egiziana.",
+      "url": "https://www.capmas.gov.eg/"
+    },
+    {
+      "id": "CA4",
+      "title": "Bibliotheca Alexandrina — Memory of Modern Egypt",
+      "use": "Fonti fotografiche e documentarie sulla modernizzazione egiziana.",
+      "url": "https://modernegypt.bibalex.org/"
+    }
+  ]
+}

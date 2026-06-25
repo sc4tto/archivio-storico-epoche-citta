@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Snaketown–Huhugam preclassica",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Irrigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Canali di lunga durata",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Ripartizione e manutenzione dell’acqua",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Case seminterrate",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Ramadas e strutture leggere",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Ceramica red-on-buff",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Ornamenti in conchiglia",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Agricoltura desertica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Mais, fagioli e cotone",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Uso di mesquite e agave",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Reti sociali",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Campi da gioco",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Scambi con regioni lontane",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

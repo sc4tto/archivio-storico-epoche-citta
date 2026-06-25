@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "La riforma Transantiago mirò a integrare e rendere più sostenibile il trasporto pubblico metropolitano.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "SA1"
+  },
+  {
+    "claim": "Red Movilidad integra autobus, Metro e treno suburbano con tariffazione coordinata.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "SA2"
+  },
+  {
+    "claim": "Il Piano climatico regionale fissa obiettivi 2030 e 2050 come orizzonti futuri.",
+    "theme": "clima",
+    "status": "documentato",
+    "source": "SA3"
+  },
+  {
+    "claim": "L’OHCHR documentò gravi violazioni dei diritti umani durante la crisi del 2019.",
+    "theme": "diritti",
+    "status": "documentato",
+    "source": "SA4"
+  },
+  {
+    "claim": "Gli obiettivi climatici 2030–2050 sono presentati come piano futuro, non come risultato già raggiunto.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "SA3"
+  },
+  {
+    "claim": "Santiago è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Repressione, segregazione, disuguaglianze abitative e costi sociali delle infrastrutture non sono neutralizzati.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

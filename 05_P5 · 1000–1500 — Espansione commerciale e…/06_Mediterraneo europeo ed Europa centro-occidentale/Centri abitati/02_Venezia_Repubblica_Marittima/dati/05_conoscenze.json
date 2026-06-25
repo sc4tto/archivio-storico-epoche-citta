@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Venezia, repubblica marittima",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Idraulica lagunare",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Canali, rive e bonifiche",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Gestione di maree e sedimenti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Carpenteria navale",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Convogli e pilotaggio",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Fondaci, dazi e assicurazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Contabilità mercantile",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Fondazioni su pali",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Pietra d’Istria e laterizio",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Governo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Magistrature repubblicane",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Gestione dell’Arsenale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

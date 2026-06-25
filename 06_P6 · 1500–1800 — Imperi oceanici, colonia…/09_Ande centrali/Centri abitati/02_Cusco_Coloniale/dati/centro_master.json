@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Cusco coloniale",
+    "site": "Cusco coloniale",
+    "modern_location": "Cusco, Perù",
+    "coordinates": {
+      "lat": -13.5319,
+      "lon": -71.9675
+    },
+    "scope": "Cusco fra 1533 e 1800: piazza, cattedrale, conventi, parrocchie, quartieri, mercati, manifatture e persistenza delle infrastrutture e delle murature inca.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1800. Indipendenza, ricostruzioni repubblicane, turismo moderno e restauri contemporanei sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "CU1",
+      "title": "UNESCO — City of Cuzco",
+      "use": "Sovrapposizione inca-coloniale e patrimonio urbano.",
+      "url": "https://whc.unesco.org/en/list/273/"
+    },
+    {
+      "id": "CU2",
+      "title": "Encyclopaedia Britannica — Cuzco",
+      "use": "Storia della città e trasformazione coloniale.",
+      "url": "https://www.britannica.com/place/Cuzco"
+    },
+    {
+      "id": "CU3",
+      "title": "Ministerio de Cultura del Perú — Dirección Desconcentrada de Cultura Cusco",
+      "use": "Monumenti, archeologia e conservazione.",
+      "url": "https://www.gob.pe/cultura"
+    },
+    {
+      "id": "CU4",
+      "title": "UNESCO — Qhapaq Ñan",
+      "use": "Reti stradali andine e connessioni regionali.",
+      "url": "https://whc.unesco.org/en/list/1459/"
+    },
+    {
+      "id": "CU5",
+      "title": "Archivo Regional del Cusco",
+      "use": "Documentazione coloniale e storia sociale regionale.",
+      "url": "https://www.gob.pe/regioncusco"
+    }
+  ]
+}

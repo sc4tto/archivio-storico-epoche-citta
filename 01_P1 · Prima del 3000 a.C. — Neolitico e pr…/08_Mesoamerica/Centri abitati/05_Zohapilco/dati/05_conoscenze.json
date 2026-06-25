@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Zohapilco",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Ambiente lacustre",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Pesca",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Uccelli acquatici",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Piante di palude",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Litica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Ossidiana",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_2",
+          "label": "Scheggiatura",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Macinazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Ceramica",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Selezione dell’argilla",
+          "status": "inferito"
+        },
+        {
+          "id": "k3_2",
+          "label": "Foggiatura",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_3",
+          "label": "Cronologia iniziale",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Piante",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Teosinte o mais",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_2",
+          "label": "Amaranto e semi",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Coltivazione iniziale",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Insediamento",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Uso ripetuto",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Presenza multistagionale",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_3",
+          "label": "Sedentarietà piena",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Rischi",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Variazioni del lago",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_2",
+          "label": "Attività vulcanica",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_3",
+          "label": "Riorganizzazione del sito",
+          "status": "inferito"
+        }
+      ]
+    }
+  ]
+}

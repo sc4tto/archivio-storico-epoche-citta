@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Honolulu divenne capitale e porto centrale del regno hawaiano.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "HO1; HO4"
+  },
+  {
+    "claim": "ʻIolani Palace rappresenta la monarchia hawaiana tardo-ottocentesca.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "HO1; HO4"
+  },
+  {
+    "claim": "Piantagioni e commercio transpacifico trasformarono lavoro e territorio.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "HO2; HO5"
+  },
+  {
+    "claim": "Epidemie e malattie introdotte ebbero effetti devastanti sulla popolazione Kanaka ʻŌiwi.",
+    "theme": "sanità",
+    "status": "documentato",
+    "source": "HO2; HO3"
+  },
+  {
+    "claim": "Il rovesciamento del 1893 fu un processo coercitivo legato a interessi coloniali e mercantili.",
+    "theme": "coercizione",
+    "status": "documentato",
+    "source": "HO1; HO3"
+  },
+  {
+    "claim": "L’annessione statunitense del 1898 chiude il modulo ottocentesco.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "HO3; HO4"
+  },
+  {
+    "claim": "Le comunità hawaiane mantennero sovranità culturale e resistenza.",
+    "theme": "indigeni",
+    "status": "documentato",
+    "source": "HO2; HO4"
+  },
+  {
+    "claim": "Pearl Harbor novecentesca e turismo di massa sono esclusi.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "HO3"
+  }
+]

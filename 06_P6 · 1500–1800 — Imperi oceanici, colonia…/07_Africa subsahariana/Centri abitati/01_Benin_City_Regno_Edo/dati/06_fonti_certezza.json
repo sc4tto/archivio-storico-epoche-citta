@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Benin City fu la principale città del regno Edo di Benin.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "BE1"
+  },
+  {
+    "claim": "Il palazzo dell’oba costituiva il centro politico e rituale.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "BE1; BE2"
+  },
+  {
+    "claim": "Fossati e terrapieni articolavano la difesa e il territorio urbano.",
+    "theme": "difesa",
+    "status": "documentato",
+    "source": "BE1"
+  },
+  {
+    "claim": "Corporazioni specializzate producevano ottone, avorio e altri beni di corte.",
+    "theme": "artigianato",
+    "status": "documentato",
+    "source": "BE2; BE3"
+  },
+  {
+    "claim": "Gli scambi con la costa atlantica portarono metalli e beni importati.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "BE2; BE3"
+  },
+  {
+    "claim": "Mercati e tributi sostenevano l’approvvigionamento della capitale.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "BE1; BE4"
+  },
+  {
+    "claim": "La città mantenne una forte continuità politica fino al XIX secolo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "BE1"
+  },
+  {
+    "claim": "La distruzione britannica del 1897 è fuori dal periodo del modulo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "BE1; BE3"
+  }
+]

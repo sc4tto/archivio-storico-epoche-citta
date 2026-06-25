@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Insediamento iniziale",
+    "Prime costruzioni rituali",
+    "Ampliamento del Tempio Antico",
+    "Gallerie e drenaggi",
+    "Sviluppi posteriori al 1000 a.C."
+  ],
+  "items": [
+    {
+      "id": "oldtemple",
+      "label": "Prime strutture del Tempio Antico",
+      "lane": "Monumentali",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "plaza",
+      "label": "Piazze e terrazze",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "galleries",
+      "label": "Gallerie interne",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "drains",
+      "label": "Canali e drenaggi",
+      "lane": "Tecniche",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "settlement",
+      "label": "Insediamento circostante",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "pilgrimage",
+      "label": "Afflusso di visitatori",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "later",
+      "label": "Fasi mature posteriori",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

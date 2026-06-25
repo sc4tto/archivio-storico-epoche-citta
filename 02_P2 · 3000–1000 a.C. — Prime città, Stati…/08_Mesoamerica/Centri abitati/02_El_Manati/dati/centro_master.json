@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "El Manatí — modulo multi-grafo",
+    "short_name": "El Manatí",
+    "site": "Deposito rituale olmeco di El Manatí",
+    "modern_location": "Hidalgotitlán, Veracruz, Messico",
+    "coordinates": {
+      "lat": 17.65,
+      "lon": -94.67
+    },
+    "scope": "Luogo rituale presso una sorgente e un ambiente umido, con deposizioni di asce di pietra verde, palle di gomma, busti lignei, pigmenti, resti botanici e ossa, conservati in condizioni anaerobiche.",
+    "version": "1.0-blocco_21_p2_mesoamerica_5_centri_v1",
+    "warning": "El Manatí non è un centro urbano. Le deposizioni appartengono a più fasi e la funzione di ogni oggetto, incluse le palle di gomma e i busti lignei, non può essere ricostruita con certezza."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "EM_HOSLER",
+      "title": "Hosler, Burkett e Tarkanian — Prehistoric Polymers: Rubber Processing in Ancient Mesoamerica",
+      "url": "https://www.science.org/doi/10.1126/science.284.5422.1988",
+      "use": "composizione e lavorazione della gomma"
+    },
+    {
+      "id": "EM_TARKANIAN",
+      "title": "Tarkanian e Hosler — America’s First Polymer Scientists",
+      "url": "https://doi.org/10.7183/1045-6635.22.4.469",
+      "use": "tecnologia, uso e trasporto della gomma"
+    },
+    {
+      "id": "EM_ORTIZ",
+      "title": "Ortiz e Rodríguez — The Sacred Hill of El Manatí",
+      "url": "https://search.worldcat.org/search?q=The+Sacred+Hill+of+El+Manati",
+      "use": "fasi, deposizioni, sculture lignee e contesto rituale"
+    }
+  ]
+}

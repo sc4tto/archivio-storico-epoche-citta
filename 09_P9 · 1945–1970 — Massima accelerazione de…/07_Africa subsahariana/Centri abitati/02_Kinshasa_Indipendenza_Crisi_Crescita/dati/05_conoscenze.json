@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Kinshasa, indipendenza, crisi e crescita urbana",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Urbanistica e territorio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Cités, quartieri pianificati, boulevard e zonizzazione coloniale",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Espansione orientale, erosione, drenaggio e uso del suolo",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Fiume e logistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Porto fluviale, battelli, ferrovia per Matadi e aeroporti",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Mercati, magazzini, reti nazionali e approvvigionamento",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Istituzioni e politica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Amministrazione coloniale, governo indipendente e regime Mobutu",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Decolonizzazione, crisi congolese, polizia ed esercito",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Kinois, lavoratori, migranti, donne di mercato e associazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Musica, chiese, partiti, sindacati e reti linguistiche",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Crisi e coercizione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Segregazione coloniale, repressione del 1959 e violenza politica",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Sgomberi, precarietà, disuguaglianza e servizi insufficienti",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

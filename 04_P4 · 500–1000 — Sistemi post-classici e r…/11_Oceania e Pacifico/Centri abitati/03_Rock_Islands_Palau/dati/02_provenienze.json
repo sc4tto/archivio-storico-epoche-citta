@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Ulong e villaggi della laguna",
+      "lat": 7.18,
+      "lon": 134.28,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "eil",
+      "label": "Eil Malk",
+      "lat": 7.16,
+      "lon": 134.38,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "nger",
+      "label": "Ngeruktabel",
+      "lat": 7.26,
+      "lon": 134.39,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "pele",
+      "label": "Peleliu",
+      "lat": 7.01,
+      "lon": 134.25,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "babel",
+      "label": "Babeldaob",
+      "lat": 7.5,
+      "lon": 134.58,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "yap",
+      "label": "Yap",
+      "lat": 9.54,
+      "lon": 138.13,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "guam",
+      "label": "Marianne",
+      "lat": 13.45,
+      "lon": 144.75,
+      "status": "inferito",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "eil",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete lagunare",
+      "food": "pesce, frutti e persone"
+    },
+    {
+      "source": "nger",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "mobilità fra isole",
+      "food": "legname e derrate"
+    },
+    {
+      "source": "pele",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "passaggi meridionali",
+      "food": "pesce e materiali"
+    },
+    {
+      "source": "babel",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "connessione con l’isola maggiore",
+      "food": "taro, ceramica e pietra"
+    },
+    {
+      "source": "yap",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "reti micronesiane",
+      "food": "beni e conoscenze nautiche"
+    },
+    {
+      "source": "guam",
+      "target": "ctr",
+      "status": "inferito",
+      "label": "connessioni a lunga distanza",
+      "food": "manufatti selezionati"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Città del Messico",
+      "lat": 19.4326,
+      "lon": -99.1332,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "val",
+      "label": "Valle del Messico",
+      "lat": 19.5,
+      "lon": -99.05,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "tol",
+      "label": "Toluca e Stato del Messico",
+      "lat": 19.28,
+      "lon": -99.65,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "baj",
+      "label": "Bajío",
+      "lat": 20.7,
+      "lon": -101.0,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "pue",
+      "label": "Puebla e Tlaxcala",
+      "lat": 19.04,
+      "lon": -98.2,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "ver",
+      "label": "Veracruz e Golfo",
+      "lat": 19.17,
+      "lon": -96.13,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "nac",
+      "label": "Rete nazionale messicana",
+      "lat": 23.0,
+      "lon": -102.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "val",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade, canali residui e autocarri",
+      "food": "verdure, latte, uova, materiali e lavoratori"
+    },
+    {
+      "source": "tol",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie, autobus e camion",
+      "food": "cereali, carne, latte e pendolari"
+    },
+    {
+      "source": "baj",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e autostrade",
+      "food": "grano, ortaggi, carne e manufatti"
+    },
+    {
+      "source": "pue",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e ferrovia",
+      "food": "mais, tessili, frutta e manodopera"
+    },
+    {
+      "source": "ver",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e strade dal Golfo",
+      "food": "zucchero, caffè, agrumi, petrolio e importazioni"
+    },
+    {
+      "source": "nac",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti ferroviarie, aeree e camionistiche",
+      "food": "migranti, alimenti, combustibili e merci"
+    }
+  ]
+}

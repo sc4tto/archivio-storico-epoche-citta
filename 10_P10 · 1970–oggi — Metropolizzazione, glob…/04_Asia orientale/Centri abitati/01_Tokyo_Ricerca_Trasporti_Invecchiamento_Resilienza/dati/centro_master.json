@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Tokyo, ricerca, trasporti, invecchiamento e resilienza",
+    "site": "Tokyo, ricerca, trasporti, invecchiamento e resilienza",
+    "modern_location": "Tokyo, Giappone",
+    "coordinates": {
+      "lat": 35.6762,
+      "lon": 139.6503
+    },
+    "scope": "Tokyo dal 1970 al 25 giugno 2026: trasformazione postindustriale, centralità finanziaria e della ricerca, rete ferroviaria ad alta capacità, riqualificazione dei waterfront, bolla immobiliare e sua crisi, invecchiamento demografico, digitalizzazione, decarbonizzazione e preparazione a terremoti, tifoni e piogge estreme.",
+    "version": "1.0",
+    "warning": "La Tokyo 2050 Strategy e gli interventi con orizzonte 2035 o 2050 sono registrati come strategie e progetti futuri, non come risultati già conseguiti."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "TO1",
+      "title": "Tokyo Metropolitan Government — Urban Development in Tokyo",
+      "use": "Trasporti, riqualificazione, edilizia, verde e sviluppo urbano resistente ai disastri.",
+      "url": "https://www.toshiseibi.metro.tokyo.lg.jp/pamphlet/pdf/udt2011english.pdf"
+    },
+    {
+      "id": "TO2",
+      "title": "Tokyo Metropolitan Government — Earthquake Risk Assessment",
+      "use": "Valutazione del rischio di crollo e incendio nelle comunità urbanizzate.",
+      "url": "https://www.funenka.metro.tokyo.lg.jp/2024/02/kikendo_english.pdf"
+    },
+    {
+      "id": "TO3",
+      "title": "Tokyo Metropolitan Government — Tokyo 2050 Strategy",
+      "use": "Strategia di lungo periodo, transizione demografica, tecnologia e obiettivi futuri.",
+      "url": "https://www.english.metro.tokyo.lg.jp/w/000-101-004130"
+    },
+    {
+      "id": "TO4",
+      "title": "Tokyo Metropolitan Government — A Disaster-Resilient City: Tokyo’s Model",
+      "use": "Infrastrutture, preparazione comunitaria e tecnologie per la resilienza.",
+      "url": "https://tokyo-resilience.metro.tokyo.lg.jp/wp-content/uploads/2026/04/Resilience_Initiatives_in_Tokyo.pdf"
+    }
+  ]
+}

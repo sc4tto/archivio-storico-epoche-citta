@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1945–1949",
+    "1950–1954",
+    "1955–1959",
+    "1960–1964",
+    "1965–1970"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Produzione industriale e logistica elevate nel primo dopoguerra",
+      "lane": "Economia",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Seconda Grande Migrazione afroamericana e crescita messicana",
+      "lane": "Demografia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Costruzione di Eisenhower, Kennedy e Dan Ryan Expressways",
+      "lane": "Mobilità",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Espansione dei grandi complessi della Chicago Housing Authority",
+      "lane": "Abitazione",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Urban renewal e ampliamento universitario nel South Side",
+      "lane": "Pianificazione",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Segregazione immobiliare e opposizione bianca all’edilizia integrata",
+      "lane": "Segregazione",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Chicago Freedom Movement del 1965–1966",
+      "lane": "Diritti civili",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Proteste e repressione durante il 1968",
+      "lane": "Conflitto politico",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

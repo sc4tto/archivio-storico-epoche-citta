@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Trowulan è identificato con la capitale del regno di Majapahit.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "TR1; TR2"
+  },
+  {
+    "claim": "Il sito mostra insediamenti, rituali, attività industriali, mercati e sepolture.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "TR1"
+  },
+  {
+    "claim": "Canali, bacini e dighe organizzavano acqua e spazio urbano.",
+    "theme": "idraulica",
+    "status": "documentato",
+    "source": "TR1; TR5"
+  },
+  {
+    "claim": "Majapahit raggiunse il massimo sviluppo politico nel XIV secolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "TR2"
+  },
+  {
+    "claim": "Mattoni rossi e terracotta caratterizzano gran parte della cultura materiale.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "TR1; TR4"
+  },
+  {
+    "claim": "La capitale riceveva tributi e merci da una vasta rete insulare.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "TR2; TR3"
+  },
+  {
+    "claim": "La pianta completa del palazzo resta oggetto di ricostruzione.",
+    "theme": "metodo",
+    "status": "sintesi",
+    "source": "TR1"
+  },
+  {
+    "claim": "Risaie, bacini e mercati sostenevano la popolazione della capitale.",
+    "theme": "alimentazione",
+    "status": "sintesi",
+    "source": "TR1; TR5"
+  }
+]

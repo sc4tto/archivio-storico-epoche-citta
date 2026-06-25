@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Fra il 1940 e il 1970 Monterrey aumentò e diversificò notevolmente il proprio apparato manifatturiero.",
+    "theme": "industria",
+    "status": "documentato",
+    "source": "MT1"
+  },
+  {
+    "claim": "La crescita industriale e demografica estese la città verso comuni vicini, formando una struttura metropolitana.",
+    "theme": "urbanizzazione",
+    "status": "documentato",
+    "source": "MT3; MT4"
+  },
+  {
+    "claim": "La domanda di alloggi superò l’offerta infrastrutturata e favorì la permanenza di tejabanes e autocostruzione operaia.",
+    "theme": "abitazione",
+    "status": "documentato",
+    "source": "MT2"
+  },
+  {
+    "claim": "Le reti ferroviarie e stradali integrarono industrie, bacini minerari, mercati nazionali e frontiera statunitense.",
+    "theme": "reti",
+    "status": "sintesi",
+    "source": "MT1; MT3"
+  },
+  {
+    "claim": "La prosperità industriale coesistette con forti differenze nell’accesso ad acqua, abitazione e servizi.",
+    "theme": "disuguaglianza",
+    "status": "sintesi",
+    "source": "MT2; MT4"
+  },
+  {
+    "claim": "Monterrey, industria pesante e metropoli dei lavoratori è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "La precarietà dei tejabanes, l’insicurezza abitativa e la segregazione socioeconomica nell’accesso ad acqua e servizi non sono presentate come scelte culturali dei lavoratori, ma come esiti di crescita industriale, bassi salari, mercato fondiario e insufficiente pianificazione pubblica.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

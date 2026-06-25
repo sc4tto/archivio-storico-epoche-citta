@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Città del Messico vicereale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Bacino e idraulica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Chinampas, canali e calzadas",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Drenaggio, argini e acquedotti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Governo vicereale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Viceré, audiencia e cabildo",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Fiscalità, polizia e approvvigionamento",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Tezontle, cantera e calce",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Fondazioni in terreno lacustre",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Mercati e mestieri",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Alhóndiga, tianguis e botteghe",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Corporazioni e lavoro indigeno",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Religione e istruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Cattedrale, conventi e parrocchie",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Collegi, stampa e università",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

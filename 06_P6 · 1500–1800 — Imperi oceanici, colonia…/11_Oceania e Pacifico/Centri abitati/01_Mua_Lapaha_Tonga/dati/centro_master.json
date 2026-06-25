@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Muʻa–Lapaha, capitale tongana",
+    "site": "Muʻa–Lapaha, capitale tongana",
+    "modern_location": "Muʻa, Tongatapu, Tonga",
+    "coordinates": {
+      "lat": -21.1715,
+      "lon": -175.114
+    },
+    "scope": "Muʻa–Lapaha fra 1500 e 1800: capitale rituale e politica tongana, tombe reali, navigazione d’altura, redistribuzione tributaria e rapporti fra le linee Tuʻi Tonga, Tuʻi Haʻatakalaua e Tuʻi Kanokupolu.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1800. Il consolidamento ottocentesco del regno moderno, Nukuʻalofa capitale e le costruzioni della dinastia Tupou sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MU1",
+      "title": "UNESCO — The Ancient Capitals of the Kingdom of Tonga",
+      "use": "Muʻa, Lapaha, langi, capitale e paesaggio politico.",
+      "url": "https://whc.unesco.org/en/tentativelists/5167/"
+    },
+    {
+      "id": "MU2",
+      "title": "Tonga Palace Office — Royal and archaeological heritage",
+      "use": "Tradizioni regali e monumenti di Tongatapu.",
+      "url": "https://www.palaceoffice.gov.to/"
+    },
+    {
+      "id": "MU3",
+      "title": "Encyclopaedia Britannica — Tonga",
+      "use": "Storia politica e società tongana.",
+      "url": "https://www.britannica.com/place/Tonga"
+    },
+    {
+      "id": "MU4",
+      "title": "Australian National University — Archaeology of Tonga",
+      "use": "Archeologia dei langi e reti oceaniche.",
+      "url": "https://researchportalplus.anu.edu.au/"
+    },
+    {
+      "id": "MU5",
+      "title": "Journal of the Polynesian Society — Tonga",
+      "use": "Fonti etnografiche e ricostruzione storica.",
+      "url": "https://www.jps.auckland.ac.nz/"
+    }
+  ]
+}

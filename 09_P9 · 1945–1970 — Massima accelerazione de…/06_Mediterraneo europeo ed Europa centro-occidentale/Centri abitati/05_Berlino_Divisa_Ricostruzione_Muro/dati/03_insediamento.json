@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1945–1949",
+    "1950–1954",
+    "1955–1959",
+    "1960–1964",
+    "1965–1970"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Capitolazione, occupazione in quattro settori e distruzione di circa 600.000 appartamenti",
+      "lane": "Guerra e occupazione",
+      "start": 0,
+      "end": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Blocco sovietico e ponte aereo del 1948–1949",
+      "lane": "Guerra fredda",
+      "start": 0,
+      "end": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Separazione delle amministrazioni urbane di Est e Ovest",
+      "lane": "Istituzioni",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Ricostruzione di Stalinallee/Karl-Marx-Allee e del Hansaviertel",
+      "lane": "Urbanistica",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Rivolta operaia del 17 giugno 1953 e repressione sovietica",
+      "lane": "Violenza di Stato",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Fuga di residenti dalla RDT attraverso Berlino fino al 1961",
+      "lane": "Migrazione",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Costruzione del Muro il 13 agosto 1961 e separazione coercitiva di famiglie e reti",
+      "lane": "Coercizione",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Trasformazione socialista di Alexanderplatz e apertura della Fernsehturm nel 1969",
+      "lane": "Centro urbano",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

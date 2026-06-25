@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Ebla è identificata con Tell Mardikh nella Siria settentrionale",
+    "theme": "Identificazione",
+    "status": "documentato",
+    "source": "EBLA_SAPIENZA"
+  },
+  {
+    "claim": "La missione italiana iniziò gli scavi nel 1964",
+    "theme": "Ricerca",
+    "status": "documentato",
+    "source": "EBLA_SAPIENZA"
+  },
+  {
+    "claim": "Il palazzo reale conservava un grande archivio di tavolette cuneiformi",
+    "theme": "Archivi",
+    "status": "documentato",
+    "source": "EBLA_SAPIENZA"
+  },
+  {
+    "claim": "Gli archivi documentano amministrazione, diplomazia e produzione tessile",
+    "theme": "Amministrazione",
+    "status": "documentato",
+    "source": "EBLA_ARET"
+  },
+  {
+    "claim": "La città ebbe importanti fasi del Bronzo antico e medio",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "EBLA_MISSION"
+  },
+  {
+    "claim": "Tutte le tavolette appartengono alla stessa stanza e allo stesso anno",
+    "theme": "Archivi",
+    "status": "non_documentato",
+    "source": "Depositi e cronologie articolati"
+  },
+  {
+    "claim": "Ebla controllava stabilmente tutta la Siria",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Estensione e controllo variabili"
+  },
+  {
+    "claim": "La distruzione del III millennio è attribuibile con certezza a un singolo sovrano",
+    "theme": "Distruzione",
+    "status": "non_documentato",
+    "source": "Attribuzione discussa"
+  }
+]

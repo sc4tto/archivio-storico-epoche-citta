@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Westminster concentrava funzioni monarchiche, religiose e parlamentari.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "LO1; LO5"
+  },
+  {
+    "claim": "Il Tamigi strutturava porto, trasporti e approvvigionamento.",
+    "theme": "territorio",
+    "status": "documentato",
+    "source": "LO2; LO4"
+  },
+  {
+    "claim": "Il Grande Incendio del 1666 trasformò profondamente la City.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "LO2; LO3"
+  },
+  {
+    "claim": "La ricostruzione favorì murature in mattoni e nuove chiese.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "LO2; LO3"
+  },
+  {
+    "claim": "Il commercio atlantico ampliò mercati, magazzini e finanza.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "LO2; LO4"
+  },
+  {
+    "claim": "Corporazioni e mercati regolavano parte dell’approvvigionamento urbano.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "LO2"
+  },
+  {
+    "claim": "La crescita georgiana estese la città oltre il nucleo medievale.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "LO2"
+  },
+  {
+    "claim": "Le infrastrutture vittoriane sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "LO2"
+  }
+]

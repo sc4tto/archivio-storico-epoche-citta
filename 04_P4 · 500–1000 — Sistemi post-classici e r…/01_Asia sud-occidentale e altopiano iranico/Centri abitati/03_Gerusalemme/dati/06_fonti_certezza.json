@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "La Cupola della Roccia fu costruita nel VII secolo",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "JER_UNESCO"
+  },
+  {
+    "claim": "Gerusalemme mantenne importanza per ebraismo, cristianesimo e islam",
+    "theme": "Religione",
+    "status": "documentato",
+    "source": "JER_UNESCO"
+  },
+  {
+    "claim": "Il complesso di al-Aqsa ebbe più fasi costruttive",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "JER_ARCHNET"
+  },
+  {
+    "claim": "Terremoti causarono ricostruzioni nel periodo islamico antico",
+    "theme": "Ambiente",
+    "status": "documentato",
+    "source": "JER_OXFORD"
+  },
+  {
+    "claim": "Mercati e ospitalità servivano pellegrini e residenti",
+    "theme": "Economia",
+    "status": "sintesi",
+    "source": "JER_OXFORD"
+  },
+  {
+    "claim": "Le mura attuali sono quelle del VII secolo",
+    "theme": "Urbanistica",
+    "status": "non_documentato",
+    "source": "Le mura visibili sono in larga parte ottomane"
+  },
+  {
+    "claim": "Le comunità religiose vivevano in quartieri moderni già rigidamente definiti",
+    "theme": "Società",
+    "status": "non_documentato",
+    "source": "La topografia sociale mutò nel tempo"
+  },
+  {
+    "claim": "L’acqua dipendeva da cisterne, sorgenti e condotte",
+    "theme": "Infrastrutture",
+    "status": "documentato",
+    "source": "JER_OXFORD"
+  }
+]

@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1500–1560",
+    "1560–1620",
+    "1620–1680",
+    "1680–1740",
+    "1740–1800"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Fondazione di Nieuw Amsterdam nel XVII secolo",
+      "lane": "Trasformazioni",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Passaggio al dominio inglese nel 1664",
+      "lane": "Politica",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Crescita del porto, dei moli e dei mercati",
+      "lane": "Economia",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Sviluppo della schiavitù urbana e dell’African Burial Ground",
+      "lane": "Società",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Occupazione britannica durante la guerra d’indipendenza",
+      "lane": "Trasformazioni",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Capitale federale e insediamento di Federal Hall",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Ricostruzione dopo l’incendio del 1776",
+      "lane": "Rischi",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Griglia del 1811 e metropoli ottocentesca escluse",
+      "lane": "Cronologia",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

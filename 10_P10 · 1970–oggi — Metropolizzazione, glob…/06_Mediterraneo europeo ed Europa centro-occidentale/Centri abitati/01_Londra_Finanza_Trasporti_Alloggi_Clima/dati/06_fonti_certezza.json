@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "La London Plan costituisce il quadro strategico integrato per economia, ambiente, trasporti e società della Greater London.",
+    "theme": "pianificazione",
+    "status": "documentato",
+    "source": "LO1"
+  },
+  {
+    "claim": "La sezione centrale della Elizabeth line aprì il 24 maggio 2022 e raggiunse la capacità pianificata nel maggio 2023.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "LO2"
+  },
+  {
+    "claim": "Housing in London 2025 documenta costi, offerta e accessibilità come componenti centrali della crisi abitativa londinese.",
+    "theme": "alloggi",
+    "status": "documentato",
+    "source": "LO3"
+  },
+  {
+    "claim": "La London Climate Resilience Review tratta calore, alluvioni e vulnerabilità delle infrastrutture e dei gruppi sociali.",
+    "theme": "clima",
+    "status": "documentato",
+    "source": "LO4"
+  },
+  {
+    "claim": "Il nuovo London Plan con adozione prevista nel 2027 resta un piano futuro alla data di chiusura.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "LO1"
+  },
+  {
+    "claim": "Londra, finanza, trasporti, crisi abitativa e resilienza climatica è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Le demolizioni e gli sfratti associati alla rigenerazione, la tragedia di Grenfell e le disuguaglianze nella sicurezza abitativa, la precarietà dei migranti e la distribuzione diseguale dei rischi climatici non sono presentate come costi neutrali della crescita globale.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

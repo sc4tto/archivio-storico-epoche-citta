@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Tokyo fra Edo e Meiji",
+    "site": "Tokyo fra Edo e Meiji",
+    "modern_location": "Tokyo, Giappone",
+    "coordinates": {
+      "lat": 35.6762,
+      "lon": 139.6503
+    },
+    "scope": "Edo–Tokyo fra 1800 e 1900: continuità della grande città Tokugawa, Restaurazione Meiji, trasferimento della corte, nuove istituzioni, trasporti, industria e ricostruzioni dopo incendi.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Il terremoto del Kantō del 1923, la ricostruzione novecentesca, i bombardamenti del 1945 e la metropoli contemporanea sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "TO1",
+      "title": "Encyclopaedia Britannica — Tokyo",
+      "use": "Storia urbana da Edo alla capitale Meiji.",
+      "url": "https://www.britannica.com/place/Tokyo"
+    },
+    {
+      "id": "TO2",
+      "title": "National Diet Library — The Meiji and Taisho Eras in Photographs",
+      "use": "Fotografie, mappe e trasformazioni della capitale.",
+      "url": "https://www.ndl.go.jp/scenery/e/"
+    },
+    {
+      "id": "TO3",
+      "title": "Tokyo Metropolitan Archives",
+      "use": "Documentazione amministrativa e cartografica.",
+      "url": "https://www.soumu.metro.tokyo.lg.jp/01soumu/archives/"
+    },
+    {
+      "id": "TO4",
+      "title": "Japan Railway History Museum resources",
+      "use": "Prime ferrovie e infrastrutture Meiji.",
+      "url": "https://www.railway-museum.jp/e/"
+    },
+    {
+      "id": "TO5",
+      "title": "National Museum of Japanese History",
+      "use": "Edo, Meiji e cultura materiale urbana.",
+      "url": "https://www.rekihaku.ac.jp/english/"
+    }
+  ]
+}

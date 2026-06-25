@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Shanghai",
+      "lat": 31.2304,
+      "lon": 121.4737,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "jia",
+      "label": "Jiangsu e delta dello Yangzi",
+      "lat": 31.5,
+      "lon": 120.8,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "zhe",
+      "label": "Zhejiang e Hangzhou",
+      "lat": 30.25,
+      "lon": 120.16,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "pud",
+      "label": "Pudong e estuario",
+      "lat": 31.2,
+      "lon": 121.7,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "han",
+      "label": "Hankou e medio Yangzi",
+      "lat": 30.58,
+      "lon": 114.3,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "man",
+      "label": "Manciuria e Cina settentrionale",
+      "lat": 40.0,
+      "lon": 123.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "glob",
+      "label": "Giappone, Europa e Americhe",
+      "lat": 35.0,
+      "lon": 140.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "jia",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali, fiume e ferrovia",
+      "food": "riso, cotone, seta e lavoratori"
+    },
+    {
+      "source": "zhe",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione costiera e ferrovia",
+      "food": "tè, seta, pesce e prodotti agricoli"
+    },
+    {
+      "source": "pud",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "traghetti e vie d’acqua",
+      "food": "ortaggi, pesce, legname e spazio portuale"
+    },
+    {
+      "source": "han",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Yangzi e ferrovia",
+      "food": "cereali, cotone e merci dell’interno"
+    },
+    {
+      "source": "man",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e cabotaggio",
+      "food": "soia, farina, carbone e cereali"
+    },
+    {
+      "source": "glob",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto internazionale",
+      "food": "macchinari, capitale, alimenti e domanda estera"
+    }
+  ]
+}

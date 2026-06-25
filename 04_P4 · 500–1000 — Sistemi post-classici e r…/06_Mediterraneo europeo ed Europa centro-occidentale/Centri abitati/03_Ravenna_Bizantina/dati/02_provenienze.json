@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Ravenna",
+      "lat": 44.4184,
+      "lon": 12.2035,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "classe",
+      "label": "Classe e porto antico",
+      "lat": 44.38,
+      "lon": 12.24,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "lagoon",
+      "label": "Lagune e pinete costiere",
+      "lat": 44.48,
+      "lon": 12.29,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "po",
+      "label": "Pianura verso il Po",
+      "lat": 44.62,
+      "lon": 11.92,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "apenn",
+      "label": "Appennino romagnolo",
+      "lat": 44.1,
+      "lon": 11.68,
+      "status": "sintesi",
+      "kind": "locale"
+    },
+    {
+      "id": "const",
+      "label": "Costantinopoli",
+      "lat": 41.01,
+      "lon": 28.98,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "adriatic",
+      "label": "Adriatico e Dalmazia",
+      "lat": 44.0,
+      "lon": 15.2,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "classe",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto e strada urbana",
+      "food": "merci e persone"
+    },
+    {
+      "source": "lagoon",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali e pesca",
+      "food": "pesce, sale e legname"
+    },
+    {
+      "source": "po",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "vie terrestri e fluviali",
+      "food": "grano e bestiame"
+    },
+    {
+      "source": "apenn",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "strade regionali",
+      "food": "pietra, legno e pascoli"
+    },
+    {
+      "source": "const",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "amministrazione imperiale e mare",
+      "food": "funzionari, marmi e idee"
+    },
+    {
+      "source": "adriatic",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cabotaggio adriatico",
+      "food": "olio, vino e manufatti"
+    }
+  ]
+}

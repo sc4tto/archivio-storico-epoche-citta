@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Lepenski Vir si trova sulla riva destra del Danubio nelle Porte di Ferro",
+    "theme": "Localizzazione",
+    "status": "documentato",
+    "source": "LEPENSKI_OFFICIAL"
+  },
+  {
+    "claim": "La fase più nota comprende edifici trapezoidali con pavimenti calcarei e focolari assiali",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "BRAMI_2022"
+  },
+  {
+    "claim": "Pesce e risorse acquatiche ebbero un ruolo alimentare centrale",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "BRAMI_2022"
+  },
+  {
+    "claim": "Il sito documenta interazioni fra cacciatori-raccoglitori locali e agricoltori di ascendenza egea",
+    "theme": "Popolazioni",
+    "status": "documentato",
+    "source": "MATHIESON_2018"
+  },
+  {
+    "claim": "Gli animali domestici compaiono soprattutto nelle fasi più tarde",
+    "theme": "Allevamento",
+    "status": "sintesi",
+    "source": "BRAMI_2022"
+  },
+  {
+    "claim": "Il sito fu una città nel senso amministrativo e urbano moderno",
+    "theme": "Urbanistica",
+    "status": "non_documentato",
+    "source": "Definizione anacronistica"
+  },
+  {
+    "claim": "La coltivazione intensiva di cereali avveniva sulla stretta terrazza del sito",
+    "theme": "Agricoltura",
+    "status": "non_documentato",
+    "source": "Non dimostrata direttamente"
+  },
+  {
+    "claim": "Tutti gli edifici avevano esclusivamente funzione rituale",
+    "theme": "Funzioni",
+    "status": "non_documentato",
+    "source": "Funzioni multiple e discusse"
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Prime frequentazioni",
+    "Fase Playa",
+    "Crescente stabilità",
+    "Ceramica iniziale",
+    "Fasi formative successive"
+  ],
+  "items": [
+    {
+      "id": "open",
+      "label": "Insediamento all’aperto sul margine lacustre",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "hearth",
+      "label": "Focolari e superfici domestiche",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "lake",
+      "label": "Pesca e raccolta lacustre",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "grind",
+      "label": "Macinazione di semi e piante",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "ceramic",
+      "label": "Comparsa di ceramica nelle fasi tarde",
+      "lane": "Produttive",
+      "start": 3,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "season",
+      "label": "Possibile uso in più stagioni",
+      "lane": "Organizzazione",
+      "start": 2,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "volcanic",
+      "label": "Interruzioni e trasformazioni ambientali",
+      "lane": "Trasformazione",
+      "start": 2,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Fondazione della capitale Han",
+    "Consolidamento dei palazzi",
+    "Espansione sotto l’imperatore Wu",
+    "Crisi degli Han occidentali e regime Xin",
+    "Abbandono parziale e riusi"
+  ],
+  "items": [
+    {
+      "id": "walls",
+      "label": "Mura e porte della capitale",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "weiyang",
+      "label": "Palazzo Weiyang",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "changle",
+      "label": "Palazzo Changle",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "markets",
+      "label": "Mercati e quartieri artigiani",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "arsenal",
+      "label": "Arsenale e depositi",
+      "lane": "Amministrative",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "roads",
+      "label": "Vie imperiali e stazioni",
+      "lane": "Territorio",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "ritual",
+      "label": "Accademie, templi e altari",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

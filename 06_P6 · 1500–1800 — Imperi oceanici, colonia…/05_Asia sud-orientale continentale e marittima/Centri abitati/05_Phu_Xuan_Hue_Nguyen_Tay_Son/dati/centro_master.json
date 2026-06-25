@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Phú Xuân–Huế Nguyễn e Tây Sơn",
+    "site": "Phú Xuân–Huế Nguyễn e Tây Sơn",
+    "modern_location": "Huế, Vietnam",
+    "coordinates": {
+      "lat": 16.4637,
+      "lon": 107.5909
+    },
+    "scope": "Phú Xuân–Huế fra 1500 e 1800: centro della frontiera meridionale vietnamita, capitale Nguyễn e poi Tây Sơn, nodo fluviale, militare, rituale e commerciale.",
+    "version": "1.0",
+    "warning": "La Cittadella imperiale Nguyễn fu avviata dopo il 1802 ed è fuori dal limite del modulo. Sono inclusi soltanto gli antecedenti urbani e politici di Phú Xuân."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "HU1",
+      "title": "UNESCO — Complex of Hué Monuments",
+      "use": "Paesaggio storico, fiume, cittadella e continuità della capitale.",
+      "url": "https://whc.unesco.org/en/list/678/"
+    },
+    {
+      "id": "HU2",
+      "title": "Encyclopaedia Britannica — Hue",
+      "use": "Storia della città e ruolo di capitale vietnamita.",
+      "url": "https://www.britannica.com/place/Hue-Vietnam"
+    },
+    {
+      "id": "HU3",
+      "title": "Hue Monuments Conservation Centre",
+      "use": "Monumenti, paesaggio culturale e conservazione.",
+      "url": "https://hueworldheritage.org.vn/"
+    },
+    {
+      "id": "HU4",
+      "title": "Encyclopaedia Britannica — Tay Son brothers",
+      "use": "Contesto politico della fine del XVIII secolo.",
+      "url": "https://www.britannica.com/topic/Tay-Son-brothers"
+    },
+    {
+      "id": "HU5",
+      "title": "The Metropolitan Museum of Art — Art of Vietnam",
+      "use": "Cultura materiale e tradizioni artistiche vietnamite.",
+      "url": "https://www.metmuseum.org/toah/hd/viet/hd_viet.htm"
+    }
+  ]
+}

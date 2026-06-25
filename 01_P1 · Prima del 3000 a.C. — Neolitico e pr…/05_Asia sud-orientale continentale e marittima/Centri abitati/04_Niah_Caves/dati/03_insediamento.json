@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Pleistocene finale",
+    "Olocene antico",
+    "Olocene medio",
+    "Transizione verso produzione del cibo",
+    "Fasi funerarie successive"
+  ],
+  "items": [
+    {
+      "id": "cave",
+      "label": "Uso ripetuto di cavità e ingressi",
+      "lane": "Ripari",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "hearths",
+      "label": "Focolari e superfici di attività",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "forest",
+      "label": "Gestione e sfruttamento della foresta",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "middens",
+      "label": "Accumuli di resti faunistici e vegetali",
+      "lane": "Conservazione",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "burials",
+      "label": "Sepolture in diverse fasi",
+      "lane": "Funerarie",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "farming",
+      "label": "Transizione verso riso, arboricoltura e vegecoltura",
+      "lane": "Economia",
+      "start": 3,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "rockart",
+      "label": "Pitture rupestri delle fasi posteriori",
+      "lane": "Simboliche",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

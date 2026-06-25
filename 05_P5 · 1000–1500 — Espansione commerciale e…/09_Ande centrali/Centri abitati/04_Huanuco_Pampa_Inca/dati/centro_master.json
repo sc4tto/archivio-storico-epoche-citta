@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Huánuco Pampa, centro amministrativo inca",
+    "site": "Huánuco Pampa",
+    "modern_location": "La Unión, Huánuco, Perù",
+    "coordinates": {
+      "lat": -9.8747,
+      "lon": -76.8167
+    },
+    "scope": "Huánuco Pampa nel tardo XV secolo, come centro amministrativo e cerimoniale inca collegato al Qhapaq Ñan e alla redistribuzione provinciale.",
+    "version": "1.0",
+    "warning": "Il centro appartiene soprattutto alla fase tarda del blocco P5. Non viene retrodatato ai secoli precedenti e le stime sul numero di edifici e sulla popolazione sono trattate con prudenza."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "HU1",
+      "title": "UNESCO — Qhapaq Ñan, Andean Road System",
+      "use": "Rete stradale, centri amministrativi, tambos e paesaggio imperiale.",
+      "url": "https://whc.unesco.org/en/list/1459/"
+    },
+    {
+      "id": "HU2",
+      "title": "Ministerio de Cultura del Perú — Qhapaq Ñan",
+      "use": "Ricerca e gestione del sistema viario andino e dei siti associati.",
+      "url": "https://qhapaqnan.cultura.pe/"
+    },
+    {
+      "id": "HU3",
+      "title": "Encyclopaedia Britannica — Inca",
+      "use": "Organizzazione imperiale, strade e amministrazione.",
+      "url": "https://www.britannica.com/topic/Inca"
+    },
+    {
+      "id": "HU4",
+      "title": "Metropolitan Museum — The Inca Empire",
+      "use": "Cultura materiale, amministrazione e produzione imperiale.",
+      "url": "https://www.metmuseum.org/toah/hd/inca/hd_inca.htm"
+    },
+    {
+      "id": "HU5",
+      "title": "World Monuments Fund — Qhapaq Ñan",
+      "use": "Conservazione dei percorsi e dei paesaggi stradali andini.",
+      "url": "https://www.wmf.org/project/qhapaq-nan"
+    }
+  ]
+}

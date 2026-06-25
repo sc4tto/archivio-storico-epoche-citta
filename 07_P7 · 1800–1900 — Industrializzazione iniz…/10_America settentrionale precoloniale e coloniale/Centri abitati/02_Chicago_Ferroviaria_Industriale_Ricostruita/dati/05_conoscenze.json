@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Chicago ferroviaria, industriale e ricostruita",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Ferrovie e logistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Hub ferroviario e smistamento",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Grain elevators e magazzini",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Industria",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Macellazione, acciaio e macchinari",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Standardizzazione e produzione di massa",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Ricostruzione post-incendio",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Strutture metalliche e primi grattacieli",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Lavoro",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Immigrazione e quartieri operai",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Scioperi, repressione e organizzazione sindacale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Territorio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Dispossesso Potawatomi e altri popoli",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Inquinamento del fiume e del lago",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

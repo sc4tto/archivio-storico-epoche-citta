@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Singapore, autogoverno, edilizia pubblica e industrializzazione",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Infrastrutture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Porto, ferrovie, autobus, strade, aeroporto ed energia",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Acqua, fognature, sanità, scuole, mercati e gestione dei rifiuti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Economia urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Commercio portuale, manifattura, finanza, edilizia e cantieri navali",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Logistica, distribuzione alimentare, hawker e servizi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Politica e istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Amministrazione coloniale, autogoverno, Malaysia e indipendenza",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "HDB, Economic Development Board, sindacati e governo a partito dominante",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Lavoratori portuali, migranti, residenti dei kampong e famiglie rialloggiate",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Comunità cinesi, malesi, indiane, religiose e scolastiche",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Crisi e disuguaglianze",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Carenza abitativa, incendi, sovraffollamento e disoccupazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Demolizioni, trasferimenti, repressione politica e tensioni intercomunitarie",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

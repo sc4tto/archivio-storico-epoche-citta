@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Prime occupazioni dal III secolo a.C.",
+    "Crescita dei tell e dei quartieri",
+    "Metallurgia e specializzazione",
+    "Reti regionali e proto-urbanizzazione",
+    "Trasformazioni verso il VI secolo"
+  ],
+  "items": [
+    {
+      "id": "houses",
+      "label": "Case circolari e rettangolari in terra",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "mounds",
+      "label": "Tell e isole insediative",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "iron",
+      "label": "Scorie e lavorazione del ferro",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "pottery",
+      "label": "Ceramica e figurine",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "burials",
+      "label": "Sepolture in giare e aree funerarie",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "markets",
+      "label": "Scambi regionali e mercati",
+      "lane": "Organizzazione",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "water",
+      "label": "Adattamento alle piene stagionali",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

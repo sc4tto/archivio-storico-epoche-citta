@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Chicago",
+      "lat": 41.8781,
+      "lon": -87.6298,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "ill",
+      "label": "Illinois agricolo",
+      "lat": 40.0,
+      "lon": -89.2,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "iow",
+      "label": "Iowa e Midwest cerealicolo",
+      "lat": 42.0,
+      "lon": -93.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "wis",
+      "label": "Wisconsin lattiero-caseario",
+      "lat": 44.5,
+      "lon": -89.5,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "lak",
+      "label": "Lago Michigan e Grandi Laghi",
+      "lat": 43.5,
+      "lon": -87.0,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "mis",
+      "label": "Corridoio del Mississippi",
+      "lat": 38.6,
+      "lon": -90.2,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "nat",
+      "label": "Rete ferroviaria e autostradale nazionale",
+      "lat": 39.1,
+      "lon": -96.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "ill",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e camion",
+      "food": "mais, carne, ortaggi e pollame"
+    },
+    {
+      "source": "iow",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e autocarri",
+      "food": "cereali, bestiame e mangimi"
+    },
+    {
+      "source": "wis",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "camion refrigerati",
+      "food": "latte, formaggi, burro e carne"
+    },
+    {
+      "source": "lak",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navi lacustri e mercati",
+      "food": "pesce, minerali e merci industriali"
+    },
+    {
+      "source": "mis",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "chiatte e ferrovie",
+      "food": "cereali, zucchero, cotone e prodotti meridionali"
+    },
+    {
+      "source": "nat",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rail hub, expressway e aeroporti",
+      "food": "alimenti confezionati, persone e manufatti"
+    }
+  ]
+}

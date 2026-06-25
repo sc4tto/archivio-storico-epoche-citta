@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Bangkok fu capitale del regno Chakri e centro del paesaggio di Rattanakosin.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "BK1; BK2"
+  },
+  {
+    "claim": "Canali e Chao Phraya organizzarono trasporti e approvvigionamento.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "BK1; BK3"
+  },
+  {
+    "claim": "Il trattato Bowring del 1855 ampliò il commercio estero e impose concessioni.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "BK1; BK5"
+  },
+  {
+    "claim": "Le esportazioni di riso crebbero fortemente nella seconda metà del secolo.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "BK1; BK3"
+  },
+  {
+    "claim": "Le riforme di Chulalongkorn trasformarono amministrazione e infrastrutture.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "BK3; BK5"
+  },
+  {
+    "claim": "Strade e ferrovie affiancarono gradualmente la mobilità fluviale.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "BK3; BK4"
+  },
+  {
+    "claim": "La città conservò una forte monumentalità buddhista e regale.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "BK1; BK2"
+  },
+  {
+    "claim": "Le trasformazioni novecentesche sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "BK1"
+  }
+]

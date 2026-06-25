@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Linzi — modulo multi-grafo",
+    "short_name": "Linzi",
+    "site": "Antica Linzi, capitale dello Stato di Qi e centro regionale Han",
+    "modern_location": "Linzi, Zibo, Shandong, Cina",
+    "coordinates": {
+      "lat": 36.82,
+      "lon": 118.3
+    },
+    "scope": "Grande capitale dello Stato di Qi nelle epoche delle Primavere e Autunni e degli Stati Combattenti, poi importante centro regionale sotto Qin e Han, con città interna ed esterna, mura di terra battuta, officine, mercati e necropoli.",
+    "version": "1.0-blocco_29_p3_asia_orientale_5_centri_v1",
+    "warning": "Molte ricostruzioni della popolazione e delle funzioni urbane dipendono da testi e prospezioni parziali. La città del Qi e gli insediamenti Qin-Han non sono perfettamente coincidenti in ogni dettaglio."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "LIN_BOOK",
+      "title": "Lothar von Falkenhausen — Chinese Society in the Age of Confucius",
+      "url": "https://search.worldcat.org/search?q=Chinese+Society+in+the+Age+of+Confucius",
+      "use": "società urbana, Stati regionali e archeologia del periodo Zhou"
+    },
+    {
+      "id": "LIN_ARCH",
+      "title": "Li Liu e Xingcan Chen — The Archaeology of China",
+      "url": "https://search.worldcat.org/search?q=The+Archaeology+of+China+Li+Liu",
+      "use": "Linzi, urbanizzazione e produzioni artigiane"
+    },
+    {
+      "id": "LIN_MUSEUM",
+      "title": "Shandong Museum",
+      "url": "https://www.sdmuseum.com/",
+      "use": "reperti e contesto archeologico regionale dello Shandong"
+    }
+  ]
+}

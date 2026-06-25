@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Merimde Beni Salama",
+      "lat": 30.319,
+      "lon": 30.855,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "delta",
+      "label": "Delta occidentale",
+      "lat": 30.45,
+      "lon": 30.65,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": -18,
+      "anchor": "end"
+    },
+    {
+      "id": "nile",
+      "label": "Canali del Nilo",
+      "lat": 30.2,
+      "lon": 31.05,
+      "status": "sintesi",
+      "kind": "locale",
+      "dx": 10,
+      "dy": 28,
+      "anchor": "start"
+    },
+    {
+      "id": "desert",
+      "label": "Margine desertico occidentale",
+      "lat": 30.15,
+      "lon": 30.55,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 28,
+      "anchor": "middle"
+    },
+    {
+      "id": "sinai",
+      "label": "Sinai e Levante meridionale",
+      "lat": 30.5,
+      "lon": 34.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "redsea",
+      "label": "Mar Rosso",
+      "lat": 27.5,
+      "lon": 34.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "delta",
+      "target": "site",
+      "label": "suoli, cereali e pascoli",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "nile",
+      "target": "site",
+      "label": "acqua, pesce, canne e argille",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "desert",
+      "target": "site",
+      "label": "selce e selvaggina",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "sinai",
+      "target": "site",
+      "label": "confronti ceramici e materiali esotici; rotte indirette",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "redsea",
+      "target": "site",
+      "label": "conchiglie e materiali ornamentali",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

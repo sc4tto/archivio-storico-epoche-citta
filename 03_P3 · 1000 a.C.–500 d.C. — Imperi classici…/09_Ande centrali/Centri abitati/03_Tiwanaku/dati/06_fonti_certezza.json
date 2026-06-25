@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Tiwanaku si trasformò da piccolo insediamento in città pianificata",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "TIW_UNESCO"
+  },
+  {
+    "claim": "Il centro monumentale comprende Akapana, Kalasasaya e templi",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "TIW_UNESCO"
+  },
+  {
+    "claim": "La città impiegava complessi sistemi di drenaggio",
+    "theme": "Tecnica",
+    "status": "documentato",
+    "source": "TIW_UNESCO"
+  },
+  {
+    "claim": "I campi rialzati favorirono l’agricoltura d’altopiano",
+    "theme": "Agricoltura",
+    "status": "documentato",
+    "source": "TIW_UNESCO"
+  },
+  {
+    "claim": "L’apogeo politico di Tiwanaku precede integralmente il 500 d.C.",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "TIW_UNESCO"
+  },
+  {
+    "claim": "Tutti i blocchi monumentali si trovano nella posizione originaria",
+    "theme": "Conservazione",
+    "status": "non_documentato",
+    "source": "Interventi e spostamenti documentati"
+  },
+  {
+    "claim": "Le reti collegavano altopiano, valli e costa",
+    "theme": "Relazioni",
+    "status": "documentato",
+    "source": "TIW_JANUSEK"
+  },
+  {
+    "claim": "Il sistema politico è ricostruito attraverso dati materiali incompleti",
+    "theme": "Metodo",
+    "status": "sintesi",
+    "source": "TIW_JANUSEK"
+  }
+]

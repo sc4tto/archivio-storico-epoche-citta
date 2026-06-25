@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Bangkok, migrazione rurale, strade e modernizzazione autoritaria",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Infrastrutture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Porto, ferrovie, autobus, strade, ponti e aeroporti",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Canali, drenaggio, acqua, sanità, scuole e mercati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Economia urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Commercio, industria leggera, turismo, edilizia e amministrazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Logistica del riso, distribuzione alimentare e servizi informali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Politica e istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Monarchia costituzionale, colpi di Stato e governi militari",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Pianificazione nazionale, municipalità, esercito e burocrazia",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Migranti rurali, lavoratori portuali, impiegati, monaci e studenti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Templi, comunità sino-thailandesi, mercati e cultura di massa",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Crisi e disuguaglianze",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Baraccopoli, traffico, alluvioni, inquinamento e scarsità abitativa",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Repressione politica, sgomberi e accesso diseguale ai servizi",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

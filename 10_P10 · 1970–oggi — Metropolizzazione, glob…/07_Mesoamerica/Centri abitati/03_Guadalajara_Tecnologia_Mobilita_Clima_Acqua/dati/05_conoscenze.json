@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Guadalajara, tecnologia, mobilità, clima e acqua",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Governance metropolitana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "IMEPLAN, Jalisco, comuni e coordinamento intermunicipale",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Pianificazione, dati, finanziamento e partecipazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mobilità sostenibile",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "SITEUR, Mi Macro, MiBici, autobus e pedonalità",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Tariffe, accessibilità, sicurezza e manutenzione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Economia tecnologica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Elettronica, software, università e servizi creativi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Formazione, innovazione, lavoro e reti globali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Acqua e clima",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Chapala, falde, drenaggio, calore e qualità dell’aria",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Riduzione delle emissioni, adattamento e giustizia ambientale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Alloggi e territorio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Fraccionamientos, informalità, densificazione e rigenerazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Disuguaglianze, accesso ai servizi e tutela del suolo",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

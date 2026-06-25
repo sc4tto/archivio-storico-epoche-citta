@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Pouērua pā e paesaggio di Northland",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Orticoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Kūmara in clima temperato",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Suoli vulcanici e pacciamatura",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Fortificazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Terrazze e fossati",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Palizzate e controllo degli accessi",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Stoccaggio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Rua per il kūmara",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Gestione stagionale delle scorte",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Territorio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Reti di più insediamenti",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_1",
+          "label": "Percorsi fra coste e interno",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Società",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Hapū e lavoro collettivo",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_1",
+          "label": "Memoria genealogica di Ngāpuhi",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

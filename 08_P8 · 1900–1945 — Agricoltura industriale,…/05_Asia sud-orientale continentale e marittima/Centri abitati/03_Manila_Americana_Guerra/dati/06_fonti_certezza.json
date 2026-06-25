@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Manila fu capitale dell’amministrazione statunitense nelle Filippine.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "MN2; MN3; MN5"
+  },
+  {
+    "claim": "Il piano Burnham introdusse viali, parchi e un centro civico monumentale.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "MN2; MN4"
+  },
+  {
+    "claim": "Porto e commercio transpacifico sostennero la crescita urbana.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "MN3; MN5"
+  },
+  {
+    "claim": "Sanità e istruzione pubblica ampliarono i servizi ma restarono diseguali.",
+    "theme": "sanità",
+    "status": "documentato",
+    "source": "MN2; MN3"
+  },
+  {
+    "claim": "Il Commonwealth fu istituito nel 1935.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "MN3"
+  },
+  {
+    "claim": "Le forze giapponesi occuparono Manila nel 1942.",
+    "theme": "conflitti",
+    "status": "documentato",
+    "source": "MN2; MN5"
+  },
+  {
+    "claim": "La battaglia del 1945 causò vastissime perdite civili e distruzioni.",
+    "theme": "violenza",
+    "status": "documentato",
+    "source": "MN1; MN2; MN4"
+  },
+  {
+    "claim": "Indipendenza del 1946 e ricostruzione postbellica sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "MN3"
+  }
+]

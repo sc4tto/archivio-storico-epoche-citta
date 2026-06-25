@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Oyo-Ile imperiale",
+    "site": "Oyo-Ile imperiale",
+    "modern_location": "Old Oyo, Nigeria",
+    "coordinates": {
+      "lat": 8.95,
+      "lon": 4.35
+    },
+    "scope": "Oyo-Ile fra il ritorno della dinastia nel XVII secolo e il 1800: capitale imperiale, palazzo, mercati, recinti, infrastrutture idriche e nodi delle reti verso Borgu, Dahomey e paesi yoruba.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1800. La crisi finale, l’abbandono ottocentesco e la fondazione della Nuova Oyo sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "OY1",
+      "title": "UNESCO Tentative List — Old Oyo",
+      "use": "Mura, palazzo, serbatoi, pozzi e vastità dell’insediamento.",
+      "url": "https://whc.unesco.org/en/tentativelists/489/"
+    },
+    {
+      "id": "OY2",
+      "title": "Encyclopaedia Britannica — Oyo empire",
+      "use": "Storia politica, cavalleria e reti imperiali.",
+      "url": "https://www.britannica.com/place/Oyo-empire"
+    },
+    {
+      "id": "OY3",
+      "title": "Nigeria National Park Service — Old Oyo National Park",
+      "use": "Paesaggio archeologico e contesto ambientale.",
+      "url": "https://nigeriaparkservice.gov.ng/"
+    },
+    {
+      "id": "OY4",
+      "title": "The Metropolitan Museum of Art — Yoruba art and culture",
+      "use": "Cultura materiale, ritualità e regalità yoruba.",
+      "url": "https://www.metmuseum.org/toah/hd/yoru/hd_yoru.htm"
+    },
+    {
+      "id": "OY5",
+      "title": "University of Ibadan — Archaeology of Old Oyo",
+      "use": "Ricerca archeologica e paesaggio urbano.",
+      "url": "https://www.ui.edu.ng/"
+    }
+  ]
+}

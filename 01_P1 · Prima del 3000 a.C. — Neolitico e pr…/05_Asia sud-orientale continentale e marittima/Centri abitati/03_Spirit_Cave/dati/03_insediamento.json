@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Pleistocene finale",
+    "Olocene antico iniziale",
+    "Olocene antico sviluppato",
+    "Occupazioni più recenti",
+    "Rivalutazione stratigrafica"
+  ],
+  "items": [
+    {
+      "id": "visits",
+      "label": "Occupazioni brevi e ripetute",
+      "lane": "Ripari",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "hearths",
+      "label": "Focolari e aree di trattamento",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "lithic",
+      "label": "Aree di scheggiatura e uso degli utensili",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "fauna",
+      "label": "Accumuli di resti faunistici",
+      "lane": "Conservazione",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "plants",
+      "label": "Residui vegetali carbonizzati",
+      "lane": "Conservazione",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "pottery",
+      "label": "Ceramica dei livelli superiori: datazione discussa",
+      "lane": "Produttive",
+      "start": 3,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "burial",
+      "label": "Deposizioni umane attribuite a fasi tarde",
+      "lane": "Funerarie",
+      "start": 3,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

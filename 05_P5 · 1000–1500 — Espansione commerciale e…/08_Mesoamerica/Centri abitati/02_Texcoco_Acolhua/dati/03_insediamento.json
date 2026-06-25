@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "tx1",
+      "label": "Insediamenti acolhua sulla riva orientale",
+      "lane": "Insediamento",
+      "start": 1,
+      "end": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "tx2",
+      "label": "Consolidamento dell’altepetl di Texcoco",
+      "lane": "Politica",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "tx3",
+      "label": "Conflitto con Azcapotzalco e restaurazione dinastica",
+      "lane": "Politica",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "tx4",
+      "label": "Ingresso nella Triplice Alleanza",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "tx5",
+      "label": "Opere idrauliche e giardini di Tetzcotzinco",
+      "lane": "Infrastrutture",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "tx6",
+      "label": "Palazzi, scuole e centri rituali",
+      "lane": "Urbanistica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "tx7",
+      "label": "Corte letteraria e produzione manoscritta",
+      "lane": "Conoscenze",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "tx8",
+      "label": "Reti tributarie e mercati acolhua",
+      "lane": "Economia",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

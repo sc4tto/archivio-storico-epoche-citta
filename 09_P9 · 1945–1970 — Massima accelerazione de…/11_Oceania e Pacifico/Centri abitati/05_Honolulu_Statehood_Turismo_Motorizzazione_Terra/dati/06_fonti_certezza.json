@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Nel dopoguerra la carenza di alloggi portò al riuso civile di Quonset huts per case, scuole e magazzini.",
+    "theme": "abitazione",
+    "status": "documentato",
+    "source": "HO1; HO2"
+  },
+  {
+    "claim": "La statehood del 1959 coincise con forte crescita di turismo, edilizia e infrastrutture.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "HO3"
+  },
+  {
+    "claim": "Il jet tourism accelerò la trasformazione di Waikīkī e l’economia dei servizi.",
+    "theme": "turismo",
+    "status": "documentato",
+    "source": "HO3"
+  },
+  {
+    "claim": "Highways e nuove suddivisioni convertirono rapidamente aree rurali e costiere di Oʻahu.",
+    "theme": "urbanizzazione",
+    "status": "documentato",
+    "source": "HO3; HO4"
+  },
+  {
+    "claim": "La crescita immobiliare si svolse in un contesto di colonialismo statunitense e lunga alienazione delle terre Native Hawaiian.",
+    "theme": "terra",
+    "status": "documentato",
+    "source": "HO1; HO4"
+  },
+  {
+    "claim": "Honolulu, statehood, turismo, motorizzazione e terra è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Il colonialismo statunitense, l’alienazione e l’espropriazione delle terre Native Hawaiian e la dislocazione prodotta da turismo, infrastrutture e sviluppo immobiliare non sono presentati come crescita neutrale; Native Hawaiians sono rappresentati come soggetti territoriali, culturali e politici.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

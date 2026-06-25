@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Puebla industriale e liberale",
+    "site": "Puebla industriale e liberale",
+    "modern_location": "Puebla de Zaragoza, Messico",
+    "coordinates": {
+      "lat": 19.0414,
+      "lon": -98.2063
+    },
+    "scope": "Puebla fra 1800 e 1900: continuità del centro storico, manifatture tessili, Reforma, battaglia del 5 maggio 1862, assedio del 1863, ferrovie, fabbriche, mercati e crescita dei quartieri operai.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Rivoluzione, industrializzazione automobilistica, periferie novecentesche e area metropolitana contemporanea sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "PU1",
+      "title": "UNESCO — Historic Centre of Puebla",
+      "use": "Struttura urbana, architettura e patrimonio.",
+      "url": "https://whc.unesco.org/en/list/416/"
+    },
+    {
+      "id": "PU2",
+      "title": "Encyclopaedia Britannica — Puebla",
+      "use": "Storia, economia e battaglie del XIX secolo.",
+      "url": "https://www.britannica.com/place/Puebla-Mexico"
+    },
+    {
+      "id": "PU3",
+      "title": "Instituto Nacional de Antropología e Historia — Puebla",
+      "use": "Monumenti, archeologia e conservazione.",
+      "url": "https://www.inah.gob.mx/"
+    },
+    {
+      "id": "PU4",
+      "title": "Gobierno del Estado de Puebla",
+      "use": "Storia e territorio dello Stato.",
+      "url": "https://www.puebla.gob.mx/"
+    },
+    {
+      "id": "PU5",
+      "title": "Biblioteca Palafoxiana",
+      "use": "Patrimonio librario e istituzioni culturali.",
+      "url": "https://www.cultura.gob.mx/"
+    }
+  ]
+}

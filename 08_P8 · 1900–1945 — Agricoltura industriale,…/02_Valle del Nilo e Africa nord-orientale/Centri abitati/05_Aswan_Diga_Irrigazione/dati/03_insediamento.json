@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1900–1909",
+    "1910–1918",
+    "1919–1928",
+    "1929–1938",
+    "1939–1945"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Completamento della diga bassa nel 1902",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Prima sopraelevazione della diga",
+      "lane": "Infrastrutture",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Espansione dell’irrigazione permanente",
+      "lane": "Economia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Ferrovia, navigazione e turismo archeologico",
+      "lane": "Economia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Seconda sopraelevazione tra anni Venti e Trenta",
+      "lane": "Infrastrutture",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Impatti su villaggi nubiani e paesaggi fluviali",
+      "lane": "Società",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Seconda guerra mondiale e funzione strategica",
+      "lane": "Conflitti",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Grande Diga post-1960 esclusa",
+      "lane": "Cronologia",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Saigon–Gia Định coloniale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Delta e navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Canali, argini e trasporto fluviale",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Risaie, pesca e mercati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Amministrazione coloniale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Cocincina, imposte e polizia",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Catasto, concessioni e lavoro coatto",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Porto e commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Riso, dogane e piroscafi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Chợ Lớn e reti sino-vietnamite",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Mattoni, legno e pagode",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Boulevard, ferro e edifici coloniali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Sanità e rischi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Paludi, colera e malaria",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Drenaggi, ospedali e segregazione",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "nodes": [
+    {
+      "id": "m0",
+      "label": "Calcestruzzo, acciaio, legno, vetro e materiali resistenti al fuoco",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m1",
+      "label": "Rotaie, tunnel, viadotti, strade e impianti elettrici",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m2",
+      "label": "Acquedotti, serbatoi, drenaggi, reti idriche e infrastrutture verdi",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m3",
+      "label": "Materiali antisismici, ombreggianti, efficienti e riciclati",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "o0",
+      "label": "Fondazioni, retrofit sismico, ricostruzione e densificazione",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o1",
+      "label": "Scavo, posa ferroviaria, manutenzione stradale e intermodalità",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o2",
+      "label": "Conservazione idrica, riuso, drenaggio e gestione delle emergenze",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o3",
+      "label": "Decarbonizzazione, protezione dagli incendi e adattamento al calore",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "c0",
+      "label": "Alloggi, studi, uffici, scuole, ospedali e centri comunitari",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c1",
+      "label": "Metro, bus rapid transit, freeway, piste ciclabili e marciapiedi",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c2",
+      "label": "Reti idriche, bacini, parchi e sistemi di allerta",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c3",
+      "label": "Quartieri densificati, edilizia accessibile e spazi ombreggiati",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "s0",
+      "label": "Downtown e centralità policentriche",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s1",
+      "label": "Corridoio Wilshire e stazioni D Line",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s2",
+      "label": "South Los Angeles, Eastside e San Fernando Valley",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s3",
+      "label": "Pendii, canyon e aree esposte a incendi, sisma e calore",
+      "layer": 3,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m0",
+      "target": "o0",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "m0",
+      "target": "o1",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "m1",
+      "target": "o1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "m1",
+      "target": "o3",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "m2",
+      "target": "o2",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "m2",
+      "target": "o0",
+      "status": "inferito",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "m3",
+      "target": "o3",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "m3",
+      "target": "o2",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o0",
+      "target": "c0",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o0",
+      "target": "c1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o1",
+      "target": "c0",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o1",
+      "target": "c1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o2",
+      "target": "c2",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o2",
+      "target": "c0",
+      "status": "inferito",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o3",
+      "target": "c3",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o3",
+      "target": "c1",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c0",
+      "target": "s0",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c0",
+      "target": "s1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c1",
+      "target": "s0",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c1",
+      "target": "s1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c2",
+      "target": "s0",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c2",
+      "target": "s2",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c3",
+      "target": "s1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c3",
+      "target": "s2",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    }
+  ]
+}

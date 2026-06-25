@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Alessandria ottomana",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Pilotaggio e cabotaggio",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Moli, fari e segnalazione",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Dogane",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Fondachi e registrazione delle merci",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Fiscalità portuale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Fortificazioni costiere",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Manutenzione di moli e cisterne",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Risorse marine",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Pesca e salagione",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Saline e raccolta costiera",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Reti mediterranee",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Commercio ottomano",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Mercanti europei e levantini",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

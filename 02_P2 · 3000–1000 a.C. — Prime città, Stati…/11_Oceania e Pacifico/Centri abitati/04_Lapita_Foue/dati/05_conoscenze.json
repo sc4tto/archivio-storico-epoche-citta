@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Lapita–Foué",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Ceramica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Dentellatura",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Motivi geometrici",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Sequenze regionali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Laguna",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Pesca",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Molluschi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Tartarughe",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Conchiglia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Ami",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Ornamenti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Scarti di produzione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Piante",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Tuberi",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_2",
+          "label": "Arboricoltura",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Fibre",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Navigazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Vanuatu",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_2",
+          "label": "Lealtà",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_3",
+          "label": "Figi",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Identità",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Stile condiviso",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Gruppi locali",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_3",
+          "label": "Popolo uniforme",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

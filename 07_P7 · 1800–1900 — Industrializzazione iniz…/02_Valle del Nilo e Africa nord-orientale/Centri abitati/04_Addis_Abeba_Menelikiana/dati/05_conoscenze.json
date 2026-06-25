@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Addis Abeba menelikiana",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Fondazione urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Palazzo, safar e asse di corte",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Entoto, Finfinne e scelta del sito",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Agricoltura e mercati",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Teff, bestiame e tributi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Caffè, sale e carovane",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Pietra, terra e legname",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Recinti, tetti e lamiera",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Potere imperiale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Menelik II, Taytu e dignitari",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Adwa, diplomazia e centralizzazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Ambiente",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Acqua, combustibile e boschi",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Eucalipto e pressione sulle risorse",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

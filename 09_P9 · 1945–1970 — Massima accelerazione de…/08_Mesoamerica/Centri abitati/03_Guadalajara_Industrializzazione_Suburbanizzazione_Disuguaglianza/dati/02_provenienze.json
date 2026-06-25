@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Guadalajara",
+      "lat": 20.6597,
+      "lon": -103.3496,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "val",
+      "label": "Valle de Atemajac",
+      "lat": 20.7,
+      "lon": -103.35,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "alt",
+      "label": "Los Altos de Jalisco",
+      "lat": 21.2,
+      "lon": -102.7,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "cha",
+      "label": "Chapala e Ciénega",
+      "lat": 20.3,
+      "lon": -103.0,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "mic",
+      "label": "Michoacán",
+      "lat": 19.6,
+      "lon": -101.7,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "col",
+      "label": "Colima e costa del Pacifico",
+      "lat": 19.2,
+      "lon": -103.7,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "mex",
+      "label": "Rete del Messico occidentale",
+      "lat": 22.0,
+      "lon": -105.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "val",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade locali e camion",
+      "food": "ortaggi, latte, materiali e pendolari"
+    },
+    {
+      "source": "alt",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "autobus e autocarri",
+      "food": "latte, carne, uova, migranti e manufatti"
+    },
+    {
+      "source": "cha",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e ferrovia",
+      "food": "pesce, cereali, ortaggi e acqua"
+    },
+    {
+      "source": "mic",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e camion",
+      "food": "frutta, cereali, legname e lavoratori"
+    },
+    {
+      "source": "col",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e strade al Pacifico",
+      "food": "sale, frutta tropicale, importazioni e merci"
+    },
+    {
+      "source": "mex",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti ferroviarie e stradali",
+      "food": "migranti, prodotti industriali e beni di consumo"
+    }
+  ]
+}

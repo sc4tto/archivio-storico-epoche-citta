@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Shanghai",
+      "lat": 31.2304,
+      "lon": 121.4737,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "del",
+      "label": "Delta dello Yangzi",
+      "lat": 31.0,
+      "lon": 120.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "suz",
+      "label": "Suzhou e Jiangnan",
+      "lat": 31.3,
+      "lon": 120.6,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "est",
+      "label": "Estuario e costa del Jiangsu",
+      "lat": 32.0,
+      "lon": 121.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "han",
+      "label": "Hankou e medio Yangzi",
+      "lat": 30.58,
+      "lon": 114.3,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "tea",
+      "label": "Zhejiang e regioni del tè e della seta",
+      "lat": 29.5,
+      "lon": 120.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "sea",
+      "label": "Giappone, India, Europa e Americhe",
+      "lat": 25.0,
+      "lon": 130.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "del",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali, fiumi e battelli",
+      "food": "riso, cotone, ortaggi e manodopera"
+    },
+    {
+      "source": "suz",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Grand Canal e ferrovia tarda",
+      "food": "seta, tessili, artigianato e capitali mercantili"
+    },
+    {
+      "source": "est",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "estuario e cabotaggio",
+      "food": "pesce, sale e traffico costiero"
+    },
+    {
+      "source": "han",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Yangzi e navigazione a vapore",
+      "food": "tè, cereali, legname e prodotti dell’interno"
+    },
+    {
+      "source": "tea",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali, strade e porto",
+      "food": "seta greggia, tè e carta"
+    },
+    {
+      "source": "sea",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "compagnie marittime e dogane",
+      "food": "oppio, macchinari, cotone filato e beni globali"
+    }
+  ]
+}

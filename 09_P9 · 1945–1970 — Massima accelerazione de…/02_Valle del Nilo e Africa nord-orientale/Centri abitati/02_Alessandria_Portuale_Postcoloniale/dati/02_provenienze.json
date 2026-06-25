@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Alessandria",
+      "lat": 31.2001,
+      "lon": 29.9187,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "beh",
+      "label": "Beheira e Delta occidentale",
+      "lat": 30.85,
+      "lon": 30.35,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "mar",
+      "label": "Lago Mariout e cintura industriale",
+      "lat": 31.08,
+      "lon": 29.8,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "abu",
+      "label": "Abu Qir e costa orientale",
+      "lat": 31.32,
+      "lon": 30.06,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "cai",
+      "label": "Cairo e mercato nazionale",
+      "lat": 30.04,
+      "lon": 31.24,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "med",
+      "label": "Mediterraneo orientale",
+      "lat": 34.0,
+      "lon": 28.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "suez",
+      "label": "Canale di Suez e Mar Rosso",
+      "lat": 30.6,
+      "lon": 32.3,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "beh",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e camion",
+      "food": "cotone, grano, riso, ortaggi e latte"
+    },
+    {
+      "source": "mar",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e canali",
+      "food": "pesce, sale, prodotti industriali e lavoratori"
+    },
+    {
+      "source": "abu",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strada costiera",
+      "food": "pesce, prodotti agricoli e servizi portuali"
+    },
+    {
+      "source": "cai",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia principale",
+      "food": "capitali, funzionari, merci e passeggeri"
+    },
+    {
+      "source": "med",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione mediterranea",
+      "food": "macchinari, cereali e merci internazionali"
+    },
+    {
+      "source": "suez",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cabotaggio e rete nazionale",
+      "food": "combustibili e traffici marittimi"
+    }
+  ]
+}

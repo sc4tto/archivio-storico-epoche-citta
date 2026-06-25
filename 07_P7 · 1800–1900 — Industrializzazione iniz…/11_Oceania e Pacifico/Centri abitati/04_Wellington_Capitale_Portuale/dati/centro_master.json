@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Wellington capitale portuale coloniale",
+    "site": "Wellington capitale portuale coloniale",
+    "modern_location": "Wellington / Te Whanganui-a-Tara, Nuova Zelanda",
+    "coordinates": {
+      "lat": -41.2865,
+      "lon": 174.7762
+    },
+    "scope": "Wellington fra 1840 e 1900: Port Nicholson, insediamento coloniale, terremoti, bonifiche, trasferimento della capitale nel 1865, Government Buildings, porto, ferrovie e crescita amministrativa.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Parliament House del XX secolo, espansione automobilistica e infrastrutture contemporanee sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "WE1",
+      "title": "NZ History — Wellington becomes capital",
+      "use": "Trasferimento della capitale e storia politica.",
+      "url": "https://nzhistory.govt.nz/"
+    },
+    {
+      "id": "WE2",
+      "title": "Wellington City Council — Heritage",
+      "use": "Patrimonio urbano e sviluppo portuale.",
+      "url": "https://wellington.govt.nz/"
+    },
+    {
+      "id": "WE3",
+      "title": "Te Ara — Wellington region",
+      "use": "Port Nicholson, insediamento e geografia.",
+      "url": "https://teara.govt.nz/"
+    },
+    {
+      "id": "WE4",
+      "title": "Archives New Zealand",
+      "use": "Government Buildings, amministrazione e archivi coloniali.",
+      "url": "https://www.archives.govt.nz/"
+    },
+    {
+      "id": "WE5",
+      "title": "Museum of New Zealand Te Papa Tongarewa",
+      "use": "Storie Māori e coloniali.",
+      "url": "https://www.tepapa.govt.nz/"
+    }
+  ]
+}

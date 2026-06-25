@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Zanzibar Stone Town omanita",
+    "site": "Zanzibar Stone Town omanita",
+    "modern_location": "Zanzibar City, Tanzania",
+    "coordinates": {
+      "lat": -6.1622,
+      "lon": 39.1921
+    },
+    "scope": "Stone Town fra 1500 e 1800: insediamento swahili, fase portoghese e poi omanita, porto dell’Oceano Indiano, mercati, quartieri, moschee, forte e reti con l’entroterra africano e le coste asiatiche.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1800. Il grande sviluppo ottocentesco del sultanato, le piantagioni di chiodi di garofano e molti palazzi monumentali successivi sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "ZA1",
+      "title": "UNESCO — Stone Town of Zanzibar",
+      "use": "Tessuto urbano swahili, materiali, commerci e influenze culturali.",
+      "url": "https://whc.unesco.org/en/list/173/"
+    },
+    {
+      "id": "ZA2",
+      "title": "Encyclopaedia Britannica — Zanzibar",
+      "use": "Storia dell’isola, dominio portoghese e omanita.",
+      "url": "https://www.britannica.com/place/Zanzibar-island-Tanzania"
+    },
+    {
+      "id": "ZA3",
+      "title": "Stone Town Conservation and Development Authority",
+      "use": "Patrimonio urbano e tecniche costruttive.",
+      "url": "https://stcda.go.tz/"
+    },
+    {
+      "id": "ZA4",
+      "title": "The Metropolitan Museum of Art — Swahili Coast",
+      "use": "Cultura materiale, islam e commerci dell’Oceano Indiano.",
+      "url": "https://www.metmuseum.org/toah/hd/swah/hd_swah.htm"
+    },
+    {
+      "id": "ZA5",
+      "title": "UNESCO — Routes of Enslaved Peoples",
+      "use": "Contesto della tratta nell’Oceano Indiano.",
+      "url": "https://www.unesco.org/en/routes-enslaved-peoples"
+    }
+  ]
+}

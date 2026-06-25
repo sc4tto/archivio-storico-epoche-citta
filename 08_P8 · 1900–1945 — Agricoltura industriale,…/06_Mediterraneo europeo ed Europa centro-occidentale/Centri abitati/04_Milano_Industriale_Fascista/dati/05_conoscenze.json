@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Milano industriale, fascista e bombardata",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Infrastrutture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Elettricità, metropolitane, tram, ferrovie e porti",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Acqua, fognature, ospedali e protezione civile",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Economia urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "meccanica, tessile, editoria, finanza, design e produzione bellica",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Fabbriche, finanza, servizi, sindacati e logistica di guerra",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Politica e istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "municipio, prefettura, regime fascista, CLN e occupazione tedesca",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Municipalità, ministeri, polizia, partiti e controllo ideologico",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "operai, impiegati, migranti interni, donne nelle fabbriche e antifascisti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Migrazioni, quartieri operai, borghesia, scuole e associazioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Crisi e violenza",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "influenza, bombardamenti, repressione, razionamento, povertà e inquinamento",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "guerre mondiali, influenza del 1918, depressione, totalitarismi e bombardamenti",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

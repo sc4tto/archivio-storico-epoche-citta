@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Mamallapuram",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Scultura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Rilievi rupestri",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Ratha monolitici",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Autori individuali noti",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Grotte",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Templi strutturali",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Tutti i ratha consacrati",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Porto",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Contesto costiero",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Scambi marittimi",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_3",
+          "label": "Pianta completa del porto",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Iconografia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Shaiva",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Vaishnava",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Una sola lettura del grande rilievo",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Tecniche",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Taglio del granito",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Scultura in situ",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Sequenza di lavoro completa",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Conservazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Erosione salina",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Restauri",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Città sommersa dimostrata",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

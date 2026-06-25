@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Città del Guatemala fra terremoti e autoritarismi",
+    "site": "Città del Guatemala fra terremoti e autoritarismi",
+    "modern_location": "Città del Guatemala, Guatemala",
+    "coordinates": {
+      "lat": 14.6349,
+      "lon": -90.5069
+    },
+    "scope": "Città del Guatemala fra 1900 e 1945: regime di Estrada Cabrera, terremoti, ricostruzione, infrastrutture ferroviarie, dittatura di Ubico, lavoro coercitivo e rivoluzione dell’ottobre 1944.",
+    "version": "1.0",
+    "warning": "Sono escluse la guerra civile dal 1960, il terremoto del 1976 e la crescita metropolitana postbellica."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "GC1",
+      "title": "Encyclopaedia Britannica — Guatemala City",
+      "use": "Storia, terremoti e ruolo di capitale.",
+      "url": "https://www.britannica.com/place/Guatemala-City"
+    },
+    {
+      "id": "GC2",
+      "title": "Archivo General de Centro América",
+      "use": "Fonti amministrative, cartografiche e fotografiche.",
+      "url": "https://mcd.gob.gt/archivo-general-de-centro-america/"
+    },
+    {
+      "id": "GC3",
+      "title": "Universidad de San Carlos de Guatemala — Biblioteca Central",
+      "use": "Studi su città, politica e società.",
+      "url": "https://biblioteca.usac.edu.gt/"
+    },
+    {
+      "id": "GC4",
+      "title": "Instituto de Antropología e Historia de Guatemala",
+      "use": "Patrimonio urbano e architettura.",
+      "url": "https://mcd.gob.gt/"
+    },
+    {
+      "id": "GC5",
+      "title": "INSIVUMEH",
+      "use": "Terremoti, vulcani e rischio naturale.",
+      "url": "https://insivumeh.gob.gt/"
+    }
+  ]
+}

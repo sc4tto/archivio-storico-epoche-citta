@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Williamsburg fu capitale della Virginia dal 1699 al 1780.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "WI1; WI3"
+  },
+  {
+    "claim": "La città fu pianificata attorno a un asse fra Capitol e College.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "WI1; WI5"
+  },
+  {
+    "claim": "Taverne, botteghe, tribunali e istituzioni educative animavano l’economia urbana.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "WI1; WI4"
+  },
+  {
+    "claim": "Il lavoro schiavizzato fu essenziale nelle case, botteghe e piantagioni.",
+    "theme": "coercizione",
+    "status": "documentato",
+    "source": "WI1; WI4"
+  },
+  {
+    "claim": "Il sistema coloniale comportò espropriazione e pressione sulle comunità Powhatan.",
+    "theme": "coercizione",
+    "status": "documentato",
+    "source": "WI2; WI4"
+  },
+  {
+    "claim": "Gli edifici combinavano mattoni, legno, calce e coperture leggere.",
+    "theme": "tecniche",
+    "status": "documentato",
+    "source": "WI1; WI5"
+  },
+  {
+    "claim": "Il trasferimento della capitale a Richmond ridusse il ruolo politico cittadino.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "WI3; WI4"
+  },
+  {
+    "claim": "Il restauro novecentesco è distinto dalle strutture storiche.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "WI1; WI3"
+  }
+]

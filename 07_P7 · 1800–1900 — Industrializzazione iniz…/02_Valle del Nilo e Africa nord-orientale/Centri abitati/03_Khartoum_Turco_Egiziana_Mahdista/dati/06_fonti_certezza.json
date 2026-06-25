@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Khartoum fu fondata nel 1821 come avamposto militare.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "KH1; KH5"
+  },
+  {
+    "claim": "Divenne capitale amministrativa del Sudan turco-egiziano.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "KH1; KH5"
+  },
+  {
+    "claim": "La confluenza dei due Nili sostenne navigazione, commercio e approvvigionamento.",
+    "theme": "territorio",
+    "status": "documentato",
+    "source": "KH1; KH4"
+  },
+  {
+    "claim": "La città fu un importante nodo della tratta schiavistica, sistema coercitivo e violento.",
+    "theme": "coercizione",
+    "status": "documentato",
+    "source": "KH2; KH3; KH5"
+  },
+  {
+    "claim": "Piene ed epidemie condizionarono edifici e salute urbana.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "KH1; KH2"
+  },
+  {
+    "claim": "L’assedio del 1884–1885 terminò con la conquista mahdista.",
+    "theme": "conflitto",
+    "status": "documentato",
+    "source": "KH1; KH3"
+  },
+  {
+    "claim": "Omdurman sostituì temporaneamente Khartoum come principale centro politico.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "KH1; KH5"
+  },
+  {
+    "claim": "La pianificazione coloniale pienamente novecentesca è esclusa.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "KH1; KH2"
+  }
+]

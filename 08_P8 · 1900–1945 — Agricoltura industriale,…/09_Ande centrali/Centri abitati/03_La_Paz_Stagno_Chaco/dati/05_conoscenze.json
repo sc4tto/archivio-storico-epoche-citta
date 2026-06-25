@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di La Paz dello stagno e della guerra del Chaco",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Infrastrutture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Ferrovie, tram, strade, elettricità e telecomunicazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Acqua, drenaggi, ospedali, mercati e sanità urbana",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Economia urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "stagno, ferrovie, mercati, commercio, servizi e amministrazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Industria, commercio, credito, logistica e approvvigionamento",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Politica e istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "oligarchia mineraria, presidenza, esercito, municipalità e governi militari",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Municipalità, polizia, tribunali, esercito e amministrazioni centrali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "comunità aymara, minatori, commercianti, impiegati, soldati e sindacati",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Migrazioni, scuole, sindacati, associazioni, Chiesa e stampa",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Crisi e violenza",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "guerra del Chaco, repressione indigena, lavoro coercitivo, epidemie e scarsità d’acqua",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Segregazione, lavoro coercitivo, repressione e servizi distribuiti in modo diseguale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

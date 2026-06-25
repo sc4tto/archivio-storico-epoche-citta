@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Gerusalemme crociata, ayyubide e mamelucca",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Pellegrinaggio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Accoglienza e ospizi",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Gestione di itinerari sacri",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Costruzione in pietra",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Conci, volte e reimpiego",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Mosaici e decorazioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Gestione dell’acqua",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Cisterne e acquedotti",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Approvvigionamento in ambiente arido",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Pluralità religiosa",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Santuari e liturgie diverse",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Quartieri comunitari",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Difesa",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Mura, porte e cittadella",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Adattamento a conquiste ripetute",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

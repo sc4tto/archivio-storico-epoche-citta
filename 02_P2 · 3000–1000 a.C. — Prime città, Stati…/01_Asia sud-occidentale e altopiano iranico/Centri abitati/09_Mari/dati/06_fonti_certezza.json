@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Mari fu una città pianificata sul medio Eufrate",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "MARI_MARGUERON"
+  },
+  {
+    "claim": "Il palazzo di Zimri-Lim conservava archivi amministrativi e diplomatici",
+    "theme": "Archivi",
+    "status": "documentato",
+    "source": "MARI_ARCHIVES"
+  },
+  {
+    "claim": "La pittura dell’Investitura proviene dalla corte 106 del palazzo",
+    "theme": "Arte",
+    "status": "documentato",
+    "source": "MARI_LOUVRE"
+  },
+  {
+    "claim": "Canali e vie fluviali collegavano città, campi e traffici",
+    "theme": "Acqua",
+    "status": "sintesi",
+    "source": "MARI_MARGUERON"
+  },
+  {
+    "claim": "Mari collegava Mesopotamia, Siria e Anatolia",
+    "theme": "Scambi",
+    "status": "documentato",
+    "source": "MARI_ARCHIVES"
+  },
+  {
+    "claim": "Il palazzo noto fu costruito interamente da Zimri-Lim",
+    "theme": "Architettura",
+    "status": "non_documentato",
+    "source": "Fasi edilizie anteriori documentate"
+  },
+  {
+    "claim": "Ogni lettera d’archivio descrive eventi realmente avvenuti senza mediazione politica",
+    "theme": "Fonti",
+    "status": "non_documentato",
+    "source": "Documenti prodotti in contesti amministrativi e diplomatici"
+  },
+  {
+    "claim": "La distruzione pose fine a ogni occupazione del sito",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Frequentazioni successive limitate"
+  }
+]

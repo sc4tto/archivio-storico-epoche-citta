@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "La Paz coloniale",
+    "site": "La Paz coloniale",
+    "modern_location": "La Paz, Bolivia",
+    "coordinates": {
+      "lat": -16.4897,
+      "lon": -68.1193
+    },
+    "scope": "La Paz fra 1548 e 1800: piazza, cabildo, chiese, parrocchie, mercati, mulini, quartieri e reti di coca, lana, cereali, argento e trasporto carovaniero.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1800. Il ruolo di capitale governativa, l’espansione repubblicana e le infrastrutture moderne sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "LP1",
+      "title": "Encyclopaedia Britannica — La Paz",
+      "use": "Fondazione, geografia e sviluppo storico della città.",
+      "url": "https://www.britannica.com/place/La-Paz-Bolivia"
+    },
+    {
+      "id": "LP2",
+      "title": "Gobierno Autónomo Municipal de La Paz",
+      "use": "Patrimonio urbano e storia municipale.",
+      "url": "https://www.lapaz.bo/"
+    },
+    {
+      "id": "LP3",
+      "title": "Museo Nacional de Etnografía y Folklore",
+      "use": "Culture materiali andine e società dell’Alto Perù.",
+      "url": "https://www.musef.org.bo/"
+    },
+    {
+      "id": "LP4",
+      "title": "Archivo y Biblioteca Nacionales de Bolivia",
+      "use": "Fonti amministrative e sociali coloniali.",
+      "url": "https://www.archivoybibliotecanacionales.org.bo/"
+    },
+    {
+      "id": "LP5",
+      "title": "UNESCO — Qhapaq Ñan",
+      "use": "Reti andine e collegamenti regionali.",
+      "url": "https://whc.unesco.org/en/list/1459/"
+    }
+  ]
+}

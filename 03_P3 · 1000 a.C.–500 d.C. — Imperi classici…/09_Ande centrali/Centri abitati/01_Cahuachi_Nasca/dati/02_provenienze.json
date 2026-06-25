@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Cahuachi",
+      "lat": -14.82,
+      "lon": -75.13,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "nazca",
+      "label": "Valle di Nasca",
+      "lat": -14.83,
+      "lon": -74.94,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "palpa",
+      "label": "Palpa e geoglifi settentrionali",
+      "lat": -14.53,
+      "lon": -75.19,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "puquios",
+      "label": "Puquios e acquedotti della valle",
+      "lat": -14.85,
+      "lon": -74.95,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "highlands",
+      "label": "Altopiani di Ayacucho",
+      "lat": -13.16,
+      "lon": -74.22,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "coast",
+      "label": "Costa e baie del Pacifico",
+      "lat": -14.7,
+      "lon": -75.4,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "nazca",
+      "target": "site",
+      "label": "mais, cotone, persone e offerte",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "palpa",
+      "target": "site",
+      "label": "percorsi rituali, ceramiche e iconografie",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "puquios",
+      "target": "site",
+      "label": "acqua e produzione agricola di valle",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "highlands",
+      "target": "site",
+      "label": "camelidi, ossidiana e relazioni interandine",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "coast",
+      "target": "site",
+      "label": "pesce, conchiglie e beni marini",
+      "status": "documentato",
+      "food": "sì"
+    }
+  ]
+}

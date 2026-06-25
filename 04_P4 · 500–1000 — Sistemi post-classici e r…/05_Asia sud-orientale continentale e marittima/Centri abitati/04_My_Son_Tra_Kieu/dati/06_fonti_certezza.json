@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Mỹ Sơn fu un importante centro religioso e politico di Champa dal IV al XIII secolo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "M1"
+  },
+  {
+    "claim": "Il santuario è collegato al bacino del Thu Bồn, che raggiunge il mare presso Hội An.",
+    "theme": "geografia",
+    "status": "documentato",
+    "source": "M1"
+  },
+  {
+    "claim": "Le torri sono costruite in mattoni cotti con elementi e rilievi in arenaria.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "M1; M3"
+  },
+  {
+    "claim": "Il culto shivaita rimase centrale, pur con fasi di influenza buddhista.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "M1; M2"
+  },
+  {
+    "claim": "Trà Kiệu è spesso identificata con Simhapura, ma l’identificazione e le funzioni urbane sono discusse.",
+    "theme": "certezza",
+    "status": "sintesi",
+    "source": "M3; M4"
+  },
+  {
+    "claim": "La valle metteva in comunicazione capitale, santuario, campagna e costa.",
+    "theme": "scambio",
+    "status": "sintesi",
+    "source": "M1; M3"
+  },
+  {
+    "claim": "Riso, pesca e prodotti forestali sostenevano la popolazione e il culto.",
+    "theme": "alimentazione",
+    "status": "inferito",
+    "source": "confronto regionale; M3"
+  },
+  {
+    "claim": "I collegamenti con India e arcipelago influenzarono iconografie e tecniche, senza cancellare tradizioni locali.",
+    "theme": "cultura",
+    "status": "sintesi",
+    "source": "M1; M2; M3"
+  }
+]

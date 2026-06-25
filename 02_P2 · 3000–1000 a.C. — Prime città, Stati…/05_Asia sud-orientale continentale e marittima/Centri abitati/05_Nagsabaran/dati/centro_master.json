@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Nagsabaran — modulo multi-grafo",
+    "short_name": "Nagsabaran",
+    "site": "Villaggio neolitico di Nagsabaran",
+    "modern_location": "Valle del Cagayan, Luzon settentrionale, Filippine",
+    "coordinates": {
+      "lat": 18.607,
+      "lon": 121.083
+    },
+    "scope": "Villaggio neolitico della valle del Cagayan collegato alle prime espansioni austronesiane, con case su pali, ceramica rossa e cord-marked, riso, suini, cani, ornamenti e contatti con Taiwan e le isole Batanes.",
+    "version": "1.0-blocco_18_p2_asia_sud_orientale_5_centri_v1",
+    "warning": "Le correlazioni fra materiale archeologico, lingue austronesiane e migrazioni non sono equivalenze automatiche. La cronologia delle singole fasi e delle importazioni va trattata con cautela."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "NAG_EXC",
+      "title": "Hung et al. — Excavation at Nagsabaran: An Early Village Settlement in the Cagayan Valley of Northern Luzon, Philippines",
+      "url": "https://www.cambridge.org/core/journals/antiquity",
+      "use": "abitato, ceramica, cronologia e contatti"
+    },
+    {
+      "id": "NAG_JADE",
+      "title": "Hung et al. — Ancient Jades Map 3,000 Years of Prehistoric Exchange in Southeast Asia",
+      "url": "https://doi.org/10.1073/pnas.0707304104",
+      "use": "reti di giada e scambi regionali"
+    },
+    {
+      "id": "NAG_AUSTRO",
+      "title": "Bellwood — First Islanders: Prehistory and Human Migration in Island Southeast Asia",
+      "url": "https://onlinelibrary.wiley.com/doi/book/10.1002/9781119251583",
+      "use": "espansioni austronesiane e agricoltura insulare"
+    }
+  ]
+}

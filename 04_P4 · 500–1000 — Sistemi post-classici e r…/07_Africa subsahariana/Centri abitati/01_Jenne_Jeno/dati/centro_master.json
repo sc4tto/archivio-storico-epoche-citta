@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Jenne-jeno",
+    "site": "Jenne-jeno / Djenné-Djeno",
+    "modern_location": "Regione di Djenné, Mali",
+    "coordinates": {
+      "lat": 13.9064,
+      "lon": -4.555
+    },
+    "scope": "Jenne-jeno fra 500 e 1000, con attenzione all’urbanizzazione policentrica, alle risorse del delta interno, alla produzione artigianale e alle reti di scambio.",
+    "version": "1.0",
+    "warning": "Le dimensioni e la popolazione sono oggetto di stime; la città va letta insieme ai numerosi tell e insediamenti satelliti del delta, non come nucleo isolato."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "J1",
+      "title": "UNESCO World Heritage Centre — Old Towns of Djenné",
+      "use": "Siti archeologici di Djenné-Djeno e continuità insediativa del delta interno.",
+      "url": "https://whc.unesco.org/en/list/116/"
+    },
+    {
+      "id": "J2",
+      "title": "Susan e Roderick McIntosh — Jenne-jeno: An Ancient African City",
+      "use": "Scavi, cronologia e carattere urbano del sito.",
+      "url": "https://archive.archaeology.org/online/features/africa/"
+    },
+    {
+      "id": "J3",
+      "title": "Smarthistory — Jenne-jeno",
+      "use": "Sintesi archeologica su urbanizzazione, terracotta e produzione del ferro.",
+      "url": "https://smarthistory.org/jenne-jeno/"
+    },
+    {
+      "id": "J4",
+      "title": "Roderick J. McIntosh — Ancient Middle Niger",
+      "use": "Urbanismo policentrico e paesaggio auto-organizzato del Medio Niger.",
+      "url": "https://www.cambridge.org/core/books/ancient-middle-niger/"
+    },
+    {
+      "id": "J5",
+      "title": "UNESCO — Nomination documentation for Old Towns of Djenné",
+      "use": "Perimetro e valore dei siti archeologici associati.",
+      "url": "https://whc.unesco.org/en/list/116/documents/"
+    }
+  ]
+}

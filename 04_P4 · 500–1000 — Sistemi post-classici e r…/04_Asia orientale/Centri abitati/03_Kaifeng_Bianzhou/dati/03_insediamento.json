@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Bianzhou tang",
+    "Nuove mura e crescita commerciale",
+    "Capitale dei Liang posteriori",
+    "Capitali delle Cinque Dinastie",
+    "Prima capitale dei Song settentrionali"
+  ],
+  "items": [
+    {
+      "id": "walls",
+      "label": "Mura Tang e ampliamenti",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "canals",
+      "label": "Canali e approdi",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "markets",
+      "label": "Mercati e quartieri artigiani",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "palace",
+      "label": "Palazzo e uffici capitali",
+      "lane": "Politiche",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "temples",
+      "label": "Templi e monasteri",
+      "lane": "Religiose",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "granaries",
+      "label": "Granai e logistica fiscale",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "floods",
+      "label": "Piene, rialzamenti e ricostruzioni",
+      "lane": "Trasformazione",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

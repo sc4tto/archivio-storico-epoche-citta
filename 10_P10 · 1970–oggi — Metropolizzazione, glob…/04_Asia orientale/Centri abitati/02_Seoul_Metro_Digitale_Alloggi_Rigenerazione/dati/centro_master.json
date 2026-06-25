@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Seoul, metropolitana, città digitale, alloggi e rigenerazione",
+    "site": "Seoul, metropolitana, città digitale, alloggi e rigenerazione",
+    "modern_location": "Seoul, Corea del Sud",
+    "coordinates": {
+      "lat": 37.5665,
+      "lon": 126.978
+    },
+    "scope": "Seoul dal 1970 al 25 giugno 2026: industrializzazione autoritaria, crescita di Gangnam, apertura della metropolitana, democratizzazione, ricostruzione e riqualificazione, riforma del trasporto pubblico, governo digitale, invecchiamento, prezzi immobiliari, alluvioni e politiche climatiche.",
+    "version": "1.0",
+    "warning": "Il Seoul 2040 Comprehensive Plan e gli obiettivi successivi al 25 giugno 2026 sono indicati come piani futuri; non vengono presentati come opere già completate."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SE1",
+      "title": "Seoul Metropolitan Government — Seoul Subway",
+      "use": "Apertura nel 1974, crescita della rete e innovazioni di sicurezza e accessibilità.",
+      "url": "https://english.seoul.go.kr/seoul-policy-archive/seoul-subway/"
+    },
+    {
+      "id": "SE2",
+      "title": "Seoul Metropolitan Government — Seoul Urban Planning and 2040 Comprehensive Plan",
+      "use": "Quadro spaziale di lungo periodo e obiettivi di qualità urbana.",
+      "url": "https://english.seoul.go.kr/policy/urban-planning/seoul-urban-planning/"
+    },
+    {
+      "id": "SE3",
+      "title": "Seoul Metropolitan Government — Climate Card",
+      "use": "Integrazione tariffaria, trasporto pubblico e riduzione delle emissioni.",
+      "url": "https://english.seoul.go.kr/seoul-policy-archive/climate-card/"
+    },
+    {
+      "id": "SE4",
+      "title": "Seoul Metropolitan Government — Balanced Urban Development",
+      "use": "Riduzione delle disparità territoriali e poli strategici nelle diverse aree della città.",
+      "url": "https://english.seoul.go.kr/seoul-policy-archive/balanced-urban-development/"
+    }
+  ]
+}

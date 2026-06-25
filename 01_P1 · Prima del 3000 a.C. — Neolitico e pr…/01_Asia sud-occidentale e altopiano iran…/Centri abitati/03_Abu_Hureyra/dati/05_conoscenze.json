@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Abu Hureyra",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "env",
+      "label": "Ambiente",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "season",
+          "label": "Stagionalità delle piante",
+          "status": "documentato"
+        },
+        {
+          "id": "yd",
+          "label": "Risposta a condizioni aride e fredde",
+          "status": "sintesi"
+        },
+        {
+          "id": "habitat",
+          "label": "Uso di habitat fluviali e steppici",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "plants",
+      "label": "Piante",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "gatherk",
+          "label": "Raccolta selettiva",
+          "status": "documentato"
+        },
+        {
+          "id": "cultk",
+          "label": "Coltivazione sperimentale",
+          "status": "sintesi"
+        },
+        {
+          "id": "seedk",
+          "label": "Conservazione dei semi",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "animals",
+      "label": "Animali",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "huntk",
+          "label": "Caccia alla gazzella",
+          "status": "documentato"
+        },
+        {
+          "id": "tendk",
+          "label": "Custodia animale",
+          "status": "documentato"
+        },
+        {
+          "id": "herdk",
+          "label": "Allevamento ovicaprino",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "foodk",
+      "label": "Tecnologie alimentari",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "grindk",
+          "label": "Macinazione",
+          "status": "documentato"
+        },
+        {
+          "id": "storek",
+          "label": "Stoccaggio",
+          "status": "documentato"
+        },
+        {
+          "id": "cookk",
+          "label": "Cottura",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "buildk",
+      "label": "Edilizia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "pitk",
+          "label": "Capanne infossate",
+          "status": "documentato"
+        },
+        {
+          "id": "brickk",
+          "label": "Mattoni crudi",
+          "status": "documentato"
+        },
+        {
+          "id": "roofk",
+          "label": "Coperture vegetali",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "social",
+      "label": "Organizzazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "sedent",
+          "label": "Sedentarietà",
+          "status": "sintesi"
+        },
+        {
+          "id": "labour",
+          "label": "Coordinamento agricolo",
+          "status": "inferito"
+        },
+        {
+          "id": "risk",
+          "label": "Gestione collettiva del rischio",
+          "status": "inferito"
+        }
+      ]
+    }
+  ]
+}

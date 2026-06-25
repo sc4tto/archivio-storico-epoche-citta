@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Aquisgrana",
+      "lat": 50.7753,
+      "lon": 6.0839,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "julich",
+      "label": "Tenute verso Jülich",
+      "lat": 50.92,
+      "lon": 6.36,
+      "status": "sintesi",
+      "kind": "locale"
+    },
+    {
+      "id": "maas",
+      "label": "Maastricht e valle della Mosa",
+      "lat": 50.85,
+      "lon": 5.69,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "ardennes",
+      "label": "Ardenne",
+      "lat": 50.35,
+      "lon": 5.82,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "rhine",
+      "label": "Colonia e corridoio renano",
+      "lat": 50.94,
+      "lon": 6.96,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "rome",
+      "label": "Roma",
+      "lat": 41.89,
+      "lon": 12.48,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "italy",
+      "label": "Italia settentrionale e Ravenna",
+      "lat": 45.0,
+      "lon": 10.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "julich",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "rete di tenute e strade",
+      "food": "cereali e bestiame"
+    },
+    {
+      "source": "maas",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoio fluviale e terrestre",
+      "food": "vino, sale e merci"
+    },
+    {
+      "source": "ardennes",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "uso dei boschi",
+      "food": "legname, caccia e pascolo"
+    },
+    {
+      "source": "rhine",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "connessione con il Reno",
+      "food": "persone, metalli e prodotti"
+    },
+    {
+      "source": "rome",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "legittimazione religiosa e diplomazia",
+      "food": "reliquie, testi e ambasciate"
+    },
+    {
+      "source": "italy",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "modelli artistici e materiali",
+      "food": "marmi, bronzi e maestranze"
+    }
+  ]
+}

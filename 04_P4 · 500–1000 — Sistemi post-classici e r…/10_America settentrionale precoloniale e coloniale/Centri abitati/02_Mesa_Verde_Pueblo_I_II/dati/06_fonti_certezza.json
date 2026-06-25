@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Mesa Verde fu occupata dagli Ancestral Pueblo per molti secoli a partire da circa 450–550.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "MV1; MV2"
+  },
+  {
+    "claim": "Nel periodo P4 prevalsero villaggi sulle mesa e case seminterrate o in prima muratura.",
+    "theme": "insediamento",
+    "status": "documentato",
+    "source": "MV1; MV3"
+  },
+  {
+    "claim": "Le grandi abitazioni rupestri sono posteriori al 1100.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "MV1; MV3"
+  },
+  {
+    "claim": "Agricoltura, terrazzamenti e controllo dell’erosione strutturavano il paesaggio.",
+    "theme": "agricoltura",
+    "status": "documentato",
+    "source": "MV1; MV5"
+  },
+  {
+    "claim": "Le kiva derivano da una lunga tradizione di spazi seminterrati.",
+    "theme": "religione",
+    "status": "sintesi",
+    "source": "MV3; MV4"
+  },
+  {
+    "claim": "La ceramica e lo stoccaggio sostenevano villaggi più aggregati.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "MV3; MV4"
+  },
+  {
+    "claim": "Le reti con Chaco diventano più importanti verso la fine del periodo.",
+    "theme": "commercio",
+    "status": "sintesi",
+    "source": "MV3; MV4"
+  },
+  {
+    "claim": "Il paesaggio conserva siti abitativi e non abitativi integrati.",
+    "theme": "paesaggio",
+    "status": "documentato",
+    "source": "MV1"
+  }
+]

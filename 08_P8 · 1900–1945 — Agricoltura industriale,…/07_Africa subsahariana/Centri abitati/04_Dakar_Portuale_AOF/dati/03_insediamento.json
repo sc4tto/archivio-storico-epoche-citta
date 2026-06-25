@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1900–1909",
+    "1910–1918",
+    "1919–1928",
+    "1929–1938",
+    "1939–1945"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Dakar capitale dell’AOF dal 1902",
+      "lane": "Politica",
+      "start": 0,
+      "end": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Espansione del porto e delle ferrovie",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Peste del 1914 e creazione forzata di Medina",
+      "lane": "Sanità",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Mobilitazione dei tirailleurs nella Grande Guerra",
+      "lane": "Conflitti",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Crescita amministrativa, sanitaria e commerciale",
+      "lane": "Economia",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Depressione e crisi delle arachidi",
+      "lane": "Economia",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Battaglia di Dakar e militarizzazione nel 1940",
+      "lane": "Conflitti",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Indipendenza post-1945 esclusa",
+      "lane": "Cronologia",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

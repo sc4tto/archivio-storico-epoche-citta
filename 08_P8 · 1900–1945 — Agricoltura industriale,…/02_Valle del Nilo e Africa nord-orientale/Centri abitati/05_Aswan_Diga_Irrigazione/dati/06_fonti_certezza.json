@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "La diga bassa di Assuan fu completata nel 1902.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "AS1; AS2"
+  },
+  {
+    "claim": "La diga fu sopraelevata più volte prima del 1945.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "AS1; AS2"
+  },
+  {
+    "claim": "La regolazione delle acque ampliò l’irrigazione permanente.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "AS1; AS2"
+  },
+  {
+    "claim": "Le opere modificarono i paesaggi e la vita delle comunità nubiane.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "AS2; AS3"
+  },
+  {
+    "claim": "Ferrovia e navigazione collegarono Aswan al resto dell’Egitto e al Sudan.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "AS4; AS5"
+  },
+  {
+    "claim": "Il turismo archeologico divenne una funzione urbana importante.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "AS3; AS5"
+  },
+  {
+    "claim": "Malaria e condizioni sanitarie rimasero problemi regionali.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "AS2; AS5"
+  },
+  {
+    "claim": "La Grande Diga costruita dal 1960 è esclusa.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "AS1; AS3"
+  }
+]

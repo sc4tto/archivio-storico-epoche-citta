@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_51_P5_Asia_Orientale_5_Centri_v1",
+  "macroregion": "Asia orientale",
+  "centers": [
+    "01_Kaifeng_Bianjing_Song",
+    "02_Hangzhou_Linan_Song",
+    "03_Beijing_Dadu_Yuan_Ming",
+    "04_Kyoto_Heian_Muromachi",
+    "05_Kamakura_Shogunale"
+  ],
+  "uses_central_assets": true
+}

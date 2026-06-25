@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Cairo ottomano",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Nilo e acqua",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Canali, pozzi e cisterne",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Sabil e hammam",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mercati",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Wakala, suq e corporazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Pesi, dogane e granai",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Cupole, minareti e portali",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Mashrabiyya e decorazione lignea",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Waqf e fondazioni di quartiere",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Amministrazione ottomana e beylik mamelucco",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Mobilità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Pellegrinaggio alla Mecca",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Rotte del Mediterraneo e Mar Rosso",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Costantinopoli tardo-bizantina",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Idraulica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Cisterne e acquedotti",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Drenaggio e manutenzione urbana",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Fortificazioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Mura teodosiane",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Torri, fossati e porte",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Volte, cupole e muratura mista",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Carpenteria e coperture",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Porti e dazi",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Reti del Mar Nero e Mediterraneo",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Religione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Monasteri e liturgia ortodossa",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Mosaico e pittura sacra",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

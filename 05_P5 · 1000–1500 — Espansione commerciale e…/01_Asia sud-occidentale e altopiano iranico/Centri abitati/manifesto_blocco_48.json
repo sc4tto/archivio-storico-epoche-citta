@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_48_P5_Asia_Sud_Occidentale_5_Centri_v1",
+  "macroregion": "Asia sud-occidentale e altopiano iranico",
+  "centers": [
+    "01_Baghdad_Abbaside_Ilkhanide",
+    "02_Damasco_Ayyubide_Mamelucca",
+    "03_Gerusalemme_Crociata_Ayyubide_Mamelucca",
+    "04_Tabriz_Ilkhanide",
+    "05_Isfahan_Selgiuchide_Ilkhanide"
+  ],
+  "uses_central_assets": true
+}

@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Koster",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Ambiente fluviale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Piene",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Zone umide",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Stagionalità",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Piante",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Noci e semi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Macinazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Deposito",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Fauna",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Caccia",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Pesca",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Cani domestici",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Edilizia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Fosse",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Pali",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Manutenzione",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Rituali",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Sepolture umane",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Sepolture canine",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Memoria comunitaria",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Organizzazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Gruppi residenti",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_2",
+          "label": "Cooperazione",
+          "status": "inferito"
+        },
+        {
+          "id": "k6_3",
+          "label": "Capo ereditario",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

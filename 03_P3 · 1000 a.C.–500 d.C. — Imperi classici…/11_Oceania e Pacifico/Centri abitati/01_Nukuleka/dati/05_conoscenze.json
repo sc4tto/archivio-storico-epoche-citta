@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Nukuleka",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Cronologia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Data U/Th 2838±8 BP",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Sequenza di circa 250 anni Lapita",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Data unica per tutto il sito",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Ceramica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Motivi Lapita antichi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Vasi importati e locali",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Decorazione sempre continua",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Mare",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Laguna e oceano aperto",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Pesca di barriera",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Rotte esatte note",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Insediamento",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Crescita areale",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Midden stratificato",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Piano urbano unitario",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Mobilità",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Espansione verso Ha‘apai",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Collegamenti con Samoa",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_3",
+          "label": "Controllo politico regionale",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Metodo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "U/Th su corallo",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Radiocarbonio",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Associazione di ogni reperto",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

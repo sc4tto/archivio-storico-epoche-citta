@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Il progetto di gestione delle alluvioni di Metro Manila combina stazioni di pompaggio, miglioramento dei corsi d’acqua, gestione dei rifiuti e ricollocazioni.",
+    "theme": "rischio",
+    "status": "documentato",
+    "source": "MA1"
+  },
+  {
+    "claim": "Gli studi sulla informalità mostrano una popolazione degli insediamenti informali socialmente ed economicamente diversificata.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "MA2"
+  },
+  {
+    "claim": "La Metro Manila Subway è progettata come linea sotterranea ad alta capacità e resta in costruzione.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "MA3"
+  },
+  {
+    "claim": "OHCHR ha documentato diffuse violazioni dei diritti umani e uccisioni connesse alla campagna antidroga.",
+    "theme": "diritti",
+    "status": "documentato",
+    "source": "MA4"
+  },
+  {
+    "claim": "Le date successive al 25 giugno 2026 per la metropolitana sono obiettivi di progetto, non fatti già avvenuti.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "MA3"
+  },
+  {
+    "claim": "Manila, megaregione, trasporti, alluvioni e disuguaglianze è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "La legge marziale, le demolizioni e ricollocazioni forzate, la criminalizzazione della povertà, le uccisioni extragiudiziali della “guerra alla droga” e l’esposizione diseguale alle alluvioni sono descritti come violenza, coercizione e disuguaglianza, non come semplice gestione urbana.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

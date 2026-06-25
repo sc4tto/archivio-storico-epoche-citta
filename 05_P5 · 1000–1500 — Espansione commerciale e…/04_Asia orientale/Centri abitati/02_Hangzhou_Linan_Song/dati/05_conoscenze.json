@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Hangzhou–Lin’an dei Song meridionali",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Idraulica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Canali, dragaggio e argini",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Regolazione del Lago dell’Ovest",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Grande Canale e Qiantang",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Porti marittimi e monsoni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Sobborghi e mercati",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Prevenzione e risposta agli incendi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Paesaggio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Causeway, isole e vedute",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Templi e giardini integrati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Amministrazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Rifornimento della capitale",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Burocrazia e fiscalità commerciale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

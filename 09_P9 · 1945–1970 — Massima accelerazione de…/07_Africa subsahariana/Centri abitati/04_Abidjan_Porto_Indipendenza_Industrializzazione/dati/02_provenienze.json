@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Abidjan",
+      "lat": 5.35995,
+      "lon": -4.00826,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "lag",
+      "label": "Laguna Ébrié e Vridi",
+      "lat": 5.25,
+      "lon": -4.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "for",
+      "label": "Cintura forestale ivoriana",
+      "lat": 6.0,
+      "lon": -5.0,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "bou",
+      "label": "Bouaké e centro del paese",
+      "lat": 7.69,
+      "lon": -5.03,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "nord",
+      "label": "Nord della Côte d’Ivoire e Sahel",
+      "lat": 10.0,
+      "lon": -5.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "golf",
+      "label": "Golfo di Guinea",
+      "lat": 4.0,
+      "lon": -2.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "bur",
+      "label": "Burkina Faso e rete ferroviaria",
+      "lat": 12.37,
+      "lon": -1.52,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "lag",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "piroghe, traghetti e porto",
+      "food": "pesce, sale, legna, materiali e passeggeri"
+    },
+    {
+      "source": "for",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "camion e mercati",
+      "food": "manioca, plantain, cacao, caffè e olio di palma"
+    },
+    {
+      "source": "bou",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e strade",
+      "food": "ignami, cereali, bestiame, lavoratori e merci"
+    },
+    {
+      "source": "nord",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "camion e reti migratorie",
+      "food": "carne, cereali, arachidi e migranti"
+    },
+    {
+      "source": "golf",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte marittime e porto di Vridi",
+      "food": "farina, carburanti, macchinari e beni di consumo"
+    },
+    {
+      "source": "bur",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia Abidjan–Ouagadougou",
+      "food": "bestiame, cotone, cereali, passeggeri e commercio regionale"
+    }
+  ]
+}

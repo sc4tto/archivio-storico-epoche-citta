@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Alessandria rimase un grande porto del Mediterraneo medievale.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "AL1; AL2"
+  },
+  {
+    "claim": "I mercanti italiani disponevano di fondachi e rappresentanti consolari.",
+    "theme": "commercio",
+    "status": "documentato",
+    "source": "AL2; AL3"
+  },
+  {
+    "claim": "Il traffico di spezie collegava il Mar Rosso al Mediterraneo attraverso l’Egitto.",
+    "theme": "commercio",
+    "status": "documentato",
+    "source": "AL2; AL3"
+  },
+  {
+    "claim": "I terremoti del XIV secolo danneggiarono la città e il faro.",
+    "theme": "crisi",
+    "status": "documentato",
+    "source": "AL1"
+  },
+  {
+    "claim": "Il sacco del 1365 causò distruzioni e interruzioni commerciali.",
+    "theme": "conflitto",
+    "status": "documentato",
+    "source": "AL1; AL2"
+  },
+  {
+    "claim": "Qaitbay costruì una cittadella presso il sito del faro nel tardo XV secolo.",
+    "theme": "difesa",
+    "status": "documentato",
+    "source": "AL4"
+  },
+  {
+    "claim": "Le cisterne erano essenziali per l’approvvigionamento idrico urbano.",
+    "theme": "acqua",
+    "status": "documentato",
+    "source": "AL1; AL5"
+  },
+  {
+    "claim": "La città medievale riutilizzò materiali antichi senza conservarne integralmente la topografia.",
+    "theme": "certezza",
+    "status": "sintesi",
+    "source": "AL1; AL5"
+  }
+]

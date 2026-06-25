@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Vienna imperiale e della Ringstrasse",
+    "site": "Vienna imperiale e della Ringstrasse",
+    "modern_location": "Vienna, Austria",
+    "coordinates": {
+      "lat": 48.2082,
+      "lon": 16.3738
+    },
+    "scope": "Vienna fra 1800 e 1900: capitale imperiale, rivoluzione del 1848, espansione municipale, Ringstrasse, ferrovie, Danubio, reti idriche, edilizia, cultura e società multietnica.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Vienna Rossa, dissoluzione imperiale, guerre mondiali e trasformazioni contemporanee sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "VI1",
+      "title": "UNESCO — Historic Centre of Vienna",
+      "use": "Ringstrasse, architettura storicista e capitale asburgica.",
+      "url": "https://whc.unesco.org/en/list/1033/"
+    },
+    {
+      "id": "VI2",
+      "title": "Wien Museum",
+      "use": "Storia urbana, società e cultura materiale.",
+      "url": "https://www.wienmuseum.at/"
+    },
+    {
+      "id": "VI3",
+      "title": "Wien Geschichte Wiki",
+      "use": "Cronologia urbana, infrastrutture e istituzioni.",
+      "url": "https://www.geschichtewiki.wien.gv.at/"
+    },
+    {
+      "id": "VI4",
+      "title": "Wiener Stadt- und Landesarchiv",
+      "use": "Mappe, amministrazione e sviluppo municipale.",
+      "url": "https://www.wien.gv.at/kultur/archiv/"
+    },
+    {
+      "id": "VI5",
+      "title": "Austrian National Library",
+      "use": "Stampa, cartografia e documentazione dell’Impero asburgico.",
+      "url": "https://www.onb.ac.at/"
+    }
+  ]
+}

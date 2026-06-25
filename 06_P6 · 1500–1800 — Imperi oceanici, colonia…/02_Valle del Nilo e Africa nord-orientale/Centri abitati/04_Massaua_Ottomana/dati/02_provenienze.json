@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Massaua",
+      "lat": 15.6097,
+      "lon": 39.4746,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "ark",
+      "label": "Arkiko",
+      "lat": 15.55,
+      "lon": 39.47,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "asm",
+      "label": "Asmara e altopiano",
+      "lat": 15.34,
+      "lon": 38.93,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "aks",
+      "label": "Aksum e Tigray",
+      "lat": 14.13,
+      "lon": 38.72,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "sua",
+      "label": "Suakin",
+      "lat": 19.1,
+      "lon": 37.33,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "jed",
+      "label": "Gedda",
+      "lat": 21.49,
+      "lon": 39.19,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "moc",
+      "label": "Mocha e Yemen",
+      "lat": 13.32,
+      "lon": 43.25,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "ark",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "breve asse costiero",
+      "food": "acqua, ortaggi, bestiame e manodopera"
+    },
+    {
+      "source": "asm",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane dell’altopiano",
+      "food": "cereali, miele, caffè e pelli"
+    },
+    {
+      "source": "aks",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "vie del Tigray",
+      "food": "grano, bestiame, tessili e pellegrini"
+    },
+    {
+      "source": "sua",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cabotaggio del Mar Rosso",
+      "food": "funzionari, merci ottomane e sale"
+    },
+    {
+      "source": "jed",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione del Mar Rosso",
+      "food": "pellegrini, riso e tessili"
+    },
+    {
+      "source": "moc",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotta meridionale",
+      "food": "caffè, spezie e merci arabe"
+    }
+  ]
+}

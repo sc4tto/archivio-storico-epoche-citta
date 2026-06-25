@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Delhi sultaniale: Mehrauli, Siri, Tughlaqabad e Firozabad",
+    "site": "Delhi sultaniale",
+    "modern_location": "Delhi, India",
+    "coordinates": {
+      "lat": 28.6139,
+      "lon": 77.209
+    },
+    "scope": "Delhi fra 1000 e 1500: dalla regione di Lal Kot e Mehrauli alle capitali di Siri, Tughlaqabad, Jahanpanah e Firozabad, con il complesso del Qutb, fortificazioni, mercati e sistemi idraulici.",
+    "version": "1.0",
+    "warning": "Il modulo si limita alle fasi del Sultanato di Delhi. Le trasformazioni moghul successive al 1526 non sono incluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "DE1",
+      "title": "UNESCO — Qutb Minar and its Monuments, Delhi",
+      "use": "Qutb Minar, Quwwat-ul-Islam, Alai Darwaza e architettura del primo Sultanato.",
+      "url": "https://whc.unesco.org/en/list/233/"
+    },
+    {
+      "id": "DE2",
+      "title": "Encyclopaedia Britannica — Delhi",
+      "use": "Storia urbana e successione delle capitali.",
+      "url": "https://www.britannica.com/place/Delhi"
+    },
+    {
+      "id": "DE3",
+      "title": "Archnet — Delhi",
+      "use": "Moschee, madrase, tombe e fortificazioni sultaniali.",
+      "url": "https://www.archnet.org/sites/country/IN"
+    },
+    {
+      "id": "DE4",
+      "title": "The Metropolitan Museum of Art — Islamic South Asia",
+      "use": "Arti, materiali e cultura del Sultanato di Delhi.",
+      "url": "https://www.metmuseum.org/toah/hd/isla/hd_isla.htm"
+    },
+    {
+      "id": "DE5",
+      "title": "Archaeological Survey of India — Qutb Minar",
+      "use": "Conservazione e descrizione del complesso monumentale.",
+      "url": "https://asi.nic.in/pages/WorldHeritageQutbMinar"
+    }
+  ]
+}

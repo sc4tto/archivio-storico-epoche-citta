@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Spirit Cave — modulo multi-grafo",
+    "short_name": "Spirit Cave",
+    "site": "Spirit Cave",
+    "modern_location": "Distretto di Pang Mapha, provincia di Mae Hong Son, Thailandia",
+    "coordinates": {
+      "lat": 19.56,
+      "lon": 98.25
+    },
+    "scope": "Occupazioni del Pleistocene finale e dell’Olocene antico; nel P1 si considerano soprattutto i livelli di foraggiatori e le rivalutazioni cronologiche moderne",
+    "version": "1.0-blocco_06_p1_asia_sud_orientale_5_centri_v1",
+    "warning": "Le vecchie interpretazioni di agricoltura molto precoce e ceramica antichissima non sono considerate dimostrate. La stratigrafia e alcune datazioni sono state rivalutate."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "SPIRIT_ANTIQUITY",
+      "title": "Conrad et al. — Re-evaluating Pleistocene–Holocene occupation of cave sites in north-west Thailand",
+      "url": "https://doi.org/10.15184/aqy.2021.156",
+      "use": "nuove datazioni, stratigrafia e revisione delle grotte di Mae Hong Son"
+    },
+    {
+      "id": "SPIRIT_ZOO",
+      "title": "Conrad et al. — Palaeoecology and Forager Subsistence Strategies at Spirit Cave",
+      "url": "https://muse.jhu.edu/article/635117",
+      "use": "fauna, sussistenza e paleoecologia"
+    },
+    {
+      "id": "GORMAN_1971",
+      "title": "Chester Gorman — The Hoabinhian and After",
+      "url": "https://doi.org/10.1080/00438243.1971.9979524",
+      "use": "scavi originari, industria litica e resti vegetali"
+    }
+  ]
+}

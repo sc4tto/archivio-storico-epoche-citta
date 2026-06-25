@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Córdoba omayyade",
+    "site": "Qurṭuba / Córdoba e valle del Guadalquivir",
+    "modern_location": "Córdoba, Andalusia, Spagna",
+    "coordinates": {
+      "lat": 37.8882,
+      "lon": -4.7794
+    },
+    "scope": "Córdoba fra 500 e 1000, dalla città visigota alla capitale omayyade e califfale, con attenzione a irrigazione, mercati, cultura e architettura.",
+    "version": "1.0",
+    "warning": "Le cifre medievali su popolazione e numero di moschee sono spesso retoriche o tarde; il modulo privilegia tendenze verificabili e segnala le sintesi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "Q1",
+      "title": "UNESCO World Heritage Centre — Historic Centre of Cordoba",
+      "use": "Grande Moschea, palazzi, edifici pubblici e splendore urbano dall’VIII secolo.",
+      "url": "https://whc.unesco.org/en/list/313/"
+    },
+    {
+      "id": "Q2",
+      "title": "UNESCO World Heritage Centre — Caliphate City of Medina Azahara",
+      "use": "Città palatina del X secolo e paesaggio califfale.",
+      "url": "https://whc.unesco.org/en/list/1560/"
+    },
+    {
+      "id": "Q3",
+      "title": "Encyclopaedia Britannica — Córdoba",
+      "use": "Storia della capitale omayyade e del califfato.",
+      "url": "https://www.britannica.com/place/Cordoba-Spain"
+    },
+    {
+      "id": "Q4",
+      "title": "The Metropolitan Museum of Art — The Art of the Umayyad Period in Spain",
+      "use": "Arte, architettura e cultura materiale di al-Andalus.",
+      "url": "https://www.metmuseum.org/toah/hd/sumay/hd_sumay.htm"
+    },
+    {
+      "id": "Q5",
+      "title": "Casa Árabe — Qurtuba",
+      "use": "Divulgazione e ricerca sulla Córdoba islamica.",
+      "url": "https://www.casaarabe.es/"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Chichén Itzá tarda e paesaggio dei cenotes",
+    "site": "Chichén Itzá",
+    "modern_location": "Tinum, Yucatán, Messico",
+    "coordinates": {
+      "lat": 20.6843,
+      "lon": -88.5678
+    },
+    "scope": "Chichén Itzá fra 1000 e 1500: fase monumentale maya-tolteca, reti regionali, progressiva riduzione della costruzione dopo il XIII secolo e persistenza rituale fino al XV secolo.",
+    "version": "1.0",
+    "warning": "Il modulo non assume una conquista tolteca letterale come fatto certo. La cronologia della fase terminale e il rapporto con Mayapán restano oggetto di dibattito."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "CI1",
+      "title": "UNESCO — Pre-Hispanic City of Chichen-Itza",
+      "use": "Cronologia, cenotes, monumenti e influenza fra X e XV secolo.",
+      "url": "https://whc.unesco.org/en/list/483/"
+    },
+    {
+      "id": "CI2",
+      "title": "Encyclopaedia Britannica — Chichen Itza",
+      "use": "Storia urbana, architettura e declino.",
+      "url": "https://www.britannica.com/place/Chichen-Itza"
+    },
+    {
+      "id": "CI3",
+      "title": "INAH — Zona Arqueológica de Chichén Itzá",
+      "use": "Archeologia, edifici e gestione del sito.",
+      "url": "https://www.inah.gob.mx/zonas/146-zona-arqueologica-de-chichen-itza"
+    },
+    {
+      "id": "CI4",
+      "title": "Metropolitan Museum — Maya Art",
+      "use": "Arte, scambi e cultura materiale maya.",
+      "url": "https://www.metmuseum.org/toah/hd/maya/hd_maya.htm"
+    },
+    {
+      "id": "CI5",
+      "title": "UNESCO — Maya sites of Yucatán",
+      "use": "Confronto regionale fra centri, paesaggi e tecniche costruttive.",
+      "url": "https://whc.unesco.org/"
+    }
+  ]
+}

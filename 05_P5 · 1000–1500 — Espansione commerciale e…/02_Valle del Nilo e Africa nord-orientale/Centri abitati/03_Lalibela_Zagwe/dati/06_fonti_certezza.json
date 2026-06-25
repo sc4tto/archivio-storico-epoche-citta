@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Il complesso comprende undici chiese rupestri principali.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "LA1"
+  },
+  {
+    "claim": "Le chiese furono scavate nella roccia mediante un processo sottrattivo.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "LA1; LA2"
+  },
+  {
+    "claim": "Il paesaggio rappresenta simbolicamente Gerusalemme e il Giordano.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "LA1; LA2"
+  },
+  {
+    "claim": "La cronologia delle singole chiese comprende più fasi.",
+    "theme": "certezza",
+    "status": "documentato",
+    "source": "LA2"
+  },
+  {
+    "claim": "L’attribuzione dell’intero complesso a un solo sovrano è una semplificazione tradizionale.",
+    "theme": "certezza",
+    "status": "sintesi",
+    "source": "LA2; LA4"
+  },
+  {
+    "claim": "Drenaggio e infiltrazioni costituiscono problemi di conservazione.",
+    "theme": "conservazione",
+    "status": "documentato",
+    "source": "LA3"
+  },
+  {
+    "claim": "Lalibela rimase un centro di pellegrinaggio dopo la fine della dinastia Zagwe.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "LA1; LA4"
+  },
+  {
+    "claim": "Agricoltura e pastorizia degli altopiani sostenevano la comunità residente e i pellegrini.",
+    "theme": "economia",
+    "status": "sintesi",
+    "source": "LA4; LA5"
+  }
+]

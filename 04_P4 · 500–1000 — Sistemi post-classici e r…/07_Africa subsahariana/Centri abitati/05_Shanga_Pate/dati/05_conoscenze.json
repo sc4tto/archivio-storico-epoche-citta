@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Shanga–Pate",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0_sea",
+      "label": "Navigazione e monsoni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0_piloting",
+          "label": "Pilotaggio costiero e reef",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1_seasons",
+          "label": "Calendario dei venti monsonici",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1_water",
+      "label": "Acqua e insediamento",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0_wells",
+          "label": "Scavo e manutenzione dei pozzi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1_drainage",
+          "label": "Gestione di sabbia e drenaggio",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2_craft",
+      "label": "Artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0_iron",
+          "label": "Siderurgia e utensili",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1_beads",
+          "label": "Perline, tessili e pelli",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3_religion",
+      "label": "Pratiche islamiche",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0_mosque",
+          "label": "Orientamento e ricostruzione delle moschee",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1_script",
+          "label": "Uso di iscrizioni e formule arabe",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4_trade",
+      "label": "Commercio marittimo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0_valuation",
+          "label": "Valutazione di merci e monete",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_1_networks",
+          "label": "Rapporti con porti oceanici",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

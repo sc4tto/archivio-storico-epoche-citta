@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Gerusalemme",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Santuari",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Cupola della Roccia",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Santo Sepolcro",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Al-Aqsa in più fasi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Pellegrinaggi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Cristiani",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Musulmani",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Flussi annuali quantificati",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Acqua",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Cisterne",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Sorgenti e acquedotti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Autosufficienza totale",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Topografia",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Mura tardoantiche",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Quartieri differenziati",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Quartieri moderni identici",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Comunità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Cristiani",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Ebrei",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Musulmani",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Metodo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Archeologia stratificata",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Fonti di pellegrini",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Tradizione uguale a prova materiale",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

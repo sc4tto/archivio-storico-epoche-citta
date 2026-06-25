@@ -1,0 +1,324 @@
+{
+  "nodes": [
+    {
+      "id": "t0",
+      "label": "Terrazze irrigate della mesa",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t1",
+      "label": "Valle media di Moquegua",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t2",
+      "label": "Pascoli e alture circostanti",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t3",
+      "label": "Reti verso costa e altopiano",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "r0",
+      "label": "Mais per alimenti e chicha",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r1",
+      "label": "Molle e peperoncini",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r2",
+      "label": "Camelidi e porcellini d’India",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r3",
+      "label": "Pesce, cotone e prodotti costieri",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "a0",
+      "label": "Coltivazione irrigua",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a1",
+      "label": "Carovane e allevamento",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a2",
+      "label": "Tributo e approvvigionamento",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "a3",
+      "label": "Scambio di frontiera",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "x0",
+      "label": "Macinazione e bollitura",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x1",
+      "label": "Fermentazione nella brewery",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x2",
+      "label": "Macellazione e cottura",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x3",
+      "label": "Stoccaggio e servizio in grandi vasi",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "p0",
+      "label": "Pasti domestici",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "p1",
+      "label": "Chicha di mais e molle",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "p2",
+      "label": "Carne e charqui",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "p3",
+      "label": "Banchetti diplomatici e rituali",
+      "layer": 4,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "t0",
+      "target": "r0",
+      "status": "documentato",
+      "label": "Le terrazze irrigate producevano mais."
+    },
+    {
+      "source": "t0",
+      "target": "r1",
+      "status": "documentato",
+      "label": "Le terrazze potevano sostenere molle e peperoncini."
+    },
+    {
+      "source": "t1",
+      "target": "r0",
+      "status": "documentato",
+      "label": "La valle di Moquegua contribuiva alla produzione di mais."
+    },
+    {
+      "source": "t1",
+      "target": "r1",
+      "status": "documentato",
+      "label": "La valle forniva molle e peperoncini."
+    },
+    {
+      "source": "t2",
+      "target": "r2",
+      "status": "documentato",
+      "label": "Pascoli e alture sostenevano camelidi e piccoli allevamenti."
+    },
+    {
+      "source": "t3",
+      "target": "r2",
+      "status": "documentato",
+      "label": "Le reti d’altopiano portavano camelidi e derivati."
+    },
+    {
+      "source": "t3",
+      "target": "r3",
+      "status": "sintesi",
+      "label": "Le reti verso la costa portavano pesce, cotone e altri prodotti."
+    },
+    {
+      "source": "r0",
+      "target": "a0",
+      "status": "documentato",
+      "label": "Il mais derivava dalla coltivazione irrigua."
+    },
+    {
+      "source": "r0",
+      "target": "a2",
+      "status": "sintesi",
+      "label": "Parte del mais poteva essere tributata o concentrata per banchetti."
+    },
+    {
+      "source": "r1",
+      "target": "a0",
+      "status": "documentato",
+      "label": "Molle e peperoncini erano coltivati o raccolti localmente."
+    },
+    {
+      "source": "r1",
+      "target": "a2",
+      "status": "sintesi",
+      "label": "Le materie per bevande potevano essere approvvigionate centralmente."
+    },
+    {
+      "source": "r2",
+      "target": "a1",
+      "status": "documentato",
+      "label": "Camelidi e piccoli animali erano legati ad allevamento e carovane."
+    },
+    {
+      "source": "r2",
+      "target": "a2",
+      "status": "sintesi",
+      "label": "Animali e carne potevano entrare nell’approvvigionamento istituzionale."
+    },
+    {
+      "source": "r3",
+      "target": "a3",
+      "status": "documentato",
+      "label": "Pesce, cotone e prodotti costieri giungevano tramite scambio di frontiera."
+    },
+    {
+      "source": "r3",
+      "target": "a2",
+      "status": "sintesi",
+      "label": "Beni costieri potevano essere concentrati come tributo."
+    },
+    {
+      "source": "a0",
+      "target": "x0",
+      "status": "documentato",
+      "label": "I raccolti irrigui erano macinati e bolliti."
+    },
+    {
+      "source": "a0",
+      "target": "x1",
+      "status": "documentato",
+      "label": "Il mais e il molle alimentavano la fermentazione."
+    },
+    {
+      "source": "a1",
+      "target": "x2",
+      "status": "documentato",
+      "label": "Gli animali erano macellati e cotti."
+    },
+    {
+      "source": "a1",
+      "target": "x3",
+      "status": "documentato",
+      "label": "Carovane e prodotti animali richiedevano stoccaggio."
+    },
+    {
+      "source": "a2",
+      "target": "x1",
+      "status": "sintesi",
+      "label": "L’approvvigionamento istituzionale sosteneva la brewery."
+    },
+    {
+      "source": "a2",
+      "target": "x3",
+      "status": "documentato",
+      "label": "Tributi e scorte erano conservati in grandi vasi."
+    },
+    {
+      "source": "a3",
+      "target": "x2",
+      "status": "sintesi",
+      "label": "Pesce e altri prodotti costieri erano preparati per il consumo."
+    },
+    {
+      "source": "a3",
+      "target": "x3",
+      "status": "documentato",
+      "label": "Lo scambio di frontiera richiedeva deposito e servizio."
+    },
+    {
+      "source": "x0",
+      "target": "p0",
+      "status": "documentato",
+      "label": "Macinazione e bollitura producevano pasti domestici."
+    },
+    {
+      "source": "x0",
+      "target": "p3",
+      "status": "sintesi",
+      "label": "Le preparazioni cotte erano servite nei banchetti."
+    },
+    {
+      "source": "x1",
+      "target": "p1",
+      "status": "documentato",
+      "label": "La fermentazione produceva chicha di mais e molle."
+    },
+    {
+      "source": "x1",
+      "target": "p3",
+      "status": "documentato",
+      "label": "La chicha era centrale nei banchetti diplomatici e rituali."
+    },
+    {
+      "source": "x2",
+      "target": "p2",
+      "status": "documentato",
+      "label": "Macellazione e cottura producevano carne e charqui."
+    },
+    {
+      "source": "x2",
+      "target": "p3",
+      "status": "documentato",
+      "label": "La carne era consumata nei banchetti."
+    },
+    {
+      "source": "x3",
+      "target": "p0",
+      "status": "documentato",
+      "label": "Le scorte sostenevano il consumo domestico."
+    },
+    {
+      "source": "x3",
+      "target": "p1",
+      "status": "documentato",
+      "label": "I grandi vasi erano usati per conservare e servire chicha."
+    },
+    {
+      "source": "x3",
+      "target": "p2",
+      "status": "sintesi",
+      "label": "Lo stoccaggio comprendeva anche prodotti animali."
+    },
+    {
+      "source": "x3",
+      "target": "p3",
+      "status": "documentato",
+      "label": "Deposito e servizio sostenevano i banchetti."
+    }
+  ]
+}

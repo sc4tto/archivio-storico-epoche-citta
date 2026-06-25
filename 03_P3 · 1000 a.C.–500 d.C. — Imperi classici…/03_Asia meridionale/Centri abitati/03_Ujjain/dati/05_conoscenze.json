@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Ujjain",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Fortificazioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Terrapieno",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Fossato",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Porte",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Bharuch",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Vidisha",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Deccan",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Monetazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Emissioni locali",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Pesi e misure",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_3",
+          "label": "Circolazione regionale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Agricoltura",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Suoli neri",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Cereali e cotone",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Mercati urbani",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Religioni",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Culti brahmanici",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Buddhismo",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Giainismo",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Tempo e calendario",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Osservazioni astronomiche",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_2",
+          "label": "Calendari",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_3",
+          "label": "Istituzioni precise",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

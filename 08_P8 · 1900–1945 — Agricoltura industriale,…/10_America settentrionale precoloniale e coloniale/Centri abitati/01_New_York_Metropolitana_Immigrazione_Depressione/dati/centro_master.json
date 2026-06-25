@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "New York metropolitana, immigrata e della depressione",
+    "site": "New York metropolitana, immigrata e della depressione",
+    "modern_location": "New York, Stati Uniti",
+    "coordinates": {
+      "lat": 40.7128,
+      "lon": -74.006
+    },
+    "scope": "New York fra 1900 e 1945: consolidamento dei cinque borough, metropolitana dal 1904, grattacieli, porto, immigrazione, Harlem Renaissance, depressione, edilizia pubblica e mobilitazione bellica.",
+    "version": "1.0",
+    "warning": "Sono escluse la suburbanizzazione autostradale del dopoguerra, le grandi demolizioni di Robert Moses dopo il 1945 e la trasformazione finanziaria tardo-novecentesca."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "NY1",
+      "title": "New York Public Library — Digital Collections",
+      "use": "Mappe, fotografie e collezioni sulla crescita urbana.",
+      "url": "https://digitalcollections.nypl.org/"
+    },
+    {
+      "id": "NY2",
+      "title": "Museum of the City of New York",
+      "use": "Storia urbana, immigrazione, lavoro e cultura.",
+      "url": "https://www.mcny.org/"
+    },
+    {
+      "id": "NY3",
+      "title": "National Park Service — Statue of Liberty and Ellis Island",
+      "use": "Immigrazione e infrastrutture del porto.",
+      "url": "https://www.nps.gov/elis/"
+    },
+    {
+      "id": "NY4",
+      "title": "New York City Landmarks Preservation Commission",
+      "use": "Architettura, grattacieli e quartieri storici.",
+      "url": "https://www.nyc.gov/site/lpc/index.page"
+    },
+    {
+      "id": "NY5",
+      "title": "Library of Congress — New York City collections",
+      "use": "Fotografie, cartografia e storia sociale.",
+      "url": "https://www.loc.gov/"
+    }
+  ]
+}

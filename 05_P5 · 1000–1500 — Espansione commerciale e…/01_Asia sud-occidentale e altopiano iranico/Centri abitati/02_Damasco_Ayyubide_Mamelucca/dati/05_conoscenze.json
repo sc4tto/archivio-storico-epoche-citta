@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Damasco ayyubide e mamelucca",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Acqua e oasi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Canali del Barada",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Orti e frutteti della Ghouta",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Tessili, metalli e vetro",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Specializzazione dei suq",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Pietra, volte e cortili",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Mosaico e tarsie policrome",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Religione e studio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Madrase e waqf",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Pellegrinaggio e ospitalità",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Governo urbano",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Cittadella e mura",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Amministrazione ayyubide-mamelucca",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

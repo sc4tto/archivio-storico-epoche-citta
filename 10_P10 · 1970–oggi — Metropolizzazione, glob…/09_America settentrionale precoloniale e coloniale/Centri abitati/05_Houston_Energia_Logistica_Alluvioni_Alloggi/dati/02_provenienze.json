@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Houston",
+      "lat": 29.7604,
+      "lon": -95.3698,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "gulf",
+      "label": "Costa del Golfo",
+      "lat": 29.2,
+      "lon": -94.7,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "east",
+      "label": "Texas orientale",
+      "lat": 31.0,
+      "lon": -94.5,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "rio",
+      "label": "Valle del Rio Grande",
+      "lat": 26.2,
+      "lon": -98.2,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "plains",
+      "label": "Pianure del Texas e Midwest",
+      "lat": 33.0,
+      "lon": -101.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "mex",
+      "label": "Messico e corridoi transfrontalieri",
+      "lat": 25.0,
+      "lon": -100.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "glob",
+      "label": "Port of Houston e reti globali",
+      "lat": 29.72,
+      "lon": -95.27,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "gulf",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "pesca, porto e catena del freddo",
+      "food": "pesce, gamberi, granchi e prodotti costieri"
+    },
+    {
+      "source": "east",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "camion e mercati regionali",
+      "food": "ortaggi, carne, legname e prodotti freschi"
+    },
+    {
+      "source": "rio",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoi stradali",
+      "food": "agrumi, ortaggi e ingredienti messicani"
+    },
+    {
+      "source": "plains",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e autostrade",
+      "food": "cereali, carne e alimenti industriali"
+    },
+    {
+      "source": "mex",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "commercio transfrontaliero",
+      "food": "frutta, verdure, spezie e alimenti"
+    },
+    {
+      "source": "glob",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto e cargo aereo",
+      "food": "caffè, tè, oli e ingredienti globali"
+    }
+  ]
+}

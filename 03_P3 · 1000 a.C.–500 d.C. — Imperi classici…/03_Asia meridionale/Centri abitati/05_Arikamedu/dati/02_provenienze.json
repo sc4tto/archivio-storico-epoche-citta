@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Arikamedu",
+      "lat": 11.904,
+      "lon": 79.82,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "river",
+      "label": "Fiume Ariyankuppam",
+      "lat": 11.91,
+      "lon": 79.82,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "sea",
+      "label": "Baia del Bengala",
+      "lat": 11.9,
+      "lon": 79.88,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "kaveri",
+      "label": "Kaveripattinam e costa tamil",
+      "lat": 11.144,
+      "lon": 79.856,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "srilanka",
+      "label": "Sri Lanka",
+      "lat": 7.873,
+      "lon": 80.771,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "redsea",
+      "label": "Porti del Mar Rosso romano",
+      "lat": 25.0,
+      "lon": 35.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "river",
+      "target": "site",
+      "label": "approdo protetto, acqua e trasporto locale",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "sea",
+      "target": "site",
+      "label": "pesca e navigazione costiera",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "kaveri",
+      "target": "site",
+      "label": "ceramiche, tessili e rete dei porti tamil",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "srilanka",
+      "target": "site",
+      "label": "ceramiche, perle e traffici regionali",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "redsea",
+      "target": "site",
+      "label": "anfore, vino e commercio mediterraneo",
+      "status": "documentato",
+      "food": "parziale"
+    }
+  ]
+}

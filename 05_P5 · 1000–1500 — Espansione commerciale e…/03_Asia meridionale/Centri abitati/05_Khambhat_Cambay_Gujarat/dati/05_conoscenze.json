@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Khambhat–Cambay e i porti del Gujarat",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Maree del golfo e pilotaggio",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Calendario monsonico",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Dogane, pesi e credito",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Reti persiane, arabe e africane",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Manifatture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Cotone, tintura e indaco",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Corniola e perle lapidarie",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Idraulica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Pozzi e bacini urbani",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Gestione della salinità",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Pluralità urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Mercanti musulmani, hindu e jain",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Moschee, templi e patronato",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

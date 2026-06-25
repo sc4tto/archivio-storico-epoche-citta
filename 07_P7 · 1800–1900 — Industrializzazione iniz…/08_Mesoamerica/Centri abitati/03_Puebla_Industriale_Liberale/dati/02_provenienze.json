@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Puebla",
+      "lat": 19.0414,
+      "lon": -98.2063,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "tlx",
+      "label": "Tlaxcala e valle settentrionale",
+      "lat": 19.32,
+      "lon": -98.24,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "atl",
+      "label": "Atlixco e valle meridionale",
+      "lat": 18.91,
+      "lon": -98.43,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "cho",
+      "label": "Cholula e villaggi occidentali",
+      "lat": 19.06,
+      "lon": -98.3,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "teh",
+      "label": "Tehuacán e Mixteca",
+      "lat": 18.46,
+      "lon": -97.39,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "ver",
+      "label": "Orizaba e Veracruz",
+      "lat": 18.85,
+      "lon": -97.1,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "mex",
+      "label": "Città del Messico",
+      "lat": 19.43,
+      "lon": -99.13,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "tlx",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e mercati regionali",
+      "food": "mais, grano, pulque e tessili"
+    },
+    {
+      "source": "atl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cammini vallivi",
+      "food": "frutta, zucchero, ortaggi e fiori"
+    },
+    {
+      "source": "cho",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete locale di mercati",
+      "food": "cereali, ceramiche e lavoro artigiano"
+    },
+    {
+      "source": "teh",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cammini della Mixteca",
+      "food": "sale, bestiame e prodotti secchi"
+    },
+    {
+      "source": "ver",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e strada orientale",
+      "food": "caffè, cacao, riso e importazioni"
+    },
+    {
+      "source": "mex",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e strada nazionale",
+      "food": "capitali, macchinari e domanda urbana"
+    }
+  ]
+}

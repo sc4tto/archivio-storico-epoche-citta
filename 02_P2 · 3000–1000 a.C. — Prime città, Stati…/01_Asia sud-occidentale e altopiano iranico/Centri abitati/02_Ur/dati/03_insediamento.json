@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Prime dinastie",
+    "Cimitero reale",
+    "Fase accadica",
+    "III dinastia di Ur",
+    "Isin-Larsa e antico-babilonese"
+  ],
+  "items": [
+    {
+      "id": "cemetery",
+      "label": "Cimitero reale e sepolture",
+      "lane": "Funerarie",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Quartieri di case a corte",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "ziggurat",
+      "label": "Ziggurat di Nanna",
+      "lane": "Monumentali",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "temples",
+      "label": "Templi e recinti sacri",
+      "lane": "Monumentali",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "archives",
+      "label": "Archivi amministrativi e scolastici",
+      "lane": "Amministrative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "harbour",
+      "label": "Porto, canali e approdi",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "workshops",
+      "label": "Laboratori e magazzini",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

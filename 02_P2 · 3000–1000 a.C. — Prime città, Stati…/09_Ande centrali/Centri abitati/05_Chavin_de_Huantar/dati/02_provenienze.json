@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Chavín de Huántar",
+      "lat": -9.594,
+      "lon": -77.177,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "mosna",
+      "label": "Valle del Mosna",
+      "lat": -9.59,
+      "lon": -77.17,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "wacheqsa",
+      "label": "Fiume Wacheqsa",
+      "lat": -9.6,
+      "lon": -77.18,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "coast",
+      "label": "Costa centro-settentrionale",
+      "lat": -9.4,
+      "lon": -78.3,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "highlands",
+      "label": "Altopiani settentrionali",
+      "lat": -8.7,
+      "lon": -77.8,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "jungle",
+      "label": "Alta selva e Marañón",
+      "lat": -9.3,
+      "lon": -76.2,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "mosna",
+      "target": "site",
+      "label": "acqua, campi e accesso vallivo",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "wacheqsa",
+      "target": "site",
+      "label": "canalizzazione e rischio alluvionale",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "coast",
+      "target": "site",
+      "label": "conchiglie, ceramiche e pellegrini",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "highlands",
+      "target": "site",
+      "label": "camelidi, pietre e visitatori",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "jungle",
+      "target": "site",
+      "label": "piante, iconografie e beni",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

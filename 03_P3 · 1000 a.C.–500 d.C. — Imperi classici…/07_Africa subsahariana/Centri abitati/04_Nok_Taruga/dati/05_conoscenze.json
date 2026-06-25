@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Nok–Taruga",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Terracotte",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Figure umane",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Figure animali",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Funzione certa",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Metallurgia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Fornaci",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Scorie",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Origine della tecnologia",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Insediamenti",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Villaggi piccoli",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Architettura organica",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_3",
+          "label": "Grandi città Nok",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Agricoltura",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Miglio perlato",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Raccolta",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Allevamento uniforme",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Cronologia",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Primo millennio a.C.",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Primi secoli d.C.",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Una singola fase",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Conservazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Saccheggio",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Reperti fuori contesto",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Attribuzioni sicure",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

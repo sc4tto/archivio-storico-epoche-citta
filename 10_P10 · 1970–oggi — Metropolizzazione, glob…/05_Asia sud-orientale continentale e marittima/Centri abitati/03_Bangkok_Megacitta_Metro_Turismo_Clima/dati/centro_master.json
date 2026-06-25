@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Bangkok, megacittà, metro, turismo e rischio climatico",
+    "site": "Bangkok, megacittà, metro, turismo e rischio climatico",
+    "modern_location": "Bangkok, Thailandia",
+    "coordinates": {
+      "lat": 13.7563,
+      "lon": 100.5018
+    },
+    "scope": "Bangkok dal 1970 al 25 giugno 2026: crescita stradale e industriale, boom immobiliare e turistico, crisi asiatica, reti BTS e MRT, espansione della regione metropolitana, servizi digitali, invecchiamento, calore urbano, inquinamento atmosferico, alluvioni e cicli di colpi di Stato, proteste e repressione.",
+    "version": "1.0",
+    "warning": "M-MAP2 e le linee metropolitane con scadenze successive al 25 giugno 2026 sono presentati come piani o cantieri, non come infrastrutture già completate."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "BA1",
+      "title": "World Bank — Thailand Country Climate and Development Report",
+      "use": "Alluvioni urbane, calore, produttività, disuguaglianze e vulnerabilità di Bangkok.",
+      "url": "https://documents1.worldbank.org/curated/en/099063025043513963/pdf/P507208-2e39fbbd-4d16-4660-a7eb-9c99c88864f0.pdf"
+    },
+    {
+      "id": "BA2",
+      "title": "MRTA — Mass Rapid Transit Projects, updated April 2026",
+      "use": "Rete metropolitana, linee operative, cantieri e piano M-MAP2.",
+      "url": "https://www.mrta.co.th/en/brochures-and-videos/33771"
+    },
+    {
+      "id": "BA3",
+      "title": "World Bank — Shaping a Cooler Bangkok",
+      "use": "Isola di calore, verde urbano, salute e strategie di raffrescamento.",
+      "url": "https://openknowledge.worldbank.org/entities/publication/d8ba6f53-d778-47d2-b4a6-37dff7db2466"
+    },
+    {
+      "id": "BA4",
+      "title": "OHCHR Special Procedures — Thailand, freedom of expression and peaceful assembly",
+      "use": "Procedimenti contro attivisti, uso della legge di lesa maestà e repressione delle proteste.",
+      "url": "https://spcommreports.ohchr.org/TMResultsBase/DownLoadPublicCommunicationFile?gId=30890"
+    }
+  ]
+}

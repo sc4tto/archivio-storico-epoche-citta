@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Formazione della tradizione Nok",
+    "Sviluppo di villaggi agricoli",
+    "Terracotte e pratiche rituali",
+    "Metallurgia del ferro",
+    "Trasformazioni entro il III secolo d.C."
+  ],
+  "items": [
+    {
+      "id": "villages",
+      "label": "Villaggi e fattorie disperse",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "terracotta",
+      "label": "Produzione di terracotte figurate",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "pottery",
+      "label": "Ceramica domestica",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "iron",
+      "label": "Fornaci e lavorazione del ferro",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "fields",
+      "label": "Campi e gestione della savana",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "ritual",
+      "label": "Depositi rituali e funerari",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "looting",
+      "label": "Perdita dei contesti per saccheggio moderno",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

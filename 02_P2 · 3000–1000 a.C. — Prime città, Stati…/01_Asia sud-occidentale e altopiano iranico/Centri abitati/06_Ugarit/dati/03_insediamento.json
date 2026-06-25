@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Bronzo antico",
+    "Bronzo medio",
+    "Ascesa del regno",
+    "XIV–XIII secolo a.C.",
+    "Distruzione e abbandono"
+  ],
+  "items": [
+    {
+      "id": "palace",
+      "label": "Palazzo reale e archivi",
+      "lane": "Amministrative",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "temples",
+      "label": "Templi di Baal e Dagan",
+      "lane": "Monumentali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Quartieri di case a corte",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "walls",
+      "label": "Mura e porte",
+      "lane": "Difensive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "port",
+      "label": "Porto di Minet el-Beida",
+      "lane": "Territorio",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "workshops",
+      "label": "Laboratori e magazzini",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "libraries",
+      "label": "Archivi pubblici e privati",
+      "lane": "Amministrative",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

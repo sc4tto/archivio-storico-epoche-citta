@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Toronto",
+      "lat": 43.6532,
+      "lon": -79.3832,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "gh",
+      "label": "Golden Horseshoe",
+      "lat": 43.3,
+      "lon": -79.8,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "niag",
+      "label": "Niagara e Ontario meridionale",
+      "lat": 43.1,
+      "lon": -79.1,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "lak",
+      "label": "Grandi Laghi",
+      "lat": 44.0,
+      "lon": -82.0,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "pra",
+      "label": "Praterie canadesi",
+      "lat": 50.0,
+      "lon": -105.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "mtl",
+      "label": "Montréal e corridoio San Lorenzo",
+      "lat": 45.5,
+      "lon": -73.57,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "atl",
+      "label": "Porti atlantici e importazioni",
+      "lat": 44.65,
+      "lon": -63.57,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "gh",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e camion",
+      "food": "latte, uova, pollame, ortaggi e frutta"
+    },
+    {
+      "source": "niag",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e autostrade",
+      "food": "frutta, vino, conserve e lavoratori"
+    },
+    {
+      "source": "lak",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navi, ferrovia e strada",
+      "food": "pesce, cereali, acciaio e combustibili"
+    },
+    {
+      "source": "pra",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie transcontinentali",
+      "food": "frumento, carne e prodotti agricoli"
+    },
+    {
+      "source": "mtl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoio ferroviario e stradale",
+      "food": "merci, persone e prodotti importati"
+    },
+    {
+      "source": "atl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto, ferrovia e aviazione",
+      "food": "caffè, tè, zucchero, pesce e frutta tropicale"
+    }
+  ]
+}

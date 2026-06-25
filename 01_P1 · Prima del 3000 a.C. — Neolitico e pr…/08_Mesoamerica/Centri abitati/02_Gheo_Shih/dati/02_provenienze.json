@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Gheo Shih",
+      "lat": 16.95,
+      "lon": -96.4,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "river",
+      "label": "Fiume Mitla",
+      "lat": 16.94,
+      "lon": -96.39,
+      "status": "sintesi",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "plain",
+      "label": "Pianoro di aggregazione",
+      "lat": 16.95,
+      "lon": -96.41,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "guila",
+      "label": "Guilá Naquitz",
+      "lat": 16.92,
+      "lon": -96.42,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "yagul",
+      "label": "Ripari di Yagul",
+      "lat": 16.96,
+      "lon": -96.44,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "oaxaca",
+      "label": "Reti delle Valli Centrali",
+      "lat": 17.06,
+      "lon": -96.72,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "river",
+      "target": "site",
+      "label": "acqua e vegetazione riparia",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "plain",
+      "target": "site",
+      "label": "spazio di attività e aggregazione",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "guila",
+      "target": "site",
+      "label": "mobilità stagionale e piante gestite",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "yagul",
+      "target": "site",
+      "label": "rete di ripari e campi",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "oaxaca",
+      "target": "site",
+      "label": "scambio di pietra e conoscenze",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

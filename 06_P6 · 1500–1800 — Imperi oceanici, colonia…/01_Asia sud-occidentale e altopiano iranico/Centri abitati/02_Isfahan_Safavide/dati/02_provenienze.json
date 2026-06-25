@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Isfahan",
+      "lat": 32.6546,
+      "lon": 51.668,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "zay",
+      "label": "Valle dello Zayandeh Rud",
+      "lat": 32.61,
+      "lon": 51.5,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "naj",
+      "label": "Najafabad e villaggi occidentali",
+      "lat": 32.63,
+      "lon": 51.36,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "zag",
+      "label": "Zagros e Chahar Mahal",
+      "lat": 32.32,
+      "lon": 50.86,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "hor",
+      "label": "Hormuz e Bandar Abbas",
+      "lat": 27.18,
+      "lon": 56.27,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "ind",
+      "label": "Gujarat e India occidentale",
+      "lat": 22.3,
+      "lon": 72.6,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "sam",
+      "label": "Samarcanda e Asia centrale",
+      "lat": 39.65,
+      "lon": 66.96,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "zay",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali e strade",
+      "food": "grano, riso, ortaggi e frutta"
+    },
+    {
+      "source": "naj",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "vie rurali",
+      "food": "frutta, uva e legname"
+    },
+    {
+      "source": "zag",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane montane",
+      "food": "pecore, capre, latticini e lana"
+    },
+    {
+      "source": "hor",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strada del Golfo",
+      "food": "spezie, zucchero e perle"
+    },
+    {
+      "source": "ind",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti oceaniche e carovaniere",
+      "food": "tessili, spezie e coloranti"
+    },
+    {
+      "source": "sam",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "vie dell’altopiano",
+      "food": "cavalli, carta e beni di lusso"
+    }
+  ]
+}

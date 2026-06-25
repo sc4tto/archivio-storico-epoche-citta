@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Gao-Saney e Gao antico",
+    "site": "Gao-Saney / Gao antico",
+    "modern_location": "Regione di Gao, Mali",
+    "coordinates": {
+      "lat": 16.2717,
+      "lon": -0.0447
+    },
+    "scope": "Formazione di Gao fra 500 e 1000, con attenzione ai due poli insediativi, al Niger, alla metallurgia, ai beni importati e ai primi contatti islamici.",
+    "version": "1.0",
+    "warning": "La relazione esatta fra Gao-Saney, Gao antico e le città descritte dalle fonti arabe resta discussa; il modulo separa dati archeologici, testi e ricostruzioni."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "G1",
+      "title": "M. Cissé et al. — Excavations at Gao Saney",
+      "use": "Crescita dell’insediamento, ceramica, vetro, rame e reti del primo millennio.",
+      "url": "https://brill.com/view/journals/jaa/11/1/article-p9_2.xml"
+    },
+    {
+      "id": "G2",
+      "title": "S. Takezawa e M. Cissé — Discovery of the Earliest Royal Palace in Gao",
+      "use": "Archeologia di Gao antico e interpretazione politica.",
+      "url": "https://journals.openedition.org/etudesafricaines/16871"
+    },
+    {
+      "id": "G3",
+      "title": "Corpus of Early Arabic Sources for West African History",
+      "use": "Testimonianze arabe su Kawkaw/Gao e commercio saheliano.",
+      "url": "https://archive.org/details/corpusofearlyara0000levt"
+    },
+    {
+      "id": "G4",
+      "title": "Oxford Research Encyclopedia — Gao and the Niger Bend",
+      "use": "Sintesi su urbanizzazione, commercio e formazione politica.",
+      "url": "https://oxfordre.com/africanhistory/"
+    },
+    {
+      "id": "G5",
+      "title": "UNESCO — Tomb of Askia, Gao",
+      "use": "Contesto storico-territoriale della città di Gao.",
+      "url": "https://whc.unesco.org/en/list/1139/"
+    }
+  ]
+}

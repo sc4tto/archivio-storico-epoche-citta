@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Frequentazioni costiere",
+    "Formazione dell’anello",
+    "Massima attività",
+    "Collegamenti Poverty Point",
+    "Disturbi e distruzioni moderne"
+  ],
+  "items": [
+    {
+      "id": "ring",
+      "label": "Deposito ad anello di conchiglie",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "midden",
+      "label": "Accumulo di rifiuti alimentari",
+      "lane": "Trasformazione",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "hearths",
+      "label": "Focolari e cottura",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "fishing",
+      "label": "Pesca e raccolta di molluschi",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "clay",
+      "label": "Oggetti di argilla riscaldati",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "exchange",
+      "label": "Scambi con l’interno",
+      "lane": "Organizzazione",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "damage",
+      "label": "Alterazioni moderne",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

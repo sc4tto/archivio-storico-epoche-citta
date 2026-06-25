@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Watson Brake comprende undici tumuli collegati da creste",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "WATSON_SCIENCE"
+  },
+  {
+    "claim": "La costruzione iniziò circa 5400–5000 anni fa",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "WATSON_SCIENCE"
+  },
+  {
+    "claim": "Il complesso fu realizzato da comunità di cacciatori-raccoglitori",
+    "theme": "Società",
+    "status": "documentato",
+    "source": "WATSON_SCIENCE"
+  },
+  {
+    "claim": "La costruzione avvenne per fasi e rimodellamenti",
+    "theme": "Costruzione",
+    "status": "documentato",
+    "source": "WATSON_SCIENCE"
+  },
+  {
+    "claim": "Watson Brake anticipa i grandi earthworks successivi del basso Mississippi",
+    "theme": "Storia regionale",
+    "status": "sintesi",
+    "source": "WATSON_ARCH"
+  },
+  {
+    "claim": "Il sito prova un’agricoltura intensiva basata sul mais",
+    "theme": "Agricoltura",
+    "status": "non_documentato",
+    "source": "Economia arcaica di caccia, pesca e raccolta"
+  },
+  {
+    "claim": "Gli undici tumuli furono costruiti in un’unica stagione",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Costruzione prolungata e fasi multiple"
+  },
+  {
+    "claim": "Un sovrano controllava stabilmente la manodopera",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Coordinamento sì, istituzione politica ignota"
+  }
+]

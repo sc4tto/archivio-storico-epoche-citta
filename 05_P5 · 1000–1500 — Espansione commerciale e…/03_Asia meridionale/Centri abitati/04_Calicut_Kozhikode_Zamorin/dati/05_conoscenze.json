@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Calicut–Kozhikode dei Samoothiri",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Monsoni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Calendario nautico",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Gestione delle piogge e drenaggio",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Pesi, magazzini e broker",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Reti arabe e asiatiche",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Cantieri e imbarcazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Pilotaggio costiero",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Riso e palmeti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Spezie dei Ghati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Pluralità urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Comunità mercantili musulmane",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Templi, moschee e corte",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

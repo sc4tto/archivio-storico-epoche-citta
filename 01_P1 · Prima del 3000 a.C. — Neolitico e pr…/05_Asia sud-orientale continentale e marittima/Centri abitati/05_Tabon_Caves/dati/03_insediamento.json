@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Pleistocene superiore",
+    "Olocene antico",
+    "Olocene medio",
+    "Neolitico tardo",
+    "Età dei metalli e sepolture in giara"
+  ],
+  "items": [
+    {
+      "id": "caves",
+      "label": "Occupazione di più grotte e ripari",
+      "lane": "Ripari",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "workshop",
+      "label": "Produzione di schegge e utensili litici",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "hearths",
+      "label": "Focolari e aree di consumo",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "mobility",
+      "label": "Uso di risorse terrestri, fluviali ed estuarine",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "human",
+      "label": "Resti umani in diversi contesti",
+      "lane": "Funerarie",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "jars",
+      "label": "Sepolture in giara",
+      "lane": "Funerarie",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "trade",
+      "label": "Ceramiche e scambi delle fasi storiche",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

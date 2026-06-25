@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_61_P6_Asia_Meridionale_5_Centri_v1",
+  "macroregion": "Asia meridionale",
+  "centers": [
+    "01_Agra_Moghul",
+    "02_Delhi_Shahjahanabad",
+    "03_Lahore_Moghul",
+    "04_Dhaka_Jahangirnagar",
+    "05_Surat_Porto_Moghul"
+  ],
+  "uses_central_assets": true
+}

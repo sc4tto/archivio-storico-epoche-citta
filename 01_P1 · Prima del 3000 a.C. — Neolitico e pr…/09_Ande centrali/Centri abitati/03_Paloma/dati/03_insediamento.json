@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Prime capanne",
+    "Crescita del villaggio",
+    "Fase di massima occupazione",
+    "Riorganizzazione domestica",
+    "Abbandono e usi posteriori"
+  ],
+  "items": [
+    {
+      "id": "huts",
+      "label": "Capanne di canne e materiali vegetali",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "hearth",
+      "label": "Focolari interni ed esterni",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "fish",
+      "label": "Pesca e trasporto del pescato",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "storage",
+      "label": "Conservazione di pesce e molluschi",
+      "lane": "Conservazione",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "burials",
+      "label": "Sepolture presso le abitazioni",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "midden",
+      "label": "Formazione di grandi scarichi",
+      "lane": "Trasformazione",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "decline",
+      "label": "Riduzione e abbandono del villaggio",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

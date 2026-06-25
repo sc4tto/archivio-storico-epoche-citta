@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Ihò Eléérú — modulo multi-grafo",
+    "short_name": "Ihò Eléérú",
+    "site": "Riparo di Ihò Eléérú",
+    "modern_location": "Isarun, Stato di Ondo, Nigeria sud-occidentale",
+    "coordinates": {
+      "lat": 7.3,
+      "lon": 5.12
+    },
+    "scope": "Riparo della foresta-savana con industrie della Later Stone Age, una sepoltura umana del tardo Pleistocene e una sequenza che documenta interazioni con ambienti tropicali per circa 14.000 anni.",
+    "version": "1.0-blocco_08_p1_africa_subsahariana_5_centri_v1",
+    "warning": "La morfologia del cranio non autorizza l’attribuzione a una specie distinta né a una popolazione “arcaica” isolata. Le interpretazioni biologiche sono discusse; il modulo separa dati, modelli e ipotesi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "IHO_ISCIENCE",
+      "title": "Cerasoni et al. — Human interactions with tropical environments over the last 14,000 years at Iho Eleru, Nigeria",
+      "url": "https://doi.org/10.1016/j.isci.2023.106219",
+      "use": "stratigrafia, ambiente, piante, fauna e cultura materiale"
+    },
+    {
+      "id": "IHO_PLOS",
+      "title": "Harvati et al. — The Later Stone Age Calvaria from Iho Eleru, Nigeria: Morphology and Chronology",
+      "url": "https://doi.org/10.1371/journal.pone.0024024",
+      "use": "datazione e morfologia della sepoltura"
+    },
+    {
+      "id": "IHO_EXCAVATION",
+      "title": "Shaw e Daniels — Excavations at Iwo Eleru, Ondo State, Nigeria",
+      "url": "https://search.worldcat.org/title/Excavations-at-Iwo-Eleru-Ondo-State-Nigeria/oclc/13317244",
+      "use": "scavo, strumenti, sepoltura e quadro del riparo"
+    }
+  ]
+}

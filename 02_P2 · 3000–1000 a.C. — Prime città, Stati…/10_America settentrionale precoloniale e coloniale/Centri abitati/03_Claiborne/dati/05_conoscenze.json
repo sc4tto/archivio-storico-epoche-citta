@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Claiborne",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Estuario",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Maree e stagioni",
+          "status": "sintesi"
+        },
+        {
+          "id": "k1_2",
+          "label": "Pesca",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Raccolta di ostriche",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Conchiglie",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Accumulo",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Forma ad anello",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Costruzione intenzionale",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Cottura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Oggetti di argilla",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Focolari",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Recipienti ceramici",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Scambi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Basso Mississippi",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_2",
+          "label": "Poverty Point",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Pietre non locali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Abitazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Ripari leggeri",
+          "status": "inferito"
+        },
+        {
+          "id": "k5_2",
+          "label": "Occupazione stagionale",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_3",
+          "label": "Villaggio permanente",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Conservazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Danni industriali",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Perdita stratigrafica",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Forma completa",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

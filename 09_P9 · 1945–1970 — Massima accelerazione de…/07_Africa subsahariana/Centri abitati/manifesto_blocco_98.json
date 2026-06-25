@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_98_P9_Africa_Subsahariana_5_Centri_v1",
+  "macroregion": "Africa subsahariana",
+  "centers": [
+    "01_Lagos_Indipendenza_Porto_Crescita_Urbana",
+    "02_Kinshasa_Indipendenza_Crisi_Crescita",
+    "03_Nairobi_Indipendenza_Segregazione_Espansione",
+    "04_Abidjan_Porto_Indipendenza_Industrializzazione",
+    "05_Johannesburg_Apartheid_Industria_Resistenza"
+  ],
+  "uses_central_assets": true
+}

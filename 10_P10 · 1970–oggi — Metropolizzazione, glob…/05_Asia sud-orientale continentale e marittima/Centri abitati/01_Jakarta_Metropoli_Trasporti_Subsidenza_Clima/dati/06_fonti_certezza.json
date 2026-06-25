@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "La Banca Mondiale ha documentato in alcune aree di Jakarta settentrionale tassi di subsidenza molto elevati, associati soprattutto all’estrazione profonda di acqua sotterranea.",
+    "theme": "rischio",
+    "status": "documentato",
+    "source": "JA2"
+  },
+  {
+    "claim": "JakLingko integra rotte, tariffe e pagamenti di TransJakarta, MRT, LRT e ferrovia pendolare.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "JA3"
+  },
+  {
+    "claim": "Jakarta RISE#20 presenta una strategia di trasformazione urbana articolata fino al 2045.",
+    "theme": "pianificazione",
+    "status": "documentato",
+    "source": "JA1"
+  },
+  {
+    "claim": "Il rapporto ASEAN di UN-Habitat colloca informalità abitativa e disuguaglianze tra le criticità strutturali dell’urbanizzazione regionale.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "JA4"
+  },
+  {
+    "claim": "Le opere con scadenza 2045 e le ulteriori fasi MRT restano piani o programmi in corso.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "JA1"
+  },
+  {
+    "claim": "Jakarta, metropoli, trasporti, subsidenza e transizione climatica è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Gli sgomberi e le ricollocazioni dei residenti dei kampung, la repressione durante il Nuovo Ordine, la precarietà del lavoro informale e la distribuzione diseguale del rischio di alluvione e subsidenza non sono presentati come costi neutrali della modernizzazione.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

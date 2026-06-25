@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Il canale Erie consolidò New York come grande porta commerciale dell’interno nordamericano.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "NY2; NY3"
+  },
+  {
+    "claim": "Il porto attrasse grandi flussi migratori nel XIX secolo.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "NY1; NY2"
+  },
+  {
+    "claim": "Central Park fu un grande progetto di pianificazione urbana ottocentesca.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "NY4"
+  },
+  {
+    "claim": "Tenements e sovraffollamento produssero gravi problemi sanitari e sociali.",
+    "theme": "sanità",
+    "status": "documentato",
+    "source": "NY2; NY3"
+  },
+  {
+    "claim": "Il Brooklyn Bridge rafforzò i collegamenti fra Manhattan e Brooklyn.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "NY2; NY3"
+  },
+  {
+    "claim": "L’economia urbana dipese anche da cotone e zucchero prodotti in sistemi schiavistici.",
+    "theme": "coercizione",
+    "status": "documentato",
+    "source": "NY3; NY5"
+  },
+  {
+    "claim": "La crescita avvenne su territori Lenape precedentemente espropriati.",
+    "theme": "indigeni",
+    "status": "documentato",
+    "source": "NY2; NY5"
+  },
+  {
+    "claim": "La metropolitana inaugurata nel 1904 è esclusa.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "NY2"
+  }
+]

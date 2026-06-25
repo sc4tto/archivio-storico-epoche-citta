@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Los Angeles, trasporto, alloggi, clima e disuguaglianze",
+    "site": "Los Angeles, trasporto, alloggi, clima e disuguaglianze",
+    "modern_location": "Los Angeles, California, Stati Uniti",
+    "coordinates": {
+      "lat": 34.0522,
+      "lon": -118.2437
+    },
+    "scope": "Los Angeles dal 1970 al 25 giugno 2026: ristrutturazione industriale, industria culturale e tecnologica, immigrazione, espansione policentrica, rete Metro, apertura della sezione 1 della D Line l’8 maggio 2026, crisi abitativa e senzatetto, segregazione prodotta anche dalla zonizzazione, siccità, incendi, calore, smog e ricostruzione resiliente.",
+    "version": "1.0",
+    "warning": "Le sezioni 2 e 3 della D Line, il Housing Element 2021–2029 e gli obiettivi climatici oltre il 2026 sono qualificati come progetti e piani futuri."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "LA1",
+      "title": "Los Angeles Metro — D Line Subway Extension",
+      "use": "Apertura della sezione 1 l’8 maggio 2026 e stato delle sezioni successive.",
+      "url": "https://www.metro.net/d-line-extension/"
+    },
+    {
+      "id": "LA2",
+      "title": "Los Angeles City Planning — Piano Housing Element 2021–2029",
+      "use": "Produzione abitativa, equità, prevenzione dello spostamento e pianificazione.",
+      "url": "https://planning.lacity.gov/plans-policies/housing-element"
+    },
+    {
+      "id": "LA3",
+      "title": "City of Los Angeles — Mayor Bass Climate Action Plan 2026",
+      "use": "Calore, incendi, siccità, infrastrutture e decarbonizzazione.",
+      "url": "https://plan.mayor.lacity.gov/sites/g/files/wph2541/files/2026-04/MayorBassClimateActionPlanforLosAngeles_2026_1.pdf"
+    },
+    {
+      "id": "LA4",
+      "title": "Los Angeles City Planning — Historical Housing and Land Use Study",
+      "use": "Politiche di zonizzazione, discriminazione razziale e disuguaglianze territoriali.",
+      "url": "https://planning.lacity.gov/plans-policies/community-plan-update/housing-element-rezoning-program-news/historical-housing-and"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Honolulu",
+      "lat": 21.3099,
+      "lon": -157.8581,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "cen",
+      "label": "Central Oʻahu",
+      "lat": 21.48,
+      "lon": -158.02,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "win",
+      "label": "Windward Oʻahu",
+      "lat": 21.42,
+      "lon": -157.75,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "haw",
+      "label": "Hawaiʻi Island",
+      "lat": 19.6,
+      "lon": -155.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "mau",
+      "label": "Maui e Molokaʻi",
+      "lat": 20.8,
+      "lon": -156.33,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "pac",
+      "label": "Rotte del Pacifico e Asia",
+      "lat": 24.0,
+      "lon": 150.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "usa",
+      "label": "Costa occidentale degli Stati Uniti",
+      "lat": 34.05,
+      "lon": -118.24,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "cen",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e camion",
+      "food": "ananas, zucchero, verdure e lavoratori"
+    },
+    {
+      "source": "win",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade costiere e pali highways",
+      "food": "taro, pesce, frutta e pendolari"
+    },
+    {
+      "source": "haw",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navi e voli interinsulari",
+      "food": "carne, caffè, frutta e prodotti agricoli"
+    },
+    {
+      "source": "mau",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navi e aerei",
+      "food": "zucchero, ananas, pesce e lavoratori"
+    },
+    {
+      "source": "pac",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navi e voli",
+      "food": "riso, pesce, manufatti, turisti e militari"
+    },
+    {
+      "source": "usa",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navi container iniziali e jet",
+      "food": "latticini, cereali, manufatti e visitatori"
+    }
+  ]
+}

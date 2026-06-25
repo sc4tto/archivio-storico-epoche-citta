@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Baghdad fu conquistata dalle forze britanniche nel 1917.",
+    "theme": "conflitti",
+    "status": "documentato",
+    "source": "BA1; BA2"
+  },
+  {
+    "claim": "La città divenne capitale del nuovo regno dell’Iraq.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "BA1; BA3"
+  },
+  {
+    "claim": "La rivolta del 1920 contestò il controllo britannico.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "BA2; BA3"
+  },
+  {
+    "claim": "L’indipendenza formale dell’Iraq fu riconosciuta nel 1932.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "BA1; BA3"
+  },
+  {
+    "claim": "Ferrovie, ponti e nuove strade modificarono la mobilità urbana.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "BA2; BA4"
+  },
+  {
+    "claim": "Il petrolio accrebbe il valore strategico della capitale.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "BA2; BA3"
+  },
+  {
+    "claim": "Il conflitto del 1941 riaffermò l’influenza britannica.",
+    "theme": "conflitti",
+    "status": "documentato",
+    "source": "BA1; BA3"
+  },
+  {
+    "claim": "La rivoluzione del 1958 è esclusa.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "BA1"
+  }
+]

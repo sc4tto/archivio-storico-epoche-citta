@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Berlino",
+      "lat": 52.52,
+      "lon": 13.405,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "bra",
+      "label": "Brandeburgo",
+      "lat": 52.4,
+      "lon": 13.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "hav",
+      "label": "Havel e Sprea",
+      "lat": 52.52,
+      "lon": 13.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "gdr",
+      "label": "RDT e Germania orientale",
+      "lat": 51.5,
+      "lon": 12.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "frg",
+      "label": "Germania occidentale",
+      "lat": 51.0,
+      "lon": 9.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "bal",
+      "label": "Baltico e porti del nord",
+      "lat": 54.2,
+      "lon": 12.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "all",
+      "label": "Corridoi alleati e commercio internazionale",
+      "lat": 50.0,
+      "lon": 7.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "bra",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie suburbane e camion",
+      "food": "patate, cereali, latte, ortaggi e pendolari"
+    },
+    {
+      "source": "hav",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "chiatte, pesca e vie d’acqua",
+      "food": "pesce, carbone, materiali e merci"
+    },
+    {
+      "source": "gdr",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e distribuzione statale",
+      "food": "carne, zucchero, cereali, carbone e lavoratori"
+    },
+    {
+      "source": "frg",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoi stradali, ferroviari e aerei",
+      "food": "alimenti, combustibili, manufatti e sovvenzioni"
+    },
+    {
+      "source": "bal",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e navigazione",
+      "food": "pesce, oli, cereali e merci portuali"
+    },
+    {
+      "source": "all",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ponte aereo, aeroporti e corridoi",
+      "food": "farina, carbone, medicinali, caffè e beni industriali"
+    }
+  ]
+}

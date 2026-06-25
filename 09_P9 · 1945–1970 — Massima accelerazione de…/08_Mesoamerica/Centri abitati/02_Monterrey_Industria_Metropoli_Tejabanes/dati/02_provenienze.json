@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Monterrey",
+      "lat": 25.6866,
+      "lon": -100.3161,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "val",
+      "label": "Valle di Monterrey",
+      "lat": 25.7,
+      "lon": -100.3,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "nl",
+      "label": "Nuevo León rurale",
+      "lat": 26.2,
+      "lon": -100.0,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "lag",
+      "label": "Comarca Lagunera",
+      "lat": 25.55,
+      "lon": -103.45,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "tam",
+      "label": "Tamaulipas e Golfo",
+      "lat": 24.3,
+      "lon": -98.9,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "coa",
+      "label": "Coahuila",
+      "lat": 27.0,
+      "lon": -102.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "usa",
+      "label": "Texas e Stati Uniti",
+      "lat": 29.5,
+      "lon": -98.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "val",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade locali e camion",
+      "food": "lavoratori, materiali, latte e ortaggi"
+    },
+    {
+      "source": "nl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "autobus, camion e ferrovie",
+      "food": "bestiame, cereali, agrumi e migranti"
+    },
+    {
+      "source": "lag",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e autostrada",
+      "food": "cotone, grano, latte e prodotti agricoli"
+    },
+    {
+      "source": "tam",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e collegamenti al Golfo",
+      "food": "zucchero, petrolio, importazioni e merci"
+    },
+    {
+      "source": "coa",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e camion",
+      "food": "carbone, minerali, carne e manodopera"
+    },
+    {
+      "source": "usa",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie, autostrade e commercio di frontiera",
+      "food": "macchinari, capitali, materie prime e beni di consumo"
+    }
+  ]
+}

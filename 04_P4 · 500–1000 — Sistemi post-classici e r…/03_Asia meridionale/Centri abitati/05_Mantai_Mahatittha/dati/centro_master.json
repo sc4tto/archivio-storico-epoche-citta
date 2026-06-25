@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Mantai–Mahatittha — modulo multi-grafo",
+    "short_name": "Mantai–Mahatittha",
+    "site": "Porto antico di Mantai / Mahatittha",
+    "modern_location": "Distretto di Mannar, Sri Lanka",
+    "coordinates": {
+      "lat": 8.967,
+      "lon": 79.995
+    },
+    "scope": "Grande porto dello Sri Lanka nord-occidentale fra VI e X secolo, collegato ad Anuradhapura dal sistema fluviale del Malvathu Oya e inserito nelle reti dell’Oceano Indiano. Gli scavi documentano ceramiche, monete, perle, spezie, cereali e produzioni artigianali di provenienze diverse.",
+    "version": "1.0-blocco_39_p4_asia_meridionale_5_centri_v1",
+    "warning": "La linea di costa, i corsi fluviali e le lagune sono mutati; posizione e forma esatte del porto restano discusse. Materiali importati non identificano automaticamente l’origine etnica degli abitanti. Le strutture visibili del tempio di Tiruketheeswaram appartengono in gran parte a fasi ricostruite o successive."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "MAN_ANTIQUITY",
+      "title": "Kingwell-Banham et al. — Spice and rice at Mantai",
+      "url": "https://doi.org/10.15184/aqy.2018.168",
+      "use": "archeobotanica, spezie, cereali e cronologia"
+    },
+    {
+      "id": "MAN_CARSWELL",
+      "title": "Carswell, Deraniyagala e Graham — Mantai: City by the Sea",
+      "url": "https://search.worldcat.org/title/858951983",
+      "use": "scavi, stratigrafia e commercio"
+    },
+    {
+      "id": "MAN_BOHINGAMUWA",
+      "title": "W. Bohingamuwa — Ancient Mahatittha: a historical biography",
+      "url": "https://www.royalasiaticsociety.lk/",
+      "use": "fonti storiche, porto e connessioni regionali"
+    }
+  ]
+}

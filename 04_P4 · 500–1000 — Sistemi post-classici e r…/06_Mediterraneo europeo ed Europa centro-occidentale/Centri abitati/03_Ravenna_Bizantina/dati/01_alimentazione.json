@@ -1,0 +1,216 @@
+{
+  "nodes": [
+    {
+      "id": "t_po",
+      "label": "Pianura padana e poderi",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_lagoon",
+      "label": "Lagune, pinete e porto di Classe",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_apenn",
+      "label": "Appennino romagnolo",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "r_grain",
+      "label": "Cereali e legumi",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_wine",
+      "label": "Vino, olio e frutta",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_fish",
+      "label": "Pesce, molluschi e sale",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_animals",
+      "label": "Bovini, suini e ovini",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "a_estate",
+      "label": "Aziende rurali e rendite",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_fishery",
+      "label": "Pesca lagunare e adriatica",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_port",
+      "label": "Mercato e traffici portuali",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_pasture",
+      "label": "Pascolo e allevamento",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "x_mill",
+      "label": "Molitura, forni e cucine",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "x_salt",
+      "label": "Salagione e conservazione",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x_store",
+      "label": "Magazzini portuali e dispense",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "p_urban",
+      "label": "Rifornimento urbano e di corte",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_clerical",
+      "label": "Vitto di chiese e monasteri",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_trade",
+      "label": "Scorte e merci per il porto",
+      "layer": 4,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "t_po",
+      "target": "r_grain",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "t_lagoon",
+      "target": "r_wine",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "t_apenn",
+      "target": "r_fish",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "t_po",
+      "target": "r_animals",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "r_grain",
+      "target": "a_estate",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_wine",
+      "target": "a_fishery",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_fish",
+      "target": "a_port",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_animals",
+      "target": "a_pasture",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "a_estate",
+      "target": "x_mill",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "a_fishery",
+      "target": "x_salt",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "a_port",
+      "target": "x_store",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "a_pasture",
+      "target": "x_mill",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "x_mill",
+      "target": "p_urban",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "x_salt",
+      "target": "p_clerical",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "x_store",
+      "target": "p_trade",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_animals",
+      "target": "a_estate",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "a_pasture",
+      "target": "x_store",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "x_store",
+      "target": "p_trade",
+      "status": "sintesi",
+      "label": ""
+    }
+  ]
+}

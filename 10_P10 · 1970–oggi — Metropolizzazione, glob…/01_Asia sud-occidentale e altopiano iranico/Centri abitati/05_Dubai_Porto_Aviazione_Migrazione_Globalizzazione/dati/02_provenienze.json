@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Dubai",
+      "lat": 25.2048,
+      "lon": 55.2708,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "jel",
+      "label": "Jebel Ali",
+      "lat": 24.9857,
+      "lon": 55.0272,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "des",
+      "label": "Deserto e aziende agricole UAE",
+      "lat": 24.5,
+      "lon": 55.5,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "gul",
+      "label": "Golfo Arabico",
+      "lat": 26.0,
+      "lon": 53.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "ind",
+      "label": "Asia meridionale",
+      "lat": 22.0,
+      "lon": 72.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "afr",
+      "label": "Africa orientale",
+      "lat": 5.0,
+      "lon": 45.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "glo",
+      "label": "Rotte aeree e marittime globali",
+      "lat": 30.0,
+      "lon": 45.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "jel",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto, free zone e camion",
+      "food": "alimenti, container, materiali e lavoratori"
+    },
+    {
+      "source": "des",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e cold chain",
+      "food": "datteri, latte, ortaggi e pollame"
+    },
+    {
+      "source": "gul",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "dhows, pesca e porti",
+      "food": "pesce, riso, carne e merci regionali"
+    },
+    {
+      "source": "ind",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navi e voli",
+      "food": "riso, spezie, tè, lavoratori e imprese"
+    },
+    {
+      "source": "afr",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navi e cargo aereo",
+      "food": "caffè, carne, frutta e migranti"
+    },
+    {
+      "source": "glo",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "hub aereo-marittimo",
+      "food": "alimenti premium, tecnologia, turisti e capitale"
+    }
+  ]
+}

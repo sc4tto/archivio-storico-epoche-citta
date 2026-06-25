@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "I livelli antichi hanno restituito residui di mais su strumenti",
+    "theme": "Mais",
+    "status": "documentato",
+    "source": "PIPERNO_2009"
+  },
+  {
+    "claim": "Fitoliti di zucca accompagnano la sequenza antica",
+    "theme": "Domesticazione",
+    "status": "documentato",
+    "source": "RANERE_2009"
+  },
+  {
+    "claim": "Il contesto stratigrafico è anteriore al 6000 a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "RANERE_2009"
+  },
+  {
+    "claim": "Il sito si trova nella regione genetica d’origine del mais",
+    "theme": "Biogeografia",
+    "status": "sintesi",
+    "source": "BALSAS_GENETICS"
+  },
+  {
+    "claim": "La macinazione vegetale era una pratica importante",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "PIPERNO_2009"
+  },
+  {
+    "claim": "La dieta era già dominata esclusivamente dal mais",
+    "theme": "Alimentazione",
+    "status": "non_documentato",
+    "source": "Economia ancora diversificata"
+  },
+  {
+    "claim": "Esistevano grandi campi irrigui",
+    "theme": "Agricoltura",
+    "status": "non_documentato",
+    "source": "Nessuna evidenza diretta"
+  },
+  {
+    "claim": "Il riparo era una città",
+    "theme": "Urbanizzazione",
+    "status": "non_documentato",
+    "source": "Riparo con frequentazioni ricorrenti"
+  }
+]

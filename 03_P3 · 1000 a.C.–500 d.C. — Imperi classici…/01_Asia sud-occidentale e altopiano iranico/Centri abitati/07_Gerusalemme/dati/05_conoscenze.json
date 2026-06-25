@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Gerusalemme",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Acqua",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Sorgente di Gihon",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Cisterne",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Acquedotti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Edilizia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Muratura in pietra",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Terrazzamenti",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Volte",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Scrittura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Ebraico e aramaico",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Greco",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Latino",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Rituali",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Culto templare",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Pellegrinaggi",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Pratiche funerarie",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Amministrazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Regni locali",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Governo romano",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Confini dei quartieri",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Topografia",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Città di Davide",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Colle occidentale",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Identificazione di singoli edifici",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

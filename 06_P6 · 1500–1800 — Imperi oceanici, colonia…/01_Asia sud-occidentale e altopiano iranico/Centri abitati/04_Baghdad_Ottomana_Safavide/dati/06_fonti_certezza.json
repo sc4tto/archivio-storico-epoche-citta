@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Baghdad fu contesa fra Safavidi e Ottomani nel XVI e XVII secolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "BG1; BG2"
+  },
+  {
+    "claim": "Gli Ottomani conquistarono la città nel 1534 e la ripresero definitivamente nel 1638.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "BG1; BG2"
+  },
+  {
+    "claim": "Il Tigri sosteneva traffico, mercati e collegamenti con Basra.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "BG1; BG4"
+  },
+  {
+    "claim": "La città era capitale provinciale e sede di guarnigione.",
+    "theme": "amministrazione",
+    "status": "documentato",
+    "source": "BG1; BG5"
+  },
+  {
+    "claim": "Canali e irrigazione erano essenziali ma vulnerabili alla mancata manutenzione.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "BG4"
+  },
+  {
+    "claim": "Epidemie e guerre provocarono forti oscillazioni demografiche.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "BG1; BG4"
+  },
+  {
+    "claim": "La ripresa del XVIII secolo è associata ai governatori mamelucchi.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "BG4; BG5"
+  },
+  {
+    "claim": "Le ricostruzioni puntuali del tessuto urbano sono trattate come sintesi.",
+    "theme": "metodo",
+    "status": "sintesi",
+    "source": "BG1; BG4"
+  }
+]

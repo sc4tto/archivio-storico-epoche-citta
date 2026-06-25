@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Acapulco, porto del Pacifico repubblicano",
+    "site": "Acapulco, porto del Pacifico repubblicano",
+    "modern_location": "Acapulco de Juárez, Guerrero, Messico",
+    "coordinates": {
+      "lat": 16.8531,
+      "lon": -99.8237
+    },
+    "scope": "Acapulco fra 1800 e 1900: fine del galeone, guerra d’indipendenza, Forte San Diego, Plan de Ayutla, rotte del Pacifico, corsa all’oro californiana, commercio regionale, terremoti e limitata connessione terrestre con l’altopiano.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Turismo balneare, autostrada da Città del Messico, crescita alberghiera e urbanizzazione del XX secolo sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "AC1",
+      "title": "Encyclopaedia Britannica — Acapulco",
+      "use": "Storia del porto e ruolo nel Pacifico.",
+      "url": "https://www.britannica.com/place/Acapulco"
+    },
+    {
+      "id": "AC2",
+      "title": "INAH — Museo Histórico de Acapulco Fuerte de San Diego",
+      "use": "Fortezza, commercio marittimo e storia regionale.",
+      "url": "https://www.inah.gob.mx/"
+    },
+    {
+      "id": "AC3",
+      "title": "Gobierno del Estado de Guerrero",
+      "use": "Storia e territorio del porto.",
+      "url": "https://www.guerrero.gob.mx/"
+    },
+    {
+      "id": "AC4",
+      "title": "Archivo General de la Nación de México",
+      "use": "Rotte, guerre, dogane e amministrazione.",
+      "url": "https://www.gob.mx/agn"
+    },
+    {
+      "id": "AC5",
+      "title": "Secretaría de Marina — Historia Naval",
+      "use": "Navigazione, porti e difesa del Pacifico.",
+      "url": "https://www.gob.mx/semar"
+    }
+  ]
+}

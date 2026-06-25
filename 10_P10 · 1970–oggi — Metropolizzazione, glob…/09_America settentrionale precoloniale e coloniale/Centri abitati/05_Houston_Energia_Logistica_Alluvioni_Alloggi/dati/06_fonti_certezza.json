@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Resilient Houston è una risposta alla devastazione e agli spostamenti causati da Harvey.",
+    "theme": "resilienza",
+    "status": "documentato",
+    "source": "HO1"
+  },
+  {
+    "claim": "Il Climate Action Plan fissa la neutralità climatica al 2050 come obiettivo futuro.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "HO2"
+  },
+  {
+    "claim": "METRO mantiene e migliora tre linee ferroviarie e numerosi corridoi autobus.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "HO3"
+  },
+  {
+    "claim": "La Market Value Analysis documenta mercati immobiliari e rischio di displacement.",
+    "theme": "alloggi",
+    "status": "documentato",
+    "source": "HO4"
+  },
+  {
+    "claim": "I progetti non conclusi al 25 giugno 2026 sono qualificati come piani futuri.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "HO1"
+  },
+  {
+    "claim": "Houston è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Segregazione, environmental injustice, displacement, inquinamento e ricostruzione diseguale non sono presentati come processi neutrali.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

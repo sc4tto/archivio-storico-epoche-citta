@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Osaka, ricostruzione industriale e nuova urbanizzazione",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Infrastrutture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Porto, ferrovie private, metropolitana, strade ed energia",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Acqua, argini, fognature, sanità, scuole e mercati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Economia urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Tessili, siderurgia, chimica, meccanica ed elettrodomestici",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Commercio, logistica, piccole imprese e riconversione produttiva",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Politica e istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Municipalità, prefettura, governo nazionale e agenzie di sviluppo",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Pianificazione, edilizia pubblica, sindacati e gestione portuale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Operai, sfollati, commercianti, pendolari e nuovi residenti suburbani",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Quartieri popolari, associazioni, università e cultura di massa",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Crisi e disuguaglianze",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Bombardamenti, scarsità di alloggi, smog e subsidenza",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Lavoro precario, servizi diseguali, congestione e danni ambientali",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

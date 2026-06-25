@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Dakar",
+      "lat": 14.7167,
+      "lon": -17.4677,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "gor",
+      "label": "Gorée",
+      "lat": 14.67,
+      "lon": -17.4,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "cap",
+      "label": "Penisola di Capo Verde",
+      "lat": 14.75,
+      "lon": -17.45,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "cay",
+      "label": "Cayor e bacino arachidiero",
+      "lat": 15.0,
+      "lon": -16.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "stl",
+      "label": "Saint-Louis",
+      "lat": 16.03,
+      "lon": -16.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "bam",
+      "label": "Bamako e linea Dakar–Niger",
+      "lat": 12.64,
+      "lon": -8.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "fra",
+      "label": "Francia e Atlantico",
+      "lat": 46.0,
+      "lon": -5.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "gor",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "traghetti e baia",
+      "food": "servizi portuali, memoria storica e traffici"
+    },
+    {
+      "source": "cap",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade urbane",
+      "food": "pesce, ortaggi, manodopera e materiali"
+    },
+    {
+      "source": "cay",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e camion",
+      "food": "arachidi, miglio e bestiame"
+    },
+    {
+      "source": "stl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia costiera",
+      "food": "personale, merci e funzioni amministrative"
+    },
+    {
+      "source": "bam",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "linea Dakar–Niger",
+      "food": "arachidi, cotone, bestiame e passeggeri"
+    },
+    {
+      "source": "fra",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "shipping coloniale",
+      "food": "macchinari, militari, capitali e manufatti"
+    }
+  ]
+}

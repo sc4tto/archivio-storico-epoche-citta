@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Baghdad rimase un grande centro culturale e commerciale fino alla conquista mongola del 1258.",
+    "theme": "storia",
+    "status": "documentato",
+    "source": "BA1; BA2"
+  },
+  {
+    "claim": "La conquista del 1258 pose fine al califfato abbaside di Baghdad.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "BA1; BA3"
+  },
+  {
+    "claim": "Canali e navigazione del Tigri erano essenziali per l’approvvigionamento.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "BA1; BA3"
+  },
+  {
+    "claim": "La Mustansiriyya rappresenta la continuità delle istituzioni scolastiche del XIII secolo.",
+    "theme": "conoscenza",
+    "status": "documentato",
+    "source": "BA4"
+  },
+  {
+    "claim": "La città fu ricostruita e continuò a vivere sotto gli Ilkhanidi.",
+    "theme": "urbanistica",
+    "status": "sintesi",
+    "source": "BA1; BA3"
+  },
+  {
+    "claim": "Le stime delle distruzioni e delle vittime del 1258 variano fortemente.",
+    "theme": "certezza",
+    "status": "documentato",
+    "source": "BA1; BA3"
+  },
+  {
+    "claim": "Molte strutture medievali sono note più dalle fonti che da resti integri.",
+    "theme": "certezza",
+    "status": "sintesi",
+    "source": "BA3; BA4"
+  },
+  {
+    "claim": "Baghdad subì nuove conquiste timuridi alla fine del XIV e all’inizio del XV secolo.",
+    "theme": "conflitto",
+    "status": "documentato",
+    "source": "BA1"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "La fase Ravi di Harappa è datata circa 3300–2800 a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "HARP"
+  },
+  {
+    "claim": "L’occupazione iniziale interessava più mound",
+    "theme": "Insediamento",
+    "status": "sintesi",
+    "source": "HARP"
+  },
+  {
+    "claim": "Ceramica e piccoli manufatti documentano reti e artigianato",
+    "theme": "Artigianato",
+    "status": "documentato",
+    "source": "HARP"
+  },
+  {
+    "claim": "Sono presenti marchi su ceramica anteriori alla scrittura matura",
+    "theme": "Segni",
+    "status": "documentato",
+    "source": "HARP"
+  },
+  {
+    "claim": "Il centro cresce verso le fasi Kot Diji ed Harappan",
+    "theme": "Trasformazione",
+    "status": "documentato",
+    "source": "HARP"
+  },
+  {
+    "claim": "La fase Ravi possedeva già tutte le istituzioni della città matura",
+    "theme": "Urbanizzazione",
+    "status": "non_documentato",
+    "source": "Le istituzioni mature non possono essere retroproiettate"
+  },
+  {
+    "claim": "Ogni marchio su vaso è un testo leggibile",
+    "theme": "Scrittura",
+    "status": "non_documentato",
+    "source": "I marchi non sono decifrati come testi"
+  },
+  {
+    "claim": "Le reti regionali implicano un unico Stato",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "L’integrazione materiale non prova un’autorità unica"
+  }
+]

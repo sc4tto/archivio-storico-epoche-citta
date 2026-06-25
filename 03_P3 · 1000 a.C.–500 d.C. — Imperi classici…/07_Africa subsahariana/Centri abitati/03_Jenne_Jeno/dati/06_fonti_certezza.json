@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Jenne-jeno è occupata almeno dal III secolo a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "JENNE_UNESCO"
+  },
+  {
+    "claim": "Il sito conserva case circolari e rettangolari in terra",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "JENNE_UNESCO"
+  },
+  {
+    "claim": "Sono documentati scorie metalliche, ceramiche, macine e sepolture",
+    "theme": "Reperti",
+    "status": "documentato",
+    "source": "JENNE_UNESCO"
+  },
+  {
+    "claim": "Jenne-jeno faceva parte di un sistema di siti del delta interno",
+    "theme": "Urbanismo",
+    "status": "documentato",
+    "source": "JENNE_UNESCO"
+  },
+  {
+    "claim": "La complessità urbana richiedeva necessariamente un re unico",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Modelli distribuiti e dibattito archeologico"
+  },
+  {
+    "claim": "La città islamica moderna coincide esattamente con Jenne-jeno",
+    "theme": "Topografia",
+    "status": "non_documentato",
+    "source": "Siti distinti"
+  },
+  {
+    "claim": "Le piene stagionali influenzavano il paesaggio insediativo",
+    "theme": "Ambiente",
+    "status": "documentato",
+    "source": "JENNE_UNESCO"
+  },
+  {
+    "claim": "Il commercio transahariano dell’oro era già identico a quello medievale",
+    "theme": "Commercio",
+    "status": "non_documentato",
+    "source": "Cronologie differenti"
+  }
+]

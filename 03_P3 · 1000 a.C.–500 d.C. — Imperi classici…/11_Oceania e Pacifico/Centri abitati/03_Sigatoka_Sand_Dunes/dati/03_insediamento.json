@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Prime occupazioni costiere",
+    "Villaggi e attività sulle dune",
+    "Sviluppo di tradizioni ceramiche locali",
+    "Uso funerario esteso",
+    "Erosione moderna, parco e tutela"
+  ],
+  "items": [
+    {
+      "id": "dunes",
+      "label": "Formazione e movimento delle dune",
+      "lane": "Paesaggio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "pottery",
+      "label": "Ceramiche antiche e locali",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Aree domestiche e focolari",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "burials",
+      "label": "Aree funerarie",
+      "lane": "Funerarie",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "river",
+      "label": "Uso della foce e del fiume",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "tools",
+      "label": "Strumenti litici e in conchiglia",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "park",
+      "label": "Parco nazionale e monitoraggio",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

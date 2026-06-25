@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Hemudu",
+      "lat": 29.97,
+      "lon": 121.35,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "wetland",
+      "label": "Pianura umida locale",
+      "lat": 30.05,
+      "lon": 121.25,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": -20,
+      "anchor": "end"
+    },
+    {
+      "id": "river",
+      "label": "Bacino del basso Yangtze",
+      "lat": 30.15,
+      "lon": 120.8,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 10,
+      "dy": 25,
+      "anchor": "start"
+    },
+    {
+      "id": "coast",
+      "label": "Costa e baie dello Zhejiang",
+      "lat": 29.8,
+      "lon": 121.8,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 28,
+      "anchor": "middle"
+    },
+    {
+      "id": "taihu",
+      "label": "Area del Taihu",
+      "lat": 31.2,
+      "lon": 120.2,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "mountains",
+      "label": "Colline dello Zhejiang",
+      "lat": 29.5,
+      "lon": 120.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "wetland",
+      "target": "site",
+      "label": "riso, acqua e risorse palustri",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "river",
+      "target": "site",
+      "label": "pesce, trasporto e argille",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "coast",
+      "target": "site",
+      "label": "molluschi e risorse costiere",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "taihu",
+      "target": "site",
+      "label": "reti del basso Yangtze",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "mountains",
+      "target": "site",
+      "label": "legname, pietra e fauna",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

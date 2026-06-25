@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Tabriz ilkhanide e turcomanna",
+    "site": "Tabriz e bazar storico",
+    "modern_location": "Tabriz, Azerbaigian Orientale, Iran",
+    "coordinates": {
+      "lat": 38.08,
+      "lon": 46.2919
+    },
+    "scope": "Tabriz fra 1000 e 1500: crescita commerciale, capitale ilkhanide, complessi di Ghazan e Rabʿ-e Rashidi, ricostruzioni dopo terremoti e centralità sotto dinastie turcomanne.",
+    "version": "1.0",
+    "warning": "Gran parte del bazar visibile è frutto di ricostruzioni successive, soprattutto dopo terremoti. Il modulo usa la continuità funzionale del sistema commerciale senza attribuire automaticamente ogni struttura attuale al XIII–XV secolo."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "TA1",
+      "title": "UNESCO — Tabriz Historic Bazaar Complex",
+      "use": "Sistema commerciale, Via della Seta e prosperità medievale.",
+      "url": "https://whc.unesco.org/en/list/1346/"
+    },
+    {
+      "id": "TA2",
+      "title": "Encyclopaedia Iranica — Tabriz",
+      "use": "Storia politica, terremoti, Ilkhanidi e dinastie turcomanne.",
+      "url": "https://iranicaonline.org/articles/tabriz-index"
+    },
+    {
+      "id": "TA3",
+      "title": "Archnet — Rab-i Rashidi",
+      "use": "Complesso educativo e urbano ilkhanide.",
+      "url": "https://www.archnet.org/sites/3868"
+    },
+    {
+      "id": "TA4",
+      "title": "Metropolitan Museum — Art of the Ilkhanid Period",
+      "use": "Arte, ceramica, manoscritti e committenza ilkhanide.",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-ilkhanid-period-1256-1353"
+    },
+    {
+      "id": "TA5",
+      "title": "UNESCO Silk Roads — Tabriz",
+      "use": "Ruolo della città nelle reti eurasiatiche.",
+      "url": "https://en.unesco.org/silkroad/content/tabriz"
+    }
+  ]
+}

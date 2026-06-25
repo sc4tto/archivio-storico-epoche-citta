@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Spiro Mounds, fase iniziale",
+    "site": "Spiro Mounds — fase iniziale",
+    "modern_location": "Le Flore County, Oklahoma, Stati Uniti",
+    "coordinates": {
+      "lat": 35.311,
+      "lon": -94.568
+    },
+    "scope": "Spiro fra circa 800 e 1000: formazione dell’insediamento permanente, primi mound, villaggio di sostegno, agricoltura e reti fluviali nel bacino dell’Arkansas.",
+    "version": "1.0",
+    "warning": "Il massimo sviluppo del centro e la ricchissima fase mortuaria di Craig Mound appartengono soprattutto ai secoli XI–XIV. Il modulo non proietta tali caratteristiche sulla fase iniziale."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SP1",
+      "title": "Oklahoma Historical Society — Spiro Mounds Archaeological Center",
+      "use": "Cronologia 800–1450, mound, villaggio e reti di scambio.",
+      "url": "https://www.okhistory.org/sites/spiromounds"
+    },
+    {
+      "id": "SP2",
+      "title": "Encyclopedia of Oklahoma History and Culture — Spiro Mounds",
+      "use": "Archeologia, fasi e contesto Caddoan Mississippian.",
+      "url": "https://www.okhistory.org/publications/enc/entry?entry=SP012"
+    },
+    {
+      "id": "SP3",
+      "title": "National Park Service — Spiro Mounds National Historic Landmark",
+      "use": "Significato nazionale e risorse archeologiche.",
+      "url": "https://www.nps.gov/subjects/nnlandmarks/spiro-mounds.htm"
+    },
+    {
+      "id": "SP4",
+      "title": "Arkansas Archeological Survey — Caddoan Archaeology",
+      "use": "Tradizioni Caddo, agricoltura e reti del bacino dell’Arkansas.",
+      "url": "https://archeology.uark.edu/indiansofarkansas/index.html?pageName=Caddo"
+    },
+    {
+      "id": "SP5",
+      "title": "Gilcrease Museum — Spiro and the Mississippian World",
+      "use": "Arte, iconografia e materiali di Spiro.",
+      "url": "https://gilcrease.org/exhibitions/spiro-and-the-art-of-the-mississippian-world/"
+    }
+  ]
+}

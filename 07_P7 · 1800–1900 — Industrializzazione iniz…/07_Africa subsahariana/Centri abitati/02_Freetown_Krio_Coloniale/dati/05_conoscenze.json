@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Freetown krio e coloniale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Porto e navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "West Africa Squadron e approdi",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Cantieri, marinai e commercio costiero",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Società krio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Lingua, chiese e associazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Recaptives, istruzione e professioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Case in legno con verande",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Muratura, chiese e edifici istituzionali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Istruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Fourah Bay College e scuole missionarie",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Stampa, alfabetizzazione e reti regionali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Coercizione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Schiavitù atlantica intercettata",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Apprendistato e lavoro non pienamente libero",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

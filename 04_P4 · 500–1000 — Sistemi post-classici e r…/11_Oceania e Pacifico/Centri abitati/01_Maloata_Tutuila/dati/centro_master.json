@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Maloata, villaggio costiero di Tutuila",
+    "site": "Maloata Village Site",
+    "modern_location": "Tutuila nord-occidentale, Samoa Americane",
+    "coordinates": {
+      "lat": -14.286,
+      "lon": -170.806
+    },
+    "scope": "Maloata fra circa 550 e 1000: abitato costiero, orticoltura, pesca, terrazzamenti, recinzioni e connessioni marittime nell’arcipelago samoano.",
+    "version": "1.0",
+    "warning": "La datazione 550–1000 deriva da un settore di scavo e non dimostra che tutte le strutture visibili siano contemporanee. Le associazioni di rango tramandate oralmente sono mantenute distinte dai dati stratigrafici."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MA1",
+      "title": "American Samoa Historic Preservation Office",
+      "use": "Inventari, rapporti e tutela dei siti archeologici di Tutuila.",
+      "url": "https://www.ashpo.org/"
+    },
+    {
+      "id": "MA2",
+      "title": "National Park Service — Archaeology in American Samoa",
+      "use": "Contesto archeologico, paesaggi e continuità culturale samoana.",
+      "url": "https://www.nps.gov/npsa/learn/historyculture/archaeology.htm"
+    },
+    {
+      "id": "MA3",
+      "title": "National Register of Historic Places — Database and Research",
+      "use": "Registrazione e documentazione del Maloata Village Site.",
+      "url": "https://www.nps.gov/subjects/nationalregister/database-research.htm"
+    },
+    {
+      "id": "MA4",
+      "title": "Journal of the Polynesian Society",
+      "use": "Studi sul popolamento e sui sistemi insediativi della Samoa preeuropea.",
+      "url": "https://www.jps.auckland.ac.nz/"
+    },
+    {
+      "id": "MA5",
+      "title": "National Park of American Samoa — History & Culture",
+      "use": "Ambiente, pratiche di sussistenza e patrimonio culturale dell’arcipelago.",
+      "url": "https://www.nps.gov/npsa/learn/historyculture/index.htm"
+    }
+  ]
+}

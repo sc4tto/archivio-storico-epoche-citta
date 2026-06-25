@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Ayutthaya, capitale siamese",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Idraulica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Canali, fossati e drenaggio",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Gestione delle piene",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Trasporto fluviale",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Rotte del Golfo di Siam",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Muratura in laterizio e laterite",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Carpenteria lignea",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Dazi e mercati",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Diplomazia tributaria",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Religione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Monasteri theravada",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Patronato regio",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

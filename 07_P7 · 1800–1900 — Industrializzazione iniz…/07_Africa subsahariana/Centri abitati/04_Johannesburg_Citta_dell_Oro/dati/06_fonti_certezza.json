@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Johannesburg fu fondata nel 1886 in seguito alla corsa all’oro del Witwatersrand.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "JO1; JO2"
+  },
+  {
+    "claim": "La città raggiunse una crescita eccezionalmente rapida entro la fine del secolo.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "JO1; JO2"
+  },
+  {
+    "claim": "Miniere profonde, impianti di frantumazione e ferrovie sostennero l’economia urbana.",
+    "theme": "industria",
+    "status": "documentato",
+    "source": "JO2; JO4"
+  },
+  {
+    "claim": "Il lavoro migrante africano fu reclutato e controllato attraverso compound e contratti coercitivi.",
+    "theme": "coercizione",
+    "status": "documentato",
+    "source": "JO2; JO3"
+  },
+  {
+    "claim": "La segregazione razziale ebbe radici già nell’ordine urbano ottocentesco.",
+    "theme": "segregazione",
+    "status": "documentato",
+    "source": "JO2; JO3"
+  },
+  {
+    "claim": "La scarsità d’acqua fu un vincolo strutturale della città mineraria.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "JO1; JO4"
+  },
+  {
+    "claim": "Le tensioni politiche sul controllo dell’oro contribuirono alla guerra del 1899.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "JO2; JO4"
+  },
+  {
+    "claim": "Le trasformazioni successive al 1900 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "JO1"
+  }
+]

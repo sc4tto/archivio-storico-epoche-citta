@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Formazione urbana",
+    "Primo regno",
+    "Età degli archivi",
+    "Distruzione del III millennio",
+    "Regni del Bronzo medio"
+  ],
+  "items": [
+    {
+      "id": "palaceG",
+      "label": "Palazzo G e archivio reale",
+      "lane": "Amministrative",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "acropolis",
+      "label": "Acropoli e santuari",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "gates",
+      "label": "Porte e fortificazioni",
+      "lane": "Difensive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Quartieri abitativi",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "workshops",
+      "label": "Laboratori tessili e artigiani",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "middle",
+      "label": "Palazzi del Bronzo medio",
+      "lane": "Amministrative",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "ancestors",
+      "label": "Santuario degli antenati divinizzati",
+      "lane": "Rituali",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Áspero fu un centro costiero del sistema Caral-Supe",
+    "theme": "Reti regionali",
+    "status": "documentato",
+    "source": "ASPERO_CARAL"
+  },
+  {
+    "claim": "La pesca ebbe un ruolo centrale nell’economia",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "ASPERO_MOSELEY"
+  },
+  {
+    "claim": "Il sito comprende edifici monumentali e residenziali",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "ASPERO_CARAL"
+  },
+  {
+    "claim": "Le reti di cotone collegavano produzione agricola e pesca",
+    "theme": "Tecnologia",
+    "status": "sintesi",
+    "source": "ASPERO_MOSELEY"
+  },
+  {
+    "claim": "Le costruzioni furono più volte rimodellate",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "ASPERO_CARAL"
+  },
+  {
+    "claim": "Áspero era politicamente subordinata a Caral in ogni fase",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Relazione precisa discussa"
+  },
+  {
+    "claim": "Tutti gli edifici erano templi",
+    "theme": "Funzione",
+    "status": "non_documentato",
+    "source": "Funzioni differenziate"
+  },
+  {
+    "claim": "L’economia era esclusivamente marittima",
+    "theme": "Alimentazione",
+    "status": "non_documentato",
+    "source": "Integrazione con prodotti vallivi"
+  }
+]

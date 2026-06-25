@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Lagos",
+      "lat": 6.455,
+      "lon": 3.3841,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "lag",
+      "label": "Laguna e isole di Lagos",
+      "lat": 6.45,
+      "lon": 3.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "yor",
+      "label": "Entroterra yoruba",
+      "lat": 7.3,
+      "lon": 3.9,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "bad",
+      "label": "Badagry e costa occidentale",
+      "lat": 6.42,
+      "lon": 2.89,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "ben",
+      "label": "Benin e Delta del Niger",
+      "lat": 6.2,
+      "lon": 5.6,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "fre",
+      "label": "Freetown e costa dell’Africa occidentale",
+      "lat": 8.48,
+      "lon": -13.23,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "atl",
+      "label": "Brasile, Caraibi ed Europa",
+      "lat": 20.0,
+      "lon": -20.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "lag",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "laguna, canali e canoe",
+      "food": "pesce, sale, legname e trasporto"
+    },
+    {
+      "source": "yor",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "mercati e vie terrestri",
+      "food": "igname, mais, olio di palma e tessili"
+    },
+    {
+      "source": "bad",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cabotaggio nel Golfo di Guinea",
+      "food": "sale, pesce e commerci costieri"
+    },
+    {
+      "source": "ben",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte costiere e fluviali",
+      "food": "olio e noccioli di palma, avorio e prodotti forestali"
+    },
+    {
+      "source": "fre",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione dell’Africa occidentale",
+      "food": "migranti krio, tecniche edilizie e merci"
+    },
+    {
+      "source": "atl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte atlantiche",
+      "food": "capitali, tessili, farina e persone di ritorno"
+    }
+  ]
+}

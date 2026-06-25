@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Tikal",
+      "lat": 17.222,
+      "lon": -89.6237,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "uax",
+      "label": "Uaxactún",
+      "lat": 17.393,
+      "lon": -89.634,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "yaxha",
+      "label": "Yaxhá",
+      "lat": 17.075,
+      "lon": -89.402,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "bajos",
+      "label": "Bajos del Petén centrale",
+      "lat": 17.18,
+      "lon": -89.55,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "caracol",
+      "label": "Caracol",
+      "lat": 16.763,
+      "lon": -89.117,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "calakmul",
+      "label": "Calakmul",
+      "lat": 18.105,
+      "lon": -89.81,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "obsidian",
+      "label": "Altopiani guatemaltechi",
+      "lat": 14.8,
+      "lon": -90.9,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "uax",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete di centri subordinati e alleati",
+      "food": "derrate e persone"
+    },
+    {
+      "source": "yaxha",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoi orientali",
+      "food": "ceramiche e prodotti agricoli"
+    },
+    {
+      "source": "bajos",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "produzione periferica e acqua",
+      "food": "mais e risorse vegetali"
+    },
+    {
+      "source": "caracol",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "alleanze e conflitti",
+      "food": "beni e prigionieri"
+    },
+    {
+      "source": "calakmul",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "competizione politica di lunga durata",
+      "food": "tributi, emissari e beni di prestigio"
+    },
+    {
+      "source": "obsidian",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "scambio a lunga distanza",
+      "food": "ossidiana e pietre verdi"
+    }
+  ]
+}

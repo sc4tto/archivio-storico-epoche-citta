@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Naqada/Nubt",
+      "lat": 25.9,
+      "lon": 32.72,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "nile",
+      "label": "Valle del Nilo",
+      "lat": 25.9,
+      "lon": 32.6,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": -20,
+      "anchor": "end"
+    },
+    {
+      "id": "koptos",
+      "label": "Koptos e imbocco dei wadi",
+      "lat": 26.0,
+      "lon": 32.82,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 10,
+      "dy": 25,
+      "anchor": "start"
+    },
+    {
+      "id": "eastern",
+      "label": "Deserto orientale",
+      "lat": 26.0,
+      "lon": 33.5,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 28,
+      "anchor": "middle"
+    },
+    {
+      "id": "redsea",
+      "label": "Mar Rosso",
+      "lat": 26.0,
+      "lon": 34.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "levant",
+      "label": "Levant meridionale",
+      "lat": 31.5,
+      "lon": 35.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "nile",
+      "target": "site",
+      "label": "colture, acqua, pesce e trasporto",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "koptos",
+      "target": "site",
+      "label": "accesso ai percorsi desertici",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "eastern",
+      "target": "site",
+      "label": "oro, pietre e minerali",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "redsea",
+      "target": "site",
+      "label": "conchiglie e rotte verso la costa",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "levant",
+      "target": "site",
+      "label": "materiali e forme ceramiche tramite reti intermedie",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

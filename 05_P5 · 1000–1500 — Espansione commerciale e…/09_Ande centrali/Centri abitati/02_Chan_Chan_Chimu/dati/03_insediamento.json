@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "ch1",
+      "label": "Consolidamento del centro Chimú iniziale",
+      "lane": "Politica",
+      "start": 0,
+      "end": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "ch2",
+      "label": "Costruzione progressiva delle grandi ciudadelas",
+      "lane": "Urbanistica",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ch3",
+      "label": "Espansione dei canali inter-vallivi",
+      "lane": "Infrastrutture",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ch4",
+      "label": "Sviluppo di laboratori e quartieri specializzati",
+      "lane": "Economia",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ch5",
+      "label": "Apogeo del regno Chimor",
+      "lane": "Politica",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ch6",
+      "label": "Magazzini, cortili e percorsi controllati",
+      "lane": "Amministrazione",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ch7",
+      "label": "Conquista inca verso il 1470",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ch8",
+      "label": "Riorganizzazione sotto controllo inca",
+      "lane": "Amministrazione",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Lahore fu un importante centro ghaznavide dall’XI secolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "LA2"
+  },
+  {
+    "claim": "Il sito del forte assunse una configurazione medievale già nell’XI secolo.",
+    "theme": "difesa",
+    "status": "documentato",
+    "source": "LA1"
+  },
+  {
+    "claim": "La città collegava Kabul, Multan e Delhi.",
+    "theme": "commercio",
+    "status": "documentato",
+    "source": "LA2; LA3"
+  },
+  {
+    "claim": "Il mattone cotto fu un materiale dominante nella pianura del Punjab.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "LA1; LA4"
+  },
+  {
+    "claim": "Moschee, khanqah e tombe sufi strutturavano il paesaggio religioso.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "LA3; LA4"
+  },
+  {
+    "claim": "Il Ravi e le reti di canali sostenevano agricoltura e approvvigionamento.",
+    "theme": "acqua",
+    "status": "sintesi",
+    "source": "LA2; LA3"
+  },
+  {
+    "claim": "Conflitti e ricostruzioni modificarono più volte il forte medievale.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "LA1; LA2"
+  },
+  {
+    "claim": "Le architetture moghul visibili oggi sono posteriori al periodo trattato.",
+    "theme": "certezza",
+    "status": "documentato",
+    "source": "LA1"
+  }
+]

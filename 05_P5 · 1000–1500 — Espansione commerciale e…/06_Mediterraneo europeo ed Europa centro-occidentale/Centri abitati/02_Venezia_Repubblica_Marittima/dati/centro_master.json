@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Venezia, repubblica marittima",
+    "site": "Venezia e laguna",
+    "modern_location": "Venezia, Veneto, Italia",
+    "coordinates": {
+      "lat": 45.4408,
+      "lon": 12.3155
+    },
+    "scope": "Venezia fra 1000 e 1500: espansione commerciale, Quarta crociata, sviluppo dell’Arsenale, governo repubblicano, crisi del Trecento e consolidamento territoriale.",
+    "version": "1.0",
+    "warning": "Il modulo si concentra sulla Venezia medievale e tardomedievale. Le grandi trasformazioni barocche e moderne sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "VE1",
+      "title": "UNESCO — Venice and its Lagoon",
+      "use": "Città lagunare, patrimonio architettonico, reti insulari e rapporto con l’acqua.",
+      "url": "https://whc.unesco.org/en/list/394/"
+    },
+    {
+      "id": "VE2",
+      "title": "MUVE — Palazzo Ducale",
+      "use": "Istituzioni della Repubblica, palazzo, magistrature e arte veneziana.",
+      "url": "https://palazzoducale.visitmuve.it/"
+    },
+    {
+      "id": "VE3",
+      "title": "Museo Storico Navale — Marina Militare",
+      "use": "Arsenale, navigazione e tradizione marittima veneziana.",
+      "url": "https://www.marina.difesa.it/cosa-facciamo/per-la-cultura/musei/museostoricovenezia/Pagine/default.aspx"
+    },
+    {
+      "id": "VE4",
+      "title": "Encyclopaedia Britannica — Venice",
+      "use": "Storia politica, commerciale e urbana della repubblica.",
+      "url": "https://www.britannica.com/place/Venice"
+    },
+    {
+      "id": "VE5",
+      "title": "UNESCO — Venice and its Lagoon, OUV",
+      "use": "Insediamento su isole, opere idrauliche e architettura della laguna.",
+      "url": "https://whc.unesco.org/en/list/394/"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Damasco",
+      "lat": 33.5138,
+      "lon": 36.2765,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "gho",
+      "label": "Ghouta e valle del Barada",
+      "lat": 33.55,
+      "lon": 36.42,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "hau",
+      "label": "Hauran e Bosra",
+      "lat": 32.52,
+      "lon": 36.48,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "qal",
+      "label": "Qalamun e Anti-Libano",
+      "lat": 33.95,
+      "lon": 36.45,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "ale",
+      "label": "Aleppo",
+      "lat": 36.2,
+      "lon": 37.13,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "cai",
+      "label": "Cairo",
+      "lat": 30.04,
+      "lon": 31.24,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "mec",
+      "label": "Mecca e Hijaz",
+      "lat": 21.42,
+      "lon": 39.83,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "gho",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali e strade locali",
+      "food": "frutta, ortaggi e acqua"
+    },
+    {
+      "source": "hau",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strada meridionale",
+      "food": "grano, legumi e bestiame"
+    },
+    {
+      "source": "qal",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "passi montani",
+      "food": "lana, animali, legname e frutta"
+    },
+    {
+      "source": "ale",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strada settentrionale",
+      "food": "tessili, sapone e spezie"
+    },
+    {
+      "source": "cai",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "via del hajj e commercio",
+      "food": "zucchero, riso e merci mediterranee"
+    },
+    {
+      "source": "mec",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovana del pellegrinaggio",
+      "food": "beni dell’Hijaz, persone e informazione"
+    }
+  ]
+}

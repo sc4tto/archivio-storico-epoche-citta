@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "t1",
+      "label": "Crescita selgiuchide e atabeg",
+      "lane": "Politica",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "t2",
+      "label": "Terremoti e ricostruzioni ricorrenti",
+      "lane": "Ambiente",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "t3",
+      "label": "Capitale e centro ilkhanide",
+      "lane": "Politica",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "t4",
+      "label": "Complessi di Ghazan e Rabʿ-e Rashidi",
+      "lane": "Istituzioni",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "t5",
+      "label": "Bazar e caravanserragli della Via della Seta",
+      "lane": "Economia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "t6",
+      "label": "Dominio jalayiride",
+      "lane": "Politica",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "t7",
+      "label": "Qara Qoyunlu e Moschea Blu",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "t8",
+      "label": "Aq Qoyunlu e continuità commerciale",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

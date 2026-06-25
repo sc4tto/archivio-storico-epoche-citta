@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Nagsabaran",
+      "lat": 18.607,
+      "lon": 121.083,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "cagayan",
+      "label": "Fiume Cagayan",
+      "lat": 18.5,
+      "lon": 121.1,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "coast",
+      "label": "Costa settentrionale di Luzon",
+      "lat": 18.6,
+      "lon": 120.8,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "batanes",
+      "label": "Isole Batanes",
+      "lat": 20.45,
+      "lon": 121.95,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "taiwan",
+      "label": "Taiwan meridionale",
+      "lat": 22.3,
+      "lon": 120.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "linglingo",
+      "label": "Reti di giada e ornamenti",
+      "lat": 16.5,
+      "lon": 120.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "cagayan",
+      "target": "site",
+      "label": "acqua, pesce e trasporto",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "coast",
+      "target": "site",
+      "label": "conchiglie e navigazione",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "batanes",
+      "target": "site",
+      "label": "ceramiche e mobilità insulare",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "taiwan",
+      "target": "site",
+      "label": "forme ceramiche, piante e persone",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "linglingo",
+      "target": "site",
+      "label": "giada e ornamenti",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

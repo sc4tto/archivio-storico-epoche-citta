@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Chan Chan fu la capitale del regno Chimor.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "CH1; CH2"
+  },
+  {
+    "claim": "La città era organizzata in grandi complessi murati di adobe.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "CH1"
+  },
+  {
+    "claim": "Canali, pozzi e valli irrigue sostenevano l’approvvigionamento.",
+    "theme": "ambiente",
+    "status": "documentato",
+    "source": "CH1; CH4"
+  },
+  {
+    "claim": "Laboratori e depositi erano integrati ai complessi urbani.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "CH1; CH3"
+  },
+  {
+    "claim": "Pesca e agricoltura costiera fornivano risorse complementari.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "CH1; CH2"
+  },
+  {
+    "claim": "Il regno Chimor fu incorporato dagli Inca nel XV secolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "CH2; CH5"
+  },
+  {
+    "claim": "Le associazioni fra singole ciudadelas e sovrani restano discusse.",
+    "theme": "metodo",
+    "status": "sintesi",
+    "source": "CH1; CH4"
+  },
+  {
+    "claim": "Le ricostruzioni coloniali non sono incluse.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "CH1"
+  }
+]

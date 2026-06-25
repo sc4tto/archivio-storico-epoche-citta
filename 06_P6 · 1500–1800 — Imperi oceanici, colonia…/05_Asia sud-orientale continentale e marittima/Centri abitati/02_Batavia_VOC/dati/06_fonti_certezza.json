@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Batavia fu fondata dalla VOC nel 1619 sul sito di Jayakarta.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "BA1; BA2"
+  },
+  {
+    "claim": "La città divenne il principale centro asiatico della VOC.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "BA1; BA5"
+  },
+  {
+    "claim": "Canali e fortificazioni strutturarono il nucleo urbano.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "BA2; BA4"
+  },
+  {
+    "claim": "Gli Ommelanden fornivano derrate, zucchero e materiali da costruzione.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "BA1; BA3"
+  },
+  {
+    "claim": "La popolazione urbana era composta da comunità europee e asiatiche diverse.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "BA1; BA4"
+  },
+  {
+    "claim": "Alluvioni e malattie furono problemi persistenti.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "BA1; BA2"
+  },
+  {
+    "claim": "Magazzini e cantieri sostenevano il commercio oceanico.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "BA2; BA5"
+  },
+  {
+    "claim": "L’espansione coloniale ottocentesca è esclusa.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "BA1"
+  }
+]

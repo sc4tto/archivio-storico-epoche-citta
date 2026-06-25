@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Benin City del regno Edo",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Corte e governo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Oba, capi e consigli",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Tributo, messaggeri e cerimoniale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Assi viari e quartieri",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Earthworks e controllo degli accessi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Arti di corte",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Fusione a cera persa",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Intaglio dell’avorio e del legno",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Alimentazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Igname, olio di palma e pesce",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Mercati, tributi e banchetti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Delta del Niger e paesi yoruba",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Ottone, corallo e merci atlantiche",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

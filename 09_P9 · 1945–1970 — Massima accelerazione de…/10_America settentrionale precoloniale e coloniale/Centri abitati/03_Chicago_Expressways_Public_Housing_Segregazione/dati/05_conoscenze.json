@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Chicago, expressways, public housing e segregazione",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Industria e logistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Ferrovie, stockyards, acciaio, manifattura e magazzini",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Transizione verso camion, expressway e decentramento",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Public housing",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Finanziamento, torri, superblocchi e gestione CHA",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Concentrazione razziale e isolamento dai servizi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Segregazione territoriale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Covenants, zoning, credito, violenza e politiche municipali",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Confini di quartiere, scuole e accesso diseguale al lavoro",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Movimenti civili",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Chicago Freedom Movement, chiese e organizzazioni di quartiere",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Marce, campagne per open housing e risposta repressiva",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Ambiente urbano",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Fumo industriale, traffico, rumore e qualità delle acque",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Effetti cumulativi su quartieri operai e minoranze",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

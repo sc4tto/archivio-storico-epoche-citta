@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Lagos fu capitale federale della Nigeria indipendente dal 1960 e nel 1967 divenne il centro del nuovo Stato di Lagos.",
+    "theme": "istituzioni",
+    "status": "documentato",
+    "source": "LA1"
+  },
+  {
+    "claim": "Il porto di Apapa e le reti ferroviarie e stradali sostennero la crescita commerciale e industriale.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "LA2; LA4"
+  },
+  {
+    "claim": "La crescita superò spesso la capacità di pianificazione, alloggio, drenaggio e servizi.",
+    "theme": "urbanizzazione",
+    "status": "documentato",
+    "source": "LA2; LA3"
+  },
+  {
+    "claim": "La pianificazione coloniale e postcoloniale intervenne attraverso bonifiche, quartieri pianificati e trasferimenti che distribuirono costi e benefici in modo diseguale.",
+    "theme": "disuguaglianza",
+    "status": "sintesi",
+    "source": "LA3"
+  },
+  {
+    "claim": "La guerra civile iniziata nel 1967 aumentò la centralità politica e logistica della capitale e le pressioni migratorie.",
+    "theme": "conflitto",
+    "status": "documentato",
+    "source": "LA4"
+  },
+  {
+    "claim": "Lagos, indipendenza, porto e crescita urbana è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Colonialismo, demolizioni, sfratti, distribuzione diseguale dei servizi e impatti della guerra civile sono descritti come rapporti di potere e coercizione; residenti dei quartieri popolari, lavoratori e migranti sono rappresentati come soggetti storici e politici.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

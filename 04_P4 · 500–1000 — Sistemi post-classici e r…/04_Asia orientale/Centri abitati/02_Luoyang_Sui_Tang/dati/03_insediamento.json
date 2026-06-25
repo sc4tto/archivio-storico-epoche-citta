@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Fondazione della capitale Sui",
+    "Prima età Tang",
+    "Capitale di Wu Zetian",
+    "Ripresa e crisi dell’VIII secolo",
+    "Contrazione tardo-Tang e Cinque Dinastie"
+  ],
+  "items": [
+    {
+      "id": "walls",
+      "label": "Mura, porte e griglia urbana",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "palace",
+      "label": "Palazzi imperiali e Mingtang",
+      "lane": "Politiche",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "markets",
+      "label": "Mercati e quartieri artigiani",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "granaries",
+      "label": "Granai e canali",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "temples",
+      "label": "Templi, monasteri e santuari",
+      "lane": "Religiose",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "longmen",
+      "label": "Patronato delle grotte di Longmen",
+      "lane": "Religiose",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "damage",
+      "label": "Guerre e trasformazioni della città",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

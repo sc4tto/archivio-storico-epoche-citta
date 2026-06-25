@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Nara–Heijō-kyō",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Pianificazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Griglia ortogonale",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Palazzo a nord",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Copia identica di Chang’an",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Governo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Uffici e cerimonie",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Codici ritsuryō",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Controllo uniforme del territorio",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Religioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Templi buddhisti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Kasuga e culti kami",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Separazione moderna fra buddhismo e shinto",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Scrittura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Tavolette mokkan",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Testi buddhisti",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Alfabetizzazione universale",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Reti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Cina Tang",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Corea",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Contatti marittimi diretti continui",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Conservazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Fondazioni archeologiche",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Ricostruzioni scientifiche",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Edifici tutti originali dell’VIII secolo",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Pechino conservò la struttura assiale della capitale imperiale.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "BJ1; BJ2"
+  },
+  {
+    "claim": "La caduta dei Qing nel 1911 trasformò il ruolo politico della città.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "BJ4; BJ5"
+  },
+  {
+    "claim": "Università e studenti furono centrali nel Movimento del Quattro Maggio.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "BJ4; BJ5"
+  },
+  {
+    "claim": "Ferrovie e servizi moderni collegarono la capitale a Tianjin e al nord.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "BJ3; BJ4"
+  },
+  {
+    "claim": "La città fu occupata dalle forze giapponesi dal 1937.",
+    "theme": "conflitti",
+    "status": "documentato",
+    "source": "BJ4; BJ5"
+  },
+  {
+    "claim": "Il tessuto dei siheyuan restò fondamentale per la residenza urbana.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "BJ1; BJ3"
+  },
+  {
+    "claim": "Guerra e occupazione produssero scarsità e controllo politico.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "BJ3; BJ5"
+  },
+  {
+    "claim": "Il 1949 e le trasformazioni successive sono esclusi.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "BJ4"
+  }
+]

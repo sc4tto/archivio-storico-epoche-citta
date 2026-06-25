@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Suakin ottomana",
+    "site": "Suakin ottomana",
+    "modern_location": "Suakin, Sudan",
+    "coordinates": {
+      "lat": 19.104,
+      "lon": 37.33
+    },
+    "scope": "Suakin fra 1500 e 1800: porto insulare, conflitti ottomano-portoghesi, amministrazione dell’eyalet di Habesh, commercio con Sennar e Hijaz, architettura in corallo e pellegrinaggio.",
+    "version": "1.0",
+    "warning": "Molti edifici oggi visibili furono ricostruiti o modificati nell’Ottocento. Il modulo si concentra sulle funzioni e sulle strutture attestate prima del 1800."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SU1",
+      "title": "Suakin — historical overview",
+      "use": "Storia medievale e ottomana del porto.",
+      "url": "https://en.wikipedia.org/wiki/Suakin"
+    },
+    {
+      "id": "SU2",
+      "title": "Sudan Memory",
+      "use": "Fotografie, disegni e documentazione sul patrimonio urbano di Suakin.",
+      "url": "https://www.sudanmemory.org/"
+    },
+    {
+      "id": "SU3",
+      "title": "UNESCO Silk Roads — Maritime routes",
+      "use": "Quadro delle rotte del Mar Rosso e dell’Oceano Indiano.",
+      "url": "https://en.unesco.org/silkroad/about-silk-roads"
+    },
+    {
+      "id": "SU4",
+      "title": "The Metropolitan Museum of Art — Ottoman art",
+      "use": "Contesto dell’espansione ottomana nel Mar Rosso.",
+      "url": "https://www.metmuseum.org/toah/hd/otto1/hd_otto1.htm"
+    },
+    {
+      "id": "SU5",
+      "title": "Encyclopaedia Britannica — Red Sea",
+      "use": "Geografia, navigazione e importanza commerciale del Mar Rosso.",
+      "url": "https://www.britannica.com/place/Red-Sea"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1050",
+    "1050–1100",
+    "1100–1150",
+    "1150–1200",
+    "1200–1300"
+  ],
+  "items": [
+    {
+      "id": "mv1",
+      "label": "Villaggi in muratura sulla mesa",
+      "lane": "Insediamento",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "mv2",
+      "label": "Aumento di kiva e case plurifamiliari",
+      "lane": "Società",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "mv3",
+      "label": "Serbatoi, check-dam e terrazze agricole",
+      "lane": "Idraulica",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "mv4",
+      "label": "Transizione verso le alcove rocciose",
+      "lane": "Insediamento",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "mv5",
+      "label": "Costruzione di Cliff Palace e grandi complessi",
+      "lane": "Costruzione",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "mv6",
+      "label": "Intensificazione delle reti regionali",
+      "lane": "Reti",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "mv7",
+      "label": "Stress ambientali e conflitti locali",
+      "lane": "Vincoli",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "mv8",
+      "label": "Migrazione verso sud entro il 1300",
+      "lane": "Cronologia",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

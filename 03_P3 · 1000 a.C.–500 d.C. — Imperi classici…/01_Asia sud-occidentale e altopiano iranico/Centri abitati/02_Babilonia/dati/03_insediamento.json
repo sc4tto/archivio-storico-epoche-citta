@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Fasi antiche",
+    "Capitale neo-babilonese",
+    "Conquista achemenide",
+    "Età seleucide",
+    "Declino e riusi"
+  ],
+  "items": [
+    {
+      "id": "walls",
+      "label": "Doppia cinta e porte",
+      "lane": "Difensive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "processional",
+      "label": "Via processionale",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "palaces",
+      "label": "Palazzi reali",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "temples",
+      "label": "Esagila e altri templi",
+      "lane": "Religiose",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "ziggurat",
+      "label": "Etemenanki",
+      "lane": "Religiose",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Quartieri e case a corte",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "archives",
+      "label": "Archivi astronomici e amministrativi",
+      "lane": "Amministrative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

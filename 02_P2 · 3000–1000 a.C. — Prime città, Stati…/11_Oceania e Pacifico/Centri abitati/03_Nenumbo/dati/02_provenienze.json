@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Nenumbo",
+      "lat": -10.7,
+      "lon": 166.1,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "nendo",
+      "label": "Nendö / Santa Cruz",
+      "lat": -10.72,
+      "lon": 165.8,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "reefs",
+      "label": "Isole Reef",
+      "lat": -10.2,
+      "lon": 166.2,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "solomons",
+      "label": "Salomone centrali",
+      "lat": -9.0,
+      "lon": 160.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "vanuatu",
+      "label": "Vanuatu settentrionale",
+      "lat": -15.0,
+      "lon": 167.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "bismarck",
+      "label": "Arcipelago di Bismarck",
+      "lat": -4.0,
+      "lon": 150.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "nendo",
+      "target": "site",
+      "label": "risorse di foresta e costa",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "reefs",
+      "target": "site",
+      "label": "pesca e mobilità locale",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "solomons",
+      "target": "site",
+      "label": "contatti verso ovest",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "vanuatu",
+      "target": "site",
+      "label": "rotte verso est",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "bismarck",
+      "target": "site",
+      "label": "tradizioni ceramiche e materiali",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

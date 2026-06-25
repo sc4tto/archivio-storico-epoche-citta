@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Luanda",
+      "lat": -8.839,
+      "lon": 13.289,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "isl",
+      "label": "Isola e baia di Luanda",
+      "lat": -8.78,
+      "lon": 13.24,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "bng",
+      "label": "Bengo e basso Cuanza",
+      "lat": -9.0,
+      "lon": 14.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "mbu",
+      "label": "Entroterra mbundu",
+      "lat": -9.5,
+      "lon": 15.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "kon",
+      "label": "Regno del Kongo",
+      "lat": -6.2,
+      "lon": 14.2,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "bra",
+      "label": "Brasile atlantico",
+      "lat": -12.0,
+      "lon": -38.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "por",
+      "label": "Portogallo e isole atlantiche",
+      "lat": 38.5,
+      "lon": -9.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "isl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "baia e navigazione costiera",
+      "food": "pesce, sale, acqua e servizi portuali"
+    },
+    {
+      "source": "bng",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiumi e strade",
+      "food": "manioca, cereali, bestiame e legna"
+    },
+    {
+      "source": "mbu",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane coercitive",
+      "food": "avorio, cera, prodotti agricoli e persone ridotte in schiavitù"
+    },
+    {
+      "source": "kon",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte settentrionali",
+      "food": "rame, tessili, avorio e relazioni politiche"
+    },
+    {
+      "source": "bra",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte del Sud Atlantico",
+      "food": "zucchero, tabacco, cachaça e argento"
+    },
+    {
+      "source": "por",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione oceanica",
+      "food": "vino, tessuti, armi e funzionari"
+    }
+  ]
+}

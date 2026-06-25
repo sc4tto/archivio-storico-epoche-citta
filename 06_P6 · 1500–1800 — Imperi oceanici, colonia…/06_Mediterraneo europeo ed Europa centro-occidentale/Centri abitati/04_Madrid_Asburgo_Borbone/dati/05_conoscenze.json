@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Madrid degli Asburgo e dei Borbone",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Corte e amministrazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Etiquette, consigli e segreterie",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Fiscalità, polizia e approvvigionamento",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Acqua e territorio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Viajes de agua e fontane",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Sierra, neve e materiali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Mattone, granito e ardesia",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Palazzi, conventi e piazze",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Economia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Manifatture reali e corporazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Mercati, positos e commercio imperiale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Arti e scienze",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Accademie, gabinetti e giardini",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Teatri, collezioni e cerimoniale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

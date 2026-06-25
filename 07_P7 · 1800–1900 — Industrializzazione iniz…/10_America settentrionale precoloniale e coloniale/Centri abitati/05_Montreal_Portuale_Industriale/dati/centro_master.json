@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Montréal portuale e industriale",
+    "site": "Montréal portuale e industriale",
+    "modern_location": "Montréal, Québec, Canada",
+    "coordinates": {
+      "lat": 45.5019,
+      "lon": -73.5674
+    },
+    "scope": "Montréal fra 1800 e 1900: demolizione delle fortificazioni, porto, canale di Lachine, ferrovie Grand Trunk e Canadian Pacific, industrializzazione, immigrazione, annessioni, epidemie e crescita dei quartieri operai.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Metropolitana, autostrade, Expo 1967, megastrutture e suburbanizzazione novecentesca sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MO1",
+      "title": "Ville de Montréal — Vieux-Montréal",
+      "use": "Storia urbana e patrimonio della città antica.",
+      "url": "https://montreal.ca/"
+    },
+    {
+      "id": "MO2",
+      "title": "Parks Canada — Lachine Canal",
+      "use": "Canale, industria e paesaggio produttivo.",
+      "url": "https://parks.canada.ca/lhn-nhs/qc/canallachine"
+    },
+    {
+      "id": "MO3",
+      "title": "McCord Stewart Museum",
+      "use": "Immigrazione, lavoro e cultura materiale.",
+      "url": "https://www.musee-mccord-stewart.ca/"
+    },
+    {
+      "id": "MO4",
+      "title": "Bibliothèque et Archives nationales du Québec",
+      "use": "Mappe, fotografie e fonti ottocentesche.",
+      "url": "https://www.banq.qc.ca/"
+    },
+    {
+      "id": "MO5",
+      "title": "Canadian Encyclopedia — Montreal",
+      "use": "Sviluppo economico e politico della metropoli.",
+      "url": "https://www.thecanadianencyclopedia.ca/en/article/montreal"
+    }
+  ]
+}

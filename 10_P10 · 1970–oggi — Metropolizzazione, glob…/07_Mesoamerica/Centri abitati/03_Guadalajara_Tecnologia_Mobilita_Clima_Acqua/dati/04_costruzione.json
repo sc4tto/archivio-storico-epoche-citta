@@ -1,0 +1,246 @@
+{
+  "nodes": [
+    {
+      "id": "m0",
+      "label": "Calcestruzzo, acciaio, vetro, mattoni e prefabbricati",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m1",
+      "label": "Asfalto, rotaie, viadotti, cavi e stazioni",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m2",
+      "label": "Tubazioni, pompe, drenaggi, impianti e sensori",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m3",
+      "label": "Materiali riciclati, ombreggiamento, alberature e superfici permeabili",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "o0",
+      "label": "Urbanizzazione, fondazioni, demolizione e consolidamento",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o1",
+      "label": "Costruzione di linee ferroviarie, BRT, piste e terminal",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o2",
+      "label": "Posa di acqua, drenaggio, energia e telecomunicazioni",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o3",
+      "label": "Autocostruzione, prefabbricazione, retrofit e rigenerazione",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "c0",
+      "label": "Alloggi, scuole, ospedali, mercati, fabbriche e uffici",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c1",
+      "label": "SITEUR, Mi Macro, strade, ciclovías e nodi",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c2",
+      "label": "Reti idriche, drenaggi, impianti e monitoraggio",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c3",
+      "label": "Fraccionamientos, torri, quartieri consolidati e nuovi poli",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "s0",
+      "label": "Centro storico e centralità tradizionali",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s1",
+      "label": "Comuni conurbati e periferie in espansione",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s2",
+      "label": "Sistema integrato di mobilità metropolitana",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s3",
+      "label": "Lago di Chapala, bacini, aree verdi e corridoi climatici",
+      "layer": 3,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m0",
+      "target": "o0",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "m0",
+      "target": "o1",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "m1",
+      "target": "o1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "m1",
+      "target": "o3",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "m2",
+      "target": "o2",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "m2",
+      "target": "o0",
+      "status": "inferito",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "m3",
+      "target": "o3",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "m3",
+      "target": "o2",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o0",
+      "target": "c0",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o0",
+      "target": "c1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o1",
+      "target": "c0",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o1",
+      "target": "c1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o2",
+      "target": "c2",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o2",
+      "target": "c0",
+      "status": "inferito",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o3",
+      "target": "c3",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "o3",
+      "target": "c1",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c0",
+      "target": "s0",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c0",
+      "target": "s1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c1",
+      "target": "s0",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c1",
+      "target": "s1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c2",
+      "target": "s0",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c2",
+      "target": "s2",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c3",
+      "target": "s1",
+      "status": "documentato",
+      "label": "relazione funzionale attestata o ricostruita"
+    },
+    {
+      "source": "c3",
+      "target": "s2",
+      "status": "sintesi",
+      "label": "relazione funzionale attestata o ricostruita"
+    }
+  ]
+}

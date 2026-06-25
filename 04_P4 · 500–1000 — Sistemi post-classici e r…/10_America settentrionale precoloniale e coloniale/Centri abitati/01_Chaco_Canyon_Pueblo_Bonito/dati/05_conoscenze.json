@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Chaco Canyon–Pueblo Bonito",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Muratura a corsi e grandi case",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Coperture con travi lignee",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Acqua e agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Raccolta del runoff",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Coltivazione in ambiente marginale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Ritualità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Kiva e grandi kiva",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Orientamenti astronomici",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Scambio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Turchese, conchiglie e ara",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Reti del bacino di San Juan",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Organizzazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Pianificazione delle grandi case",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Funzione politica sovraregionale",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

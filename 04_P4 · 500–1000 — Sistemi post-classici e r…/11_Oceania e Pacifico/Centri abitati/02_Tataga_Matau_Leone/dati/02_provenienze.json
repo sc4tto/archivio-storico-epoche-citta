@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Tataga-Matau",
+      "lat": -14.347,
+      "lon": -170.789,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "leone",
+      "label": "Leone",
+      "lat": -14.343,
+      "lon": -170.785,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "lagoon",
+      "label": "Laguna di Leone",
+      "lat": -14.346,
+      "lon": -170.792,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "ridge",
+      "label": "Creste occidentali di Tutuila",
+      "lat": -14.33,
+      "lon": -170.79,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "east",
+      "label": "Tutuila orientale",
+      "lat": -14.28,
+      "lon": -170.62,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "upolu",
+      "label": "Upolu",
+      "lat": -13.92,
+      "lon": -171.75,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "tonga",
+      "label": "Tonga",
+      "lat": -21.15,
+      "lon": -175.2,
+      "status": "inferito",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "leone",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "supporto del villaggio",
+      "food": "cibo e manodopera"
+    },
+    {
+      "source": "lagoon",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "approvvigionamento costiero",
+      "food": "pesce e molluschi"
+    },
+    {
+      "source": "ridge",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "movimento sulla cresta",
+      "food": "basalto e preforme"
+    },
+    {
+      "source": "east",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "distribuzione insulare",
+      "food": "asce e utensili"
+    },
+    {
+      "source": "upolu",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "circolazione interinsulare",
+      "food": "preforme e manufatti"
+    },
+    {
+      "source": "tonga",
+      "target": "ctr",
+      "status": "inferito",
+      "label": "scambio oceanico",
+      "food": "utensili selezionati"
+    }
+  ]
+}

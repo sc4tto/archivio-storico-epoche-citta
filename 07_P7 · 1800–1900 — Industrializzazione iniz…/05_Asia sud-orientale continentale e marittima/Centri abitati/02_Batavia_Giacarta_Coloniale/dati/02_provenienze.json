@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Batavia–Weltevreden",
+      "lat": -6.1754,
+      "lon": 106.8272,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "omm",
+      "label": "Ommelanden",
+      "lat": -6.35,
+      "lon": 106.8,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "pri",
+      "label": "Tanjung Priok e baia",
+      "lat": -6.1,
+      "lon": 106.88,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "bog",
+      "label": "Buitenzorg e altopiani",
+      "lat": -6.6,
+      "lon": 106.8,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "jav",
+      "label": "Giava centrale e orientale",
+      "lat": -7.4,
+      "lon": 110.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "sum",
+      "label": "Sumatra e stretto di Melaka",
+      "lat": 0.5,
+      "lon": 101.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "eur",
+      "label": "Paesi Bassi, India e mercati globali",
+      "lat": 20.0,
+      "lon": 60.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "omm",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali, strade e ferrovia",
+      "food": "riso, zucchero, frutta e manodopera"
+    },
+    {
+      "source": "pri",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto e navigazione costiera",
+      "food": "pesce, sale e merci oceaniche"
+    },
+    {
+      "source": "bog",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strada e ferrovia",
+      "food": "tè, caffè, ortaggi e prodotti montani"
+    },
+    {
+      "source": "jav",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e cabotaggio",
+      "food": "riso, zucchero, caffè e tessili"
+    },
+    {
+      "source": "sum",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte dello stretto",
+      "food": "pepe, stagno, tabacco e prodotti forestali"
+    },
+    {
+      "source": "eur",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "piroscafi e compagnie coloniali",
+      "food": "macchinari, metalli, farina e capitale"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Pachacamac",
+      "lat": -12.257,
+      "lon": -76.9,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "lurin",
+      "label": "Valle e fiume Lurín",
+      "lat": -12.2,
+      "lon": -76.87,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "coast",
+      "label": "Costa e isole di Pachacamac",
+      "lat": -12.3,
+      "lon": -77.0,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "lima",
+      "label": "Valli di Rímac e Chillón",
+      "lat": -12.05,
+      "lon": -77.05,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "highlands",
+      "label": "Altopiani centrali",
+      "lat": -11.95,
+      "lon": -75.3,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "south",
+      "label": "Costa meridionale e Nasca",
+      "lat": -14.2,
+      "lon": -75.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "lurin",
+      "target": "site",
+      "label": "mais, frutta, cotone, acqua e lavoro",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "coast",
+      "target": "site",
+      "label": "pesce, molluschi e sale",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "lima",
+      "target": "site",
+      "label": "ceramiche, persone e tradizioni Lima",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "highlands",
+      "target": "site",
+      "label": "camelidi, ossidiana e prodotti di quota",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "south",
+      "target": "site",
+      "label": "tessili, iconografie e relazioni costiere",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

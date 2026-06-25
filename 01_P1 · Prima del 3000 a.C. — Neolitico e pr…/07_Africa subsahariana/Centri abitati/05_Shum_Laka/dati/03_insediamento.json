@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Occupazioni pleistoceniche",
+    "Primo Olocene",
+    "Sepolture antiche",
+    "Fasi ceramiche",
+    "Trasformazioni successive"
+  ],
+  "items": [
+    {
+      "id": "shelter",
+      "label": "Uso ripetuto del grande riparo",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "hearths",
+      "label": "Focolari e aree domestiche",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "quartz",
+      "label": "Industrie microlitiche di quarzo",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "fauna",
+      "label": "Caccia e lavorazione della fauna",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "burials",
+      "label": "Sepolture nel riparo",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "pottery",
+      "label": "Ceramica nelle fasi oloceniche tarde",
+      "lane": "Produttive",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "short",
+      "label": "Episodi ripetuti di occupazione breve",
+      "lane": "Trasformazione",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

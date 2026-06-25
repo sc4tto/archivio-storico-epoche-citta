@@ -1,0 +1,74 @@
+{
+  "phases": [
+    "500–650",
+    "650–750",
+    "750–900",
+    "900–1000"
+  ],
+  "items": [
+    {
+      "id": "m1",
+      "label": "Villaggi Basketmaker III con case seminterrate",
+      "lane": "Abitato",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "m2",
+      "label": "Adozione più ampia di ceramica e arco",
+      "lane": "Tecnologia",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "m3",
+      "label": "Pueblo I: aggregazione in villaggi",
+      "lane": "Urbanistica",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "m4",
+      "label": "Transizione a stanze in muratura",
+      "lane": "Costruzione",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "m5",
+      "label": "Kiva derivate dalle case seminterrate",
+      "lane": "Rituale",
+      "start": 2,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "m6",
+      "label": "Campi, terrazze e dispositivi di controllo erosivo",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "m7",
+      "label": "Pueblo II: crescita delle reti regionali",
+      "lane": "Commercio",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "m8",
+      "label": "Abitazioni rupestri maggiori dopo il 1100",
+      "lane": "Cronologia",
+      "start": 3,
+      "end": 3,
+      "status": "non_documentato"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Pechino, capitale, metropolitana, aria e controllo urbano",
+    "site": "Pechino, capitale, metropolitana, aria e controllo urbano",
+    "modern_location": "Pechino, Cina",
+    "coordinates": {
+      "lat": 39.9042,
+      "lon": 116.4074
+    },
+    "scope": "Pechino dal 1970 al 25 giugno 2026: riforme economiche, crescita della capitale, proteste e repressione del 1989, trasformazione degli hutong, Olimpiadi 2008 e 2022, espansione della metropolitana, lotta all’inquinamento, sviluppo coordinato Beijing–Tianjin–Hebei e trasferimento di funzioni verso Tongzhou.",
+    "version": "1.0",
+    "warning": "Il Master Plan 2016–2035 e gli interventi annunciati nel rapporto di governo 2026 sono piani o programmi in corso; non vengono presentati come completati."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "BJ1",
+      "title": "Beijing Municipal Government — Master Plan implementation and coordinated development",
+      "use": "Master Plan 2016–2035, assetto spaziale e coordinamento Beijing–Tianjin–Hebei.",
+      "url": "https://english.beijing.gov.cn/government/reports/202201/t20220114_2591841.html"
+    },
+    {
+      "id": "BJ2",
+      "title": "Beijing Municipal Government — Report on the Work of the Government 2025",
+      "use": "Prevenzione regionale dell’inquinamento e politiche ambientali.",
+      "url": "https://english.beijing.gov.cn/government/reports/202503/t20250304_4024414.html"
+    },
+    {
+      "id": "BJ3",
+      "title": "Beijing Transport Institute / World Bank — Green Transport Development Practice",
+      "use": "Trasporto verde, motorizzazione e miglioramento della qualità dell’aria.",
+      "url": "https://thedocs.worldbank.org/en/doc/10efee41094e8d8e6cab0471e7b0438c-0070012024/original/0426-Beijing-Green-Transport-Development-Practice-and-Experience-Guo.pdf"
+    },
+    {
+      "id": "BJ4",
+      "title": "Amnesty International — The 1989 Tiananmen Crackdown",
+      "use": "Proteste pacifiche, uso della forza militare e repressione politica del 1989.",
+      "url": "https://www.amnesty.org/en/projects/the-1989-tiananmen-crackdown/"
+    }
+  ]
+}

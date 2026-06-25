@@ -1,0 +1,228 @@
+{
+  "nodes": [
+    {
+      "id": "env1",
+      "label": "Terrazzo di loess sul Danubio",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "env2",
+      "label": "Valle della Bolečica e campi fertili",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "env3",
+      "label": "Boschi, rive e zone umide",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "crop1",
+      "label": "Frumento monococco e dicocco",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "crop2",
+      "label": "Orzo, legumi e piante raccolte",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "animal",
+      "label": "Bovini, ovicaprini, suini e cani",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "aquatic",
+      "label": "Pesci e molluschi del Danubio",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "wild",
+      "label": "Cervo, cinghiale e altra selvaggina",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "cultivate",
+      "label": "Coltivazione, mietitura e raccolta",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "herd",
+      "label": "Allevamento e gestione delle mandrie",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "fishhunt",
+      "label": "Pesca, caccia e raccolta",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "grind",
+      "label": "Macinazione e pestatura",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "cook",
+      "label": "Cottura in focolari e forni",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "store",
+      "label": "Stoccaggio in contenitori e strutture",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "butcher",
+      "label": "Macellazione e lavorazione animale",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "meals",
+      "label": "Pasti cerealicoli e prodotti animali",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "evidence",
+      "label": "Semi, ossa, macine, ceramica e focolari",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "refuse",
+      "label": "Rifiuti domestici e strati di incendio",
+      "layer": 4,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "env1",
+      "target": "crop1",
+      "label": "ambiente produttivo",
+      "status": "sintesi"
+    },
+    {
+      "source": "env1",
+      "target": "crop2",
+      "label": "ambiente produttivo",
+      "status": "sintesi"
+    },
+    {
+      "source": "env2",
+      "target": "aquatic",
+      "label": "risorse locali",
+      "status": "sintesi"
+    },
+    {
+      "source": "env3",
+      "target": "animal",
+      "label": "habitat animale",
+      "status": "sintesi"
+    },
+    {
+      "source": "env3",
+      "target": "wild",
+      "label": "raccolta e caccia",
+      "status": "sintesi"
+    },
+    {
+      "source": "crop1",
+      "target": "cultivate",
+      "label": "produzione o raccolta",
+      "status": "documentato"
+    },
+    {
+      "source": "crop2",
+      "target": "cultivate",
+      "label": "produzione o raccolta",
+      "status": "documentato"
+    },
+    {
+      "source": "animal",
+      "target": "herd",
+      "label": "gestione o cattura",
+      "status": "documentato"
+    },
+    {
+      "source": "aquatic",
+      "target": "fishhunt",
+      "label": "pesca o raccolta",
+      "status": "sintesi"
+    },
+    {
+      "source": "wild",
+      "target": "fishhunt",
+      "label": "caccia o raccolta",
+      "status": "sintesi"
+    },
+    {
+      "source": "cultivate",
+      "target": "grind",
+      "label": "trasformazione vegetale",
+      "status": "documentato"
+    },
+    {
+      "source": "cultivate",
+      "target": "store",
+      "label": "conservazione",
+      "status": "sintesi"
+    },
+    {
+      "source": "herd",
+      "target": "butcher",
+      "label": "prodotti animali",
+      "status": "sintesi"
+    },
+    {
+      "source": "fishhunt",
+      "target": "butcher",
+      "label": "trattamento delle prede",
+      "status": "sintesi"
+    },
+    {
+      "source": "grind",
+      "target": "meals",
+      "label": "preparazione",
+      "status": "sintesi"
+    },
+    {
+      "source": "cook",
+      "target": "meals",
+      "label": "cottura",
+      "status": "sintesi"
+    },
+    {
+      "source": "store",
+      "target": "evidence",
+      "label": "contenitori o depositi",
+      "status": "documentato"
+    },
+    {
+      "source": "butcher",
+      "target": "evidence",
+      "label": "resti faunistici",
+      "status": "documentato"
+    },
+    {
+      "source": "cook",
+      "target": "refuse",
+      "label": "cenere e residui",
+      "status": "documentato"
+    }
+  ]
+}

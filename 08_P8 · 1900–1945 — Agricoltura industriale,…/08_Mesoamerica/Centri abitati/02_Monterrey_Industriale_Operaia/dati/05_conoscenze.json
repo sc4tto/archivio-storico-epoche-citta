@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Monterrey industriale e operaia",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Infrastrutture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Ferrovie, tram, strade, elettricità e telecomunicazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Acqua, drenaggi, ospedali, mercati e sanità urbana",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Economia urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "acciaio, birra, vetro, cemento, meccanica e commercio transfrontaliero",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Industria, commercio, credito, logistica e approvvigionamento",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Politica e istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "governo statale, municipalità, imprese familiari e Stato rivoluzionario",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Municipalità, polizia, tribunali, esercito e amministrazioni centrali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "operai qualificati e migranti, imprenditori, tecnici, donne nelle fabbriche e sindacati",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Migrazioni, scuole, sindacati, associazioni, Chiesa e stampa",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Crisi e violenza",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "piene, incidenti industriali, inquinamento, repressione sindacale e scarsità idrica",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Autoritarismo, segregazione, lavoro coercitivo e servizi distribuiti in modo diseguale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

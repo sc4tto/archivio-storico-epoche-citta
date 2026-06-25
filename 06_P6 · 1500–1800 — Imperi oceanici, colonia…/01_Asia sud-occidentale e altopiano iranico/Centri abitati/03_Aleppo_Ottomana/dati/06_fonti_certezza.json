@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Aleppo fu un grande nodo carovaniero fra Mediterraneo, Anatolia, Iraq e Iran.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "AL1; AL2"
+  },
+  {
+    "claim": "Il suq coperto e i khan organizzavano commercio, stoccaggio e ospitalità.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "AL1"
+  },
+  {
+    "claim": "Le manifatture tessili e il sapone erano importanti attività urbane.",
+    "theme": "produzione",
+    "status": "documentato",
+    "source": "AL2; AL3"
+  },
+  {
+    "claim": "La città comprendeva quartieri musulmani e cristiani e comunità mercantili estere.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "AL1; AL2"
+  },
+  {
+    "claim": "Le case a corte articolavano vita domestica e rappresentanza.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "AL3"
+  },
+  {
+    "claim": "La cittadella mantenne valore simbolico e militare.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "AL1"
+  },
+  {
+    "claim": "Terremoti ed epidemie influenzarono la vita urbana.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "AL2"
+  },
+  {
+    "claim": "Le ricostruzioni moderne non sono retrodatate al periodo P6.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "AL1; AL5"
+  }
+]

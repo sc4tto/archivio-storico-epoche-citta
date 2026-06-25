@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Wellington, capitale, alloggi, motorway e migrazioni",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Capitale amministrativa",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Ministeri, uffici, università e servizi nazionali",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Flussi pendolari e domanda di abitazioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Ingegneria del terreno",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Case su pendio, muri di sostegno e grandi movimenti di terra",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Rischio sismico, vento, drenaggio e infrastrutture",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Trasporto regionale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Ferrovie suburbane, motorway, porto e aeroporto",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Connessione fra centro, Hutt, Porirua e Kapiti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Migrazioni Māori e Pacifico",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Lavoro, alloggio, chiese, club e reti di parentela",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Discriminazione, adattamento e costruzione comunitaria",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Patrimonio e conflitto urbano",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Bolton Street Cemetery, quartieri storici e modernismo",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Demolizione, esproprio, memoria e protesta",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

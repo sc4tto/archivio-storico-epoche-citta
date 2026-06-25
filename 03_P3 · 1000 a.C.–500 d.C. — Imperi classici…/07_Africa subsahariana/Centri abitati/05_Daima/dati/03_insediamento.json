@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Daima I iniziale",
+    "Villaggio agro-pastorale",
+    "Ceramica e figurine animali",
+    "Transizione al ferro",
+    "Daima II iniziale entro il V secolo"
+  ],
+  "items": [
+    {
+      "id": "mound",
+      "label": "Crescita del tell e livelli di abitato",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Case leggere e poi pareti in terra",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "hearths",
+      "label": "Focolari, ceneri e fosse",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "pottery",
+      "label": "Ceramica decorata",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "figurines",
+      "label": "Figurine animali e umane",
+      "lane": "Rituali",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "burials",
+      "label": "Sepolture entro l’abitato",
+      "lane": "Rituali",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "iron",
+      "label": "Comparsa graduale del ferro",
+      "lane": "Produttive",
+      "start": 3,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

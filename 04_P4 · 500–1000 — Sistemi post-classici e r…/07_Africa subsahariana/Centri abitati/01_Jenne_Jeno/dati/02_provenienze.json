@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Jenne-jeno",
+      "lat": 13.9064,
+      "lon": -4.555,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "bani",
+      "label": "Fiume Bani",
+      "lat": 13.92,
+      "lon": -4.53,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "ham",
+      "label": "Hambarketolo",
+      "lat": 13.9,
+      "lon": -4.58,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "kan",
+      "label": "Kaniana",
+      "lat": 13.88,
+      "lon": -4.57,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "mopti",
+      "label": "Delta interno verso Mopti",
+      "lat": 14.49,
+      "lon": -4.2,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "niger",
+      "label": "Corridoio del Medio Niger",
+      "lat": 15.0,
+      "lon": -3.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "sahel",
+      "label": "Sahel occidentale",
+      "lat": 16.0,
+      "lon": -6.0,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "bani",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "piene e trasporto locale",
+      "food": "pesce, riso e argilla"
+    },
+    {
+      "source": "ham",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete di tell vicini",
+      "food": "ceramica e derrate"
+    },
+    {
+      "source": "kan",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "specializzazione insediativa",
+      "food": "prodotti agricoli e artigianali"
+    },
+    {
+      "source": "mopti",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoi acquatici",
+      "food": "pesce, bestiame e cereali"
+    },
+    {
+      "source": "niger",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "scambio regionale",
+      "food": "metalli, sale e manufatti"
+    },
+    {
+      "source": "sahel",
+      "target": "ctr",
+      "status": "inferito",
+      "label": "reti a lunga distanza indirette",
+      "food": "rame, pietre e beni di prestigio"
+    }
+  ]
+}

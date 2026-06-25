@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Fondazione seleucide",
+    "Capitale ellenistica",
+    "Crescita urbana",
+    "Dominazione partica",
+    "Conflitti romani e declino"
+  ],
+  "items": [
+    {
+      "id": "grid",
+      "label": "Trama urbana e strade",
+      "lane": "Urbanistiche",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "agora",
+      "label": "Agorai e spazi pubblici",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Case a corte e isolati",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "archive",
+      "label": "Edificio d’archivio e sigilli",
+      "lane": "Amministrative",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "coin",
+      "label": "Produzione e circolazione monetaria",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "river",
+      "label": "Approdi e commercio fluviale",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "wars",
+      "label": "Distruzioni e riorganizzazioni",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "phases": [
+    "500–700",
+    "700–850",
+    "850–925",
+    "925–1000"
+  ],
+  "items": [
+    {
+      "id": "o1",
+      "label": "Occupazioni Woodland e reti regionali",
+      "lane": "Abitato",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o2",
+      "label": "Aumento dell’agricoltura del mais",
+      "lane": "Agricoltura",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "o3",
+      "label": "Arrivo e consolidamento della tradizione Macon Plateau",
+      "lane": "Politica",
+      "start": 2,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "o4",
+      "label": "Costruzione di piattaforme di terra",
+      "lane": "Monumentalità",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "o5",
+      "label": "Earth lodge e spazi assembleari",
+      "lane": "Rituale",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "o6",
+      "label": "Villaggi e aree domestiche",
+      "lane": "Urbanistica",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "o7",
+      "label": "Scambi di rame, conchiglia e pietra",
+      "lane": "Commercio",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "o8",
+      "label": "Massima crescita nell’XI secolo",
+      "lane": "Cronologia",
+      "start": 3,
+      "end": 3,
+      "status": "non_documentato"
+    }
+  ]
+}

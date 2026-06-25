@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Città del Messico, mobilità, acqua, sisma e clima",
+    "site": "Città del Messico, mobilità, acqua, sisma e clima",
+    "modern_location": "Città del Messico, Messico",
+    "coordinates": {
+      "lat": 19.4326,
+      "lon": -99.1332
+    },
+    "scope": "Città del Messico dal 1970 al 25 giugno 2026: espansione della Zona Metropolitana della Valle del Messico, crescita dei servizi e delle reti di trasporto, terremoti del 1985 e 2017, politiche per la qualità dell’aria, Metrobús e Cablebús, disuguaglianze territoriali, insediamenti informali, sovrasfruttamento delle falde, subsidenza, scarsità idrica e programmi di adattamento climatico.",
+    "version": "1.0",
+    "warning": "La Strategia climatica 2021–2050, il Programma di azione climatica 2021–2030 e le opere non concluse al 25 giugno 2026 sono registrati come piani o progetti futuri."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MX1",
+      "title": "Sistema de Transporte Colectivo — Cronología del Metro",
+      "use": "Aperture e ampliamenti della rete Metro dal 1969 in poi.",
+      "url": "https://www.metro.cdmx.gob.mx/cronologia-del-metro"
+    },
+    {
+      "id": "MX2",
+      "title": "World Bank — Water Security and Resilience for the Valley of Mexico",
+      "use": "Sovrasfruttamento delle falde, subsidenza, alluvioni e sicurezza idrica.",
+      "url": "https://documents1.worldbank.org/curated/en/170161583118056961/pdf/Mexico-Water-Security-and-Resilience-for-the-Valley-of-Mexico-Project.pdf"
+    },
+    {
+      "id": "MX3",
+      "title": "SEDEMA — Estrategia Local de Acción Climática 2021–2050 e PACCM 2021–2030",
+      "use": "Mobilità, acqua, qualità dell’aria, rifiuti e resilienza urbana.",
+      "url": "https://sedema.cdmx.gob.mx/programas/programa/cambio-climatico"
+    },
+    {
+      "id": "MX4",
+      "title": "CENAPRED — Studi e profili di rischio sismico",
+      "use": "Terremoti del 1985 e 2017, amplificazione nel bacino e prevenzione.",
+      "url": "https://www1.cenapred.unam.mx/DIR_INVESTIGACION/2020/1er_Trimestre/FRACCION_XLI/RS/200116_RS_PAT_SISMOS.pdf"
+    }
+  ]
+}

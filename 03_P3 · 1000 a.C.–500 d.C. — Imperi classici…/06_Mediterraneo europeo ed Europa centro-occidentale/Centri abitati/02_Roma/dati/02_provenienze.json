@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Roma",
+      "lat": 41.893,
+      "lon": 12.483,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "forum",
+      "label": "Foro Romano e Palatino",
+      "lat": 41.892,
+      "lon": 12.486,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "tiber",
+      "label": "Tevere e porti urbani",
+      "lat": 41.884,
+      "lon": 12.477,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "ostia",
+      "label": "Ostia e Portus",
+      "lat": 41.755,
+      "lon": 12.289,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "campania",
+      "label": "Campania",
+      "lat": 40.85,
+      "lon": 14.27,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "africa",
+      "label": "Africa proconsolare",
+      "lat": 36.85,
+      "lon": 10.33,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "forum",
+      "target": "site",
+      "label": "governo, culti e rappresentazione",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "tiber",
+      "target": "site",
+      "label": "trasporto fluviale, mercati e scarichi",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "ostia",
+      "target": "site",
+      "label": "grano, olio, vino e merci mediterranee",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "campania",
+      "target": "site",
+      "label": "vino, derrate e materiali edilizi",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "africa",
+      "target": "site",
+      "label": "grano, olio e fiscalità annonaria",
+      "status": "documentato",
+      "food": "sì"
+    }
+  ]
+}

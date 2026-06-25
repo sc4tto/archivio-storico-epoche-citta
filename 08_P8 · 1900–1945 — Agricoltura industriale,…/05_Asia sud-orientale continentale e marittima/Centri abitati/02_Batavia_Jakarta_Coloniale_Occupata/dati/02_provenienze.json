@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Batavia–Jakarta",
+      "lat": -6.1754,
+      "lon": 106.8272,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "omm",
+      "label": "Ommelanden e Buitenzorg",
+      "lat": -6.6,
+      "lon": 106.8,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "pri",
+      "label": "Tanjung Priok e baia",
+      "lat": -6.1,
+      "lon": 106.88,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "kam",
+      "label": "Kampung e orti periferici",
+      "lat": -6.25,
+      "lon": 106.85,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "jav",
+      "label": "Giava occidentale e centrale",
+      "lat": -7.0,
+      "lon": 109.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "sum",
+      "label": "Sumatra e Palembang",
+      "lat": -1.5,
+      "lon": 103.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "net",
+      "label": "Paesi Bassi e rete coloniale asiatica",
+      "lat": 15.0,
+      "lon": 105.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "omm",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e strade rurali",
+      "food": "riso, ortaggi, latte, tè e legname"
+    },
+    {
+      "source": "pri",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto e cabotaggio",
+      "food": "pesce, petrolio, importazioni e merci portuali"
+    },
+    {
+      "source": "kam",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "mercati di quartiere",
+      "food": "frutta, verdure, uova e piccoli animali"
+    },
+    {
+      "source": "jav",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete ferroviaria di Giava",
+      "food": "riso, zucchero, caffè, tè e manodopera"
+    },
+    {
+      "source": "sum",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "shipping interinsulare",
+      "food": "petrolio, gomma, carbone e prodotti forestali"
+    },
+    {
+      "source": "net",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete mercantile coloniale",
+      "food": "capitale, macchinari, farine e beni industriali"
+    }
+  ]
+}

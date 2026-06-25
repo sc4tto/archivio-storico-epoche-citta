@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Melbourne, migrazione, industria e high-rise pubblico",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Industria e lavoro",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Automobili, metalli, tessili, alimentari e porti",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Sindacati, apprendistato e lavoro migrante",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Migrazione e comunità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Hostels, catene migratorie e ricongiungimenti",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Club, chiese, negozi e paesaggi culturali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Edilizia pubblica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Prefabbricazione, torri, walk-ups e servizi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Clearance, ricollocazione e contestazione degli abitanti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Trasporto suburbano",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Treni, tram, automobili, freeways e parcheggi",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Pianificazione a bassa densità e accesso ai posti di lavoro",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Diritti indigeni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Attivismo Koori, referendum e associazionismo",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Critica dell’assimilazione, della discriminazione e della perdita di terra",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

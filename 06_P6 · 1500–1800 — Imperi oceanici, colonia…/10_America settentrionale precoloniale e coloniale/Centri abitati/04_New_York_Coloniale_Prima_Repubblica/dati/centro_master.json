@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "New York coloniale e della prima repubblica",
+    "site": "New York coloniale e della prima repubblica",
+    "modern_location": "New York, Stati Uniti",
+    "coordinates": {
+      "lat": 40.7128,
+      "lon": -74.006
+    },
+    "scope": "New York fra 1624 e 1800: punta meridionale di Manhattan, porto, mura, mercati, magazzini, quartieri, schiavitù urbana, rivoluzione e crescita della prima repubblica.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1800. Griglia del 1811, Erie Canal, immigrazione di massa, Central Park e metropoli industriale sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "NY1",
+      "title": "National Park Service — African Burial Ground",
+      "use": "Schiavitù, comunità africana e archeologia urbana.",
+      "url": "https://www.nps.gov/afbg/"
+    },
+    {
+      "id": "NY2",
+      "title": "Encyclopaedia Britannica — New York City",
+      "use": "Nieuw Amsterdam, dominio inglese e crescita portuale.",
+      "url": "https://www.britannica.com/place/New-York-City"
+    },
+    {
+      "id": "NY3",
+      "title": "Museum of the City of New York",
+      "use": "Storia urbana e cultura materiale.",
+      "url": "https://www.mcny.org/"
+    },
+    {
+      "id": "NY4",
+      "title": "New York State Archives",
+      "use": "Fonti coloniali, politiche e cartografiche.",
+      "url": "https://www.archives.nysed.gov/"
+    },
+    {
+      "id": "NY5",
+      "title": "National Park Service — Federal Hall",
+      "use": "Prima repubblica e governo federale.",
+      "url": "https://www.nps.gov/feha/"
+    }
+  ]
+}

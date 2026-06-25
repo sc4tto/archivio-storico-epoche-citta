@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "TransformTO 2026–2030 è un piano climatico futuro approvato dalla città.",
+    "theme": "clima",
+    "status": "documentato",
+    "source": "TO1"
+  },
+  {
+    "claim": "Il TTC Accessibility Plan documenta progressi e barriere residue nel sistema.",
+    "theme": "accessibilità",
+    "status": "documentato",
+    "source": "TO2"
+  },
+  {
+    "claim": "HousingTO tratta l’intero spettro dall’emergenza abitativa all’edilizia sociale.",
+    "theme": "alloggi",
+    "status": "documentato",
+    "source": "TO3"
+  },
+  {
+    "claim": "Il Reconciliation Action Plan guida azioni di verità, giustizia e condivisione del potere.",
+    "theme": "indigeni",
+    "status": "documentato",
+    "source": "TO4"
+  },
+  {
+    "claim": "Gli orizzonti 2030 e 2032 sono qualificati come obiettivi di piano futuri.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "TO1"
+  },
+  {
+    "claim": "Toronto è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Colonialismo, discriminazione indigena, sfratti, segregazione e disuguaglianze non sono presentati come processi neutrali.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

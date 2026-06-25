@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Berlino divisa, ricostruzione e Muro",
+    "site": "Berlino divisa, ricostruzione e Muro",
+    "modern_location": "Berlino, Germania",
+    "coordinates": {
+      "lat": 52.52,
+      "lon": 13.405
+    },
+    "scope": "Berlino fra 1945 e 1970: città distrutta e occupata in quattro settori, blocco e ponte aereo, separazione amministrativa, ricostruzioni concorrenti a Est e Ovest, rivolta del 1953, edilizia di massa, emigrazione dalla RDT, costruzione del Muro nel 1961 e trasformazione di Alexanderplatz entro il 1970.",
+    "version": "1.0",
+    "warning": "Sono esclusi gli ampliamenti successivi del Muro, i grandi quartieri orientali degli anni Settanta e Ottanta, la caduta del 1989, la riunificazione e gli sviluppi successivi al 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "BE1",
+      "title": "Land Berlin — Berlin after 1945",
+      "use": "Distruzioni, occupazione, blocco, ponte aereo e divisione politica.",
+      "url": "https://www.berlin.de/en/history/8481782-8619314-berlin-after-1945.en.html"
+    },
+    {
+      "id": "BE2",
+      "title": "Stiftung Berliner Mauer — History of the Berlin Wall",
+      "use": "Emigrazione dalla RDT, chiusura del confine e violenza del Muro.",
+      "url": "https://www.stiftung-berliner-mauer.de/en/topics/berlin-wall"
+    },
+    {
+      "id": "BE3",
+      "title": "UNESCO World Heritage Centre — Urban reconstruction after 1945 Berlin",
+      "use": "Ricostruzione di lungo periodo e scelte urbanistiche concorrenti.",
+      "url": "https://whc.unesco.org/document/175512"
+    },
+    {
+      "id": "BE4",
+      "title": "Land Berlin — East Berlin tour and architecture",
+      "use": "Karl-Marx-Allee, prefabbricazione e trasformazione socialista del centro.",
+      "url": "https://www.berlin.de/en/tourism/self-guided-tours/7803582-8056766-east-berlin-tour-discover-the-former-sov.en.html"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1500–1560",
+    "1560–1620",
+    "1620–1680",
+    "1680–1740",
+    "1740–1800"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Fondazione di Nuestra Señora de La Paz nel 1548",
+      "lane": "Trasformazioni",
+      "start": 0,
+      "end": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Trasferimento e consolidamento nella valle di Chuquiago",
+      "lane": "Urbanistica",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Crescita di chiese, parrocchie, mercati e mulini",
+      "lane": "Architettura",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Sviluppo delle reti fra Yungas, Titicaca e distretti minerari",
+      "lane": "Economia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Conflitti fiscali e tensioni nelle comunità regionali",
+      "lane": "Società",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Grande assedio indigeno del 1781",
+      "lane": "Rischi",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Riorganizzazione amministrativa tardo-settecentesca",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Capitale e crescita repubblicana escluse",
+      "lane": "Cronologia",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

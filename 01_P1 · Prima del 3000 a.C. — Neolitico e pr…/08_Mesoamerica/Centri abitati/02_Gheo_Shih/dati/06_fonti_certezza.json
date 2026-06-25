@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Gheo Shih è un sito all’aperto nel paesaggio di Yagul e Mitla",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "UNESCO_YAGUL"
+  },
+  {
+    "claim": "Sono documentati strumenti di macinazione e attività litiche",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "MARCUS_FLANNERY"
+  },
+  {
+    "claim": "Un’area sgombra è delimitata da allineamenti di pietre",
+    "theme": "Costruzione",
+    "status": "documentato",
+    "source": "MARCUS_FLANNERY"
+  },
+  {
+    "claim": "L’area fu probabilmente usata per aggregazioni collettive",
+    "theme": "Organizzazione",
+    "status": "sintesi",
+    "source": "MARCUS_FLANNERY"
+  },
+  {
+    "claim": "Il sito partecipava a una rete stagionale della valle",
+    "theme": "Mobilità",
+    "status": "sintesi",
+    "source": "UNESCO_YAGUL"
+  },
+  {
+    "claim": "La struttura era certamente un tempio",
+    "theme": "Ritualità",
+    "status": "non_documentato",
+    "source": "Interpretazione discussa"
+  },
+  {
+    "claim": "Il sito era occupato tutto l’anno",
+    "theme": "Sedentarietà",
+    "status": "non_documentato",
+    "source": "Indicazioni di uso stagionale"
+  },
+  {
+    "claim": "Le aggregazioni avevano capi ereditari",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Nessuna prova diretta"
+  }
+]

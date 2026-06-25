@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Jenne-jeno fu occupata per gran parte del primo millennio e raggiunse dimensioni urbane prima del 1000.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "J1; J2; J4"
+  },
+  {
+    "claim": "Il sito faceva parte di una rete di insediamenti vicini nel delta interno del Niger.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "J1; J4"
+  },
+  {
+    "claim": "Agricoltura alluvionale, pesca e allevamento erano complementari.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "J2; J3"
+  },
+  {
+    "claim": "La produzione del ferro e della ceramica era importante nell’economia locale.",
+    "theme": "produzione",
+    "status": "documentato",
+    "source": "J2; J3"
+  },
+  {
+    "claim": "L’uso di mattoni cilindrici in terra si diffuse nella fase tarda del primo millennio.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "J2; J4"
+  },
+  {
+    "claim": "La complessità urbana non richiede di postulare una fondazione esterna o islamica.",
+    "theme": "interpretazione",
+    "status": "documentato",
+    "source": "J2; J4"
+  },
+  {
+    "claim": "Le reti di scambio collegavano il sito al Medio Niger e ad aree più lontane.",
+    "theme": "commercio",
+    "status": "sintesi",
+    "source": "J2; J4"
+  },
+  {
+    "claim": "Le stime demografiche elevate devono essere considerate ipotesi, non conteggi diretti.",
+    "theme": "certezza",
+    "status": "sintesi",
+    "source": "J2; J4"
+  }
+]

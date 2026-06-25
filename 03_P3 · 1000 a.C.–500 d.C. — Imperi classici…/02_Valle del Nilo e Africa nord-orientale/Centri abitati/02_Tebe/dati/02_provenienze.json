@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Tebe / Luxor",
+      "lat": 25.7188,
+      "lon": 32.6573,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "karnak",
+      "label": "Karnak",
+      "lat": 25.7188,
+      "lon": 32.6575,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "westbank",
+      "label": "Necropoli tebana",
+      "lat": 25.74,
+      "lon": 32.6,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "coptos",
+      "label": "Coptos e vie del deserto",
+      "lat": 26.0,
+      "lon": 32.82,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "aswan",
+      "label": "Elefantina e Assuan",
+      "lat": 24.09,
+      "lon": 32.9,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "alex",
+      "label": "Alessandria e Mediterraneo",
+      "lat": 31.2,
+      "lon": 29.92,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "karnak",
+      "target": "site",
+      "label": "culto, personale e amministrazione templare",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "westbank",
+      "target": "site",
+      "label": "lavoratori, pellegrinaggi e culti funerari",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "coptos",
+      "target": "site",
+      "label": "rotte verso il Mar Rosso",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "aswan",
+      "target": "site",
+      "label": "granito, traffici e frontiera meridionale",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "alex",
+      "target": "site",
+      "label": "amministrazione tolemaica e romana",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

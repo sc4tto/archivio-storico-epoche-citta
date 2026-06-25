@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "San Salvador",
+      "lat": 13.6929,
+      "lon": -89.2182,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "val",
+      "label": "Valle di San Salvador",
+      "lat": 13.7,
+      "lon": -89.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "occ",
+      "label": "Occidente caffetalero",
+      "lat": 13.9,
+      "lon": -89.7,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "lem",
+      "label": "Valle del Lempa",
+      "lat": 13.7,
+      "lon": -88.8,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "ori",
+      "label": "Oriente salvadoregno",
+      "lat": 13.5,
+      "lon": -88.2,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "hon",
+      "label": "Honduras",
+      "lat": 14.8,
+      "lon": -86.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "cam",
+      "label": "Mercato Comune Centroamericano",
+      "lat": 14.5,
+      "lon": -90.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "val",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade urbane e camion",
+      "food": "lavoratori, ortaggi, latte e materiali"
+    },
+    {
+      "source": "occ",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "autobus e camion",
+      "food": "caffè, frutta, mais e migranti"
+    },
+    {
+      "source": "lem",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e reti elettriche",
+      "food": "cereali, energia, cotone e lavoratori"
+    },
+    {
+      "source": "ori",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade nazionali",
+      "food": "bestiame, cereali, cotone e migranti"
+    },
+    {
+      "source": "hon",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade transfrontaliere",
+      "food": "migranti, bestiame, mais e beni commerciali"
+    },
+    {
+      "source": "cam",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete centroamericana",
+      "food": "materie prime, manufatti, combustibili e passeggeri"
+    }
+  ]
+}

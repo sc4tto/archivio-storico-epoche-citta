@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Gao imperiale e Tomb of Askia",
+    "site": "Gao antico, Gao-Saney e complesso dell’Askia",
+    "modern_location": "Gao, Mali",
+    "coordinates": {
+      "lat": 16.2717,
+      "lon": -0.0447
+    },
+    "scope": "Gao fra 1000 e 1500: capitale e porto sul Niger, reti saheliane, islamizzazione, crescita songhai e costruzione della Tomba di Askia nel 1495.",
+    "version": "1.0",
+    "warning": "Il modulo si arresta al 1500. L’apogeo imperiale e le trasformazioni del XVI secolo sono escluse o trattate come sviluppo successivo."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "GA1",
+      "title": "UNESCO — Tomb of Askia",
+      "use": "Complesso funerario del 1495, architettura in terra e ruolo di Gao.",
+      "url": "https://whc.unesco.org/en/list/1139/"
+    },
+    {
+      "id": "GA2",
+      "title": "Encyclopaedia Britannica — Gao",
+      "use": "Storia urbana, porto sul Niger e capitale songhai.",
+      "url": "https://www.britannica.com/place/Gao-Mali"
+    },
+    {
+      "id": "GA3",
+      "title": "Encyclopaedia Britannica — Songhai empire",
+      "use": "Contesto politico ed economico dell’Impero Songhai.",
+      "url": "https://www.britannica.com/place/Songhai-empire"
+    },
+    {
+      "id": "GA4",
+      "title": "UNESCO — General History of Africa",
+      "use": "Regni saheliani, islamizzazione e commercio regionale.",
+      "url": "https://www.unesco.org/en/general-history-africa"
+    },
+    {
+      "id": "GA5",
+      "title": "UNESCO — World Heritage Earthen Architecture Programme",
+      "use": "Tecniche di terra cruda e conservazione.",
+      "url": "https://whc.unesco.org/en/earthen-architecture/"
+    }
+  ]
+}

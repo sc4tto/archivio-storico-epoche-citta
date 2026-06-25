@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Londra, finanza, trasporti, crisi abitativa e resilienza climatica",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Governance metropolitana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Greater London Authority, boroughs e pianificazione strategica",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Partecipazione, dati e coordinamento con governo e operatori",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mobilità integrata",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Underground, Overground, bus, Elizabeth line e ciclabilità",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Congestion charge, tariffe e accessibilità universale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Alloggi e rigenerazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Edilizia sociale, affitto, retrofit e brownfield",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Gentrificazione, sfratti, attese e homelessness",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Economia globale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Finanza, servizi creativi, università e tecnologia",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Deindustrializzazione, lavoro precario e disuguaglianze",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Resilienza climatica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Calore, alluvioni, Tamigi e infrastrutture verdi",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Adattamento equo, energia e qualità dell’aria",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

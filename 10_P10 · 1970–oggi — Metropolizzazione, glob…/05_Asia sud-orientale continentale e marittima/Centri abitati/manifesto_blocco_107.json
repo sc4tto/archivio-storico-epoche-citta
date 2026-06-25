@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_107_P10_Asia_Sudorientale_5_Centri_v1",
+  "macroregion": "Asia sud-orientale continentale e marittima",
+  "centers": [
+    "01_Jakarta_Metropoli_Trasporti_Subsidenza_Clima",
+    "02_Manila_Megaregione_Trasporti_Alluvioni_Disuguaglianze",
+    "03_Bangkok_Megacitta_Metro_Turismo_Clima",
+    "04_Singapore_Porti_HDB_MRT_Clima_Migranti",
+    "05_Ho_Chi_Minh_City_Industria_Metro_Alluvioni_Ricollocazioni"
+  ],
+  "uses_central_assets": true
+}

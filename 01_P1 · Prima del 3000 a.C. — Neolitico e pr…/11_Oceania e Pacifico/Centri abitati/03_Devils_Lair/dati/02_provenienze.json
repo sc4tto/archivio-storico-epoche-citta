@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Devil’s Lair",
+      "lat": -34.12,
+      "lon": 115.06,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "ridge",
+      "label": "Leeuwin–Naturaliste Ridge",
+      "lat": -34.05,
+      "lon": 115.02,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "coast",
+      "label": "Costa sud-occidentale",
+      "lat": -34.2,
+      "lon": 114.98,
+      "status": "sintesi",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "forest",
+      "label": "Foreste del Margaret River",
+      "lat": -33.95,
+      "lon": 115.12,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "stone",
+      "label": "Fonti di chert e quarzo",
+      "lat": -34.0,
+      "lon": 115.3,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "southwest",
+      "label": "Reti del sud-ovest australiano",
+      "lat": -32.5,
+      "lon": 116.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "ridge",
+      "target": "site",
+      "label": "riparo, calcare e fauna",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "coast",
+      "target": "site",
+      "label": "risorse marine occasionali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "forest",
+      "target": "site",
+      "label": "legname, piante e selvaggina",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "stone",
+      "target": "site",
+      "label": "materie prime litiche",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "southwest",
+      "target": "site",
+      "label": "mobilità e scambio di tecniche",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

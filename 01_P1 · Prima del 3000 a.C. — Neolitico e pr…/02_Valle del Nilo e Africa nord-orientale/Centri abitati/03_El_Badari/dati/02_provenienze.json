@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Regione di El-Badari",
+      "lat": 26.99,
+      "lon": 31.42,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "nile",
+      "label": "Fascia coltivabile del Nilo",
+      "lat": 27.0,
+      "lon": 31.3,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": -20,
+      "anchor": "end"
+    },
+    {
+      "id": "hemamieh",
+      "label": "Hemamieh e terrazzi abitativi",
+      "lat": 26.92,
+      "lon": 31.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 10,
+      "dy": 25,
+      "anchor": "start"
+    },
+    {
+      "id": "desert",
+      "label": "Deserto orientale",
+      "lat": 26.9,
+      "lon": 32.1,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 28,
+      "anchor": "middle"
+    },
+    {
+      "id": "redsea",
+      "label": "Costa del Mar Rosso",
+      "lat": 26.5,
+      "lon": 34.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "delta",
+      "label": "Basso Egitto e Delta",
+      "lat": 30.0,
+      "lon": 31.2,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "nile",
+      "target": "site",
+      "label": "agricoltura, acqua, pesce e limo",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "hemamieh",
+      "target": "site",
+      "label": "contesti abitativi regionali",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "desert",
+      "target": "site",
+      "label": "selce, selvaggina e pietre",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "redsea",
+      "target": "site",
+      "label": "conchiglie e minerali ornamentali",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "delta",
+      "target": "site",
+      "label": "vasi di pietra e confronti materiali",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

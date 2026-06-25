@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Tikal tardo-classica",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0_water",
+      "label": "Acqua e paesaggio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0_reservoir",
+          "label": "Costruzione e manutenzione dei bacini",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1_drain",
+          "label": "Drenaggio di piazze e terrazze",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1_agri",
+      "label": "Agricoltura tropicale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0_soil",
+          "label": "Gestione di suoli e bajos",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1_calendar",
+          "label": "Calendari agricoli e rituali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2_craft",
+      "label": "Tecnologie e scrittura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0_stone",
+          "label": "Taglio, stucco e scultura",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1_glyphs",
+          "label": "Scrittura geroglifica e calcolo calendrico",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3_building",
+      "label": "Organizzazione edilizia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0_vault",
+          "label": "Volte a mensola e piattaforme",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1_labour",
+          "label": "Mobilitazione di lavoro e materiali",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4_politics",
+      "label": "Reti politiche",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0_dynasty",
+          "label": "Memoria dinastica e diplomazia",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1_routes",
+          "label": "Controllo di vie e centri secondari",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

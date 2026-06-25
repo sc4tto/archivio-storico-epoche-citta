@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "La valle del Bujang fu un paesaggio portuale e produttivo",
+    "theme": "Reti",
+    "status": "documentato",
+    "source": "BUJANG_JMM"
+  },
+  {
+    "claim": "Sono documentate attività metallurgiche nell’area di Sungai Batu",
+    "theme": "Produzione",
+    "status": "documentato",
+    "source": "BUJANG_JMM"
+  },
+  {
+    "claim": "I fiumi collegavano siti interni e costa",
+    "theme": "Territorio",
+    "status": "documentato",
+    "source": "BUJANG_ALLEN"
+  },
+  {
+    "claim": "Tutte le strutture templari visibili appartengono al P3",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Molte sono posteriori"
+  },
+  {
+    "claim": "Le datazioni più antiche di ogni struttura sono unanimemente accettate",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Discussione metodologica in corso"
+  },
+  {
+    "claim": "Le reti con l’India implicano conquista politica",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Scambio e adozione culturale non equivalgono a conquista"
+  },
+  {
+    "claim": "Il ferro era prodotto per circuiti regionali e marittimi",
+    "theme": "Produzione",
+    "status": "sintesi",
+    "source": "BUJANG_ALLEN"
+  },
+  {
+    "claim": "La valle era una singola città compatta",
+    "theme": "Urbanistica",
+    "status": "non_documentato",
+    "source": "Paesaggio policentrico"
+  }
+]

@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Ebla",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Scrittura e archivi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Scrittura cuneiforme",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Contabilità",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Archivi e biblioteche",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Agricoltura e acqua",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Calendario agricolo",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_2",
+          "label": "Gestione dell’acqua",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Razioni e tributi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Metallurgia",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Tessili",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Ceramica e sigilli",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Edilizia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Mattone crudo e pietra",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Pianificazione urbana",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Manutenzione monumentale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Scambi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Pesi e misure",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Trasporto terrestre o fluviale",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Materie prime importate",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Archivi e diplomazia",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Coordinamento del lavoro",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_2",
+          "label": "Rituali pubblici",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Autorità centralizzata",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

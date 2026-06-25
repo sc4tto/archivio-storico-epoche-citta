@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "New York, autostrade, urban renewal e diritti civili",
+    "site": "New York, autostrade, urban renewal e diritti civili",
+    "modern_location": "New York City, Stati Uniti",
+    "coordinates": {
+      "lat": 40.7128,
+      "lon": -74.006
+    },
+    "scope": "New York fra 1945 e 1970: boom terziario, porto e mercati, grande edilizia pubblica e privata, urban renewal finanziato dal governo federale, autostrade e ponti, espansione universitaria e ospedaliera, migrazioni afroamericane e portoricane, movimenti per i diritti civili e opposizione comunitaria ai progetti di demolizione.",
+    "version": "1.0",
+    "warning": "Sono esclusi la crisi fiscale del 1975, il blackout del 1977, la successiva deindustrializzazione avanzata, la gentrificazione tardo-novecentesca e gli sviluppi posteriori al 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "NY1",
+      "title": "Museum of the City of New York — New York at Its Core: World City",
+      "use": "Economia postbellica, migrazioni, infrastrutture, urban renewal e trasformazioni sociali.",
+      "url": "https://www.mcny.org/nyaic-worldcity-online"
+    },
+    {
+      "id": "NY2",
+      "title": "Ohio State University Press — The New York Approach: Robert Moses, Urban Liberals, and Redevelopment",
+      "use": "Titolo I, demolizioni, ricollocazioni e rapporto fra autorità pubbliche e costruttori.",
+      "url": "https://ohiostatepress.org/books/BookPages/SchwartzNew.htm"
+    },
+    {
+      "id": "NY3",
+      "title": "New York City Department of City Planning — Manhattanville Land Use, Zoning, and Public Policy",
+      "use": "Edilizia NYCHA, migrazioni, istituzioni e rinnovo urbano negli anni cinquanta e sessanta.",
+      "url": "https://www.nyc.gov/assets/planning/download/pdf/applicants/env-review/manhattanville/03.pdf"
+    },
+    {
+      "id": "NY4",
+      "title": "New York City Department of City Planning — Decking Opportunities over Transportation Properties",
+      "use": "Cross-Manhattan Expressway, Bridge Apartments, rumore, scarichi e pianificazione autostradale.",
+      "url": "https://www.nyc.gov/assets/planning/download/pdf/plans/transportation/deck17.pdf"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Karanovo I",
+    "Karanovo II–III",
+    "Karanovo IV",
+    "Karanovo V",
+    "Karanovo VI e fine P1"
+  ],
+  "items": [
+    {
+      "id": "tell",
+      "label": "Crescita stratificata del tell",
+      "lane": "Trasformazione",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Case rettangolari in legno e argilla",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "hearths",
+      "label": "Focolari, forni e superfici domestiche",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "storage",
+      "label": "Vasi e strutture per conservazione",
+      "lane": "Conservazione",
+      "start": 0,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "pottery",
+      "label": "Successione di stili ceramici diagnostici",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "figurines",
+      "label": "Figurine e oggetti rituali domestici",
+      "lane": "Comunitarie",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "rebuild",
+      "label": "Ricostruzioni successive sullo stesso luogo",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

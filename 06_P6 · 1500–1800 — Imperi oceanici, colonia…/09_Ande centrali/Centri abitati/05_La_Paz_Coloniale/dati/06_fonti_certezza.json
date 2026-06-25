@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "La Paz fu fondata nel 1548 e consolidata nella valle di Chuquiago.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "LP1; LP2"
+  },
+  {
+    "claim": "La posizione collegava altiplano, Yungas, Titicaca e circuiti minerari.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "LP1; LP5"
+  },
+  {
+    "claim": "Coca, lana, patate, cereali e trasporto carovaniero sostenevano i mercati urbani.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "LP3; LP4"
+  },
+  {
+    "claim": "Chiese, piazze, mercati e mulini strutturavano il centro coloniale.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "LP2; LP4"
+  },
+  {
+    "claim": "Tributo, mita e requisizioni erano sistemi coercitivi che gravavano sulle comunità indigene.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "LP4"
+  },
+  {
+    "claim": "Il grande assedio del 1781 segnò una crisi politica e alimentare della città.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "LP1; LP4"
+  },
+  {
+    "claim": "Le tecniche costruttive combinavano adobe, pietra, legno e calce.",
+    "theme": "tecniche",
+    "status": "documentato",
+    "source": "LP2; LP3"
+  },
+  {
+    "claim": "Il ruolo di capitale governativa e la crescita repubblicana sono esclusi.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "LP1"
+  }
+]

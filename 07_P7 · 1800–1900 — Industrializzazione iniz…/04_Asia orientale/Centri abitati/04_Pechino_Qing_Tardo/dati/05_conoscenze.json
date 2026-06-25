@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Pechino nel tardo Qing",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Amministrazione Qing",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Memoriali, ministeri e banner",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Granai, tributi e censimenti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Asse e rituale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Palazzi, altari e porte",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Cerimoniale imperiale e calendari",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Approvvigionamento",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Grand Canal e Tongzhou",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Mercati, pozzi e magazzini",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Riforme",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Scuole, arsenali e traduzioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Telegrafo, ferrovie e diplomazia",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Conflitti e patrimonio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Occupazioni e saccheggi",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Incendi, demolizioni e conservazione",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

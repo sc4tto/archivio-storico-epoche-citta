@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Madrid degli Asburgo e dei Borbone",
+    "site": "Madrid degli Asburgo e dei Borbone",
+    "modern_location": "Madrid, Spagna",
+    "coordinates": {
+      "lat": 40.4168,
+      "lon": -3.7038
+    },
+    "scope": "Madrid fra 1500 e 1800: villa e corte, palazzi, conventi, mercati, manifatture, approvvigionamento dall’altopiano e riforme urbane borboniche.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1800. Ensanche, ferrovie, Gran Vía e trasformazioni contemporanee sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MA1",
+      "title": "UNESCO — Paseo del Prado and Buen Retiro",
+      "use": "Paesaggio di arti e scienze e riforme settecentesche.",
+      "url": "https://whc.unesco.org/en/list/1618/"
+    },
+    {
+      "id": "MA2",
+      "title": "Museo de Historia de Madrid",
+      "use": "Storia urbana, corte e vita quotidiana.",
+      "url": "https://www.madrid.es/museodehistoria"
+    },
+    {
+      "id": "MA3",
+      "title": "Patrimonio Nacional — Palacio Real de Madrid",
+      "use": "Palazzo reale, collezioni e istituzioni monarchiche.",
+      "url": "https://www.patrimonionacional.es/visita/palacio-real-de-madrid"
+    },
+    {
+      "id": "MA4",
+      "title": "Archivo de Villa de Madrid",
+      "use": "Fonti amministrative, mappe e governo municipale.",
+      "url": "https://www.madrid.es/archivodevilla"
+    },
+    {
+      "id": "MA5",
+      "title": "Museo Nacional del Prado — History",
+      "use": "Istituzioni artistiche e progetto del Salón del Prado.",
+      "url": "https://www.museodelprado.es/en/museum/history-of-the-museum"
+    }
+  ]
+}

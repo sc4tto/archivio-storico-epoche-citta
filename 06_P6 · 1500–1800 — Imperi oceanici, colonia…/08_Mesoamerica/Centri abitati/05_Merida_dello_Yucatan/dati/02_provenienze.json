@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Mérida",
+      "lat": 20.967,
+      "lon": -89.593,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "mot",
+      "label": "Motul e pianure settentrionali",
+      "lat": 21.1,
+      "lon": -89.28,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "mani",
+      "label": "Maní e regione Puuc",
+      "lat": 20.39,
+      "lon": -89.39,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "iz",
+      "label": "Izamal e oriente",
+      "lat": 20.93,
+      "lon": -89.02,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "cam",
+      "label": "Campeche e costa occidentale",
+      "lat": 19.84,
+      "lon": -90.54,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "vall",
+      "label": "Valladolid e costa caraibica",
+      "lat": 20.69,
+      "lon": -88.2,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "ver",
+      "label": "Veracruz, Cuba e Golfo",
+      "lat": 21.5,
+      "lon": -91.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "mot",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sacbeob riusati e strade",
+      "food": "mais, miele, fibre e legname"
+    },
+    {
+      "source": "mani",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cammini meridionali",
+      "food": "cereali, cotone e prodotti Puuc"
+    },
+    {
+      "source": "iz",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "vie regionali",
+      "food": "mais, sale e prodotti dell’oriente"
+    },
+    {
+      "source": "cam",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto di Campeche",
+      "food": "pesce, sale e merci atlantiche"
+    },
+    {
+      "source": "vall",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade orientali",
+      "food": "bestame, legname e prodotti caraibici"
+    },
+    {
+      "source": "ver",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione del Golfo",
+      "food": "vino, ferro, tessili e funzionari"
+    }
+  ]
+}

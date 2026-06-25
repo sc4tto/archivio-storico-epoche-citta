@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1800–1820",
+    "1820–1840",
+    "1840–1860",
+    "1860–1880",
+    "1880–1900"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Colonia penale e lavoro coatto dei detenuti",
+      "lane": "Coercizione",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Espansione portuale e mercati coloniali",
+      "lane": "Economia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Espropriazione Gadigal/Eora e marginalizzazione",
+      "lane": "Indigeni",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Crescita municipale e servizi urbani",
+      "lane": "Urbanistica",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Corsa all’oro e crescita dei traffici",
+      "lane": "Economia",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Ferrovie, tram e infrastrutture sanitarie",
+      "lane": "Infrastrutture",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Epidemie, alloggi precari e bonifiche",
+      "lane": "Rischi",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Federation e Harbour Bridge esclusi",
+      "lane": "Cronologia",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

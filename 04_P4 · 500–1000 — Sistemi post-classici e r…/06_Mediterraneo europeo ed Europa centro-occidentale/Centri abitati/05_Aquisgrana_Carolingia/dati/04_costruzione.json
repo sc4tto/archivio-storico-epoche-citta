@@ -1,0 +1,174 @@
+{
+  "nodes": [
+    {
+      "id": "m_stone",
+      "label": "Pietra locale e arenaria",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_marble",
+      "label": "Marmi e spolia importati",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_brick",
+      "label": "Laterizi e malta",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_metal",
+      "label": "Legno, piombo e bronzo",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "o_quarry",
+      "label": "Taglio, trasporto e posa",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_vault",
+      "label": "Muratura, volte e cupola",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_bronze",
+      "label": "Fusione e montaggio del bronzo",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_carp",
+      "label": "Carpenteria e coperture",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "c_octagon",
+      "label": "Ottagono, deambulatorio e tribune",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_aula",
+      "label": "Aula regia e corridoi",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_doors",
+      "label": "Porte, grate e arredi metallici",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_service",
+      "label": "Edifici di servizio e abitazioni",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "s_chapel",
+      "label": "Cappella palatina",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_palace",
+      "label": "Complesso palatino",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_baths",
+      "label": "Terme e sistemi idrici",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "s_settlement",
+      "label": "Mercato, officine e insediamento",
+      "layer": 3,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m_stone",
+      "target": "o_quarry",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_quarry",
+      "target": "c_octagon",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_octagon",
+      "target": "s_chapel",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_marble",
+      "target": "o_vault",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_vault",
+      "target": "c_aula",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_aula",
+      "target": "s_palace",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_brick",
+      "target": "o_bronze",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_bronze",
+      "target": "c_doors",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_doors",
+      "target": "s_baths",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_metal",
+      "target": "o_carp",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_carp",
+      "target": "c_service",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_service",
+      "target": "s_settlement",
+      "status": "sintesi",
+      "label": ""
+    }
+  ]
+}

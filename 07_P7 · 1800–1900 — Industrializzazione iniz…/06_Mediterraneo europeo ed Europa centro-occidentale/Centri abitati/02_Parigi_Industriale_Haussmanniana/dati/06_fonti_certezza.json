@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Parigi fu trasformata nel XIX secolo da ferrovie, boulevard e reti sanitarie.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "PA1; PA2; PA3"
+  },
+  {
+    "claim": "I lavori haussmanniani comportarono demolizioni ed espulsione di popolazione povera.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "PA2; PA3"
+  },
+  {
+    "claim": "La Senna e le stazioni ferroviarie sostennero approvvigionamento e commercio.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "PA1; PA3"
+  },
+  {
+    "claim": "Le rivoluzioni del 1830 e 1848 e la Comune del 1871 segnarono la città.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "PA2; PA4"
+  },
+  {
+    "claim": "Esposizioni universali e grandi magazzini resero Parigi un centro culturale e commerciale.",
+    "theme": "cultura",
+    "status": "documentato",
+    "source": "PA1; PA5"
+  },
+  {
+    "claim": "Colera e sovraffollamento favorirono interventi igienici e infrastrutturali.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "PA2; PA3"
+  },
+  {
+    "claim": "Materie prime e prodotti coloniali alimentarono consumi e industrie urbane.",
+    "theme": "colonialismo",
+    "status": "documentato",
+    "source": "PA3; PA4"
+  },
+  {
+    "claim": "Le trasformazioni successive al 1900 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "PA2"
+  }
+]

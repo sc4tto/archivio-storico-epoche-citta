@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Hattusa",
+      "lat": 40.02,
+      "lon": 34.615,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "yazilikaya",
+      "label": "Yazılıkaya",
+      "lat": 40.04,
+      "lon": 34.63,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "plain",
+      "label": "Piana di Budaközü",
+      "lat": 40.08,
+      "lon": 34.6,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "alacahoyuk",
+      "label": "Alaca Höyük",
+      "lat": 40.23,
+      "lon": 34.7,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "kanesh",
+      "label": "Kaneš / Kültepe",
+      "lat": 38.85,
+      "lon": 35.63,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "syria",
+      "label": "Carchemish e Siria settentrionale",
+      "lat": 36.83,
+      "lon": 38.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "yazilikaya",
+      "target": "site",
+      "label": "processioni, culto e autorità religiosa",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "plain",
+      "target": "site",
+      "label": "cereali, legname, pascoli e acqua",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "alacahoyuk",
+      "target": "site",
+      "label": "strade, metalli e comunità regionali",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "kanesh",
+      "target": "site",
+      "label": "scrittura, commercio e tradizioni anatoliche",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "syria",
+      "target": "site",
+      "label": "tributi, cavalli, metalli e diplomazia",
+      "status": "documentato",
+      "food": "parziale"
+    }
+  ]
+}

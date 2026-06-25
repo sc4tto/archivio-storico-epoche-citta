@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Occupazioni della valle dal II millennio a.C.",
+    "Immigrazioni maya-cholane dal I secolo",
+    "Formazione di comunità e centri locali",
+    "Fondazione dinastica nel 427",
+    "Primi programmi monumentali del V secolo"
+  ],
+  "items": [
+    {
+      "id": "acropolis",
+      "label": "Prime fasi dell’Acropoli",
+      "lane": "Monumentali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "plazas",
+      "label": "Piazze pubbliche",
+      "lane": "Monumentali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "dynasty",
+      "label": "Dinastia di Yax K’uk’ Mo’",
+      "lane": "Amministrative",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "burials",
+      "label": "Tombe e offerte dinastiche",
+      "lane": "Rituali",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "ballcourt",
+      "label": "Prime fasi del campo da gioco",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "residences",
+      "label": "Quartieri residenziali della valle",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "drainage",
+      "label": "Drenaggi e sistemazione delle terrazze",
+      "lane": "Territorio",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

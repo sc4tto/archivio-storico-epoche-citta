@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Muhammad Ali rilanciò Alessandria come porto e base navale.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "AL1; AL2"
+  },
+  {
+    "claim": "Il canale Mahmoudiyah ristabilì un collegamento stabile con il Nilo e il Delta.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "AL1; AL2"
+  },
+  {
+    "claim": "La ferrovia con Cairo accelerò persone e merci.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "AL1; AL5"
+  },
+  {
+    "claim": "Il cotone divenne una voce fondamentale del commercio portuale ottocentesco.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "AL1; AL2"
+  },
+  {
+    "claim": "La città ospitò comunità arabe, greche, italiane, ebraiche e levantine.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "AL1; AL2"
+  },
+  {
+    "claim": "Moli, magazzini e banche trasformarono il fronte portuale.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "AL2; AL3"
+  },
+  {
+    "claim": "Il bombardamento del 1882 causò distruzioni e una successiva ricostruzione.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "AL1; AL4"
+  },
+  {
+    "claim": "Le trasformazioni successive al 1900 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "AL1; AL3"
+  }
+]

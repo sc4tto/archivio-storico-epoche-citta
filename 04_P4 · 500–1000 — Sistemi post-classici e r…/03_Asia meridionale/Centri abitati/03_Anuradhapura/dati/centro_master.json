@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Anuradhapura — modulo multi-grafo",
+    "short_name": "Anuradhapura",
+    "site": "Capitale e città monastica di Anuradhapura",
+    "modern_location": "Provincia Centro-Settentrionale, Sri Lanka",
+    "coordinates": {
+      "lat": 8.3114,
+      "lon": 80.4037
+    },
+    "scope": "Capitale politica e religiosa dello Sri Lanka fino alla conquista chola del 993, con grandi complessi monastici, stupa, palazzi, quartieri, serbatoi, canali e una rete territoriale che collegava l’interno agricolo ai porti dell’isola.",
+    "version": "1.0-blocco_39_p4_asia_meridionale_5_centri_v1",
+    "warning": "Il sito riunisce strutture costruite e ricostruite in periodi molto diversi. Altezza e profilo attuali di alcuni stupa dipendono da restauri; le cronache monastiche sono fondamentali ma devono essere confrontate con iscrizioni, stratigrafie e dati idraulici."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "ANU_UNESCO",
+      "title": "UNESCO — Sacred City of Anuradhapura",
+      "url": "https://whc.unesco.org/en/list/200/",
+      "use": "durata della capitale, monasteri e monumenti"
+    },
+    {
+      "id": "ANU_DOA",
+      "title": "Department of Archaeology Sri Lanka — Anuradhapura",
+      "url": "https://archaeology.gov.lk/",
+      "use": "scavi, conservazione e cronologia"
+    },
+    {
+      "id": "ANU_CONINGHAM",
+      "title": "Coningham et al. — The Archaeology of Anuradhapura",
+      "url": "https://www.cambridge.org/core/books/archaeology-of-anuradhapura/",
+      "use": "stratigrafia, urbanizzazione e reti"
+    }
+  ]
+}

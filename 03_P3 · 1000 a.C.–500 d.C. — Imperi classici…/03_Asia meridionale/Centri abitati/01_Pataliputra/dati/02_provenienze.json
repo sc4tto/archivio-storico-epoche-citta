@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Pataliputra / Patna",
+      "lat": 25.611,
+      "lon": 85.144,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "kumhrar",
+      "label": "Kumhrar",
+      "lat": 25.596,
+      "lon": 85.18,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "bulandi",
+      "label": "Bulandi Bagh",
+      "lat": 25.606,
+      "lon": 85.169,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "ganges",
+      "label": "Gange e Gandak",
+      "lat": 25.65,
+      "lon": 85.14,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "rajgir",
+      "label": "Rajgir / antica Rajagriha",
+      "lat": 25.03,
+      "lon": 85.42,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "taxila",
+      "label": "Taxila e vie nord-occidentali",
+      "lat": 33.745,
+      "lon": 72.839,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "kumhrar",
+      "target": "site",
+      "label": "edifici pubblici e quartieri meridionali",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "bulandi",
+      "target": "site",
+      "label": "palisade e difese urbane",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "ganges",
+      "target": "site",
+      "label": "trasporto, derrate e fiscalità fluviale",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "rajgir",
+      "target": "site",
+      "label": "continuità politica di Magadha",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "taxila",
+      "target": "site",
+      "label": "strade imperiali, funzionari e merci",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

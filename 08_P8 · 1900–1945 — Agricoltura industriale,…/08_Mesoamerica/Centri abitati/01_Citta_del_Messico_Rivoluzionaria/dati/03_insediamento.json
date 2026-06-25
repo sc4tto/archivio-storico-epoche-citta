@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1900–1909",
+    "1910–1918",
+    "1919–1928",
+    "1929–1938",
+    "1939–1945"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Centenario del 1910 e opere del tardo Porfiriato",
+      "lane": "Urbanistica",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Rivoluzione messicana e militarizzazione della capitale",
+      "lane": "Conflitti",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Decena Trágica e colpo di Stato del 1913",
+      "lane": "Conflitti",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Occupazioni di fazione, fame e tifo nel 1914–1915",
+      "lane": "Sanità",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Costituzione del 1917 e ricostruzione amministrativa",
+      "lane": "Politica",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Scuole, ospedali, strade e edilizia moderna negli anni Venti e Trenta",
+      "lane": "Infrastrutture",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Industrializzazione e mobilitazione durante la Seconda guerra mondiale",
+      "lane": "Economia",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Metropolizzazione post-1945 esclusa",
+      "lane": "Cronologia",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

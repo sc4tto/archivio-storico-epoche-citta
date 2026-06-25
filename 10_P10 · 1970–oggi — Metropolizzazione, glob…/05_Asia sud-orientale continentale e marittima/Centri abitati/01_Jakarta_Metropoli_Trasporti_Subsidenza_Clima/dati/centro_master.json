@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Jakarta, metropoli, trasporti, subsidenza e transizione climatica",
+    "site": "Jakarta, metropoli, trasporti, subsidenza e transizione climatica",
+    "modern_location": "Jakarta, Indonesia",
+    "coordinates": {
+      "lat": -6.2088,
+      "lon": 106.8456
+    },
+    "scope": "Jakarta dal 1970 al 25 giugno 2026: espansione della regione Jabodetabek, industrializzazione e servizi, autostrade e motorizzazione, programmi di miglioramento dei kampung, TransJakarta, MRT e integrazione JakLingko, economie digitali, inquinamento, alluvioni, estrazione di falda, subsidenza e transizione istituzionale connessa al progetto di trasferimento della capitale nazionale.",
+    "version": "1.0",
+    "warning": "La strategia Jakarta RISE#20 con orizzonte 2045, il grande sistema di difesa costiera e le ulteriori linee MRT sono registrati come piani o programmi in corso, non come risultati già completati."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "JA1",
+      "title": "Bappeda DKI Jakarta — Jakarta RISE#20: Path Towards Top 20 Global City",
+      "use": "Strategia post-2024, rischi ambientali, infrastrutture e obiettivi con orizzonte 2045.",
+      "url": "https://bappeda.jakarta.go.id/storage/jakarta-rise-20/eng/20250225_Book%205%20ENG%20Final.pdf"
+    },
+    {
+      "id": "JA2",
+      "title": "World Bank — Keeping Indonesia’s Capital Safer from Floods",
+      "use": "Subsidenza, estrazione di falda, rischio di alluvione e opere idrauliche.",
+      "url": "https://www.worldbank.org/en/news/feature/2016/01/08/keeping-indonesias-capital-safer-from-floods"
+    },
+    {
+      "id": "JA3",
+      "title": "Jakarta Smart City — Transportation Integration in the JakLingko Application",
+      "use": "Integrazione di rotte, tariffe e pagamenti del trasporto pubblico.",
+      "url": "https://smartcity.jakarta.go.id/en/blog/integrasi-transportasi-jakarta-dalam-satu-aplikasi-jaklingko/"
+    },
+    {
+      "id": "JA4",
+      "title": "UN-Habitat — ASEAN Sustainable Urbanisation Report",
+      "use": "Informalità, disuguaglianze abitative, urbanizzazione e resilienza regionale.",
+      "url": "https://unhabitat.org/sites/default/files/2022/12/asean_sustainable_urbanisation_report_final_dec_2022.pdf"
+    }
+  ]
+}

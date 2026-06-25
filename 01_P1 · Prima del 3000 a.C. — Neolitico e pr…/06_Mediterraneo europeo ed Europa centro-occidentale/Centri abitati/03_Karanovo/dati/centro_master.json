@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Karanovo — modulo multi-grafo",
+    "short_name": "Karanovo",
+    "site": "Tell di Karanovo",
+    "modern_location": "Provincia di Sliven, Bulgaria sud-orientale",
+    "coordinates": {
+      "lat": 42.512,
+      "lon": 25.9
+    },
+    "scope": "Lunga sequenza del tell di Karanovo dal Neolitico antico al Calcolitico; nel P1 si considerano soprattutto Karanovo I–VI, agricoltura, case in terra e legno, ceramica e stratigrafia di riferimento.",
+    "version": "1.0-blocco_07_p1_mediterraneo_europa_5_centri_v1",
+    "warning": "Karanovo è una sequenza di molte fasi, non una comunità immutabile. I modelli alimentari e sociali qui proposti sintetizzano dati regionali e devono essere letti per fase."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "NOVA_ZAGORA_MUSEUM",
+      "title": "Museo storico di Nova Zagora — collezioni preistoriche e tell di Karanovo",
+      "url": "https://www.nova-zagora.bg/",
+      "use": "istituzione territoriale responsabile del patrimonio locale"
+    },
+    {
+      "id": "NAIM_BULGARIA",
+      "title": "National Archaeological Institute with Museum, Bulgarian Academy of Sciences",
+      "url": "https://naim.bg/en/home/",
+      "use": "quadro istituzionale della preistoria bulgara e delle collezioni"
+    },
+    {
+      "id": "KARANOVO_III",
+      "title": "Hiller e Nikolov (a cura di) — Karanovo III, scavi e ricerche austro-bulgare",
+      "url": "https://search.worldcat.org/title/44565326",
+      "use": "stratigrafia, architettura e materiali del Neolitico di Karanovo"
+    }
+  ]
+}

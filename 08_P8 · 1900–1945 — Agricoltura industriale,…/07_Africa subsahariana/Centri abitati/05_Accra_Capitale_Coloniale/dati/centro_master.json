@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Accra capitale coloniale e commerciale",
+    "site": "Accra capitale coloniale e commerciale",
+    "modern_location": "Accra, Ghana",
+    "coordinates": {
+      "lat": 5.6037,
+      "lon": -0.187
+    },
+    "scope": "Accra fra 1900 e 1945: capitale coloniale, porto di surf, ferrovia, cacao, amministrazione, mercati, istruzione, sanità e prime organizzazioni politiche moderne.",
+    "version": "1.0",
+    "warning": "Sono escluse indipendenza del Ghana nel 1957, porto di Tema e crescita metropolitana postbellica."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "AC1",
+      "title": "Encyclopaedia Britannica — Accra",
+      "use": "Storia della capitale e del porto.",
+      "url": "https://www.britannica.com/place/Accra"
+    },
+    {
+      "id": "AC2",
+      "title": "Ghana Museums and Monuments Board",
+      "use": "Patrimonio storico e fortificazioni.",
+      "url": "https://www.ghanamuseums.org/"
+    },
+    {
+      "id": "AC3",
+      "title": "Public Records and Archives Administration Department",
+      "use": "Fonti coloniali e amministrative.",
+      "url": "https://praad.gov.gh/"
+    },
+    {
+      "id": "AC4",
+      "title": "University of Ghana — Balme Library",
+      "use": "Studi su storia sociale e politica.",
+      "url": "https://balme.ug.edu.gh/"
+    },
+    {
+      "id": "AC5",
+      "title": "UNESCO — Forts and Castles, Volta, Greater Accra, Central and Western Regions",
+      "use": "Contesto costiero e commercio atlantico.",
+      "url": "https://whc.unesco.org/en/list/34/"
+    }
+  ]
+}

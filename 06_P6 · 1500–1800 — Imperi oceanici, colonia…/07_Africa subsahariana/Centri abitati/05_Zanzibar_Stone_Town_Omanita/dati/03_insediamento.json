@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1500–1560",
+    "1560–1620",
+    "1620–1680",
+    "1680–1740",
+    "1740–1800"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Insediamento swahili e porto regionale nel XVI secolo",
+      "lane": "Economia",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Controllo portoghese e competizione nell’Oceano Indiano",
+      "lane": "Politica",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Conquista omanita del 1698",
+      "lane": "Trasformazioni",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Costruzione del forte omanita sul sito portoghese",
+      "lane": "Architettura",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Crescita di moschee, case in pietra e bazar",
+      "lane": "Urbanistica",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Reti commerciali con Arabia, India e costa africana",
+      "lane": "Economia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Espansione della tratta schiavistica regionale",
+      "lane": "Società",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Apogeo sultanale ottocentesco escluso",
+      "lane": "Cronologia",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

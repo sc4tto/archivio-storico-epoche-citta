@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Abydos",
+      "lat": 26.185,
+      "lon": 31.919,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "umm",
+      "label": "Umm el-Qaab",
+      "lat": 26.187,
+      "lon": 31.908,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "kom",
+      "label": "Kom el-Sultan",
+      "lat": 26.19,
+      "lon": 31.92,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "shunet",
+      "label": "Shunet el-Zebib",
+      "lat": 26.18,
+      "lon": 31.91,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "thebes",
+      "label": "Tebe",
+      "lat": 25.72,
+      "lon": 32.66,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "desert",
+      "label": "Rotte del deserto occidentale",
+      "lat": 26.0,
+      "lon": 30.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "umm",
+      "target": "site",
+      "label": "culto reale e pellegrinaggi",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "kom",
+      "target": "site",
+      "label": "tempio, città e offerte",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "shunet",
+      "target": "site",
+      "label": "recinti reali e cerimonie",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "thebes",
+      "target": "site",
+      "label": "processioni, cappelle e regalità",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "desert",
+      "target": "site",
+      "label": "materie prime e mobilità",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

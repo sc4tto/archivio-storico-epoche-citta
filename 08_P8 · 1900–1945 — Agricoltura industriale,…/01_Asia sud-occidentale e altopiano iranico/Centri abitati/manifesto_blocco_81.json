@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_81_P8_Asia_Sud_Occidentale_5_Centri_v1",
+  "macroregion": "Asia sud-occidentale e altopiano iranico",
+  "centers": [
+    "01_Istanbul_Tardo_Ottomana_Repubblicana",
+    "02_Teheran_Costituzionale_Pahlavi",
+    "03_Baghdad_Ottomana_Mandato_Monarchia",
+    "04_Tel_Aviv_Jaffa_Mandataria",
+    "05_Beirut_Ottomana_Mandataria"
+  ],
+  "uses_central_assets": true
+}

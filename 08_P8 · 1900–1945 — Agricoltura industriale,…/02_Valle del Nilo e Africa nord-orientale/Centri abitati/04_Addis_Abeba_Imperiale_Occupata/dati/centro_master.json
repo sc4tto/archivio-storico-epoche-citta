@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Addis Abeba imperiale e occupata",
+    "site": "Addis Abeba imperiale e occupata",
+    "modern_location": "Addis Abeba, Etiopia",
+    "coordinates": {
+      "lat": 9.032,
+      "lon": 38.7469
+    },
+    "scope": "Addis Abeba fra 1900 e 1945: consolidamento della capitale, ferrovia franco-etiope, modernizzazione imperiale, incoronazione di Hailé Selassié, invasione italiana, occupazione, pianificazione coloniale, resistenza e liberazione del 1941.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1945. Sede dell’Organizzazione dell’Unità Africana, espansione postbellica e urbanizzazione contemporanea sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "AD1",
+      "title": "Ethiopian National Archives and Library Agency",
+      "use": "Fonti imperiali, amministrative e fotografiche.",
+      "url": "https://www.nala.gov.et/"
+    },
+    {
+      "id": "AD2",
+      "title": "Encyclopaedia Britannica — Addis Ababa",
+      "use": "Storia della capitale e occupazione italiana.",
+      "url": "https://www.britannica.com/place/Addis-Ababa"
+    },
+    {
+      "id": "AD3",
+      "title": "UNESCO — Addis Ababa heritage resources",
+      "use": "Patrimonio culturale e istituzioni etiopi.",
+      "url": "https://www.unesco.org/en/countries/et"
+    },
+    {
+      "id": "AD4",
+      "title": "Institute of Ethiopian Studies — Addis Ababa University",
+      "use": "Storia urbana e cultura materiale.",
+      "url": "https://ies.aau.edu.et/"
+    },
+    {
+      "id": "AD5",
+      "title": "International Committee of the Red Cross Archives",
+      "use": "Guerra italo-etiopica e assistenza sanitaria.",
+      "url": "https://www.icrc.org/en/archives"
+    }
+  ]
+}

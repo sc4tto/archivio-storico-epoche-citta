@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1945–1949",
+    "1950–1954",
+    "1955–1959",
+    "1960–1964",
+    "1965–1970"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Industrializzazione e crescita del commercio regionale",
+      "lane": "Economia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Migrazione da Jalisco rurale e stati vicini",
+      "lane": "Demografia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Espansione verso Zapopan e Tlaquepaque",
+      "lane": "Urbanizzazione",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Nuovo Mercado Libertad–San Juan de Dios nel 1958",
+      "lane": "Mercati",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Terremoto del 1957 e ricostruzioni puntuali",
+      "lane": "Rischi",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Apertura di arterie e crescente motorizzazione",
+      "lane": "Trasporti",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Sviluppo di colonias occidentali e popolari orientali",
+      "lane": "Segregazione",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Consolidamento metropolitano alla fine degli anni sessanta",
+      "lane": "Metropoli",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

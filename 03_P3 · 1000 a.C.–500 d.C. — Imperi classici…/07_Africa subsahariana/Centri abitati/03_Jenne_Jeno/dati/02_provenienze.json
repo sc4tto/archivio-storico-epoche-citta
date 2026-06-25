@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Jenne-jeno",
+      "lat": 13.889,
+      "lon": -4.555,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "djenne",
+      "label": "Djenné moderna",
+      "lat": 13.906,
+      "lon": -4.555,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "hambarketolo",
+      "label": "Hambarketolo",
+      "lat": 13.9,
+      "lon": -4.58,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "kaniana",
+      "label": "Kaniana",
+      "lat": 13.86,
+      "lon": -4.55,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "niger",
+      "label": "Delta interno del Niger",
+      "lat": 14.0,
+      "lon": -4.0,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "sahel",
+      "label": "Reti saheliane",
+      "lat": 15.5,
+      "lon": -3.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "djenne",
+      "target": "site",
+      "label": "continuità regionale e spostamento dell’abitato",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "hambarketolo",
+      "target": "site",
+      "label": "insediamenti complementari e scambi",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "kaniana",
+      "target": "site",
+      "label": "quartieri e siti associati",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "niger",
+      "target": "site",
+      "label": "riso, pesca, trasporto e argille",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "sahel",
+      "target": "site",
+      "label": "rame, sale e beni a lunga distanza",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

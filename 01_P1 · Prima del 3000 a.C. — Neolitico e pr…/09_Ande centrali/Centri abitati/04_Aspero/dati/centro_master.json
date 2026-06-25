@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Áspero — modulo multi-grafo",
+    "short_name": "Áspero",
+    "site": "Centro costiero di Áspero",
+    "modern_location": "Foce del fiume Supe, provincia di Barranca, Perù",
+    "coordinates": {
+      "lat": -10.81,
+      "lon": -77.74
+    },
+    "scope": "Centro costiero del sistema Caral-Supe con pesca intensiva, edifici monumentali, piattaforme, piazze, residenze e integrazione fra risorse marine, cotone e prodotti delle valli.",
+    "version": "1.0-blocco_10_p1_ande_centrali_5_centri_v1",
+    "warning": "Le strutture ebbero numerose fasi costruttive. Il rapporto politico esatto con Caral e il significato di ogni edificio non sono completamente ricostruibili."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "ASPERO_CARAL",
+      "title": "Zona Arqueológica Caral — Áspero, città peschereccia della civiltà Caral",
+      "url": "https://www.zonacaral.gob.pe/",
+      "use": "ricerca istituzionale, conservazione e quadro del sito"
+    },
+    {
+      "id": "ASPERO_MOSELEY",
+      "title": "Moseley e Willey — Aspero, Peru: A Reexamination of the Site and Its Implications",
+      "url": "https://www.cambridge.org/core/journals/american-antiquity",
+      "use": "economia marittima e architettura preceramica"
+    },
+    {
+      "id": "CARAL_UNESCO",
+      "title": "UNESCO — Sacred City of Caral-Supe",
+      "url": "https://whc.unesco.org/en/list/1269/",
+      "use": "quadro regionale del sistema di insediamenti Caral-Supe"
+    }
+  ]
+}

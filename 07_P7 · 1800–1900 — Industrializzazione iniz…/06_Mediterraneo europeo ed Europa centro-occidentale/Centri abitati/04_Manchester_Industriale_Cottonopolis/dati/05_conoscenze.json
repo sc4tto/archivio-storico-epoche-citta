@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Manchester industriale e Cottonopolis",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Tessile e macchine",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Filatura, tessitura e vapore",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Officine, manutenzione e trasmissioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Trasporti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Canali e chiatte",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Ferrovia, viadotti e Ship Canal",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Lavoro",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Fabbrica, disciplina e lavoro minorile",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Sindacati, cooperative e radicalismo",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Sanità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Acqua, fognature e regolamenti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Fumo, colera e sovraffollamento",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Commercio globale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Cotone, finanza e magazzini",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Dipendenza da schiavitù e colonialismo",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

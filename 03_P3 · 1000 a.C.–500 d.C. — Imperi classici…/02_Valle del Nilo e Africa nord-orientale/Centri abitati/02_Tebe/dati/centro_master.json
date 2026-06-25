@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Tebe — modulo multi-grafo",
+    "short_name": "Tebe",
+    "site": "Tebe greco-romana e tardoantica",
+    "modern_location": "Luxor e riva occidentale del Nilo, governatorato di Luxor, Egitto",
+    "coordinates": {
+      "lat": 25.7188,
+      "lon": 32.6573
+    },
+    "scope": "Antica capitale religiosa egiziana, con Karnak, Luxor e la vasta necropoli occidentale, ancora attiva e trasformata durante periodi tolemaico, romano e cristiano.",
+    "version": "1.0-blocco_27_p3_valle_nilo_5_centri_v1",
+    "warning": "Molti monumenti principali sono anteriori al P3, ma rimasero in uso, furono restaurati o reinterpretati. Il modulo distingue costruzione originaria, riuso e aggiunte greco-romane."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "THEB_UNESCO",
+      "title": "UNESCO — Ancient Thebes with its Necropolis",
+      "url": "https://whc.unesco.org/en/list/87/",
+      "use": "templi, necropoli, insediamenti e lunga durata"
+    },
+    {
+      "id": "THEB_EPIG",
+      "title": "Institute for the Study of Ancient Cultures — Epigraphic Survey",
+      "url": "https://isac.uchicago.edu/research/projects/epigraphic-survey",
+      "use": "documentazione epigrafica e architettonica"
+    },
+    {
+      "id": "THEB_KARNAK",
+      "title": "Karnak Project — Centre Franco-Égyptien d’Étude des Temples de Karnak",
+      "url": "https://www.cfeetk.cnrs.fr/",
+      "use": "fasi dei templi e documentazione di Karnak"
+    }
+  ]
+}

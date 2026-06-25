@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Teheran",
+      "lat": 35.6892,
+      "lon": 51.389,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "var",
+      "label": "Varamin",
+      "lat": 35.33,
+      "lon": 51.65,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "alb",
+      "label": "Monti Alborz",
+      "lat": 36.1,
+      "lon": 51.0,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "cas",
+      "label": "Caspio e Mazandaran",
+      "lat": 36.6,
+      "lon": 52.3,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "cen",
+      "label": "Iran centrale",
+      "lat": 33.5,
+      "lon": 52.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "wes",
+      "label": "Province occidentali",
+      "lat": 34.5,
+      "lon": 47.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "glo",
+      "label": "Corridoi internazionali",
+      "lat": 31.0,
+      "lon": 55.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "var",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e mercati",
+      "food": "ortaggi, frutta, latte e pollame"
+    },
+    {
+      "source": "alb",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade montane e reti idriche",
+      "food": "acqua, frutta, erbe e materiali"
+    },
+    {
+      "source": "cas",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e ferrovia",
+      "food": "riso, tè, agrumi e pesce"
+    },
+    {
+      "source": "cen",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "camion e ferrovie",
+      "food": "frumento, carne, pistacchi e lavoro migrante"
+    },
+    {
+      "source": "wes",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade nazionali",
+      "food": "carne, cereali, rifugiati e sfollati di guerra"
+    },
+    {
+      "source": "glo",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia, strada e cargo aereo",
+      "food": "oli, zucchero, caffè, tecnologia e importazioni"
+    }
+  ]
+}

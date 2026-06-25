@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Teheran fu la capitale della dinastia qajar durante tutto il XIX secolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "TE2; TE3"
+  },
+  {
+    "claim": "Il Golestan fu trasformato e ampliato dai sovrani qajar.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "TE1; TE4"
+  },
+  {
+    "claim": "Qanat e giardini erano essenziali per acqua e approvvigionamento.",
+    "theme": "territorio",
+    "status": "documentato",
+    "source": "TE2"
+  },
+  {
+    "claim": "Dar al-Fonun introdusse formazione tecnica e scientifica moderna nel 1851.",
+    "theme": "istruzione",
+    "status": "documentato",
+    "source": "TE5"
+  },
+  {
+    "claim": "La città fu ampliata con nuove mura e porte nella seconda metà del secolo.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "TE2; TE3"
+  },
+  {
+    "claim": "Carestie ed epidemie evidenziarono la fragilità dei sistemi urbani.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "TE2; TE3"
+  },
+  {
+    "claim": "Concessioni e rivalità russo-britanniche aumentarono la dipendenza economica.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "TE2; TE3"
+  },
+  {
+    "claim": "La rivoluzione costituzionale successiva al 1900 è esclusa.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "TE2; TE3"
+  }
+]

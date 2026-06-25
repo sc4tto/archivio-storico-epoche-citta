@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Bagan fu capitale di un impero regionale soprattutto fra XI e XIII secolo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "BG1; BG2"
+  },
+  {
+    "claim": "Il sito conserva migliaia di templi, stupa e monasteri.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "BG1"
+  },
+  {
+    "claim": "La pratica della donazione religiosa contribuì alla crescita monumentale.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "BG1; BG4"
+  },
+  {
+    "claim": "Il controllo del trasporto sull’Ayeyarwady rafforzò il regno.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "BG1"
+  },
+  {
+    "claim": "L’irrigazione delle aree di Kyaukse sosteneva la base agricola.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "BG2; BG4"
+  },
+  {
+    "claim": "Le strutture residenziali lignee sono meno conservate dei monumenti in mattone.",
+    "theme": "costruzione",
+    "status": "inferito",
+    "source": "BG1; BG4"
+  },
+  {
+    "claim": "La fine del regno unitario non interruppe il culto e il pellegrinaggio.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "BG1"
+  },
+  {
+    "claim": "Restauri moderni e terremoti richiedono cautela nell’interpretazione.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "BG1; BG4"
+  }
+]

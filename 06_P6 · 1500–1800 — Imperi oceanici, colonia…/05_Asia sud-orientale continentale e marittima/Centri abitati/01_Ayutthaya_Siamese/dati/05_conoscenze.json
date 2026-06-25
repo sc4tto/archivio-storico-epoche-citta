@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Ayutthaya siamese",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Acqua e territorio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Canali, argini e navigazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Risaie e gestione delle piene",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Corte e diplomazia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Tributo, ambascerie e cerimoniale",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Quartieri mercantili stranieri",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Mattoni, stucco e torri prang",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Carpenteria e tetti multipli",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Mercati e artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Ceramiche, metalli e tessili",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Dogane, magazzini e moneta",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Alimentazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Riso, pesce e salse fermentate",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Banchetti e cucine di corte",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

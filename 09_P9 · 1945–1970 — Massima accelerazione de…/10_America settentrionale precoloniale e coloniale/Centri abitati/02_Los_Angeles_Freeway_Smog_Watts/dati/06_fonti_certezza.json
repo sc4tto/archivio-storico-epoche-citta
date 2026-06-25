@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Il dopoguerra consolidò Los Angeles come metropoli industriale, aerospaziale e suburbana fortemente dipendente dall’automobile.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "LA1; LA4"
+  },
+  {
+    "claim": "Il distretto di controllo dell’inquinamento atmosferico della contea fu istituito nel 1947 e negli anni cinquanta furono sviluppati monitoraggio e allerta smog.",
+    "theme": "ambiente",
+    "status": "documentato",
+    "source": "LA1; LA2"
+  },
+  {
+    "claim": "Le freeway attraversarono o divisero in modo sproporzionato comunità a basso reddito e di colore, con espropriazioni e spostamenti.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "LA4"
+  },
+  {
+    "claim": "Watts presentava segregazione abitativa, povertà e servizi insufficienti prima della rivolta del 1965.",
+    "theme": "segregazione",
+    "status": "documentato",
+    "source": "LA3"
+  },
+  {
+    "claim": "La rivolta di Watts e le mobilitazioni chicane resero visibili conflitti su polizia, scuola, lavoro, casa e cittadinanza.",
+    "theme": "politica sociale",
+    "status": "documentato",
+    "source": "LA3; LA4"
+  },
+  {
+    "claim": "Los Angeles, freeway, smog e rivolta di Watts è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Covenants razziali, redlining, espropriazioni autostradali, discriminazione del credito e repressione poliziesca sono descritti come sistemi di segregazione e coercizione; le comunità afroamericane, messicano-americane e asiatiche sono rappresentate come produttrici di cultura, organizzazione e rivendicazioni.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Istanbul, metropoli globale, mobilità e rischio sismico",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Rischio sismico",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Valutazione, retrofit e continuità dei servizi",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Preparazione, emergenza e ricostruzione inclusiva",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mobilità intercontinentale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Ponti, traghetti, metro, Marmaray e aeroporti",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Integrazione tariffaria, accessibilità e congestione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Urbanizzazione informale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Gecekondu, regolarizzazione e reti di vicinato",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Titolarità, servizi, demolizioni e diritto all’abitare",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Migrazioni e rifugio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Accoglienza urbana, lavoro e istruzione",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Associazioni, economie migranti e contrasto alla xenofobia",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Ambiente metropolitano",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Bosforo, coste, foreste, acqua e qualità dell’aria",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Adattamento climatico e tutela del patrimonio",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

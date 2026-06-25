@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "L’asse centrale di Beijing ebbe origine nella capitale Yuan Dadu.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "BJ1"
+  },
+  {
+    "claim": "Dadu fu pianificata come capitale imperiale nel XIII secolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "BJ1; BJ3"
+  },
+  {
+    "claim": "Il Grande Canale era essenziale per il rifornimento di grano.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "BJ2; BJ3"
+  },
+  {
+    "claim": "Zhongdu e Dadu erano città distinte per tracciato e fase politica.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "BJ3"
+  },
+  {
+    "claim": "La capitale Yuan integrava reti mongole, cinesi e centroasiatiche.",
+    "theme": "reti",
+    "status": "documentato",
+    "source": "BJ4"
+  },
+  {
+    "claim": "La trasformazione Ming riutilizzò e spostò parti del sistema Yuan.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "BJ1; BJ3"
+  },
+  {
+    "claim": "La Città Proibita appartiene alla fase quattrocentesca finale del blocco.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "BJ5"
+  },
+  {
+    "claim": "Le ricostruzioni successive non devono essere retrodatate alla Dadu Yuan.",
+    "theme": "metodo",
+    "status": "sintesi",
+    "source": "BJ1; BJ5"
+  }
+]

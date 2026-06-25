@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Negli anni Cinquanta Mosca sperimentò e poi generalizzò la costruzione prefabbricata per affrontare la carenza di alloggi.",
+    "theme": "abitazione",
+    "status": "documentato",
+    "source": "MO1; MO4"
+  },
+  {
+    "claim": "Nel 1960 i confini di Mosca furono ampliati fino al MKAD, incorporando ampie aree di nuova urbanizzazione.",
+    "theme": "metropoli",
+    "status": "documentato",
+    "source": "MO2"
+  },
+  {
+    "claim": "Il Metro fu esteso per collegare i nuovi distretti residenziali e industriali.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "MO3"
+  },
+  {
+    "claim": "L’edilizia di massa chruščëviana favorì il passaggio di molte famiglie da alloggi collettivi a appartamenti separati.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "MO4"
+  },
+  {
+    "claim": "Standardizzazione e pianificazione accelerarono la produzione ma ridussero varietà architettonica e scelta individuale.",
+    "theme": "urbanistica",
+    "status": "sintesi",
+    "source": "MO1; MO4"
+  },
+  {
+    "claim": "Mosca, edilizia di massa e capitale sovietica è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "La modernizzazione sovietica è trattata insieme al carattere autoritario dello Stato: censura, repressione politica, controllo della mobilità, campagne antireligiose e assegnazione amministrativa degli alloggi sono descritti come forme di coercizione, non come semplici strumenti tecnici.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

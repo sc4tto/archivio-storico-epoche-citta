@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Delhi passò sotto controllo britannico nel 1803 pur mantenendo una corte moghul simbolica.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "DE1; DE2"
+  },
+  {
+    "claim": "Shahjahanabad conservò bazar, quartieri e istituzioni culturali per gran parte del secolo.",
+    "theme": "cultura",
+    "status": "documentato",
+    "source": "DE2; DE4"
+  },
+  {
+    "claim": "L’assedio del 1857 causò distruzioni, morti ed espulsioni di massa.",
+    "theme": "conflitto",
+    "status": "documentato",
+    "source": "DE2; DE4"
+  },
+  {
+    "claim": "Dopo il 1857 il Red Fort fu ampiamente convertito a uso militare.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "DE1; DE3"
+  },
+  {
+    "claim": "La ferrovia modificò accessi, mercati e crescita urbana.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "DE2; DE5"
+  },
+  {
+    "claim": "Le demolizioni coloniali alterarono la relazione fra forte e città.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "DE1; DE4"
+  },
+  {
+    "claim": "La ricostruzione politica britannica implicò confische e controllo coercitivo.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "DE2; DE4"
+  },
+  {
+    "claim": "New Delhi e la capitale imperiale dal 1911 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "DE2"
+  }
+]

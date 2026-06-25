@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Cairo",
+      "lat": 30.0444,
+      "lon": 31.2357,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "del",
+      "label": "Delta del Nilo",
+      "lat": 30.9,
+      "lon": 31.1,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "giz",
+      "label": "Giza e campi occidentali",
+      "lat": 30.01,
+      "lon": 31.21,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "fay",
+      "label": "Fayyum",
+      "lat": 29.31,
+      "lon": 30.84,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "ale",
+      "label": "Alessandria",
+      "lat": 31.2,
+      "lon": 29.92,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "sue",
+      "label": "Suez",
+      "lat": 29.97,
+      "lon": 32.55,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "jed",
+      "label": "Gedda e Hijaz",
+      "lat": 21.49,
+      "lon": 39.19,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "del",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rami del Nilo e trasporto fluviale",
+      "food": "grano, riso e lino"
+    },
+    {
+      "source": "giz",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "campi e approdi urbani",
+      "food": "ortaggi, frutta e bestiame"
+    },
+    {
+      "source": "fay",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali e vie terrestri",
+      "food": "cereali, zucchero e frutta"
+    },
+    {
+      "source": "ale",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "asse del Delta",
+      "food": "merci mediterranee, legname e metalli"
+    },
+    {
+      "source": "sue",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoio terrestre e marittimo",
+      "food": "caffè, spezie e pellegrini"
+    },
+    {
+      "source": "jed",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Mar Rosso e carovane",
+      "food": "caffè, spezie, tessili e pellegrini"
+    }
+  ]
+}

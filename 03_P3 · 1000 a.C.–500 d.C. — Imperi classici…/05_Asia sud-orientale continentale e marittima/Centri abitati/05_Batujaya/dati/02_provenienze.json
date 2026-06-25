@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Batujaya",
+      "lat": -6.06,
+      "lon": 107.17,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "jiwa",
+      "label": "Candi Jiwa",
+      "lat": -6.055,
+      "lon": 107.155,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "blandongan",
+      "label": "Candi Blandongan",
+      "lat": -6.058,
+      "lon": 107.162,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "citarum",
+      "label": "Fiume Citarum",
+      "lat": -6.07,
+      "lon": 107.25,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "sunda",
+      "label": "Stretto della Sonda",
+      "lat": -6.0,
+      "lon": 105.8,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "javasea",
+      "label": "Mar di Giava",
+      "lat": -5.0,
+      "lon": 110.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "jiwa",
+      "target": "site",
+      "label": "struttura rituale e depositi votivi",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "blandongan",
+      "target": "site",
+      "label": "architettura in mattoni e attività rituali",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "citarum",
+      "target": "site",
+      "label": "acqua, riso e trasporto regionale",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "sunda",
+      "target": "site",
+      "label": "rotte verso Oceano Indiano",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "javasea",
+      "target": "site",
+      "label": "scambi con coste e isole dell’arcipelago",
+      "status": "documentato",
+      "food": "sì"
+    }
+  ]
+}

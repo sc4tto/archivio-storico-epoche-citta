@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "g1",
+      "label": "Crescita di Gao antico e Gao-Saney",
+      "lane": "Urbanistica",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "g2",
+      "label": "Porti e mercati sul Niger",
+      "lane": "Economia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "g3",
+      "label": "Islamizzazione delle élite e moschee",
+      "lane": "Religione",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "g4",
+      "label": "Concorrenza fra Mali e poteri locali",
+      "lane": "Politica",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "g5",
+      "label": "Ascesa della dinastia Sonni",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "g6",
+      "label": "Espansione dell’Impero Songhai",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "g7",
+      "label": "Riorganizzazione sotto Askia Muhammad",
+      "lane": "Governo",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "g8",
+      "label": "Costruzione della Tomba di Askia nel 1495",
+      "lane": "Religione",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Addis Abeba",
+      "lat": 9.032,
+      "lon": 38.7469,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "she",
+      "label": "Shewa centrale",
+      "lat": 8.8,
+      "lon": 38.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "deb",
+      "label": "Debre Zeit e laghi",
+      "lat": 8.75,
+      "lon": 38.99,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "ent",
+      "label": "Entoto e altopiani",
+      "lat": 9.09,
+      "lon": 38.76,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "dji",
+      "label": "Gibuti e Mar Rosso",
+      "lat": 11.59,
+      "lon": 43.15,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "naz",
+      "label": "Nazret–Adama e Rift Valley",
+      "lat": 8.54,
+      "lon": 39.27,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "jim",
+      "label": "Jimma e regioni del caffè",
+      "lat": 7.67,
+      "lon": 36.83,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "she",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade radiali",
+      "food": "teff, bestiame, legna e lavoratori"
+    },
+    {
+      "source": "deb",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e strada",
+      "food": "ortaggi, latte e prodotti della Rift Valley"
+    },
+    {
+      "source": "ent",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade montane",
+      "food": "acqua, legname e prodotti agricoli"
+    },
+    {
+      "source": "dji",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia Addis–Gibuti",
+      "food": "carburanti, macchinari e merci importate"
+    },
+    {
+      "source": "naz",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strada e ferrovia",
+      "food": "cereali, ortaggi e industria"
+    },
+    {
+      "source": "jim",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade nazionali",
+      "food": "caffè, cereali e migranti"
+    }
+  ]
+}

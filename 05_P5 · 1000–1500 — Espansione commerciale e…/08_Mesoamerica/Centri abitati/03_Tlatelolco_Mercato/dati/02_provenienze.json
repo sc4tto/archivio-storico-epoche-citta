@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Tlatelolco",
+      "lat": 19.451,
+      "lon": -99.137,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "ten",
+      "label": "Tenochtitlan",
+      "lat": 19.4326,
+      "lon": -99.1332,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "xoc",
+      "label": "Xochimilco",
+      "lat": 19.26,
+      "lon": -99.1,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "azc",
+      "label": "Azcapotzalco",
+      "lat": 19.48,
+      "lon": -99.19,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "gulf",
+      "label": "Costa del Golfo",
+      "lat": 19.2,
+      "lon": -96.14,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "more",
+      "label": "Morelos",
+      "lat": 18.85,
+      "lon": -99.05,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "soc",
+      "label": "Soconusco",
+      "lat": 15.32,
+      "lon": -92.72,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "ten",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali e calzadas",
+      "food": "tributi e consumatori"
+    },
+    {
+      "source": "xoc",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione chinampera",
+      "food": "verdure, mais e fiori"
+    },
+    {
+      "source": "azc",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte settentrionali",
+      "food": "ceramiche e prodotti regionali"
+    },
+    {
+      "source": "gulf",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "pochteca e tributo",
+      "food": "vaniglia, piume e gomma"
+    },
+    {
+      "source": "more",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte meridionali",
+      "food": "cotone e frutta"
+    },
+    {
+      "source": "soc",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "commercio a lunga distanza",
+      "food": "cacao e piume"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Monte Albán",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Cima spianata",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Grande Piazza",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Piano immutabile",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Scrittura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Glifi zapotechi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Calendari",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Testi pienamente leggibili",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Politica",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Capitale regionale",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Guerra e prigionieri",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_3",
+          "label": "Impero uniforme",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Templi",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Tombe",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Terrazze",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Economia",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Agricoltura di valle",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Tributi",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_3",
+          "label": "Scambi a lunga distanza",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Religione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Antenati",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Calendari rituali",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Identità certa di ogni divinità",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

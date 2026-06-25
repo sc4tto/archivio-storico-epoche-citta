@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Chichén Itzá",
+      "lat": 20.6843,
+      "lon": -88.5678,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "bal",
+      "label": "Balankanché",
+      "lat": 20.75,
+      "lon": -88.52,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "ecab",
+      "label": "Costa settentrionale dello Yucatán",
+      "lat": 21.25,
+      "lon": -87.5,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "puuc",
+      "label": "Regione Puuc",
+      "lat": 20.36,
+      "lon": -89.77,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "may",
+      "label": "Mayapán",
+      "lat": 20.63,
+      "lon": -89.46,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "tab",
+      "label": "Tabasco",
+      "lat": 17.98,
+      "lon": -92.93,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "cent",
+      "label": "Messico centrale",
+      "lat": 19.42,
+      "lon": -99.1,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "bal",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "percorsi rituali e locali",
+      "food": "acqua e offerte"
+    },
+    {
+      "source": "ecab",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e scambi costieri",
+      "food": "sale e pesce"
+    },
+    {
+      "source": "puuc",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sacbeob e reti regionali",
+      "food": "ceramiche e derrate"
+    },
+    {
+      "source": "may",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "rivalità e continuità regionali",
+      "food": "beni e pellegrini"
+    },
+    {
+      "source": "tab",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte occidentali",
+      "food": "cacao e materiali tropicali"
+    },
+    {
+      "source": "cent",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "scambi iconografici e politici",
+      "food": "idee, manufatti e culti"
+    }
+  ]
+}

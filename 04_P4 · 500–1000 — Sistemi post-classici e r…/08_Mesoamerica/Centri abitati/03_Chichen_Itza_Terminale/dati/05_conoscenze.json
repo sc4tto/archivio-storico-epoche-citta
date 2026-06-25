@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Chichén Itzá terminale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0_water",
+      "label": "Acqua carsica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0_cenote",
+          "label": "Accesso e manutenzione dei cenotes",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1_routewater",
+          "label": "Distribuzione dell’acqua nei quartieri",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k1_agri",
+      "label": "Produzione e scambio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0_milpa",
+          "label": "Agricoltura di milpa e orti",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1_coastal",
+          "label": "Integrazione di risorse costiere",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2_craft",
+      "label": "Architettura e immagini",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0_columns",
+          "label": "Colonne, rilievi e volte",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1_paint",
+          "label": "Pittura e iconografia rituale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3_calendar",
+      "label": "Calendario e astronomia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0_observ",
+          "label": "Osservazioni e orientamenti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1_ritualtime",
+          "label": "Coordinamento del tempo rituale",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4_politics",
+      "label": "Reti interregionali",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0_market",
+          "label": "Mercati e redistribuzione",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_1_diplomacy",
+          "label": "Contatti con Yucatán e Messico centrale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

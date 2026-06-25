@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Capitale dello Stato di Qin",
+    "Riforme e crescita amministrativa",
+    "Unificazione imperiale",
+    "Massima espansione dei complessi palaziali",
+    "Distruzione e riusi Han"
+  ],
+  "items": [
+    {
+      "id": "palace",
+      "label": "Complessi palaziali su piattaforme",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "offices",
+      "label": "Uffici, archivi e depositi",
+      "lane": "Amministrative",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "workshops",
+      "label": "Officine statali e arsenali",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "roads",
+      "label": "Strade e ponti imperiali",
+      "lane": "Territorio",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Quartieri e residenze",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "ritual",
+      "label": "Santuari e paesaggio dinastico",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "destruction",
+      "label": "Incendi e abbandono del 206 a.C.",
+      "lane": "Eventi",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

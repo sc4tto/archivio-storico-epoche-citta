@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Kyoto-Heian-kyō",
+      "lat": 35.012,
+      "lon": 135.768,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "kam",
+      "label": "Fiume Kamo",
+      "lat": 35.03,
+      "lon": 135.78,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "kat",
+      "label": "Fiume Katsura",
+      "lat": 35.01,
+      "lon": 135.7,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "uji",
+      "label": "Uji",
+      "lat": 34.89,
+      "lon": 135.8,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "omi",
+      "label": "Ōmi-Lago Biwa",
+      "lat": 35.25,
+      "lon": 136.05,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "nar",
+      "label": "Nara",
+      "lat": 34.69,
+      "lon": 135.8,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "osa",
+      "label": "Osaka e Seto Inland Sea",
+      "lat": 34.69,
+      "lon": 135.5,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "kam",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "acqua, orti e trasporto locale",
+      "food": "acqua e verdure"
+    },
+    {
+      "source": "kat",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "risaie e legname",
+      "food": "riso e materiali"
+    },
+    {
+      "source": "uji",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ville, templi e coltivazione del tè",
+      "food": "tè e prodotti agricoli"
+    },
+    {
+      "source": "omi",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoio orientale",
+      "food": "pesce lacustre, riso e merci"
+    },
+    {
+      "source": "nar",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti religiose e stradali",
+      "food": "monaci, artigiani e derrate"
+    },
+    {
+      "source": "osa",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porti del Kansai",
+      "food": "sale, pesce, alghe e beni importati"
+    }
+  ]
+}

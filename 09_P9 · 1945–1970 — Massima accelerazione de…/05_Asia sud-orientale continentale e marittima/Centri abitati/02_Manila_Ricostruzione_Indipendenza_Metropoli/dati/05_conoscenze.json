@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Manila, ricostruzione, indipendenza e metropoli dispersa",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Infrastrutture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Porto, ferrovie, jeepney, autobus, strade e aeroporto",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Acqua, fognature, sanità, scuole, mercati e controllo delle inondazioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Economia urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Commercio, manifattura, stampa, finanza, edilizia e amministrazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Logistica interinsulare, distribuzione alimentare e lavoro informale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Politica e istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Indipendenza, governo cittadino, Quezon City capitale e presidenza nazionale",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Commissioni di pianificazione, municipalità e apparati di sicurezza",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Sfollati di guerra, migranti provinciali, lavoratori portuali e impiegati",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Comunità cattoliche, università, associazioni e cultura popolare",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Crisi e disuguaglianze",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Distruzione bellica, carenza abitativa, sovraffollamento e alluvioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Massacri del 1945, sgomberi, povertà e servizi territorialmente diseguali",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

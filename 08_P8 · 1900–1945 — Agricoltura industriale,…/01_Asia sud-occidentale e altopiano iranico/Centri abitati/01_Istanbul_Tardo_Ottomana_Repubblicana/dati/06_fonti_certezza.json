@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Istanbul rimase capitale ottomana fino alla fine del sultanato.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "IS4; IS5"
+  },
+  {
+    "claim": "L’occupazione alleata seguì la Prima guerra mondiale.",
+    "theme": "conflitti",
+    "status": "documentato",
+    "source": "IS4; IS5"
+  },
+  {
+    "claim": "La capitale della Repubblica fu trasferita ad Ankara nel 1923.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "IS4; IS5"
+  },
+  {
+    "claim": "Porti, tram e traghetti sostennero la mobilità metropolitana.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "IS2; IS3"
+  },
+  {
+    "claim": "Guerre e scambi di popolazione modificarono profondamente la società urbana.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "IS3; IS5"
+  },
+  {
+    "claim": "Il centro storico mantenne strutture bizantine e ottomane.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "IS1"
+  },
+  {
+    "claim": "La città attraversò carestie, requisizioni e crisi abitative.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "IS3; IS4"
+  },
+  {
+    "claim": "Ponti sul Bosforo e crescita autostradale postbellica sono esclusi.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "IS2"
+  }
+]

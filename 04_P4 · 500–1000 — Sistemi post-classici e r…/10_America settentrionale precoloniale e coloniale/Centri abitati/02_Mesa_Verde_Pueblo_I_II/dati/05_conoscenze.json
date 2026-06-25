@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Mesa Verde, Pueblo I–II",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Mais, fagioli e zucca",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Terrazze e check dams",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Case seminterrate",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Muratura in pietra e malta",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Conservazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Stoccaggio in ciste",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Essiccazione delle derrate",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Ritualità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Kiva e focolari",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Spazi comunitari",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Paesaggio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Uso differenziato di mesa e canyon",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Mobilità fra villaggi",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

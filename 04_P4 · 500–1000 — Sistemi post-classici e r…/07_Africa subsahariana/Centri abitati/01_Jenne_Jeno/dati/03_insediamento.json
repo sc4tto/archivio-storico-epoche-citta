@@ -1,0 +1,74 @@
+{
+  "phases": [
+    "500–650",
+    "650–750",
+    "750–900",
+    "900–1000"
+  ],
+  "items": [
+    {
+      "id": "jj1",
+      "label": "Crescita del grande tell e degli insediamenti satelliti",
+      "lane": "Abitato",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "jj2",
+      "label": "Produzione del ferro e specializzazione artigianale",
+      "lane": "Produzione",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "jj3",
+      "label": "Case in terra e ricostruzioni sovrapposte",
+      "lane": "Architettura",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "jj4",
+      "label": "Agricoltura e pesca adattate alle piene",
+      "lane": "Sussistenza",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "jj5",
+      "label": "Espansione della rete policentrica del delta",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "jj6",
+      "label": "Intensificazione di scambi regionali",
+      "lane": "Commercio",
+      "start": 1,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "jj7",
+      "label": "Uso crescente di mattoni cilindrici in terra",
+      "lane": "Architettura",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "jj8",
+      "label": "Riorganizzazione dell’insediamento verso la fine del millennio",
+      "lane": "Abitato",
+      "start": 3,
+      "end": 3,
+      "status": "sintesi"
+    }
+  ]
+}

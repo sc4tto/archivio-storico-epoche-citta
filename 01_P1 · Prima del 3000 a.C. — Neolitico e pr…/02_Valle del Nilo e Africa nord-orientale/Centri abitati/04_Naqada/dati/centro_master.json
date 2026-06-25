@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Naqada — modulo multi-grafo",
+    "short_name": "Naqada",
+    "site": "Naqada",
+    "modern_location": "Naqada/Nubt, governatorato di Qena, Egitto",
+    "coordinates": {
+      "lat": 25.9,
+      "lon": 32.72
+    },
+    "scope": "Abitati e necropoli della regione di Naqada, circa 4400–3000 a.C., dalla fase Naqada I a Naqada III",
+    "version": "1.0-blocco_03_p1_valle_nilo_5_centri_v1",
+    "warning": "La pagina distingue il sito di Naqada dalla più ampia cultura Naqada, diffusa in molte regioni dell’Egitto."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "UCL_NAQADA",
+      "title": "UCL Digital Egypt — Naqada Period",
+      "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/naqadan/index.html",
+      "use": "cronologia, siti, alimentazione, artigianato e contatti"
+    },
+    {
+      "id": "EES_NAQADA",
+      "title": "Egypt Exploration Society — Naqada Regional Archaeological Survey",
+      "url": "https://www.ees.ac.uk/resource/naqada-regional-archaeological-survey-and-site-management-project.html",
+      "use": "ricognizione, gestione del sito e paesaggio"
+    },
+    {
+      "id": "PETRIE_NAQADA",
+      "title": "Petrie & Quibell — Naqada and Ballas",
+      "url": "https://archive.org/details/naqadaandballas00petrgoog",
+      "use": "documentazione storica di tombe e materiali"
+    }
+  ]
+}

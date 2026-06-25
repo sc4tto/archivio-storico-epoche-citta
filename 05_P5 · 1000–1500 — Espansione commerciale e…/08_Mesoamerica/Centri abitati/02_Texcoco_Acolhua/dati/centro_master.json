@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Texcoco acolhua e paesaggio di Nezahualcóyotl",
+    "site": "Tetzcoco-Texcoco e Tetzcotzinco",
+    "modern_location": "Texcoco de Mora e Monte Tlaloc, Stato del Messico",
+    "coordinates": {
+      "lat": 19.515,
+      "lon": -98.882
+    },
+    "scope": "Texcoco fra 1000 e 1500, con attenzione alla fase acolhua, al governo di Nezahualcóyotl nel XV secolo, alle opere idrauliche, ai giardini e al ruolo nella Triplice Alleanza.",
+    "version": "1.0",
+    "warning": "Molte descrizioni di palazzi, biblioteche e giardini derivano da fonti coloniali; il modulo distingue i resti archeologici dalle ricostruzioni testuali."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "TX1",
+      "title": "Encyclopaedia Britannica — Nezahualcóyotl",
+      "use": "Regno di Texcoco, alleanza, poesia e opere pubbliche del XV secolo.",
+      "url": "https://www.britannica.com/biography/Nezahualcoyotl"
+    },
+    {
+      "id": "TX2",
+      "title": "INAH — Tetzcotzinco",
+      "use": "Terrazze, canali, vasche e paesaggio rituale attribuito alla corte acolhua.",
+      "url": "https://lugares.inah.gob.mx/es/zonas-arqueologicas/zonas/1764-tetzcotzinco.html"
+    },
+    {
+      "id": "TX3",
+      "title": "UNESCO — Historic Centre of Mexico City and Xochimilco",
+      "use": "Contesto lacustre e sistemi agricoli della Valle del Messico.",
+      "url": "https://whc.unesco.org/en/list/412/"
+    },
+    {
+      "id": "TX4",
+      "title": "Metropolitan Museum — The Aztec World",
+      "use": "Arte e politica della Triplice Alleanza.",
+      "url": "https://www.metmuseum.org/toah/hd/azte/hd_azte.htm"
+    },
+    {
+      "id": "TX5",
+      "title": "INAH — Atlas arqueológico del lago de Texcoco",
+      "use": "Paesaggio, siti e infrastrutture della riva orientale.",
+      "url": "https://www.inah.gob.mx/"
+    }
+  ]
+}

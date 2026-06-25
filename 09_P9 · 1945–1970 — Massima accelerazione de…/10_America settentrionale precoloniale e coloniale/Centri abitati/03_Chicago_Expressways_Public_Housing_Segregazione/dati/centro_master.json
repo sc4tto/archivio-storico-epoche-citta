@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Chicago, expressways, public housing e segregazione",
+    "site": "Chicago, expressways, public housing e segregazione",
+    "modern_location": "Chicago, Illinois, Stati Uniti",
+    "coordinates": {
+      "lat": 41.8781,
+      "lon": -87.6298
+    },
+    "scope": "Chicago fra 1945 e 1970: industria e logistica dei Grandi Laghi, crescita suburbana, expressways, rinnovamento del centro, grandi complessi della Chicago Housing Authority, segregazione razziale, migrazioni afroamericane e messicane, declino di alcuni distretti industriali, Chicago Freedom Movement e conflitti del 1968.",
+    "version": "1.0",
+    "warning": "Sono esclusi la demolizione successiva dei grandi complessi CHA, la crisi industriale avanzata, l’elezione di Harold Washington e le trasformazioni posteriori al 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "CH1",
+      "title": "Encyclopedia of Chicago — Chicago Housing Authority",
+      "use": "Localizzazione, segregazione e politica dell’edilizia pubblica.",
+      "url": "https://www.encyclopedia.chicagohistory.org/pages/253.html"
+    },
+    {
+      "id": "CH2",
+      "title": "Encyclopedia of Chicago — South Side",
+      "use": "Migrazioni, segregazione, urban renewal, università e public housing.",
+      "url": "https://www.encyclopedia.chicagohistory.org/pages/1177.html"
+    },
+    {
+      "id": "CH3",
+      "title": "Encyclopedia of Chicago — Fuller Park",
+      "use": "Effetti della Dan Ryan Expressway, spostamento e perdita di popolazione.",
+      "url": "https://www.encyclopedia.chicagohistory.org/pages/490.html"
+    },
+    {
+      "id": "CH4",
+      "title": "Encyclopedia of Chicago — Suburbs and Cities as a Dual Metropolis",
+      "use": "Suburbanizzazione, isolamento territoriale e rapporto fra autostrade, lavoro e segregazione.",
+      "url": "https://www.encyclopedia.chicagohistory.org/pages/238.html"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1500–1560",
+    "1560–1620",
+    "1620–1680",
+    "1680–1740",
+    "1740–1800"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Ingresso nell’Impero moghul",
+      "lane": "Politica",
+      "start": 0,
+      "end": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Capitale imperiale sotto Akbar",
+      "lane": "Politica",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Ricostruzione del forte e crescita dei bazar",
+      "lane": "Urbanistica",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Shalimar Gardens e paesaggio di corte",
+      "lane": "Ambiente",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Badshahi Mosque e Alamgiri Gate",
+      "lane": "Architettura",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Cultura persianata, scuole e havelis",
+      "lane": "Società",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Invasioni e frammentazione del XVIII secolo",
+      "lane": "Rischi",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Ascesa sikh come trasformazione finale",
+      "lane": "Cronologia",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Pre-Kerma",
+    "Kerma antico",
+    "Kerma medio",
+    "Kerma classico",
+    "Conquista egiziana e trasformazioni"
+  ],
+  "items": [
+    {
+      "id": "deffufa",
+      "label": "Deffufa occidentale e area sacra",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "palace",
+      "label": "Palazzi e sala di udienza",
+      "lane": "Amministrative",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Quartieri residenziali",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "workshops",
+      "label": "Laboratori di metallo e faience",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "walls",
+      "label": "Fortificazioni e porte",
+      "lane": "Difensive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "cemetery",
+      "label": "Necropoli e tumuli reali",
+      "lane": "Funerarie",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "harbor",
+      "label": "Approdi e corridoi del Nilo",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

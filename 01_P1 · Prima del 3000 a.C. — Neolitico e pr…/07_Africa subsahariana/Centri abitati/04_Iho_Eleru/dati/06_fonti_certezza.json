@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Ihò Eléérú conserva una lunga sequenza di uso di ambienti tropicali",
+    "theme": "Ambiente",
+    "status": "documentato",
+    "source": "IHO_ISCIENCE"
+  },
+  {
+    "claim": "Il sito ha restituito una sepoltura umana del tardo Pleistocene",
+    "theme": "Sepoltura",
+    "status": "documentato",
+    "source": "IHO_PLOS"
+  },
+  {
+    "claim": "La cronologia del cranio è stata ricalibrata con metodi radiometrici",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "IHO_PLOS"
+  },
+  {
+    "claim": "Gli assemblaggi comprendono un numero molto elevato di manufatti litici",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "IHO_EXCAVATION"
+  },
+  {
+    "claim": "Resti vegetali e faunistici documentano uso della foresta-savana",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "IHO_ISCIENCE"
+  },
+  {
+    "claim": "Il cranio appartiene certamente a una specie umana separata",
+    "theme": "Biologia",
+    "status": "non_documentato",
+    "source": "Interpretazione non dimostrata"
+  },
+  {
+    "claim": "Il sito era un villaggio agricolo permanente",
+    "theme": "Insediamento",
+    "status": "non_documentato",
+    "source": "Riparo con occupazioni ricorrenti"
+  },
+  {
+    "claim": "La ceramica era presente in tutte le fasi antiche",
+    "theme": "Ceramica",
+    "status": "non_documentato",
+    "source": "Comparsa più tarda nella sequenza"
+  }
+]

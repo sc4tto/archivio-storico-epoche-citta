@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_86_P8_Mediterraneo_Europa_5_Centri_v1",
+  "macroregion": "Mediterraneo europeo ed Europa centro-occidentale",
+  "centers": [
+    "01_Londra_Guerre_Mondiali",
+    "02_Parigi_Guerre_Mondiali",
+    "03_Berlino_Weimar_Nazista",
+    "04_Milano_Industriale_Fascista",
+    "05_Leningrado_Assedio"
+  ],
+  "uses_central_assets": true
+}

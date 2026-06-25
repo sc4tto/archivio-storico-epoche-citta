@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Fustat fu fondata nel 641 come capitale dell’Egitto islamico",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "FUS_PETERSEN"
+  },
+  {
+    "claim": "La moschea di ʿAmr fu il principale centro religioso iniziale",
+    "theme": "Religione",
+    "status": "documentato",
+    "source": "FUS_PETERSEN"
+  },
+  {
+    "claim": "Fustat divenne un grande centro di ceramica, vetro e metalli",
+    "theme": "Produzione",
+    "status": "documentato",
+    "source": "FUS_MET"
+  },
+  {
+    "claim": "Il Nilo collegava la città al Delta e all’Alto Egitto",
+    "theme": "Reti",
+    "status": "documentato",
+    "source": "FUS_SCANLON"
+  },
+  {
+    "claim": "La moschea attuale coincide integralmente con quella del 641",
+    "theme": "Architettura",
+    "status": "non_documentato",
+    "source": "Numerose ricostruzioni"
+  },
+  {
+    "claim": "Fustat e il Cairo fatimide erano la stessa fondazione",
+    "theme": "Urbanistica",
+    "status": "non_documentato",
+    "source": "Centri distinti ma connessi"
+  },
+  {
+    "claim": "Gli edifici multipiano descritti dalle fonti erano tutti identici",
+    "theme": "Abitazioni",
+    "status": "non_documentato",
+    "source": "Descrizioni selettive"
+  },
+  {
+    "claim": "La fondazione del Cairo nel 969 non cancellò subito il ruolo economico di Fustat",
+    "theme": "Trasformazione",
+    "status": "documentato",
+    "source": "FUS_MET"
+  }
+]

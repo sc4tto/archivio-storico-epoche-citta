@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Baghdad",
+      "lat": 33.3152,
+      "lon": 44.3661,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "diy",
+      "label": "Diyala",
+      "lat": 33.8,
+      "lon": 45.1,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "tig",
+      "label": "Tigri medio e canali",
+      "lat": 32.8,
+      "lon": 44.3,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "kar",
+      "label": "Karbala e Hilla",
+      "lat": 32.5,
+      "lon": 44.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "mos",
+      "label": "Mosul e Kirkuk",
+      "lat": 35.5,
+      "lon": 43.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "bas",
+      "label": "Bassora e Golfo",
+      "lat": 30.5,
+      "lon": 47.8,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "iran",
+      "label": "Iran occidentale",
+      "lat": 34.0,
+      "lon": 47.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "diy",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiume e strade",
+      "food": "frutta, riso, ortaggi e legname"
+    },
+    {
+      "source": "tig",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Tigri e canali",
+      "food": "grano, pesce e datteri"
+    },
+    {
+      "source": "kar",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade carovaniere",
+      "food": "cereali, pellegrini e manufatti"
+    },
+    {
+      "source": "mos",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e strade",
+      "food": "grano, lana e petrolio"
+    },
+    {
+      "source": "bas",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Tigri e ferrovia",
+      "food": "datteri, merci oceaniche e combustibili"
+    },
+    {
+      "source": "iran",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "frontiera e strade orientali",
+      "food": "tessili, tè, bestiame e pellegrini"
+    }
+  ]
+}

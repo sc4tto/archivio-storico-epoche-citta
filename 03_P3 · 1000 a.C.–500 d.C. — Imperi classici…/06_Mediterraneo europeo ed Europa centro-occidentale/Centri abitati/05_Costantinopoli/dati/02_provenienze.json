@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Costantinopoli",
+      "lat": 41.008,
+      "lon": 28.978,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "hippo",
+      "label": "Ippodromo e Palazzo",
+      "lat": 41.005,
+      "lon": 28.975,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "horn",
+      "label": "Corno d’Oro",
+      "lat": 41.025,
+      "lon": 28.955,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "theodosian",
+      "label": "Mura teodosiane",
+      "lat": 41.02,
+      "lon": 28.925,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "blacksea",
+      "label": "Mar Nero",
+      "lat": 42.0,
+      "lon": 29.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "aegean",
+      "label": "Egeo e Mediterraneo",
+      "lat": 39.0,
+      "lon": 25.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "hippo",
+      "target": "site",
+      "label": "cerimonie, palazzo e rappresentazione imperiale",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "horn",
+      "target": "site",
+      "label": "porti, cantieri e approvvigionamento",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "theodosian",
+      "target": "site",
+      "label": "difesa e controllo degli accessi terrestri",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "blacksea",
+      "target": "site",
+      "label": "grano, pesce, legname e rotte pontiche",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "aegean",
+      "target": "site",
+      "label": "navi, merci e comunicazioni imperiali",
+      "status": "documentato",
+      "food": "sì"
+    }
+  ]
+}

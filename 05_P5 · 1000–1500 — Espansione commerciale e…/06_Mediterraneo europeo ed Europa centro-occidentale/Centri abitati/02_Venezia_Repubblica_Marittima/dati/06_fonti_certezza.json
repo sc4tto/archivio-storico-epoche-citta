@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Venezia si sviluppò come città insulare in stretta relazione con la laguna.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "VE1; VE5"
+  },
+  {
+    "claim": "La repubblica costruì una vasta rete commerciale adriatica e mediterranea.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "VE1; VE4"
+  },
+  {
+    "claim": "L’Arsenale fu centrale per la costruzione e manutenzione delle flotte.",
+    "theme": "tecnologia",
+    "status": "documentato",
+    "source": "VE3; VE4"
+  },
+  {
+    "claim": "La Quarta crociata rafforzò la presenza veneziana nel Mediterraneo orientale.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "VE4"
+  },
+  {
+    "claim": "Fondazioni su pali e murature leggere rispondevano al suolo lagunare.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "VE1; VE5"
+  },
+  {
+    "claim": "Il rifornimento combinava pesca locale, terraferma e importazioni marittime.",
+    "theme": "alimentazione",
+    "status": "sintesi",
+    "source": "VE1; VE4"
+  },
+  {
+    "claim": "Fondaci e magazzini organizzavano merci e comunità straniere.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "VE2; VE4"
+  },
+  {
+    "claim": "Le trasformazioni moderne non sono retrodatate al periodo medievale.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "VE1"
+  }
+]

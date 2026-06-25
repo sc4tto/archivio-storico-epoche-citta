@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Mehrgarh",
+      "lat": 29.36,
+      "lon": 67.62,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "kachi",
+      "label": "Piana di Kachi",
+      "lat": 29.3,
+      "lon": 67.55,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": -20,
+      "anchor": "end"
+    },
+    {
+      "id": "bolan",
+      "label": "Passo e fiume Bolan",
+      "lat": 29.8,
+      "lon": 67.4,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 10,
+      "dy": 25,
+      "anchor": "start"
+    },
+    {
+      "id": "hills",
+      "label": "Colline del Belucistan",
+      "lat": 29.6,
+      "lon": 66.8,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 28,
+      "anchor": "middle"
+    },
+    {
+      "id": "iran",
+      "label": "Altopiano iranico",
+      "lat": 29.5,
+      "lon": 60.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "indus",
+      "label": "Pianure dell’Indo",
+      "lat": 28.0,
+      "lon": 69.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "kachi",
+      "target": "site",
+      "label": "suoli, colture e pascoli",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "bolan",
+      "target": "site",
+      "label": "acqua, mobilità e collegamenti",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "hills",
+      "target": "site",
+      "label": "pietra, selvaggina e pascolo",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "iran",
+      "target": "site",
+      "label": "confronti tecnologici e materiali tramite reti",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "indus",
+      "target": "site",
+      "label": "sviluppo di reti verso le pianure",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

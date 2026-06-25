@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Chan Chan",
+      "lat": -8.1107,
+      "lon": -79.0747,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "moche",
+      "label": "Valle del Moche",
+      "lat": -8.12,
+      "lon": -78.98,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "huan",
+      "label": "Huanchaco",
+      "lat": -8.08,
+      "lon": -79.12,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "chic",
+      "label": "Valle di Chicama",
+      "lat": -7.82,
+      "lon": -79.15,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "viru",
+      "label": "Valle di Virú",
+      "lat": -8.42,
+      "lon": -78.75,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "caja",
+      "label": "Sierra di Cajamarca",
+      "lat": -7.16,
+      "lon": -78.51,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "ecu",
+      "label": "Costa dell’Ecuador",
+      "lat": -2.2,
+      "lon": -80.9,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "moche",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "agricoltura irrigua",
+      "food": "mais, fagioli e cotone"
+    },
+    {
+      "source": "huan",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto e pesca",
+      "food": "pesce e molluschi"
+    },
+    {
+      "source": "chic",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali e reti vallive",
+      "food": "derrate e manodopera"
+    },
+    {
+      "source": "viru",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "connessioni regionali",
+      "food": "ceramiche e prodotti agricoli"
+    },
+    {
+      "source": "caja",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "scambi con la sierra",
+      "food": "camelidi e metalli"
+    },
+    {
+      "source": "ecu",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "beni tropicali",
+      "food": "spondylus e conchiglie"
+    }
+  ]
+}

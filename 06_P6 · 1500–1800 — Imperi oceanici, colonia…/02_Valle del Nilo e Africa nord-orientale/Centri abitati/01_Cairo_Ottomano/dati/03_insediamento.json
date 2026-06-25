@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1500–1560",
+    "1560–1620",
+    "1620–1680",
+    "1680–1740",
+    "1740–1800"
+  ],
+  "items": [
+    {
+      "id": "ca1",
+      "label": "Conquista ottomana e riorganizzazione provinciale",
+      "lane": "Politica",
+      "start": 0,
+      "end": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "ca2",
+      "label": "Persistenza delle élite mamelucche",
+      "lane": "Società",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ca3",
+      "label": "Espansione di wakala, suq e manifatture",
+      "lane": "Economia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ca4",
+      "label": "Sabil-kuttab e fondazioni di quartiere",
+      "lane": "Istituzioni",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ca5",
+      "label": "Reti del pellegrinaggio e del Mar Rosso",
+      "lane": "Mobilità",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ca6",
+      "label": "Crescita dei caffè e della vita urbana",
+      "lane": "Società",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ca7",
+      "label": "Epidemie, carestie e crisi del Nilo",
+      "lane": "Rischi",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ca8",
+      "label": "Spedizione francese come limite cronologico",
+      "lane": "Trasformazioni",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Possibili livelli pre-Clovis",
+    "Occupazioni paleoindiane",
+    "Fasi arcaiche",
+    "Uso woodland e agricolo",
+    "Scavo e conservazione moderna"
+  ],
+  "items": [
+    {
+      "id": "deep",
+      "label": "Livelli profondi e datazioni controverse",
+      "lane": "Cronologia",
+      "start": 0,
+      "end": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "hearth",
+      "label": "Focolari ripetuti",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "lithic",
+      "label": "Produzione e manutenzione litica",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "plants",
+      "label": "Raccolta e trattamento vegetale",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "fauna",
+      "label": "Caccia e lavorazione della fauna",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "trade",
+      "label": "Materiali non locali",
+      "lane": "Scambi",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "later",
+      "label": "Uso del riparo in fasi posteriori",
+      "lane": "Trasformazione",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

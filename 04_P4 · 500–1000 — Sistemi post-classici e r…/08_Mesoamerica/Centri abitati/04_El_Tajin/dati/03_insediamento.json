@@ -1,0 +1,74 @@
+{
+  "phases": [
+    "800–850",
+    "850–900",
+    "900–950",
+    "950–1000"
+  ],
+  "items": [
+    {
+      "id": "ej1",
+      "label": "Consolidamento del nucleo di Tajín",
+      "lane": "Urbanistica",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ej2",
+      "label": "Costruzione della Piramide delle Nicchie",
+      "lane": "Monumentalità",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ej3",
+      "label": "Moltiplicazione dei campi da gioco",
+      "lane": "Rituale",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ej4",
+      "label": "Sviluppo di Tajín Chico su livelli superiori",
+      "lane": "Urbanistica",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ej5",
+      "label": "Produzione di rilievi, pitture e fregi",
+      "lane": "Artigianato",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ej6",
+      "label": "Espansione delle reti del Golfo",
+      "lane": "Commercio",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ej7",
+      "label": "Differenziazione di accessi e spazi d’élite",
+      "lane": "Politica",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ej8",
+      "label": "Prosecuzione dell’apogeo oltre il 1000",
+      "lane": "Abitato",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    }
+  ]
+}

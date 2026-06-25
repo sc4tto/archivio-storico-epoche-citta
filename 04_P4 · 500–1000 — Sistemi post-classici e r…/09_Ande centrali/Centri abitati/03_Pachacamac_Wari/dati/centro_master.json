@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Pachacamac nel periodo Wari",
+    "site": "Santuario archeologico di Pachacamac",
+    "modern_location": "Lurín, area metropolitana di Lima, Perù",
+    "coordinates": {
+      "lat": -12.2553,
+      "lon": -76.9
+    },
+    "scope": "Pachacamac fra 500 e 1000, dalla fase Lima alle trasformazioni del medio orizzonte e alla presenza di materiali e architetture associate al mondo Wari.",
+    "version": "1.0",
+    "warning": "Il rapporto politico fra Pachacamac e Wari è discusso: influenza religiosa, presenza di élite e controllo diretto non possono essere trattati come sinonimi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "P1",
+      "title": "Museo de Sitio Pachacamac — Ministerio de Cultura",
+      "use": "Collezioni Lima, Wari, Ychma e Inca e quadro del santuario.",
+      "url": "https://museos.cultura.pe/museos/museo-de-sitio-pachacamac"
+    },
+    {
+      "id": "P2",
+      "title": "Santuario Arqueológico de Pachacamac",
+      "use": "Settori monumentali, ricerche e conservazione.",
+      "url": "https://pachacamac.cultura.pe/"
+    },
+    {
+      "id": "P3",
+      "title": "Pozzi-Escot, Pachacamac: el oráculo en el horizonte marino del sol poniente",
+      "use": "Cronologia, culto e funzioni del santuario.",
+      "url": "https://repositorio.cultura.gob.pe/handle/CULTURA/1130"
+    },
+    {
+      "id": "P4",
+      "title": "Shimada, Pachacamac Archaeology",
+      "use": "Scavi, offerte, pellegrinaggio e contatti interregionali.",
+      "url": "https://www.jstor.org/stable/280439"
+    },
+    {
+      "id": "P5",
+      "title": "Eeckhout, Ancient Peru’s Power Elite",
+      "use": "Architettura e successione dei sistemi politici nel santuario.",
+      "url": "https://doi.org/10.1017/CBO9781139026505"
+    }
+  ]
+}

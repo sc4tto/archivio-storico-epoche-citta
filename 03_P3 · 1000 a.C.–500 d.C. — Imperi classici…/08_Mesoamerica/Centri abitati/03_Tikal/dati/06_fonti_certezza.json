@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Tikal fu occupata dal Preclassico e prosperò per molti secoli",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "TIKAL_UNESCO"
+  },
+  {
+    "claim": "Il nucleo urbano comprende palazzi, templi, piazze e campi da gioco",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "TIKAL_UNESCO"
+  },
+  {
+    "claim": "Sono documentati serbatoi storici e un vasto paesaggio residenziale",
+    "theme": "Paesaggio",
+    "status": "documentato",
+    "source": "TIKAL_UNESCO"
+  },
+  {
+    "claim": "Le iscrizioni conservano dati dinastici e relazioni con altre città",
+    "theme": "Scrittura",
+    "status": "documentato",
+    "source": "TIKAL_UNESCO"
+  },
+  {
+    "claim": "L’evento del 378 prova senza dubbio una conquista militare diretta di Teotihuacan",
+    "theme": "Relazioni",
+    "status": "non_documentato",
+    "source": "Interpretazioni storiche concorrenti"
+  },
+  {
+    "claim": "Tutti i grandi templi visibili appartengono al periodo precedente al 500",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Molti monumenti sono tardo-classici"
+  },
+  {
+    "claim": "La periferia contribuiva alla produzione agricola del centro",
+    "theme": "Economia",
+    "status": "documentato",
+    "source": "TIKAL_UNESCO"
+  },
+  {
+    "claim": "Tikal ebbe rapporti politici con Calakmul, Copán e altri centri",
+    "theme": "Relazioni",
+    "status": "documentato",
+    "source": "TIKAL_UNESCO"
+  }
+]

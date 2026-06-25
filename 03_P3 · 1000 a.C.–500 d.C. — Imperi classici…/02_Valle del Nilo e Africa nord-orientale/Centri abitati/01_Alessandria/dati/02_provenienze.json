@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Alessandria",
+      "lat": 31.2001,
+      "lon": 29.9187,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "pharos",
+      "label": "Pharos e porti occidentali",
+      "lat": 31.214,
+      "lon": 29.885,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "mareotis",
+      "label": "Lago Mareotide",
+      "lat": 31.05,
+      "lon": 29.9,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "canopic",
+      "label": "Ramo canopico e Delta",
+      "lat": 31.25,
+      "lon": 30.15,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "rhodes",
+      "label": "Rodi ed Egeo",
+      "lat": 36.16,
+      "lon": 28.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "redsea",
+      "label": "Mar Rosso e Oceano Indiano",
+      "lat": 27.0,
+      "lon": 34.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "pharos",
+      "target": "site",
+      "label": "navi, merci e difesa portuale",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "mareotis",
+      "target": "site",
+      "label": "grano, vino e trasporto interno",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "canopic",
+      "target": "site",
+      "label": "collegamento con il Nilo e il Delta",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "rhodes",
+      "target": "site",
+      "label": "ceramiche, vino, persone e idee",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "redsea",
+      "target": "site",
+      "label": "spezie e beni a lunga distanza",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

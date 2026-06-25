@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Kealakekua era un importante paesaggio politico e rituale della costa di Kona.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "KE1; KE2"
+  },
+  {
+    "claim": "Gli ahupuaʻa collegavano risorse marine, costiere e montane.",
+    "theme": "territorio",
+    "status": "documentato",
+    "source": "KE1; KE3"
+  },
+  {
+    "claim": "Agricoltura arida e campi di Kona sostenevano insediamenti densi.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "KE3"
+  },
+  {
+    "claim": "Heiau, luoghi di rifugio e spazi residenziali esprimevano autorità e kapu.",
+    "theme": "culto",
+    "status": "documentato",
+    "source": "KE1"
+  },
+  {
+    "claim": "Cook arrivò a Kealakekua nel 1779 durante la stagione del Makahiki.",
+    "theme": "contatti",
+    "status": "documentato",
+    "source": "KE2"
+  },
+  {
+    "claim": "Il contatto fu seguito da conflitto, violenza e nuove vulnerabilità epidemiologiche.",
+    "theme": "contatti",
+    "status": "documentato",
+    "source": "KE2; KE5"
+  },
+  {
+    "claim": "Kamehameha emerse dalle competizioni politiche di fine Settecento.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "KE4"
+  },
+  {
+    "claim": "Abolizione del kapu e missionizzazione post-1800 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "KE1; KE4"
+  }
+]

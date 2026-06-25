@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "México-Tenochtitlan, capitale mexica",
+    "site": "México-Tenochtitlan",
+    "modern_location": "Centro storico di Città del Messico, Messico",
+    "coordinates": {
+      "lat": 19.4326,
+      "lon": -99.1332
+    },
+    "scope": "Tenochtitlan fra la fondazione tradizionale del 1325 e il 1500: urbanizzazione lacustre, agricoltura chinampera, infrastrutture idrauliche, recinto sacro e capitale della Triplice Alleanza.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1500. La conquista del 1519–1521 e la ricostruzione coloniale sono escluse; le stime demografiche restano controverse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "TE1",
+      "title": "UNESCO — Historic Centre of Mexico City and Xochimilco",
+      "use": "Continuità del paesaggio lacustre, chinampas e centro storico.",
+      "url": "https://whc.unesco.org/en/list/412/"
+    },
+    {
+      "id": "TE2",
+      "title": "Encyclopaedia Britannica — Tenochtitlan",
+      "use": "Fondazione, isole artificiali, calzadas e ruolo di capitale.",
+      "url": "https://www.britannica.com/place/Tenochtitlan"
+    },
+    {
+      "id": "TE3",
+      "title": "INAH — Museo del Templo Mayor",
+      "use": "Archeologia del recinto sacro, tributo, commercio, flora, fauna e agricoltura.",
+      "url": "https://www.templomayor.inah.gob.mx/"
+    },
+    {
+      "id": "TE4",
+      "title": "Metropolitan Museum — The Aztec World",
+      "use": "Arte, tributo, religione e reti politiche mexica.",
+      "url": "https://www.metmuseum.org/toah/hd/azte/hd_azte.htm"
+    },
+    {
+      "id": "TE5",
+      "title": "INAH — Zona Arqueológica del Templo Mayor",
+      "use": "Monumenti e fasi costruttive del cuore cerimoniale.",
+      "url": "https://www.inah.gob.mx/zonas/146-zona-arqueologica-templo-mayor"
+    }
+  ]
+}

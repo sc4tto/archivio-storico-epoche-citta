@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1800–1820",
+    "1820–1840",
+    "1840–1860",
+    "1860–1880",
+    "1880–1900"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Riforme militari di Mahmud II e nuovi complessi statali",
+      "lane": "Politica",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Editto di Gülhane e Tanzimat dal 1839",
+      "lane": "Politica",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Espansione di Galata–Pera, banche e ambasciate",
+      "lane": "Urbanistica",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Dolmabahçe e nuovi palazzi sul Bosforo",
+      "lane": "Architettura",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Traghetti, ponti, tram e ferrovie",
+      "lane": "Infrastrutture",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Incendi, epidemie e regolamenti edilizi",
+      "lane": "Rischi",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Crisi fiscale e crescente dipendenza finanziaria estera",
+      "lane": "Economia",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Trasformazioni successive al 1900 escluse",
+      "lane": "Cronologia",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

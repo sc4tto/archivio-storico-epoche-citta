@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Melbourne, migrazione, industria e high-rise pubblico",
+    "site": "Melbourne, migrazione, industria e high-rise pubblico",
+    "modern_location": "Melbourne, Victoria, Australia",
+    "coordinates": {
+      "lat": -37.8136,
+      "lon": 144.9631
+    },
+    "scope": "Melbourne fra 1945 e 1970: immigrazione europea, manifattura automobilistica e metalmeccanica, espansione suburbana, shopping centres, autostrade, università e high-rise della Housing Commission; il modulo considera anche clearance dei quartieri interni, politiche assimilazioniste e attivismo aborigeno.",
+    "version": "1.0",
+    "warning": "Sono esclusi il crollo del West Gate Bridge del 1970 come sviluppo successivo alla fase di progettazione qui trattata, la deindustrializzazione tarda, il multiculturalismo istituzionale posteriore e gli eventi oltre il 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "ME1",
+      "title": "Heritage Victoria — Survey of Post-War Built Heritage in Victoria",
+      "use": "Architettura, infrastrutture, abitazioni e modernismo dal 1945.",
+      "url": "https://www.heritage.vic.gov.au/__data/assets/pdf_file/0025/512287/Survey-of-post-war-built-heritage-in-Victoria-Stage-1-Heritage-Alliance-2008_Part1.pdf"
+    },
+    {
+      "id": "ME2",
+      "title": "Heritage Victoria — Victoria’s Post 1940s Migration Heritage",
+      "use": "Migrazione, lavoro, luoghi comunitari e trasformazioni dell’ambiente costruito.",
+      "url": "https://www.heritage.vic.gov.au/__data/assets/pdf_file/0023/512276/Victorias-post-1940s-migration-heritage-Context-2011.pdf"
+    },
+    {
+      "id": "ME3",
+      "title": "Heritage Council of Victoria — Victoria’s Framework of Historical Themes",
+      "use": "High-rise pubblico, autostrade, università e sviluppo statale.",
+      "url": "https://www.heritage.vic.gov.au/__data/assets/pdf_file/0022/512275/Victorias-framework-of-historical-themes-Heritage-Council-of-Victoria%2C-Victorian-Aboriginal-Heritage-Council-2009.pdf"
+    },
+    {
+      "id": "ME4",
+      "title": "AIATSIS — The 1967 Referendum",
+      "use": "Mobilitazione aborigena e cambiamento costituzionale.",
+      "url": "https://aiatsis.gov.au/explore/1967-referendum"
+    }
+  ]
+}

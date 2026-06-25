@@ -1,0 +1,92 @@
+{
+  "id": "dd_root",
+  "label": "Competenze di Indrapura–Đồng Dương",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "dd_buddha",
+      "label": "Buddhismo mahayana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "dd_loke",
+          "label": "Culto di Lokeśvara",
+          "status": "documentato"
+        },
+        {
+          "id": "dd_monas",
+          "label": "Organizzazione monastica",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "dd_art",
+      "label": "Arte e architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "dd_brick",
+          "label": "Muratura in laterizio",
+          "status": "documentato"
+        },
+        {
+          "id": "dd_sculpt",
+          "label": "Scultura dello stile Đồng Dương",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "dd_urban",
+      "label": "Organizzazione urbana",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "dd_axes",
+          "label": "Assi, porte e recinti",
+          "status": "sintesi"
+        },
+        {
+          "id": "dd_drain",
+          "label": "Drenaggio e infrastrutture",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "dd_network",
+      "label": "Reti esterne",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "dd_dip",
+          "label": "Diplomazia con la Cina",
+          "status": "documentato"
+        },
+        {
+          "id": "dd_java",
+          "label": "Contatti con Java e reti buddhiste",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "dd_food",
+      "label": "Sostentamento",
+      "status": "inferito",
+      "children": [
+        {
+          "id": "dd_rice",
+          "label": "Riso della pianura",
+          "status": "sintesi"
+        },
+        {
+          "id": "dd_fish",
+          "label": "Pesca fluviale e costiera",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

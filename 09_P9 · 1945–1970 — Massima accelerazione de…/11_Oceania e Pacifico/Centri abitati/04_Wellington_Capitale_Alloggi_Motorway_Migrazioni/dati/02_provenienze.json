@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Wellington",
+      "lat": -41.2866,
+      "lon": 174.7756,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "hut",
+      "label": "Hutt Valley",
+      "lat": -41.21,
+      "lon": 174.91,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "wai",
+      "label": "Wairarapa",
+      "lat": -41.22,
+      "lon": 175.46,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "kap",
+      "label": "Kapiti Coast",
+      "lat": -40.91,
+      "lon": 175.01,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "man",
+      "label": "Manawatū",
+      "lat": -40.35,
+      "lon": 175.61,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "mar",
+      "label": "Marlborough e South Island",
+      "lat": -41.51,
+      "lon": 173.96,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "pac",
+      "label": "Isole del Pacifico",
+      "lat": -13.76,
+      "lon": -172.1,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "hut",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie, autobus e strade",
+      "food": "lavoratori, ortaggi, manufatti e nuovi residenti"
+    },
+    {
+      "source": "wai",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e strada",
+      "food": "carne, lana, cereali e vino"
+    },
+    {
+      "source": "kap",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e ferrovia",
+      "food": "latticini, frutta, pesce e pendolari"
+    },
+    {
+      "source": "man",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e camion",
+      "food": "carne, latte, cereali e manufatti"
+    },
+    {
+      "source": "mar",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "traghetti e navi",
+      "food": "pesce, vino, frutta e prodotti del South Island"
+    },
+    {
+      "source": "pac",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navi e voli",
+      "food": "famiglie, lavoratori, taro e prodotti insulari"
+    }
+  ]
+}

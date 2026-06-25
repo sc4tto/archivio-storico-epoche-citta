@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di La Paz coloniale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Geografia verticale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Valle urbana e altiplano",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Yungas, coca e prodotti tropicali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Carovane e mercati",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Lama, tambos e trasporto",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Titicaca, Potosí e Arica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Adobe, pietra e calce",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Tetti, ponti e terrazzamenti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Governo coloniale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Cabildo, corregimiento e fiscalità",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Parrocchie e comunità indigene",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Conflitto e coercizione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Tributo, mita e requisizioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Assedio del 1781 e repressione",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

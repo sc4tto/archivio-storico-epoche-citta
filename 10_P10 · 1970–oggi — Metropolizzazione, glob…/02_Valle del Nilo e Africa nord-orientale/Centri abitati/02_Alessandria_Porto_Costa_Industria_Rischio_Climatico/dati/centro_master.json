@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Alessandria, porto, costa, industria e rischio climatico",
+    "site": "Alessandria, porto, costa, industria e rischio climatico",
+    "modern_location": "Alessandria, Egitto",
+    "coordinates": {
+      "lat": 31.2001,
+      "lon": 29.9187
+    },
+    "scope": "Alessandria dal 1970 al 25 giugno 2026: porto e industria, espansione lineare costiera, edilizia ad alta densità, mobilità regionale, trasformazione del lungomare, inquinamento marino, subsidenza, allagamenti e crescente rischio climatico.",
+    "version": "1.0",
+    "warning": "Scenari climatici e opere con orizzonte successivo al 25 giugno 2026 sono presentati come proiezioni o programmi, non come esiti già realizzati."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "AL1",
+      "title": "World Bank — Egypt Country Climate and Development Report",
+      "use": "Rischio costiero, allagamenti e resilienza urbana di Alessandria.",
+      "url": "https://documents1.worldbank.org/curated/en/099222003142332554/pdf/P177292-4ccb29b7-6de6-4999-8a63-fe5734e59a99.pdf"
+    },
+    {
+      "id": "AL2",
+      "title": "World Bank — Climate Action for Egypt’s Prosperity",
+      "use": "Esposizione di Alessandria all’innalzamento del mare e gestione delle acque meteoriche.",
+      "url": "https://www.worldbank.org/en/news/feature/2024/11/25/climate-action-a-catalyst-for-egypt-s-prosperity-and-sustainable-growth"
+    },
+    {
+      "id": "AL3",
+      "title": "UN-Habitat — State of Arab Cities 2020",
+      "use": "Ruolo portuale e vulnerabilità di infrastrutture, industrie e abitazioni costiere.",
+      "url": "https://unhabitat.org/sites/default/files/2020/06/sacr_2020_executive_summary_en.pdf"
+    },
+    {
+      "id": "AL4",
+      "title": "World Bank — Cairo–Alexandria Trade Logistics Development Project",
+      "use": "Corridoio ferroviario e logistico fra porto di Alessandria e Grande Cairo.",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P177932"
+    }
+  ]
+}

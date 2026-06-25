@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Osaka",
+      "lat": 34.6937,
+      "lon": 135.5023,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "pla",
+      "label": "Pianura di Osaka e Sakai",
+      "lat": 34.55,
+      "lon": 135.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "yod",
+      "label": "Bacino dello Yodo e Kyoto",
+      "lat": 34.95,
+      "lon": 135.7,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "bay",
+      "label": "Baia e porto di Osaka",
+      "lat": 34.62,
+      "lon": 135.38,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "set",
+      "label": "Seto Inland Sea e Shikoku",
+      "lat": 34.2,
+      "lon": 133.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "kin",
+      "label": "Kinki e Wakayama",
+      "lat": 33.9,
+      "lon": 135.4,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "pac",
+      "label": "Rotte del Pacifico",
+      "lat": 31.0,
+      "lon": 145.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "pla",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "camion e ferrovie",
+      "food": "riso, ortaggi, industrie e pendolari"
+    },
+    {
+      "source": "yod",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie private e nazionali",
+      "food": "acqua, verdure, studenti e lavoratori"
+    },
+    {
+      "source": "bay",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto, chiatte e mercati",
+      "food": "pesce, carbone, grano e merci"
+    },
+    {
+      "source": "set",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione interna",
+      "food": "pesce, sale, agrumi e combustibili"
+    },
+    {
+      "source": "kin",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e strade",
+      "food": "legname, frutta, ortaggi e migranti"
+    },
+    {
+      "source": "pac",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto e rotte oceaniche",
+      "food": "materie prime, grano, petrolio e macchinari"
+    }
+  ]
+}

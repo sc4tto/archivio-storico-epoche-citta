@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Snaketown fu un grande villaggio preclassico nella valle del Gila.",
+    "theme": "insediamento",
+    "status": "documentato",
+    "source": "SN1; SN4; SN5"
+  },
+  {
+    "claim": "L’agricoltura dipendeva da una rete complessa di canali.",
+    "theme": "agricoltura",
+    "status": "documentato",
+    "source": "SN4; SN5"
+  },
+  {
+    "claim": "Case seminterrate, piazze e campi da gioco organizzavano il sito.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "SN4"
+  },
+  {
+    "claim": "La produzione di ceramica e ornamenti in conchiglia era specializzata.",
+    "theme": "artigianato",
+    "status": "documentato",
+    "source": "SN2; SN4"
+  },
+  {
+    "claim": "Le conchiglie mostrano scambi con il Golfo di California.",
+    "theme": "commercio",
+    "status": "documentato",
+    "source": "SN2; SN4"
+  },
+  {
+    "claim": "I rapporti diretti con Mesoamerica non implicano dipendenza politica.",
+    "theme": "certezza",
+    "status": "sintesi",
+    "source": "SN4"
+  },
+  {
+    "claim": "Il sito è parte del patrimonio e della memoria della Gila River Indian Community.",
+    "theme": "continuità",
+    "status": "documentato",
+    "source": "SN3; SN5"
+  },
+  {
+    "claim": "L’abbandono principale è successivo al limite del periodo P4.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "SN4"
+  }
+]

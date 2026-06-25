@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Potosí mineraria",
+    "site": "Potosí mineraria",
+    "modern_location": "Potosí, Bolivia",
+    "coordinates": {
+      "lat": -19.5836,
+      "lon": -65.7531
+    },
+    "scope": "Potosí fra 1545 e 1800: Cerro Rico, città, Casa de Moneda, lagune, ingenios, quartieri, mercati e reti di argento, mercurio, derrate, lavoro e trasporto.",
+    "version": "1.0",
+    "warning": "Il modulo documenta la mita e le condizioni pericolose del lavoro minerario come sistemi coercitivi. L’industria mineraria repubblicana e contemporanea è esclusa."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "PO1",
+      "title": "UNESCO — City of Potosí",
+      "use": "Cerro Rico, città, zecca e infrastrutture minerarie.",
+      "url": "https://whc.unesco.org/en/list/420/"
+    },
+    {
+      "id": "PO2",
+      "title": "Encyclopaedia Britannica — Potosí",
+      "use": "Scoperta dell’argento, crescita urbana e declino.",
+      "url": "https://www.britannica.com/place/Potosi-Bolivia"
+    },
+    {
+      "id": "PO3",
+      "title": "Casa Nacional de Moneda de Bolivia",
+      "use": "Monetazione, tecnologia e cultura materiale.",
+      "url": "https://www.casanacionaldemoneda.bo/"
+    },
+    {
+      "id": "PO4",
+      "title": "Archivo y Biblioteca Nacionales de Bolivia",
+      "use": "Fonti sulla società e amministrazione coloniale.",
+      "url": "https://www.archivoybibliotecanacionales.org.bo/"
+    },
+    {
+      "id": "PO5",
+      "title": "UNESCO — Qhapaq Ñan",
+      "use": "Collegamenti andini e reti di trasporto regionali.",
+      "url": "https://whc.unesco.org/en/list/1459/"
+    }
+  ]
+}

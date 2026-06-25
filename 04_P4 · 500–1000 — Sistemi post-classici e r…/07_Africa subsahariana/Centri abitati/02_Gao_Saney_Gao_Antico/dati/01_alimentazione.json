@@ -1,0 +1,216 @@
+{
+  "nodes": [
+    {
+      "id": "t_river",
+      "label": "Valle del Niger e piane irrigabili",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_sahel",
+      "label": "Savane e pascoli saheliani",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_oases",
+      "label": "Rotte sahariane e oasi",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "r_millet",
+      "label": "Miglio e cereali locali",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_fish",
+      "label": "Pesce del Niger",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_livestock",
+      "label": "Caprini, ovini e bovini",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_wheat",
+      "label": "Frumento e prodotti importati",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "a_fields",
+      "label": "Coltivazione fluviale e pluviale",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_fishery",
+      "label": "Pesca e raccolta fluviale",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_herding",
+      "label": "Pastorizia e scambio",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_caravan",
+      "label": "Acquisto tramite carovane",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "x_grind",
+      "label": "Macinazione e cottura",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x_dry",
+      "label": "Essiccazione, affumicatura e salagione",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "x_store",
+      "label": "Magazzini, giare e riserve",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_daily",
+      "label": "Pasti urbani di cereali, pesce e carne",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_travel",
+      "label": "Derrate per trasporto e carovane",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_elite",
+      "label": "Consumi di corte e beni esotici",
+      "layer": 4,
+      "status": "inferito"
+    }
+  ],
+  "edges": [
+    {
+      "source": "t_river",
+      "target": "r_millet",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "t_sahel",
+      "target": "r_fish",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "t_oases",
+      "target": "r_livestock",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "t_river",
+      "target": "r_wheat",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "r_millet",
+      "target": "a_fields",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_fish",
+      "target": "a_fishery",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_livestock",
+      "target": "a_herding",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_wheat",
+      "target": "a_caravan",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "a_fields",
+      "target": "x_grind",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "a_fishery",
+      "target": "x_dry",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "a_herding",
+      "target": "x_store",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "a_caravan",
+      "target": "x_grind",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "x_grind",
+      "target": "p_daily",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "x_dry",
+      "target": "p_travel",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "x_store",
+      "target": "p_elite",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "r_wheat",
+      "target": "a_fields",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "a_caravan",
+      "target": "x_store",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "x_store",
+      "target": "p_elite",
+      "status": "sintesi",
+      "label": ""
+    }
+  ]
+}

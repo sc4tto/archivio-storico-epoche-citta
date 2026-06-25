@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Quito",
+      "lat": -0.1807,
+      "lon": -78.4678,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "chi",
+      "label": "Los Chillos",
+      "lat": -0.31,
+      "lon": -78.44,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "tum",
+      "label": "Tumbaco",
+      "lat": -0.21,
+      "lon": -78.4,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "imb",
+      "label": "Imbabura e Cayambe",
+      "lat": 0.15,
+      "lon": -78.1,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "cot",
+      "label": "Cotopaxi e Sierra centrale",
+      "lat": -0.9,
+      "lon": -78.6,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "gua",
+      "label": "Guayaquil e costa",
+      "lat": -2.17,
+      "lon": -79.92,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "ama",
+      "label": "Oriente amazzonico",
+      "lat": -1.2,
+      "lon": -77.8,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "chi",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade vallive e autobus",
+      "food": "latte, ortaggi, carne, pendolari e materiali"
+    },
+    {
+      "source": "tum",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e camion",
+      "food": "frutta, ortaggi, fiori e lavoratori"
+    },
+    {
+      "source": "imb",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Panamericana e ferrovia",
+      "food": "cereali, tessili, latte e migranti"
+    },
+    {
+      "source": "cot",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e strade",
+      "food": "patate, bestiame, legumi e lavoratori"
+    },
+    {
+      "source": "gua",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia, strade e aviazione",
+      "food": "riso, zucchero, cacao, importazioni e manufatti"
+    },
+    {
+      "source": "ama",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade iniziali e rotte regionali",
+      "food": "legname, prodotti tropicali e migranti"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Roma",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Amministrazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Senato e magistrature",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Burocrazia imperiale",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Diritto romano",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Infrastrutture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Strade",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Acquedotti",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Cloache",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Edilizia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Calcestruzzo",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Archi e volte",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Marmo importato",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Economia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Annona",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Moneta",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Schiavitù",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Religioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Politeismi civici",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Culto imperiale",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Cristianesimo",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Urbanistica",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Fori",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Quartieri",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Popolazione esatta",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

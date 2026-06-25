@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Dhar Tichitt — modulo multi-grafo",
+    "short_name": "Dhar Tichitt",
+    "site": "Complesso di insediamenti della tradizione Tichitt",
+    "modern_location": "Mauritania sud-orientale",
+    "coordinates": {
+      "lat": 18.45,
+      "lon": -9.5
+    },
+    "scope": "Complesso di villaggi, recinti e centri regionali in pietra a secco, sviluppato fra Sahara e Sahel con pastorizia, coltivazione del miglio, pesca residuale e crescente differenziazione degli spazi domestici.",
+    "version": "1.0-blocco_20_p2_africa_subsahariana_5_centri_v1",
+    "warning": "Dhar Tichitt non è una singola città né una prova automatica di Stato. Le cronologie interne e il grado di gerarchia sociale restano discussi e variano fra i diversi dhar e insediamenti."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "DT_HOLL",
+      "title": "Holl — Coping with uncertainty: Neolithic life in the Dhar Tichitt-Walata, Mauritania",
+      "url": "https://doi.org/10.1016/j.crte.2009.05.006",
+      "use": "cronologia, ambiente, sussistenza e adattamento all’aridificazione"
+    },
+    {
+      "id": "DT_LINARES",
+      "title": "Linares-Matás — Spatial Organization and Socio-Economic Differentiation at Dakhlet el Atrouss I",
+      "url": "https://link.springer.com/journal/10437",
+      "use": "organizzazione spaziale e differenziazione socioeconomica"
+    },
+    {
+      "id": "DT_MACDONALD",
+      "title": "MacDonald — The Tichitt tradition in the West African Sahel",
+      "url": "https://www.cambridge.org/core/books/cambridge-world-history/",
+      "use": "quadro regionale e sviluppo dell’agropastoralismo"
+    }
+  ]
+}

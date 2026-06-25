@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Bangkok Chakri e riformatrice",
+    "site": "Bangkok Chakri e riformatrice",
+    "modern_location": "Bangkok, Thailandia",
+    "coordinates": {
+      "lat": 13.7563,
+      "lon": 100.5018
+    },
+    "scope": "Bangkok fra 1800 e 1900: capitale siamese, paesaggio fluviale e cerimoniale, crescita commerciale dopo il trattato Bowring, riforme di Mongkut e Chulalongkorn, nuove infrastrutture e diplomazia.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. La modernizzazione novecentesca, l’abolizione definitiva della monarchia assoluta e la metropoli contemporanea sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "BK1",
+      "title": "Encyclopaedia Britannica — Bangkok",
+      "use": "Storia della capitale e sviluppo urbano.",
+      "url": "https://www.britannica.com/place/Bangkok"
+    },
+    {
+      "id": "BK2",
+      "title": "Fine Arts Department of Thailand",
+      "use": "Palazzi, wat e patrimonio di Rattanakosin.",
+      "url": "https://www.finearts.go.th/"
+    },
+    {
+      "id": "BK3",
+      "title": "National Archives of Thailand",
+      "use": "Mappe, amministrazione e riforme del XIX secolo.",
+      "url": "https://www.nat.go.th/"
+    },
+    {
+      "id": "BK4",
+      "title": "State Railway of Thailand — History",
+      "use": "Prime ferrovie e infrastrutture.",
+      "url": "https://www.railway.co.th/"
+    },
+    {
+      "id": "BK5",
+      "title": "Encyclopaedia Britannica — Mongkut and Chulalongkorn",
+      "use": "Riforme, diplomazia e modernizzazione siamese.",
+      "url": "https://www.britannica.com/biography/Chulalongkorn"
+    }
+  ]
+}

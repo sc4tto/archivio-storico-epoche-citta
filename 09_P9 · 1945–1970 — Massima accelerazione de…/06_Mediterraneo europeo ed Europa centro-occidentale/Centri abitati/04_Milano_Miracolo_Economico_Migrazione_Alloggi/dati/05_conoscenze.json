@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Milano, miracolo economico, migrazione e crisi degli alloggi",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Pianificazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "PRG 1953, zonizzazione, scali, industria, residenza e centro direzionale",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Quartieri INA-Casa, standard, metropolitana e rete stradale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Economia urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Meccanica, chimica, elettrotecnica, moda, editoria e finanza",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Mercati generali, logistica, edilizia e consumi di massa",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Istituzioni e welfare",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Comune, IACP, INA-Casa, aziende municipalizzate e sanità",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Scuole, trasporti, assistenza, case popolari e servizi di quartiere",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Migranti interni, operai, tecnici, impiegati, studenti e famiglie",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Sindacati, parrocchie, cooperative, partiti e associazioni di quartiere",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Crisi e disuguaglianze",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Carenza abitativa, baracche, sovraffollamento, inquinamento e pendolarismo",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Sfratti, segregazione periferica, repressione delle proteste e violenza politica",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

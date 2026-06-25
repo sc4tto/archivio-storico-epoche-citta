@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Damasco",
+      "lat": 33.5138,
+      "lon": 36.2765,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "gho",
+      "label": "Ghouta",
+      "lat": 33.5,
+      "lon": 36.42,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "baa",
+      "label": "Baalbek",
+      "lat": 34.006,
+      "lon": 36.203,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "hom",
+      "label": "Homs",
+      "lat": 34.73,
+      "lon": 36.72,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "ale",
+      "label": "Aleppo",
+      "lat": 36.2,
+      "lon": 37.16,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "cai",
+      "label": "Cairo",
+      "lat": 30.04,
+      "lon": 31.24,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "bag",
+      "label": "Baghdad",
+      "lat": 33.315,
+      "lon": 44.366,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "gho",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali del Barada",
+      "food": "frutta, ortaggi e cereali"
+    },
+    {
+      "source": "baa",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strada della Beqaa",
+      "food": "grano e bestiame"
+    },
+    {
+      "source": "hom",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "asse nord-sud",
+      "food": "ovini e manufatti"
+    },
+    {
+      "source": "ale",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete siriana",
+      "food": "tessili e spezie"
+    },
+    {
+      "source": "cai",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete mamelucca e pellegrinaggio",
+      "food": "zucchero, riso e funzionari"
+    },
+    {
+      "source": "bag",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "rotta mesopotamica",
+      "food": "libri, spezie e merci"
+    }
+  ]
+}

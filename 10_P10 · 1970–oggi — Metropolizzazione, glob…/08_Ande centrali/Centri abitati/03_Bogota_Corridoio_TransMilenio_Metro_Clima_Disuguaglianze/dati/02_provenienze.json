@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Bogotá",
+      "lat": 4.711,
+      "lon": -74.0721,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "sab",
+      "label": "Sabana di Bogotá",
+      "lat": 4.85,
+      "lon": -74.1,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "soa",
+      "label": "Soacha e corridoio meridionale",
+      "lat": 4.58,
+      "lon": -74.22,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "boy",
+      "label": "Boyacá e altopiano orientale",
+      "lat": 5.5,
+      "lon": -73.4,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "mag",
+      "label": "Valle del Magdalena",
+      "lat": 4.5,
+      "lon": -74.8,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "caf",
+      "label": "Regione cafetera e Colombia occidentale",
+      "lat": 4.8,
+      "lon": -75.7,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "glob",
+      "label": "Caraibi, aeroporti e reti globali",
+      "lat": 8.0,
+      "lon": -77.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "sab",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "produzione periurbana e Corabastos",
+      "food": "patate, verdure, latte, fiori e carne"
+    },
+    {
+      "source": "soa",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoio urbano meridionale",
+      "food": "alimenti, manodopera, mercati e servizi"
+    },
+    {
+      "source": "boy",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "autostrade andine e grossisti",
+      "food": "patate, cipolle, latte, cereali e carne"
+    },
+    {
+      "source": "mag",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoi stradali e fluviali",
+      "food": "frutta, riso, pesce e zucchero"
+    },
+    {
+      "source": "caf",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "logistica nazionale",
+      "food": "caffè, frutta, carne e alimenti trasformati"
+    },
+    {
+      "source": "glob",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "aeroporto e commercio",
+      "food": "grano, oli, ingredienti e merci confezionate"
+    }
+  ]
+}

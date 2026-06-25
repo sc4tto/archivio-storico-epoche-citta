@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Ctesifonte — modulo multi-grafo",
+    "short_name": "Ctesifonte",
+    "site": "Metropoli sasanide e prima città islamica di Ctesifonte",
+    "modern_location": "Salman Pak, Iraq",
+    "coordinates": {
+      "lat": 33.0956,
+      "lon": 44.5808
+    },
+    "scope": "Capitale sasanide sul Tigri, con palazzi, quartieri, comunità religiose e grande mercato internazionale. Nel P4 comprende l’età di Khusrau I, il Taq-i Kisra, la conquista del 637 e il declino progressivo dopo la fondazione di Baghdad.",
+    "version": "1.0-blocco_37_p4_asia_so_5_centri_v1",
+    "warning": "Ctesifonte era un sistema urbano policentrico sulle due rive del Tigri, non un singolo recinto. Il modulo distingue il palazzo sasanide, gli abitati circostanti e il riuso islamico; l’arco conservato non rappresenta l’intera città."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "CTE_MET",
+      "title": "Metropolitan Museum — Ctesiphon",
+      "url": "https://www.metmuseum.org/essays/ctesiphon",
+      "use": "capitale sasanide, commercio, Taq-i Kisra e scavi"
+    },
+    {
+      "id": "CTE_METPUB",
+      "title": "Metropolitan Museum — The Expedition to Ctesiphon",
+      "url": "https://www.metmuseum.org/art/metpublications/The_Expedition_to_Ctesiphon_1931_1932",
+      "use": "scavi, abitazioni e decorazione architettonica"
+    },
+    {
+      "id": "CTE_EI",
+      "title": "Encyclopaedia Iranica — Ctesiphon",
+      "url": "https://iranicaonline.org/articles/ctesiphon",
+      "use": "storia politica e topografia"
+    }
+  ]
+}

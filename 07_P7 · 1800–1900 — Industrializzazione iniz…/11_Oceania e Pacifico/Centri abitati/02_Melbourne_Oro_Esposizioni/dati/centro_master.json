@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Melbourne dell’oro e delle esposizioni",
+    "site": "Melbourne dell’oro e delle esposizioni",
+    "modern_location": "Melbourne, Australia",
+    "coordinates": {
+      "lat": -37.8136,
+      "lon": 144.9631
+    },
+    "scope": "Melbourne fra 1835 e 1900: fondazione coloniale, separazione del Victoria, boom dell’oro, ferrovie, porto, reti idriche, quartieri operai, crisi del 1890, Royal Exhibition Building e crescita metropolitana.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Federation del 1901, City Loop, autostrade e suburbanizzazione novecentesca sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "ME1",
+      "title": "UNESCO — Royal Exhibition Building and Carlton Gardens",
+      "use": "Esposizioni del 1880 e 1888 e paesaggio urbano.",
+      "url": "https://whc.unesco.org/en/list/1131/"
+    },
+    {
+      "id": "ME2",
+      "title": "Museums Victoria — Royal Exhibition Building",
+      "use": "Architettura, esposizioni e città ottocentesca.",
+      "url": "https://museumsvictoria.com.au/"
+    },
+    {
+      "id": "ME3",
+      "title": "State Library Victoria — Melbourne and gold rush",
+      "use": "Fonti su fondazione coloniale e boom dell’oro.",
+      "url": "https://www.slv.vic.gov.au/"
+    },
+    {
+      "id": "ME4",
+      "title": "Victorian Aboriginal Heritage Council",
+      "use": "Paesaggi Wurundjeri/Boonwurrung e continuità culturali.",
+      "url": "https://www.aboriginalheritagecouncil.vic.gov.au/"
+    },
+    {
+      "id": "ME5",
+      "title": "Public Record Office Victoria",
+      "use": "Governo coloniale, ferrovie e servizi urbani.",
+      "url": "https://prov.vic.gov.au/"
+    }
+  ]
+}

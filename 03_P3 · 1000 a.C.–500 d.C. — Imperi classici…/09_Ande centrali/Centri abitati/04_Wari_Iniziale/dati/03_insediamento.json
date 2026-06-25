@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Tradizione Huarpa",
+    "Prime concentrazioni insediative",
+    "Crescita urbana del IV secolo",
+    "Formazione di recinti e complessi rituali",
+    "Transizione al Medio Orizzonte"
+  ],
+  "items": [
+    {
+      "id": "vegachayoq",
+      "label": "Prime fasi di Vegachayoq Moqo",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "walls",
+      "label": "Recinti e muri ortogonali",
+      "lane": "Urbanistiche",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "residences",
+      "label": "Quartieri residenziali",
+      "lane": "Abitative",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "workshops",
+      "label": "Produzioni di ceramica e ornamenti",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "burials",
+      "label": "Prime strutture funerarie",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "roads",
+      "label": "Percorsi e reti regionali iniziali",
+      "lane": "Territorio",
+      "start": 2,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "storage",
+      "label": "Depositi e magazzini",
+      "lane": "Amministrative",
+      "start": 3,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

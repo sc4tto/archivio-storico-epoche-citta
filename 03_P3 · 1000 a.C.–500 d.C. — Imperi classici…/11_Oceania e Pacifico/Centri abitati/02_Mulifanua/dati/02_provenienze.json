@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Mulifanua",
+      "lat": -13.83,
+      "lon": -172.036,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "apolima",
+      "label": "Stretto di Apolima",
+      "lat": -13.82,
+      "lon": -172.1,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "savaii",
+      "label": "Savai‘i orientale",
+      "lat": -13.65,
+      "lon": -172.35,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "tonga",
+      "label": "Tonga",
+      "lat": -21.15,
+      "lon": -175.2,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "fiji",
+      "label": "Figi",
+      "lat": -17.8,
+      "lon": 178.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "manono",
+      "label": "Manono e Apolima",
+      "lat": -13.84,
+      "lon": -172.12,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "apolima",
+      "target": "site",
+      "label": "laguna, pesca e attraversamenti",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "savaii",
+      "target": "site",
+      "label": "mobilità interinsulare",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "tonga",
+      "target": "site",
+      "label": "tradizioni Lapita e Plainware",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "fiji",
+      "target": "site",
+      "label": "reti occidentali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "manono",
+      "target": "site",
+      "label": "risorse marine e pietra",
+      "status": "sintesi",
+      "food": "sì"
+    }
+  ]
+}

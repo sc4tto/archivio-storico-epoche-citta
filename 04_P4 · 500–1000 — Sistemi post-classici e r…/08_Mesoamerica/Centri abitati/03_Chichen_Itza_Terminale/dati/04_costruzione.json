@@ -1,0 +1,264 @@
+{
+  "nodes": [
+    {
+      "id": "m_stone",
+      "label": "Calcare locale e blocchi scolpiti",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_lime",
+      "label": "Calce, stucco e malta",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_wood",
+      "label": "Legno per architravi e coperture",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_pigment",
+      "label": "Pigmenti, intonaci colorati e mosaici",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "o_quarry",
+      "label": "Estrazione, taglio e scultura",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_plaster",
+      "label": "Cottura della calce e stuccatura",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_assemble",
+      "label": "Montaggio di colonne, volte e architravi",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_paint",
+      "label": "Pittura, rilievo e finitura simbolica",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "c_columns",
+      "label": "Colonne, pilastri e balaustre",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_vaults",
+      "label": "Volte, pareti e ambienti coperti",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_reliefs",
+      "label": "Pannelli, fregi e superfici dipinte",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_pavements",
+      "label": "Pavimenti, scale e sacbeob",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "s_temples",
+      "label": "El Castillo, templi e santuari",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_ballcourt",
+      "label": "Grande gioco della palla",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_colonnades",
+      "label": "Colonnati, mercati e spazi assembleari",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "s_residential",
+      "label": "Gruppi residenziali, cenoti e strade",
+      "layer": 3,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m_stone",
+      "target": "o_quarry",
+      "status": "documentato",
+      "label": "blocchi e scultura"
+    },
+    {
+      "source": "m_stone",
+      "target": "o_plaster",
+      "status": "documentato",
+      "label": "calcare per la calce"
+    },
+    {
+      "source": "m_lime",
+      "target": "o_plaster",
+      "status": "documentato",
+      "label": "malta e stucco"
+    },
+    {
+      "source": "m_wood",
+      "target": "o_assemble",
+      "status": "documentato",
+      "label": "architravi e coperture"
+    },
+    {
+      "source": "m_wood",
+      "target": "o_plaster",
+      "status": "documentato",
+      "label": "combustibile"
+    },
+    {
+      "source": "m_pigment",
+      "target": "o_paint",
+      "status": "documentato",
+      "label": "colori e finitura"
+    },
+    {
+      "source": "m_pigment",
+      "target": "o_plaster",
+      "status": "sintesi",
+      "label": "intonaci preparatori"
+    },
+    {
+      "source": "o_quarry",
+      "target": "c_columns",
+      "status": "documentato",
+      "label": "colonne e balaustre"
+    },
+    {
+      "source": "o_quarry",
+      "target": "c_vaults",
+      "status": "documentato",
+      "label": "blocchi per pareti e volte"
+    },
+    {
+      "source": "o_quarry",
+      "target": "c_pavements",
+      "status": "documentato",
+      "label": "gradini e lastricati"
+    },
+    {
+      "source": "o_plaster",
+      "target": "c_vaults",
+      "status": "documentato",
+      "label": "malte e rivestimenti"
+    },
+    {
+      "source": "o_plaster",
+      "target": "c_reliefs",
+      "status": "documentato",
+      "label": "stucco modellato"
+    },
+    {
+      "source": "o_assemble",
+      "target": "c_columns",
+      "status": "documentato",
+      "label": "portici e sale"
+    },
+    {
+      "source": "o_assemble",
+      "target": "c_vaults",
+      "status": "documentato",
+      "label": "ambienti coperti"
+    },
+    {
+      "source": "o_assemble",
+      "target": "c_pavements",
+      "status": "sintesi",
+      "label": "impalcati e lavori di posa"
+    },
+    {
+      "source": "o_paint",
+      "target": "c_reliefs",
+      "status": "documentato",
+      "label": "iconografia dipinta e scolpita"
+    },
+    {
+      "source": "o_paint",
+      "target": "c_columns",
+      "status": "documentato",
+      "label": "decorazione dei sostegni"
+    },
+    {
+      "source": "c_columns",
+      "target": "s_colonnades",
+      "status": "documentato",
+      "label": "portici e sale ipostile"
+    },
+    {
+      "source": "c_columns",
+      "target": "s_temples",
+      "status": "documentato",
+      "label": "templi dei Guerrieri"
+    },
+    {
+      "source": "c_vaults",
+      "target": "s_temples",
+      "status": "documentato",
+      "label": "celle e camere"
+    },
+    {
+      "source": "c_vaults",
+      "target": "s_residential",
+      "status": "documentato",
+      "label": "edifici abitativi"
+    },
+    {
+      "source": "c_reliefs",
+      "target": "s_ballcourt",
+      "status": "documentato",
+      "label": "pannelli rituali"
+    },
+    {
+      "source": "c_reliefs",
+      "target": "s_temples",
+      "status": "documentato",
+      "label": "decorazione simbolica"
+    },
+    {
+      "source": "c_reliefs",
+      "target": "s_colonnades",
+      "status": "documentato",
+      "label": "immagini di guerrieri e processioni"
+    },
+    {
+      "source": "c_pavements",
+      "target": "s_ballcourt",
+      "status": "documentato",
+      "label": "campo e piattaforme"
+    },
+    {
+      "source": "c_pavements",
+      "target": "s_residential",
+      "status": "documentato",
+      "label": "sacbeob e piazze"
+    },
+    {
+      "source": "c_pavements",
+      "target": "s_temples",
+      "status": "documentato",
+      "label": "basamenti e scale"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Kumasi asante",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Governo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Asantehene, consigli e capi",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Tributo, esercito e messaggeri",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Terra, legno e paglia",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Cortili, rilievi e manutenzione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Oro e artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Pesi d’oro e fusione",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Kente, legno e regalia",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Kola, oro e sale",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Rotte verso costa e Sahel",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Ritualità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Sgabello d’Oro e antenati",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Santuari e cerimonie pubbliche",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

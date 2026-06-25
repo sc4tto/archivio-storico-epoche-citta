@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Manila spagnola e rivoluzionaria",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Porto e commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Dogane, cabotaggio e linee oceaniche",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Tabacco, zucchero, abaca e riso",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Amministrazione coloniale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Intramuros, ordini religiosi e municipi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Monopoli, censimenti e polizia",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Rischi urbani",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Terremoti, tifoni e incendi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Ricostruzioni e adattamenti edilizi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Trasporti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Pasig, ponti e porti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Ferrovia, tranvia e telegrafo",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Società e rivoluzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Comunità filippine, cinesi ed europee",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Propaganda, rivoluzione e repressione",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

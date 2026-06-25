@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Tokyo, ricerca, trasporti, invecchiamento e resilienza",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Ingegneria sismica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Isolamento, dissipazione e codici edilizi",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Valutazione del rischio e ricostruzione preventiva",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mobilità ferroviaria",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Metro, JR, ferrovie private e interscambi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Orari, capacità e accessibilità universale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Demografia e welfare",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Invecchiamento, cura e abitazioni adattive",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Automazione, lavoro e inclusione sociale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Clima urbano",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Calore, piogge, argini e drenaggio",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Decarbonizzazione, energia e verde urbano",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Ricerca e digitalizzazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Università, imprese e laboratori",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Digital twin, dati e servizi pubblici",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

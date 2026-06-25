@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Koster conserva molte occupazioni separate in una profonda sequenza alluvionale",
+    "theme": "Stratigrafia",
+    "status": "documentato",
+    "source": "KOSTER_BOOK"
+  },
+  {
+    "claim": "Sono documentate strutture domestiche, fosse e focolari arcaici",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "KOSTER_CAA"
+  },
+  {
+    "claim": "Il sito ha restituito antiche sepolture canine",
+    "theme": "Animali",
+    "status": "documentato",
+    "source": "KOSTER_DOGS"
+  },
+  {
+    "claim": "La macinazione di piante era importante nelle attività domestiche",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "KOSTER_BOOK"
+  },
+  {
+    "claim": "Le occupazioni mostrano una crescente stabilità in alcune fasi",
+    "theme": "Sedentarietà",
+    "status": "sintesi",
+    "source": "KOSTER_BOOK"
+  },
+  {
+    "claim": "Tutte le venticinque occupazioni appartengono alla stessa comunità",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Orizzonti separati nel tempo"
+  },
+  {
+    "claim": "I cani erano allevati principalmente come alimento",
+    "theme": "Animali",
+    "status": "non_documentato",
+    "source": "Sepolture intenzionali non dimostrano tale uso"
+  },
+  {
+    "claim": "Koster fu una città permanente",
+    "theme": "Urbanizzazione",
+    "status": "non_documentato",
+    "source": "Insediamenti arcaici, non città"
+  }
+]

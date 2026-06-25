@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_91_P8_Oceania_Pacifico_5_Centri_v1",
+  "macroregion": "Oceania e Pacifico",
+  "centers": [
+    "01_Sydney_Metropolitana_Portuale_Bellica",
+    "02_Melbourne_Industriale_Welfare_Guerra",
+    "03_Auckland_Portuale_Tranvie_Guerra",
+    "04_Wellington_Capitale_Welfare_Guerra",
+    "05_Broken_Hill_Mineraria_Sindacale"
+  ],
+  "uses_central_assets": true
+}

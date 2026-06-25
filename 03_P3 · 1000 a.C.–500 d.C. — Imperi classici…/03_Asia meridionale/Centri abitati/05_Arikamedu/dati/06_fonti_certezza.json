@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Arikamedu fu un importante centro portuale e artigiano della prima età storica",
+    "theme": "Economia",
+    "status": "documentato",
+    "source": "ARI_UNESCO"
+  },
+  {
+    "claim": "Il sito ha restituito numerose anfore mediterranee e terra sigillata",
+    "theme": "Commercio",
+    "status": "documentato",
+    "source": "ARI_UNESCO"
+  },
+  {
+    "claim": "Sono documentate produzioni e lavorazioni di perle",
+    "theme": "Artigianato",
+    "status": "documentato",
+    "source": "ARI_BEGLEY"
+  },
+  {
+    "claim": "La sequenza comprende fasi anteriori e posteriori al massimo traffico mediterraneo",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "ARI_BEGLEY"
+  },
+  {
+    "claim": "Il porto partecipava anche a reti regionali dell’Oceano Indiano",
+    "theme": "Reti",
+    "status": "documentato",
+    "source": "ARI_UNESCO"
+  },
+  {
+    "claim": "Arikamedu era una colonia romana amministrata direttamente da Roma",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Commercio e presenza di importazioni non provano controllo politico"
+  },
+  {
+    "claim": "Ogni vasca serviva certamente alla tintura dei tessuti",
+    "theme": "Funzione",
+    "status": "non_documentato",
+    "source": "Interpretazione funzionale discussa"
+  },
+  {
+    "claim": "Tutta la rouletted ware era importata dal Mediterraneo",
+    "theme": "Ceramica",
+    "status": "non_documentato",
+    "source": "Produzioni e circolazioni complesse"
+  }
+]

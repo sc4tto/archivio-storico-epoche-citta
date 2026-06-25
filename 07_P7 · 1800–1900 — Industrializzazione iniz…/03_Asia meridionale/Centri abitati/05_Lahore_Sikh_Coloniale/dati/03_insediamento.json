@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1800–1820",
+    "1820–1840",
+    "1840–1860",
+    "1860–1880",
+    "1880–1900"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Lahore capitale dell’impero sikh di Ranjit Singh",
+      "lane": "Politica",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Restauri, riusi e trasformazioni del Forte e dei giardini",
+      "lane": "Architettura",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Annessione britannica del Punjab nel 1849",
+      "lane": "Trasformazioni",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Costruzione di cantonment, stazione e uffici coloniali",
+      "lane": "Urbanistica",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Espansione ferroviaria e integrazione dei mercati del Punjab",
+      "lane": "Infrastrutture",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Canali irrigui e crescita della produzione agricola regionale",
+      "lane": "Economia",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Collegi, stampa, museo e nuove associazioni religiose e politiche",
+      "lane": "Cultura",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Partizione del 1947 esclusa dal modulo",
+      "lane": "Cronologia",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

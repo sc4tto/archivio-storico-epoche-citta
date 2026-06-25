@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Oaxaca de Antequera fu impostata secondo una griglia coloniale nella valle di Oaxaca.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "OA1; OA3"
+  },
+  {
+    "claim": "Edifici massicci e bassi rispondevano al rischio sismico.",
+    "theme": "tecniche",
+    "status": "documentato",
+    "source": "OA1"
+  },
+  {
+    "claim": "Santo Domingo e altri conventi segnarono il paesaggio urbano.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "OA1; OA5"
+  },
+  {
+    "claim": "La cocciniglia fu una merce centrale dell’economia regionale.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "OA3; OA4"
+  },
+  {
+    "claim": "Comunità zapoteche e mixteche continuarono a strutturare il territorio.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "OA1; OA4"
+  },
+  {
+    "claim": "Mercati e rotte collegavano valli, Mixteca e istmo.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "OA3; OA5"
+  },
+  {
+    "claim": "Tributo e lavoro coercitivo coloniale gravarono sulle comunità indigene.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "OA2; OA4"
+  },
+  {
+    "claim": "Le trasformazioni successive al 1800 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "OA3"
+  }
+]

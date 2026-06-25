@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1970–1979",
+    "1980–1989",
+    "1990–1999",
+    "2000–2009",
+    "2010–25 giugno 2026"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Apertura del Metro nel 1975 e successiva espansione",
+      "lane": "Mobilità",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Dittatura militare, repressione e trasformazioni neoliberali",
+      "lane": "Politica",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Crescita periferica, vivienda social e segregazione residenziale",
+      "lane": "Insediamento",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Transantiago dal 2007 e integrazione con Metro",
+      "lane": "Mobilità",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Red Movilidad ed elettrificazione degli autobus",
+      "lane": "Mobilità",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Smog, restrizioni e politiche per la qualità dell’aria",
+      "lane": "Ambiente",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Mobilitazioni del 2019 e violazioni dei diritti umani",
+      "lane": "Diritti",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Piano climatico regionale con obiettivi 2030–2050 come piano futuro",
+      "lane": "Pianificazione",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

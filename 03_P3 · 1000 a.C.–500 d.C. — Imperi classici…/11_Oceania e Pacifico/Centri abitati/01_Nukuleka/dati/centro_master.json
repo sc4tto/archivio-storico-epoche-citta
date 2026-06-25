@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Nukuleka — modulo multi-grafo",
+    "short_name": "Nukuleka",
+    "site": "Insediamento Lapita e Polynesian Plainware di Nukuleka",
+    "modern_location": "Tongatapu, Regno di Tonga",
+    "coordinates": {
+      "lat": -21.137,
+      "lon": -175.048
+    },
+    "scope": "Insediamento costiero fondatore della Polinesia occidentale, occupato dalla fase Lapita intorno al IX secolo a.C. e sviluppato su un’estesa penisola lagunare; conserva ceramiche decorate, ceramiche comuni, strumenti in corallo, conchiglia e pietra e una lunga sequenza di uso del paesaggio costiero.",
+    "version": "1.0-blocco_36_p3_oceania_pacifico_5_centri_v1",
+    "warning": "L’espressione “colonia fondatrice” è una ricostruzione archeologica, non la prova di un unico evento politico. La data U/Th di 2838±8 BP riguarda un abrasore in corallo associato al primo approdo; non data automaticamente ogni deposito del sito."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "NUK_PLOS",
+      "title": "Burley, Weisler e Zhao — High Precision U/Th Dating of First Polynesian Settlement",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0048769",
+      "use": "cronologia, stratigrafia, abrasori in corallo e sviluppo del sito"
+    },
+    {
+      "id": "NUK_JPA",
+      "title": "Burley et al. — Nukuleka as a founder colony for West Polynesian settlement",
+      "url": "https://pacificarchaeology.org/index.php/journal/article/view/56",
+      "use": "ceramiche, estensione e interpretazione del centro fondatore"
+    },
+    {
+      "id": "NUK_POU",
+      "title": "Poulsen — Early Tongan Prehistory",
+      "url": "https://openresearch-repository.anu.edu.au/handle/1885/105224",
+      "use": "sequenza Lapita e Plainware di Tonga"
+    }
+  ]
+}

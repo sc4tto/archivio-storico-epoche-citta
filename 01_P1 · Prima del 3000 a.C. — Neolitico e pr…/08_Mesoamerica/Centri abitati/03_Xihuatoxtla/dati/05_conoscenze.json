@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Xihuatoxtla",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Mais",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Riconoscimento del teosinte",
+          "status": "sintesi"
+        },
+        {
+          "id": "k1_2",
+          "label": "Coltivazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Macinazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Microresidui",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Amidi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Fitoliti",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Controllo stratigrafico",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Zucca",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Raccolta",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_2",
+          "label": "Gestione",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Uso alimentare o tecnico",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Ambiente",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Stagione secca",
+          "status": "inferito"
+        },
+        {
+          "id": "k4_2",
+          "label": "Piogge estive",
+          "status": "inferito"
+        },
+        {
+          "id": "k4_3",
+          "label": "Uso delle radure",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Litica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Macinazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Scheggiatura",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Manutenzione degli strumenti",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Insediamento",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Uso ricorrente del riparo",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Campi vicini",
+          "status": "inferito"
+        },
+        {
+          "id": "k6_3",
+          "label": "Villaggio permanente",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

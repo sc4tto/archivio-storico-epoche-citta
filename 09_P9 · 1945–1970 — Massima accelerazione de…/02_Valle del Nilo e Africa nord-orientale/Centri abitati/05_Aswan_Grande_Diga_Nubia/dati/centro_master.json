@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Aswan, Grande Diga e trasformazione della Nubia",
+    "site": "Aswan, Grande Diga e trasformazione della Nubia",
+    "modern_location": "Aswan, Egitto",
+    "coordinates": {
+      "lat": 24.0889,
+      "lon": 32.8998
+    },
+    "scope": "Aswan fra 1945 e 1970: diga bassa, avvio e completamento della Grande Diga, Lago Nasser, energia idroelettrica, irrigazione, salvataggio dei monumenti nubiani e reinsediamenti.",
+    "version": "1.0",
+    "warning": "Sono escluse la gestione successiva al 1970, le trasformazioni turistiche tarde e gli effetti ambientali di lungo periodo non ancora osservabili entro la fine del modulo."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "AS1",
+      "title": "UNESCO — Nubian Monuments from Abu Simbel to Philae",
+      "use": "Campagna internazionale di salvataggio e paesaggio nubiano.",
+      "url": "https://whc.unesco.org/en/list/88/"
+    },
+    {
+      "id": "AS2",
+      "title": "Encyclopaedia Britannica — Aswan High Dam",
+      "use": "Costruzione, funzioni e conseguenze della diga.",
+      "url": "https://www.britannica.com/topic/Aswan-High-Dam"
+    },
+    {
+      "id": "AS3",
+      "title": "International Commission on Large Dams",
+      "use": "Dati tecnici e storia delle grandi dighe.",
+      "url": "https://www.icold-cigb.org/"
+    },
+    {
+      "id": "AS4",
+      "title": "UNESCO — International Campaign to Save the Monuments of Nubia",
+      "use": "Trasferimento dei templi e cooperazione internazionale.",
+      "url": "https://www.unesco.org/en/campaign/nubia"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Lothal comprendeva città alta e bassa all’interno di una cinta",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "LOTHAL_UNESCO"
+  },
+  {
+    "claim": "È documentata una grande officina per la produzione di perle",
+    "theme": "Artigianato",
+    "status": "documentato",
+    "source": "LOTHAL_UNESCO"
+  },
+  {
+    "claim": "La piattaforma del magazzino conserva indizi di sigillature",
+    "theme": "Amministrazione",
+    "status": "documentato",
+    "source": "LOTHAL_UNESCO"
+  },
+  {
+    "claim": "La grande vasca disponeva di strutture interpretate come ingresso e uscita dell’acqua",
+    "theme": "Acqua",
+    "status": "documentato",
+    "source": "LOTHAL_UNESCO"
+  },
+  {
+    "claim": "Conchiglie, ancore e beni esotici indicano connessioni marittime",
+    "theme": "Scambi",
+    "status": "sintesi",
+    "source": "LOTHAL_UNESCO"
+  },
+  {
+    "claim": "La grande vasca era certamente il porto più antico del mondo",
+    "theme": "Funzione",
+    "status": "non_documentato",
+    "source": "Interpretazione contestata da LOTHAL_LESHNIK"
+  },
+  {
+    "claim": "Lothal dipendeva soltanto dal commercio e non dall’agricoltura",
+    "theme": "Economia",
+    "status": "non_documentato",
+    "source": "Economia mista agricola, artigianale e commerciale"
+  },
+  {
+    "claim": "Le inondazioni causarono un abbandono immediato e definitivo",
+    "theme": "Declino",
+    "status": "non_documentato",
+    "source": "Ricostruzioni e fasi tarde"
+  }
+]

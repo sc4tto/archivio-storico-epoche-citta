@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Bagan, capitale dell’Impero Pagan",
+    "site": "Bagan–Pagan",
+    "modern_location": "Regione di Mandalay, Myanmar",
+    "coordinates": {
+      "lat": 21.1717,
+      "lon": 94.8585
+    },
+    "scope": "Bagan fra 1000 e 1500: formazione dell’impero Pagan, massimo sviluppo monumentale, crisi del XIII secolo e continuità religiosa e insediativa nei secoli successivi.",
+    "version": "1.0",
+    "warning": "Il modulo distingue la capitale politica dell’XI–XIII secolo dalla persistenza del paesaggio di pellegrinaggio dopo la frammentazione del regno."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "BG1",
+      "title": "UNESCO — Bagan",
+      "use": "Paesaggio sacro, monumenti, iscrizioni e impero dell’XI–XIII secolo.",
+      "url": "https://whc.unesco.org/en/list/1588/"
+    },
+    {
+      "id": "BG2",
+      "title": "Encyclopaedia Britannica — Pagan",
+      "use": "Storia del regno Pagan e della capitale.",
+      "url": "https://www.britannica.com/place/Pagan-Myanmar"
+    },
+    {
+      "id": "BG3",
+      "title": "The Metropolitan Museum of Art — Art of Myanmar",
+      "use": "Buddhismo, scultura e tradizioni artistiche birmane.",
+      "url": "https://www.metmuseum.org/toah/hd/myan/hd_myan.htm"
+    },
+    {
+      "id": "BG4",
+      "title": "UNESCO Nomination — Bagan",
+      "use": "Archeologia, agricoltura, gestione e paesaggio culturale.",
+      "url": "https://whc.unesco.org/en/list/1588/documents/"
+    },
+    {
+      "id": "BG5",
+      "title": "British Museum — Myanmar collections",
+      "use": "Ceramiche, immagini buddhiste e cultura materiale.",
+      "url": "https://www.britishmuseum.org/collection/galleries/china-and-south-asia"
+    }
+  ]
+}

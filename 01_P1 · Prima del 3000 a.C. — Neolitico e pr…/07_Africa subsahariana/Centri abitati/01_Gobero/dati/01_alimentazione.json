@@ -1,0 +1,228 @@
+{
+  "nodes": [
+    {
+      "id": "env1",
+      "label": "Paleolago d’acqua dolce e dune stabilizzate",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "env2",
+      "label": "Savana umida del Sahara verde",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "env3",
+      "label": "Fasi di aridità e ritorno delle acque",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "crop1",
+      "label": "Semi e piante della savana",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "crop2",
+      "label": "Tuberi e frutti selvatici",
+      "layer": 1,
+      "status": "inferito"
+    },
+    {
+      "id": "animal",
+      "label": "Antilopi, bovidi e altra fauna terrestre",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "aquatic",
+      "label": "Pesci, tartarughe e molluschi",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "wild",
+      "label": "Piccola selvaggina e uccelli",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "cultivate",
+      "label": "Raccolta selettiva di piante",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "herd",
+      "label": "Caccia e gestione delle prede",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "fishhunt",
+      "label": "Pesca e raccolta lacustre",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "grind",
+      "label": "Macinazione con macine e pestelli",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "cook",
+      "label": "Cottura in recipienti e su focolari",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "store",
+      "label": "Essiccazione e conservazione stagionale",
+      "layer": 3,
+      "status": "inferito"
+    },
+    {
+      "id": "butcher",
+      "label": "Macellazione e lavorazione del pesce",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "meals",
+      "label": "Pasti di pescatori-cacciatori-raccoglitori",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "evidence",
+      "label": "Ossa, ceramica, utensili e sepolture",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "refuse",
+      "label": "Scarti faunistici e residui di combustione",
+      "layer": 4,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "env1",
+      "target": "crop1",
+      "label": "ambiente produttivo",
+      "status": "sintesi"
+    },
+    {
+      "source": "env1",
+      "target": "crop2",
+      "label": "ambiente produttivo",
+      "status": "sintesi"
+    },
+    {
+      "source": "env2",
+      "target": "aquatic",
+      "label": "risorse locali",
+      "status": "sintesi"
+    },
+    {
+      "source": "env3",
+      "target": "animal",
+      "label": "habitat animale",
+      "status": "sintesi"
+    },
+    {
+      "source": "env3",
+      "target": "wild",
+      "label": "raccolta e caccia",
+      "status": "sintesi"
+    },
+    {
+      "source": "crop1",
+      "target": "cultivate",
+      "label": "produzione o raccolta",
+      "status": "sintesi"
+    },
+    {
+      "source": "crop2",
+      "target": "cultivate",
+      "label": "produzione o raccolta",
+      "status": "sintesi"
+    },
+    {
+      "source": "animal",
+      "target": "herd",
+      "label": "gestione o cattura",
+      "status": "documentato"
+    },
+    {
+      "source": "aquatic",
+      "target": "fishhunt",
+      "label": "pesca o raccolta",
+      "status": "documentato"
+    },
+    {
+      "source": "wild",
+      "target": "fishhunt",
+      "label": "caccia o raccolta",
+      "status": "documentato"
+    },
+    {
+      "source": "cultivate",
+      "target": "grind",
+      "label": "trasformazione vegetale",
+      "status": "documentato"
+    },
+    {
+      "source": "cultivate",
+      "target": "store",
+      "label": "conservazione",
+      "status": "inferito"
+    },
+    {
+      "source": "herd",
+      "target": "butcher",
+      "label": "prodotti animali",
+      "status": "documentato"
+    },
+    {
+      "source": "fishhunt",
+      "target": "butcher",
+      "label": "trattamento delle prede",
+      "status": "documentato"
+    },
+    {
+      "source": "grind",
+      "target": "meals",
+      "label": "preparazione",
+      "status": "sintesi"
+    },
+    {
+      "source": "cook",
+      "target": "meals",
+      "label": "cottura",
+      "status": "sintesi"
+    },
+    {
+      "source": "store",
+      "target": "evidence",
+      "label": "contenitori o depositi",
+      "status": "documentato"
+    },
+    {
+      "source": "butcher",
+      "target": "evidence",
+      "label": "resti faunistici",
+      "status": "documentato"
+    },
+    {
+      "source": "cook",
+      "target": "refuse",
+      "label": "cenere e residui",
+      "status": "documentato"
+    }
+  ]
+}

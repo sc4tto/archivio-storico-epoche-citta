@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Guadalajara",
+      "lat": 20.6597,
+      "lon": -103.3496,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "cha",
+      "label": "Chapala e Ciénega",
+      "lat": 20.3,
+      "lon": -103.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "teq",
+      "label": "Tequila e valle dell’agave",
+      "lat": 20.88,
+      "lon": -103.84,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "alt",
+      "label": "Altos de Jalisco",
+      "lat": 21.2,
+      "lon": -102.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "man",
+      "label": "Manzanillo e Pacifico",
+      "lat": 19.05,
+      "lon": -104.32,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "baj",
+      "label": "Bajío",
+      "lat": 20.8,
+      "lon": -101.4,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "mex",
+      "label": "Città del Messico",
+      "lat": 19.43,
+      "lon": -99.13,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "cha",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e ferrovia",
+      "food": "pesce, mais, ortaggi e acqua"
+    },
+    {
+      "source": "teq",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e camion",
+      "food": "agave, distillati e lavoro stagionale"
+    },
+    {
+      "source": "alt",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade regionali",
+      "food": "carne, latte, formaggi e cereali"
+    },
+    {
+      "source": "man",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia al Pacifico",
+      "food": "merci oceaniche, sale e combustibili"
+    },
+    {
+      "source": "baj",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete ferroviaria",
+      "food": "grano, bestiame, tessili e capitali"
+    },
+    {
+      "source": "mex",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia nazionale",
+      "food": "istituzioni, domanda e merci industriali"
+    }
+  ]
+}

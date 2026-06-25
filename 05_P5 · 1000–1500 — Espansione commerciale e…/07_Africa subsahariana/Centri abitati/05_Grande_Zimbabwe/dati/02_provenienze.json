@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Grande Zimbabwe",
+      "lat": -20.268,
+      "lon": 30.934,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "lim",
+      "label": "Valle del Limpopo",
+      "lat": -22.0,
+      "lon": 30.0,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "zam",
+      "label": "Zambezi medio",
+      "lat": -17.8,
+      "lon": 31.0,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "gol",
+      "label": "Distretti auriferi dell’altopiano",
+      "lat": -19.0,
+      "lon": 29.0,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "sof",
+      "label": "Sofala",
+      "lat": -20.17,
+      "lon": 34.73,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "kil",
+      "label": "Kilwa Kisiwani",
+      "lat": -8.96,
+      "lon": 39.52,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "ind",
+      "label": "Oceano Indiano",
+      "lat": -10.0,
+      "lon": 55.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "lim",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti regionali",
+      "food": "bestiame, cereali e rame"
+    },
+    {
+      "source": "zam",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte fluviali e terrestri",
+      "food": "avorio e derrate"
+    },
+    {
+      "source": "gol",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "estrazione e scambio",
+      "food": "oro"
+    },
+    {
+      "source": "sof",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoi verso la costa",
+      "food": "sale, perline e tessuti"
+    },
+    {
+      "source": "kil",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "reti swahili indirette",
+      "food": "ceramiche e manufatti"
+    },
+    {
+      "source": "ind",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "commercio tramite intermediari costieri",
+      "food": "perline, vetro e tessuti"
+    }
+  ]
+}

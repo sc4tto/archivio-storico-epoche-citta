@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Lahore fu la capitale dell’impero sikh di Ranjit Singh.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "LA1; LA2"
+  },
+  {
+    "claim": "Il Punjab fu annesso dai britannici nel 1849.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "LA2; LA4"
+  },
+  {
+    "claim": "La ferrovia trasformò Lahore in un nodo amministrativo e commerciale regionale.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "LA2; LA5"
+  },
+  {
+    "claim": "La città murata mantenne bazar, artigianato e istituzioni religiose plurali.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "LA1; LA2"
+  },
+  {
+    "claim": "Civil Station e cantonment introdussero una geografia coloniale separata.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "LA2; LA4"
+  },
+  {
+    "claim": "Collegi, stampa e Lahore Museum ampliarono la vita culturale di fine secolo.",
+    "theme": "cultura",
+    "status": "documentato",
+    "source": "LA3; LA4"
+  },
+  {
+    "claim": "Canali e ferrovie integrarono la città con un’agricoltura regionale riorganizzata dal potere coloniale.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "LA2; LA5"
+  },
+  {
+    "claim": "La partizione del 1947 è esclusa dal modulo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "LA2"
+  }
+]

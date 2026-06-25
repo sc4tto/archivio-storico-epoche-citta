@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Manila–Intramuros spagnola",
+    "site": "Manila–Intramuros spagnola",
+    "modern_location": "Manila, Filippine",
+    "coordinates": {
+      "lat": 14.5896,
+      "lon": 120.9747
+    },
+    "scope": "Manila fra 1571 e 1800: Intramuros e i sobborghi sul Pasig, capitale coloniale, porto del galeone, centro ecclesiastico, commerciale e militare.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1800. Le trasformazioni statunitensi, la distruzione del 1945 e le ricostruzioni contemporanee di Intramuros sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MN1",
+      "title": "Intramuros Administration — Official site",
+      "use": "Storia, fortificazioni e patrimonio della città murata.",
+      "url": "https://intramuros.gov.ph/"
+    },
+    {
+      "id": "MN2",
+      "title": "Encyclopaedia Britannica — Manila",
+      "use": "Storia urbana, porto e ruolo coloniale.",
+      "url": "https://www.britannica.com/place/Manila"
+    },
+    {
+      "id": "MN3",
+      "title": "UNESCO — Baroque Churches of the Philippines",
+      "use": "San Agustín e architettura religiosa coloniale.",
+      "url": "https://whc.unesco.org/en/list/677/"
+    },
+    {
+      "id": "MN4",
+      "title": "The Metropolitan Museum of Art — The Manila Galleon Trade",
+      "use": "Scambi fra Asia, Messico ed Europa.",
+      "url": "https://www.metmuseum.org/toah/hd/mgtr/hd_mgtr.htm"
+    },
+    {
+      "id": "MN5",
+      "title": "Official Gazette of the Republic of the Philippines — History",
+      "use": "Contesto amministrativo e coloniale.",
+      "url": "https://www.officialgazette.gov.ph/"
+    }
+  ]
+}

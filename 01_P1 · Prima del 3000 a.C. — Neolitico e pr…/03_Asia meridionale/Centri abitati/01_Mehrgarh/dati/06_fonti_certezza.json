@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "La sequenza di Mehrgarh attraversa il VII–III millennio a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "UNESCO_MEHRGARH"
+  },
+  {
+    "claim": "Sono presenti strutture compartimentate in mattoni crudi",
+    "theme": "Costruzione",
+    "status": "documentato",
+    "source": "UNESCO_MEHRGARH"
+  },
+  {
+    "claim": "Il sito mostra agricoltura, allevamento e crescente specializzazione",
+    "theme": "Economia",
+    "status": "documentato",
+    "source": "UNESCO_MEHRGARH"
+  },
+  {
+    "claim": "Sono documentati cimiteri formali",
+    "theme": "Funerario",
+    "status": "documentato",
+    "source": "UNESCO_MEHRGARH"
+  },
+  {
+    "claim": "Denti perforati attestano una pratica tecnica neolitica",
+    "theme": "Conoscenze",
+    "status": "documentato",
+    "source": "NATURE_DENTISTRY"
+  },
+  {
+    "claim": "Tutte le strutture compartimentate erano granai",
+    "theme": "Funzione",
+    "status": "non_documentato",
+    "source": "La stessa fonte UNESCO segnala incertezza funzionale"
+  },
+  {
+    "claim": "Mehrgarh era già una città nel VII millennio",
+    "theme": "Urbanizzazione",
+    "status": "non_documentato",
+    "source": "Il termine città è anacronistico per le fasi iniziali"
+  },
+  {
+    "claim": "I contatti con l’altopiano iranico implicano migrazioni unidirezionali",
+    "theme": "Popolazione",
+    "status": "non_documentato",
+    "source": "Somiglianze materiali non definiscono da sole movimenti demografici"
+  }
+]

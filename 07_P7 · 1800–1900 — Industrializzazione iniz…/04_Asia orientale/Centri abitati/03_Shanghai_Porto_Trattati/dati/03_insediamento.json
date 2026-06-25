@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1800–1820",
+    "1820–1840",
+    "1840–1860",
+    "1860–1880",
+    "1880–1900"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Città murata e porto regionale Qing all’inizio del secolo",
+      "lane": "Urbanistica",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Apertura come porto dei trattati nel 1843",
+      "lane": "Politica",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Formazione di concessioni britannica, francese e internazionale",
+      "lane": "Trasformazioni",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Afflusso di rifugiati durante la rivolta dei Taiping",
+      "lane": "Società",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Crescita del Bund, delle banche e delle compagnie di navigazione",
+      "lane": "Economia",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Cantieri, filature, illuminazione, tram e reti municipali",
+      "lane": "Infrastrutture",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Segregazione giuridica e spaziale sotto i trattati ineguali",
+      "lane": "Vincoli",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Sviluppi repubblicani e novecenteschi esclusi",
+      "lane": "Cronologia",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

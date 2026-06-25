@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Susa",
+      "lat": 32.19,
+      "lon": 48.257,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "shavur",
+      "label": "Fiume Shavur",
+      "lat": 32.18,
+      "lon": 48.25,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "susiana",
+      "label": "Piana della Susiana",
+      "lat": 32.1,
+      "lon": 48.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "anšan",
+      "label": "Anšan / altopiano di Fars",
+      "lat": 30.0,
+      "lon": 52.4,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "mesopotamia",
+      "label": "Mesopotamia meridionale",
+      "lat": 32.5,
+      "lon": 45.0,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "zagros",
+      "label": "Zagros e vie orientali",
+      "lat": 33.0,
+      "lon": 49.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "shavur",
+      "target": "site",
+      "label": "acqua, pesca e irrigazione",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "susiana",
+      "target": "site",
+      "label": "cereali, greggi e canne",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "anšan",
+      "target": "site",
+      "label": "politica elamita, pietre e metalli",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "mesopotamia",
+      "target": "site",
+      "label": "scrittura, guerra e commercio",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "zagros",
+      "target": "site",
+      "label": "metalli, pietre e corridoi montani",
+      "status": "documentato",
+      "food": "parziale"
+    }
+  ]
+}

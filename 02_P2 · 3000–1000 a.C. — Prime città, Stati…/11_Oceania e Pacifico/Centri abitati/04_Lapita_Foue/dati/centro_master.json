@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Lapita–Foué — modulo multi-grafo",
+    "short_name": "Lapita–Foué",
+    "site": "Sito eponimo Lapita WKO013",
+    "modern_location": "Penisola di Foué presso Koné, Nuova Caledonia",
+    "coordinates": {
+      "lat": -21.05,
+      "lon": 164.83
+    },
+    "scope": "Sito costiero eponimo della cultura Lapita, noto per la ceramica dentellata, gli spazi domestici, la pesca lagunare, la lavorazione della conchiglia e la trasformazione delle tradizioni ceramiche nella provincia Lapita meridionale.",
+    "version": "1.0-blocco_24_p2_oceania_pacifico_5_centri_v1",
+    "warning": "Il termine “Lapita” indica una cultura archeologica ampia, non una popolazione omogenea. Il sito WKO013 ha subito erosione, modifiche costiere e scavi in epoche diverse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "FOUE_SAND",
+      "title": "Sand — Evolutions in the Lapita Cultural Complex: a view from the Southern Lapita Province",
+      "url": "https://scholar.google.com/scholar?q=Sand+Evolutions+Lapita+Southern+Province",
+      "use": "cronologia e trasformazioni della provincia meridionale"
+    },
+    {
+      "id": "FOUE_KONE",
+      "title": "Institut d’archéologie de la Nouvelle-Calédonie et du Pacifique — site de Lapita à Koné",
+      "url": "https://www.iancp.nc/",
+      "use": "contesto locale, conservazione e ricerca"
+    },
+    {
+      "id": "FOUE_KIRCH",
+      "title": "Kirch — The Lapita Peoples",
+      "url": "https://search.worldcat.org/search?q=The+Lapita+Peoples+Kirch",
+      "use": "quadro comparativo della cultura materiale"
+    }
+  ]
+}

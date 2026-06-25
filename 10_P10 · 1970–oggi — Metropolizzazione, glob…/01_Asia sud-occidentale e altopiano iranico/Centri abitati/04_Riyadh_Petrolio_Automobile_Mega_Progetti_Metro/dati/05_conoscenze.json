@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Riyadh, petrolio, espansione automobilistica e metro",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Pianificazione desertica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Uso del suolo, densità, ombra e climatizzazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Drenaggio improvviso, calore estremo e verde urbano",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Acqua ed energia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Desalinizzazione, pompaggio, reti e riuso",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Domanda elevata, perdite e dipendenza energetica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Mobilità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Ring roads, bus, metro e interscambi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Riduzione della dipendenza automobilistica e accessibilità",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Mega-progetti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Finanza, program management e grandi cantieri",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Fasi, costi, interoperabilità e impatti sociali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Lavoro e cittadinanza",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Forza lavoro migrante, competenze e alloggi",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Status giuridico, disuguaglianza e tutela dei lavoratori",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

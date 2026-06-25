@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "m1",
+      "label": "Reti portuali precedenti nello stretto",
+      "lane": "Economia",
+      "start": 0,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "m2",
+      "label": "Fondazione di Melaka intorno al 1400",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "m3",
+      "label": "Formazione del sultanato",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "m4",
+      "label": "Alleanze e rapporti tributari con la Cina Ming",
+      "lane": "Diplomazia",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "m5",
+      "label": "Crescita dei quartieri mercantili",
+      "lane": "Urbanistica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "m6",
+      "label": "Islamizzazione della corte e delle istituzioni",
+      "lane": "Religione",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "m7",
+      "label": "Dazi, pesi e amministrazione del porto",
+      "lane": "Economia",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "m8",
+      "label": "Apogeo commerciale alla fine del XV secolo",
+      "lane": "Economia",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

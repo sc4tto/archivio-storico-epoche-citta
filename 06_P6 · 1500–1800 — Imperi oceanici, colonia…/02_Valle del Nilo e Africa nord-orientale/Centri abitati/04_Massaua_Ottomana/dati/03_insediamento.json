@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1500–1560",
+    "1560–1620",
+    "1620–1680",
+    "1680–1740",
+    "1740–1800"
+  ],
+  "items": [
+    {
+      "id": "ma1",
+      "label": "Occupazione ottomana del porto",
+      "lane": "Politica",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ma2",
+      "label": "Formazione dell’eyalet di Habesh",
+      "lane": "Amministrazione",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ma3",
+      "label": "Governo locale dei naib",
+      "lane": "Politica",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ma4",
+      "label": "Dogane e commercio con l’altopiano",
+      "lane": "Economia",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ma5",
+      "label": "Moschee, magazzini e case in corallo",
+      "lane": "Costruzione",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ma6",
+      "label": "Concorrenza portoghese e mutamento delle rotte",
+      "lane": "Conflitti",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ma7",
+      "label": "Pellegrinaggi e traffici con Arabia e Yemen",
+      "lane": "Mobilità",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ma8",
+      "label": "Persistenza del porto fino alle riforme ottocentesche",
+      "lane": "Continuità",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

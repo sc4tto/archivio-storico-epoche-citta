@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Napata–Gebel Barkal — modulo multi-grafo",
+    "short_name": "Napata–Gebel Barkal",
+    "site": "Napata e il paesaggio sacro di Gebel Barkal",
+    "modern_location": "Karima e Gebel Barkal, Stato Settentrionale, Sudan",
+    "coordinates": {
+      "lat": 18.537,
+      "lon": 31.838
+    },
+    "scope": "Centro politico e religioso del regno di Kush nell’area della quarta cateratta, con il santuario di Amon a Gebel Barkal, palazzi, abitati e necropoli con piramidi a El-Kurru e Nuri.",
+    "version": "1.0-blocco_27_p3_valle_nilo_5_centri_v1",
+    "warning": "Napata indica un sistema di siti distribuiti, non una città compatta chiaramente delimitata. Il modulo separa fasi napatee e meroitiche e distingue i diversi complessi funerari."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "NAP_UNESCO",
+      "title": "UNESCO — Gebel Barkal and the Sites of the Napatan Region",
+      "url": "https://whc.unesco.org/en/list/1073/",
+      "use": "cinque componenti, templi, palazzi e necropoli"
+    },
+    {
+      "id": "NAP_MFA",
+      "title": "Museum of Fine Arts Boston — Jebel Barkal Expedition",
+      "url": "https://www.mfa.org/",
+      "use": "scavi storici, statue regali e templi"
+    },
+    {
+      "id": "NAP_MISSION",
+      "title": "Jebel Barkal Archaeological Project",
+      "url": "https://jebelbarkal.org/",
+      "use": "ricerca sul santuario, palazzi e paesaggio"
+    }
+  ]
+}

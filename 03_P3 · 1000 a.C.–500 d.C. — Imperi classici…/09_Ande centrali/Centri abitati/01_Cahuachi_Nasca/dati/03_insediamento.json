@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Tradizioni Paracas finali",
+    "Formazione Nasca iniziale",
+    "Crescita monumentale di Cahuachi",
+    "Massima attività cerimoniale",
+    "Trasformazioni e riduzione del centro"
+  ],
+  "items": [
+    {
+      "id": "mounds",
+      "label": "Monticoli naturali modificati e piattaforme",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "greatpyramid",
+      "label": "Grande Piramide e recinti",
+      "lane": "Monumentali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "plazas",
+      "label": "Piazze e spazi per riunioni",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "offerings",
+      "label": "Depositi di offerte e tessili",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "workshops",
+      "label": "Aree di preparazione e produzione",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "geoglyphs",
+      "label": "Geoglifi e percorsi nel paesaggio",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "irrigation",
+      "label": "Canali, puquios e campi di valle",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

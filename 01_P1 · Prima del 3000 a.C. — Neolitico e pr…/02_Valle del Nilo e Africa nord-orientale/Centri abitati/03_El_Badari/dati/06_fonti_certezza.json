@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "La cultura badariana documenta agricoltura e allevamento nell’Alto Egitto",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "BADARI_PPS"
+  },
+  {
+    "claim": "La regione comprende più insediamenti e necropoli",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "BADARI_PPS"
+  },
+  {
+    "claim": "La ceramica fine lucidata è un tratto distintivo",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "BADARI_VOLUME"
+  },
+  {
+    "claim": "I corredi funerari mostrano differenze tra tombe",
+    "theme": "Società",
+    "status": "documentato",
+    "source": "BADARI_VOLUME"
+  },
+  {
+    "claim": "Conchiglie e pietre attestano reti regionali",
+    "theme": "Provenienze",
+    "status": "sintesi",
+    "source": "BADARI_VOLUME"
+  },
+  {
+    "claim": "Ogni oggetto esotico fu importato direttamente dal luogo di origine",
+    "theme": "Scambi",
+    "status": "non_documentato",
+    "source": "Le reti potevano comprendere più passaggi"
+  },
+  {
+    "claim": "Le differenze funerarie equivalgono a classi sociali formalizzate",
+    "theme": "Società",
+    "status": "non_documentato",
+    "source": "I corredi non definiscono da soli istituzioni politiche"
+  },
+  {
+    "claim": "Tutte le località badariane erano un solo centro",
+    "theme": "Geografia",
+    "status": "non_documentato",
+    "source": "El-Badari è un complesso regionale"
+  }
+]

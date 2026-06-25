@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Cairo rimase la capitale politica dell’Egitto durante il XIX secolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "CA1; CA2"
+  },
+  {
+    "claim": "Le riforme di Muhammad Ali ampliarono esercito, amministrazione e manifatture.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "CA2; CA4"
+  },
+  {
+    "claim": "La ferrovia con Alessandria rafforzò la circolazione fra capitale, Delta e porto.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "CA2; CA5"
+  },
+  {
+    "claim": "Ismail promosse nuovi quartieri, assi e servizi urbani.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "CA2; CA4"
+  },
+  {
+    "claim": "Il tessuto storico islamico continuò a convivere con le espansioni khediviali.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "CA1; CA3"
+  },
+  {
+    "claim": "Epidemie e condizioni sanitarie motivarono nuovi interventi pubblici.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "CA2; CA4"
+  },
+  {
+    "claim": "Debito e controllo finanziario europeo limitarono l’autonomia egiziana.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "CA2"
+  },
+  {
+    "claim": "Le trasformazioni successive al 1900 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "CA1; CA2"
+  }
+]

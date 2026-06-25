@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Prime occupazioni pleistoceniche",
+    "Fase antica stratificata",
+    "Ultimo massimo glaciale",
+    "Olocene iniziale",
+    "Occupazioni tarde"
+  ],
+  "items": [
+    {
+      "id": "occ",
+      "label": "Occupazioni ripetute del riparo",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "hearth",
+      "label": "Focolari e superfici di attività",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "grind",
+      "label": "Uso di macine",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "axes",
+      "label": "Asce a margine levigato",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ochre",
+      "label": "Preparazione di pigmenti",
+      "lane": "Rituali",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "plants",
+      "label": "Sfruttamento di piante tropicali",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "burials",
+      "label": "Deposizioni umane in fasi tarde",
+      "lane": "Funerarie",
+      "start": 3,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

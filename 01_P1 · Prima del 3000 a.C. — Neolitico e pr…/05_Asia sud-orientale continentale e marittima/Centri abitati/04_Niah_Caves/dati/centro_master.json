@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Niah Caves — modulo multi-grafo",
+    "short_name": "Niah Caves",
+    "site": "Niah Caves",
+    "modern_location": "Parco nazionale di Niah, Sarawak, Malaysia",
+    "coordinates": {
+      "lat": 3.8043,
+      "lon": 113.7808
+    },
+    "scope": "Sequenza dal Pleistocene all’Olocene medio; nel P1 si considerano le occupazioni di foraggiatori, la gestione della foresta e le trasformazioni verso economie produttive",
+    "version": "1.0-blocco_06_p1_asia_sud_orientale_5_centri_v1",
+    "warning": "Il complesso copre decine di millenni e numerose cavità. Pitture e sepolture a forma di barca appartengono in gran parte a fasi posteriori e non sono trasferite automaticamente al P1."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "UNESCO_NIAH",
+      "title": "UNESCO World Heritage Centre — Archaeological Heritage of Niah National Park’s Caves Complex",
+      "url": "https://whc.unesco.org/en/list/1014/",
+      "use": "sequenza di almeno 50.000 anni, foresta, insediamento e pratiche funerarie"
+    },
+    {
+      "id": "NIAH_JHE",
+      "title": "Barker et al. — The human revolution in lowland tropical Southeast Asia: Niah Cave",
+      "url": "https://doi.org/10.1016/j.jhevol.2006.08.011",
+      "use": "cronologia, strategie di adattamento e uso della foresta"
+    },
+    {
+      "id": "NIAH_PROJECT",
+      "title": "University of Leicester — The Niah Cave Project",
+      "url": "https://le.ac.uk/archaeology/research/projects/niah-cave",
+      "use": "riscavo, stratigrafia e ricerche interdisciplinari"
+    }
+  ]
+}

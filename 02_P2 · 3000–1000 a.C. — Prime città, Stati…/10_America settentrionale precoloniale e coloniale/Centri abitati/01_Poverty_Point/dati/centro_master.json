@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Poverty Point — modulo multi-grafo",
+    "short_name": "Poverty Point",
+    "site": "Monumental Earthworks of Poverty Point",
+    "modern_location": "Macon Ridge presso Epps, Louisiana, Stati Uniti",
+    "coordinates": {
+      "lat": 32.6375,
+      "lon": -91.4072
+    },
+    "scope": "Grande complesso del Tardo Arcaico, costruito soprattutto fra circa 1700 e 1100 a.C., con sei creste concentriche, piazza centrale, grandi tumuli e una rete di scambi estesa nel Nord America orientale.",
+    "version": "1.0-blocco_23_p2_america_settentrionale_5_centri_v1",
+    "warning": "La funzione esatta del complesso e il grado di residenza permanente sono discussi. Le interpretazioni come città, centro cerimoniale o luogo di raduno non sono equivalenti a dati direttamente osservabili."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "PP_UNESCO",
+      "title": "UNESCO — Monumental Earthworks of Poverty Point",
+      "url": "https://whc.unesco.org/en/list/1435/",
+      "use": "cronologia, struttura monumentale e reti di scambio"
+    },
+    {
+      "id": "PP_STATE",
+      "title": "Louisiana State Parks — Poverty Point World Heritage Site",
+      "url": "https://www.lastateparks.com/historic-sites/poverty-point-world-heritage-site",
+      "use": "descrizione istituzionale e conservazione"
+    },
+    {
+      "id": "PP_MOUNDA",
+      "title": "Ortmann e Kidder — Building Mound A at Poverty Point",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/gea.21430",
+      "use": "tecniche e tempi di costruzione del Tumulo A"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Parigi capetingia e valois",
+    "site": "Parigi medievale sulle rive della Senna",
+    "modern_location": "Parigi, Île-de-France, Francia",
+    "coordinates": {
+      "lat": 48.8566,
+      "lon": 2.3522
+    },
+    "scope": "Parigi fra 1000 e 1500: crescita capetingia, università, costruzione gotica, mura di Filippo Augusto e Carlo V, guerra dei Cent’anni e ripresa tardomedievale.",
+    "version": "1.0",
+    "warning": "Il modulo non attribuisce al Medioevo i grandi boulevard, le sistemazioni haussmanniane e i monumenti moderni delle rive della Senna."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "PA1",
+      "title": "UNESCO — Paris, Banks of the Seine",
+      "use": "Sviluppo storico lungo la Senna, Île de la Cité, Louvre e patrimonio urbano.",
+      "url": "https://whc.unesco.org/en/list/600/"
+    },
+    {
+      "id": "PA2",
+      "title": "Musée Carnavalet — Histoire de Paris",
+      "use": "Archeologia, vita urbana e storia di Parigi.",
+      "url": "https://www.carnavalet.paris.fr/"
+    },
+    {
+      "id": "PA3",
+      "title": "Cathédrale Notre-Dame de Paris",
+      "use": "Cattedrale, architettura gotica e storia del monumento.",
+      "url": "https://www.notredamedeparis.fr/"
+    },
+    {
+      "id": "PA4",
+      "title": "Musée du Louvre — History of the Louvre",
+      "use": "Fortezza medievale, palazzo reale e trasformazioni del sito.",
+      "url": "https://www.louvre.fr/en/explore/the-palace/from-the-palace-to-the-museum"
+    },
+    {
+      "id": "PA5",
+      "title": "Encyclopaedia Britannica — Paris",
+      "use": "Sviluppo medievale, monarchia, università e crescita urbana.",
+      "url": "https://www.britannica.com/place/Paris"
+    }
+  ]
+}

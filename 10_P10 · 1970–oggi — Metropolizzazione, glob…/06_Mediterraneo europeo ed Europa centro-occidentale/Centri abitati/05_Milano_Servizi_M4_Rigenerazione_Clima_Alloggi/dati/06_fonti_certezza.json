@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Il piano PGT Milano 2030 attribuisce un ruolo centrale alla rigenerazione e all’housing sociale.",
+    "theme": "pianificazione",
+    "status": "documentato",
+    "source": "MI1"
+  },
+  {
+    "claim": "La linea M4 è entrata integralmente in servizio il 12 ottobre 2024 fra San Cristoforo e Linate.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "MI2"
+  },
+  {
+    "claim": "L’accordo sugli scali ferroviari combina trasformazione urbanistica, verde, housing e potenziamento del sistema ferroviario.",
+    "theme": "rigenerazione",
+    "status": "documentato",
+    "source": "MI3"
+  },
+  {
+    "claim": "Il Piano Aria e Clima integra qualità dell’aria, energia, mobilità e adattamento climatico.",
+    "theme": "clima",
+    "status": "documentato",
+    "source": "MI4"
+  },
+  {
+    "claim": "Le parti non concluse di Milano 2030 e degli scali ferroviari restano piani o cantieri futuri.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "MI1"
+  },
+  {
+    "claim": "Milano, servizi avanzati, M4, rigenerazione, clima e alloggi è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Gli sgomberi, gli sfratti e lo spostamento dei residenti a basso reddito, la discriminazione dei migranti, la precarietà del lavoro e la distribuzione diseguale dell’inquinamento e del calore non sono presentate come costi neutrali della rigenerazione milanese.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

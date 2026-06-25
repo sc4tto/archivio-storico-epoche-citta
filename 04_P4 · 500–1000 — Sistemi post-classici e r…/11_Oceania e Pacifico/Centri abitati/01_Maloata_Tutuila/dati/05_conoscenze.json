@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Maloata, villaggio costiero di Tutuila",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Orticoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Colture di tuberi e banana",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Gestione del pendio e dei suoli",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Risorse marine",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Pesca di reef e laguna",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Raccolta di molluschi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Muri a secco e terrazze",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Architettura in materiali deperibili",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Mobilità costiera",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Connessioni interinsulari",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Organizzazione sociale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Spazi domestici e recinzioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Rango e redistribuzione",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

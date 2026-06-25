@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di New York coloniale e della prima repubblica",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Porto e Hudson",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Moli, traghetti e dogane",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Farina, pellicce e cabotaggio",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Regimi coloniali",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Nieuw Amsterdam e colonia inglese",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Governo municipale e militare",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Schiavitù urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Lavoro schiavizzato e proprietà",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "African Burial Ground e comunità africana",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Rivoluzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Occupazione, incendi e ricostruzione",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Federal Hall e governo federale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Territori Lenape",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Scambio e diplomazia",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Espropriazione e migrazione forzata",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

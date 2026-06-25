@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Kannauj",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Fonti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Xuanzang",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Iscrizioni e monete",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Pianta urbana completa",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Politica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Maukhari",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Harsha",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Gurjara-Pratihara",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Religioni",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Buddhismo",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Shaivismo e vaishnavismo",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_3",
+          "label": "Uniformità religiosa",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Reti",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Gange",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Vie verso Mathura e Varanasi",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Volume esatto dei traffici",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Urbanistica",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Mercati",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_2",
+          "label": "Monasteri e templi",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Estensione certa",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Metodo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Topografia storica",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Archeologia di superficie",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_3",
+          "label": "Tutti i quartieri scavati",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Beirut, porto ottomano e città della seta",
+    "site": "Beirut, porto ottomano e città della seta",
+    "modern_location": "Beirut, Libano",
+    "coordinates": {
+      "lat": 33.8938,
+      "lon": 35.5018
+    },
+    "scope": "Beirut fra 1800 e 1900: da piccolo porto ottomano a centro commerciale, educativo e tipografico del Levante, collegato al Monte Libano, a Damasco e ai mercati europei.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Mandato francese, Grande Libano, espansione automobilistica e ricostruzioni del XX secolo sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "BE1",
+      "title": "Encyclopaedia Britannica — Beirut",
+      "use": "Storia urbana, porto e crescita ottocentesca.",
+      "url": "https://www.britannica.com/place/Beirut"
+    },
+    {
+      "id": "BE2",
+      "title": "American University of Beirut Archives",
+      "use": "Istruzione, stampa e società urbana.",
+      "url": "https://libraries.aub.edu.lb/"
+    },
+    {
+      "id": "BE3",
+      "title": "UNESCO — Silk Roads: Beirut",
+      "use": "Commercio, scambi culturali e porto levantino.",
+      "url": "https://en.unesco.org/silkroad/"
+    },
+    {
+      "id": "BE4",
+      "title": "Sursock Museum — Beirut collections",
+      "use": "Cultura materiale e trasformazioni urbane.",
+      "url": "https://sursock.museum/"
+    },
+    {
+      "id": "BE5",
+      "title": "Aga Khan Documentation Center — Beirut",
+      "use": "Architettura domestica e sviluppo urbano.",
+      "url": "https://www.archnet.org/"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Prima città pianificata",
+    "Seconda città",
+    "Dinastia degli šakkanakku",
+    "Regni amorrei",
+    "Distruzione babilonese"
+  ],
+  "items": [
+    {
+      "id": "ring",
+      "label": "Pianta urbana e cinta anulare",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "canals",
+      "label": "Canali e approdi",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "temples",
+      "label": "Templi e santuari",
+      "lane": "Monumentali",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "palaces",
+      "label": "Palazzi reali",
+      "lane": "Amministrative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Quartieri residenziali",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "archives",
+      "label": "Archivi del palazzo",
+      "lane": "Amministrative",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "workshops",
+      "label": "Laboratori e magazzini",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

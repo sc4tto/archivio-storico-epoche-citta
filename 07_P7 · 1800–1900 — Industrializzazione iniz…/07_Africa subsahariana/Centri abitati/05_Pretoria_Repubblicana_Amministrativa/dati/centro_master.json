@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Pretoria repubblicana e amministrativa",
+    "site": "Pretoria repubblicana e amministrativa",
+    "modern_location": "Pretoria, Sudafrica",
+    "coordinates": {
+      "lat": -25.7479,
+      "lon": 28.2293
+    },
+    "scope": "Pretoria fra 1855 e 1900: capitale del Transvaal, amministrazione repubblicana, Church Square, guerre, convenzioni, ferrovia Delagoa Bay, fortificazioni e relazioni coercitive con popolazioni africane e lavoratori.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Capitale dell’Unione del Sudafrica, apartheid istituzionalizzato, Union Buildings e crescita novecentesca sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "PR1",
+      "title": "Encyclopaedia Britannica — Pretoria",
+      "use": "Fondazione, capitale e sviluppo amministrativo.",
+      "url": "https://www.britannica.com/place/Pretoria"
+    },
+    {
+      "id": "PR2",
+      "title": "South African History Online — Pretoria",
+      "use": "Repubblica del Transvaal, guerre e società urbana.",
+      "url": "https://www.sahistory.org.za/place/pretoria"
+    },
+    {
+      "id": "PR3",
+      "title": "City of Tshwane — History and heritage",
+      "use": "Patrimonio urbano e contesto locale.",
+      "url": "https://www.tshwane.gov.za/"
+    },
+    {
+      "id": "PR4",
+      "title": "Ditsong Museums of South Africa",
+      "use": "Storia culturale e materiale del Transvaal.",
+      "url": "https://ditsong.org.za/"
+    },
+    {
+      "id": "PR5",
+      "title": "South African Heritage Resources Agency",
+      "use": "Edifici, fortificazioni e paesaggio storico.",
+      "url": "https://www.sahra.org.za/"
+    }
+  ]
+}

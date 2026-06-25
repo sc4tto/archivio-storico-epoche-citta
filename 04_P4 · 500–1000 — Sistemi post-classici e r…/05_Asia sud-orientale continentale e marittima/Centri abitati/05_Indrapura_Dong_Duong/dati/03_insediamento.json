@@ -1,0 +1,74 @@
+{
+  "phases": [
+    "800–875",
+    "875–900",
+    "900–950",
+    "950–1000"
+  ],
+  "items": [
+    {
+      "id": "d_s1",
+      "label": "Paesaggio di centri Cham dell’Amaravati",
+      "lane": "Abitato",
+      "start": 0,
+      "end": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "d_s2",
+      "label": "Fondazione della capitale di Indrapura",
+      "lane": "Potere",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "d_s3",
+      "label": "Grande monastero mahayana di Đồng Dương",
+      "lane": "Culto",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "d_s4",
+      "label": "Palazzi, porte e assi monumentali",
+      "lane": "Architettura",
+      "start": 1,
+      "end": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "d_s5",
+      "label": "Quartieri artigiani e residenziali",
+      "lane": "Abitato",
+      "start": 1,
+      "end": 3,
+      "status": "inferito"
+    },
+    {
+      "id": "d_s6",
+      "label": "Reti fluviali e accesso alla costa",
+      "lane": "Scambio",
+      "start": 0,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "d_s7",
+      "label": "Stile scultoreo di Đồng Dương",
+      "lane": "Produzione",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "d_s8",
+      "label": "Conflitti e perdita di centralità nel tardo X secolo",
+      "lane": "Potere",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    }
+  ]
+}

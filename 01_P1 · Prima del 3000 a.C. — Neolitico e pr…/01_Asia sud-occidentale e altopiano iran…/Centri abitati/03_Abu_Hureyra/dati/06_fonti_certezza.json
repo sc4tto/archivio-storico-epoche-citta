@@ -1,0 +1,62 @@
+[
+  {
+    "claim": "Il sito documenta due grandi fasi, epipaleolitica e neolitica",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "MOORE_BOOK"
+  },
+  {
+    "claim": "La prima occupazione comprende capanne circolari infossate",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "MOORE_BOOK"
+  },
+  {
+    "claim": "La seconda occupazione comprende case rettangolari in mattoni crudi",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "MOORE_BOOK"
+  },
+  {
+    "claim": "Sono presenti grandi quantità di resti vegetali recuperati anche tramite flottazione",
+    "theme": "Metodo/Alimentazione",
+    "status": "documentato",
+    "source": "MOORE_BOOK"
+  },
+  {
+    "claim": "Il cambiamento climatico del Younger Dryas influì sulle risorse vegetali",
+    "theme": "Ambiente",
+    "status": "sintesi",
+    "source": "HILLMAN_2001"
+  },
+  {
+    "claim": "La coltivazione di cereali nella fase epipaleolitica è certa e continuativa",
+    "theme": "Agricoltura",
+    "status": "non_documentato",
+    "source": "HILLMAN_2001; interpretazione discussa"
+  },
+  {
+    "claim": "Le sferuliti di letame indicano custodia animale prima della piena pastorizia",
+    "theme": "Allevamento",
+    "status": "documentato",
+    "source": "SMITH_2022"
+  },
+  {
+    "claim": "La caccia alla gazzella rimase importante nella prima fase",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "MOORE_BOOK"
+  },
+  {
+    "claim": "L’ossidiana dimostra importazione di derrate anatoliche",
+    "theme": "Commercio",
+    "status": "non_documentato",
+    "source": "Materiale esotico non equivale a commercio alimentare"
+  },
+  {
+    "claim": "Il sito originale è oggi sommerso dal lago Assad",
+    "theme": "Conservazione",
+    "status": "documentato",
+    "source": "MOORE_BOOK"
+  }
+]

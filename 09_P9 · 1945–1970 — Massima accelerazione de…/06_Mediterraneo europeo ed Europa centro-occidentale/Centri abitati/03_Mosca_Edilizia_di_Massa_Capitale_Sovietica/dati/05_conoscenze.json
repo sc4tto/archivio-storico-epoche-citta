@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Mosca, edilizia di massa e capitale sovietica",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Pianificazione socialista",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Piani generali, mikrorajon, standard, quote e localizzazione industriale",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Prefabbricazione, densità, servizi di prossimità e trasporto collettivo",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Infrastrutture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Metro, ferrovie, MKAD, prospekt, teleriscaldamento ed energia",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Acqua, fognature, scuole, policlinici, negozi e mense",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Economia urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Industria pesante, ricerca, amministrazione e costruzione statale",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Distribuzione pianificata, magazzini, mercati kolchoziani e lavoro femminile",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Politica e società",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Partito comunista, Soviet cittadino, burocrazia e organizzazioni di massa",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Famiglie nelle kommunalki e nelle nuove unità, operai, tecnici e studenti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Crisi e coercizione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Carenza abitativa, sovraffollamento, code, inquinamento e bassa scelta dei consumi",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Censura, repressione politica, controllo della mobilità e campagne antireligiose",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

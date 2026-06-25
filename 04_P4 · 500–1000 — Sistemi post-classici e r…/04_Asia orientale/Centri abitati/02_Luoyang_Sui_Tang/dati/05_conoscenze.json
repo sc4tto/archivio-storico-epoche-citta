@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Luoyang Sui–Tang",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Cronologia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Fondazione del 605",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Capitale orientale Tang",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Confusione con Luoyang Han–Wei",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Acque",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Luo e Yi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Grande Canale",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Canali tutti conservati",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Corte",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Wu Zetian",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Palazzi e rituali",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Uso continuo di ogni edificio",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Buddhismo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Longmen",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Monasteri urbani",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Unica religione cittadina",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Economia",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Mercati",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Granai",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Quantità esatte annue",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Archeologia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Fondazioni e mura",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Ceramiche e iscrizioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Pianta totalmente esposta",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

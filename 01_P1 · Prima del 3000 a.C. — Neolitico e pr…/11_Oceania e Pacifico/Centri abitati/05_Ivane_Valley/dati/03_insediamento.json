@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Prime esplorazioni d’altopiano",
+    "Occupazioni fra 49–44 ka",
+    "Uso ripetuto dei campi",
+    "Olocene iniziale",
+    "Trasformazioni agricole posteriori"
+  ],
+  "items": [
+    {
+      "id": "camps",
+      "label": "Campi ripetuti in quota",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "hearth",
+      "label": "Focolari e superfici di attività",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "plants",
+      "label": "Lavorazione di piante",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "axes",
+      "label": "Utensili litici levigati e scheggiati",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "hunt",
+      "label": "Caccia montana",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "mobility",
+      "label": "Mobilità fra valle e passo",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "agri",
+      "label": "Agricoltura d’altopiano",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "non_documentato"
+    }
+  ]
+}

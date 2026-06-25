@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Lima vicereale",
+    "site": "Lima vicereale",
+    "modern_location": "Lima, Perù",
+    "coordinates": {
+      "lat": -12.0464,
+      "lon": -77.0428
+    },
+    "scope": "Lima fra 1535 e 1800: piazza maggiore, palazzi, cattedrale, conventi, quartieri, mercati, mulini, acquedotti e collegamenti con Callao e le valli agricole costiere.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1800. Indipendenza, demolizione delle mura, ferrovie, espansione repubblicana e trasformazioni metropolitane sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "LI1",
+      "title": "UNESCO — Historic Centre of Lima",
+      "use": "Fondazione, ruolo vicereale e patrimonio architettonico.",
+      "url": "https://whc.unesco.org/en/list/500/"
+    },
+    {
+      "id": "LI2",
+      "title": "Encyclopaedia Britannica — Lima",
+      "use": "Storia urbana, terremoti e funzione di capitale.",
+      "url": "https://www.britannica.com/place/Lima"
+    },
+    {
+      "id": "LI3",
+      "title": "Archivo General de la Nación del Perú",
+      "use": "Fonti amministrative, cartografiche e sociali.",
+      "url": "https://www.gob.pe/agn"
+    },
+    {
+      "id": "LI4",
+      "title": "Municipalidad Metropolitana de Lima — PROLIMA",
+      "use": "Centro storico, monumenti e conservazione.",
+      "url": "https://www.munlima.gob.pe/"
+    },
+    {
+      "id": "LI5",
+      "title": "UNESCO — Qhapaq Ñan",
+      "use": "Reti viarie andine riutilizzate e trasformate in età coloniale.",
+      "url": "https://whc.unesco.org/en/list/1459/"
+    }
+  ]
+}

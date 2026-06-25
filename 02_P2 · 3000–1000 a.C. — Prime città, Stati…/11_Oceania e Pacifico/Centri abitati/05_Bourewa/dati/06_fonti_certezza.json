@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Bourewa è fra i più antichi insediamenti umani noti delle Figi",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "BOU_MODEL"
+  },
+  {
+    "claim": "Il sito conserva ceramica Lapita decorata e comune",
+    "theme": "Ceramica",
+    "status": "documentato",
+    "source": "BOU_NUNN"
+  },
+  {
+    "claim": "Le datazioni indicano crescita e uso differenziato dello spazio",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "BOU_MODEL"
+  },
+  {
+    "claim": "È attestata ossidiana proveniente dal Bismarck",
+    "theme": "Scambi",
+    "status": "documentato",
+    "source": "BOU_OBS"
+  },
+  {
+    "claim": "L’economia integrava pesca e orticoltura",
+    "theme": "Alimentazione",
+    "status": "sintesi",
+    "source": "BOU_NUNN"
+  },
+  {
+    "claim": "La planimetria completa del villaggio è nota",
+    "theme": "Metodo",
+    "status": "non_documentato",
+    "source": "Erosione e campionamento"
+  },
+  {
+    "claim": "L’ossidiana dimostra controllo politico dal Bismarck",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Scambio non equivale a controllo"
+  },
+  {
+    "claim": "Tutti gli individui del sito provenivano dalla stessa isola",
+    "theme": "Mobilità",
+    "status": "non_documentato",
+    "source": "Mobilità interinsulare probabile"
+  }
+]

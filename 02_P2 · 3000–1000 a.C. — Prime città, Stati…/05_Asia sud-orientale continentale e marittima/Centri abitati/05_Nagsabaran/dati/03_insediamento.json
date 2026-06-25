@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Fondazione del villaggio",
+    "Case e agricoltura",
+    "Reti con Batanes e Taiwan",
+    "Crescita degli scambi",
+    "Trasformazioni successive"
+  ],
+  "items": [
+    {
+      "id": "houses",
+      "label": "Case su pali e buche di palo",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "rice",
+      "label": "Coltivazione del riso",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "pottery",
+      "label": "Ceramica rossa e cord-marked",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "spindle",
+      "label": "Fusaiole e fibre",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "animals",
+      "label": "Suini e cani",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "ornaments",
+      "label": "Conchiglia e giada",
+      "lane": "Scambi",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "maritime",
+      "label": "Mobilità marittima regionale",
+      "lane": "Infrastrutture",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

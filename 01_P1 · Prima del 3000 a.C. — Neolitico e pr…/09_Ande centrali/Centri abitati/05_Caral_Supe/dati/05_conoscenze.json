@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Caral-Supe",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Edilizia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Piattaforme",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Corti circolari",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Rimodellamenti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Acqua",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Agricoltura valliva",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Gestione dei canali",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_3",
+          "label": "Rischi climatici",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Scambi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Costa",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Altre valli",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Beni a lunga distanza",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Registrazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Quipu",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Conteggio",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Amministrazione",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Rituali",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Cerimonie collettive",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_2",
+          "label": "Depositi e chiusure",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Ideologia religiosa",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Organizzazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Coordinamento del lavoro",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_2",
+          "label": "Differenze residenziali",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Stato centralizzato",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

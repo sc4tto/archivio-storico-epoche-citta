@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Gheo Shih — modulo multi-grafo",
+    "short_name": "Gheo Shih",
+    "site": "Sito all’aperto di Gheo Shih",
+    "modern_location": "Valle di Tlacolula, Oaxaca, Messico",
+    "coordinates": {
+      "lat": 16.95,
+      "lon": -96.4
+    },
+    "scope": "Accampamento stagionale all’aperto con macine, strumenti e un’area sgombra delimitata da pietre, interpretata da alcuni studiosi come spazio di aggregazione e attività rituali.",
+    "version": "1.0-blocco_09_p1_mesoamerica_5_centri_v1",
+    "warning": "L’interpretazione della struttura di pietre come piazza rituale è discussa. Il modulo distingue il dato archeologico — allineamenti e area sgombra — dalla funzione sociale proposta."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "UNESCO_YAGUL",
+      "title": "UNESCO — Prehistoric Caves of Yagul and Mitla in the Central Valley of Oaxaca",
+      "url": "https://whc.unesco.org/en/list/1352/",
+      "use": "Gheo Shih nel paesaggio culturale e passaggio verso comunità più stabili"
+    },
+    {
+      "id": "MARCUS_FLANNERY",
+      "title": "Marcus e Flannery — The coevolution of ritual and society: New 14C dates from ancient Mexico",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.0402365101",
+      "use": "datazioni e interpretazione dell’area delimitata"
+    },
+    {
+      "id": "FLANNERY_OAXACA",
+      "title": "Flannery — Guilá Naquitz and the Archaic Valley of Oaxaca",
+      "url": "https://www.worldcat.org/search?q=Guila+Naquitz+Archaic+Valley+of+Oaxaca",
+      "use": "contesto regionale, mobilità e sussistenza"
+    }
+  ]
+}

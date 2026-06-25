@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Phú Xuân–Huế Nguyễn e Tây Sơn",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Fiume e lagune",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Navigazione, argini e approdi",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Risaie, pesca e salicoltura",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Governo Nguyễn",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Tributo, esercito e funzionari",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Capitale, residenze e cerimoniale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Telai lignei e tetti di tegole",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Terrapieni, mura e pagode",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Hội An e rotte marittime",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Tessili, ceramiche e prodotti forestali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Cultura rituale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Buddhismo, culti locali e antenati",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Lacca, intaglio e musica di corte",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

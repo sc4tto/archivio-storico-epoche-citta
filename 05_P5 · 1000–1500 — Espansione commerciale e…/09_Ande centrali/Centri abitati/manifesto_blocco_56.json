@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_56_P5_Ande_Centrali_5_Centri_v1",
+  "macroregion": "Ande centrali",
+  "centers": [
+    "01_Cusco_Imperiale",
+    "02_Chan_Chan_Chimu",
+    "03_Pachacamac_Ychma_Inca",
+    "04_Huanuco_Pampa_Inca",
+    "05_Ollantaytambo_Inca"
+  ],
+  "uses_central_assets": true
+}

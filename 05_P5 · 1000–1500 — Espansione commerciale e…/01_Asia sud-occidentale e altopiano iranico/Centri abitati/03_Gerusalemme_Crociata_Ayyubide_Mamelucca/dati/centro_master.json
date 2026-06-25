@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Gerusalemme crociata, ayyubide e mamelucca",
+    "site": "Città vecchia di Gerusalemme",
+    "modern_location": "Gerusalemme",
+    "coordinates": {
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "scope": "Gerusalemme fra 1000 e 1500: conquista crociata del 1099, regno latino, riconquista di Saladino nel 1187, trasformazioni ayyubidi e mamelucche, pellegrinaggi e pluralità religiosa.",
+    "version": "1.0",
+    "warning": "Il sito è storicamente e politicamente sensibile. Il modulo usa una terminologia descrittiva e non prende posizione su sovranità moderne. Molte mura oggi visibili sono ottomane del XVI secolo, non medievali."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "JE1",
+      "title": "UNESCO — Old City of Jerusalem and its Walls",
+      "use": "Monumenti, pluralità religiosa e quadro patrimoniale.",
+      "url": "https://whc.unesco.org/en/list/148/"
+    },
+    {
+      "id": "JE2",
+      "title": "Encyclopaedia Britannica — Jerusalem",
+      "use": "Storia crociata, ayyubide e mamelucca.",
+      "url": "https://www.britannica.com/place/Jerusalem"
+    },
+    {
+      "id": "JE3",
+      "title": "Metropolitan Museum — Art of the Crusader Period",
+      "use": "Materiali e cultura artistica dei regni crociati.",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-crusaders-in-the-holy-land-1098-1291"
+    },
+    {
+      "id": "JE4",
+      "title": "Archnet — Jerusalem",
+      "use": "Architettura islamica, madrase, santuari e opere mamelucche.",
+      "url": "https://www.archnet.org/collections/50"
+    },
+    {
+      "id": "JE5",
+      "title": "Custodia Terrae Sanctae — Archaeology and monuments",
+      "use": "Basiliche, ospizi e tradizioni cristiane medievali.",
+      "url": "https://www.custodia.org/en/sanctuaries"
+    }
+  ]
+}

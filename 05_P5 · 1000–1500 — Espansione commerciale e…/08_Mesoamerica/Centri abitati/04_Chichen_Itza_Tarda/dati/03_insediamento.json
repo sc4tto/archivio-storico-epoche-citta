@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "ci1",
+      "label": "Massima attività monumentale del settore settentrionale",
+      "lane": "Costruzione",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ci2",
+      "label": "Uso del Castillo, Tempio dei Guerrieri e grande gioco della pelota",
+      "lane": "Religione",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ci3",
+      "label": "Mercati, colonnati e reti regionali",
+      "lane": "Economia",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ci4",
+      "label": "Riduzione delle grandi costruzioni",
+      "lane": "Urbanistica",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ci5",
+      "label": "Persistenza di quartieri e santuari",
+      "lane": "Insediamento",
+      "start": 2,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "ci6",
+      "label": "Pellegrinaggio al Cenote Sacro",
+      "lane": "Religione",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ci7",
+      "label": "Riorganizzazione politica dello Yucatán",
+      "lane": "Politica",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ci8",
+      "label": "Declino urbano e continuità rituale fino al XV secolo",
+      "lane": "Società",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

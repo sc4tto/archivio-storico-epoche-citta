@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_97_P9_Europa_Mediterranea_Centro_Occidentale_5_Centri_v1",
+  "macroregion": "Mediterraneo europeo ed Europa centro-occidentale",
+  "centers": [
+    "01_Londra_Ricostruzione_Welfare_Grande_Smog",
+    "02_Parigi_Grands_Ensembles_Bidonvilles_Decolonizzazione",
+    "03_Mosca_Edilizia_di_Massa_Capitale_Sovietica",
+    "04_Milano_Miracolo_Economico_Migrazione_Alloggi",
+    "05_Berlino_Divisa_Ricostruzione_Muro"
+  ],
+  "uses_central_assets": true
+}

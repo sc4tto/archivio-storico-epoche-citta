@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Osaka",
+      "lat": 34.6937,
+      "lon": 135.5023,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "kin",
+      "label": "Kinai e pianura di Osaka",
+      "lat": 34.6,
+      "lon": 135.6,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "yod",
+      "label": "Bacino dello Yodo e Kyoto",
+      "lat": 35.0,
+      "lon": 135.75,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "bay",
+      "label": "Baia di Osaka e Seto Inland Sea",
+      "lat": 34.4,
+      "lon": 134.8,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "hok",
+      "label": "Hokkaidō e coste settentrionali",
+      "lat": 42.5,
+      "lon": 141.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "tok",
+      "label": "Tokyo e Giappone orientale",
+      "lat": 35.68,
+      "lon": 139.65,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "sea",
+      "label": "Kobe, Asia e mercati globali",
+      "lat": 34.69,
+      "lon": 135.19,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "kin",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade, canali e ferrovia",
+      "food": "riso, verdure, legname e manodopera"
+    },
+    {
+      "source": "yod",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Yodo e ferrovia",
+      "food": "tè, artigianato, carta e prodotti di Kyoto"
+    },
+    {
+      "source": "bay",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "mare interno e canali",
+      "food": "pesce, sale e merci di cabotaggio"
+    },
+    {
+      "source": "hok",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione costiera",
+      "food": "alghe, aringhe essiccate e fertilizzanti marini"
+    },
+    {
+      "source": "tok",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia Tōkaidō e cabotaggio",
+      "food": "capitale, macchinari e merci nazionali"
+    },
+    {
+      "source": "sea",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Kobe, porto e ferrovia",
+      "food": "cotone, lana, carbone e beni importati"
+    }
+  ]
+}

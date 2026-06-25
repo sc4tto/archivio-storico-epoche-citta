@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Madrid",
+      "lat": 40.4168,
+      "lon": -3.7038,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "mes",
+      "label": "Meseta di Castiglia",
+      "lat": 40.3,
+      "lon": -4.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "gua",
+      "label": "Sierra de Guadarrama",
+      "lat": 40.75,
+      "lon": -4.05,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "tag",
+      "label": "Toledo e valle del Tago",
+      "lat": 39.9,
+      "lon": -4.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "med",
+      "label": "Mediterraneo e Valencia",
+      "lat": 39.5,
+      "lon": -0.4,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "atl",
+      "label": "Siviglia, Cadice e Atlantico",
+      "lat": 36.5,
+      "lon": -6.2,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "eur",
+      "label": "Francia, Fiandre e Italia",
+      "lat": 46.0,
+      "lon": 5.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "mes",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade della Meseta",
+      "food": "grano, legumi, lana e bestiame"
+    },
+    {
+      "source": "gua",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "passi montani e conduzioni",
+      "food": "legna, neve, pietra e acqua"
+    },
+    {
+      "source": "tag",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade verso Toledo",
+      "food": "vino, olio, ortaggi e prodotti artigiani"
+    },
+    {
+      "source": "med",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte mediterranee",
+      "food": "riso, agrumi, seta e pesce"
+    },
+    {
+      "source": "atl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Siviglia e Cadice",
+      "food": "zucchero, cacao, caffè e merci americane"
+    },
+    {
+      "source": "eur",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti diplomatiche e commerciali",
+      "food": "libri, tessili, arte e tecnici"
+    }
+  ]
+}

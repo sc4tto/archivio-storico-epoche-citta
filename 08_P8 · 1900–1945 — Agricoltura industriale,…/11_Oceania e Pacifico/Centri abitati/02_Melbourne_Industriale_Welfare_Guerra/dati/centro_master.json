@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Melbourne industriale, del welfare e della guerra",
+    "site": "Melbourne industriale, del welfare e della guerra",
+    "modern_location": "Melbourne, Australia",
+    "coordinates": {
+      "lat": -37.8136,
+      "lon": 144.9631
+    },
+    "scope": "Melbourne fra 1900 e 1945: porto, ferrovie e tram elettrici, capitale del Commonwealth fino al 1927, influenza del 1919, crisi del 1930, edilizia sociale e industria bellica.",
+    "version": "1.0",
+    "warning": "Sono escluse le Olimpiadi del 1956, l’espansione autostradale e la suburbanizzazione postbellica."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "ME1",
+      "title": "Public Record Office Victoria",
+      "use": "Amministrazione, infrastrutture, lavoro e politiche urbane.",
+      "url": "https://prov.vic.gov.au/"
+    },
+    {
+      "id": "ME2",
+      "title": "State Library Victoria",
+      "use": "Fotografie, mappe, giornali e storia urbana.",
+      "url": "https://www.slv.vic.gov.au/"
+    },
+    {
+      "id": "ME3",
+      "title": "Museums Victoria",
+      "use": "Industria, migrazioni, cultura materiale e vita quotidiana.",
+      "url": "https://museumsvictoria.com.au/"
+    },
+    {
+      "id": "ME4",
+      "title": "City of Melbourne — History and heritage",
+      "use": "Patrimonio civico, quartieri e trasformazioni urbane.",
+      "url": "https://www.melbourne.vic.gov.au/"
+    },
+    {
+      "id": "ME5",
+      "title": "Australian War Memorial",
+      "use": "Industrie di guerra e mobilitazione civile.",
+      "url": "https://www.awm.gov.au/"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Lothal",
+      "lat": 22.522,
+      "lon": 72.249,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "bhogava",
+      "label": "Fiume Bhogava",
+      "lat": 22.53,
+      "lon": 72.27,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "gulf",
+      "label": "Golfo di Khambhat",
+      "lat": 22.2,
+      "lon": 72.4,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "dholavira",
+      "label": "Dholavira",
+      "lat": 23.888,
+      "lon": 70.214,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "saurashtra",
+      "label": "Saurashtra e Kutch",
+      "lat": 22.8,
+      "lon": 70.8,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "gulftrade",
+      "label": "Golfo Persico e Mesopotamia",
+      "lat": 25.0,
+      "lon": 56.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "bhogava",
+      "target": "site",
+      "label": "acqua, sedimenti e collegamento fluviale",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "gulf",
+      "target": "site",
+      "label": "pesce, conchiglie e rotte marittime",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "dholavira",
+      "target": "site",
+      "label": "standard e reti del Gujarat",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "saurashtra",
+      "target": "site",
+      "label": "agata, conchiglie e prodotti agricoli",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "gulftrade",
+      "target": "site",
+      "label": "sigilli, rame e beni esotici",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

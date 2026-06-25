@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Alessandria portuale, industriale e postcoloniale",
+    "site": "Alessandria portuale, industriale e postcoloniale",
+    "modern_location": "Alessandria, Egitto",
+    "coordinates": {
+      "lat": 31.2001,
+      "lon": 29.9187
+    },
+    "scope": "Alessandria fra 1945 e 1970: porto, industrie tessili e alimentari, crisi di Suez, nazionalizzazioni, espansione costiera e nuovi quartieri popolari.",
+    "version": "1.0",
+    "warning": "Sono escluse la nuova Bibliotheca Alexandrina inaugurata nel 2002 e le grandi espansioni costiere successive al 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "AL1",
+      "title": "Encyclopaedia Britannica — Alexandria",
+      "use": "Storia moderna, porto e sviluppo urbano.",
+      "url": "https://www.britannica.com/place/Alexandria-Egypt"
+    },
+    {
+      "id": "AL2",
+      "title": "Bibliotheca Alexandrina — Alexandria and Mediterranean Research Center",
+      "use": "Fonti storiche, cartografia e memoria urbana.",
+      "url": "https://www.bibalex.org/alexmed/"
+    },
+    {
+      "id": "AL3",
+      "title": "Alexandria Port Authority",
+      "use": "Funzioni portuali, banchine e traffici.",
+      "url": "https://apa.gov.eg/"
+    },
+    {
+      "id": "AL4",
+      "title": "UNESCO — Underwater Cultural Heritage at Alexandria",
+      "use": "Paesaggio costiero e patrimonio storico della città.",
+      "url": "https://www.unesco.org/en/underwater-cultural-heritage"
+    }
+  ]
+}

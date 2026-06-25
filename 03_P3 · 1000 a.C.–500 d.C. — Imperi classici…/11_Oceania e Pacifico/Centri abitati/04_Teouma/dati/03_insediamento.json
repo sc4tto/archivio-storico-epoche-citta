@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Arrivo delle prime comunità Lapita",
+    "Uso del cimitero",
+    "Riti secondari e deposizioni ceramiche",
+    "Attività e midden associati",
+    "Sepoltura naturale, scoperta e scavo"
+  ],
+  "items": [
+    {
+      "id": "cemetery",
+      "label": "Cimitero Lapita",
+      "lane": "Funerarie",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "burials",
+      "label": "Sepolture primarie",
+      "lane": "Funerarie",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "skulls",
+      "label": "Rimozione e ricollocazione dei crani",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "pots",
+      "label": "Vasi funerari decorati",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "midden",
+      "label": "Midden e attività alimentari",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "mobility",
+      "label": "Mobilità interinsulare",
+      "lane": "Organizzazione",
+      "start": 0,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "excavation",
+      "label": "Scoperta e conservazione",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

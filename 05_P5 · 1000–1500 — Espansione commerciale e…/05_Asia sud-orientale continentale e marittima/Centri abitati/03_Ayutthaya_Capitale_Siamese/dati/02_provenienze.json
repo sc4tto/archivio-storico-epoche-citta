@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Ayutthaya",
+      "lat": 14.356,
+      "lon": 100.568,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "cha",
+      "label": "Chao Phraya",
+      "lat": 14.3,
+      "lon": 100.55,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "lop",
+      "label": "Lopburi",
+      "lat": 14.8,
+      "lon": 100.65,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "pas",
+      "label": "Pa Sak",
+      "lat": 14.4,
+      "lon": 100.6,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "suk",
+      "label": "Sukhothai",
+      "lat": 17.02,
+      "lon": 99.7,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "mal",
+      "label": "Penisola malese",
+      "lat": 7.5,
+      "lon": 100.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "chi",
+      "label": "Cina meridionale",
+      "lat": 23.0,
+      "lon": 113.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "cha",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "trasporto e campi alluvionali",
+      "food": "riso, pesce e merci"
+    },
+    {
+      "source": "lop",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoio settentrionale",
+      "food": "riso e prodotti regionali"
+    },
+    {
+      "source": "pas",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali e difesa dell’isola",
+      "food": "acqua e derrate"
+    },
+    {
+      "source": "suk",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "integrazione politica",
+      "food": "artigiani e prodotti settentrionali"
+    },
+    {
+      "source": "mal",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Golfo di Siam",
+      "food": "spezie, stagno e merci marittime"
+    },
+    {
+      "source": "chi",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "commercio tributario",
+      "food": "ceramiche, seta e metalli"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Arrivo dei primi coloni",
+    "Villaggio costiero",
+    "Espansione dell’area abitata",
+    "Trasformazione degli stili",
+    "Erosione e abbandono"
+  ],
+  "items": [
+    {
+      "id": "houses",
+      "label": "Aree domestiche e fosse",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "pottery",
+      "label": "Ceramica Lapita",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "shell",
+      "label": "Conchiglia lavorata",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "fishing",
+      "label": "Pesca e raccolta marina",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "gardens",
+      "label": "Orti tropicali",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "exchange",
+      "label": "Scambi a lunga distanza",
+      "lane": "Organizzazione",
+      "start": 0,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "erosion",
+      "label": "Erosione costiera",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

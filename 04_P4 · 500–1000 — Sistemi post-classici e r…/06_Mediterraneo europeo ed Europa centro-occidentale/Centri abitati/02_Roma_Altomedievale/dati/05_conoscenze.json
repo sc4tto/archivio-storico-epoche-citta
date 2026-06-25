@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Roma altomedievale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0_reuse",
+      "label": "Riuso dell’antico",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0_spoliak",
+          "label": "Selezione e adattamento di spolia",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1_repair",
+          "label": "Riparazione di murature e tetti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1_church",
+      "label": "Gestione ecclesiastica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0_liturgy",
+          "label": "Liturgie, reliquie e calendari",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1_charity",
+          "label": "Diaconie, ospizi ed elemosine",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2_territory",
+      "label": "Territorio e risorse",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0_estateknow",
+          "label": "Amministrazione di patrimoni rurali",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1_water",
+          "label": "Pozzi, acquedotti e mulini",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3_pilgrimage",
+      "label": "Pellegrinaggio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0_routes",
+          "label": "Gestione di itinerari e accoglienza",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1_shrines",
+          "label": "Custodia di santuari e tombe",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4_defence",
+      "label": "Difesa e diplomazia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0_wallsci",
+          "label": "Mura, porte e presidi",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1_diplomacy",
+          "label": "Rapporti con poteri regionali",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

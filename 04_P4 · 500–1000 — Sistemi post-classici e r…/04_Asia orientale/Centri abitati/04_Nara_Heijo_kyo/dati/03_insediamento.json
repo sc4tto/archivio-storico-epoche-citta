@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Fondazione del 710",
+    "Costruzione di palazzo e templi",
+    "Apogeo della capitale Nara",
+    "Trasferimenti temporanei e ritorno",
+    "Abbandono politico e continuità religiosa"
+  ],
+  "items": [
+    {
+      "id": "grid",
+      "label": "Griglia urbana e viali",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "palace",
+      "label": "Palazzo imperiale e uffici",
+      "lane": "Politiche",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "temples",
+      "label": "Tōdai-ji, Kōfuku-ji e altri templi",
+      "lane": "Religiose",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "shrine",
+      "label": "Kasuga e paesaggio sacro",
+      "lane": "Religiose",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "markets",
+      "label": "Mercati e officine",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "records",
+      "label": "Archivi, tavolette e registri",
+      "lane": "Politiche",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "shift",
+      "label": "Trasferimento della capitale",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Maungakiekie pā, Tāmaki Makaurau",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Fortificazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Terrazze, fossati e palizzate",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Sorveglianza e accessi controllati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Orticoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Kūmara e suoli vulcanici",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Rua, pacciamatura e riserve",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Navigazione e portage",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Waka, approdi e maree",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Connessioni Waitematā–Manukau",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Politica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Waiohua, Ngāti Whātua e whakapapa",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Alleanze, conflitti e mana whenua",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Cultura materiale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Intaglio, fibre e stuoie",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Pietra, ossidiana e conchiglie",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

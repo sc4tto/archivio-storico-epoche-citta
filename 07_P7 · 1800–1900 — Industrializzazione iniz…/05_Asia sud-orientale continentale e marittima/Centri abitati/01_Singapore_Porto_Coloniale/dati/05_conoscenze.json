@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Singapore, porto coloniale e città migrante",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Porto e navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Monsoni, pilotaggio e ancoraggi",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Magazzini, assicurazioni e trasbordo",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Amministrazione coloniale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Straits Settlements, polizia e censimenti",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Regolamenti urbani e sanità",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Commercio e lavoro",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Stagno, pepe, gambier e oppio",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Migrazioni, intermediari e lavoro portuale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Shophouse, cortili e portici",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Mattoni, ferro e infrastrutture portuali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Acqua e salute",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Bonifiche, pozzi e drenaggi",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Colera, incendi e sovraffollamento",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

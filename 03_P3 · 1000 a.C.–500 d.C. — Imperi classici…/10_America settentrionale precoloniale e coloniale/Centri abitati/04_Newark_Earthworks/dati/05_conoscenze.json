@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Newark Earthworks",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Geometria",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Cerchio",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Ottagono",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Precisione metrica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Astronomia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Ciclo lunare lungo",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Orizzonte solare",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_3",
+          "label": "Calendario completo decifrato",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Terra selezionata",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Muri e fossati",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Macchine metalliche",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Rituali",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Processioni",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_2",
+          "label": "Raduni",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Liturgia ricostruita",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Reti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Ohio centrale",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Materie prime lontane",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Controllo politico continentale",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Conservazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Great Circle",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Octagon",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Complesso originario integro",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

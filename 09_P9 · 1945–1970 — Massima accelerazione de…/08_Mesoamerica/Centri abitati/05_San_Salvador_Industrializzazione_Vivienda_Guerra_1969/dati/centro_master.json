@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "San Salvador, industrializzazione, vivienda e guerra del 1969",
+    "site": "San Salvador, industrializzazione, vivienda e guerra del 1969",
+    "modern_location": "San Salvador, El Salvador",
+    "coordinates": {
+      "lat": 13.6929,
+      "lon": -89.2182
+    },
+    "scope": "San Salvador fra 1945 e 1970: governi militari modernizzatori, crescita del caffè e del cotone, industrializzazione e integrazione centroamericana, creazione dell’Instituto de Vivienda Urbana nel 1950, nuovi quartieri e strade, migrazione rurale, espansione informale, proteste sociali e conseguenze urbane della guerra con Honduras del 1969.",
+    "version": "1.0",
+    "warning": "Sono esclusi la guerra civile degli anni ottanta, il terremoto del 1986, la dollarizzazione e le trasformazioni metropolitane successive al 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SS1",
+      "title": "UCA — La vivienda social en El Salvador, 1940–1980",
+      "use": "Instituto de Vivienda Urbana, complessi abitativi e politiche moderne della casa.",
+      "url": "https://revistas.uca.edu.sv/realidad/article/download/4502/4493/15396"
+    },
+    {
+      "id": "SS2",
+      "title": "UCA — Factores sociales, políticos y económicos de la modernización salvadoreña",
+      "use": "Governi militari, caffè, cotone, infrastrutture e crescita economica.",
+      "url": "https://revistas.uca.edu.sv/index.php/realidad/article/download/4501/4492/"
+    },
+    {
+      "id": "SS3",
+      "title": "UCA — Cambiamenti sociali e culturali in El Salvador",
+      "use": "Migrazioni, guerra del 1969 e trasformazioni sociali.",
+      "url": "https://coleccion.uca.edu.sv/files/original/909e37345ea698856798ff7c8931b782ede7a3b2.pdf"
+    },
+    {
+      "id": "SS4",
+      "title": "United Nations ECLAC — Economic Survey of Latin America 1967",
+      "use": "Economia regionale, industrializzazione e integrazione centroamericana negli anni sessanta.",
+      "url": "https://digitallibrary.un.org/record/1478329/files/E_CN-12_808_Rev-1-EN.pdf"
+    }
+  ]
+}

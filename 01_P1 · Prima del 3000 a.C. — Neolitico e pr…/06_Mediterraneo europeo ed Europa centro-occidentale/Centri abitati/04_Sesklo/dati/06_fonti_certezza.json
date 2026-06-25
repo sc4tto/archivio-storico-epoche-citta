@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Sesklo è uno dei principali insediamenti neolitici della Tessaglia",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "HMC_SESKLO"
+  },
+  {
+    "claim": "Le case usavano mattoni crudi e, in molte fasi, fondazioni in pietra",
+    "theme": "Edilizia",
+    "status": "documentato",
+    "source": "HMC_SESKLO"
+  },
+  {
+    "claim": "La ceramica rossa e dipinta è un elemento diagnostico della sequenza",
+    "theme": "Ceramica",
+    "status": "documentato",
+    "source": "SESKLO_OVERVIEW"
+  },
+  {
+    "claim": "Agricoltura e allevamento costituivano la base dell’economia",
+    "theme": "Alimentazione",
+    "status": "sintesi",
+    "source": "SESKLO_OVERVIEW"
+  },
+  {
+    "claim": "Il sito ebbe più fasi di espansione e ricostruzione",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "HMC_SESKLO"
+  },
+  {
+    "claim": "Le stime massime di popolazione sono certe e precise",
+    "theme": "Demografia",
+    "status": "non_documentato",
+    "source": "Stime dipendenti da ricostruzioni"
+  },
+  {
+    "claim": "La distruzione finale fu sicuramente causata da invasori",
+    "theme": "Crisi",
+    "status": "non_documentato",
+    "source": "Causa non dimostrata"
+  },
+  {
+    "claim": "Il sito possedeva un governo urbano paragonabile alle città storiche",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Terminologia anacronistica"
+  }
+]

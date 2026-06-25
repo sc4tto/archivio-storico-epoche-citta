@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Firenze",
+      "lat": 43.77,
+      "lon": 11.256,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "arn",
+      "label": "Valle dell’Arno",
+      "lat": 43.72,
+      "lon": 11.15,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "chi",
+      "label": "Chianti",
+      "lat": 43.5,
+      "lon": 11.3,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "mug",
+      "label": "Mugello",
+      "lat": 44.0,
+      "lon": 11.3,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "pis",
+      "label": "Pisa e costa tirrenica",
+      "lat": 43.72,
+      "lon": 10.4,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "gen",
+      "label": "Genova",
+      "lat": 44.41,
+      "lon": 8.93,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "fln",
+      "label": "Fiandre",
+      "lat": 51.0,
+      "lon": 3.5,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "arn",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade, fiume e contado",
+      "food": "grano, ortaggi e legname"
+    },
+    {
+      "source": "chi",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade rurali",
+      "food": "vino, olio e bestiame"
+    },
+    {
+      "source": "mug",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "valichi appenninici",
+      "food": "castagne, legname e animali"
+    },
+    {
+      "source": "pis",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Arno e vie terrestri",
+      "food": "sale, pesce e merci marittime"
+    },
+    {
+      "source": "gen",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti mercantili",
+      "food": "spezie, lana e prodotti mediterranei"
+    },
+    {
+      "source": "fln",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "compagnie e fiere",
+      "food": "lana, panni e credito"
+    }
+  ]
+}

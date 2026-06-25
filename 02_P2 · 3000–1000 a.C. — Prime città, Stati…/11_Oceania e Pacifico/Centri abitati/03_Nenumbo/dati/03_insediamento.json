@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Arrivo Lapita",
+    "Costruzione del villaggio",
+    "Massima attività costiera",
+    "Riorganizzazione",
+    "Fasi post-Lapita"
+  ],
+  "items": [
+    {
+      "id": "posts",
+      "label": "Pali e strutture abitative",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "pottery",
+      "label": "Ceramica dentellata",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "shell",
+      "label": "Ami e ornamenti in conchiglia",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "fishing",
+      "label": "Pesca e raccolta marina",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "gardens",
+      "label": "Orti e alberi utili",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "exchange",
+      "label": "Scambi oceanici",
+      "lane": "Organizzazione",
+      "start": 0,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "plainware",
+      "label": "Ceramica meno decorata",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1500–1560",
+    "1560–1620",
+    "1620–1680",
+    "1680–1740",
+    "1740–1800"
+  ],
+  "items": [
+    {
+      "id": "su1",
+      "label": "Attacchi portoghesi e contesa del Mar Rosso",
+      "lane": "Conflitti",
+      "start": 0,
+      "end": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "su2",
+      "label": "Occupazione ottomana e sede dell’eyalet",
+      "lane": "Politica",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "su3",
+      "label": "Restauro di moschee e difese",
+      "lane": "Costruzione",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "su4",
+      "label": "Commercio con Sennar e comunità Beja",
+      "lane": "Economia",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "su5",
+      "label": "Pellegrinaggio verso Gedda e Mecca",
+      "lane": "Mobilità",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "su6",
+      "label": "Case, magazzini e infrastrutture in corallo",
+      "lane": "Costruzione",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "su7",
+      "label": "Declino relativo delle grandi rotte oceaniche",
+      "lane": "Economia",
+      "start": 2,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "su8",
+      "label": "Persistenza del porto fino alle riforme ottocentesche",
+      "lane": "Continuità",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

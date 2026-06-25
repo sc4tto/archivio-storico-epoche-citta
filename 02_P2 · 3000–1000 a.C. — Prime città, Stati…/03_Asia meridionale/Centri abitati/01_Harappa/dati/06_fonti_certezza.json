@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Harappa presenta una sequenza dal IV al II millennio a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "HARAPPA_UNESCO"
+  },
+  {
+    "claim": "Durante la fase matura il sito comprendeva più centri murati su monticoli distinti",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "HARAPPA_UNESCO"
+  },
+  {
+    "claim": "Il sito era collegato a un antico corso del Ravi",
+    "theme": "Ambiente",
+    "status": "documentato",
+    "source": "HARAPPA_UNESCO"
+  },
+  {
+    "claim": "Pesi, sigilli e sistemi di misura erano standardizzati",
+    "theme": "Amministrazione",
+    "status": "documentato",
+    "source": "HARAPPA_HARP"
+  },
+  {
+    "claim": "Sono documentati laboratori per perle, conchiglia e metallurgia",
+    "theme": "Artigianato",
+    "status": "documentato",
+    "source": "HARAPPA_HARP"
+  },
+  {
+    "claim": "La scrittura dell’Indo è stata decifrata con certezza",
+    "theme": "Scrittura",
+    "status": "non_documentato",
+    "source": "Sistema ancora non decifrato"
+  },
+  {
+    "claim": "La struttura chiamata granaio aveva sicuramente una sola funzione",
+    "theme": "Funzione",
+    "status": "non_documentato",
+    "source": "Interpretazione tradizionale discussa"
+  },
+  {
+    "claim": "Il declino urbano fu causato da un’unica invasione",
+    "theme": "Declino",
+    "status": "non_documentato",
+    "source": "Trasformazioni pluricausali"
+  }
+]

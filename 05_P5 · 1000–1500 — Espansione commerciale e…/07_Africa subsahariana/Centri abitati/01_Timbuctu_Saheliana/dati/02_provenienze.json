@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Timbuctù",
+      "lat": 16.767,
+      "lon": -3.003,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "nig",
+      "label": "Fiume Niger e Kabara",
+      "lat": 16.55,
+      "lon": -3.1,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "sahel",
+      "label": "Sahel occidentale",
+      "lat": 15.8,
+      "lon": -4.5,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "tag",
+      "label": "Taghaza e Sahara",
+      "lat": 22.0,
+      "lon": -5.5,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "gao",
+      "label": "Gao",
+      "lat": 16.27,
+      "lon": -0.05,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "wal",
+      "label": "Walata",
+      "lat": 17.3,
+      "lon": -7.03,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "mag",
+      "label": "Maghreb",
+      "lat": 31.0,
+      "lon": -4.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "nig",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "barche e piste",
+      "food": "riso, pesce e cereali"
+    },
+    {
+      "source": "sahel",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "mercati regionali",
+      "food": "miglio, bestiame e burro"
+    },
+    {
+      "source": "tag",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane del sale",
+      "food": "sale e datteri"
+    },
+    {
+      "source": "gao",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "asse del Niger",
+      "food": "oro, tessuti e derrate"
+    },
+    {
+      "source": "wal",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "piste saheliane",
+      "food": "bestiame, cereali e merci"
+    },
+    {
+      "source": "mag",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane transahariane",
+      "food": "grano, libri e manufatti"
+    }
+  ]
+}

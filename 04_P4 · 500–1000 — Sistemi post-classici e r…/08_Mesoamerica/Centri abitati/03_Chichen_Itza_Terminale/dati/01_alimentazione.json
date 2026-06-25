@@ -1,0 +1,294 @@
+{
+  "nodes": [
+    {
+      "id": "t_cenotes",
+      "label": "Cenotes e falda carsica",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_milpa",
+      "label": "Campi e suoli dello Yucatán",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_forest",
+      "label": "Foresta, apiari e zone di caccia",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_routes",
+      "label": "Sacbeob e rotte verso le coste",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "r_maize",
+      "label": "Mais, fagioli e zucca",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_honey",
+      "label": "Miele, frutti e cacao",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "r_game",
+      "label": "Cervi, tacchini e piccola fauna",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_marine",
+      "label": "Sale, pesce e prodotti marini",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "a_farm",
+      "label": "Coltivazione e orti",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_draw",
+      "label": "Prelievo e gestione dell’acqua",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_hunt",
+      "label": "Caccia, apicoltura e raccolta",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "a_trade",
+      "label": "Mercato, tributo e scambio",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "x_grind",
+      "label": "Macinazione e impasti di mais",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x_cook",
+      "label": "Cottura, arrostitura e stufatura",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x_ferment",
+      "label": "Bevande e fermentazioni",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "x_preserve",
+      "label": "Salatura, essiccazione e stoccaggio",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_staples",
+      "label": "Pasti domestici di base",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_drinks",
+      "label": "Bevande di cacao, miele e mais",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_marinefood",
+      "label": "Prodotti marini conservati",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "p_feast",
+      "label": "Rifornimento di mercati, corte e rituali",
+      "layer": 4,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "t_milpa",
+      "target": "r_maize",
+      "status": "documentato",
+      "label": "produzione locale"
+    },
+    {
+      "source": "t_forest",
+      "target": "r_honey",
+      "status": "documentato",
+      "label": "apiari e raccolta"
+    },
+    {
+      "source": "t_forest",
+      "target": "r_game",
+      "status": "documentato",
+      "label": "caccia"
+    },
+    {
+      "source": "t_routes",
+      "target": "r_marine",
+      "status": "documentato",
+      "label": "collegamenti costieri"
+    },
+    {
+      "source": "t_routes",
+      "target": "r_honey",
+      "status": "sintesi",
+      "label": "cacao e beni di scambio"
+    },
+    {
+      "source": "t_cenotes",
+      "target": "r_maize",
+      "status": "sintesi",
+      "label": "acqua per campi e abitato"
+    },
+    {
+      "source": "r_maize",
+      "target": "a_farm",
+      "status": "documentato",
+      "label": "coltivazione"
+    },
+    {
+      "source": "r_maize",
+      "target": "a_trade",
+      "status": "sintesi",
+      "label": "surplus e mercato"
+    },
+    {
+      "source": "r_honey",
+      "target": "a_hunt",
+      "status": "sintesi",
+      "label": "apicoltura e raccolta"
+    },
+    {
+      "source": "r_honey",
+      "target": "a_trade",
+      "status": "documentato",
+      "label": "beni di prestigio"
+    },
+    {
+      "source": "r_game",
+      "target": "a_hunt",
+      "status": "documentato",
+      "label": "caccia"
+    },
+    {
+      "source": "r_marine",
+      "target": "a_trade",
+      "status": "documentato",
+      "label": "rotte costiere"
+    },
+    {
+      "source": "r_marine",
+      "target": "a_hunt",
+      "status": "sintesi",
+      "label": "pesca nelle zone costiere"
+    },
+    {
+      "source": "a_farm",
+      "target": "x_grind",
+      "status": "documentato",
+      "label": "preparazione del mais"
+    },
+    {
+      "source": "a_farm",
+      "target": "x_preserve",
+      "status": "documentato",
+      "label": "scorte"
+    },
+    {
+      "source": "a_draw",
+      "target": "x_cook",
+      "status": "documentato",
+      "label": "acqua per cucine e bevande"
+    },
+    {
+      "source": "a_draw",
+      "target": "x_ferment",
+      "status": "sintesi",
+      "label": "preparazioni liquide"
+    },
+    {
+      "source": "a_hunt",
+      "target": "x_cook",
+      "status": "documentato",
+      "label": "carne e selvaggina"
+    },
+    {
+      "source": "a_hunt",
+      "target": "x_preserve",
+      "status": "sintesi",
+      "label": "essiccazione"
+    },
+    {
+      "source": "a_trade",
+      "target": "x_preserve",
+      "status": "documentato",
+      "label": "sale e stoccaggio"
+    },
+    {
+      "source": "a_trade",
+      "target": "x_ferment",
+      "status": "sintesi",
+      "label": "cacao e bevande"
+    },
+    {
+      "source": "a_trade",
+      "target": "x_cook",
+      "status": "sintesi",
+      "label": "banchetti"
+    },
+    {
+      "source": "x_grind",
+      "target": "p_staples",
+      "status": "documentato",
+      "label": "alimenti di base"
+    },
+    {
+      "source": "x_cook",
+      "target": "p_staples",
+      "status": "documentato",
+      "label": "pasti quotidiani"
+    },
+    {
+      "source": "x_cook",
+      "target": "p_feast",
+      "status": "sintesi",
+      "label": "banchetti"
+    },
+    {
+      "source": "x_ferment",
+      "target": "p_drinks",
+      "status": "sintesi",
+      "label": "bevande"
+    },
+    {
+      "source": "x_preserve",
+      "target": "p_marinefood",
+      "status": "documentato",
+      "label": "sale e pesce"
+    },
+    {
+      "source": "x_preserve",
+      "target": "p_feast",
+      "status": "sintesi",
+      "label": "scorte per mercato e rituali"
+    }
+  ]
+}

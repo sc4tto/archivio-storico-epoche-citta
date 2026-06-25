@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Mayapán, capitale murata dello Yucatán",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Pianificazione entro le mura",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Strade, porte e quartieri",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Acqua",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Accesso e manutenzione dei cenotes",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Gestione domestica delle riserve",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Ceramica, tessitura e metallurgia",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Produzione domestica specializzata",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Mercati regionali",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Reti costiere e del Golfo",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Governo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Confederazione e lignaggi",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_1",
+          "label": "Riti e legittimazione politica",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

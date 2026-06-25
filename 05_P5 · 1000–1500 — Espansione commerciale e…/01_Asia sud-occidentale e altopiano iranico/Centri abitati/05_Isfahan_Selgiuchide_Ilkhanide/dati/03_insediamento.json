@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "i1",
+      "label": "Capitale dei Grandi Selgiuchidi",
+      "lane": "Politica",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "i2",
+      "label": "Trasformazione della moschea a quattro iwan",
+      "lane": "Architettura",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "i3",
+      "label": "Bazar e quartieri artigiani",
+      "lane": "Economia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "i4",
+      "label": "Crisi e conquista mongola",
+      "lane": "Conflitto",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "i5",
+      "label": "Restauri e aggiunte ilkhanidi",
+      "lane": "Architettura",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "i6",
+      "label": "Patronato muzaffaride",
+      "lane": "Politica",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "i7",
+      "label": "Influenze timuridi e nuove decorazioni",
+      "lane": "Architettura",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "i8",
+      "label": "Agricoltura irrigua e reti carovaniere",
+      "lane": "Economia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

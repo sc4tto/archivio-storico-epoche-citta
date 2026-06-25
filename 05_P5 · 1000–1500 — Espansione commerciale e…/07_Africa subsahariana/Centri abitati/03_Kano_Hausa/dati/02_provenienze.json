@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Kano",
+      "lat": 12.002,
+      "lon": 8.592,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "jak",
+      "label": "Valle del Jakara",
+      "lat": 12.05,
+      "lon": 8.55,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "kat",
+      "label": "Katsina",
+      "lat": 12.99,
+      "lon": 7.6,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "bor",
+      "label": "Bornu e lago Ciad",
+      "lat": 13.0,
+      "lon": 14.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "air",
+      "label": "Aïr e Sahara",
+      "lat": 18.5,
+      "lon": 8.5,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "nig",
+      "label": "Valle del Niger",
+      "lat": 12.0,
+      "lon": 3.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "for",
+      "label": "Foreste della cola",
+      "lat": 7.5,
+      "lon": -1.5,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "jak",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "agricoltura periurbana",
+      "food": "cereali, ortaggi e acqua"
+    },
+    {
+      "source": "kat",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "piste hausa",
+      "food": "tessuti, bestiame e cereali"
+    },
+    {
+      "source": "bor",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte orientali",
+      "food": "natron, pesce e cavalli"
+    },
+    {
+      "source": "air",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane sahariane",
+      "food": "sale, datteri e metalli"
+    },
+    {
+      "source": "nig",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte occidentali",
+      "food": "oro e merci saheliane"
+    },
+    {
+      "source": "for",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "scambi verso sud",
+      "food": "cola, avorio e prodotti forestali"
+    }
+  ]
+}

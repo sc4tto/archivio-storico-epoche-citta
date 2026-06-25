@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Jaketown fu un importante centro regionale durante la sfera Poverty Point",
+    "theme": "Reti",
+    "status": "documentato",
+    "source": "JAKETOWN_NHL"
+  },
+  {
+    "claim": "Il sito conserva evidenze di lavorazione e scambio di materiali non locali",
+    "theme": "Artigianato",
+    "status": "documentato",
+    "source": "JAKETOWN_NHL"
+  },
+  {
+    "claim": "L’occupazione antica precede di molto i grandi tumuli visibili",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "JAKETOWN_MDAH"
+  },
+  {
+    "claim": "I tumuli maggiori oggi conservati appartengono a fasi posteriori",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "JAKETOWN_MDAH"
+  },
+  {
+    "claim": "Le vie d’acqua collegavano il sito alle reti del delta",
+    "theme": "Mobilità",
+    "status": "sintesi",
+    "source": "JAKETOWN_GEO"
+  },
+  {
+    "claim": "I grandi tumuli visibili furono costruiti dalla cultura Poverty Point",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Tumuli posteriori"
+  },
+  {
+    "claim": "Jaketown era subordinata politicamente a Poverty Point",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Relazione politica ignota"
+  },
+  {
+    "claim": "L’intera area fu occupata senza interruzioni",
+    "theme": "Insediamento",
+    "status": "non_documentato",
+    "source": "Sequenza discontinua"
+  }
+]

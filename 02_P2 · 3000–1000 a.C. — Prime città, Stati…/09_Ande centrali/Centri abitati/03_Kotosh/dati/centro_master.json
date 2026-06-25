@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Kotosh — modulo multi-grafo",
+    "short_name": "Kotosh",
+    "site": "Complesso archeologico di Kotosh",
+    "modern_location": "Valle dell’Higueras, Huánuco, Perù",
+    "coordinates": {
+      "lat": -9.929,
+      "lon": -76.239
+    },
+    "scope": "Complesso d’altopiano con una lunga sequenza dal periodo Mito preceramico alle fasi Wairajirca, Kotosh e Chavín, noto per piccoli edifici rituali con focolare centrale e il Tempio delle Mani Incrociate.",
+    "version": "1.0-blocco_22_p2_ande_centrali_5_centri_v1",
+    "warning": "Le fasi di Kotosh non sono un unico insediamento invariato. Il Tempio delle Mani Incrociate appartiene alla tradizione Mito; ceramica e altre tecnologie compaiono nelle fasi successive."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "KOTOSH_IZUMI",
+      "title": "Izumi e Sono — Andes 2: Excavations at Kotosh, Peru",
+      "url": "https://www.um.u-tokyo.ac.jp/en/",
+      "use": "scavi, stratigrafia e architettura rituale"
+    },
+    {
+      "id": "KOTOSH_KANEZAKI",
+      "title": "Kanezaki — Emergence and Development of Pottery in the Andean Early Formative Period",
+      "url": "https://doi.org/10.1017/laq.2020.89",
+      "use": "cronologia Wairajirca e sviluppo della ceramica"
+    },
+    {
+      "id": "KOTOSH_MINCETUR",
+      "title": "MINCETUR — Templo de las Manos Cruzadas de Kotosh",
+      "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=158",
+      "use": "documentazione istituzionale e localizzazione"
+    }
+  ]
+}

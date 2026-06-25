@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Warrane–Sydney Cove, insediamento Eora e colonia penale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Conoscenze Eora",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Maree, stagioni e pesca",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Piante, fuoco e mobilità territoriale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Colonia penale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Razioni, disciplina e lavoro coatto",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Magazzini, registri e sorveglianza",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Legname, arenaria e mattoni",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Moli, strade e drenaggi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Conflitto coloniale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Espropriazione e violenza",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Epidemie e rottura delle reti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Navigazione imperiale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "First Fleet e rifornimenti",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Norfolk Island e rotte oceaniche",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

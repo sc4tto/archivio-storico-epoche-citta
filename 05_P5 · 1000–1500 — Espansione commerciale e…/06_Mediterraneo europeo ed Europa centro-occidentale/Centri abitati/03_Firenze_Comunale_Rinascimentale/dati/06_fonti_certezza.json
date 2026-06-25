@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Firenze crebbe come comune e centro manifatturiero fra XII e XIII secolo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "FI1; FI5"
+  },
+  {
+    "claim": "Le corporazioni ebbero un ruolo centrale nella vita economica e politica.",
+    "theme": "istituzioni",
+    "status": "documentato",
+    "source": "FI5"
+  },
+  {
+    "claim": "La cerchia muraria del XIV secolo definì il nucleo storico.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "FI1"
+  },
+  {
+    "claim": "Santa Maria del Fiore fu uno dei maggiori cantieri tardomedievali.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "FI1; FI3"
+  },
+  {
+    "claim": "Banche e compagnie mercantili collegavano Firenze ai mercati europei.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "FI5"
+  },
+  {
+    "claim": "Il rifornimento urbano dipendeva dal contado e dalle reti mercantili.",
+    "theme": "alimentazione",
+    "status": "sintesi",
+    "source": "FI1; FI5"
+  },
+  {
+    "claim": "La peste del 1348 produsse una forte crisi demografica.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "FI5"
+  },
+  {
+    "claim": "Le trasformazioni granducali successive non sono attribuite al periodo P5.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "FI1"
+  }
+]

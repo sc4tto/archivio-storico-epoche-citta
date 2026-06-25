@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Toronto, trasporto, alloggi, clima e riconciliazione",
+    "site": "Toronto, trasporto, alloggi, clima e riconciliazione",
+    "modern_location": "Toronto, Ontario, Canada",
+    "coordinates": {
+      "lat": 43.6532,
+      "lon": -79.3832
+    },
+    "scope": "Toronto dal 1970 al 25 giugno 2026: crescita della regione metropolitana, immigrazione e servizi globali, trasformazione di waterfront e quartieri industriali, TTC e reti regionali, crisi degli alloggi, inondazioni e calore, politiche TransformTO e HousingTO, accessibilità del trasporto e Reconciliation Action Plan con First Nations, Inuit e Métis.",
+    "version": "1.0",
+    "warning": "TransformTO 2026–2030, HousingTO 2020–2030 e Reconciliation Action Plan 2022–2032 sono piani con obiettivi futuri; non sono trattati come risultati già completati."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "TO1",
+      "title": "City of Toronto — TransformTO Net Zero Strategy Action Plan 2026–2030",
+      "use": "Edifici, trasporti, energia, rifiuti e obiettivi climatici futuri.",
+      "url": "https://www.toronto.ca/services-payments/water-environment/environmentally-friendly-city-initiatives/transformto/transformto-net-zero-action-plan/"
+    },
+    {
+      "id": "TO2",
+      "title": "Toronto Transit Commission — Accessibility Plan Status Report 2025",
+      "use": "Accessibilità, modernizzazione delle stazioni e servizi Wheel-Trans.",
+      "url": "https://cdn.ttc.ca/-/media/Project/TTC/DevProto/Documents/Home/Accessibility/2025-Accessibility-Plan-Status-Report.pdf"
+    },
+    {
+      "id": "TO3",
+      "title": "City of Toronto — Piano d’azione HousingTO 2020–2030",
+      "use": "Diritto all’alloggio, affitti, edilizia sociale e obiettivi futuri.",
+      "url": "https://www.toronto.ca/community-people/housing-shelter/building-affordable-homes/housingto-2020-2030-action-plan/"
+    },
+    {
+      "id": "TO4",
+      "title": "City of Toronto — Reconciliation Action Plan 2022–2032",
+      "use": "Verità, giustizia, condivisione del potere e relazioni con First Nations, Inuit e Métis.",
+      "url": "https://www.toronto.ca/city-government/accountability-operations-customer-service/long-term-vision-plans-and-strategies/reconciliation-action-plan/"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Khao Sam Kaeo",
+      "lat": 10.52,
+      "lon": 99.18,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "river",
+      "label": "Fiume Tha Tapao",
+      "lat": 10.53,
+      "lon": 99.17,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "andaman",
+      "label": "Costa delle Andamane",
+      "lat": 9.5,
+      "lon": 98.3,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "gulf",
+      "label": "Golfo di Thailandia",
+      "lat": 10.5,
+      "lon": 100.0,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "india",
+      "label": "Baia del Bengala",
+      "lat": 15.0,
+      "lon": 90.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "vietnam",
+      "label": "Vietnam e Mar Cinese Meridionale",
+      "lat": 13.0,
+      "lon": 108.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "river",
+      "target": "site",
+      "label": "acqua, approdi e trasporto locale",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "andaman",
+      "target": "site",
+      "label": "rotte verso Oceano Indiano",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "gulf",
+      "target": "site",
+      "label": "rotte verso Mar Cinese Meridionale",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "india",
+      "target": "site",
+      "label": "tecniche lapidarie, vetro e beni di prestigio",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "vietnam",
+      "target": "site",
+      "label": "metalli, ceramiche e reti orientali",
+      "status": "documentato",
+      "food": "parziale"
+    }
+  ]
+}

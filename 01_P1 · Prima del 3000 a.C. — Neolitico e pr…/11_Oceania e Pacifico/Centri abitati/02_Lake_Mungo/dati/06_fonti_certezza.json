@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "La regione dei laghi Willandra conserva una lunga sequenza di occupazione umana",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "WILLANDRA_UNESCO"
+  },
+  {
+    "claim": "Lake Mungo documenta pratiche funerarie complesse",
+    "theme": "Rituali",
+    "status": "documentato",
+    "source": "WILLANDRA_UNESCO"
+  },
+  {
+    "claim": "Le nuove datazioni collocano i resti principali intorno a 40.000 anni fa",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "MUNGO_NATURE_2003"
+  },
+  {
+    "claim": "Sono documentate attività di macinazione di semi",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "MUNGO_GRINDING"
+  },
+  {
+    "claim": "Il paesaggio registra il passaggio da lago attivo ad ambiente arido",
+    "theme": "Ambiente",
+    "status": "documentato",
+    "source": "WILLANDRA_UNESCO"
+  },
+  {
+    "claim": "Lake Mungo era una città stabile",
+    "theme": "Urbanizzazione",
+    "status": "non_documentato",
+    "source": "Paesaggio di frequentazioni ripetute"
+  },
+  {
+    "claim": "Tutti i resti umani hanno la stessa cronologia precisa",
+    "theme": "Metodo",
+    "status": "non_documentato",
+    "source": "Cronologie e contesti differenziati"
+  },
+  {
+    "claim": "Le pratiche rituali erano identiche in tutto il continente",
+    "theme": "Rituali",
+    "status": "non_documentato",
+    "source": "Generalizzazione non dimostrata"
+  }
+]

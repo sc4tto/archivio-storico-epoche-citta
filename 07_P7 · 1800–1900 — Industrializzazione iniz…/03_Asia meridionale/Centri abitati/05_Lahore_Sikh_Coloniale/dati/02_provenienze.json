@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Lahore",
+      "lat": 31.5889,
+      "lon": 74.3108,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "rav",
+      "label": "Valle del Ravi",
+      "lat": 31.7,
+      "lon": 74.1,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "maj",
+      "label": "Majha e Punjab centrale",
+      "lat": 31.5,
+      "lon": 75.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "mul",
+      "label": "Multan e Punjab meridionale",
+      "lat": 30.2,
+      "lon": 71.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "pes",
+      "label": "Peshawar e frontiera nord-occidentale",
+      "lat": 34.0,
+      "lon": 71.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "del",
+      "label": "Delhi e pianure indo-gangetiche",
+      "lat": 28.65,
+      "lon": 77.2,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "kar",
+      "label": "Karachi, Bombay e mercati globali",
+      "lat": 24.86,
+      "lon": 67.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "rav",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiume, canali e strade",
+      "food": "grano, ortaggi, pesce, legna e acqua"
+    },
+    {
+      "source": "maj",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Grand Trunk Road e ferrovia",
+      "food": "cereali, latte, bestiame e manodopera"
+    },
+    {
+      "source": "mul",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e carovane",
+      "food": "cotone, grano, zucchero e frutta secca"
+    },
+    {
+      "source": "pes",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e ferrovia",
+      "food": "cavalli, lana, frutta secca e merci di frontiera"
+    },
+    {
+      "source": "del",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Grand Trunk Road e ferrovia",
+      "food": "tessili, carta, funzionari e merci"
+    },
+    {
+      "source": "kar",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia verso i porti",
+      "food": "macchinari, tè e beni importati"
+    }
+  ]
+}

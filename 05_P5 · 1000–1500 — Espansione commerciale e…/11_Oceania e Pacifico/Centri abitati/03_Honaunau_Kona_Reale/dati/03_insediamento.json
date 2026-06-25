@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "ho1",
+      "label": "Espansione degli insediamenti della costa di Kona",
+      "lane": "Insediamento",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "ho2",
+      "label": "Intensificazione dei campi aridi e degli ahupuaʻa",
+      "lane": "Agricoltura",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ho3",
+      "label": "Formazione di centri residenziali degli aliʻi",
+      "lane": "Politica",
+      "start": 3,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "ho4",
+      "label": "Sviluppo di piattaforme e luoghi sacri",
+      "lane": "Religione",
+      "start": 3,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "ho5",
+      "label": "Sentieri costieri e connessioni monte-mare",
+      "lane": "Infrastrutture",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ho6",
+      "label": "Vivai e sfruttamento specializzato della costa",
+      "lane": "Economia",
+      "start": 2,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "ho7",
+      "label": "Consolidamento del sistema kapu",
+      "lane": "Società",
+      "start": 3,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "ho8",
+      "label": "Emergere di Hōnaunau come polo di Kona",
+      "lane": "Cronologia",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

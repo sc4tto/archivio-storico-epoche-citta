@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Pechino Ming–Qing",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Acqua e logistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Grande Canale e granai",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Pozzi, fossati e drenaggi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Corte e burocrazia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Riti imperiali e calendari",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Tributo, censimenti e mercati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Telaio ligneo e dougong",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Mura, piattaforme e tetti invetriati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Lacca, porcellana e metalli",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Tessili, carta e stampe",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Mobilità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Porte, strade e corrieri",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Canali e trasporto granario",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

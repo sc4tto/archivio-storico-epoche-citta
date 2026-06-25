@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Los Angeles dell’acqua, dell’automobile e del cinema",
+    "site": "Los Angeles dell’acqua, dell’automobile e del cinema",
+    "modern_location": "Los Angeles, Stati Uniti",
+    "coordinates": {
+      "lat": 34.0522,
+      "lon": -118.2437
+    },
+    "scope": "Los Angeles fra 1900 e 1945: annessioni territoriali, acquedotto del 1913, porto di San Pedro, petrolio, cinema, streetcars, automobile, depressione, industria aeronautica e mobilitazione bellica.",
+    "version": "1.0",
+    "warning": "Sono escluse la rete autostradale postbellica, la suburbanizzazione di massa dopo il 1945 e la trasformazione metropolitana tardo-novecentesca."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "LA1",
+      "title": "Los Angeles Public Library — Photo Collection",
+      "use": "Fotografie e storia urbana della metropoli.",
+      "url": "https://tessa.lapl.org/"
+    },
+    {
+      "id": "LA2",
+      "title": "California State Archives",
+      "use": "Fonti politiche, idriche e infrastrutturali.",
+      "url": "https://www.sos.ca.gov/archives"
+    },
+    {
+      "id": "LA3",
+      "title": "Los Angeles Conservancy",
+      "use": "Architettura e sviluppo urbano del Novecento.",
+      "url": "https://www.laconservancy.org/"
+    },
+    {
+      "id": "LA4",
+      "title": "National Park Service — Manzanar and regional history",
+      "use": "Politiche razziali e guerra nel Pacifico.",
+      "url": "https://www.nps.gov/manz/"
+    },
+    {
+      "id": "LA5",
+      "title": "Port of Los Angeles — History",
+      "use": "Sviluppo portuale e commercio.",
+      "url": "https://www.portoflosangeles.org/"
+    }
+  ]
+}

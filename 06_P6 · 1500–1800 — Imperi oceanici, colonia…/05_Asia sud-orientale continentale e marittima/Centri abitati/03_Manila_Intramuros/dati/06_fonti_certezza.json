@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Manila fu fondata come capitale coloniale spagnola nel 1571.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "MN1; MN2"
+  },
+  {
+    "claim": "Intramuros concentrava governo, chiese, conventi e istituzioni educative.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "MN1; MN2"
+  },
+  {
+    "claim": "Il galeone di Acapulco collegava Manila alla Nuova Spagna.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "MN4"
+  },
+  {
+    "claim": "Mercanti cinesi e il Parian erano centrali per il commercio urbano.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "MN2; MN4"
+  },
+  {
+    "claim": "Fortificazioni e baluardi proteggevano la città murata.",
+    "theme": "difesa",
+    "status": "documentato",
+    "source": "MN1"
+  },
+  {
+    "claim": "San Agustín rappresenta l’architettura religiosa coloniale del periodo.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "MN3"
+  },
+  {
+    "claim": "Terremoti e incendi produssero ricostruzioni ricorrenti.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "MN1; MN2"
+  },
+  {
+    "claim": "Le trasformazioni successive al 1800 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "MN2"
+  }
+]

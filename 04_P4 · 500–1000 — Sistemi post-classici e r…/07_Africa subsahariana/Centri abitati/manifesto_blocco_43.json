@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_43_P4_Africa_Subsahariana_5_Centri_v1",
+  "macroregion": "Africa subsahariana",
+  "centers": [
+    "01_Jenne_Jeno",
+    "02_Gao_Saney_Gao_Antico",
+    "03_Aksum_Tardoantica",
+    "04_Unguja_Ukuu",
+    "05_Shanga_Pate"
+  ],
+  "uses_central_assets": true
+}

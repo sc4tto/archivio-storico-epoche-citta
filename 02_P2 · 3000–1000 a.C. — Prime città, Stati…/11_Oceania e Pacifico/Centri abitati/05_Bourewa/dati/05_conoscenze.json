@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Bourewa",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Cronologia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Radiocarbonio",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Modelli spaziali",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Fasi precise",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Ceramica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Dentellatura",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Ceramica comune",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Produzione locale",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Ossidiana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Origine Bismarck",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Trasporto oceanico",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Valore sociale",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Mare",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Pesca",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Molluschi",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Approdi",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Orti",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Tuberi",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_2",
+          "label": "Frutti arborei",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_3",
+          "label": "Gestione dei suoli",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Insediamento",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Crescita del villaggio",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Spostamenti della costa",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Piano unitario",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

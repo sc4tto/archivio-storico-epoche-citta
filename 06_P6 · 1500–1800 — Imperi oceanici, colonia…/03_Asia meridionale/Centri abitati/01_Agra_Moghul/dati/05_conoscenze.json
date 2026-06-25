@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Agra moghul",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Acqua e giardini",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Canali dello Yamuna e pozzi",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Charbagh, vasche e fontane",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Corte e fiscalità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Mansabdari e approvvigionamento",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Granai, dogane e mercati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Arenaria, marmo e cupole",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Pietra dura, jali e calligrafia",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Tessili, metalli e gioielli",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Cucine e manifatture di corte",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Mobilità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Strada imperiale e sarai",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Navigazione sullo Yamuna",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

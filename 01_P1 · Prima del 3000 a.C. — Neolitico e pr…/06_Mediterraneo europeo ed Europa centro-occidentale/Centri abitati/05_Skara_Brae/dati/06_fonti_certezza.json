@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Skara Brae è un villaggio neolitico in pietra eccezionalmente conservato",
+    "theme": "Conservazione",
+    "status": "documentato",
+    "source": "HES_SKARA"
+  },
+  {
+    "claim": "Le case conservano focolari e arredi fissi in pietra",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "HES_SKARA"
+  },
+  {
+    "claim": "Skara Brae fa parte del sito UNESCO Heart of Neolithic Orkney",
+    "theme": "Patrimonio",
+    "status": "documentato",
+    "source": "UNESCO_ORKNEY"
+  },
+  {
+    "claim": "L’economia combinava agricoltura, allevamento e risorse marine",
+    "theme": "Alimentazione",
+    "status": "sintesi",
+    "source": "UNESCO_ORKNEY"
+  },
+  {
+    "claim": "Passaggi e drenaggi collegavano e servivano le abitazioni",
+    "theme": "Infrastrutture",
+    "status": "documentato",
+    "source": "CANMORE_SKARA"
+  },
+  {
+    "claim": "Tutte le case visibili furono costruite e abitate nello stesso momento",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Il villaggio ebbe ricostruzioni e fasi"
+  },
+  {
+    "claim": "Le credenze in pietra erano certamente altari religiosi",
+    "theme": "Funzioni",
+    "status": "non_documentato",
+    "source": "Interpretazione funzionale non certa"
+  },
+  {
+    "claim": "L’abbandono avvenne in un unico evento catastrofico perfettamente datato",
+    "theme": "Abbandono",
+    "status": "non_documentato",
+    "source": "Processo e cause discussi"
+  }
+]

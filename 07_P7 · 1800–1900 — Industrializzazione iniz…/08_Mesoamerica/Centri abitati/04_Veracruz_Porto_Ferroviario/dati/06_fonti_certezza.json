@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Veracruz fu il principale porto messicano sul Golfo nel XIX secolo.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "VE1; VE5"
+  },
+  {
+    "claim": "San Juan de Ulúa rimase presidio spagnolo fino al 1825.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "VE1; VE2"
+  },
+  {
+    "claim": "La città subì bombardamenti e occupazioni straniere nel 1838 e nel 1847.",
+    "theme": "conflitto",
+    "status": "documentato",
+    "source": "VE1; VE3"
+  },
+  {
+    "claim": "La ferrovia con Città del Messico fu completata nel 1873.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "VE1; VE4"
+  },
+  {
+    "claim": "Epidemie e quarantene influenzarono profondamente la vita portuale.",
+    "theme": "salute",
+    "status": "documentato",
+    "source": "VE1; VE4"
+  },
+  {
+    "claim": "I lavori degli anni 1890 modernizzarono moli e frangiflutti.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "VE1; VE4"
+  },
+  {
+    "claim": "Dogane e commercio internazionale resero il porto strategico per lo Stato.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "VE1; VE5"
+  },
+  {
+    "claim": "Le trasformazioni successive al 1900 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "VE1"
+  }
+]

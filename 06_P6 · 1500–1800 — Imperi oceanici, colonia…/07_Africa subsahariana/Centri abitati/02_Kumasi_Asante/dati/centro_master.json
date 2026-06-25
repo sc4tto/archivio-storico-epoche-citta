@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Kumasi asante",
+    "site": "Kumasi asante",
+    "modern_location": "Kumasi, Ghana",
+    "coordinates": {
+      "lat": 6.6885,
+      "lon": -1.6244
+    },
+    "scope": "Kumasi fra la fine del XVII secolo e il 1800: capitale Asante, corte, mercati, quartieri artigiani, nodi delle rotte dell’oro e della kola e paesaggio rituale regionale.",
+    "version": "1.0",
+    "warning": "Il modulo si concentra sulla formazione e sull’apogeo settecentesco. Le guerre anglo-asante e le distruzioni ottocentesche della capitale sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "KU1",
+      "title": "UNESCO — Asante Traditional Buildings",
+      "use": "Architettura in terra, legno e paglia e apogeo Asante del XVIII secolo.",
+      "url": "https://whc.unesco.org/en/list/35/"
+    },
+    {
+      "id": "KU2",
+      "title": "Encyclopaedia Britannica — Kumasi",
+      "use": "Storia urbana e ruolo di capitale asante.",
+      "url": "https://www.britannica.com/place/Kumasi"
+    },
+    {
+      "id": "KU3",
+      "title": "Encyclopaedia Britannica — Asante empire",
+      "use": "Formazione politica, commercio e istituzioni.",
+      "url": "https://www.britannica.com/place/Asante-empire"
+    },
+    {
+      "id": "KU4",
+      "title": "The Metropolitan Museum of Art — Asante arts",
+      "use": "Oro, regalia, tessili e cultura materiale.",
+      "url": "https://www.metmuseum.org/toah/hd/asan_1/hd_asan_1.htm"
+    },
+    {
+      "id": "KU5",
+      "title": "Ghana Museums and Monuments Board",
+      "use": "Patrimonio e tradizioni architettoniche del Ghana.",
+      "url": "https://www.ghanamuseums.org/"
+    }
+  ]
+}

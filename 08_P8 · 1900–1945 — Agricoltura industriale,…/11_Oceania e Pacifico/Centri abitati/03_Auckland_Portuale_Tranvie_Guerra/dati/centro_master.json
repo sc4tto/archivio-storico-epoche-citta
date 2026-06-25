@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Auckland portuale, tranviaria e bellica",
+    "site": "Auckland portuale, tranviaria e bellica",
+    "modern_location": "Auckland, Aotearoa Nuova Zelanda",
+    "coordinates": {
+      "lat": -36.8485,
+      "lon": 174.7633
+    },
+    "scope": "Auckland fra 1900 e 1945: porto, tram elettrici dal 1902, crescita suburbana, sciopero del 1913, influenza del 1918, depressione, edilizia statale e mobilitazione bellica.",
+    "version": "1.0",
+    "warning": "Sono esclusi l’Auckland Harbour Bridge del 1959, la rete autostradale e la suburbanizzazione automobilistica del dopoguerra."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "AU1",
+      "title": "Auckland Libraries — Kura Heritage Collections",
+      "use": "Fotografie, mappe e storia locale di Tāmaki Makaurau.",
+      "url": "https://kura.aucklandlibraries.govt.nz/"
+    },
+    {
+      "id": "AU2",
+      "title": "Te Ara — The Encyclopedia of New Zealand",
+      "use": "Storia regionale, popolazione, trasporti e società.",
+      "url": "https://teara.govt.nz/en/auckland-region"
+    },
+    {
+      "id": "AU3",
+      "title": "Auckland Council — Heritage",
+      "use": "Patrimonio costruito, siti e paesaggi culturali.",
+      "url": "https://www.aucklandcouncil.govt.nz/arts-culture-heritage/heritage/"
+    },
+    {
+      "id": "AU4",
+      "title": "NZHistory — Ministry for Culture and Heritage",
+      "use": "Scioperi, guerre, influenza e politiche sociali.",
+      "url": "https://nzhistory.govt.nz/"
+    },
+    {
+      "id": "AU5",
+      "title": "National Library of New Zealand",
+      "use": "Giornali, immagini e collezioni documentarie.",
+      "url": "https://natlib.govt.nz/"
+    }
+  ]
+}

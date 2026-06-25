@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Alessandria fatimide, ayyubide e mamelucca",
+    "site": "Alessandria medievale",
+    "modern_location": "Alessandria, Egitto",
+    "coordinates": {
+      "lat": 31.2001,
+      "lon": 29.9187
+    },
+    "scope": "Alessandria fra 1000 e 1500: porto fatimide, ayyubide e mamelucco, commercio mediterraneo, fondachi mercantili, terremoti, incursione del 1365 e cittadella di Qaitbay.",
+    "version": "1.0",
+    "warning": "La città medievale riutilizzò materiali e spazi antichi, ma la sua topografia non coincide con quella ellenistica. La cittadella di Qaitbay appartiene alla fine del XV secolo."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "AL1",
+      "title": "Encyclopaedia Britannica — Alexandria",
+      "use": "Storia urbana, porto e trasformazioni medievali.",
+      "url": "https://www.britannica.com/place/Alexandria-Egypt"
+    },
+    {
+      "id": "AL2",
+      "title": "Encyclopaedia of Islam / Brill — Alexandria",
+      "use": "Commercio, istituzioni e storia islamica della città.",
+      "url": "https://referenceworks.brill.com/display/entries/EIEO/COM-0069.xml"
+    },
+    {
+      "id": "AL3",
+      "title": "The Metropolitan Museum of Art — Trade in the Mamluk Mediterranean",
+      "use": "Contesto del commercio mamelucco con le città italiane.",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-mamluk-period-1250-1517"
+    },
+    {
+      "id": "AL4",
+      "title": "Archnet — Qaitbay Citadel",
+      "use": "Fortificazioni portuali del tardo XV secolo.",
+      "url": "https://www.archnet.org/sites/2057"
+    },
+    {
+      "id": "AL5",
+      "title": "UNESCO — Alexandria and Mediterranean heritage",
+      "use": "Quadro storico e patrimoniale della città portuale.",
+      "url": "https://whc.unesco.org/en/tentativelists/1822/"
+    }
+  ]
+}

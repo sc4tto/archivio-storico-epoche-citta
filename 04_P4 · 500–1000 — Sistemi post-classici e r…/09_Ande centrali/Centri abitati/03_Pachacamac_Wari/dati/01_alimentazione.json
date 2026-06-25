@@ -1,0 +1,312 @@
+{
+  "nodes": [
+    {
+      "id": "t0",
+      "label": "Valle irrigua del Lurín",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t1",
+      "label": "Litorale e zone umide",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t2",
+      "label": "Lomas costiere stagionali",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t3",
+      "label": "Reti di pellegrinaggio",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "r0",
+      "label": "Mais, fagioli, zucca e frutta",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r1",
+      "label": "Pesci, molluschi e alghe",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r2",
+      "label": "Camelidi e porcellini d’India",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r3",
+      "label": "Coca, spondylus e beni esotici",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "a0",
+      "label": "Agricoltura irrigua",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a1",
+      "label": "Pesca e raccolta marina",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a2",
+      "label": "Allevamento e carovane",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a3",
+      "label": "Offerta, tributo e scambio rituale",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "x0",
+      "label": "Macinazione e cottura",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x1",
+      "label": "Essiccazione e salatura",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x2",
+      "label": "Fermentazione di chicha",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x3",
+      "label": "Stoccaggio e preparazione di offerte",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "p0",
+      "label": "Pasti comunitari",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p1",
+      "label": "Pesce conservato e prodotti marini",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "p2",
+      "label": "Chicha per cerimonie",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "p3",
+      "label": "Offerte alimentari e beni di prestigio",
+      "layer": 4,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "t0",
+      "target": "r0",
+      "status": "documentato",
+      "label": "La valle irrigua del Lurín produceva mais, legumi, zucca e frutta."
+    },
+    {
+      "source": "t0",
+      "target": "r2",
+      "status": "sintesi",
+      "label": "Le aree agricole e domestiche sostenevano anche piccoli allevamenti."
+    },
+    {
+      "source": "t1",
+      "target": "r1",
+      "status": "documentato",
+      "label": "Litorale e zone umide fornivano pesci, molluschi e alghe."
+    },
+    {
+      "source": "t2",
+      "target": "r2",
+      "status": "documentato",
+      "label": "Le lomas offrivano pascolo stagionale e risorse per camelidi."
+    },
+    {
+      "source": "t3",
+      "target": "r3",
+      "status": "documentato",
+      "label": "Le reti di pellegrinaggio portavano coca, spondylus e beni esotici."
+    },
+    {
+      "source": "t3",
+      "target": "r0",
+      "status": "sintesi",
+      "label": "Pellegrini e tributi potevano portare derrate agricole."
+    },
+    {
+      "source": "r0",
+      "target": "a0",
+      "status": "documentato",
+      "label": "Le colture vallive derivavano dall’agricoltura irrigua."
+    },
+    {
+      "source": "r0",
+      "target": "a3",
+      "status": "sintesi",
+      "label": "Parte dei prodotti agricoli poteva essere offerta o tributata."
+    },
+    {
+      "source": "r1",
+      "target": "a1",
+      "status": "documentato",
+      "label": "Pesci, molluschi e alghe derivavano da pesca e raccolta marina."
+    },
+    {
+      "source": "r1",
+      "target": "a3",
+      "status": "documentato",
+      "label": "Prodotti marini erano anche presentati come offerte."
+    },
+    {
+      "source": "r2",
+      "target": "a2",
+      "status": "documentato",
+      "label": "Camelidi e porcellini d’India erano legati ad allevamento e carovane."
+    },
+    {
+      "source": "r2",
+      "target": "a3",
+      "status": "sintesi",
+      "label": "Animali e carne potevano essere tributati o offerti."
+    },
+    {
+      "source": "r3",
+      "target": "a3",
+      "status": "documentato",
+      "label": "Coca, spondylus e beni esotici giungevano tramite scambio rituale."
+    },
+    {
+      "source": "a0",
+      "target": "x0",
+      "status": "documentato",
+      "label": "I prodotti agricoli erano macinati e cotti."
+    },
+    {
+      "source": "a0",
+      "target": "x2",
+      "status": "documentato",
+      "label": "Il mais irrigato alimentava la produzione di chicha."
+    },
+    {
+      "source": "a0",
+      "target": "x3",
+      "status": "sintesi",
+      "label": "Derrate agricole erano stoccate per il santuario."
+    },
+    {
+      "source": "a1",
+      "target": "x1",
+      "status": "documentato",
+      "label": "Pesce e prodotti marini erano essiccati o salati."
+    },
+    {
+      "source": "a1",
+      "target": "x3",
+      "status": "documentato",
+      "label": "Parte dei prodotti marini era preparata e conservata come offerta."
+    },
+    {
+      "source": "a2",
+      "target": "x0",
+      "status": "documentato",
+      "label": "Carni e piccoli animali erano cotti."
+    },
+    {
+      "source": "a2",
+      "target": "x1",
+      "status": "documentato",
+      "label": "La carne poteva essere essiccata."
+    },
+    {
+      "source": "a2",
+      "target": "x3",
+      "status": "sintesi",
+      "label": "Animali e carne potevano essere preparati per offerte."
+    },
+    {
+      "source": "a3",
+      "target": "x2",
+      "status": "sintesi",
+      "label": "Tributi di mais potevano alimentare la chicha cerimoniale."
+    },
+    {
+      "source": "a3",
+      "target": "x3",
+      "status": "documentato",
+      "label": "Offerte e tributi richiedevano selezione, preparazione e stoccaggio."
+    },
+    {
+      "source": "x0",
+      "target": "p0",
+      "status": "documentato",
+      "label": "Macinazione e cottura producevano pasti comunitari."
+    },
+    {
+      "source": "x0",
+      "target": "p3",
+      "status": "sintesi",
+      "label": "Preparazioni cotte potevano diventare offerte alimentari."
+    },
+    {
+      "source": "x1",
+      "target": "p1",
+      "status": "documentato",
+      "label": "Essiccazione e salatura producevano pesce conservato."
+    },
+    {
+      "source": "x1",
+      "target": "p3",
+      "status": "documentato",
+      "label": "Prodotti conservati erano adatti alle offerte e ai pellegrinaggi."
+    },
+    {
+      "source": "x2",
+      "target": "p2",
+      "status": "documentato",
+      "label": "La fermentazione produceva chicha per cerimonie."
+    },
+    {
+      "source": "x2",
+      "target": "p0",
+      "status": "sintesi",
+      "label": "La chicha accompagnava pasti e riunioni comunitarie."
+    },
+    {
+      "source": "x3",
+      "target": "p3",
+      "status": "documentato",
+      "label": "Lo stoccaggio e la preparazione producevano offerte e beni di prestigio."
+    },
+    {
+      "source": "x3",
+      "target": "p0",
+      "status": "sintesi",
+      "label": "Le scorte sostenevano pasti per personale e pellegrini."
+    }
+  ]
+}

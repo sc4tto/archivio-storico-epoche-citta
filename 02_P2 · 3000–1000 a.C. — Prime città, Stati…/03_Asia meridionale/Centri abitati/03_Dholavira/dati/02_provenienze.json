@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Dholavira",
+      "lat": 23.888,
+      "lon": 70.214,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "mansar",
+      "label": "Torrente Mansar",
+      "lat": 23.91,
+      "lon": 70.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "manhar",
+      "label": "Torrente Manhar",
+      "lat": 23.86,
+      "lon": 70.22,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "rann",
+      "label": "Rann di Kutch",
+      "lat": 23.7,
+      "lon": 70.0,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "lothal",
+      "label": "Lothal",
+      "lat": 22.522,
+      "lon": 72.249,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "oman",
+      "label": "Oman e Golfo Persico",
+      "lat": 23.6,
+      "lon": 58.2,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "mansar",
+      "target": "site",
+      "label": "acqua meteorica e sedimenti",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "manhar",
+      "target": "site",
+      "label": "raccolta e deviazione dell’acqua",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "rann",
+      "target": "site",
+      "label": "sale, conchiglie e percorsi",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "lothal",
+      "target": "site",
+      "label": "standard, beni e reti regionali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "oman",
+      "target": "site",
+      "label": "rame, conchiglie e commercio",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

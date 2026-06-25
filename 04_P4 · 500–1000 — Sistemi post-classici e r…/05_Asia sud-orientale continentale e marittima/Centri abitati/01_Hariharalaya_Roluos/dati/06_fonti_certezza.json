@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Hariharalaya fu una capitale khmer del IX secolo nell’area oggi detta Roluos.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "H1; H3; H5"
+  },
+  {
+    "claim": "Preah Ko, Bakong e Lolei formano il nucleo monumentale più riconoscibile della capitale.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "H5"
+  },
+  {
+    "claim": "Il sistema comprendeva grandi opere idrauliche, incluso l’Indratataka.",
+    "theme": "acqua",
+    "status": "documentato",
+    "source": "H1; H4"
+  },
+  {
+    "claim": "La produzione risicola sosteneva corte, templi e forza-lavoro.",
+    "theme": "alimentazione",
+    "status": "sintesi",
+    "source": "H1; H4"
+  },
+  {
+    "claim": "Pesca e risorse del Tonlé Sap contribuivano alla dieta locale.",
+    "theme": "alimentazione",
+    "status": "inferito",
+    "source": "H4; confronto regionale"
+  },
+  {
+    "claim": "Gli edifici domestici erano in larga parte di legno e materiali deperibili.",
+    "theme": "insediamento",
+    "status": "inferito",
+    "source": "H4; confronto archeologico"
+  },
+  {
+    "claim": "L’arenaria proveniva da circuiti connessi all’area di Phnom Kulen.",
+    "theme": "materiali",
+    "status": "sintesi",
+    "source": "H1; letteratura su Angkor"
+  },
+  {
+    "claim": "Dopo il 889 il fulcro politico si spostò verso Yasodharapura.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "H3; H5"
+  }
+]

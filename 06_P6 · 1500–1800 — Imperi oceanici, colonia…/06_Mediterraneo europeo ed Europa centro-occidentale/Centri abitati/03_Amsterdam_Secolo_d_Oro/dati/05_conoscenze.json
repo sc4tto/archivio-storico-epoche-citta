@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Amsterdam del Secolo d’oro",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Acqua e polder",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Palificate, argini e chiuse",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Canali, ponti e drenaggio",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Commercio globale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "VOC, WIC e convogli",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Borsa, credito e assicurazioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Cantieri e porto",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Carpenteria navale e magazzini",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Corde, vele e approvvigionamenti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Corporazioni, immigrati e confessioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Assistenza civica e quartieri",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Cultura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Stampa, cartografia e scienze",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Pittura, collezionismo e mercato d’arte",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

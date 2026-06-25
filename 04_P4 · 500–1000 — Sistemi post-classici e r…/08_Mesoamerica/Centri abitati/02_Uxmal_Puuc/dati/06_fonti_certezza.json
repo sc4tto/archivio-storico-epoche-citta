@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "La maggior parte degli edifici monumentali di Uxmal fu costruita fra VIII e X secolo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "U1; U3"
+  },
+  {
+    "claim": "La raccolta di acqua piovana in chultunes era indispensabile nella regione priva di cenotes superficiali.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "U1; U4"
+  },
+  {
+    "claim": "Uxmal era collegata a Kabah e ad altri centri Puuc da strade e reti politiche.",
+    "theme": "territorio",
+    "status": "documentato",
+    "source": "U1; U4"
+  },
+  {
+    "claim": "L’architettura Puuc combinava nuclei di pietrame con rivestimenti modulari finemente lavorati.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "U1; U3"
+  },
+  {
+    "claim": "Le facciate con maschere di Chaac riflettono il ruolo simbolico della pioggia.",
+    "theme": "culto",
+    "status": "documentato",
+    "source": "U1; U5"
+  },
+  {
+    "claim": "La produzione alimentare dipendeva dalla gestione congiunta di suolo, bosco e acqua immagazzinata.",
+    "theme": "alimentazione",
+    "status": "sintesi",
+    "source": "U4"
+  },
+  {
+    "claim": "Il ruolo politico preciso dei singoli edifici non può essere dedotto soltanto dalla monumentalità.",
+    "theme": "certezza",
+    "status": "sintesi",
+    "source": "U3; U5"
+  },
+  {
+    "claim": "Le dimensioni demografiche riportate nelle sintesi moderne sono stime, non censimenti.",
+    "theme": "certezza",
+    "status": "sintesi",
+    "source": "U1; U4"
+  }
+]

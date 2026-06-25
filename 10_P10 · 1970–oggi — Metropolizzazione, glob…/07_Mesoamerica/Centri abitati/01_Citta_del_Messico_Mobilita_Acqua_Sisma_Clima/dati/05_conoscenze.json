@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Città del Messico, mobilità, acqua, sisma e clima",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Governance metropolitana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "CDMX, alcaldías, Stato di México e coordinamento della valle",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Pianificazione, bilanci, dati e partecipazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mobilità integrata",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Metro, Metrobús, Cablebús, filobus e ciclabilità",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Manutenzione, accessibilità, sicurezza e tariffe",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Acqua e sottosuolo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Falde, Cutzamala, perdite, drenaggio e subsidenza",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Equità dell’accesso, riuso e protezione delle infrastrutture",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Rischio sismico",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Norme, microzonazione, allerta e ispezione degli edifici",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Memoria dei disastri, protezione civile e ricostruzione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Clima e giustizia urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Qualità dell’aria, calore, rifiuti e suolo di conservazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Insediamenti informali, diritti abitativi e adattamento equo",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

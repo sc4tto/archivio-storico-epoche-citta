@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Jaketown — modulo multi-grafo",
+    "short_name": "Jaketown",
+    "site": "Sito archeologico di Jaketown",
+    "modern_location": "Humphreys County presso Belzoni, Mississippi, Stati Uniti",
+    "coordinates": {
+      "lat": 33.089,
+      "lon": -90.526
+    },
+    "scope": "Grande nodo del basso Yazoo occupato nel Tardo Arcaico e collegato alla sfera di Poverty Point, con aree di lavorazione, materiali esotici e una lunga storia di riuso; i tumuli visibili appartengono soprattutto a fasi molto posteriori.",
+    "version": "1.0-blocco_23_p2_america_settentrionale_5_centri_v1",
+    "warning": "I due grandi tumuli oggi visibili non sono costruzioni Poverty Point ma opere posteriori. Il modulo separa l’occupazione del II millennio a.C. dai livelli Woodland e Mississippi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "JAKETOWN_NHL",
+      "title": "National Park Service — Jaketown Site, National Historic Landmark",
+      "url": "https://www.nps.gov/subjects/nationalhistoriclandmarks/jaketown-site.htm",
+      "use": "valore nazionale e sequenza di occupazione"
+    },
+    {
+      "id": "JAKETOWN_MDAH",
+      "title": "Mississippi Department of Archives and History — Mississippi Mound Trail",
+      "url": "https://trails.mdah.ms.gov/",
+      "use": "gestione, mappatura e distinzione dei tumuli"
+    },
+    {
+      "id": "JAKETOWN_GEO",
+      "title": "Washington University — Geoarchaeology at Jaketown",
+      "url": "https://anthropology.wustl.edu/",
+      "use": "paesaggio, sedimenti e aree di attività"
+    }
+  ]
+}

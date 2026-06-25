@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Cairo ottomano",
+    "site": "Cairo ottomano",
+    "modern_location": "Cairo, Egitto",
+    "coordinates": {
+      "lat": 30.0444,
+      "lon": 31.2357
+    },
+    "scope": "Cairo fra 1517 e 1800: amministrazione ottomana, élite mamelucche, cittadella, mercati, manifatture, pellegrinaggio, reti nilotiche e trasformazioni urbane.",
+    "version": "1.0",
+    "warning": "Il modulo distingue le strutture medievali ancora in uso dagli interventi ottomani. La spedizione francese del 1798 è trattata solo come limite finale del periodo."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "CA1",
+      "title": "UNESCO — Historic Cairo",
+      "use": "Tessuto urbano, monumenti e stratificazione islamica della città.",
+      "url": "https://whc.unesco.org/en/list/89/"
+    },
+    {
+      "id": "CA2",
+      "title": "Encyclopaedia Britannica — Cairo",
+      "use": "Storia politica, geografia del Nilo e sviluppo urbano.",
+      "url": "https://www.britannica.com/place/Cairo"
+    },
+    {
+      "id": "CA3",
+      "title": "The Metropolitan Museum of Art — Ottoman art",
+      "use": "Contesto artistico e architettonico ottomano.",
+      "url": "https://www.metmuseum.org/toah/hd/otto1/hd_otto1.htm"
+    },
+    {
+      "id": "CA4",
+      "title": "Archnet — Cairo",
+      "use": "Moschee, case, sabil-kuttab, mercati e architetture ottomane.",
+      "url": "https://www.archnet.org/sites/country/EG"
+    },
+    {
+      "id": "CA5",
+      "title": "UNESCO — Historic Cairo documents",
+      "use": "Documentazione patrimoniale e urbana del sito.",
+      "url": "https://whc.unesco.org/en/list/89/documents/"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Valle del Bujang",
+      "lat": 5.74,
+      "lon": 100.42,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "sungai",
+      "label": "Sungai Batu",
+      "lat": 5.69,
+      "lon": 100.45,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "merbok",
+      "label": "Fiume Merbok",
+      "lat": 5.68,
+      "lon": 100.36,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "andaman",
+      "label": "Baia del Bengala e Andamane",
+      "lat": 8.0,
+      "lon": 95.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "malacca",
+      "label": "Stretto di Malacca",
+      "lat": 3.0,
+      "lon": 101.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "india",
+      "label": "Costa orientale dell’India",
+      "lat": 12.0,
+      "lon": 80.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "sungai",
+      "target": "site",
+      "label": "metallurgia, approdi e depositi",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "merbok",
+      "target": "site",
+      "label": "accesso fluviale alla costa",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "andaman",
+      "target": "site",
+      "label": "rotte verso Oceano Indiano",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "malacca",
+      "target": "site",
+      "label": "navigazione interregionale",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "india",
+      "target": "site",
+      "label": "ceramiche, idee religiose e beni di prestigio",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

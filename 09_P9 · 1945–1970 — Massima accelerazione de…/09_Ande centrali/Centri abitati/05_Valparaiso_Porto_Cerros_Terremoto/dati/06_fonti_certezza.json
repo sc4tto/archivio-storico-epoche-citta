@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "La forma urbana di Valparaíso integrò il plan portuale con un anfiteatro di cerros collegati da scale, ascensori e trasporti.",
+    "theme": "morfologia",
+    "status": "documentato",
+    "source": "VA1"
+  },
+  {
+    "claim": "Il porto collegò il mercato nazionale e le regioni minerarie alle rotte del Pacifico.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "VA1; VA4"
+  },
+  {
+    "claim": "L’espansione periferica sui cerros produsse campamentos e quartieri costruiti dagli abitanti con servizi incompleti.",
+    "theme": "abitazione",
+    "status": "documentato",
+    "source": "VA2"
+  },
+  {
+    "claim": "Il terremoto del 28 marzo 1965 provocò danni e rese necessarie opere di emergenza e ricostruzione.",
+    "theme": "rischio",
+    "status": "documentato",
+    "source": "VA3"
+  },
+  {
+    "claim": "Politiche statali di industrializzazione ed elettrificazione influenzarono porto, trasporti e occupazione urbana.",
+    "theme": "sviluppo",
+    "status": "documentato",
+    "source": "VA4"
+  },
+  {
+    "claim": "Valparaíso, porto, cerros e ricostruzione sismica è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "La precarietà dei campamentos, gli sgomberi e la distribuzione diseguale di acqua, trasporti e sicurezza sismica sono descritti come segregazione e subordinazione urbana; portuali e pobladores sono rappresentati come soggetti organizzati della città.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

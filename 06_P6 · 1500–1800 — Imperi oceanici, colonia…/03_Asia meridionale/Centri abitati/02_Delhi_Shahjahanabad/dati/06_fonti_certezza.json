@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Shah Jahan fondò Shahjahanabad come nuova capitale moghul nel XVII secolo.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "DE1; DE2"
+  },
+  {
+    "claim": "Il Forte Rosso costituiva il centro politico e cerimoniale della capitale.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "DE1"
+  },
+  {
+    "claim": "Chandni Chowk e i katra organizzavano commercio e manifatture.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "DE2"
+  },
+  {
+    "claim": "La Jama Masjid dominava il paesaggio religioso della città.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "DE2"
+  },
+  {
+    "claim": "Canali e giardini collegavano il palazzo allo Yamuna.",
+    "theme": "ambiente",
+    "status": "documentato",
+    "source": "DE1; DE4"
+  },
+  {
+    "claim": "Il XVIII secolo fu segnato da invasioni e frammentazione politica.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "DE2; DE5"
+  },
+  {
+    "claim": "Le havelis e i quartieri mercantili erano parti essenziali del tessuto urbano.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "DE2"
+  },
+  {
+    "claim": "La Delhi britannica è esclusa dal limite cronologico del modulo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "DE2"
+  }
+]

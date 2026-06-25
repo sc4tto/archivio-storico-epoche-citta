@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Soba, capitale di Alodia",
+    "site": "Soba medievale",
+    "modern_location": "Soba East, area di Khartoum, Sudan",
+    "coordinates": {
+      "lat": 15.588,
+      "lon": 32.521
+    },
+    "scope": "Soba fra 1000 e 1500: capitale di Alodia, città in mattoni rossi e crudi, chiese, quartieri, agricoltura del Nilo Azzurro, reti verso Butana, Gezira ed Etiopia e declino alla fine del Medioevo.",
+    "version": "1.0",
+    "warning": "Solo una parte ridotta della città è stata scavata e la sua estensione è ricostruita anche con prospezioni geofisiche. Molte funzioni dei quartieri restano ipotesi di lavoro."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SO1",
+      "title": "Soba — the heart of Alwa Project",
+      "use": "Topografia, prospezioni e ricerca interdisciplinare sulla capitale.",
+      "url": "http://soba.uw.edu.pl/en/"
+    },
+    {
+      "id": "SO2",
+      "title": "Antiquity — The spatial organisation of Soba",
+      "use": "Struttura urbana e risultati delle prospezioni geofisiche.",
+      "url": "https://doi.org/10.15184/aqy.2021.158"
+    },
+    {
+      "id": "SO3",
+      "title": "African Archaeological Review — Medieval metropolis of Soba",
+      "use": "Archeologia urbana e rapporto con l’espansione moderna.",
+      "url": "https://doi.org/10.1007/s10437-021-09459-1"
+    },
+    {
+      "id": "SO4",
+      "title": "British Museum — Soba and medieval Nubia",
+      "use": "Scavi storici e cultura materiale del regno di Alodia.",
+      "url": "https://www.britishmuseum.org/research/projects/soba"
+    },
+    {
+      "id": "SO5",
+      "title": "Polish Centre of Mediterranean Archaeology — Soba",
+      "use": "Missioni archeologiche e risultati recenti.",
+      "url": "https://pcma.uw.edu.pl/en/2020/01/16/soba/"
+    }
+  ]
+}

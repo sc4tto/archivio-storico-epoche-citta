@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Prime frequentazioni",
+    "Costruzione degli anelli",
+    "Massima attività",
+    "Riorganizzazione degli spazi",
+    "Erosione e trasformazioni"
+  ],
+  "items": [
+    {
+      "id": "rings",
+      "label": "Anelli di conchiglie",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "plazas",
+      "label": "Spazi centrali aperti",
+      "lane": "Organizzazione",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Aree domestiche",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "shellfish",
+      "label": "Raccolta di ostriche",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "pottery",
+      "label": "Ceramica a tempera di fibre",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "gather",
+      "label": "Raduni e attività collettive",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "erosion",
+      "label": "Erosione e riuso",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

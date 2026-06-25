@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Damasco rimase una grande capitale provinciale ottomana nel XIX secolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "DA1; DA2"
+  },
+  {
+    "claim": "Ghouta e Barada sostenevano l’approvvigionamento e il paesaggio urbano.",
+    "theme": "territorio",
+    "status": "documentato",
+    "source": "DA1; DA4"
+  },
+  {
+    "claim": "Suq, khan e corporazioni strutturavano commercio e manifatture.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "DA1; DA4"
+  },
+  {
+    "claim": "Il Tanzimat introdusse nuove forme amministrative e infrastrutturali.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "DA2; DA5"
+  },
+  {
+    "claim": "La strada per Beirut rafforzò i collegamenti mediterranei.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "DA2; DA5"
+  },
+  {
+    "claim": "La violenza del 1860 causò vittime, distruzioni e ricostruzione.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "DA2; DA3"
+  },
+  {
+    "claim": "Epidemie, pressione fiscale e crisi agrarie condizionarono la città.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "DA2"
+  },
+  {
+    "claim": "Ferrovia dell’Hegiaz e mandato francese sono esclusi.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "DA1; DA2"
+  }
+]

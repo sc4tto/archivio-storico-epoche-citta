@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Melaka portoghese e olandese",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Stretto e navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Monsoni, pilotaggio e porti",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Dogane, ancoraggi e magazzini",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Governo coloniale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Fortezza e amministrazione portoghese",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "VOC e governo olandese",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Laterite, mattoni e calce",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Case mercantili e edifici civili",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società multiculturale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Malesi, cinesi e indiani",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Cristiani, musulmani e altri culti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Pepe, spezie e tessili",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Riso, porcellana e metalli",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

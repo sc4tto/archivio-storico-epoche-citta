@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Metropolitan Toronto fu creato nel 1953 per coordinare servizi e infrastrutture in una regione in rapida crescita.",
+    "theme": "governo urbano",
+    "status": "documentato",
+    "source": "TO1; TO2; TO4"
+  },
+  {
+    "claim": "La linea Yonge, aperta nel 1954, fu la prima metropolitana del Canada e inaugurò un’espansione del rapid transit.",
+    "theme": "trasporti",
+    "status": "documentato",
+    "source": "TO1"
+  },
+  {
+    "claim": "Regent Park e altri complessi sociali sostituirono tessuti urbani esistenti secondo principi di urban renewal.",
+    "theme": "abitazione",
+    "status": "documentato",
+    "source": "TO2; TO4"
+  },
+  {
+    "claim": "Gardiner e Don Valley Parkway facilitarono l’accesso automobilistico ma tagliarono quartieri e waterfront.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "TO3; TO4"
+  },
+  {
+    "claim": "La resistenza di Trefann Court contestò la demolizione quasi totale prevista nel 1965 e contribuì a cambiare il metodo di pianificazione.",
+    "theme": "partecipazione",
+    "status": "documentato",
+    "source": "TO4"
+  },
+  {
+    "claim": "Toronto, Metro, subway e urban renewal è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Le clearance di Regent Park e Trefann Court e le demolizioni per le expressways sono descritte come espropriazioni e sgomberi capaci di distruggere reti comunitarie; gli abitanti sono rappresentati come soggetti che negoziarono, resistettero e modificarono le politiche urbane.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

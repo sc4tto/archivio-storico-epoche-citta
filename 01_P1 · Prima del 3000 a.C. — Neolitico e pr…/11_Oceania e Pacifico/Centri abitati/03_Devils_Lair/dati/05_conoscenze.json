@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Devil’s Lair",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Stratigrafia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Livelli sedimentari",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Datazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Processi tafonomici",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Litica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Chert e quarzo",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Ritocco",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Riaffilatura",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Osso",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Punte",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Levigatura",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Perle",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Fauna",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Macropodi",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Piccola fauna",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Cambiamenti climatici",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Fuoco",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Focolari",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Cottura",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Combustibili",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Organizzazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Uso intermittente",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Mobilità regionale",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_3",
+          "label": "Villaggio permanente",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

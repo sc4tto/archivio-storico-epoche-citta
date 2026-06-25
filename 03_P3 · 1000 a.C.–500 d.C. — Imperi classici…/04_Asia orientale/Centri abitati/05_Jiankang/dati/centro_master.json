@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Jiankang — modulo multi-grafo",
+    "short_name": "Jiankang",
+    "site": "Jianye–Jiankang, capitale del basso Yangtze",
+    "modern_location": "Nanchino, Jiangsu, Cina",
+    "coordinates": {
+      "lat": 32.06,
+      "lon": 118.79
+    },
+    "scope": "Capitale del regno di Wu orientale, degli Jin orientali e delle prime dinastie meridionali, con palazzi, mura, mercati, quartieri, templi e una rete fluviale integrata nel basso Yangtze.",
+    "version": "1.0-blocco_29_p3_asia_orientale_5_centri_v1",
+    "warning": "La città antica è in larga parte coperta da Nanchino. Il modulo considera le fasi fino al 500 d.C.; strutture posteriori e la cinta Ming non sono attribuite alla Jiankang antica."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "JIA_BOOK",
+      "title": "Albert Dien — Six Dynasties Civilization",
+      "url": "https://search.worldcat.org/search?q=Six+Dynasties+Civilization",
+      "use": "Jiankang, corti meridionali e cultura delle Sei Dinastie"
+    },
+    {
+      "id": "JIA_NANJING",
+      "title": "Nanjing Municipal Museum",
+      "url": "https://en.nanjingmuseum.com/",
+      "use": "archeologia urbana e patrimonio delle Sei Dinastie"
+    },
+    {
+      "id": "JIA_ARCH",
+      "title": "Nancy Shatzman Steinhardt — Chinese Imperial City Planning",
+      "url": "https://search.worldcat.org/search?q=Chinese+Imperial+City+Planning",
+      "use": "urbanistica, palazzi e pianificazione delle capitali cinesi"
+    }
+  ]
+}

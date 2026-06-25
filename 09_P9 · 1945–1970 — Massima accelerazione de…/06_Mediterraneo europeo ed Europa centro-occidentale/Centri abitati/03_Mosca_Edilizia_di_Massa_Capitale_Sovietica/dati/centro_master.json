@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Mosca, edilizia di massa e capitale sovietica",
+    "site": "Mosca, edilizia di massa e capitale sovietica",
+    "modern_location": "Mosca, Unione Sovietica",
+    "coordinates": {
+      "lat": 55.7558,
+      "lon": 37.6173
+    },
+    "scope": "Mosca fra 1945 e 1970: ricostruzione e monumentalità tardostaliniana, grave carenza di alloggi, destalinizzazione, passaggio alla prefabbricazione di massa, espansione del Metro e della rete stradale, annessione del territorio entro il MKAD nel 1960 e controllo politico-religioso sovietico.",
+    "version": "1.0",
+    "warning": "Sono esclusi i grandi complessi tardo-brežneviani, i quartieri oltre il MKAD, la perestrojka, la dissoluzione sovietica e gli sviluppi successivi al 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MO1",
+      "title": "Moscow Government — How prefab construction started in Moscow",
+      "use": "Primi edifici prefabbricati e industrializzazione edilizia negli anni Cinquanta.",
+      "url": "https://www.mos.ru/en/news/item/75030073/"
+    },
+    {
+      "id": "MO2",
+      "title": "Moscow Government — How Moscow lived in the middle of the last century",
+      "use": "Espansione territoriale del 1960, nuovi quartieri e infrastrutture sociali.",
+      "url": "https://www.mos.ru/en/news/item/95942073/"
+    },
+    {
+      "id": "MO3",
+      "title": "Moscow Government — Building the Moscow Metro",
+      "use": "Sviluppo della metropolitana e connessione dei nuovi distretti.",
+      "url": "https://www.mos.ru/en/news/item/28604073/"
+    },
+    {
+      "id": "MO4",
+      "title": "University of Mary Washington — Soviet Mass Housing and the Communist Way of Life",
+      "use": "Programma abitativo di massa, destalinizzazione e vita quotidiana.",
+      "url": "https://cas.umw.edu/historyamericanstudies/files/2011/09/Harris-Soviet-Mass-Housing-and-the-Communist-Way-of-Life.pdf"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Gao imperiale e Tomb of Askia",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Trasporto sul Niger",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Porti e approdi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Terra cruda",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Murature e minareti",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Intonaci e manutenzione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Carovane del sale",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Reti dell’oro e della cola",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Governo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Tributi e amministrazione imperiale",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Controllo delle rotte",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Religione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Moschee e sepolture islamiche",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Patronato dell’Askia",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

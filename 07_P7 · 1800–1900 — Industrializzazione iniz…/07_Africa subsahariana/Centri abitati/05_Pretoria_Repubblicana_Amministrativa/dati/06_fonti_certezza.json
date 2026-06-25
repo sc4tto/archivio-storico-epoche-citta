@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Pretoria fu fondata nel 1855 e divenne capitale della Repubblica Sudafricana nel 1860.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "PR1; PR2"
+  },
+  {
+    "claim": "Church Square concentrò edifici politici, religiosi e commerciali.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "PR2; PR3"
+  },
+  {
+    "claim": "La città fu occupata durante l’annessione britannica del Transvaal e la Prima guerra boera.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "PR1; PR2"
+  },
+  {
+    "claim": "La ferrovia verso Delagoa Bay rafforzò i collegamenti economici nel 1895.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "PR2; PR4"
+  },
+  {
+    "claim": "Fortificazioni furono costruite alla vigilia della guerra del 1899.",
+    "theme": "difesa",
+    "status": "documentato",
+    "source": "PR3; PR5"
+  },
+  {
+    "claim": "L’espansione repubblicana si accompagnò a dispossesso territoriale e subordinazione del lavoro africano.",
+    "theme": "coercizione",
+    "status": "documentato",
+    "source": "PR2; PR4"
+  },
+  {
+    "claim": "Johannesburg trasformò Pretoria in un nodo amministrativo della regione mineraria.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "PR1; PR2"
+  },
+  {
+    "claim": "Le trasformazioni successive al 1900 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "PR1"
+  }
+]

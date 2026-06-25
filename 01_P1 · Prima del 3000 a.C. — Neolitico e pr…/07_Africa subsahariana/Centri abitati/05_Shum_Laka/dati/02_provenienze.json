@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Shum Laka",
+      "lat": 5.86,
+      "lon": 10.07,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "caldera",
+      "label": "Caldera di Bafochu Mbu",
+      "lat": 5.88,
+      "lon": 10.05,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "grassfields",
+      "label": "Grassfields occidentali",
+      "lat": 5.9,
+      "lon": 10.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": 24,
+      "anchor": "start"
+    },
+    {
+      "id": "bamenda",
+      "label": "Bacino di Bamenda",
+      "lat": 5.96,
+      "lon": 10.15,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "forest",
+      "label": "Foreste del Camerun occidentale",
+      "lat": 5.2,
+      "lon": 10.0,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "crossriver",
+      "label": "Corridoio Camerun–Nigeria",
+      "lat": 6.0,
+      "lon": 9.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "caldera",
+      "target": "site",
+      "label": "riparo, pietra e acqua",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "grassfields",
+      "target": "site",
+      "label": "piante, fauna e mobilità locale",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "bamenda",
+      "target": "site",
+      "label": "reti regionali e risorse di valle",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "forest",
+      "target": "site",
+      "label": "fauna e piante forestali",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "crossriver",
+      "target": "site",
+      "label": "contatti e spostamenti di lungo periodo",
+      "status": "inferito",
+      "food": "parziale"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Auckland, motorizzazione, migrazione Māori e suburbio",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Pianificazione automobilistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Motorways, svincoli, Harbour Bridge e parcheggi",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Congestione, bassa densità e dipendenza dall’auto",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Edilizia statale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Case standard, lotti, servizi e finanziamento pubblico",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Ōtara, Māngere, Te Atatū e accesso diseguale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Migrazione Māori",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Relocation, lavoro industriale e reti di whānau",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Marae urbani, club, chiese e resistenza culturale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Migrazione del Pacifico",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Lavoro in fabbrica, porti e servizi",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Famiglie samoane, cookiane e tongane in formazione urbana",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Economia portuale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Waitematā Harbour, industria, aeroporto e distribuzione",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Catene alimentari, commercio nazionale e collegamenti oceanici",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

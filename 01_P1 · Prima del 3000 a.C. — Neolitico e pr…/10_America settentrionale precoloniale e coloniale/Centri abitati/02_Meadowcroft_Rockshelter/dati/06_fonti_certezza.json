@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Meadowcroft conserva una lunga sequenza archeologica stratificata",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "MEADOW_HEINZ"
+  },
+  {
+    "claim": "Il riparo presenta focolari, litica e resti organici ben conservati",
+    "theme": "Evidenze",
+    "status": "documentato",
+    "source": "MEADOW_HEINZ"
+  },
+  {
+    "claim": "Le datazioni più antiche sono state interpretate come pre-Clovis",
+    "theme": "Cronologia",
+    "status": "sintesi",
+    "source": "MEADOW_AA"
+  },
+  {
+    "claim": "Le materie prime indicano connessioni oltre la valle immediata",
+    "theme": "Provenienze",
+    "status": "sintesi",
+    "source": "MEADOW_NHL"
+  },
+  {
+    "claim": "Il sito è riconosciuto come National Historic Landmark",
+    "theme": "Tutela",
+    "status": "documentato",
+    "source": "MEADOW_NHL"
+  },
+  {
+    "claim": "Tutte le date più antiche sono accettate senza riserve",
+    "theme": "Metodo",
+    "status": "non_documentato",
+    "source": "Controversia sul carbonio antico"
+  },
+  {
+    "claim": "Il riparo fu un villaggio permanente continuo per millenni",
+    "theme": "Sedentarietà",
+    "status": "non_documentato",
+    "source": "Frequentazioni ripetute ma variabili"
+  },
+  {
+    "claim": "Le conchiglie marine provano commercio organizzato centralmente",
+    "theme": "Scambi",
+    "status": "non_documentato",
+    "source": "Circolazione possibile, organizzazione ignota"
+  }
+]

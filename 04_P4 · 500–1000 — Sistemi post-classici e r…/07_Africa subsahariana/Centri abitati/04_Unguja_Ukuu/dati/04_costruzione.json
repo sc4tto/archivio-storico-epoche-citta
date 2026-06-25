@@ -1,0 +1,174 @@
+{
+  "nodes": [
+    {
+      "id": "m_earth",
+      "label": "Terra, sabbia e argilla",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_wood",
+      "label": "Legno e pali",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_coral",
+      "label": "Corallo e calcare locale",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_fiber",
+      "label": "Foglie, fibre e corde",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "o_post",
+      "label": "Scavo di buche e posa di pali",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_wattle",
+      "label": "Intreccio e rivestimento",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_stone",
+      "label": "Raccolta e posa di pietra corallina",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "o_thatch",
+      "label": "Legatura e copertura vegetale",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "c_frames",
+      "label": "Telai e pareti leggere",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_floors",
+      "label": "Pavimenti e focolari",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_wells",
+      "label": "Pozzi e piccoli muri",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_roofs",
+      "label": "Tetti e ripari",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "s_houses",
+      "label": "Case e cortili",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_work",
+      "label": "Aree di lavoro e conchigliai",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_water",
+      "label": "Pozzi e accessi al creek",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_ritual",
+      "label": "Prime strutture rituali o islamiche",
+      "layer": 3,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m_earth",
+      "target": "o_post",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_post",
+      "target": "c_frames",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_frames",
+      "target": "s_houses",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_wood",
+      "target": "o_wattle",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_wattle",
+      "target": "c_floors",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_floors",
+      "target": "s_work",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_coral",
+      "target": "o_stone",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_stone",
+      "target": "c_wells",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "c_wells",
+      "target": "s_water",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_fiber",
+      "target": "o_thatch",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_thatch",
+      "target": "c_roofs",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_roofs",
+      "target": "s_ritual",
+      "status": "documentato",
+      "label": ""
+    }
+  ]
+}

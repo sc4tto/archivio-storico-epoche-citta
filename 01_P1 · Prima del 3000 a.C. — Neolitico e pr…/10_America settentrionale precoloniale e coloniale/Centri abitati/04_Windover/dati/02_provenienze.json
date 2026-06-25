@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Windover Pond",
+      "lat": 28.49,
+      "lon": -80.78,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "pond",
+      "label": "Stagno di torba",
+      "lat": 28.49,
+      "lon": -80.78,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "atlantic",
+      "label": "Cresta costiera atlantica",
+      "lat": 28.5,
+      "lon": -80.7,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "lagoon",
+      "label": "Indian River Lagoon",
+      "lat": 28.4,
+      "lon": -80.62,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "wetlands",
+      "label": "Zone umide della Florida centrale",
+      "lat": 28.8,
+      "lon": -81.0,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "gulf",
+      "label": "Reti peninsulari",
+      "lat": 27.5,
+      "lon": -82.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "pond",
+      "target": "site",
+      "label": "luogo funerario e conservazione",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "atlantic",
+      "target": "site",
+      "label": "fauna e piante terrestri",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "lagoon",
+      "target": "site",
+      "label": "pesci e molluschi",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "wetlands",
+      "target": "site",
+      "label": "fibre e piante acquatiche",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "gulf",
+      "target": "site",
+      "label": "confronti e circolazione regionale",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

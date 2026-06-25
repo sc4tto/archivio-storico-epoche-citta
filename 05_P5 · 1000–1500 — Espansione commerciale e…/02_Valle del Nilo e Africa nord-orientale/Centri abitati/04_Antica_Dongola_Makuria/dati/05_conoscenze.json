@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Antica Dongola, capitale di Makuria",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Agricoltura nilotica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Irrigazione e cicli del fiume",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Palmeti e orti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Scrittura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Greco, copto e antico nubiano",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Archivi ecclesiastici e amministrativi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Arte",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Pittura murale cristiana",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Ceramica e tessili",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Governo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Corte makuriana e diplomazia",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Amministrazione di chiese e monasteri",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Trasformazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Conversione e riuso degli edifici",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Adattamento dei quartieri tardi",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Kilwa Kisiwani, città-portuale swahili",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Monsoni e rotte oceaniche",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Dhow, approdi e cabotaggio",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Muratura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Pietra corallina e calce",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Archi, volte e cupole",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Oro e avorio dell’entroterra",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Ceramiche, perline e tessuti importati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Acqua",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Pozzi e cisterne",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Drenaggi e latrine",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Islam",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Moschee e mihrab",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Sultanato e cultura scritta",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

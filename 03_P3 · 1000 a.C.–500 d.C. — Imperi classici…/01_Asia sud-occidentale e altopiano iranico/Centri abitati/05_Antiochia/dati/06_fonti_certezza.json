@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Antiochia fu fondata da Seleuco I alla fine del IV secolo a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "ANT_PLEIADES"
+  },
+  {
+    "claim": "La città fu una capitale seleucide e una grande metropoli romana",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "ANT_DO"
+  },
+  {
+    "claim": "Le campagne del Novecento hanno restituito numerosi mosaici",
+    "theme": "Archeologia",
+    "status": "documentato",
+    "source": "ANT_PRINCETON"
+  },
+  {
+    "claim": "Seleucia Pieria funzionava da porto di Antiochia",
+    "theme": "Commercio",
+    "status": "documentato",
+    "source": "ANT_PLEIADES"
+  },
+  {
+    "claim": "Terremoti e alluvioni modificarono ripetutamente la città",
+    "theme": "Ambiente",
+    "status": "documentato",
+    "source": "ANT_DO"
+  },
+  {
+    "claim": "La pianta completa della città ellenistica è nota",
+    "theme": "Urbanistica",
+    "status": "non_documentato",
+    "source": "Città sepolta e scavi parziali"
+  },
+  {
+    "claim": "Tutti i mosaici appartengono alla fase seleucide",
+    "theme": "Arte",
+    "status": "non_documentato",
+    "source": "Prevalenza romana e tardoantica"
+  },
+  {
+    "claim": "La popolazione antica può essere calcolata con precisione",
+    "theme": "Demografia",
+    "status": "non_documentato",
+    "source": "Stime letterarie e archeologiche divergenti"
+  }
+]

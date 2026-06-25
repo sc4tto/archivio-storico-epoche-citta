@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_65_P6_Africa_Subsahariana_5_Centri_v1",
+  "macroregion": "Africa subsahariana",
+  "centers": [
+    "01_Benin_City_Regno_Edo",
+    "02_Kumasi_Asante",
+    "03_Oyo_Ile_Imperiale",
+    "04_Luanda_Portoghese_Atlantica",
+    "05_Zanzibar_Stone_Town_Omanita"
+  ],
+  "uses_central_assets": true
+}

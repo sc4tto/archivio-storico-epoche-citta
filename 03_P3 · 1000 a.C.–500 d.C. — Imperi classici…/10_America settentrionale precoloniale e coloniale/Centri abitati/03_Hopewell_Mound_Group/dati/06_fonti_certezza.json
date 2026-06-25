@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Il sito ha dato il nome moderno alla tradizione Hopewell",
+    "theme": "Storiografia",
+    "status": "documentato",
+    "source": "HOPEWELL_NPS"
+  },
+  {
+    "claim": "Il nome Hopewell non è il nome antico dei costruttori",
+    "theme": "Metodo",
+    "status": "documentato",
+    "source": "Storia della ricerca"
+  },
+  {
+    "claim": "Il complesso conteneva grandi recinti e tumuli",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "HOPEWELL_UNESCO"
+  },
+  {
+    "claim": "Ossidiana, rame, mica e conchiglia documentano reti lontane",
+    "theme": "Reti",
+    "status": "documentato",
+    "source": "HOPEWELL_UNESCO"
+  },
+  {
+    "claim": "Le strutture erano fortificazioni difensive",
+    "theme": "Funzione",
+    "status": "non_documentato",
+    "source": "Uso cerimoniale meglio supportato"
+  },
+  {
+    "claim": "Il sito ospitava raduni periodici",
+    "theme": "Organizzazione",
+    "status": "sintesi",
+    "source": "HOPEWELL_LYNOTT"
+  },
+  {
+    "claim": "I costruttori formavano necessariamente uno Stato centralizzato",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "HOPEWELL_UNESCO"
+  },
+  {
+    "claim": "Prospezioni moderne conservano tracce sepolte delle strutture",
+    "theme": "Metodo",
+    "status": "documentato",
+    "source": "HOPEWELL_UNESCO"
+  }
+]

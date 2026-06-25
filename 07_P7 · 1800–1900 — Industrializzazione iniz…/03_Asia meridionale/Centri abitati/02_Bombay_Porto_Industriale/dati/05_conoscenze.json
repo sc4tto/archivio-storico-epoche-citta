@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Bombay portuale e industriale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Porto e bonifiche",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Docks, moli e dragaggi",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Collegamento delle isole e drenaggi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Cotone e industria",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Aste, esportazione e filature",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Macchine, carbone e lavoro operaio",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Ferrovie",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Bombay–Thane e passi del Ghati",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Stazioni, officine e logistica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Architettura urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Gothic Revival e edifici civici",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Chawl, bazar e quartieri comunitari",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Salute e conflitto",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Peste, quarantene e demolizioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Sovraffollamento e resistenza sociale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

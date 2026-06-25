@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1970–1979",
+    "1980–1989",
+    "1990–1999",
+    "2000–2009",
+    "2010–25 giugno 2026"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Fine della guerra, riunificazione e rinomina della città nel 1976",
+      "lane": "Politica",
+      "start": 0,
+      "end": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Economia pianificata, migrazioni controllate e difficoltà abitative",
+      "lane": "Società",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Riforme Đổi Mới, investimenti esteri e industria esportatrice",
+      "lane": "Economia",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Espansione verso Thủ Đức, distretti periferici e nuove zone industriali",
+      "lane": "Urbanizzazione",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Motorizzazione di massa, congestione e corridoi stradali",
+      "lane": "Mobilità",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Alluvioni, subsidenza e progetti di controllo delle maree",
+      "lane": "Rischio",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Apertura commerciale della Metro Line 1 nel dicembre 2024",
+      "lane": "Mobilità",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Ulteriori linee metro e master plan 2040–2060: progetti futuri",
+      "lane": "Pianificazione",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Cusco imperiale e valle sacra",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Muratura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Taglio e giunti poligonali",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Controllo antisismico empirico",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Idraulica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Canali e drenaggi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Terrazze irrigue",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Amministrazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Mit’a e redistribuzione",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Quipu e registrazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Kancha e quartieri",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Assi rituali e ceque",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Reti imperiali",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Qhapaq Ñan",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Tambos e qollqa",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

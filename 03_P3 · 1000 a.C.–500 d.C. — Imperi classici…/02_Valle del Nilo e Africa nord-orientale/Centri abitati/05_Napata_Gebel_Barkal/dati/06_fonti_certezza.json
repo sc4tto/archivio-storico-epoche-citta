@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Il sito seriale comprende Gebel Barkal, El-Kurru, Nuri, Sanam e Zuma",
+    "theme": "Topografia",
+    "status": "documentato",
+    "source": "NAP_UNESCO"
+  },
+  {
+    "claim": "L’area testimonia culture napatee e meroitiche",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "NAP_UNESCO"
+  },
+  {
+    "claim": "Sono presenti templi, palazzi, abitati e tombe con e senza piramidi",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "NAP_UNESCO"
+  },
+  {
+    "claim": "Gebel Barkal fu un centro sacro legato al culto di Amon",
+    "theme": "Religione",
+    "status": "documentato",
+    "source": "NAP_UNESCO"
+  },
+  {
+    "claim": "El-Kurru e Nuri furono importanti necropoli regali",
+    "theme": "Rituali",
+    "status": "documentato",
+    "source": "NAP_UNESCO"
+  },
+  {
+    "claim": "Napata era una singola città murata con confini certi",
+    "theme": "Urbanistica",
+    "status": "non_documentato",
+    "source": "Sistema distribuito di siti e paesaggi"
+  },
+  {
+    "claim": "Tutti i templi furono costruiti da un solo sovrano",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Edifici ampliati e restaurati in più fasi"
+  },
+  {
+    "claim": "Il trasferimento politico a Meroe avvenne in un unico evento",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Processo graduale e dibattuto"
+  }
+]

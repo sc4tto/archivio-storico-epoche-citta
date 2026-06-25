@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Jakarta, indipendenza, kampung e capitale nazionale",
+    "site": "Jakarta, indipendenza, kampung e capitale nazionale",
+    "modern_location": "Jakarta, Indonesia",
+    "coordinates": {
+      "lat": -6.2088,
+      "lon": 106.8456
+    },
+    "scope": "Jakarta fra 1945 e 1970: proclamazione dell’indipendenza, conflitto con il ritorno coloniale olandese, consolidamento come capitale, forte immigrazione, crescita dei kampung, grandi opere dell’era Sukarno e passaggio violento al Nuovo Ordine.",
+    "version": "1.0",
+    "warning": "Sono esclusi il programma Kampung Improvement dagli anni Settanta, la piena espansione metropolitana di Jabodetabek, le autostrade urbane tarde e gli sviluppi successivi al 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "JA1",
+      "title": "Dinas Perpustakaan dan Kearsipan DKI Jakarta — DKI 1: Para Pemimpin yang Mewarnai Jakarta",
+      "use": "Amministrazione cittadina, sindaci e trasformazioni politiche dal 1945.",
+      "url": "https://dispusip.jakarta.go.id/storage/buku/perpustakaan/a0fd7bc7-b4dd-4ad0-a9e3-44f645fd2480.pdf?version="
+    },
+    {
+      "id": "JA2",
+      "title": "University of Oxford — The evolution of Jakarta’s flood policy over the past 400 years",
+      "use": "Crescita demografica post-1945, idrologia e problemi infrastrutturali.",
+      "url": "https://ora.ox.ac.uk/objects/uuid:26d49150-c421-4554-93cf-6fef37e5fcd6/files/mb42d8bc249d8705449022d4d83a7d360"
+    },
+    {
+      "id": "JA3",
+      "title": "University of California eScholarship — Jakarta’s Kampungs: Their History and Contested Future",
+      "use": "Kampung, informalità, sgomberi e politiche urbane.",
+      "url": "https://escholarship.org/uc/item/55w9b9gg"
+    },
+    {
+      "id": "JA4",
+      "title": "Journal of Asian Studies — New Findings on the Indonesian Killings of 1965–66",
+      "use": "Violenza politica, repressione e transizione al Nuovo Ordine.",
+      "url": "https://www.cambridge.org/core/journals/journal-of-asian-studies/article/new-findings-on-the-indonesian-killings-of-196566/A53ACF4B79AD100D81C0324F0834C7EB"
+    }
+  ]
+}

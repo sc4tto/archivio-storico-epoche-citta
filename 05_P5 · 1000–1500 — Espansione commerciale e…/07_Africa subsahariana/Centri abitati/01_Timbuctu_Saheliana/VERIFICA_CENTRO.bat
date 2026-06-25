@@ -1,0 +1,11 @@
+@echo off
+setlocal
+cd /d "%~dp0"
+where py >nul 2>nul
+if %errorlevel%==0 (
+  py -3 "%~dp0..\..\..\..\strumenti\genera_centro_da_json_v3.py" --data "%~dp0dati" --output "%~dp0" --root "%~dp0..\..\..\.." --verify-only
+) else (
+  python "%~dp0..\..\..\..\strumenti\genera_centro_da_json_v3.py" --data "%~dp0dati" --output "%~dp0" --root "%~dp0..\..\..\.." --verify-only
+)
+echo.
+pause

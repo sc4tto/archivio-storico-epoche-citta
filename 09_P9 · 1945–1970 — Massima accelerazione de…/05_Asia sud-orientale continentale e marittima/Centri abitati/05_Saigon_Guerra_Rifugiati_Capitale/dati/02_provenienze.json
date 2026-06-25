@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Saigon",
+      "lat": 10.8231,
+      "lon": 106.6297,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "mek",
+      "label": "Delta del Mekong",
+      "lat": 10.1,
+      "lon": 105.8,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "gia",
+      "label": "Gia Định e periferia",
+      "lat": 10.88,
+      "lon": 106.68,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "port",
+      "label": "Fiume e porto di Saigon",
+      "lat": 10.75,
+      "lon": 106.72,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "cen",
+      "label": "Vietnam centrale",
+      "lat": 15.5,
+      "lon": 108.2,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "north",
+      "label": "Vietnam settentrionale e rifugiati",
+      "lat": 20.5,
+      "lon": 106.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "pac",
+      "label": "Rotte del Pacifico e aiuti esteri",
+      "lat": 10.0,
+      "lon": 112.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "mek",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiume, canali, camion e mercati",
+      "food": "riso, pesce, frutta e migranti"
+    },
+    {
+      "source": "gia",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e reti periurbane",
+      "food": "verdure, pollame, manodopera e sfollati"
+    },
+    {
+      "source": "port",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "banchine, chiatte e magazzini",
+      "food": "riso, carburanti, grano e merci"
+    },
+    {
+      "source": "cen",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade, navi e aerei",
+      "food": "riso, pesce, rifugiati e lavoratori"
+    },
+    {
+      "source": "north",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navi, aerei e programmi di reinsediamento",
+      "food": "rifugiati, competenze, reti religiose e familiari"
+    },
+    {
+      "source": "pac",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto e logistica militare",
+      "food": "farina, latte, macchinari, armi e aiuti"
+    }
+  ]
+}

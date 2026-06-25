@@ -1,7 +1,9 @@
 # Taxila
 
-- **Epoca:** P3 · 1000 a.C.–500 d.C. — Imperi classici e reti continentali
-- **Macroregione:** Asia meridionale
-- **Voce di origine:** Pataliputra, Taxila, Ujjain, Mathura e porti dell'Oceano Indiano.
+Modulo del Blocco 28, generato da sette JSON nella cartella `dati`.
 
-Questa cartella può contenere mappe, immagini, testi, fonti e appunti relativi al centro abitato o sistema d'insediamento indicato.
+- `APRI_CENTRO.bat`: apre il modulo.
+- `RIGENERA_CENTRO.bat`: rigenera le pagine.
+- `VERIFICA_CENTRO.bat`: controlla JSON, collegamenti e grafi.
+
+Descrizione: Vasto complesso seriale con le città di Bhir Mound, Sirkap e Sirsukh, stupa e monasteri buddhisti, posto sul collegamento fra Indo, Gandhara, Asia centrale e pianura gangetica..

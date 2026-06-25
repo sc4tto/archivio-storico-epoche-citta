@@ -1,0 +1,174 @@
+{
+  "nodes": [
+    {
+      "id": "m_stone",
+      "label": "Calcare e arenaria locale",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_brick",
+      "label": "Laterizio e malta",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_marble",
+      "label": "Marmi e spolia",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_timber",
+      "label": "Legname, tegole e metalli",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "o_ashlar",
+      "label": "Taglio e posa in opera isodoma",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_arches",
+      "label": "Archi, volte e murature",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_decor",
+      "label": "Stucco, intaglio e mosaico",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_carp",
+      "label": "Carpenteria e coperture",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "c_horseshoe",
+      "label": "Archi a ferro di cavallo e colonne",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_courtyard",
+      "label": "Cortili, canali e fontane",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_prayer",
+      "label": "Sale ipostile, mihrab e minareto",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_palace",
+      "label": "Padiglioni, mura e porte",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "s_mosque",
+      "label": "Grande Moschea",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_alcazar",
+      "label": "Alcázar e complessi amministrativi",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_urban",
+      "label": "Bagni, mercati, ponti e quartieri",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_zahras",
+      "label": "Madinat al-Zahra",
+      "layer": 3,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m_stone",
+      "target": "o_ashlar",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_ashlar",
+      "target": "c_horseshoe",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_horseshoe",
+      "target": "s_mosque",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_brick",
+      "target": "o_arches",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_arches",
+      "target": "c_courtyard",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_courtyard",
+      "target": "s_alcazar",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_marble",
+      "target": "o_decor",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_decor",
+      "target": "c_prayer",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_prayer",
+      "target": "s_urban",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_timber",
+      "target": "o_carp",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_carp",
+      "target": "c_palace",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_palace",
+      "target": "s_zahras",
+      "status": "documentato",
+      "label": ""
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "c",
+      "label": "Mỹ Sơn",
+      "lat": 15.77,
+      "lon": 108.12,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -20
+    },
+    {
+      "id": "tra",
+      "label": "Trà Kiệu",
+      "lat": 15.82,
+      "lon": 108.25,
+      "status": "sintesi",
+      "kind": "locale"
+    },
+    {
+      "id": "thu",
+      "label": "Fiume Thu Bồn",
+      "lat": 15.86,
+      "lon": 108.2,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "hoian",
+      "label": "Foce presso Hội An",
+      "lat": 15.88,
+      "lon": 108.34,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "monti",
+      "label": "Bacino montano di Mỹ Sơn",
+      "lat": 15.75,
+      "lon": 108.1,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "java",
+      "label": "Java e arcipelago",
+      "lat": -7.5,
+      "lon": 110.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "india",
+      "label": "India meridionale",
+      "lat": 11.0,
+      "lon": 78.0,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "tra",
+      "target": "c",
+      "status": "sintesi",
+      "label": "relazione tra capitale e santuario",
+      "food": "tributi e offerte"
+    },
+    {
+      "source": "thu",
+      "target": "c",
+      "status": "documentato",
+      "label": "corridoio fluviale",
+      "food": "acqua, riso e persone"
+    },
+    {
+      "source": "hoian",
+      "target": "c",
+      "status": "documentato",
+      "label": "accesso al mare",
+      "food": "merci e pellegrini"
+    },
+    {
+      "source": "monti",
+      "target": "c",
+      "status": "documentato",
+      "label": "paesaggio sacro e materiali",
+      "food": "legname e pietra"
+    },
+    {
+      "source": "java",
+      "target": "c",
+      "status": "documentato",
+      "label": "contatti marittimi e conflitti",
+      "food": "idee e beni"
+    },
+    {
+      "source": "india",
+      "target": "c",
+      "status": "sintesi",
+      "label": "modelli religiosi e artistici",
+      "food": "testi e iconografie"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Lagos fu una città-portuale yoruba organizzata intorno alla laguna e alle isole.",
+    "theme": "territorio",
+    "status": "documentato",
+    "source": "LA1; LA3"
+  },
+  {
+    "claim": "Il commercio dell’olio di palma acquistò grande importanza nel XIX secolo.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "LA1; LA2"
+  },
+  {
+    "claim": "La città fu bombardata nel 1851 e annessa dalla Gran Bretagna nel 1861.",
+    "theme": "colonialismo",
+    "status": "documentato",
+    "source": "LA1; LA2"
+  },
+  {
+    "claim": "Comunità afro-brasiliane e krio contribuirono alla vita economica e architettonica.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "LA2; LA4"
+  },
+  {
+    "claim": "La navigazione lagunare sostenne approvvigionamento e commercio.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "LA1; LA3"
+  },
+  {
+    "claim": "L’amministrazione coloniale produsse gerarchie e segregazione urbana.",
+    "theme": "colonialismo",
+    "status": "documentato",
+    "source": "LA2; LA4"
+  },
+  {
+    "claim": "Le tecniche edilizie combinarono tradizioni yoruba e forme importate.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "LA4; LA5"
+  },
+  {
+    "claim": "Le trasformazioni successive al 1900 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "LA1"
+  }
+]

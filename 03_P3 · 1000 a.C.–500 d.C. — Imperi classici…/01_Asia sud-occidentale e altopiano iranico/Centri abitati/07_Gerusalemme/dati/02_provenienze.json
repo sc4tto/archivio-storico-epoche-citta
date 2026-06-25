@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Gerusalemme",
+      "lat": 31.78,
+      "lon": 35.23,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "gihon",
+      "label": "Sorgente di Gihon",
+      "lat": 31.77,
+      "lon": 35.24,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "jericho",
+      "label": "Gerico e valle del Giordano",
+      "lat": 31.87,
+      "lon": 35.44,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "joppa",
+      "label": "Giaffa e costa mediterranea",
+      "lat": 32.05,
+      "lon": 34.75,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "hebron",
+      "label": "Hebron e colline meridionali",
+      "lat": 31.53,
+      "lon": 35.1,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "arabia",
+      "label": "Rotte arabe e nabatee",
+      "lat": 30.8,
+      "lon": 35.6,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "gihon",
+      "target": "site",
+      "label": "acqua e sistemi di raccolta",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "jericho",
+      "target": "site",
+      "label": "prodotti della valle e strade",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "joppa",
+      "target": "site",
+      "label": "importazioni mediterranee",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "hebron",
+      "target": "site",
+      "label": "vino, olio e bestiame",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "arabia",
+      "target": "site",
+      "label": "incenso e merci carovaniere",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

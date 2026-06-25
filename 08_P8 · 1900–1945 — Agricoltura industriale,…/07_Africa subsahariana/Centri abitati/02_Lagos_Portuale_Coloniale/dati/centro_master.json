@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Lagos portuale e coloniale",
+    "site": "Lagos portuale e coloniale",
+    "modern_location": "Lagos, Nigeria",
+    "coordinates": {
+      "lat": 6.455,
+      "lon": 3.3841
+    },
+    "scope": "Lagos fra 1900 e 1945: capitale coloniale nigeriana fino al 1914 e poi centro federale, porto, ferrovia, mercati, stampa, associazioni e crescita suburbana.",
+    "version": "1.0",
+    "warning": "Sono escluse indipendenza del 1960, espansione metropolitana postbellica e infrastrutture costruite dopo il 1945."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "LA1",
+      "title": "Encyclopaedia Britannica — Lagos",
+      "use": "Storia urbana, porto e amministrazione.",
+      "url": "https://www.britannica.com/place/Lagos-Nigeria"
+    },
+    {
+      "id": "LA2",
+      "title": "National Archives of Nigeria",
+      "use": "Fonti amministrative e coloniali.",
+      "url": "https://nationalarchives.gov.ng/"
+    },
+    {
+      "id": "LA3",
+      "title": "University of Lagos Library",
+      "use": "Studi su Lagos e storia sociale nigeriana.",
+      "url": "https://library.unilag.edu.ng/"
+    },
+    {
+      "id": "LA4",
+      "title": "Nigerian Railway Corporation",
+      "use": "Sviluppo ferroviario e collegamenti interni.",
+      "url": "https://nrc.gov.ng/"
+    },
+    {
+      "id": "LA5",
+      "title": "National Museum Lagos",
+      "use": "Cultura materiale e storia urbana.",
+      "url": "https://museum.ng/"
+    }
+  ]
+}

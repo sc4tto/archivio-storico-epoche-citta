@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Ounjougou è un complesso di numerosi siti e non un unico insediamento",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "OUNJOUGOU_OFFICIAL"
+  },
+  {
+    "claim": "La sequenza documenta una lunga interazione fra popolazioni e ambiente",
+    "theme": "Ambiente",
+    "status": "documentato",
+    "source": "OUNJOUGOU_OFFICIAL"
+  },
+  {
+    "claim": "La ceramica compare molto precocemente nell’Olocene",
+    "theme": "Ceramica",
+    "status": "documentato",
+    "source": "ANTIQUITY_OUNJOUGOU"
+  },
+  {
+    "claim": "Macine e resti vegetali indicano lavorazione di piante selvatiche",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "PALAEO_OUNJOUGOU"
+  },
+  {
+    "claim": "Le condizioni monsoniche modificarono la savana e le risorse",
+    "theme": "Clima",
+    "status": "documentato",
+    "source": "PALAEO_OUNJOUGOU"
+  },
+  {
+    "claim": "Le graminacee erano già pienamente domesticate",
+    "theme": "Agricoltura",
+    "status": "non_documentato",
+    "source": "Evidenza di raccolta, non di domesticazione certa"
+  },
+  {
+    "claim": "Il complesso era una città permanente",
+    "theme": "Urbanizzazione",
+    "status": "non_documentato",
+    "source": "Siti distribuiti e occupazioni discontinue"
+  },
+  {
+    "claim": "La ceramica prova un’unica popolazione stabile",
+    "theme": "Identità",
+    "status": "non_documentato",
+    "source": "Sequenza lunga e variabile"
+  }
+]

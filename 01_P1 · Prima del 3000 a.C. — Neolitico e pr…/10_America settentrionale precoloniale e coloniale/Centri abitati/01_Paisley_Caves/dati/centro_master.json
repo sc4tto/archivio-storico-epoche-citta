@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Paisley Caves — modulo multi-grafo",
+    "short_name": "Paisley Caves",
+    "site": "Complesso delle Paisley Five Mile Point Caves",
+    "modern_location": "Bacino di Summer Lake, Oregon, Stati Uniti",
+    "coordinates": {
+      "lat": 42.69,
+      "lon": -120.55
+    },
+    "scope": "Complesso di grotte e ripari del Great Basin con frequentazioni pleistoceniche finali e oloceniche, resti organici, coproliti, fauna, fibre e tecnologie litiche della Western Stemmed Tradition.",
+    "version": "1.0-blocco_11_p1_america_settentrionale_5_centri_v1",
+    "warning": "Le interpretazioni del DNA dei coproliti e alcune associazioni stratigrafiche sono state oggetto di dibattito; il modulo distingue le datazioni dirette dai collegamenti culturali più ampi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "PAISLEY_SCIENCE_2008",
+      "title": "Gilbert et al. — DNA from Pre-Clovis Human Coprolites in Oregon, North America",
+      "url": "https://doi.org/10.1126/science.1154116",
+      "use": "coproliti, DNA e datazioni delle prime frequentazioni"
+    },
+    {
+      "id": "PAISLEY_SCIENCE_2012",
+      "title": "Jenkins et al. — Clovis Age Western Stemmed Projectile Points and Human Coprolites at the Paisley Caves",
+      "url": "https://doi.org/10.1126/science.1218443",
+      "use": "tecnologie litiche e cronologia della Western Stemmed Tradition"
+    },
+    {
+      "id": "PAISLEY_BLM",
+      "title": "Bureau of Land Management — Paisley Caves",
+      "url": "https://www.blm.gov/visit/paisley-caves",
+      "use": "tutela, localizzazione e quadro istituzionale del sito"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Stallings Island",
+      "lat": 33.532,
+      "lon": -82.039,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "savannah",
+      "label": "Fiume Savannah",
+      "lat": 33.5,
+      "lon": -82.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "stevens",
+      "label": "Stevens Creek",
+      "lat": 33.6,
+      "lon": -82.1,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "coast",
+      "label": "Costa della Georgia",
+      "lat": 31.8,
+      "lon": -81.2,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "piedmont",
+      "label": "Piedmont della Georgia",
+      "lat": 33.8,
+      "lon": -83.2,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "carolina",
+      "label": "Bacini della Carolina",
+      "lat": 34.0,
+      "lon": -80.5,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "savannah",
+      "target": "site",
+      "label": "molluschi, pesce e mobilità",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "stevens",
+      "target": "site",
+      "label": "accesso a risorse locali",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "coast",
+      "target": "site",
+      "label": "stili ceramici e contatti",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "piedmont",
+      "target": "site",
+      "label": "pietra e selvaggina",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "carolina",
+      "target": "site",
+      "label": "reti di comunità Stallings",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

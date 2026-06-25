@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Kamakura",
+      "lat": 35.319,
+      "lon": 139.547,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "wak",
+      "label": "Porto di Wakae",
+      "lat": 35.31,
+      "lon": 139.56,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "sag",
+      "label": "Baia di Sagami",
+      "lat": 35.2,
+      "lon": 139.45,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "pas",
+      "label": "Passi e kiridōshi",
+      "lat": 35.33,
+      "lon": 139.54,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "hak",
+      "label": "Hakone",
+      "lat": 35.23,
+      "lon": 139.11,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "mus",
+      "label": "Musashi-Edo",
+      "lat": 35.68,
+      "lon": 139.75,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "kyo",
+      "label": "Kyoto",
+      "lat": 35.01,
+      "lon": 135.77,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "wak",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto artificiale e cabotaggio",
+      "food": "sale, pesce e merci"
+    },
+    {
+      "source": "sag",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "pesca e navigazione costiera",
+      "food": "pesce, alghe e molluschi"
+    },
+    {
+      "source": "pas",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "accessi difensivi e strade",
+      "food": "persone e derrate"
+    },
+    {
+      "source": "hak",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoio del Tōkaidō",
+      "food": "legname, cavalli e viaggiatori"
+    },
+    {
+      "source": "mus",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete del Kantō",
+      "food": "riso, armi e amministratori"
+    },
+    {
+      "source": "kyo",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "relazioni con la corte",
+      "food": "monaci, testi, ceramiche e beni di prestigio"
+    }
+  ]
+}

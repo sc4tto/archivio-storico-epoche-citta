@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Nishapur fu un importante centro politico e culturale dell’Iran orientale",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "NIS_MET_POT"
+  },
+  {
+    "claim": "La città era collegata a Transoxiana, Cina, Iraq ed Egitto",
+    "theme": "Reti",
+    "status": "documentato",
+    "source": "NIS_MET_POT"
+  },
+  {
+    "claim": "Gli scavi hanno documentato ceramiche dell’VIII–X secolo",
+    "theme": "Produzione",
+    "status": "documentato",
+    "source": "NIS_MET_POT"
+  },
+  {
+    "claim": "Edifici decorati con stucchi e pitture sono stati scavati",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "NIS_MET_BUILD"
+  },
+  {
+    "claim": "Qanat e oasi sostenevano la città",
+    "theme": "Infrastrutture",
+    "status": "sintesi",
+    "source": "NIS_MET_EXC"
+  },
+  {
+    "claim": "Ogni ceramica in stile Nishapur fu prodotta nel sito",
+    "theme": "Provenienza",
+    "status": "non_documentato",
+    "source": "Stile e provenienza non coincidono sempre"
+  },
+  {
+    "claim": "L’intera estensione urbana è stata scavata",
+    "theme": "Archeologia",
+    "status": "non_documentato",
+    "source": "Solo settori selezionati"
+  },
+  {
+    "claim": "Il IX–X secolo fu una fase di particolare prosperità",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "NIS_MET_POT"
+  }
+]

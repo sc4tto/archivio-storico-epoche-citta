@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Delhi imperiale e nazionalista",
+    "site": "Delhi imperiale e nazionalista",
+    "modern_location": "Delhi, India",
+    "coordinates": {
+      "lat": 28.6139,
+      "lon": 77.209
+    },
+    "scope": "Delhi fra 1900 e 1945: Old Delhi, cantonment e Civil Lines, proclamazione della capitale nel 1911, costruzione e inaugurazione di New Delhi nel 1931, crescita dei servizi, nazionalismo e guerra mondiale.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1945. Partizione, violenze e migrazioni del 1947, espansione metropolitana postcoloniale e Nuova Delhi repubblicana sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "DE1",
+      "title": "UNESCO — Red Fort Complex",
+      "use": "Continuità di Shahjahanabad e patrimonio moghul.",
+      "url": "https://whc.unesco.org/en/list/231/"
+    },
+    {
+      "id": "DE2",
+      "title": "Encyclopaedia Britannica — Delhi",
+      "use": "Storia urbana e trasferimento della capitale.",
+      "url": "https://www.britannica.com/place/Delhi"
+    },
+    {
+      "id": "DE3",
+      "title": "National Archives of India",
+      "use": "Piani, amministrazione e movimento nazionale.",
+      "url": "https://nationalarchives.nic.in/"
+    },
+    {
+      "id": "DE4",
+      "title": "New Delhi Municipal Council",
+      "use": "Storia e infrastrutture della capitale pianificata.",
+      "url": "https://www.ndmc.gov.in/"
+    },
+    {
+      "id": "DE5",
+      "title": "Archaeological Survey of India",
+      "use": "Monumenti e tutela del patrimonio di Delhi.",
+      "url": "https://asi.nic.in/"
+    }
+  ]
+}

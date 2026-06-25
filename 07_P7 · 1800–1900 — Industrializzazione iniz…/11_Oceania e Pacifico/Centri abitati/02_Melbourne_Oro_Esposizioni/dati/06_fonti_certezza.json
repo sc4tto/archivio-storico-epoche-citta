@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Melbourne si sviluppò su terre Kulin con forte espropriazione indigena.",
+    "theme": "indigeni",
+    "status": "documentato",
+    "source": "ME3; ME4"
+  },
+  {
+    "claim": "Il boom dell’oro trasformò popolazione, finanza e infrastrutture.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "ME3; ME5"
+  },
+  {
+    "claim": "Il Royal Exhibition Building fu costruito per le grandi esposizioni del 1880 e 1888.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "ME1; ME2"
+  },
+  {
+    "claim": "Ferrovie, docks e tram rafforzarono il ruolo metropolitano.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "ME5"
+  },
+  {
+    "claim": "La crescita produsse quartieri operai, inquinamento e problemi sanitari.",
+    "theme": "sanità",
+    "status": "documentato",
+    "source": "ME3; ME5"
+  },
+  {
+    "claim": "La crisi del 1890 segnò il ciclo speculativo urbano.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "ME3; ME5"
+  },
+  {
+    "claim": "La città presentò sé stessa come vetrina coloniale del progresso industriale.",
+    "theme": "cultura",
+    "status": "documentato",
+    "source": "ME1; ME2"
+  },
+  {
+    "claim": "La Federation del 1901 è esclusa.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "ME1; ME5"
+  }
+]

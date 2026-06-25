@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Melaka",
+      "lat": 2.1944,
+      "lon": 102.2487,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "riv",
+      "label": "Fiume Melaka e kampung",
+      "lat": 2.25,
+      "lon": 102.28,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "joh",
+      "label": "Johor e penisola malese",
+      "lat": 1.8,
+      "lon": 103.6,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "sum",
+      "label": "Sumatra orientale",
+      "lat": 2.0,
+      "lon": 101.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "chi",
+      "label": "Cina meridionale",
+      "lat": 23.0,
+      "lon": 113.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "ind",
+      "label": "India e Coromandel",
+      "lat": 13.0,
+      "lon": 80.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "jav",
+      "label": "Giava, Molucche e arcipelago",
+      "lat": -6.5,
+      "lon": 110.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "riv",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiume e mercati",
+      "food": "frutta, legname, pesce e prodotti locali"
+    },
+    {
+      "source": "joh",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e navigazione costiera",
+      "food": "riso, bestiame e prodotti forestali"
+    },
+    {
+      "source": "sum",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "attraversamento dello stretto",
+      "food": "pepe, oro, resine e riso"
+    },
+    {
+      "source": "chi",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte del Mar Cinese",
+      "food": "seta, porcellana, tè e mercanti"
+    },
+    {
+      "source": "ind",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Oceano Indiano",
+      "food": "tessili, spezie e comunità mercantili"
+    },
+    {
+      "source": "jav",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti dell’arcipelago",
+      "food": "riso, chiodi di garofano e noce moscata"
+    }
+  ]
+}

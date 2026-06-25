@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Veracruz, porto ferroviario del Golfo",
+    "site": "Veracruz, porto ferroviario del Golfo",
+    "modern_location": "Veracruz, Messico",
+    "coordinates": {
+      "lat": 19.1738,
+      "lon": -96.1342
+    },
+    "scope": "Veracruz fra 1800 e 1900: guerra d’indipendenza, capitolazione di San Juan de Ulúa, Guerra dei Pasticcieri, invasione statunitense, ferrovie, commercio atlantico, sanità portuale e lavori del porto porfiriano.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Occupazione statunitense del 1914, rivoluzione, petrolio novecentesco e ampliamenti portuali contemporanei sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "VE1",
+      "title": "Encyclopaedia Britannica — Veracruz",
+      "use": "Storia del porto e ruolo commerciale.",
+      "url": "https://www.britannica.com/place/Veracruz-Mexico"
+    },
+    {
+      "id": "VE2",
+      "title": "Instituto Nacional de Antropología e Historia — San Juan de Ulúa",
+      "use": "Fortezza, porto e patrimonio storico.",
+      "url": "https://www.inah.gob.mx/"
+    },
+    {
+      "id": "VE3",
+      "title": "Museo Naval México",
+      "use": "Storia marittima, difesa e navigazione.",
+      "url": "https://www.gob.mx/semar"
+    },
+    {
+      "id": "VE4",
+      "title": "Archivo General de la Nación de México",
+      "use": "Dogane, ferrovie, sanità e infrastrutture.",
+      "url": "https://www.gob.mx/agn"
+    },
+    {
+      "id": "VE5",
+      "title": "Gobierno del Estado de Veracruz",
+      "use": "Storia e territorio regionale.",
+      "url": "https://www.veracruz.gob.mx/"
+    }
+  ]
+}

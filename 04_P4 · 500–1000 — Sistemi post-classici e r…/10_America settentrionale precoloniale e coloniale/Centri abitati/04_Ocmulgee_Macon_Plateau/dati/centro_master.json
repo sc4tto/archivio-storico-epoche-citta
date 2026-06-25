@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Ocmulgee–Macon Plateau",
+    "site": "Ocmulgee Mounds / Macon Plateau",
+    "modern_location": "Macon, Georgia, Stati Uniti",
+    "coordinates": {
+      "lat": 32.8384,
+      "lon": -83.6026
+    },
+    "scope": "Ocmulgee fra circa 800 e 1000, concentrandosi sull’emergere del complesso Macon Plateau, sui primi mound, sull’earth lodge e sull’agricoltura mississippiana iniziale.",
+    "version": "1.0",
+    "warning": "Molti grandi mound e la piena organizzazione del complesso proseguono nell’XI secolo. Le attribuzioni anteriori al 900 sono distinte dalle fasi mature."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "OC1",
+      "title": "National Park Service — Ocmulgee Mounds, History & Culture",
+      "use": "Continuità di occupazione, culture e patrimonio Muscogee.",
+      "url": "https://www.nps.gov/ocmu/learn/historyculture/index.htm"
+    },
+    {
+      "id": "OC2",
+      "title": "National Park Service — Mississippian Period",
+      "use": "Mound, agricoltura e organizzazione del Macon Plateau.",
+      "url": "https://www.nps.gov/ocmu/learn/historyculture/mississippian-period.htm"
+    },
+    {
+      "id": "OC3",
+      "title": "National Park Service — Earth Lodge",
+      "use": "Architettura e funzione dell’earth lodge.",
+      "url": "https://www.nps.gov/places/earth-lodge.htm"
+    },
+    {
+      "id": "OC4",
+      "title": "Georgia Encyclopedia — Ocmulgee Mounds",
+      "use": "Cronologia e archeologia del sito.",
+      "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/ocmulgee-mounds/"
+    },
+    {
+      "id": "OC5",
+      "title": "Muscogee (Creek) Nation — History",
+      "use": "Continuità culturale e prospettiva Muscogee.",
+      "url": "https://www.muscogeenation.com/culturehistory/"
+    }
+  ]
+}

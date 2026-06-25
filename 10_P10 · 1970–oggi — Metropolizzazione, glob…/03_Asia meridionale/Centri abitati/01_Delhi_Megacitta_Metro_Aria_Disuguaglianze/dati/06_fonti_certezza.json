@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Il primo corridoio della Delhi Metro aprì il 25 dicembre 2002.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "DE1"
+  },
+  {
+    "claim": "La DDA sta preparando il quarto master plan di Delhi con orizzonte 2041.",
+    "theme": "pianificazione",
+    "status": "documentato",
+    "source": "DE2"
+  },
+  {
+    "claim": "Lo studio World Bank collega alcune espansioni della metro a riduzioni localizzate di inquinanti atmosferici.",
+    "theme": "ambiente",
+    "status": "documentato",
+    "source": "DE3"
+  },
+  {
+    "claim": "La gestione dell’aria richiede coordinamento oltre i confini amministrativi della città.",
+    "theme": "governance",
+    "status": "documentato",
+    "source": "DE4"
+  },
+  {
+    "claim": "Il piano in preparazione integra mobilità, ambiente, servizi e accessibilità come questioni interdipendenti.",
+    "theme": "pianificazione",
+    "status": "documentato",
+    "source": "DE2"
+  },
+  {
+    "claim": "Delhi, megacittà, metro, aria e disuguaglianze è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Demolizioni dell’Emergency, violenza anti-sikh, repressione delle proteste, sgomberi, acquisizioni e ricollocazioni non sono trattati come normali strumenti di modernizzazione; comunità religiose, residenti informali, lavoratori migranti e movimenti civici sono soggetti storici e politici.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

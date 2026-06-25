@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Huánuco Pampa",
+      "lat": -9.8747,
+      "lon": -76.8167,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "viz",
+      "label": "Valle del Vizcarra",
+      "lat": -9.9,
+      "lon": -76.75,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "mar",
+      "label": "Alto Marañón",
+      "lat": -9.65,
+      "lon": -76.7,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "pun",
+      "label": "Puna di Dos de Mayo",
+      "lat": -9.8,
+      "lon": -76.9,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "caj",
+      "label": "Cajamarca e Huamachuco",
+      "lat": -7.5,
+      "lon": -78.1,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "jau",
+      "label": "Jauja e sierra centrale",
+      "lat": -11.78,
+      "lon": -75.5,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "cus",
+      "label": "Cusco",
+      "lat": -13.53,
+      "lon": -71.97,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "viz",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade locali",
+      "food": "mais, frutta e manodopera"
+    },
+    {
+      "source": "mar",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoi vallivi",
+      "food": "derrate e fibre"
+    },
+    {
+      "source": "pun",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane",
+      "food": "camelidi, tuberi e lana"
+    },
+    {
+      "source": "caj",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Qhapaq Ñan settentrionale",
+      "food": "metalli, tessili e tributi"
+    },
+    {
+      "source": "jau",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Qhapaq Ñan meridionale",
+      "food": "mais, coca e personale"
+    },
+    {
+      "source": "cus",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "asse imperiale",
+      "food": "funzionari, ordini e beni di prestigio"
+    }
+  ]
+}

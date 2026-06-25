@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Prime strutture palaziali",
+    "Primo palazzo",
+    "Ricostruzione neopalaziale",
+    "Amministrazione micenea",
+    "Distruzione e trasformazioni"
+  ],
+  "items": [
+    {
+      "id": "court",
+      "label": "Corte centrale e ali monumentali",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "stores",
+      "label": "Magazzini e pithoi",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "workshops",
+      "label": "Laboratori artigiani",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "writing",
+      "label": "Lineare A e poi Lineare B",
+      "lane": "Amministrazione",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "drain",
+      "label": "Canalizzazioni e drenaggi",
+      "lane": "Infrastrutture",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "frescoes",
+      "label": "Programmi figurativi e affreschi",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "urban",
+      "label": "Quartieri urbani circostanti",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

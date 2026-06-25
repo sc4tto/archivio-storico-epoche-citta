@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Centro prepalaziale",
+    "Formazione del palazzo",
+    "Apogeo amministrativo",
+    "Rimodellamenti finali",
+    "Incendio e collasso"
+  ],
+  "items": [
+    {
+      "id": "megaron",
+      "label": "Megaron e sale cerimoniali",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "archives",
+      "label": "Archivi in Lineare B",
+      "lane": "Amministrazione",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "stores",
+      "label": "Magazzini di olio, vino e derrate",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "workshops",
+      "label": "Laboratori e produzione di profumi",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "drains",
+      "label": "Drenaggi e condotte",
+      "lane": "Infrastrutture",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "frescoes",
+      "label": "Affreschi e decorazione",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "fire",
+      "label": "Incendio finale che cotte le tavolette",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

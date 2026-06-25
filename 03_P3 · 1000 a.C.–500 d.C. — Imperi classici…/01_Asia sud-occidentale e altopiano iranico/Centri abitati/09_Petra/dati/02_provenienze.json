@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Petra",
+      "lat": 30.33,
+      "lon": 35.44,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "siq",
+      "label": "Siq e Wadi Musa",
+      "lat": 30.32,
+      "lon": 35.46,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "wadiarabah",
+      "label": "Wadi Arabah",
+      "lat": 30.3,
+      "lon": 35.2,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "gaza",
+      "label": "Gaza e Mediterraneo",
+      "lat": 31.5,
+      "lon": 34.47,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "bosra",
+      "label": "Bosra e Siria meridionale",
+      "lat": 32.52,
+      "lon": 36.48,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "arabia",
+      "label": "Arabia meridionale",
+      "lat": 20.0,
+      "lon": 45.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "siq",
+      "target": "site",
+      "label": "acqua, accesso e canalizzazioni",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "wadiarabah",
+      "target": "site",
+      "label": "rame e percorsi regionali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "gaza",
+      "target": "site",
+      "label": "sbocco mediterraneo",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "bosra",
+      "target": "site",
+      "label": "amministrazione e commerci",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "arabia",
+      "target": "site",
+      "label": "incenso, aromi e carovane",
+      "status": "documentato",
+      "food": "no"
+    }
+  ]
+}

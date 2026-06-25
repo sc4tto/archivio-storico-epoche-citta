@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Dhaka, industria tessile, metro, acqua e alluvioni",
+    "site": "Dhaka, industria tessile, metro, acqua e alluvioni",
+    "modern_location": "Dhaka, Bangladesh",
+    "coordinates": {
+      "lat": 23.8103,
+      "lon": 90.4125
+    },
+    "scope": "Dhaka dal 1970 al 25 giugno 2026: indipendenza e ricostruzione, crescita dell’industria dell’abbigliamento, migrazione rurale, insediamenti informali, congestione, alluvioni e perdita di canali, Rana Plaza nella regione metropolitana, prima metropolitana, proteste del 2024 e transizione politica.",
+    "version": "1.0",
+    "warning": "Il Detailed Area Plan 2022–2035 e gli interventi idrici con scadenze successive al 25 giugno 2026 sono indicati come piani o programmi futuri, non come risultati già completati."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "DH1",
+      "title": "RAJUK — Detailed Area Plan 2022–2035",
+      "use": "Uso del suolo, crescita metropolitana, aree umide e infrastrutture.",
+      "url": "https://masterplan.rajuk.gov.bd/"
+    },
+    {
+      "id": "DH2",
+      "title": "World Bank — Flood Risk Management in Dhaka",
+      "use": "Alluvioni, drenaggio, aree vulnerabili e insediamenti informali.",
+      "url": "https://documents1.worldbank.org/curated/en/585131520257159174/txt/123888-REVISED-FloodRiskManagementinDhakaFINAL.txt"
+    },
+    {
+      "id": "DH3",
+      "title": "World Bank — Metro Dhaka Water Security and Resilience Program",
+      "use": "Acqua, fognatura, rifiuti, canali e resilienza metropolitana.",
+      "url": "https://documents1.worldbank.org/curated/en/099092625203034774/pdf/P506770-af631371-912b-4ec0-88f0-85e03fcbed5e.pdf"
+    },
+    {
+      "id": "DH4",
+      "title": "OHCHR — Fact-Finding Report on the Protests of July and August 2024",
+      "use": "Violazioni dei diritti umani, repressione e mobilitazione politica.",
+      "url": "https://www.ohchr.org/sites/default/files/documents/countries/bangladesh/ohchr-fftb-hr-violations-bd.pdf"
+    }
+  ]
+}

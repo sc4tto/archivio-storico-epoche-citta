@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Seoul, guerra, ricostruzione e crescita autoritaria",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Infrastrutture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Ponti, ferrovie, autobus, strade, energia e telecomunicazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Acqua potabile, fognature, sanità, scuole e soccorso",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Economia urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Industria leggera, edilizia, commercio, amministrazione e servizi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Aiuti internazionali, logistica, mercati e pianificazione economica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Politica e istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Repubblica, municipalità, esercito, regimi Rhee e Park",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Amministrazione autoritaria, pianificazione, polizia e organizzazioni civiche",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Rifugiati, sfollati, migranti rurali, operai, studenti e impiegati",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Reti familiari, mercati, chiese, università e associazioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Crisi e disuguaglianze",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Guerra, repressione, povertà, sovraffollamento e carenza d’acqua",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Sgomberi, lavoro precario, servizi diseguali e insediamenti informali",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

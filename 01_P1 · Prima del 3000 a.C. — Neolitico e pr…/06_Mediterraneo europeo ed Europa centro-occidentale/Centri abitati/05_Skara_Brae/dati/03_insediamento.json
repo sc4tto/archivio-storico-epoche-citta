@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Primo villaggio",
+    "Ricostruzioni",
+    "Villaggio maturo",
+    "Fasi tarde",
+    "Abbandono e seppellimento"
+  ],
+  "items": [
+    {
+      "id": "houses",
+      "label": "Case in pietra parzialmente interrate",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "passages",
+      "label": "Passaggi coperti fra le abitazioni",
+      "lane": "Comunitarie",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "hearths",
+      "label": "Focolari centrali e aree domestiche",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "furniture",
+      "label": "Letti, credenze, vasche e nicchie in pietra",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "drain",
+      "label": "Canali e drenaggio sotto il villaggio",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "midden",
+      "label": "Midden usato attorno e fra le case",
+      "lane": "Conservazione",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "coast",
+      "label": "Progressiva esposizione all’erosione costiera",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

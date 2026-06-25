@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Soba fu la capitale medievale del regno cristiano di Alodia.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "SO1; SO2"
+  },
+  {
+    "claim": "La città occupava una vasta area sulla riva del Nilo Azzurro.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "SO1; SO2"
+  },
+  {
+    "claim": "Prospezioni geofisiche hanno rivelato strade e grandi complessi non ancora scavati.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "SO1; SO2"
+  },
+  {
+    "claim": "Mattoni rossi e crudi erano materiali fondamentali dell’architettura.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "SO1; SO4"
+  },
+  {
+    "claim": "Agricoltura e allevamento della Gezira e della Butana sostenevano la città.",
+    "theme": "economia",
+    "status": "sintesi",
+    "source": "SO1; SO3"
+  },
+  {
+    "claim": "Soba partecipava a reti fra Nubia, Etiopia e Mar Rosso.",
+    "theme": "commercio",
+    "status": "sintesi",
+    "source": "SO3; SO4"
+  },
+  {
+    "claim": "Solo una piccola parte del sito è stata scavata in modo estensivo.",
+    "theme": "certezza",
+    "status": "documentato",
+    "source": "SO1; SO3"
+  },
+  {
+    "claim": "Il declino finale avvenne intorno al passaggio fra XV e XVI secolo.",
+    "theme": "cronologia",
+    "status": "sintesi",
+    "source": "SO1; SO4"
+  }
+]

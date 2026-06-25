@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Beirut era un importante porto ottomano e capolinea ferroviario.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "BE1; BE3"
+  },
+  {
+    "claim": "La Grande carestia colpì duramente la città durante la Prima guerra mondiale.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "BE1; BE2"
+  },
+  {
+    "claim": "Beirut divenne capitale del Grande Libano nel 1920.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "BE2; BE3"
+  },
+  {
+    "claim": "Il Mandato francese introdusse nuove istituzioni e architetture amministrative.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "BE2; BE4"
+  },
+  {
+    "claim": "Università, stampa e banche sostennero il ruolo regionale della città.",
+    "theme": "cultura",
+    "status": "documentato",
+    "source": "BE1; BE3"
+  },
+  {
+    "claim": "La città accolse rifugiati e migranti, compresi molti armeni.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "BE1; BE2"
+  },
+  {
+    "claim": "L’indipendenza libanese fu proclamata nel 1943.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "BE3; BE4"
+  },
+  {
+    "claim": "La guerra civile successiva è esclusa.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "BE3"
+  }
+]

@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Khartoum",
+      "lat": 15.5007,
+      "lon": 32.5599,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "gez",
+      "label": "Gezira e Nilo Azzurro",
+      "lat": 14.5,
+      "lon": 33.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "whi",
+      "label": "Nilo Bianco e Sennar",
+      "lat": 13.55,
+      "lon": 33.6,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "omd",
+      "label": "Omdurman e riva occidentale",
+      "lat": 15.64,
+      "lon": 32.48,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "kor",
+      "label": "Kordofan e Darfur",
+      "lat": 13.0,
+      "lon": 29.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "eth",
+      "label": "Etiopia e Mar Rosso",
+      "lat": 13.5,
+      "lon": 39.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "egy",
+      "label": "Egitto e Mediterraneo",
+      "lat": 25.0,
+      "lon": 31.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "gez",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Nilo Azzurro e piste terrestri",
+      "food": "sorgo, sesamo, gomma e bestiame"
+    },
+    {
+      "source": "whi",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Nilo Bianco",
+      "food": "cereali, pesce e prodotti fluviali"
+    },
+    {
+      "source": "omd",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "traghetti e vie terrestri",
+      "food": "mercati, bestiame e manodopera"
+    },
+    {
+      "source": "kor",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane entro un sistema coercitivo e violento",
+      "food": "gomma arabica, avorio e schiavi catturati"
+    },
+    {
+      "source": "eth",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane orientali",
+      "food": "caffè, bestiame e merci del Mar Rosso"
+    },
+    {
+      "source": "egy",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Nilo e collegamenti desertici",
+      "food": "armi, tessili, funzionari e beni importati"
+    }
+  ]
+}

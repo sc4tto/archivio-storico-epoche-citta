@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Nel XIX secolo il centro amministrativo si spostò verso Weltevreden.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "BA1; BA2"
+  },
+  {
+    "claim": "Batavia fu capitale delle Indie orientali olandesi.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "BA2; BA3"
+  },
+  {
+    "claim": "Il sistema delle colture collegò la città a un’economia coloniale coercitiva.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "BA3; BA5"
+  },
+  {
+    "claim": "Ferrovie e porto di Tanjung Priok trasformarono la logistica urbana.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "BA1; BA2"
+  },
+  {
+    "claim": "Kampung e quartieri coloniali presentavano forti disuguaglianze.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "BA1; BA4"
+  },
+  {
+    "claim": "Malaria, colera e alluvioni furono problemi persistenti.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "BA1; BA2"
+  },
+  {
+    "claim": "La città dipendeva dalle produzioni agricole di Giava e dell’entroterra.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "BA2; BA5"
+  },
+  {
+    "claim": "Le trasformazioni politiche del Novecento sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "BA2"
+  }
+]

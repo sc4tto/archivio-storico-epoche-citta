@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Vijayanagara–Hampi",
+    "site": "Vijayanagara–Hampi",
+    "modern_location": "Karnataka, India",
+    "coordinates": {
+      "lat": 15.335,
+      "lon": 76.46
+    },
+    "scope": "Vijayanagara fra 1300 e 1500: fondazione della capitale, crescita dei complessi sacri e reali, bazar, fortificazioni, canali, serbatoi e paesaggio agricolo del Tungabhadra.",
+    "version": "1.0",
+    "warning": "Il modulo termina al 1500. L’apogeo di Krishnadevaraya e la distruzione del 1565 appartengono al periodo successivo e sono richiamati solo come limite cronologico."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "VI1",
+      "title": "UNESCO — Group of Monuments at Hampi",
+      "use": "Capitale, paesaggio, sistemi sacri, reali e idraulici.",
+      "url": "https://whc.unesco.org/en/list/241/"
+    },
+    {
+      "id": "VI2",
+      "title": "Penn Museum — Vijayanagara Research Project",
+      "use": "Ricerca archeologica sul territorio urbano e rurale.",
+      "url": "https://www.penn.museum/research/projects-researchers/asian-section/115-vijayanagara-research-project"
+    },
+    {
+      "id": "VI3",
+      "title": "Archaeological Survey of India — Hampi",
+      "use": "Monumenti, tutela e musei del sito.",
+      "url": "https://asi.nic.in/asi_monu_whs_hampi.asp"
+    },
+    {
+      "id": "VI4",
+      "title": "The Metropolitan Museum of Art — Vijayanagara",
+      "use": "Arte, corte e architettura dell’impero.",
+      "url": "https://www.metmuseum.org/toah/hd/vija/hd_vija.htm"
+    },
+    {
+      "id": "VI5",
+      "title": "UNESCO — Hampi nomination and maps",
+      "use": "Topografia e componenti del paesaggio culturale.",
+      "url": "https://whc.unesco.org/en/list/241/documents/"
+    }
+  ]
+}

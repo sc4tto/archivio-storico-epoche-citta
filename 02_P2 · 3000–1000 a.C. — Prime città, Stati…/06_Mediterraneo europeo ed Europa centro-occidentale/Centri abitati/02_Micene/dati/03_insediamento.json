@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Tombe a fossa e élite emergenti",
+    "Prima cittadella",
+    "Palazzo e mura ciclopiche",
+    "Espansione monumentale",
+    "Distruzione e riusi"
+  ],
+  "items": [
+    {
+      "id": "graveA",
+      "label": "Circoli funerari A e B",
+      "lane": "Funerarie",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "walls",
+      "label": "Mura ciclopiche e porte",
+      "lane": "Difensive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "palace",
+      "label": "Palazzo con megaron",
+      "lane": "Monumentali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "tholos",
+      "label": "Tombe a tholos",
+      "lane": "Funerarie",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "workshops",
+      "label": "Case e laboratori esterni",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "cistern",
+      "label": "Accesso alla cisterna",
+      "lane": "Infrastrutture",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "records",
+      "label": "Registri e sigilli amministrativi",
+      "lane": "Amministrazione",
+      "start": 2,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

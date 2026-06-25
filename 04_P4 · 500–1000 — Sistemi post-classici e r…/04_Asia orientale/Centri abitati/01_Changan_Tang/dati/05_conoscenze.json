@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Chang’an Tang",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Griglia ortogonale",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Quartieri murati",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Ricostruzione completa di ogni isolato",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Amministrazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Palazzi e ministeri",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Esami e burocrazia",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Controllo uniforme di ogni quartiere",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Reti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Via della Seta",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Grande Canale",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Un unico percorso lineare",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Religioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Buddhismo e daoismo",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Cristianesimo siriaco e zoroastrismo",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Tolleranza invariabile",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Produzione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Tessili e metalli",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Mercati regolati",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Volume preciso dei traffici",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Metodo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Scavi archeologici",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Testi e iscrizioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Resti visibili tutti Tang",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

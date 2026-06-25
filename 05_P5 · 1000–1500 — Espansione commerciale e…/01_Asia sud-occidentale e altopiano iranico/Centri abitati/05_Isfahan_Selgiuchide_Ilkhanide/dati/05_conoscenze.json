@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Isfahan selgiuchide e ilkhanide",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Architettura selgiuchide",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Schema a quattro iwan",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Cupole a doppio guscio",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Gestione dell’acqua",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Canali dello Zayandeh Rud",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Mulini, orti e giardini",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Laterizio e stucco",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Tessili, ceramica e metallo",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Bazar e caravanserragli",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Rotte fra Iraq, Fars e Khorasan",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Patronato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Selgiuchidi e waqf",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Aggiunte ilkhanidi e timuridi",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

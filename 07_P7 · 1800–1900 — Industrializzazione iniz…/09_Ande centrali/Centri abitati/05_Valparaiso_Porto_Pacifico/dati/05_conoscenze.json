@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Valparaíso, porto del Pacifico",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Pilotaggio, vapore e cabotaggio",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Dogane, assicurazioni e compagnie",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Porto",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Moli, magazzini e ferrovie",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Incendi, sanità e approvvigionamento",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Cerros, scale e ascensori",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Muri di contenimento e drenaggi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Immigrazione europea e reti mercantili",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Conventillos, portuali e lavoro precario",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Economia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Rame, nitrati e commercio Pacifico",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Finanza, importazioni e redistribuzione",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

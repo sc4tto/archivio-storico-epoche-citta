@@ -1,0 +1,228 @@
+{
+  "nodes": [
+    {
+      "id": "env1",
+      "label": "Riva dell’antico lago Chalco",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "env2",
+      "label": "Paludi, canneti e boschi del bacino",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "env3",
+      "label": "Variazioni del livello lacustre e attività vulcanica",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "crop1",
+      "label": "Mais o teosinte in economia mista",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "crop2",
+      "label": "Zucca, amaranto e piante gestite",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "animal",
+      "label": "Cervi, conigli e fauna terrestre",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "aquatic",
+      "label": "Pesci, uccelli acquatici e molluschi",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "wild",
+      "label": "Semi, tuberi e piante di palude",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "cultivate",
+      "label": "Raccolta e coltivazione iniziale",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "herd",
+      "label": "Caccia terrestre",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "fishhunt",
+      "label": "Pesca, cattura di uccelli e raccolta lacustre",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "grind",
+      "label": "Macinazione e frantumazione",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "cook",
+      "label": "Cottura su focolari e in recipienti tardi",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "store",
+      "label": "Essiccazione e accumulo",
+      "layer": 3,
+      "status": "inferito"
+    },
+    {
+      "id": "butcher",
+      "label": "Macellazione e pulizia del pesce",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "meals",
+      "label": "Pasti basati su risorse lacustri e vegetali",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "evidence",
+      "label": "Litica, fauna, macroresti e ceramica",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "refuse",
+      "label": "Ceneri, conchiglie e rifiuti domestici",
+      "layer": 4,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "env1",
+      "target": "crop1",
+      "label": "ambiente produttivo",
+      "status": "sintesi"
+    },
+    {
+      "source": "env1",
+      "target": "crop2",
+      "label": "ambiente produttivo",
+      "status": "sintesi"
+    },
+    {
+      "source": "env2",
+      "target": "aquatic",
+      "label": "risorse locali",
+      "status": "sintesi"
+    },
+    {
+      "source": "env3",
+      "target": "animal",
+      "label": "habitat animale",
+      "status": "sintesi"
+    },
+    {
+      "source": "env3",
+      "target": "wild",
+      "label": "raccolta e caccia",
+      "status": "sintesi"
+    },
+    {
+      "source": "crop1",
+      "target": "cultivate",
+      "label": "produzione o raccolta",
+      "status": "sintesi"
+    },
+    {
+      "source": "crop2",
+      "target": "cultivate",
+      "label": "produzione o raccolta",
+      "status": "sintesi"
+    },
+    {
+      "source": "animal",
+      "target": "herd",
+      "label": "caccia o gestione",
+      "status": "documentato"
+    },
+    {
+      "source": "aquatic",
+      "target": "fishhunt",
+      "label": "pesca o raccolta",
+      "status": "documentato"
+    },
+    {
+      "source": "wild",
+      "target": "fishhunt",
+      "label": "caccia o raccolta",
+      "status": "documentato"
+    },
+    {
+      "source": "cultivate",
+      "target": "grind",
+      "label": "trasformazione vegetale",
+      "status": "documentato"
+    },
+    {
+      "source": "cultivate",
+      "target": "store",
+      "label": "conservazione",
+      "status": "inferito"
+    },
+    {
+      "source": "herd",
+      "target": "butcher",
+      "label": "prodotti animali",
+      "status": "documentato"
+    },
+    {
+      "source": "fishhunt",
+      "target": "butcher",
+      "label": "trattamento delle prede",
+      "status": "documentato"
+    },
+    {
+      "source": "grind",
+      "target": "meals",
+      "label": "preparazione",
+      "status": "sintesi"
+    },
+    {
+      "source": "cook",
+      "target": "meals",
+      "label": "cottura",
+      "status": "sintesi"
+    },
+    {
+      "source": "store",
+      "target": "evidence",
+      "label": "depositi o contenitori",
+      "status": "documentato"
+    },
+    {
+      "source": "butcher",
+      "target": "evidence",
+      "label": "resti faunistici",
+      "status": "documentato"
+    },
+    {
+      "source": "cook",
+      "target": "refuse",
+      "label": "cenere e residui",
+      "status": "documentato"
+    }
+  ]
+}

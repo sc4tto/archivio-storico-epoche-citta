@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Detroit dell’automobile e della produzione di massa",
+    "site": "Detroit dell’automobile e della produzione di massa",
+    "modern_location": "Detroit, Stati Uniti",
+    "coordinates": {
+      "lat": 42.3314,
+      "lon": -83.0458
+    },
+    "scope": "Detroit fra 1900 e 1945: Ford, General Motors, catena di montaggio, crescita industriale, Grande Migrazione, housing segregato, crisi del 1929, lotte sindacali e Arsenal of Democracy.",
+    "version": "1.0",
+    "warning": "Sono esclusi il declino industriale postbellico, le autostrade urbane e le demolizioni della seconda metà del Novecento."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "DE1",
+      "title": "Detroit Historical Society",
+      "use": "Industria automobilistica, quartieri e storia sociale.",
+      "url": "https://detroithistorical.org/"
+    },
+    {
+      "id": "DE2",
+      "title": "Henry Ford Museum — Digital Collections",
+      "use": "Produzione di massa, lavoro e tecnologia.",
+      "url": "https://www.thehenryford.org/collections-and-research/digital-collections/"
+    },
+    {
+      "id": "DE3",
+      "title": "Library of Congress — Detroit collections",
+      "use": "Fotografie, mappe e documenti industriali.",
+      "url": "https://www.loc.gov/"
+    },
+    {
+      "id": "DE4",
+      "title": "Walter P. Reuther Library",
+      "use": "Sindacati, lavoro e movimenti sociali.",
+      "url": "https://reuther.wayne.edu/"
+    },
+    {
+      "id": "DE5",
+      "title": "National Archives — Great Lakes region",
+      "use": "Industria bellica e amministrazione federale.",
+      "url": "https://www.archives.gov/"
+    }
+  ]
+}

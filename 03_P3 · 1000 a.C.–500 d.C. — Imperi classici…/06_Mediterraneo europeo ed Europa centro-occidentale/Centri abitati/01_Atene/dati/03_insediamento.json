@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Formazione arcaica della polis",
+    "Età classica e programma pericleo",
+    "Guerra, restauri e IV secolo a.C.",
+    "Fase ellenistica",
+    "Atene romana e tardoantica"
+  ],
+  "items": [
+    {
+      "id": "acro",
+      "label": "Acropoli e santuari",
+      "lane": "Rituali",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "agora",
+      "label": "Agorà e istituzioni civiche",
+      "lane": "Amministrative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "walls",
+      "label": "Mura e Lunghe Mura",
+      "lane": "Difensive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "piraeus",
+      "label": "Porti, arsenali e magazzini",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "theatre",
+      "label": "Teatri e spazi performativi",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Quartieri domestici e botteghe",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "roman",
+      "label": "Edifici e restauri romani",
+      "lane": "Monumentali",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Auckland coloniale e portuale",
+    "site": "Auckland coloniale e portuale",
+    "modern_location": "Auckland / Tāmaki Makaurau, Nuova Zelanda",
+    "coordinates": {
+      "lat": -36.8509,
+      "lon": 174.7645
+    },
+    "scope": "Auckland fra 1840 e 1900: capitale coloniale fino al 1865, porto del Waitematā, crescita commerciale, migrazione europea, espropriazione Māori, guerre, infrastrutture, ferrovie e quartieri suburbani.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Harbour Bridge, aeroporti, crescita automobilistica e metropoli novecentesca sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "AU1",
+      "title": "Auckland Council / Auckland Libraries — Heritage and history",
+      "use": "Storia urbana e archivio locale.",
+      "url": "https://www.aucklandlibraries.govt.nz/"
+    },
+    {
+      "id": "AU2",
+      "title": "Te Ara — Auckland region",
+      "use": "Geografia storica e trasformazioni coloniali.",
+      "url": "https://teara.govt.nz/"
+    },
+    {
+      "id": "AU3",
+      "title": "NZ History — Capital and colonial period",
+      "use": "Capitale coloniale e passaggio a Wellington.",
+      "url": "https://nzhistory.govt.nz/"
+    },
+    {
+      "id": "AU4",
+      "title": "Auckland War Memorial Museum",
+      "use": "Tāmaki Makaurau, collezioni Māori e coloniali.",
+      "url": "https://www.aucklandmuseum.com/"
+    },
+    {
+      "id": "AU5",
+      "title": "Archives New Zealand",
+      "use": "Documentazione coloniale e amministrativa.",
+      "url": "https://www.archives.govt.nz/"
+    }
+  ]
+}

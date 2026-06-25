@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Quito, metro, pendii, alloggi, clima e patrimonio",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Governance del distretto",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Municipio, imprese pubbliche, parroquias e comunità",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Pianificazione, bilanci, dati e partecipazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mobilità integrata",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Metro, Trolebús, Ecovía, autobus e ciclabilità",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Intermodalità, sicurezza, manutenzione e accessibilità",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Pendii e rischio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Quebradas, frane, vulcani, sismi e drenaggio",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Monitoraggio, allerta, contenimento e prevenzione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Alloggi e patrimonio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Centro storico, barrios informali e edilizia resiliente",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Restauro, servizi, affordability e diritto alla città",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Clima e acqua",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Bacini, calore, piogge, emissioni e biodiversità",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Piano climatico, adattamento e giustizia ambientale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

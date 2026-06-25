@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Insediamento costiero iniziale",
+    "Crescita del tumulo",
+    "Fasi con riso",
+    "Ritorno delle risorse estuarine",
+    "Abbandono"
+  ],
+  "items": [
+    {
+      "id": "midden",
+      "label": "Accumulo di conchiglie e rifiuti",
+      "lane": "Trasformazione",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "pottery",
+      "label": "Produzione ceramica",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "fish",
+      "label": "Pesca estuarina",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "rice",
+      "label": "Coltivazione del riso",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "burials",
+      "label": "Sette fasi funerarie",
+      "lane": "Funerarie",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "ornaments",
+      "label": "Ornamenti di conchiglia",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "environment",
+      "label": "Cambiamento della costa",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

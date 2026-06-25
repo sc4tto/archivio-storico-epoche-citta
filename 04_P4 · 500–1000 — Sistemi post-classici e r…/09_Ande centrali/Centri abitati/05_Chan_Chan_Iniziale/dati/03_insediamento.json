@@ -1,0 +1,74 @@
+{
+  "phases": [
+    "800–850",
+    "850–900",
+    "900–950",
+    "950–1000"
+  ],
+  "items": [
+    {
+      "id": "c1",
+      "label": "Riorganizzazione post-Moche della valle",
+      "lane": "Politica",
+      "start": 0,
+      "end": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "c2",
+      "label": "Prime occupazioni monumentali a Chan Chan",
+      "lane": "Urbanistica",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "c3",
+      "label": "Sviluppo di canali e agricoltura intensiva",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "c4",
+      "label": "Crescita di quartieri artigianali",
+      "lane": "Produzione",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "c5",
+      "label": "Formazione di recinti gerarchizzati",
+      "lane": "Monumentalità",
+      "start": 2,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "c6",
+      "label": "Reti marittime e vallive",
+      "lane": "Commercio",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "c7",
+      "label": "Consolidamento del potere Chimú iniziale",
+      "lane": "Politica",
+      "start": 2,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "c8",
+      "label": "Espansione maggiore oltre il 1000",
+      "lane": "Cronologia",
+      "start": 3,
+      "end": 3,
+      "status": "non_documentato"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Freetown",
+      "lat": 8.4657,
+      "lon": -13.2317,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "pen",
+      "label": "Penisola di Freetown",
+      "lat": 8.35,
+      "lon": -13.15,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "est",
+      "label": "Estuario della Sierra Leone",
+      "lat": 8.55,
+      "lon": -13.05,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "int",
+      "label": "Entroterra temne e mende",
+      "lat": 8.3,
+      "lon": -11.8,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "lib",
+      "label": "Liberia e costa Kru",
+      "lat": 6.3,
+      "lon": -10.8,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "lag",
+      "label": "Lagos e Golfo di Guinea",
+      "lat": 6.45,
+      "lon": 3.38,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "atl",
+      "label": "Gran Bretagna, Caraibi e Atlantico",
+      "lat": 30.0,
+      "lon": -20.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "pen",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sentieri e corsi d’acqua",
+      "food": "riso, manioca, frutta, legname e acqua"
+    },
+    {
+      "source": "est",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "estuario e canoe",
+      "food": "pesce, sale e servizi portuali"
+    },
+    {
+      "source": "int",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "mercati e rotte interne",
+      "food": "riso, olio di palma e prodotti forestali"
+    },
+    {
+      "source": "lib",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cabotaggio regionale",
+      "food": "marinai, prodotti costieri e migrazioni"
+    },
+    {
+      "source": "lag",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte dell’Africa occidentale",
+      "food": "mercanti krio, persone e merci"
+    },
+    {
+      "source": "atl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Royal Navy e navigazione atlantica",
+      "food": "finanziamenti, missionari, manufatti e recaptives"
+    }
+  ]
+}

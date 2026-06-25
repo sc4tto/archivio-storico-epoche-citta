@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Lima, migrazione, barriadas e metropoli industriale",
+    "site": "Lima, migrazione, barriadas e metropoli industriale",
+    "modern_location": "Lima–Callao, Perù",
+    "coordinates": {
+      "lat": -12.0464,
+      "lon": -77.0428
+    },
+    "scope": "Lima e Callao fra 1945 e 1970: industrializzazione sostitutiva, forte migrazione dalle Ande e dalla costa, crescita delle barriadas, ampliamento viario, mercati e servizi, politiche di riconoscimento degli insediamenti e riforme avviate dal governo militare dal 1968.",
+    "version": "1.0",
+    "warning": "Sono esclusi il terremoto del 1974, la violenza politica degli anni ottanta e novanta, le riforme neoliberali e le trasformazioni metropolitane successive al 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "LI1",
+      "title": "Pontificia Universidad Católica del Perú — Ciudad y arquitectura de la República: Lima migrante, 1945–1970",
+      "use": "Migrazione interna, formazione delle barriadas, architettura e trasformazione della capitale.",
+      "url": "https://repositorio.pucp.edu.pe/server/api/core/bitstreams/ddcb872a-652f-45a4-ab23-eb9f331f81ed/content"
+    },
+    {
+      "id": "LI2",
+      "title": "PUCP, Revista Economía — Collective Action and the Provision of Public Goods in the Barriadas of Lima",
+      "use": "Crescita demografica, organizzazione collettiva e accesso a servizi e infrastrutture.",
+      "url": "https://revistas.pucp.edu.pe/index.php/economia/article/download/952/919"
+    },
+    {
+      "id": "LI3",
+      "title": "Ministerio de Justicia del Perú — Ley 13517 de Barrios Marginales",
+      "use": "Riconoscimento, risanamento e disciplina giuridica degli insediamenti marginali nel 1961.",
+      "url": "https://spij.minjus.gob.pe/Textos-PDF/Leyes/1961/Febrero/13517.pdf"
+    },
+    {
+      "id": "LI4",
+      "title": "Instituto Nacional de Estadística e Informática — Compendio estadístico del Perú",
+      "use": "Popolazione, urbanizzazione, migrazione e quadro statistico nazionale.",
+      "url": "https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1292/libro.pdf"
+    }
+  ]
+}

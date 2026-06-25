@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Sesklo — modulo multi-grafo",
+    "short_name": "Sesklo",
+    "site": "Insediamento neolitico di Sesklo",
+    "modern_location": "Tessaglia, Grecia — presso Volos",
+    "coordinates": {
+      "lat": 39.357,
+      "lon": 22.833
+    },
+    "scope": "Insediamento neolitico della Tessaglia dal VII al V millennio a.C., con fasi aceramiche e ceramiche, agricoltura, allevamento, case in mattoni crudi su fondazioni di pietra e ceramica dipinta.",
+    "version": "1.0-blocco_07_p1_mediterraneo_europa_5_centri_v1",
+    "warning": "Le stime di popolazione e l’idea di un impianto “urbano” sono dibattute. La sequenza comprende più nuclei e fasi; non tutte le strutture visibili sono contemporanee."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "HMC_SESKLO",
+      "title": "Hellenic Ministry of Culture — Archaeological site of Sesklo",
+      "url": "https://www.culture.gov.gr/en/service/SitePages/view.aspx?iID=2980",
+      "use": "presentazione istituzionale del sito, architettura e fasi"
+    },
+    {
+      "id": "SESKLO_OVERVIEW",
+      "title": "The Neolithic settlement of Sesklo — quadro archeologico della Tessaglia",
+      "url": "https://www.archaeology.wiki/blog/archaeological_site/sesklo/",
+      "use": "sequenza, edifici, ceramica e localizzazione"
+    },
+    {
+      "id": "NATURE_SE_EUROPE",
+      "title": "Mathieson et al. — The genomic history of southeastern Europe",
+      "url": "https://www.nature.com/articles/nature25778",
+      "use": "quadro della diffusione delle comunità agricole neolitiche nei Balcani"
+    }
+  ]
+}

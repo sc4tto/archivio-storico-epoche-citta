@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Leningrado",
+      "lat": 59.9343,
+      "lon": 30.3351,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "nev",
+      "label": "Neva, porto e canali",
+      "lat": 59.94,
+      "lon": 30.25,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "sub",
+      "label": "Cintura industriale e sobborghi",
+      "lat": 59.88,
+      "lon": 30.45,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "lad",
+      "label": "Lago Ladoga",
+      "lat": 60.8,
+      "lon": 31.4,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "rus",
+      "label": "Retroterra russo e sovietico",
+      "lat": 57.0,
+      "lon": 36.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "balt",
+      "label": "Baltico e fronti settentrionali",
+      "lat": 58.5,
+      "lon": 24.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "war",
+      "label": "Asse tedesco-finlandese",
+      "lat": 60.5,
+      "lon": 28.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "nev",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto, fiume e canali",
+      "food": "grano, carbone, materiali e traffici portuali"
+    },
+    {
+      "source": "sub",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "tram e ferrovie",
+      "food": "operai, armi, macchinari e energia"
+    },
+    {
+      "source": "lad",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Via della Vita",
+      "food": "rifornimenti, evacuati e feriti"
+    },
+    {
+      "source": "rus",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e pianificazione",
+      "food": "cereali, carburante, soldati e ordini centrali"
+    },
+    {
+      "source": "balt",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Baltico e linee militari",
+      "food": "minacce navali, merci e truppe"
+    },
+    {
+      "source": "war",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fronti di guerra",
+      "food": "assedio, bombardamenti e blocco"
+    }
+  ]
+}

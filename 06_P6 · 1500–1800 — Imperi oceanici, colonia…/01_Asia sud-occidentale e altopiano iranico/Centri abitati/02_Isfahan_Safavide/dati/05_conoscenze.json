@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Isfahan safavide",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Maydan come cerniera urbana",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Asse di Chahar Bagh",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Idraulica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Canali dello Zayandeh Rud",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Ponti-diga e giardini",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Arti di corte",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Maiolica e pittura",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Tessili e miniature",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Bazar e caravanserragli",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Reti armene e internazionali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Iwan e cupole",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Palazzi e padiglioni",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "nodes": [
+    {
+      "id": "m_coral",
+      "label": "Pietra corallina",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_lime",
+      "label": "Calce e malta",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_wood",
+      "label": "Pali e travi di mangrovia",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_earth",
+      "label": "Terra, sabbia e argilla",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "o_quarry",
+      "label": "Raccolta e taglio del corallo",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_burn",
+      "label": "Produzione e posa della calce",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_carp",
+      "label": "Carpenteria e legature",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_plaster",
+      "label": "Pavimenti e rivestimenti",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "c_walls",
+      "label": "Muri e fondazioni",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_mihrab",
+      "label": "Mihrab e spazi di preghiera",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_roofs",
+      "label": "Tetti e solai",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_wells",
+      "label": "Pozzi, cortili e pavimenti",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "s_mosques",
+      "label": "Sequenza delle moschee",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_houses",
+      "label": "Case e cortili",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_workshops",
+      "label": "Officine e aree artigianali",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_settlement",
+      "label": "Quartieri del centro costiero",
+      "layer": 3,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m_coral",
+      "target": "o_quarry",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_quarry",
+      "target": "c_walls",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_walls",
+      "target": "s_mosques",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_lime",
+      "target": "o_burn",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_burn",
+      "target": "c_mihrab",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_mihrab",
+      "target": "s_houses",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_wood",
+      "target": "o_carp",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_carp",
+      "target": "c_roofs",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_roofs",
+      "target": "s_workshops",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_earth",
+      "target": "o_plaster",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_plaster",
+      "target": "c_wells",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_wells",
+      "target": "s_settlement",
+      "status": "documentato",
+      "label": ""
+    }
+  ]
+}

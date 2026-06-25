@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_54_P5_Africa_Subsahariana_5_Centri_v1",
+  "macroregion": "Africa subsahariana",
+  "centers": [
+    "01_Timbuctu_Saheliana",
+    "02_Gao_Imperiale",
+    "03_Kano_Hausa",
+    "04_Kilwa_Kisiwani",
+    "05_Grande_Zimbabwe"
+  ],
+  "uses_central_assets": true
+}

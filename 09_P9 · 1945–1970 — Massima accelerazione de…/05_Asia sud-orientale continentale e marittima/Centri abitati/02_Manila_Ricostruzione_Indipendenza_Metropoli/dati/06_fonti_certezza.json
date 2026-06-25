@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "La battaglia di Manila del 1945 provocò distruzione urbana e un’enorme perdita di vite civili.",
+    "theme": "guerra",
+    "status": "documentato",
+    "source": "MA1; MA2; MA4"
+  },
+  {
+    "claim": "La Repubblica delle Filippine divenne indipendente nel 1946.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "MA1"
+  },
+  {
+    "claim": "La ricostruzione adottò anche linguaggi e tecniche dell’architettura modernista.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "MA2"
+  },
+  {
+    "claim": "Nel dopoguerra furono riorganizzate più volte le istituzioni nazionali di pianificazione.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "MA3"
+  },
+  {
+    "claim": "La crescita metropolitana produsse espansione suburbana e gravi carenze abitative.",
+    "theme": "società",
+    "status": "sintesi",
+    "source": "MA1; MA3"
+  },
+  {
+    "claim": "Manila, ricostruzione, indipendenza e metropoli dispersa è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "I massacri e la distruzione del 1945, lo sfollamento, la povertà, gli sgomberi e la disuguaglianza nell’accesso a case e servizi sono descritti come conseguenze violente e non neutrali della guerra e della ricostruzione.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

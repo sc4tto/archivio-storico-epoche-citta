@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Milano",
+      "lat": 45.4642,
+      "lon": 9.19,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "lom",
+      "label": "Pianura lombarda",
+      "lat": 45.1,
+      "lon": 9.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "lag",
+      "label": "Laghi e Prealpi",
+      "lat": 45.9,
+      "lon": 9.1,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "emi",
+      "label": "Emilia e valle del Po",
+      "lat": 44.8,
+      "lon": 10.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "ven",
+      "label": "Veneto e Friuli",
+      "lat": 45.7,
+      "lon": 12.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "sud",
+      "label": "Mezzogiorno e isole",
+      "lat": 40.5,
+      "lon": 15.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "eur",
+      "label": "Europa centro-occidentale",
+      "lat": 48.0,
+      "lon": 7.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "lom",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "camion, ferrovie e mercati",
+      "food": "latte, riso, mais, carne, ortaggi e pendolari"
+    },
+    {
+      "source": "lag",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e strade",
+      "food": "latte, formaggi, pesce, legname e lavoratori"
+    },
+    {
+      "source": "emi",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e autostrade",
+      "food": "carne, salumi, pasta, frutta e macchinari"
+    },
+    {
+      "source": "ven",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e strade",
+      "food": "vino, ortaggi, pollame e migranti"
+    },
+    {
+      "source": "sud",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "treni a lunga distanza e autostrade",
+      "food": "agrumi, olio, pomodori, lavoratori e famiglie"
+    },
+    {
+      "source": "eur",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "trafori, ferrovie e camion",
+      "food": "materie prime, alimenti, tecnologie e capitali"
+    }
+  ]
+}

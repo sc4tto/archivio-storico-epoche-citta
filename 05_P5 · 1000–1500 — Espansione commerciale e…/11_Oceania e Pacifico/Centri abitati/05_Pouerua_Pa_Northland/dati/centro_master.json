@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Pouērua pā e paesaggio di Northland",
+    "site": "Pouērua pā",
+    "modern_location": "Pakaraka, Northland, Nuova Zelanda",
+    "coordinates": {
+      "lat": -35.361,
+      "lon": 173.957
+    },
+    "scope": "Pouērua e il paesaggio della Bay of Islands fra 1350 e 1500, con attenzione a orticoltura del kūmara, insediamenti stagionali, stoccaggio e prime fortificazioni su rilievo.",
+    "version": "1.0",
+    "warning": "La sequenza del pā è lunga e molte fortificazioni visibili possono appartenere a fasi successive al 1500. Il modulo usa soltanto le fasi iniziali e tratta come sintesi le attribuzioni cronologiche non direttamente datate."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "PO1",
+      "title": "Heritage New Zealand Pouhere Taonga — Pouērua",
+      "use": "Valore tradizionale, paesaggio archeologico e registrazione del sito.",
+      "url": "https://www.heritage.org.nz/list-details/6711/Pouerua"
+    },
+    {
+      "id": "PO2",
+      "title": "New Zealand History — Pouērua",
+      "use": "Significato per Ngāpuhi e descrizione del cono fortificato.",
+      "url": "https://nzhistory.govt.nz/media/photo/pouerua"
+    },
+    {
+      "id": "PO3",
+      "title": "The Archaeology of Pouerua — Auckland University Press",
+      "use": "Scavi, cronologia, orticoltura, abitazioni e fortificazioni.",
+      "url": "https://aucklanduniversitypress.co.nz/the-archaeology-of-pouerua/"
+    },
+    {
+      "id": "PO4",
+      "title": "Te Ara — Pā fortifications",
+      "use": "Funzioni dei pā, terrazze, fossati, stoccaggio e paesaggio.",
+      "url": "https://teara.govt.nz/en/pa-fortifications"
+    },
+    {
+      "id": "PO5",
+      "title": "New Zealand Archaeological Association",
+      "use": "Quadro metodologico e registrazione dei siti māori.",
+      "url": "https://nzarchaeology.org/"
+    }
+  ]
+}

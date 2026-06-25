@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Liangzhu",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Acqua e paesaggio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Costruzione di dighe",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Gestione di bacini",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Pianificazione territoriale",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Riso",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Gestione dei surplus",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_3",
+          "label": "Organizzazione del lavoro agricolo",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Edilizia monumentale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Terra battuta",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Piattaforme",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Mura",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Giada",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Selezione della materia prima",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_2",
+          "label": "Abrasione e perforazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Codici rituali",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Amministrazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Coordinamento idraulico",
+          "status": "inferito"
+        },
+        {
+          "id": "k5_2",
+          "label": "Redistribuzione",
+          "status": "inferito"
+        },
+        {
+          "id": "k5_3",
+          "label": "Scrittura pienamente sviluppata",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Organizzazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Gerarchie funerarie",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Lavoro collettivo",
+          "status": "inferito"
+        },
+        {
+          "id": "k6_3",
+          "label": "Centro politico e spirituale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

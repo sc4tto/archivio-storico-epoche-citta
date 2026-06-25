@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1970–1979",
+    "1980–1989",
+    "1990–1999",
+    "2000–2009",
+    "2010–25 giugno 2026"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Deindustrializzazione e perdita di occupazione manifatturiera",
+      "lane": "Economia",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Crescita di servizi, università, sanità e logistica",
+      "lane": "Economia",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Segregazione residenziale e disinvestimento persistenti",
+      "lane": "Diritti",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Riqualificazione selettiva e gentrificazione di quartieri centrali",
+      "lane": "Alloggi",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Ondata di calore del 1995 e disuguaglianze nella mortalità",
+      "lane": "Clima",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Modernizzazione delle linee Red e Purple",
+      "lane": "Mobilità",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Avvio lavori Red Line Extension il 24 aprile 2026",
+      "lane": "Mobilità",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Servizio della Red Line Extension al 2030 come obiettivo futuro",
+      "lane": "Pianificazione",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Coxcatlán conserva una lunga sequenza con molte zone di occupazione",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "SMITH_COXCATLAN"
+  },
+  {
+    "claim": "Le datazioni dirette hanno rivisto le cronologie del mais",
+    "theme": "Mais",
+    "status": "documentato",
+    "source": "LONG_AMS"
+  },
+  {
+    "claim": "Sono documentati resti di più piante domesticate",
+    "theme": "Agricoltura",
+    "status": "documentato",
+    "source": "SMITH_COXCATLAN"
+  },
+  {
+    "claim": "Focolari, fosse e utensili indicano attività ripetute",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "MACNEISH_TEHUACAN"
+  },
+  {
+    "claim": "La grotta faceva parte di un sistema regionale di mobilità",
+    "theme": "Mobilità",
+    "status": "sintesi",
+    "source": "MACNEISH_TEHUACAN"
+  },
+  {
+    "claim": "Ogni reperto botanico è contemporaneo al livello in cui fu trovato",
+    "theme": "Metodo",
+    "status": "non_documentato",
+    "source": "Problemi di disturbo stratigrafico"
+  },
+  {
+    "claim": "Il mais dominava già completamente la dieta nel VI millennio a.C.",
+    "theme": "Alimentazione",
+    "status": "non_documentato",
+    "source": "Economia ancora diversificata"
+  },
+  {
+    "claim": "La grotta era una grande città",
+    "theme": "Urbanizzazione",
+    "status": "non_documentato",
+    "source": "Occupazioni in riparo"
+  }
+]

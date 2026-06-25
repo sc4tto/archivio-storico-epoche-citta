@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Micene fu uno dei principali centri palaziali della tarda età del Bronzo",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "MYC_UNESCO"
+  },
+  {
+    "claim": "La cittadella conserva mura ciclopiche, Porta dei Leoni e tombe monumentali",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "MYC_UNESCO"
+  },
+  {
+    "claim": "Il centro partecipava a reti mediterranee di scambio",
+    "theme": "Scambi",
+    "status": "documentato",
+    "source": "MYC_UNESCO"
+  },
+  {
+    "claim": "La differenziazione funeraria documenta élite potenti",
+    "theme": "Società",
+    "status": "sintesi",
+    "source": "MYC_CULTURE"
+  },
+  {
+    "claim": "Il palazzo utilizzava il modello del megaron",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "MYC_CULTURE"
+  },
+  {
+    "claim": "La tomba detta di Agamennone apparteneva certamente al sovrano omerico",
+    "theme": "Mito",
+    "status": "non_documentato",
+    "source": "Attribuzione tradizionale, non provata"
+  },
+  {
+    "claim": "Micene controllò unitariamente tutto il mondo miceneo",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Esistevano più centri palaziali"
+  },
+  {
+    "claim": "Il crollo ebbe una sola causa militare",
+    "theme": "Crisi",
+    "status": "non_documentato",
+    "source": "Cause multiple e dibattute"
+  }
+]

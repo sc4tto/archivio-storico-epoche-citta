@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Bangkok–Rattanakosin",
+      "lat": 13.7563,
+      "lon": 100.5018,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "del",
+      "label": "Delta del Chao Phraya",
+      "lat": 13.3,
+      "lon": 100.3,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "ayt",
+      "label": "Ayutthaya e pianure centrali",
+      "lat": 14.35,
+      "lon": 100.57,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "gulf",
+      "label": "Golfo del Siam",
+      "lat": 12.8,
+      "lon": 100.6,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "chi",
+      "label": "Cina meridionale",
+      "lat": 23.1,
+      "lon": 113.3,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "mal",
+      "label": "Penisola malese e Singapore",
+      "lat": 4.0,
+      "lon": 103.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "eur",
+      "label": "Europa, India e mercati globali",
+      "lat": 20.0,
+      "lon": 50.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "del",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiumi e khlong",
+      "food": "riso, frutta, ortaggi e manodopera"
+    },
+    {
+      "source": "ayt",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Chao Phraya e strade",
+      "food": "riso, legname, bestiame e prodotti agricoli"
+    },
+    {
+      "source": "gulf",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione del golfo",
+      "food": "pesce, sale e merci oceaniche"
+    },
+    {
+      "source": "chi",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "giunche e piroscafi",
+      "food": "tè, porcellana, seta e mercanti"
+    },
+    {
+      "source": "mal",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte peninsulari",
+      "food": "stagno, spezie e traffici regionali"
+    },
+    {
+      "source": "eur",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "piroscafi e trattati commerciali",
+      "food": "macchinari, tessili, farina e capitale"
+    }
+  ]
+}

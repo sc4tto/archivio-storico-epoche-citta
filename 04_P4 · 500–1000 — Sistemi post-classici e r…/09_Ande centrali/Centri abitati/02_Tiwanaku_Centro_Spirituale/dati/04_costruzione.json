@@ -1,0 +1,282 @@
+{
+  "nodes": [
+    {
+      "id": "m0",
+      "label": "Arenaria rossa",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m1",
+      "label": "Andesite e grandi monoliti",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m2",
+      "label": "Adobe e terra",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m3",
+      "label": "Legno, canne e fibre",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "o0",
+      "label": "Taglio, levigatura e incastro",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o1",
+      "label": "Trasporto e posa di blocchi",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o2",
+      "label": "Muratura in adobe e riempimenti",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o3",
+      "label": "Carpenteria e coperture",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "c0",
+      "label": "Pilastrature, portali e monoliti",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c1",
+      "label": "Piattaforme e muri di contenimento",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c2",
+      "label": "Canali e drenaggi sotterranei",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c3",
+      "label": "Tetti, porte e chiusure leggere",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "s0",
+      "label": "Templi e cortili cerimoniali",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s1",
+      "label": "Piramidi Akapana e Pumapunku",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s2",
+      "label": "Palazzi e settori amministrativi",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s3",
+      "label": "Quartieri residenziali in adobe",
+      "layer": 3,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m0",
+      "target": "o0",
+      "status": "documentato",
+      "label": "L’arenaria era tagliata, levigata e sagomata."
+    },
+    {
+      "source": "m0",
+      "target": "o1",
+      "status": "documentato",
+      "label": "I blocchi di arenaria erano trasportati e posati."
+    },
+    {
+      "source": "m1",
+      "target": "o0",
+      "status": "documentato",
+      "label": "L’andesite richiedeva taglio e incastri precisi."
+    },
+    {
+      "source": "m1",
+      "target": "o1",
+      "status": "documentato",
+      "label": "Monoliti e blocchi di andesite erano trasportati e messi in opera."
+    },
+    {
+      "source": "m2",
+      "target": "o2",
+      "status": "documentato",
+      "label": "Adobe e terra erano usati in murature e riempimenti."
+    },
+    {
+      "source": "m2",
+      "target": "o1",
+      "status": "sintesi",
+      "label": "Terra e pietrame contribuivano alla posa e al riempimento delle piattaforme."
+    },
+    {
+      "source": "m3",
+      "target": "o3",
+      "status": "sintesi",
+      "label": "Legno, canne e fibre erano impiegati nelle coperture."
+    },
+    {
+      "source": "o0",
+      "target": "c0",
+      "status": "documentato",
+      "label": "Taglio e incastro producevano portali, pilastri e monoliti."
+    },
+    {
+      "source": "o0",
+      "target": "c1",
+      "status": "documentato",
+      "label": "La lavorazione della pietra contribuiva a piattaforme e muri."
+    },
+    {
+      "source": "o0",
+      "target": "c2",
+      "status": "documentato",
+      "label": "Blocchi lavorati formavano parti dei sistemi di drenaggio."
+    },
+    {
+      "source": "o1",
+      "target": "c0",
+      "status": "documentato",
+      "label": "Trasporto e posa erano indispensabili per portali e monoliti."
+    },
+    {
+      "source": "o1",
+      "target": "c1",
+      "status": "documentato",
+      "label": "La posa dei blocchi costruiva piattaforme e contenimenti."
+    },
+    {
+      "source": "o1",
+      "target": "c2",
+      "status": "documentato",
+      "label": "La posa accurata formava canali e drenaggi."
+    },
+    {
+      "source": "o2",
+      "target": "c1",
+      "status": "documentato",
+      "label": "Adobe e riempimenti completavano piattaforme e muri."
+    },
+    {
+      "source": "o2",
+      "target": "c2",
+      "status": "documentato",
+      "label": "Terra e riempimenti proteggevano i canali sotterranei."
+    },
+    {
+      "source": "o2",
+      "target": "c3",
+      "status": "documentato",
+      "label": "Le murature in adobe formavano ambienti residenziali e chiusure."
+    },
+    {
+      "source": "o3",
+      "target": "c3",
+      "status": "sintesi",
+      "label": "Carpenteria e fibre formavano tetti, porte e chiusure leggere."
+    },
+    {
+      "source": "c0",
+      "target": "s0",
+      "status": "documentato",
+      "label": "Portali e monoliti definivano templi e cortili cerimoniali."
+    },
+    {
+      "source": "c0",
+      "target": "s1",
+      "status": "documentato",
+      "label": "Elementi monumentali caratterizzavano Akapana e Pumapunku."
+    },
+    {
+      "source": "c0",
+      "target": "s2",
+      "status": "documentato",
+      "label": "Portali e pilastrature erano presenti nei settori di rango."
+    },
+    {
+      "source": "c1",
+      "target": "s0",
+      "status": "documentato",
+      "label": "Piattaforme e muri strutturavano i complessi cerimoniali."
+    },
+    {
+      "source": "c1",
+      "target": "s1",
+      "status": "documentato",
+      "label": "Le piramidi erano costituite da piattaforme e contenimenti."
+    },
+    {
+      "source": "c1",
+      "target": "s2",
+      "status": "documentato",
+      "label": "Piattaforme e muri definivano palazzi e settori amministrativi."
+    },
+    {
+      "source": "c1",
+      "target": "s3",
+      "status": "documentato",
+      "label": "Muri e riempimenti erano usati nei quartieri in adobe."
+    },
+    {
+      "source": "c2",
+      "target": "s0",
+      "status": "documentato",
+      "label": "Drenaggi e canali servivano templi e cortili."
+    },
+    {
+      "source": "c2",
+      "target": "s1",
+      "status": "documentato",
+      "label": "Akapana e Pumapunku integravano sistemi di drenaggio."
+    },
+    {
+      "source": "c2",
+      "target": "s2",
+      "status": "documentato",
+      "label": "I settori amministrativi richiedevano smaltimento delle acque."
+    },
+    {
+      "source": "c2",
+      "target": "s3",
+      "status": "documentato",
+      "label": "Canali e drenaggi servivano anche i quartieri residenziali."
+    },
+    {
+      "source": "c3",
+      "target": "s2",
+      "status": "sintesi",
+      "label": "Tetti e chiusure coprivano palazzi e ambienti amministrativi."
+    },
+    {
+      "source": "c3",
+      "target": "s3",
+      "status": "sintesi",
+      "label": "Le strutture residenziali richiedevano coperture leggere."
+    }
+  ]
+}

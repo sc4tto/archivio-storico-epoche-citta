@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Mulifanua — modulo multi-grafo",
+    "short_name": "Mulifanua",
+    "site": "Sito Lapita sommerso del Ferry Berth di Mulifanua",
+    "modern_location": "Upolu occidentale, Samoa",
+    "coordinates": {
+      "lat": -13.83,
+      "lon": -172.036
+    },
+    "scope": "Sito costiero Lapita scoperto durante l’ampliamento del terminale dei traghetti, oggi parzialmente sommerso; conserva migliaia di frammenti ceramici, fra cui decorazioni Lapita, e asce, e rappresenta una delle prime testimonianze dell’insediamento umano nelle Samoa intorno al passaggio fra II e I millennio a.C.",
+    "version": "1.0-blocco_36_p3_oceania_pacifico_5_centri_v1",
+    "warning": "Il sito è disturbato da lavori portuali, variazioni della linea di costa e contesti sommersi. Le quantità di frammenti non equivalgono al numero di vasi e la cronologia radiocarbonica dipende dalle correzioni per campioni marini."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "MUL_JPS",
+      "title": "Green e Leach — New information for the Ferry Berth site, Mulifanua",
+      "url": "https://www.jps.auckland.ac.nz/document/Volume_98_1989/Volume_98%2C_No._3/New_information_for_the_Ferry_Berth_site%2C_Mulifanua%2C_Western_Samoa%2C_by_H._M._Leach%2C_p_319-330",
+      "use": "scoperta, ceramiche, asce e cronologia"
+    },
+    {
+      "id": "MUL_DICK",
+      "title": "Dickinson — Temper Sands in Prehistoric Oceanian Pottery",
+      "url": "https://search.worldcat.org/search?q=Temper+Sands+in+Prehistoric+Oceanian+Pottery+Dickinson",
+      "use": "provenienza delle sabbie e produzione ceramica"
+    },
+    {
+      "id": "MUL_ARCH",
+      "title": "Samoan archaeology and cultural heritage resources",
+      "url": "https://www.samoa.travel/discover/our-history/",
+      "use": "quadro storico e culturale delle Samoa"
+    }
+  ]
+}

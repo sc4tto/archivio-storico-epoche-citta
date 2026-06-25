@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Chan Chan, capitale Chimú",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Architettura in terra",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Adobes e murature massive",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Intonaci e rilievi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Idraulica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Canali inter-vallivi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Pozzi e gestione dell’acqua",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Produzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Metallurgia e tessili",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Laboratori specializzati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Amministrazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Magazzini e accessi controllati",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Tributo e redistribuzione",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Reti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Pesca e navigazione costiera",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Carovane verso la sierra",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

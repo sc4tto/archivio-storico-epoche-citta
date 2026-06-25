@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Prime frequentazioni",
+    "Costruzione delle creste",
+    "Tumuli e piazza",
+    "Massima attività",
+    "Riduzione dopo il 1100 a.C."
+  ],
+  "items": [
+    {
+      "id": "ridges",
+      "label": "Sei creste concentriche",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "plaza",
+      "label": "Piazza centrale livellata",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "mounda",
+      "label": "Tumulo A",
+      "lane": "Monumentali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "posts",
+      "label": "Grandi cerchi di pali",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "work",
+      "label": "Produzione di utensili e ornamenti",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "gather",
+      "label": "Raduni e scambi",
+      "lane": "Organizzazione",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "decline",
+      "label": "Contrazione delle attività",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

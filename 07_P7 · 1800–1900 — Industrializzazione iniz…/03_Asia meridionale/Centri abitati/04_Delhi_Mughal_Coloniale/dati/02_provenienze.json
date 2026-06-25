@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Delhi–Shahjahanabad",
+      "lat": 28.6562,
+      "lon": 77.241,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "doa",
+      "label": "Doab Yamuna-Gange",
+      "lat": 28.0,
+      "lon": 78.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "har",
+      "label": "Haryana e pianure occidentali",
+      "lat": 29.2,
+      "lon": 76.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "raj",
+      "label": "Rajasthan orientale",
+      "lat": 27.0,
+      "lon": 76.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "pun",
+      "label": "Punjab e Grand Trunk Road",
+      "lat": 31.0,
+      "lon": 74.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "gan",
+      "label": "Agra, Kanpur e valle del Gange",
+      "lat": 27.0,
+      "lon": 79.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "sea",
+      "label": "Calcutta, Bombay e mercati globali",
+      "lat": 22.0,
+      "lon": 80.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "doa",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade, canali e carri",
+      "food": "grano, riso, zucchero e ortaggi"
+    },
+    {
+      "source": "har",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade rurali e ferrovia",
+      "food": "miglio, bestiame, latte e combustibile"
+    },
+    {
+      "source": "raj",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane e ferrovia",
+      "food": "sale, lana, pietra e animali da trasporto"
+    },
+    {
+      "source": "pun",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Grand Trunk Road e ferrovia",
+      "food": "grano, cavalli, tessili e mercanti"
+    },
+    {
+      "source": "gan",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "East Indian Railway",
+      "food": "zucchero, cotone, merci e funzionari"
+    },
+    {
+      "source": "sea",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete ferroviaria coloniale",
+      "food": "macchinari, tè, carta e beni importati"
+    }
+  ]
+}

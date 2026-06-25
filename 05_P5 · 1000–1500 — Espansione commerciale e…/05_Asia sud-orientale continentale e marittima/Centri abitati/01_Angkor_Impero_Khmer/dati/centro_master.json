@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Angkor, capitali dell’Impero khmer",
+    "site": "Angkor e Angkor Thom",
+    "modern_location": "Provincia di Siem Reap, Cambogia",
+    "coordinates": {
+      "lat": 13.4125,
+      "lon": 103.867
+    },
+    "scope": "Angkor fra 1000 e 1500: da Suryavarman I e Angkor Wat alla capitale di Angkor Thom e al progressivo spostamento del baricentro politico verso sud.",
+    "version": "1.0",
+    "warning": "Il modulo distingue le diverse capitali e fasi monumentali. Il declino politico del XV secolo non equivale a un abbandono totale del paesaggio abitato."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "AN1",
+      "title": "UNESCO — Angkor",
+      "use": "Capitali khmer, monumenti, reti idrauliche e paesaggio insediativo.",
+      "url": "https://whc.unesco.org/en/list/668/"
+    },
+    {
+      "id": "AN2",
+      "title": "APSARA National Authority — Angkor",
+      "use": "Gestione del sito, archeologia, templi e paesaggio culturale.",
+      "url": "https://apsaraauthority.gov.kh/"
+    },
+    {
+      "id": "AN3",
+      "title": "Encyclopaedia Britannica — Angkor",
+      "use": "Cronologia politica, Angkor Wat, Angkor Thom e impero khmer.",
+      "url": "https://www.britannica.com/place/Angkor"
+    },
+    {
+      "id": "AN4",
+      "title": "The Metropolitan Museum of Art — Khmer art",
+      "use": "Arte, religione e architettura khmer.",
+      "url": "https://www.metmuseum.org/toah/hd/angk/hd_angk.htm"
+    },
+    {
+      "id": "AN5",
+      "title": "UNESCO — Hydraulic structures at Angkor",
+      "use": "Baray, canali, dighe e integrazione del paesaggio.",
+      "url": "https://whc.unesco.org/en/list/668/"
+    }
+  ]
+}

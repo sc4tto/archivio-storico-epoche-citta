@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Beijing–Dadu fra Yuan e primi Ming",
+    "site": "Dadu–Beijing",
+    "modern_location": "Beijing, Cina",
+    "coordinates": {
+      "lat": 39.9042,
+      "lon": 116.4074
+    },
+    "scope": "Beijing fra 1000 e 1500: Nanjing dei Liao, Zhongdu dei Jin, distruzione mongola, fondazione di Dadu e riorganizzazione della capitale sotto i primi Ming.",
+    "version": "1.0",
+    "warning": "La Città Proibita e il sistema Ming sono inclusi solo per la fase quattrocentesca. Il modulo distingue Zhongdu, Dadu e la successiva Beijing."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "BJ1",
+      "title": "UNESCO — Beijing Central Axis",
+      "use": "Origine Yuan dell’asse centrale e sviluppo Ming della capitale.",
+      "url": "https://whc.unesco.org/en/list/1714/"
+    },
+    {
+      "id": "BJ2",
+      "title": "UNESCO — The Grand Canal",
+      "use": "Trasporto del grano e connessione della capitale con il basso Yangzi.",
+      "url": "https://whc.unesco.org/en/list/1443/"
+    },
+    {
+      "id": "BJ3",
+      "title": "Encyclopaedia Britannica — Beijing",
+      "use": "Storia urbana da Zhongdu a Dadu e Beijing.",
+      "url": "https://www.britannica.com/place/Beijing"
+    },
+    {
+      "id": "BJ4",
+      "title": "The Metropolitan Museum of Art — The Yuan Dynasty",
+      "use": "Contesto mongolo, arti e scambi eurasiatici.",
+      "url": "https://www.metmuseum.org/toah/hd/yuan/hd_yuan.htm"
+    },
+    {
+      "id": "BJ5",
+      "title": "The Palace Museum",
+      "use": "Palazzi imperiali, collezioni e architettura della capitale Ming.",
+      "url": "https://en.dpm.org.cn/"
+    }
+  ]
+}

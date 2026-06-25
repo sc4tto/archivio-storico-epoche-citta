@@ -1,0 +1,74 @@
+{
+  "phases": [
+    "500–650",
+    "650–700",
+    "700–850",
+    "850–1000"
+  ],
+  "items": [
+    {
+      "id": "p_s1",
+      "label": "Comunità fluviali del basso Musi",
+      "lane": "Abitato",
+      "start": 0,
+      "end": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_s2",
+      "label": "Kadatuan attestato dalle iscrizioni",
+      "lane": "Potere",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "p_s3",
+      "label": "Porti, approdi e magazzini",
+      "lane": "Porto",
+      "start": 1,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_s4",
+      "label": "Centri buddhisti e mobilità monastica",
+      "lane": "Culto e studio",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "p_s5",
+      "label": "Canali, fossati e isole artificiali",
+      "lane": "Infrastrutture",
+      "start": 2,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_s6",
+      "label": "Abitato ligneo su rive e paludi",
+      "lane": "Abitato",
+      "start": 1,
+      "end": 3,
+      "status": "inferito"
+    },
+    {
+      "id": "p_s7",
+      "label": "Rete di controllo degli stretti",
+      "lane": "Potere",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "p_s8",
+      "label": "Espansione dei contatti con Cina e India",
+      "lane": "Porto",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    }
+  ]
+}

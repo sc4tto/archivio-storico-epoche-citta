@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Liangzhu City risale circa al 3300–2300 a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "UNESCO_LIANGZHU"
+  },
+  {
+    "claim": "Il sito comprende città murata, piattaforma centrale e sistema idraulico",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "UNESCO_LIANGZHU"
+  },
+  {
+    "claim": "La società era sostenuta da coltivazione del riso",
+    "theme": "Agricoltura",
+    "status": "documentato",
+    "source": "UNESCO_LIANGZHU"
+  },
+  {
+    "claim": "Dighe e bacini rappresentano un’impresa idraulica di grande scala",
+    "theme": "Idraulica",
+    "status": "documentato",
+    "source": "LIANGZHU_HYDRO"
+  },
+  {
+    "claim": "Le giade e le tombe mostrano differenziazione rituale e sociale",
+    "theme": "Società",
+    "status": "documentato",
+    "source": "UNESCO_LIANGZHU"
+  },
+  {
+    "claim": "Il sistema idraulico prova un re identificabile",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "La centralizzazione non identifica un sovrano individuale"
+  },
+  {
+    "claim": "Liangzhu possedeva una scrittura decifrata",
+    "theme": "Scrittura",
+    "status": "non_documentato",
+    "source": "Non è documentato un sistema di scrittura decifrato"
+  },
+  {
+    "claim": "L’abbandono ebbe una sola causa certa",
+    "theme": "Ambiente",
+    "status": "non_documentato",
+    "source": "Le cause restano oggetto di ricerca"
+  }
+]

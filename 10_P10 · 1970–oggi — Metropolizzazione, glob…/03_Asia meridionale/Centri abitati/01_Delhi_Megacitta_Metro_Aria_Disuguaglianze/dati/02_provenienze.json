@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Delhi",
+      "lat": 28.6139,
+      "lon": 77.209,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "har",
+      "label": "Haryana",
+      "lat": 29.0,
+      "lon": 76.2,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "pun",
+      "label": "Punjab",
+      "lat": 31.0,
+      "lon": 75.4,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "yam",
+      "label": "Corridoio Yamuna",
+      "lat": 28.5,
+      "lon": 77.5,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "agr",
+      "label": "Agra e Uttar Pradesh",
+      "lat": 27.2,
+      "lon": 78.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "air",
+      "label": "Aeroporto IGI",
+      "lat": 28.56,
+      "lon": 77.1,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "glo",
+      "label": "Rotte globali",
+      "lat": 30.5,
+      "lon": 73.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "har",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e mercati agricoli",
+      "food": "latte, ortaggi, cereali e lavoratori"
+    },
+    {
+      "source": "pun",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e camion",
+      "food": "frumento, riso, legumi e migrazione"
+    },
+    {
+      "source": "yam",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade, canali e mercati",
+      "food": "ortaggi, acqua, materiali e pendolari"
+    },
+    {
+      "source": "agr",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e autostrade",
+      "food": "frutta, cereali, manufatti e famiglie"
+    },
+    {
+      "source": "air",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cargo aereo e logistica",
+      "food": "alimenti ad alto valore, passeggeri e servizi"
+    },
+    {
+      "source": "glo",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "voli, container e piattaforme",
+      "food": "ingredienti, merci e capitale"
+    }
+  ]
+}

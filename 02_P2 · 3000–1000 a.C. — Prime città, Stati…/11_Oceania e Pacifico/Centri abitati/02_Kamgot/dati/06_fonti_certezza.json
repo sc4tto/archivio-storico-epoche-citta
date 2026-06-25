@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Kamgot appartiene alla fase Lapita antica del Bismarck",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "KAM_ANIR"
+  },
+  {
+    "claim": "Il sito conserva ceramica dentellata",
+    "theme": "Ceramica",
+    "status": "documentato",
+    "source": "KAM_SUMMER"
+  },
+  {
+    "claim": "L’ossidiana testimonia scambi interinsulari",
+    "theme": "Scambi",
+    "status": "documentato",
+    "source": "KAM_OBS"
+  },
+  {
+    "claim": "La dieta includeva risorse marine e orticole",
+    "theme": "Alimentazione",
+    "status": "sintesi",
+    "source": "KAM_SUMMER"
+  },
+  {
+    "claim": "La produzione artigianale avveniva anche in spazi domestici",
+    "theme": "Artigianato",
+    "status": "sintesi",
+    "source": "KAM_ANIR"
+  },
+  {
+    "claim": "Kamgot controllava politicamente le isole vicine",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Controllo territoriale non dimostrato"
+  },
+  {
+    "claim": "La ceramica decorata scomparve improvvisamente",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Transizione graduale possibile"
+  },
+  {
+    "claim": "Sono note le forme esatte delle canoe",
+    "theme": "Navigazione",
+    "status": "non_documentato",
+    "source": "Imbarcazioni non conservate"
+  }
+]

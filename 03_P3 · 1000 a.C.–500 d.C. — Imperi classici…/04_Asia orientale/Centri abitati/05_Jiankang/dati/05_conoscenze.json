@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Jiankang",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Yangtze",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Canali",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Approdi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Amministrazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Corte di Wu",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Jin orientali",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Dinastie meridionali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Produzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Ceramiche",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Lacca",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Tessili",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Scrittura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Calligrafia",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Archivi",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Carta",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Religioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Buddhismo",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Daoismo",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Culti ancestrali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Urbanistica",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Palazzi",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Quartieri",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_3",
+          "label": "Cinta Ming antica",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

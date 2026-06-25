@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Naqada I",
+    "Naqada II iniziale",
+    "Naqada II tarda",
+    "Naqada III",
+    "Prima età dinastica"
+  ],
+  "items": [
+    {
+      "id": "town",
+      "label": "Espansione dell’abitato predinastico",
+      "lane": "Impianto",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Case e cortili in materiali terrosi",
+      "lane": "Abitazioni",
+      "start": 0,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "brew",
+      "label": "Installazioni produttive e birrifici",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "craft",
+      "label": "Laboratori ceramici e artigianali",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "cemeteries",
+      "label": "Necropoli per gruppi diversi",
+      "lane": "Funerarie",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "elite",
+      "label": "Complessi funerari e cerimoniali distintivi",
+      "lane": "Sociali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "temple",
+      "label": "Area cultuale e deposito principale",
+      "lane": "Simboliche",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

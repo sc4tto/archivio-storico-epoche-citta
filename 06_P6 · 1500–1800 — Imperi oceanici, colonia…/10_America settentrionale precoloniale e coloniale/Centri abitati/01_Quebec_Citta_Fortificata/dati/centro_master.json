@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Québec, città fortificata",
+    "site": "Québec, città fortificata",
+    "modern_location": "Québec, Canada",
+    "coordinates": {
+      "lat": 46.8139,
+      "lon": -71.208
+    },
+    "scope": "Québec fra 1608 e 1800: città alta e bassa, porto, magazzini, chiese, conventi, fortificazioni, commercio delle pellicce e trasformazione dal regime francese a quello britannico.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1800. Citadelle ottocentesca, espansione industriale, ferrovie, Château Frontenac e restauri moderni sono esclusi o indicati come posteriori."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "QC1",
+      "title": "UNESCO — Historic District of Old Québec",
+      "use": "Città fortificata, città alta e bassa, ruolo coloniale.",
+      "url": "https://whc.unesco.org/en/list/300/"
+    },
+    {
+      "id": "QC2",
+      "title": "Parks Canada — Fortifications of Québec",
+      "use": "Fortificazioni, porte e paesaggio difensivo.",
+      "url": "https://parks.canada.ca/lhn-nhs/qc/fortifications"
+    },
+    {
+      "id": "QC3",
+      "title": "The Canadian Encyclopedia — Québec City",
+      "use": "Storia urbana e ruolo nella Nuova Francia.",
+      "url": "https://www.thecanadianencyclopedia.ca/en/article/quebec-city"
+    },
+    {
+      "id": "QC4",
+      "title": "Musée de la civilisation — Québec",
+      "use": "Cultura materiale e società coloniale.",
+      "url": "https://www.mcq.org/"
+    },
+    {
+      "id": "QC5",
+      "title": "Library and Archives Canada — New France",
+      "use": "Fonti cartografiche e amministrative.",
+      "url": "https://library-archives.canada.ca/eng/collectionsearch/Pages/collectionsearch.aspx"
+    }
+  ]
+}

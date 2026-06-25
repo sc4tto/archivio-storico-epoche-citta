@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Beirut",
+      "lat": 33.8938,
+      "lon": 35.5018,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "met",
+      "label": "Metn e Monte Libano",
+      "lat": 33.95,
+      "lon": 35.65,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "sho",
+      "label": "Chouf e costa centrale",
+      "lat": 33.7,
+      "lon": 35.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "bek",
+      "label": "Valle della Bekaa",
+      "lat": 33.85,
+      "lon": 36.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "tri",
+      "label": "Tripoli e nord Libano",
+      "lat": 34.44,
+      "lon": 35.85,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "dam",
+      "label": "Damasco e interno siriano",
+      "lat": 33.51,
+      "lon": 36.29,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "med",
+      "label": "Mediterraneo e Golfo petrolifero",
+      "lat": 34.0,
+      "lon": 30.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "met",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade montane",
+      "food": "acqua, frutta, latte e lavoratori"
+    },
+    {
+      "source": "sho",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade costiere",
+      "food": "olive, agrumi e ortaggi"
+    },
+    {
+      "source": "bek",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "autocarri e ferrovia regionale",
+      "food": "grano, patate, uva e bestiame"
+    },
+    {
+      "source": "tri",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strada costiera",
+      "food": "merci portuali, sapone e prodotti agricoli"
+    },
+    {
+      "source": "dam",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strada Beirut-Damasco",
+      "food": "commercianti, tessili e derrate"
+    },
+    {
+      "source": "med",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto e aeroporto",
+      "food": "capitali, turisti, petrolio, caffè e merci"
+    }
+  ]
+}

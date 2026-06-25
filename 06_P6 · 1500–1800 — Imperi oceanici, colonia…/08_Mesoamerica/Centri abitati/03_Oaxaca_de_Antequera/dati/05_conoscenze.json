@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Oaxaca de Antequera vicereale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Valle e agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Milpa, agave e irrigazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Mercati regionali e trasporto",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Cocciniglia e tessili",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Allevamento del nopal e tintura",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Filatura, tessitura e commercio",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura antisismica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Muri spessi e contrafforti",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Cantera, adobe e coperture leggere",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Istituzioni religiose",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Domenicani, conventi e parrocchie",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Collegi, ospedali e confraternite",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Società indigena",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Cabildos de indios e comunità",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Tributi, repartimiento e sincretismi",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

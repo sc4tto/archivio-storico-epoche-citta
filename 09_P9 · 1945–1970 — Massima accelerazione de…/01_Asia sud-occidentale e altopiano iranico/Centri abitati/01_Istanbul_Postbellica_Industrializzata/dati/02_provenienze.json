@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Istanbul",
+      "lat": 41.0082,
+      "lon": 28.9784,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "thr",
+      "label": "Tracia orientale",
+      "lat": 41.2,
+      "lon": 27.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "mar",
+      "label": "Marmara e Bursa",
+      "lat": 40.2,
+      "lon": 29.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "bla",
+      "label": "Costa del Mar Nero",
+      "lat": 41.5,
+      "lon": 30.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "ank",
+      "label": "Ankara e Anatolia centrale",
+      "lat": 39.93,
+      "lon": 32.86,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "aege",
+      "label": "Egeo e Smirne",
+      "lat": 38.42,
+      "lon": 27.14,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "med",
+      "label": "Mediterraneo e rotte internazionali",
+      "lat": 35.0,
+      "lon": 25.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "thr",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e strade",
+      "food": "grano, carne, latte e migranti"
+    },
+    {
+      "source": "mar",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "traghetti e rete regionale",
+      "food": "ortaggi, frutta, olive e manufatti"
+    },
+    {
+      "source": "bla",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cabotaggio e ferrovia",
+      "food": "pesce, legname e carbone"
+    },
+    {
+      "source": "ank",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia anatolica e autostrade",
+      "food": "funzionari, lavoratori e derrate"
+    },
+    {
+      "source": "aege",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e navigazione",
+      "food": "olio, frutta e tessili"
+    },
+    {
+      "source": "med",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto internazionale",
+      "food": "petrolio, caffè, macchinari e merci"
+    }
+  ]
+}

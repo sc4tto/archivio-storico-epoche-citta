@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "La guerra di Corea devastò ripetutamente Seoul e provocò fughe di massa.",
+    "theme": "conflitto",
+    "status": "documentato",
+    "source": "SE1; SE2"
+  },
+  {
+    "claim": "La ricostruzione dopo il 1953 incluse alloggi pubblici e aiuti internazionali.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "SE1; SE4"
+  },
+  {
+    "claim": "La popolazione superò tre milioni nel 1963 e cinque milioni nel 1970.",
+    "theme": "demografia",
+    "status": "documentato",
+    "source": "SE1"
+  },
+  {
+    "claim": "L’espansione urbana rese urgente ampliare gli acquedotti negli anni Sessanta.",
+    "theme": "servizi",
+    "status": "documentato",
+    "source": "SE3"
+  },
+  {
+    "claim": "Il colpo di Stato del 1961 consolidò un percorso di sviluppo autoritario.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Seoul, guerra, ricostruzione e crescita autoritaria è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Guerra, occupazioni, rifugiati, punizioni politiche, repressione autoritaria, sgomberi e povertà sono trattati come violenza e disuguaglianza, non come sfondo neutrale della crescita.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

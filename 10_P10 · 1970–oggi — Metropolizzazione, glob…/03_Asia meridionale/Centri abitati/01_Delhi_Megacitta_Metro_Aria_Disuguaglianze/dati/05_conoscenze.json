@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Delhi, megacittà, metro, aria e disuguaglianze",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Governance metropolitana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Coordinamento fra Delhi, NCR e comuni satelliti",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Partecipazione, dati e responsabilità istituzionale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Aria e salute",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Monitoraggio, inventari emissivi e gestione di airshed",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Trasporti puliti, industria e protezione sanitaria",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Abitazione e informalità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Autocostruzione, colonie e reti di vicinato",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Regolarizzazione, sgomberi e diritto alla casa",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Mobilità di massa",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Metro, bus, ferrovia e interscambi",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Accessibilità, genere e ultimo miglio",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Acqua e clima",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Yamuna, falde, drenaggio e riuso",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Calore estremo, alluvioni e resilienza",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

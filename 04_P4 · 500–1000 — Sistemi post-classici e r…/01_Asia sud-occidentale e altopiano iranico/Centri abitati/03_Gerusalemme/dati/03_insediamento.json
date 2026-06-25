@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Gerusalemme bizantina",
+    "Conquista araba nel 638",
+    "Costruzione della Cupola della Roccia",
+    "Sviluppo di al-Aqsa e quartieri islamici",
+    "Età abbaside e fatimide iniziale"
+  ],
+  "items": [
+    {
+      "id": "holy",
+      "label": "Santo Sepolcro e santuari cristiani",
+      "lane": "Religiose",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "dome",
+      "label": "Cupola della Roccia",
+      "lane": "Religiose",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "aqsa",
+      "label": "Complesso di al-Aqsa",
+      "lane": "Religiose",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "markets",
+      "label": "Mercati e vie di pellegrinaggio",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "walls",
+      "label": "Fortificazioni e porte",
+      "lane": "Difensive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "water",
+      "label": "Cisterne e sistemi idrici",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "quake",
+      "label": "Terremoti e ricostruzioni",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

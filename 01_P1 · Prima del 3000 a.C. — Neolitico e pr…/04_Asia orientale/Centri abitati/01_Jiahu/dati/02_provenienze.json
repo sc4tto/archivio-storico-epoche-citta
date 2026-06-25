@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Jiahu",
+      "lat": 33.62,
+      "lon": 113.67,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "rivers",
+      "label": "Fiumi Ni e Sha",
+      "lat": 33.6,
+      "lon": 113.75,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": -20,
+      "anchor": "end"
+    },
+    {
+      "id": "wetland",
+      "label": "Zone umide della pianura",
+      "lat": 33.7,
+      "lon": 113.55,
+      "status": "sintesi",
+      "kind": "locale",
+      "dx": 10,
+      "dy": 25,
+      "anchor": "start"
+    },
+    {
+      "id": "hills",
+      "label": "Colline e boschi vicini",
+      "lat": 33.3,
+      "lon": 113.2,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 28,
+      "anchor": "middle"
+    },
+    {
+      "id": "peiligang",
+      "label": "Altri siti Peiligang",
+      "lat": 34.3,
+      "lon": 113.7,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "yangtze",
+      "label": "Medio Yangtze",
+      "lat": 30.5,
+      "lon": 112.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "rivers",
+      "target": "site",
+      "label": "acqua, pesce e trasporto locale",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "wetland",
+      "target": "site",
+      "label": "riso, tartarughe e piante acquatiche",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "hills",
+      "target": "site",
+      "label": "selvaggina, legno e frutti",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "peiligang",
+      "target": "site",
+      "label": "reti culturali regionali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "yangtze",
+      "target": "site",
+      "label": "confronti nella gestione del riso; non commercio diretto",
+      "status": "inferito",
+      "food": "no"
+    }
+  ]
+}

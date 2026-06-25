@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "tl1",
+      "label": "Occupazioni insulari anteriori",
+      "lane": "Insediamento",
+      "start": 2,
+      "end": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "tl2",
+      "label": "Fondazione dell’altepetl tlatelolca",
+      "lane": "Politica",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "tl3",
+      "label": "Costruzione del recinto cerimoniale",
+      "lane": "Religione",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "tl4",
+      "label": "Espansione del grande tianguis",
+      "lane": "Economia",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "tl5",
+      "label": "Reti mercantili a lunga distanza",
+      "lane": "Economia",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "tl6",
+      "label": "Conflitto e subordinazione a Tenochtitlan",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "tl7",
+      "label": "Continuità del mercato sotto controllo mexica",
+      "lane": "Economia",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "tl8",
+      "label": "Quartieri artigiani e canali urbani",
+      "lane": "Urbanistica",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

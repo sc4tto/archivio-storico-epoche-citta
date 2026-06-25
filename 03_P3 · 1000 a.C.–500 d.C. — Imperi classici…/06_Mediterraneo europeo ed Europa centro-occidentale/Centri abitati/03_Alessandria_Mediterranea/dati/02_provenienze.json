@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Alessandria",
+      "lat": 31.2,
+      "lon": 29.919,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "harbour",
+      "label": "Porto orientale e Pharos",
+      "lat": 31.21,
+      "lon": 29.9,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "mareotis",
+      "label": "Lago Mareotide",
+      "lat": 31.05,
+      "lon": 29.85,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "nile",
+      "label": "Delta del Nilo",
+      "lat": 31.0,
+      "lon": 30.5,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "rhodes",
+      "label": "Rodi ed Egeo",
+      "lat": 36.44,
+      "lon": 28.22,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "rome",
+      "label": "Roma e Italia",
+      "lat": 41.893,
+      "lon": 12.483,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "harbour",
+      "target": "site",
+      "label": "navi, merci, difesa e segnalazione marittima",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "mareotis",
+      "target": "site",
+      "label": "vino, derrate e collegamenti interni",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "nile",
+      "target": "site",
+      "label": "grano, papiro, fiscalità e trasporto",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "rhodes",
+      "target": "site",
+      "label": "ceramiche, vino e reti ellenistiche",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "rome",
+      "target": "site",
+      "label": "amministrazione imperiale e commercio annonario",
+      "status": "documentato",
+      "food": "sì"
+    }
+  ]
+}

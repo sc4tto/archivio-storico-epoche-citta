@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Fasi preagricole",
+    "Occupazioni dell’Arcaico",
+    "Crescita delle piante gestite",
+    "Mais direttamente datato",
+    "Fasi ceramiche successive"
+  ],
+  "items": [
+    {
+      "id": "zones",
+      "label": "Molteplici zone di occupazione",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "hearth",
+      "label": "Focolari, ceneri e superfici",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "plants",
+      "label": "Raccolta e coltivazione di piante",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "grind",
+      "label": "Macinazione e preparazione",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "pits",
+      "label": "Fosse di deposito e cache",
+      "lane": "Conservazione",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "maize",
+      "label": "Comparsa del mais direttamente datato",
+      "lane": "Produttive",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "disturb",
+      "label": "Rimescolamenti e problemi stratigrafici",
+      "lane": "Trasformazione",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

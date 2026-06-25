@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Tell di Vinča–Belo Brdo",
+      "lat": 44.755,
+      "lon": 20.623,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "danube",
+      "label": "Danubio",
+      "lat": 44.76,
+      "lon": 20.64,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "bolecica",
+      "label": "Valle della Bolečica",
+      "lat": 44.72,
+      "lon": 20.58,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": 26,
+      "anchor": "end"
+    },
+    {
+      "id": "avala",
+      "label": "Avala e Šuplja Stena",
+      "lat": 44.68,
+      "lon": 20.52,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": -8,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "carpathian",
+      "label": "Ossidiana dei Carpazi",
+      "lat": 48.6,
+      "lon": 21.4,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "aegean",
+      "label": "Conchiglie Spondylus dell’Egeo",
+      "lat": 40.2,
+      "lon": 24.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "danube",
+      "target": "site",
+      "label": "acqua, pesca, trasporto e argille",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "bolecica",
+      "target": "site",
+      "label": "campi, pascoli e accesso al retroterra",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "avala",
+      "target": "site",
+      "label": "minerali e pigmenti, inclusa cinabrite",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "carpathian",
+      "target": "site",
+      "label": "ossidiana e reti di scambio",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "aegean",
+      "target": "site",
+      "label": "ornamenti in conchiglia",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

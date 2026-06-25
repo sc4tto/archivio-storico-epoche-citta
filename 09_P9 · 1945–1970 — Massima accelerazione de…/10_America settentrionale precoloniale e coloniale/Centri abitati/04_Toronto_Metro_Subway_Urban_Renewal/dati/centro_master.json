@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Toronto, Metro, subway e urban renewal",
+    "site": "Toronto, Metro, subway e urban renewal",
+    "modern_location": "Toronto, Ontario, Canada",
+    "coordinates": {
+      "lat": 43.6532,
+      "lon": -79.3832
+    },
+    "scope": "Toronto fra 1945 e 1970: immigrazione, baby boom e crescita suburbana; creazione di Metropolitan Toronto nel 1953; reti idriche, fognarie e stradali regionali; metropolitana di Yonge dal 1954 e nuove linee negli anni sessanta; Gardiner e Don Valley Parkway; Regent Park e altri progetti di edilizia sociale; resistenza di Trefann Court alla demolizione.",
+    "version": "1.0",
+    "warning": "Sono esclusi la cancellazione definitiva della Spadina Expressway nel 1971, la St. Lawrence Neighbourhood, l’amalgamazione del 1998 e gli sviluppi successivi al 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "TO1",
+      "title": "City of Toronto Archives — Canada’s First Subway",
+      "use": "Costruzione della linea Yonge, apertura del 1954 e sviluppo del rapid transit.",
+      "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/online-exhibits/web-exhibits/web-exhibits-transportation/canadas-first-subway/"
+    },
+    {
+      "id": "TO2",
+      "title": "City of Toronto Archives — Public and Social Housing",
+      "use": "Regent Park, Moss Park, Alexandra Park e ruolo di Metropolitan Toronto.",
+      "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/online-exhibits/web-exhibits/web-exhibits-community-neighbourhoods/your-home-our-city/your-home-our-city-public-and-social-housing/"
+    },
+    {
+      "id": "TO3",
+      "title": "City of Toronto — About the Gardiner Expressway",
+      "use": "Costruzione fra tardi anni cinquanta e primi sessanta e collegamento suburbano.",
+      "url": "https://www.toronto.ca/services-payments/streets-parking-transportation/road-maintenance/bridges-and-expressways/expressways/gardiner-expressway/about-the-gardiner-expressway/"
+    },
+    {
+      "id": "TO4",
+      "title": "City of Toronto — King-Parliament Historic Context Statement",
+      "use": "Industrial decline, urban renewal, Trefann Court, demolizioni e infrastrutture.",
+      "url": "https://www.toronto.ca/legdocs/mmis/2019/te/bgrd/backgroundfile-138217.pdf"
+    }
+  ]
+}

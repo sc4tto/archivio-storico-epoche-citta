@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Teouma conserva il più antico grande cimitero Lapita noto",
+    "theme": "Funerario",
+    "status": "documentato",
+    "source": "TEO_AA"
+  },
+  {
+    "claim": "Le sepolture risalgono intorno al X–IX secolo a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "TEO_JAS"
+  },
+  {
+    "claim": "Alcuni crani furono rimossi e ricollocati dopo la decomposizione",
+    "theme": "Rituale",
+    "status": "documentato",
+    "source": "TEO_AA"
+  },
+  {
+    "claim": "Analisi isotopiche indicano la presenza di individui non locali",
+    "theme": "Mobilità",
+    "status": "documentato",
+    "source": "TEO_AA"
+  },
+  {
+    "claim": "È stato recuperato DNA antico da individui sepolti nel sito",
+    "theme": "Genetica",
+    "status": "documentato",
+    "source": "TEO_NATURE"
+  },
+  {
+    "claim": "Teouma era la capitale di un regno Lapita",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Cimitero, non capitale dimostrata"
+  },
+  {
+    "claim": "Tutti i rituali Lapita erano identici in Oceania",
+    "theme": "Comparazione",
+    "status": "non_documentato",
+    "source": "Variabilità regionale"
+  },
+  {
+    "claim": "Le deposizioni ceramiche sono strettamente associate ai riti funerari",
+    "theme": "Ceramica",
+    "status": "documentato",
+    "source": "TEO_AA"
+  }
+]

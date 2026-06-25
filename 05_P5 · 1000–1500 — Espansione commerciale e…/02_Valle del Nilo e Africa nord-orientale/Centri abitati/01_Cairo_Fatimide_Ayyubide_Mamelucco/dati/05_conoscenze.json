@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Cairo fatimide, ayyubide e mamelucco",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Acqua e Nilo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Canali, acquedotti e cisterne",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Sabil e hammam",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mercati",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Suq, khan e corporazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Pesi, dogane e approvvigionamento",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Cupole, minareti e muqarnas",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Pietra intarsiata e legno lavorato",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Madrase, waqf e bimaristan",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Amministrazione fatimide e mamelucca",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Pluralità urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Comunità musulmane, cristiane ed ebraiche",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Pellegrinaggi e reti internazionali",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

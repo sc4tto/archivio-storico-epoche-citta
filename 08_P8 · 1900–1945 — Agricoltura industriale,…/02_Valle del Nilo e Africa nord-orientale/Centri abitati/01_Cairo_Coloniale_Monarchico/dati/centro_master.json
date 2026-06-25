@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Cairo coloniale e monarchico",
+    "site": "Cairo coloniale e monarchico",
+    "modern_location": "Cairo, Egitto",
+    "coordinates": {
+      "lat": 30.0444,
+      "lon": 31.2357
+    },
+    "scope": "Cairo fra 1900 e 1945: occupazione britannica, Prima guerra mondiale, rivoluzione del 1919, indipendenza nominale del 1922, monarchia, ampliamento dei servizi, sviluppo industriale e presenza militare nella Seconda guerra mondiale.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1945. Rivoluzione del 1952, repubblica, grandi quartieri informali e metropolizzazione successiva sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "CA1",
+      "title": "UNESCO — Historic Cairo",
+      "use": "Continuità urbana e patrimonio islamico.",
+      "url": "https://whc.unesco.org/en/list/89/"
+    },
+    {
+      "id": "CA2",
+      "title": "Egyptian National Archives",
+      "use": "Fonti amministrative, politiche e urbane.",
+      "url": "https://www.nationalarchives.gov.eg/"
+    },
+    {
+      "id": "CA3",
+      "title": "Encyclopaedia Britannica — Cairo",
+      "use": "Storia politica e crescita moderna.",
+      "url": "https://www.britannica.com/place/Cairo"
+    },
+    {
+      "id": "CA4",
+      "title": "American University in Cairo Rare Books Library",
+      "use": "Mappe, fotografie e stampa egiziana.",
+      "url": "https://www.aucegypt.edu/library"
+    },
+    {
+      "id": "CA5",
+      "title": "Museum of Egyptian Civilization",
+      "use": "Contesto sociale e culturale moderno.",
+      "url": "https://nmec.gov.eg/"
+    }
+  ]
+}

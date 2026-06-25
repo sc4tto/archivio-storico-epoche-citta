@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Kilwa Kisiwani",
+      "lat": -8.957,
+      "lon": 39.522,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "son",
+      "label": "Songo Mnara",
+      "lat": -9.04,
+      "lon": 39.61,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "ruf",
+      "label": "Rufiji e costa tanzaniana",
+      "lat": -7.8,
+      "lon": 39.3,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "zim",
+      "label": "Entroterra dello Zimbabwe",
+      "lat": -19.0,
+      "lon": 30.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "sof",
+      "label": "Sofala",
+      "lat": -20.17,
+      "lon": 34.73,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "ara",
+      "label": "Arabia meridionale",
+      "lat": 15.0,
+      "lon": 45.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "ind",
+      "label": "India occidentale",
+      "lat": 20.0,
+      "lon": 72.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "son",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cabotaggio locale",
+      "food": "derrate e materiali"
+    },
+    {
+      "source": "ruf",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte costiere e fluviali",
+      "food": "cereali, legname e avorio"
+    },
+    {
+      "source": "zim",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane interne",
+      "food": "oro e avorio"
+    },
+    {
+      "source": "sof",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cabotaggio meridionale",
+      "food": "oro e derrate"
+    },
+    {
+      "source": "ara",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "monsoni e dhow",
+      "food": "datteri, ceramiche e tessuti"
+    },
+    {
+      "source": "ind",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte monsoniche",
+      "food": "riso, perline, tessuti e spezie"
+    }
+  ]
+}

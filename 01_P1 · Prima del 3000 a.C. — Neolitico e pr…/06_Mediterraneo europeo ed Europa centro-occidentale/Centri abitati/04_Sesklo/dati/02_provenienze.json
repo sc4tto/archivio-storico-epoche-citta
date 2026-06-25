@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Sesklo",
+      "lat": 39.357,
+      "lon": 22.833,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "plain",
+      "label": "Pianura tessalica orientale",
+      "lat": 39.4,
+      "lon": 22.75,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "water",
+      "label": "Corsi d’acqua e sorgenti",
+      "lat": 39.34,
+      "lon": 22.86,
+      "status": "sintesi",
+      "kind": "locale",
+      "dx": 12,
+      "dy": 24,
+      "anchor": "start"
+    },
+    {
+      "id": "pelion",
+      "label": "Pendici del Pelio e retroterra",
+      "lat": 39.42,
+      "lon": 23.02,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 10,
+      "dy": 24,
+      "anchor": "start"
+    },
+    {
+      "id": "aegean",
+      "label": "Reti dell’Egeo settentrionale",
+      "lat": 39.8,
+      "lon": 24.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "balkans",
+      "label": "Reti neolitiche dei Balcani meridionali",
+      "lat": 41.2,
+      "lon": 22.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "plain",
+      "target": "site",
+      "label": "campi, pascoli e argille",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "water",
+      "target": "site",
+      "label": "acqua e sedimenti",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "pelion",
+      "target": "site",
+      "label": "legno, pietra e selvaggina",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "aegean",
+      "target": "site",
+      "label": "confronti ceramici e circolazione di materiali",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "balkans",
+      "target": "site",
+      "label": "diffusione di pratiche agricole e tecniche",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_106_P10_Asia_Orientale_5_Centri_v1",
+  "macroregion": "Asia orientale",
+  "centers": [
+    "01_Tokyo_Ricerca_Trasporti_Invecchiamento_Resilienza",
+    "02_Seoul_Metro_Digitale_Alloggi_Rigenerazione",
+    "03_Shanghai_Pudong_Metro_Innovazione_Clima",
+    "04_Pechino_Capitale_Metro_Aria_Controllo_Urbano",
+    "05_Shenzhen_Zona_Economica_Tecnologia_Migranti"
+  ],
+  "uses_central_assets": true
+}

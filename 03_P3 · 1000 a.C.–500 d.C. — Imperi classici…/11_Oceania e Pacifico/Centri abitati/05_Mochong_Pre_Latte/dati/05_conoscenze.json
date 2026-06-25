@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Mochong — fasi pre-Latte",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Cronologia",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Occupazioni dal I millennio a.C.",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Continuità plurimillenaria",
+          "status": "sintesi"
+        },
+        {
+          "id": "k1_3",
+          "label": "Latte nel P3",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Ceramica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Red Ware",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Plain Ware",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Origine unica di ogni impasto",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Mare",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Pesca di barriera",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Ami e strumenti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Navigazione descritta direttamente",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Abitazioni",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Strutture leggere",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_2",
+          "label": "Spazi domestici",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Pilastri latte antichi",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Origini",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Affinità con le Filippine",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Colonizzazione separata dai Lapita",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_3",
+          "label": "Singola migrazione",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Tutela",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Ampio sito costiero",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Strutture latte conservate",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Depositi pre-Latte intatti ovunque",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

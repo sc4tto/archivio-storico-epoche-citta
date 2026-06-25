@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Çatalhöyük",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "env",
+      "label": "Ambiente",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "wet",
+          "label": "Gestione di piana e zone umide",
+          "status": "sintesi"
+        },
+        {
+          "id": "season",
+          "label": "Cicli stagionali",
+          "status": "inferito"
+        },
+        {
+          "id": "fuel",
+          "label": "Selezione di combustibili",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "agri",
+      "label": "Agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "crop",
+          "label": "Coltivazione di cereali e legumi",
+          "status": "sintesi"
+        },
+        {
+          "id": "herd",
+          "label": "Gestione degli ovicaprini",
+          "status": "sintesi"
+        },
+        {
+          "id": "store",
+          "label": "Conservazione domestica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "foodk",
+      "label": "Tecnologie alimentari",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "grindk",
+          "label": "Macinazione",
+          "status": "documentato"
+        },
+        {
+          "id": "cookk",
+          "label": "Forni e focolari",
+          "status": "documentato"
+        },
+        {
+          "id": "butchk",
+          "label": "Trattamento delle carcasse",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "buildk",
+      "label": "Edilizia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "brickk",
+          "label": "Mattoni crudi",
+          "status": "documentato"
+        },
+        {
+          "id": "roofk",
+          "label": "Coperture praticabili",
+          "status": "documentato"
+        },
+        {
+          "id": "plasterk",
+          "label": "Intonaci e piattaforme",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "material",
+      "label": "Materiali e scambi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "obs",
+          "label": "Lavorazione dell’ossidiana",
+          "status": "documentato"
+        },
+        {
+          "id": "bone",
+          "label": "Osso e corno",
+          "status": "sintesi"
+        },
+        {
+          "id": "textile",
+          "label": "Fibre e tessitura",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "social",
+      "label": "Organizzazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "space",
+          "label": "Regole spaziali domestiche",
+          "status": "documentato"
+        },
+        {
+          "id": "burialk",
+          "label": "Sepolture intra-domestiche",
+          "status": "documentato"
+        },
+        {
+          "id": "symbol",
+          "label": "Produzione simbolica parietale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

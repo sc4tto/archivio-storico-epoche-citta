@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Liangzhu City",
+      "lat": 30.39,
+      "lon": 119.98,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "plain",
+      "label": "Pianura del Taihu",
+      "lat": 30.5,
+      "lon": 120.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": -20,
+      "anchor": "end"
+    },
+    {
+      "id": "hydro",
+      "label": "Sistema di dighe e canali",
+      "lat": 30.45,
+      "lon": 119.85,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 10,
+      "dy": 25,
+      "anchor": "start"
+    },
+    {
+      "id": "hills",
+      "label": "Colline a nord-ovest",
+      "lat": 30.7,
+      "lon": 119.6,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 28,
+      "anchor": "middle"
+    },
+    {
+      "id": "jade",
+      "label": "Fonti regionali di giada",
+      "lat": 31.0,
+      "lon": 119.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "coast",
+      "label": "Costa del basso Yangtze",
+      "lat": 30.0,
+      "lon": 121.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "plain",
+      "target": "site",
+      "label": "risaie, suoli e risorse acquatiche",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "hydro",
+      "target": "site",
+      "label": "controllo delle acque e protezione",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "hills",
+      "target": "site",
+      "label": "bacini, legname e pietra",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "jade",
+      "target": "site",
+      "label": "materia prima per oggetti rituali",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "coast",
+      "target": "site",
+      "label": "reti regionali e risorse",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

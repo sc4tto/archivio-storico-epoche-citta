@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Damasco",
+      "lat": 33.5138,
+      "lon": 36.2765,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "gho",
+      "label": "Ghouta",
+      "lat": 33.5,
+      "lon": 36.45,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "bar",
+      "label": "Valle del Barada",
+      "lat": 33.6,
+      "lon": 36.1,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "haw",
+      "label": "Hauran e Siria meridionale",
+      "lat": 32.8,
+      "lon": 36.1,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "hom",
+      "label": "Homs e Siria centrale",
+      "lat": 34.73,
+      "lon": 36.72,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "bei",
+      "label": "Beirut e Mediterraneo",
+      "lat": 33.89,
+      "lon": 35.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "jor",
+      "label": "Giordania e Palestina",
+      "lat": 31.95,
+      "lon": 35.93,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "gho",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali e strade",
+      "food": "frutta, ortaggi, latte e acqua"
+    },
+    {
+      "source": "bar",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "valle e ferrovia",
+      "food": "acqua, frutta e materiali"
+    },
+    {
+      "source": "haw",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e autocarri",
+      "food": "grano, legumi e bestiame"
+    },
+    {
+      "source": "hom",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "asse stradale nord-sud",
+      "food": "cereali, industria e lavoratori"
+    },
+    {
+      "source": "bei",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strada Beirut-Damasco",
+      "food": "merci importate, capitali e servizi portuali"
+    },
+    {
+      "source": "jor",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade meridionali",
+      "food": "merci, migranti e profughi"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Parigi capetingia e valois",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Gotico",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Volte ogivali e archi rampanti",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Vetrate e scultura monumentale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Idraulica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Ponti, porti e rive",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Pozzi e drenaggio urbano",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Halles e mercati",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Fiere e trasporto fluviale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Istruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Università e collegi",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Produzione libraria",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Governo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Monarchia e prévôté",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Mura e fiscalità urbana",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

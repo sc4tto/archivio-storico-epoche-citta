@@ -1,0 +1,270 @@
+{
+  "nodes": [
+    {
+      "id": "m0",
+      "label": "Adobe e terra",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m1",
+      "label": "Canne, legno e fibre",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m2",
+      "label": "Pietra e ghiaia per fondazioni",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m3",
+      "label": "Argilla, intonaco e pigmenti",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "o0",
+      "label": "Produzione seriale di adobes",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o1",
+      "label": "Muratura, riempimento e livellamento",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o2",
+      "label": "Carpenteria e stuoie",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o3",
+      "label": "Intonacatura e rilievo",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "c0",
+      "label": "Alti muri e recinti",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c1",
+      "label": "Pavimenti, rampe e piattaforme",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c2",
+      "label": "Tetti e chiusure leggere",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c3",
+      "label": "Frisi e superfici decorate",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "s0",
+      "label": "Primi complessi palaziali",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "s1",
+      "label": "Templi e piattaforme funerarie",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s2",
+      "label": "Laboratori e depositi",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s3",
+      "label": "Canali, pozzi e aree agricole",
+      "layer": 3,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m0",
+      "target": "o0",
+      "status": "documentato",
+      "label": "Adobe e terra erano impiegati nella produzione seriale di mattoni."
+    },
+    {
+      "source": "m0",
+      "target": "o1",
+      "status": "documentato",
+      "label": "Terra e adobes erano usati in muratura, riempimenti e livellamenti."
+    },
+    {
+      "source": "m0",
+      "target": "o3",
+      "status": "documentato",
+      "label": "Argille fini contribuivano agli intonaci."
+    },
+    {
+      "source": "m1",
+      "target": "o2",
+      "status": "documentato",
+      "label": "Canne, legno e fibre erano impiegati in carpenteria e stuoie."
+    },
+    {
+      "source": "m2",
+      "target": "o1",
+      "status": "documentato",
+      "label": "Pietra e ghiaia formavano fondazioni e riempimenti."
+    },
+    {
+      "source": "m3",
+      "target": "o3",
+      "status": "documentato",
+      "label": "Argilla, intonaco e pigmenti erano applicati alle superfici."
+    },
+    {
+      "source": "m3",
+      "target": "o0",
+      "status": "documentato",
+      "label": "L’argilla era anche materia prima per gli adobes."
+    },
+    {
+      "source": "o0",
+      "target": "c0",
+      "status": "documentato",
+      "label": "Gli adobes seriali formavano alti muri e recinti."
+    },
+    {
+      "source": "o0",
+      "target": "c1",
+      "status": "documentato",
+      "label": "Adobes e terra formavano rampe e piattaforme."
+    },
+    {
+      "source": "o1",
+      "target": "c0",
+      "status": "documentato",
+      "label": "Muratura e riempimenti costruivano muri e recinti."
+    },
+    {
+      "source": "o1",
+      "target": "c1",
+      "status": "documentato",
+      "label": "Livellamenti e riempimenti formavano pavimenti, rampe e piattaforme."
+    },
+    {
+      "source": "o2",
+      "target": "c2",
+      "status": "documentato",
+      "label": "Carpenteria e stuoie formavano tetti e chiusure leggere."
+    },
+    {
+      "source": "o2",
+      "target": "c0",
+      "status": "inferito",
+      "label": "Architravi e sostegni lignei erano integrati nei muri."
+    },
+    {
+      "source": "o3",
+      "target": "c3",
+      "status": "documentato",
+      "label": "Intonacatura e rilievo producevano frisi e superfici decorate."
+    },
+    {
+      "source": "o3",
+      "target": "c0",
+      "status": "documentato",
+      "label": "Gli intonaci rivestivano gli alti muri."
+    },
+    {
+      "source": "o3",
+      "target": "c1",
+      "status": "documentato",
+      "label": "Pavimenti e piattaforme potevano ricevere finiture."
+    },
+    {
+      "source": "c0",
+      "target": "s0",
+      "status": "sintesi",
+      "label": "Alti muri e recinti caratterizzavano i primi complessi palaziali."
+    },
+    {
+      "source": "c0",
+      "target": "s1",
+      "status": "documentato",
+      "label": "Muri e recinti delimitavano templi e piattaforme funerarie."
+    },
+    {
+      "source": "c0",
+      "target": "s2",
+      "status": "documentato",
+      "label": "Recinti murari organizzavano laboratori e depositi."
+    },
+    {
+      "source": "c1",
+      "target": "s0",
+      "status": "sintesi",
+      "label": "Pavimenti, rampe e piattaforme strutturavano i complessi palaziali iniziali."
+    },
+    {
+      "source": "c1",
+      "target": "s1",
+      "status": "documentato",
+      "label": "Rampe e piattaforme erano essenziali nei complessi rituali e funerari."
+    },
+    {
+      "source": "c1",
+      "target": "s2",
+      "status": "documentato",
+      "label": "Pavimenti e piattaforme servivano laboratori e depositi."
+    },
+    {
+      "source": "c1",
+      "target": "s3",
+      "status": "documentato",
+      "label": "Piattaforme e livellamenti erano connessi a canali e aree agricole."
+    },
+    {
+      "source": "c2",
+      "target": "s0",
+      "status": "sintesi",
+      "label": "I complessi palaziali comprendevano coperture leggere."
+    },
+    {
+      "source": "c2",
+      "target": "s2",
+      "status": "documentato",
+      "label": "Laboratori e depositi richiedevano tetti e chiusure."
+    },
+    {
+      "source": "c3",
+      "target": "s0",
+      "status": "sintesi",
+      "label": "Frisi e superfici decorate caratterizzavano gli edifici di rango."
+    },
+    {
+      "source": "c3",
+      "target": "s1",
+      "status": "documentato",
+      "label": "Superfici decorate erano presenti nei complessi rituali."
+    },
+    {
+      "source": "c3",
+      "target": "s2",
+      "status": "documentato",
+      "label": "Frisi e intonaci rivestivano anche ambienti produttivi e di deposito."
+    }
+  ]
+}

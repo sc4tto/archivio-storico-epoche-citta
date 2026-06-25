@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Manila, ricostruzione, indipendenza e metropoli dispersa",
+    "site": "Manila, ricostruzione, indipendenza e metropoli dispersa",
+    "modern_location": "Manila, Filippine",
+    "coordinates": {
+      "lat": 14.5995,
+      "lon": 120.9842
+    },
+    "scope": "Manila fra 1945 e 1970: distruzione della battaglia del 1945, ricostruzione postbellica, indipendenza del 1946, crescita del porto e delle industrie, espansione verso Quezon City e Makati, migrazione interna e insediamenti informali.",
+    "version": "1.0",
+    "warning": "Sono esclusi la creazione formale di Metro Manila nel 1975, il ritorno della capitale nazionale a Manila nel 1976, la legge marziale del 1972 e le trasformazioni successive al 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MA1",
+      "title": "UNESCO — The Urban History of Manila, the Philippines",
+      "use": "Evoluzione urbana, patrimonio, ricostruzione e crescita metropolitana.",
+      "url": "https://unesdoc.unesco.org/ark:/48223/pf0000394186"
+    },
+    {
+      "id": "MA2",
+      "title": "Docomomo Journal — Rising from the Ashes: Post-war Philippines Architecture",
+      "use": "Distruzione del 1945, ricostruzione e modernismo architettonico.",
+      "url": "https://www.docomomo.pt/wp-content/uploads/2019/04/DocomomoJournal57_2017_GLico.pdf"
+    },
+    {
+      "id": "MA3",
+      "title": "Philippine Journal of Public Administration — Planning and Development of Manila",
+      "use": "Istituzioni urbanistiche e piani di ricostruzione del dopoguerra.",
+      "url": "https://pssc.org.ph/wp-content/pssc-archives/Philippine%20Journal%20of%20Public%20Administration/1992/Num%204/07_Planning%20and%20Development%20of%20Prewar%20Manila.pdf"
+    },
+    {
+      "id": "MA4",
+      "title": "Filipinas Heritage Library — Manila Reborn",
+      "use": "Documentazione visiva e narrativa della ricostruzione postbellica.",
+      "url": "https://artsandculture.google.com/story/manila-reborn-filipinas-heritage-library/gQVxQknmPODGJA?hl=en"
+    }
+  ]
+}

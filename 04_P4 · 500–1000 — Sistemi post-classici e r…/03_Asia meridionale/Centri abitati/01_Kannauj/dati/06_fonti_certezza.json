@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Kannauj fu capitale di Harsha nel VII secolo",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "KAN_TRIPATHI"
+  },
+  {
+    "claim": "Xuanzang descrisse una grande città con monasteri",
+    "theme": "Fonti",
+    "status": "documentato",
+    "source": "KAN_TRIPATHI"
+  },
+  {
+    "claim": "La città fu contesa da Pala, Rashtrakuta e Gurjara-Pratihara",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "KAN_TRIPATHI"
+  },
+  {
+    "claim": "Il Gange sostenne collegamenti e approvvigionamenti",
+    "theme": "Reti",
+    "status": "sintesi",
+    "source": "KAN_HEITZMAN"
+  },
+  {
+    "claim": "La pianta del P4 è integralmente nota",
+    "theme": "Urbanistica",
+    "status": "non_documentato",
+    "source": "Abitato moderno e alluvioni limitano i dati"
+  },
+  {
+    "claim": "Le cifre demografiche tramandate sono misure censuarie",
+    "theme": "Demografia",
+    "status": "non_documentato",
+    "source": "Sono stime o descrizioni letterarie"
+  },
+  {
+    "claim": "L’industria moderna dei profumi documenta automaticamente il P4",
+    "theme": "Economia",
+    "status": "non_documentato",
+    "source": "Continuità non dimostrata senza dati specifici"
+  },
+  {
+    "claim": "Kannauj fu un nodo politico e religioso della pianura gangetica",
+    "theme": "Sintesi",
+    "status": "documentato",
+    "source": "KAN_DISTRICT"
+  }
+]

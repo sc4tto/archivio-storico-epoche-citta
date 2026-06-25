@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Quito repubblicana e andina",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Agricoltura andina",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Haciendas, comunità e mercati",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Mais, patate e allevamento",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Adobe, cangahua e cortili",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Restauri sismici e neoclassicismo",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Strade costa–sierra",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Cacao, tessili e prodotti regionali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Capitale, municipio e Chiesa",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Scuole, stampa e riforme liberali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Disuguaglianza",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Huasipungo, debito e lavoro dipendente",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Gerarchie etniche e accesso diseguale ai servizi",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

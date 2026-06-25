@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Villaggio Barra",
+    "Fase Locona",
+    "Fase Ocós",
+    "Fase Cherla",
+    "Declino e ascesa di Cantón Corralito"
+  ],
+  "items": [
+    {
+      "id": "houses",
+      "label": "Case e cortili domestici",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "mound6",
+      "label": "Sequenza del Tumulo 6",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "platform",
+      "label": "Piattaforme rialzate",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "ballcourt",
+      "label": "Campo per il gioco della palla",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "storage",
+      "label": "Deposito e gestione agricola",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "feasts",
+      "label": "Consumo differenziato e riunioni",
+      "lane": "Sociali",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "shift",
+      "label": "Riduzione del centro",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

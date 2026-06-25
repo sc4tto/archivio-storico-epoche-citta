@@ -1,7 +1,9 @@
 # Tebe
 
-- **Epoca:** P2 · 3000–1000 a.C. — Prime città, Stati e imperi
-- **Macroregione:** Valle del Nilo e Africa nord-orientale
-- **Voce di origine:** Menfi, Tebe, Amarna, Kerma.
+Modulo del Blocco 15, generato da sette JSON nella cartella `dati`.
 
-Questa cartella può contenere mappe, immagini, testi, fonti e appunti relativi al centro abitato o sistema d'insediamento indicato.
+- `APRI_CENTRO.bat`: apre il modulo.
+- `RIGENERA_CENTRO.bat`: rigenera le pagine.
+- `VERIFICA_CENTRO.bat`: controlla JSON, collegamenti e grafi.
+
+Descrizione: Capitale e centro religioso del Medio e Nuovo Regno, articolato tra Karnak e Luxor sulla riva orientale e templi funerari, villaggi e necropoli sulla riva occidentale del Nilo..

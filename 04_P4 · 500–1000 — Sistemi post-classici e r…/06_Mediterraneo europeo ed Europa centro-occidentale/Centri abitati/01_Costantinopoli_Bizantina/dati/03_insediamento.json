@@ -1,0 +1,74 @@
+{
+  "phases": [
+    "500–565",
+    "565–717",
+    "717–867",
+    "867–1000"
+  ],
+  "items": [
+    {
+      "id": "ct1",
+      "label": "Ricostruzioni e grandi cantieri giustinianei",
+      "lane": "Monumenti",
+      "start": 0,
+      "end": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "ct2",
+      "label": "Hagia Sophia, palazzo e complessi ecclesiastici",
+      "lane": "Culto e corte",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ct3",
+      "label": "Mura, porti e cisterne mantenuti come sistema",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ct4",
+      "label": "Peste, incendi, terremoti e assedi",
+      "lane": "Crisi",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ct5",
+      "label": "Riorganizzazione militare e fiscale",
+      "lane": "Amministrazione",
+      "start": 1,
+      "end": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "ct6",
+      "label": "Iconoclasmo e trasformazioni del paesaggio sacro",
+      "lane": "Culto e corte",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ct7",
+      "label": "Ripresa macedone, monasteri e produzione artistica",
+      "lane": "Cultura",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ct8",
+      "label": "Quartieri portuali, mercati e abitazioni",
+      "lane": "Abitato",
+      "start": 0,
+      "end": 3,
+      "status": "sintesi"
+    }
+  ]
+}

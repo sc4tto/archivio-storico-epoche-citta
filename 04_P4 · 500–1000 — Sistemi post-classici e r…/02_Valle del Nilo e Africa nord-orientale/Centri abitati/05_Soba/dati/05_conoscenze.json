@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Soba",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Scala urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Circa 275 ettari stimati",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Quartieri multipli",
+          "status": "sintesi"
+        },
+        {
+          "id": "k1_3",
+          "label": "Pianta completa",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Mattoni rossi e crudi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Chiese monumentali",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Palazzo reale identificato con certezza",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Produzione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Ceramica",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Metallurgia",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_3",
+          "label": "Tutte le officine localizzate",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Materiali mediterranei",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Contatti a lunga distanza",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Volume esatto degli scambi",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Società",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Corte e clero",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Popolazione multietnica nelle fonti",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_3",
+          "label": "Composizione demografica completa",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Metodo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Magnetometria",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Scavi selettivi",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Oltre il 99% scavato",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

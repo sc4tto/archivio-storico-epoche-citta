@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Pataliputra fu capitale dei Maurya e di altri grandi regni dell’India settentrionale",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "PAT_ALLCHIN"
+  },
+  {
+    "claim": "A Kumhrar sono documentati resti di una grande sala colonnata",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "PAT_REPORT"
+  },
+  {
+    "claim": "A Bulandi Bagh sono state identificate parti della fortificazione lignea",
+    "theme": "Difese",
+    "status": "documentato",
+    "source": "PAT_REPORT"
+  },
+  {
+    "claim": "La posizione fluviale sostenne approvvigionamento e comunicazioni",
+    "theme": "Reti",
+    "status": "sintesi",
+    "source": "PAT_ALLCHIN"
+  },
+  {
+    "claim": "Le aree scavate coprono solo una parte della città antica",
+    "theme": "Metodo",
+    "status": "documentato",
+    "source": "PAT_PATNA"
+  },
+  {
+    "claim": "La sala a ottanta pilastri era certamente il palazzo di Ashoka",
+    "theme": "Funzione",
+    "status": "non_documentato",
+    "source": "Interpretazione discussa"
+  },
+  {
+    "claim": "Le dimensioni riportate dalle fonti possono essere trasferite senza correzioni sulla città scavata",
+    "theme": "Topografia",
+    "status": "non_documentato",
+    "source": "Scavi parziali e paesaggio fluviale mutato"
+  },
+  {
+    "claim": "L’abbandono avvenne per una sola catastrofe",
+    "theme": "Declino",
+    "status": "non_documentato",
+    "source": "Processo plurifattoriale"
+  }
+]

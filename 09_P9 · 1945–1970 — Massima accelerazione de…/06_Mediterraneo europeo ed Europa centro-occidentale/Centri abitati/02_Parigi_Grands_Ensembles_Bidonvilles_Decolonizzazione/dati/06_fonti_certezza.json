@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "La crescita urbana postbellica si concentrò fortemente anche nella petite couronne, non solo nel comune di Parigi.",
+    "theme": "demografia",
+    "status": "documentato",
+    "source": "PA1"
+  },
+  {
+    "claim": "I grands ensembles furono un prodotto centrale della politica abitativa statale del dopoguerra.",
+    "theme": "abitazione",
+    "status": "documentato",
+    "source": "PA2"
+  },
+  {
+    "claim": "Le cités de transit furono usate per trasferire famiglie algerine da bidonvilles sgomberati, riproducendo controllo e stigma.",
+    "theme": "coercizione",
+    "status": "documentato",
+    "source": "PA3"
+  },
+  {
+    "claim": "La manifestazione algerina del 17 ottobre 1961 fu duramente repressa dalla polizia.",
+    "theme": "violenza di Stato",
+    "status": "documentato",
+    "source": "PA4"
+  },
+  {
+    "claim": "La modernizzazione metropolitana aumentò gli alloggi e le infrastrutture ma produsse anche separazione funzionale e accessi diseguali.",
+    "theme": "urbanistica",
+    "status": "sintesi",
+    "source": "PA1; PA2; PA3"
+  },
+  {
+    "claim": "Parigi, grands ensembles, bidonvilles e decolonizzazione è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Colonialismo, guerra d’Algeria, coprifuoco discriminatorio, repressione di polizia, sgomberi dei bidonvilles e trasferimenti nelle cités de transit sono descritti esplicitamente come sistemi di violenza, controllo e subordinazione, non come semplice modernizzazione urbana.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

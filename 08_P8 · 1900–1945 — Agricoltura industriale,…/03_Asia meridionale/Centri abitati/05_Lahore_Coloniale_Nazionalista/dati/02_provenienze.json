@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Lahore",
+      "lat": 31.5204,
+      "lon": 74.3587,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "rav",
+      "label": "Ravi e campagna periurbana",
+      "lat": 31.6,
+      "lon": 74.4,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "can",
+      "label": "Colonie dei canali del Punjab",
+      "lat": 31.0,
+      "lon": 72.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "amr",
+      "label": "Amritsar",
+      "lat": 31.63,
+      "lon": 74.87,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "mul",
+      "label": "Multan",
+      "lat": 30.2,
+      "lon": 71.47,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "del",
+      "label": "Delhi",
+      "lat": 28.61,
+      "lon": 77.21,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "kar",
+      "label": "Karachi",
+      "lat": 24.86,
+      "lon": 67.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "rav",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e fiume",
+      "food": "verdure, latte, pesce e materiali"
+    },
+    {
+      "source": "can",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie del Punjab",
+      "food": "grano, riso, cotone e bestiame"
+    },
+    {
+      "source": "amr",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e Grand Trunk Road",
+      "food": "tessili, commercio e pellegrini"
+    },
+    {
+      "source": "mul",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia",
+      "food": "frutta, cotone e prodotti agricoli"
+    },
+    {
+      "source": "del",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia",
+      "food": "amministrazione, stampa e merci"
+    },
+    {
+      "source": "kar",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "North Western Railway",
+      "food": "importazioni e sbocco marittimo"
+    }
+  ]
+}

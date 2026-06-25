@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Mérida dello Yucatán coloniale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Acqua carsica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Cenotes, pozzi e cisterne",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Gestione stagionale dell’acqua",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Milpa e allevamento",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Mais, fagioli e miele",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Estancias, bestiame e mercati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Calcare, sascab e calce",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Riutilizzo di pietra e volte",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Governo coloniale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Cabildo, encomienda e tributi",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Parrocchie e barrios indigeni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Reti marittime",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Campeche e Golfo del Messico",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Sale, tessili e merci importate",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

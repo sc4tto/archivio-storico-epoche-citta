@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Indravarman II stabilì la dinastia di Indrapura nel 875 nell’area di Quảng Nam.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "D1; D2"
+  },
+  {
+    "claim": "La capitale comprendeva un grande complesso buddhista mahayana dedicato a Lokeśvara.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "D2; D4; D5"
+  },
+  {
+    "claim": "Il periodo produsse un linguaggio scultoreo riconoscibile come stile Đồng Dương.",
+    "theme": "arte",
+    "status": "documentato",
+    "source": "D4; D5"
+  },
+  {
+    "claim": "Palazzi, templi e infrastrutture monumentali accompagnarono il ritorno della capitale nell’Amaravati.",
+    "theme": "urbanistica",
+    "status": "sintesi",
+    "source": "D1; D4"
+  },
+  {
+    "claim": "Le strutture residenziali erano probabilmente in legno e bambù.",
+    "theme": "insediamento",
+    "status": "inferito",
+    "source": "D4; confronto regionale"
+  },
+  {
+    "claim": "Il centro era collegato per fiume alla costa e alle reti marittime regionali.",
+    "theme": "scambio",
+    "status": "sintesi",
+    "source": "D1; D3"
+  },
+  {
+    "claim": "Riso, pesca e risorse forestali sostenevano corte e comunità religiosa.",
+    "theme": "alimentazione",
+    "status": "inferito",
+    "source": "confronto regionale; D3"
+  },
+  {
+    "claim": "Conflitti del tardo X secolo contribuirono alla perdita di centralità del sito.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "D1; D2"
+  }
+]

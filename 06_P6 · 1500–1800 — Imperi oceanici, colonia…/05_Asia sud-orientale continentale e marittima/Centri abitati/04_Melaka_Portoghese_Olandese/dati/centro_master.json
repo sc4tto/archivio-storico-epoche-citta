@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Melaka portoghese e olandese",
+    "site": "Melaka portoghese e olandese",
+    "modern_location": "Melaka, Malaysia",
+    "coordinates": {
+      "lat": 2.1944,
+      "lon": 102.2487
+    },
+    "scope": "Melaka fra 1500 e 1800: fine del sultanato, fasi portoghese e olandese, porto fortificato, nodo commerciale e insediamento multiculturale dello stretto.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1800. La fase britannica pienamente ottocentesca e le trasformazioni urbane contemporanee sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "ME1",
+      "title": "UNESCO — Melaka and George Town",
+      "use": "Paesaggio urbano, scambi culturali e fasi coloniali.",
+      "url": "https://whc.unesco.org/en/list/1223/"
+    },
+    {
+      "id": "ME2",
+      "title": "Encyclopaedia Britannica — Malacca",
+      "use": "Storia del sultanato, conquista portoghese e dominio olandese.",
+      "url": "https://www.britannica.com/place/Malacca-Malaysia"
+    },
+    {
+      "id": "ME3",
+      "title": "National Heritage Department Malaysia",
+      "use": "Patrimonio architettonico e conservazione di Melaka.",
+      "url": "https://www.heritage.gov.my/"
+    },
+    {
+      "id": "ME4",
+      "title": "The Metropolitan Museum of Art — Trade in Southeast Asia",
+      "use": "Scambi, ceramiche e cultura materiale dello stretto.",
+      "url": "https://www.metmuseum.org/toah/hd/trse/hd_trse.htm"
+    },
+    {
+      "id": "ME5",
+      "title": "Encyclopaedia Britannica — Strait of Malacca",
+      "use": "Geografia e funzione strategica dello stretto.",
+      "url": "https://www.britannica.com/place/Strait-of-Malacca"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "phases": [
+    "500–650",
+    "650–750",
+    "750–900",
+    "900–1000"
+  ],
+  "items": [
+    {
+      "id": "p1",
+      "label": "Continuità di tradizioni Lima",
+      "lane": "Abitato",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "p2",
+      "label": "Riorganizzazione del santuario nel medio orizzonte",
+      "lane": "Urbanistica",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "p3",
+      "label": "Costruzione e uso del Tempio Dipinto",
+      "lane": "Monumentalità",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "p4",
+      "label": "Depositi di offerte e sepolture",
+      "lane": "Rituale",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "p5",
+      "label": "Crescita dei pellegrinaggi regionali",
+      "lane": "Rituale",
+      "start": 1,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "p6",
+      "label": "Presenza di materiali e stili Wari",
+      "lane": "Produzione",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "p7",
+      "label": "Reti con costa, sierra e regioni settentrionali",
+      "lane": "Commercio",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "p8",
+      "label": "Transizione verso assetti post-Wari",
+      "lane": "Politica",
+      "start": 3,
+      "end": 3,
+      "status": "sintesi"
+    }
+  ]
+}

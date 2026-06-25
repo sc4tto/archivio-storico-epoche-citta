@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Fase Paris Island",
+    "Fase Mill Branch",
+    "Intervallo di ridotta occupazione",
+    "Classic Stallings",
+    "Abbandono e processi successivi"
+  ],
+  "items": [
+    {
+      "id": "midden",
+      "label": "Accumuli di conchiglie",
+      "lane": "Trasformazione",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "camps",
+      "label": "Aree domestiche e focolari",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "fish",
+      "label": "Pesca e raccolta fluviale",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "pottery",
+      "label": "Ceramica a tempera di fibre",
+      "lane": "Produttive",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "grind",
+      "label": "Macinazione e cottura",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "community",
+      "label": "Comunità relativamente stabile",
+      "lane": "Organizzazione",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "looting",
+      "label": "Saccheggi moderni e tutela",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

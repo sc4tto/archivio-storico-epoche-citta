@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Chang’an Han",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Burocrazia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Ministeri",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Archivi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Funzionari istruiti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Scrittura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Legno e bambù",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Seta",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Carta iniziale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Via della Seta",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Mercati urbani",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Tributi regionali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Scienze",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Calendario",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Astronomia",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Cartografia",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Produzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Ferro e bronzo",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Lacca",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Tessili di seta",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Religione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Culto imperiale",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Confucianesimo di Stato",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Buddhismo già dominante",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

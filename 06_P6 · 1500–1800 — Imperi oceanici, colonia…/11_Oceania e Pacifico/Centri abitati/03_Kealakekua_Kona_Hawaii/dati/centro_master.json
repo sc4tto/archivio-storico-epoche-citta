@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Kealakekua–Kona, paesaggio reale hawaiano",
+    "site": "Kealakekua–Kona, paesaggio reale hawaiano",
+    "modern_location": "Hawaiʻi Island, Stati Uniti",
+    "coordinates": {
+      "lat": 19.476,
+      "lon": -155.922
+    },
+    "scope": "Kealakekua–Kona fra 1500 e 1800: paesaggio politico e rituale hawaiano, sistema degli ahupuaʻa, agricoltura arida, pesca, heiau, Makahiki, conflitti dinastici e primi contatti europei.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1800. Missionizzazione, abolizione del kapu del 1819, sviluppo portuale ottocentesco e piantagioni di caffè sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "KE1",
+      "title": "National Park Service — Puʻuhonua o Hōnaunau",
+      "use": "Paesaggio politico-rituale di Kona e cultura hawaiana.",
+      "url": "https://www.nps.gov/puho/learn/historyculture/index.htm"
+    },
+    {
+      "id": "KE2",
+      "title": "Hawaiʻi DLNR — Kealakekua Bay State Historical Park",
+      "use": "Baia, contatti del 1779 e tutela del paesaggio.",
+      "url": "https://dlnr.hawaii.gov/dsp/parks/hawaii/kealakekua-bay-state-historical-park/"
+    },
+    {
+      "id": "KE3",
+      "title": "National Park Service — Ala Kahakai National Historic Trail",
+      "use": "Ahupuaʻa, sentieri costieri e insediamenti.",
+      "url": "https://www.nps.gov/alka/learn/historyculture/index.htm"
+    },
+    {
+      "id": "KE4",
+      "title": "Encyclopaedia Britannica — Kamehameha I",
+      "use": "Unificazione politica e contesto dinastico.",
+      "url": "https://www.britannica.com/biography/Kamehameha-I"
+    },
+    {
+      "id": "KE5",
+      "title": "Smithsonian National Museum of the American Indian — Hawaiʻi",
+      "use": "Cultura materiale e prospettive indigene.",
+      "url": "https://americanindian.si.edu/"
+    }
+  ]
+}

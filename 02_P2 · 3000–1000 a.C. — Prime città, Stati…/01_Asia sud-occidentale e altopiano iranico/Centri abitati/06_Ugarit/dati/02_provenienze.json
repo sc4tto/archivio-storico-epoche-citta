@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Ugarit",
+      "lat": 35.602,
+      "lon": 35.785,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "minet",
+      "label": "Minet el-Beida / porto",
+      "lat": 35.62,
+      "lon": 35.76,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "coast",
+      "label": "Costa di Latakia",
+      "lat": 35.6,
+      "lon": 35.7,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "cyprus",
+      "label": "Cipro",
+      "lat": 35.13,
+      "lon": 33.43,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "hatti",
+      "label": "Hattusa e Anatolia",
+      "lat": 40.02,
+      "lon": 34.62,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "egypt",
+      "label": "Egitto",
+      "lat": 30.04,
+      "lon": 31.24,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "minet",
+      "target": "site",
+      "label": "merci, pescato e navigazione",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "coast",
+      "target": "site",
+      "label": "olio, vino, legname e cereali",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "cyprus",
+      "target": "site",
+      "label": "rame, ceramiche e traffico marittimo",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "hatti",
+      "target": "site",
+      "label": "diplomazia, tributi e testi",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "egypt",
+      "target": "site",
+      "label": "beni di prestigio e corrispondenza",
+      "status": "documentato",
+      "food": "parziale"
+    }
+  ]
+}

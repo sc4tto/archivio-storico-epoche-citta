@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Istanbul europea, rigenerazione, metro, sisma e migrazioni",
+    "site": "Istanbul europea, rigenerazione, metro, sisma e migrazioni",
+    "modern_location": "Istanbul, settore europeo, Türkiye",
+    "coordinates": {
+      "lat": 41.037,
+      "lon": 28.985
+    },
+    "scope": "Istanbul europea dal 1970 al 25 giugno 2026: crescita lungo la Tracia e i distretti occidentali, ponti e corridoi intercontinentali, deindustrializzazione e risanamento del Corno d’Oro, turismo e finanza, metropolitane e Marmaray, terremoto del 1999 e mobilitazione per il rischio sismico, trasformazione urbana, proteste di Gezi del 2013, migrazioni interne e rifugiati, crisi abitativa, calore, alluvioni e transizione climatica.",
+    "version": "1.0",
+    "warning": "Le estensioni ferroviarie e gli obiettivi climatici con orizzonte 2030–2050 sono indicati come piani. Il modulo riguarda il settore europeo ma riconosce che reti e sistemi urbani attraversano il Bosforo."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "IS1",
+      "title": "Istanbul Metropolitan Municipality — Climate Change Action Plan",
+      "use": "Emissioni, adattamento, mobilità, rifiuti, acqua e rischi climatici.",
+      "url": "https://cevre.ibb.istanbul/wp-content/uploads/2022/06/istanbul_climate_change_action_plan_v03.pdf"
+    },
+    {
+      "id": "IS2",
+      "title": "Metro Istanbul — Timeline",
+      "use": "Cronologia delle aperture e delle estensioni della rete ferroviaria urbana.",
+      "url": "https://www.metro.istanbul/en/Home/Tarihce"
+    },
+    {
+      "id": "IS3",
+      "title": "Istanbul Metropolitan Municipality — Annual Report 2024",
+      "use": "Servizi, investimenti, trasporti, politiche sociali e mobilitazione sismica.",
+      "url": "https://uploads.ibb.istanbul/uploads/Annual_Report_2024_6292922cdb.pdf"
+    },
+    {
+      "id": "IS4",
+      "title": "Istanbul Metropolitan Municipality — Local Equality Action Plan",
+      "use": "Inclusione, genere, migrazioni, accesso ai servizi e disuguaglianze.",
+      "url": "https://uploads.ibb.istanbul/uploads/local_equality_action_plan_2021_2024_86c801f2c5.pdf"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Kuk Swamp",
+      "lat": -5.78,
+      "lon": 144.33,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "wahgi",
+      "label": "Valle del Wahgi",
+      "lat": -5.75,
+      "lon": 144.25,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "creek",
+      "label": "Kuk Creek e ventaglio alluvionale",
+      "lat": -5.8,
+      "lon": 144.36,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "kana",
+      "label": "Kana e siti vicini",
+      "lat": -5.72,
+      "lon": 144.42,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "hagen",
+      "label": "Altopiani presso Mount Hagen",
+      "lat": -5.86,
+      "lon": 144.22,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "newguinea",
+      "label": "Reti degli altopiani della Nuova Guinea",
+      "lat": -6.5,
+      "lon": 145.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "wahgi",
+      "target": "site",
+      "label": "suoli, acqua e piante",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "creek",
+      "target": "site",
+      "label": "drenaggio e sedimenti",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "kana",
+      "target": "site",
+      "label": "pratiche agricole regionali",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "hagen",
+      "target": "site",
+      "label": "pietra, legname e mobilità",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "newguinea",
+      "target": "site",
+      "label": "diffusione di colture e tecniche",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

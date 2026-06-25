@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Hierakonpolis conserva località di abitato, produzione e necropoli",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "HK_OFFICIAL"
+  },
+  {
+    "claim": "Il centro ebbe grande importanza nella fase predinastica",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "HK_OFFICIAL"
+  },
+  {
+    "claim": "Sono documentate installazioni per produzione alimentare su scala significativa",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "HK_OFFICIAL"
+  },
+  {
+    "claim": "Necropoli e complessi funerari mostrano differenziazioni",
+    "theme": "Società",
+    "status": "documentato",
+    "source": "HK_OFFICIAL"
+  },
+  {
+    "claim": "Il sito partecipava a reti lungo il Nilo e verso i deserti",
+    "theme": "Provenienze",
+    "status": "sintesi",
+    "source": "HK_BIB"
+  },
+  {
+    "claim": "Hierakonpolis fu capitale stabile di tutto l’Egitto predinastico",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Il ruolo regionale non equivale a una capitale nazionale permanente"
+  },
+  {
+    "claim": "Ogni grande struttura aveva funzione palaziale",
+    "theme": "Architettura",
+    "status": "non_documentato",
+    "source": "Le funzioni richiedono analisi contestuale"
+  },
+  {
+    "claim": "I materiali nubiani provano controllo politico diretto",
+    "theme": "Scambi",
+    "status": "non_documentato",
+    "source": "Scambio e influenza non implicano dominio"
+  }
+]

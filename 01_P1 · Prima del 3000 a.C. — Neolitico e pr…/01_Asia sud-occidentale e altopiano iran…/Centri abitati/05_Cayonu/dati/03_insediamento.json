@@ -1,0 +1,91 @@
+{
+  "phases": [
+    "Edifici circolari",
+    "Grill plan",
+    "Channeled/Cobble-paved",
+    "Cell plan",
+    "Large room"
+  ],
+  "items": [
+    {
+      "id": "round",
+      "label": "Edifici a pianta circolare",
+      "lane": "Abitazioni",
+      "start": 0,
+      "end": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "grill",
+      "label": "Fondazioni a griglia",
+      "lane": "Abitazioni",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "channel",
+      "label": "Fondazioni con canali di aerazione/drenaggio",
+      "lane": "Abitazioni",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "cobble",
+      "label": "Edifici con pavimentazioni di ciottoli",
+      "lane": "Abitazioni",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "cell",
+      "label": "Edifici massicci a celle",
+      "lane": "Abitazioni",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "large",
+      "label": "Edifici a grandi ambienti",
+      "lane": "Abitazioni",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "special",
+      "label": "Edifici comunitari/speciali",
+      "lane": "Comunitarie",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "terrazzo",
+      "label": "Pavimento in terrazzo",
+      "lane": "Comunitarie",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "storage",
+      "label": "Celle e vani di deposito",
+      "lane": "Conservazione",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "craft",
+      "label": "Lavorazione di ossidiana e rame nativo",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

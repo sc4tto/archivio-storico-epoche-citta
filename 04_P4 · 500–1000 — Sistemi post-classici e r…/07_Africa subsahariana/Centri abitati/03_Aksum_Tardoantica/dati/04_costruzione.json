@@ -1,0 +1,174 @@
+{
+  "nodes": [
+    {
+      "id": "m_stone",
+      "label": "Pietra squadrata e lastre",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_timber",
+      "label": "Travi e legname strutturale",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_mortar",
+      "label": "Malta, argilla e intonaco",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_metal",
+      "label": "Ferro, bronzo e piombo",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "o_dress",
+      "label": "Taglio e posa della pietra",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_bind",
+      "label": "Telaio ligneo e legature",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_plaster",
+      "label": "Muratura, malta e finitura",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_smith",
+      "label": "Fusione e forgiatura",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "c_walls",
+      "label": "Muri a riseghe e basamenti",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_beams",
+      "label": "Travi sporgenti e solai",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_floors",
+      "label": "Pavimenti, scale e intonaci",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_fittings",
+      "label": "Porte, utensili e arredi",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "s_palaces",
+      "label": "Palazzi e residenze d’élite",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_churches",
+      "label": "Chiese e complessi cristiani",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_tombs",
+      "label": "Tombe e campi di stele",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_houses",
+      "label": "Abitazioni, officine e depositi",
+      "layer": 3,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m_stone",
+      "target": "o_dress",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_dress",
+      "target": "c_walls",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_walls",
+      "target": "s_palaces",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_timber",
+      "target": "o_bind",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_bind",
+      "target": "c_beams",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_beams",
+      "target": "s_churches",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_mortar",
+      "target": "o_plaster",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_plaster",
+      "target": "c_floors",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_floors",
+      "target": "s_tombs",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_metal",
+      "target": "o_smith",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_smith",
+      "target": "c_fittings",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_fittings",
+      "target": "s_houses",
+      "status": "sintesi",
+      "label": ""
+    }
+  ]
+}

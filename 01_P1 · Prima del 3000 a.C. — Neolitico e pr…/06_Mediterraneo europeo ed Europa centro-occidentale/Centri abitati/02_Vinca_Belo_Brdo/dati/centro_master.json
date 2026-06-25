@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Vinča–Belo Brdo — modulo multi-grafo",
+    "short_name": "Vinča–Belo Brdo",
+    "site": "Vinča–Belo Brdo",
+    "modern_location": "Belgrado, Serbia — riva destra del Danubio",
+    "coordinates": {
+      "lat": 44.755,
+      "lon": 20.623
+    },
+    "scope": "Tell neolitico con fasi Starčevo e soprattutto Vinča, dal VI al V millennio a.C.; si considerano agricoltura, grandi case in legno e argilla, ceramica, figurine e reti di scambio.",
+    "version": "1.0-blocco_07_p1_mediterraneo_europa_5_centri_v1",
+    "warning": "La stratigrafia è lunga e complessa. Dimensioni, cronologia e funzioni degli edifici variano fra le fasi; simboli e figurine non vanno interpretati automaticamente come scrittura o divinità definite."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "MGB_VINCA",
+      "title": "Belgrade City Museum — Archaeological site of Vinča",
+      "url": "https://www.mgb.org.rs/en/visit/archaeological-site-of-vinca",
+      "use": "descrizione istituzionale del sito e delle collezioni"
+    },
+    {
+      "id": "ANT_VINCA",
+      "title": "Whittle et al. — End of the affair: formal chronological modelling for the top of the Neolithic tell of Vinča–Belo Brdo",
+      "url": "https://www.cambridge.org/core/journals/antiquity/article/end-of-the-affair-formal-chronological-modelling-for-the-top-of-the-neolithic-tell-of-vincabelo-brdo/70C03C6FB507DADFE9E573DF968A7351",
+      "use": "cronologia ad alta risoluzione e trasformazioni finali del tell"
+    },
+    {
+      "id": "NATURE_SE_EUROPE",
+      "title": "Mathieson et al. — The genomic history of southeastern Europe",
+      "url": "https://www.nature.com/articles/nature25778",
+      "use": "quadro delle popolazioni neolitiche dell’Europa sud-orientale"
+    }
+  ]
+}

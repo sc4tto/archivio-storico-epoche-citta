@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Montréal",
+      "lat": 45.5019,
+      "lon": -73.5674,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "isl",
+      "label": "Isola di Montréal",
+      "lat": 45.52,
+      "lon": -73.7,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "ric",
+      "label": "Richelieu e Montérégie",
+      "lat": 45.3,
+      "lon": -73.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "ott",
+      "label": "Ottawa Valley",
+      "lat": 45.5,
+      "lon": -75.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "lac",
+      "label": "Great Lakes e Upper Canada",
+      "lat": 44.5,
+      "lon": -79.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "atl",
+      "label": "Québec City e Atlantico",
+      "lat": 46.8,
+      "lon": -71.2,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "eur",
+      "label": "Europa e isole britanniche",
+      "lat": 50.0,
+      "lon": -20.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "isl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e mercati urbani",
+      "food": "ortaggi, latte, frutta e carne"
+    },
+    {
+      "source": "ric",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiumi e ferrovie",
+      "food": "grano, latticini, legname e bestiame"
+    },
+    {
+      "source": "ott",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Ottawa River e ferrovie",
+      "food": "legname, grano e prodotti forestali"
+    },
+    {
+      "source": "lac",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canale di Lachine e Great Lakes",
+      "food": "grano, farina e materie prime occidentali"
+    },
+    {
+      "source": "atl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "San Lorenzo e navigazione a vapore",
+      "food": "pesce, sale e merci oceaniche"
+    },
+    {
+      "source": "eur",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "linee transatlantiche",
+      "food": "immigrati, tè, tessili, macchinari e capitali"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Melaka, sultanato e porto dello stretto",
+    "site": "Melaka–Malacca",
+    "modern_location": "Malacca, Malaysia",
+    "coordinates": {
+      "lat": 2.1896,
+      "lon": 102.2501
+    },
+    "scope": "Melaka fra circa 1400 e 1500: fondazione, crescita del sultanato, organizzazione portuale e formazione di una società mercantile multiculturale.",
+    "version": "1.0",
+    "warning": "Il modulo termina prima della conquista portoghese del 1511. Fortificazioni ed edifici coloniali successivi non sono attribuiti al sultanato del XV secolo."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "ML1",
+      "title": "UNESCO — Melaka and George Town",
+      "use": "Origini nel sultanato malese del XV secolo e tradizione mercantile multiculturale.",
+      "url": "https://whc.unesco.org/en/list/1223/"
+    },
+    {
+      "id": "ML2",
+      "title": "Encyclopaedia Britannica — Malacca",
+      "use": "Fondazione, sultanato, commercio e conquista portoghese.",
+      "url": "https://www.britannica.com/place/Malacca-Malaysia"
+    },
+    {
+      "id": "ML3",
+      "title": "Department of National Heritage Malaysia",
+      "use": "Patrimonio storico di Melaka e conservazione urbana.",
+      "url": "https://www.heritage.gov.my/"
+    },
+    {
+      "id": "ML4",
+      "title": "UNESCO — Historic Cities of the Straits of Malacca",
+      "use": "Scambi fra Oriente e Occidente e paesaggio multiculturale.",
+      "url": "https://whc.unesco.org/en/list/1223/"
+    },
+    {
+      "id": "ML5",
+      "title": "Metropolitan Museum — Arts of the Islamic world in Southeast Asia",
+      "use": "Islam, scambi e cultura materiale dell’arcipelago.",
+      "url": "https://www.metmuseum.org/toah/hd/isls/hd_isls.htm"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Tokyo fra Edo e Meiji",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Acqua e prevenzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Canali, fossati e drenaggi",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Incendi, brigate e ricostruzioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Amministrazione Meiji",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Ministeri, censimenti e polizia",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Scuole, stampa e servizi pubblici",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Trasporti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Strade, ponti e jinrikisha",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Ferrovia Tokyo–Yokohama",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Industria e commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Arsenali, manifatture e banche",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Mercati, magazzini e importazioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Carpenteria tradizionale e kura",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Mattoni, vetro e tecniche occidentali",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

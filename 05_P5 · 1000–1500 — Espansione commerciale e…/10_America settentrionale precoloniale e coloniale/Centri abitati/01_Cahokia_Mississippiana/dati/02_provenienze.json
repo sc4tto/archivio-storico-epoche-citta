@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Cahokia",
+      "lat": 38.6551,
+      "lon": -90.0618,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "amb",
+      "label": "American Bottom",
+      "lat": 38.62,
+      "lon": -90.1,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "mis",
+      "label": "Confluenza Mississippi–Missouri",
+      "lat": 38.81,
+      "lon": -90.12,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "upl",
+      "label": "Altopiani orientali",
+      "lat": 38.67,
+      "lon": -89.75,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "oz",
+      "label": "Ozarks",
+      "lat": 37.6,
+      "lon": -92.5,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "great",
+      "label": "Grandi Laghi",
+      "lat": 43.0,
+      "lon": -87.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "gulf",
+      "label": "Costa del Golfo",
+      "lat": 30.2,
+      "lon": -89.2,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "amb",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sentieri e vie d’acqua",
+      "food": "mais, semi, legna e manodopera"
+    },
+    {
+      "source": "mis",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canoe e canali naturali",
+      "food": "pesce, molluschi e trasporto"
+    },
+    {
+      "source": "upl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti locali",
+      "food": "cervo, pietra e legname"
+    },
+    {
+      "source": "oz",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "scambi regionali",
+      "food": "selce e minerali"
+    },
+    {
+      "source": "great",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti interregionali",
+      "food": "rame e materie pregiate"
+    },
+    {
+      "source": "gulf",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "reti a lunga distanza",
+      "food": "conchiglie marine e beni rituali"
+    }
+  ]
+}

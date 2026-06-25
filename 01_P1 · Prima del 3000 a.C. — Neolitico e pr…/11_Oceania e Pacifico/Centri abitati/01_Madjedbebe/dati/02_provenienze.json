@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Madjedbebe",
+      "lat": -12.5,
+      "lon": 132.89,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "wetlands",
+      "label": "Pianure alluvionali di Magela",
+      "lat": -12.55,
+      "lon": 132.95,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "escarp",
+      "label": "Scarpata di Arnhem Land",
+      "lat": -12.45,
+      "lon": 132.85,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "stone",
+      "label": "Fonti litiche regionali",
+      "lat": -12.35,
+      "lon": 133.05,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "coast",
+      "label": "Costa di Arafura",
+      "lat": -11.95,
+      "lon": 132.75,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "sahul",
+      "label": "Reti di mobilità nel nord di Sahul",
+      "lat": -14.0,
+      "lon": 134.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "wetlands",
+      "target": "site",
+      "label": "piante, acqua e fauna acquatica",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "escarp",
+      "target": "site",
+      "label": "ripari, legname e selvaggina",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "stone",
+      "target": "site",
+      "label": "quarzo, quarzite e altre rocce",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "coast",
+      "target": "site",
+      "label": "conchiglie e connessioni costiere",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "sahul",
+      "target": "site",
+      "label": "trasmissione di tecniche e mobilità",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

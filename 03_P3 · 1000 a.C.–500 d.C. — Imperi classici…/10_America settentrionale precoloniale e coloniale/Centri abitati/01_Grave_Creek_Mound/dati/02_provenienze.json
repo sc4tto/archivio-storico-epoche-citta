@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Grave Creek Mound",
+      "lat": 39.916,
+      "lon": -80.744,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "ohio",
+      "label": "Fiume Ohio",
+      "lat": 39.92,
+      "lon": -80.76,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "kanawha",
+      "label": "Valle del Kanawha",
+      "lat": 38.35,
+      "lon": -81.63,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "chillicothe",
+      "label": "Scioto e Chillicothe",
+      "lat": 39.33,
+      "lon": -82.98,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "greatlakes",
+      "label": "Regione dei Grandi Laghi",
+      "lat": 43.5,
+      "lon": -84.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "appalachians",
+      "label": "Appalachi centrali",
+      "lat": 38.8,
+      "lon": -79.2,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "ohio",
+      "target": "site",
+      "label": "pesce, mobilità e corridoio fluviale",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "kanawha",
+      "target": "site",
+      "label": "contatti Adena e materie litiche",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "chillicothe",
+      "target": "site",
+      "label": "forme rituali e relazioni regionali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "greatlakes",
+      "target": "site",
+      "label": "rame nativo",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "appalachians",
+      "target": "site",
+      "label": "selce, pietra e legname",
+      "status": "documentato",
+      "food": "no"
+    }
+  ]
+}

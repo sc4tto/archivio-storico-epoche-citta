@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Alessandria",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Porti multipli",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Faro",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Cartografia nautica",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Urbanistica",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Reticolo stradale",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Quartieri",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_3",
+          "label": "Drenaggi",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Erudizione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Museion",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Biblioteca",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Dimensione delle collezioni",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Grano",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Anfore e vino",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Rotte indo-mediterranee",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Religioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Culti greco-egizi",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Ebraismo",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Cristianesimo",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Archeologia subacquea",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Antirhodos",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Resti monumentali sommersi",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Ricostruzione completa del palazzo",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

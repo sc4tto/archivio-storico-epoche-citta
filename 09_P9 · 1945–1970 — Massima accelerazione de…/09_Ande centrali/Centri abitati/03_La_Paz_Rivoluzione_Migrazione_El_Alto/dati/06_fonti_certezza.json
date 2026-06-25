@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "La Rivoluzione del 1952 nazionalizzò le grandi miniere e ampliò la partecipazione politica e sindacale.",
+    "theme": "rivoluzione",
+    "status": "documentato",
+    "source": "LP2; LP3"
+  },
+  {
+    "claim": "La riforma agraria del 1953 trasformò rapporti rurali e contribuì a nuove mobilità verso La Paz.",
+    "theme": "riforme",
+    "status": "documentato",
+    "source": "LP1; LP2"
+  },
+  {
+    "claim": "El Alto crebbe come estensione altiplanica connessa ad aeroporto, ferrovia, strade e migrazione.",
+    "theme": "urbanizzazione",
+    "status": "documentato",
+    "source": "LP1; LP4"
+  },
+  {
+    "claim": "La costruzione urbana dipese in larga misura da lottizzazioni e autocostruzione, con servizi incompleti.",
+    "theme": "abitazione",
+    "status": "documentato",
+    "source": "LP1; LP4"
+  },
+  {
+    "claim": "Il colpo di Stato del 1964 ristabilì un governo militare e limitò con repressione l’autonomia sindacale.",
+    "theme": "autoritarismo",
+    "status": "documentato",
+    "source": "LP2; LP3"
+  },
+  {
+    "claim": "La Paz, rivoluzione nazionale e conurbazione altiplanica è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "La subordinazione storica di comunità indigene e lavoratori, la repressione militare e la segregazione infrastrutturale non sono neutralizzate; popolazioni aymara, minatori, fabriles e abitanti di El Alto sono rappresentati come attori della rivoluzione e della costruzione urbana.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Batujaya",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Mattoni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Argilla e pula di riso",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Piattaforme",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Rivestimenti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Buddhismo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Tavolette votive",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Edifici rituali",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Monastero certo",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Ambiente",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Pianura costiera",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Zone umide",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Canali antichi",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Commercio",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Mar di Giava",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Stretto della Sonda",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "India",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Cronologia",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Cultura Buni",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "IV–VI secolo d.C.",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "II secolo per ogni edificio",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Politica",
+      "status": "inferito",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Tarumanagara",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_2",
+          "label": "Élite rituali",
+          "status": "inferito"
+        },
+        {
+          "id": "k6_3",
+          "label": "Capitale certa",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

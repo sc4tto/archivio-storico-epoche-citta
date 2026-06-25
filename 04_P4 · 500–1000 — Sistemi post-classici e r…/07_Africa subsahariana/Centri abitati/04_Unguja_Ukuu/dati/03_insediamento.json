@@ -1,0 +1,74 @@
+{
+  "phases": [
+    "500–650",
+    "650–800",
+    "800–900",
+    "900–1000"
+  ],
+  "items": [
+    {
+      "id": "uu1",
+      "label": "Fase iniziale con ceramiche della prima età del ferro",
+      "lane": "Abitato",
+      "start": 0,
+      "end": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "uu2",
+      "label": "Crescita del porto e dei contatti costieri",
+      "lane": "Commercio",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "uu3",
+      "label": "Importazioni dal Mediterraneo orientale, Golfo e India",
+      "lane": "Commercio",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "uu4",
+      "label": "Pesca, allevamento e coltivazione insulare",
+      "lane": "Sussistenza",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "uu5",
+      "label": "Pozzi, aree abitative e accumuli di conchiglie",
+      "lane": "Infrastrutture",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "uu6",
+      "label": "Moneta abbaside e oggetti islamici nel IX secolo",
+      "lane": "Religione e scambi",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "uu7",
+      "label": "Produzione artigianale e lavorazione di perline",
+      "lane": "Produzione",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "uu8",
+      "label": "Consolidamento di un centro costiero plurale",
+      "lane": "Urbanistica",
+      "start": 2,
+      "end": 3,
+      "status": "sintesi"
+    }
+  ]
+}

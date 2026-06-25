@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Il complesso di Tabon comprende circa duecento grotte e ripari nel promontorio di Lipuun",
+    "theme": "Paesaggio",
+    "status": "documentato",
+    "source": "UNESCO_TABON"
+  },
+  {
+    "claim": "Le datazioni documentano occupazioni dal Pleistocene superiore all’Olocene",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "UNESCO_TABON"
+  },
+  {
+    "claim": "Il sito ha restituito resti umani di Homo sapiens e una lunga sequenza litica",
+    "theme": "Evidenze",
+    "status": "documentato",
+    "source": "UNESCO_TABON"
+  },
+  {
+    "claim": "Alcune cavità furono usate per la produzione di strumenti di pietra",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "UNESCO_TABON"
+  },
+  {
+    "claim": "Le economie integrarono ambienti terrestri, fluviali ed estuarini",
+    "theme": "Alimentazione",
+    "status": "sintesi",
+    "source": "UNESCO_TABON"
+  },
+  {
+    "claim": "Le sepolture in giara appartengono alle prime occupazioni del P1",
+    "theme": "Funerario",
+    "status": "non_documentato",
+    "source": "Sono attribuite al Neolitico tardo e alle fasi successive"
+  },
+  {
+    "claim": "Tabon era un unico villaggio permanente",
+    "theme": "Insediamento",
+    "status": "non_documentato",
+    "source": "Il complesso comprende molte cavità e usi differenti"
+  },
+  {
+    "claim": "I collegamenti con Borneo provano una rotta commerciale stabile nel P1",
+    "theme": "Scambi",
+    "status": "non_documentato",
+    "source": "La vicinanza biogeografica non dimostra commercio organizzato"
+  }
+]

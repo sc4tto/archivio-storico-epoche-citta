@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Palmira",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Carovane",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Rotte verso l’Eufrate",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Convogli mercantili",
+          "status": "sintesi"
+        },
+        {
+          "id": "k1_3",
+          "label": "Tariffe",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Lingue",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Palmyreno",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Greco",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Latino",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Edilizia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Colonnati",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Templi",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Tombe a torre",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Ritratti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Scultura funeraria",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Abbigliamento",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Identità familiari",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Religioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Bel e divinità locali",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Sincretismi",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Cristianesimo tardo",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Politica",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Autonomia cittadina",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Odenato e Zenobia",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Confini del regno",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

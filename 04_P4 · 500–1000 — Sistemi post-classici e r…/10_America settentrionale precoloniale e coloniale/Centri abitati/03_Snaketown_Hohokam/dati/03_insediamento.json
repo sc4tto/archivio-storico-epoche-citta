@@ -1,0 +1,74 @@
+{
+  "phases": [
+    "500–650",
+    "650–800",
+    "800–900",
+    "900–1000"
+  ],
+  "items": [
+    {
+      "id": "s1",
+      "label": "Espansione di canali e campi irrigati",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s2",
+      "label": "Case seminterrate attorno a piazze",
+      "lane": "Abitato",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s3",
+      "label": "Ceramica red-on-buff e produzione artigianale",
+      "lane": "Artigianato",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s4",
+      "label": "Campi da gioco e raduni regionali",
+      "lane": "Rituale",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s5",
+      "label": "Crescita di monticoli di rifiuto e aree produttive",
+      "lane": "Urbanistica",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s6",
+      "label": "Scambio di conchiglie e ornamenti",
+      "lane": "Commercio",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s7",
+      "label": "Aggregazione massima verso il X–XI secolo",
+      "lane": "Demografia",
+      "start": 3,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "s8",
+      "label": "Abbandono principale dopo il 1050",
+      "lane": "Cronologia",
+      "start": 3,
+      "end": 3,
+      "status": "non_documentato"
+    }
+  ]
+}

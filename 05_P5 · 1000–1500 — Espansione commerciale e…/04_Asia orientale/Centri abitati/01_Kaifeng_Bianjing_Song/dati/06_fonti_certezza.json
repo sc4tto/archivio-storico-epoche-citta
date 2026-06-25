@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Kaifeng fu capitale dei Song settentrionali e centro di una vasta rete di canali.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "KF1; KF2"
+  },
+  {
+    "claim": "La città Song era una metropoli commerciale con mercati e quartieri specializzati.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "KF1; KF4"
+  },
+  {
+    "claim": "Il 1127 segnò una cesura politica e una riduzione dell’area urbana.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "KF1"
+  },
+  {
+    "claim": "Sotto i Jin Kaifeng divenne capitale meridionale.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "KF1"
+  },
+  {
+    "claim": "L’approvvigionamento dipendeva dal trasporto fiscale di cereali.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "KF1; KF2"
+  },
+  {
+    "claim": "Le architetture lignee e le tegole richiedevano manutenzione dopo incendi e guerre.",
+    "theme": "costruzione",
+    "status": "sintesi",
+    "source": "KF3; KF4"
+  },
+  {
+    "claim": "La pittura del Qingming è una fonte visuale, non una pianta topografica completa.",
+    "theme": "metodo",
+    "status": "sintesi",
+    "source": "KF5"
+  },
+  {
+    "claim": "Le ricostruzioni turistiche moderne non sono resti medievali.",
+    "theme": "conservazione",
+    "status": "documentato",
+    "source": "KF1"
+  }
+]

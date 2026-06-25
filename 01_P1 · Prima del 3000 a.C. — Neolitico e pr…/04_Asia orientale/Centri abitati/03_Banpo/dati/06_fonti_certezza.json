@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Banpo è un villaggio Yangshao della valle del Wei",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "CHINA_NEOLITHIC"
+  },
+  {
+    "claim": "L’abitato era delimitato da un fossato",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "BANPO_MUSEUM"
+  },
+  {
+    "claim": "Le case erano in gran parte seminterrate",
+    "theme": "Costruzione",
+    "status": "documentato",
+    "source": "BANPO_MUSEUM"
+  },
+  {
+    "claim": "Fornaci e cimitero erano separati dall’area residenziale",
+    "theme": "Spazio",
+    "status": "documentato",
+    "source": "BANPO_MUSEUM"
+  },
+  {
+    "claim": "Ceramica e strumenti attestano economia agricola mista",
+    "theme": "Economia",
+    "status": "sintesi",
+    "source": "CHINA_NEOLITHIC"
+  },
+  {
+    "claim": "Banpo era sicuramente una società matrilineare",
+    "theme": "Società",
+    "status": "non_documentato",
+    "source": "La vecchia interpretazione non è dimostrata archeologicamente"
+  },
+  {
+    "claim": "Il fossato ebbe soltanto funzione militare",
+    "theme": "Funzione",
+    "status": "non_documentato",
+    "source": "Poteva avere funzioni multiple"
+  },
+  {
+    "claim": "Ogni casa ospitava una famiglia nucleare moderna",
+    "theme": "Demografia",
+    "status": "non_documentato",
+    "source": "La composizione domestica non è direttamente osservabile"
+  }
+]

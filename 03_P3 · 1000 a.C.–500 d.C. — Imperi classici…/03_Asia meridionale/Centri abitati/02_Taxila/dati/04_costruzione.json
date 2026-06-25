@@ -1,0 +1,198 @@
+{
+  "nodes": [
+    {
+      "id": "m1",
+      "label": "Pietra locale, ciottoli e terra",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m2",
+      "label": "Mattoni crudi e cotti, malta",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m3",
+      "label": "Legno, tegole e stucco",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m4",
+      "label": "Metalli, ceramica e pietra scolpita",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "o1",
+      "label": "Taglio, muratura e fortificazione",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o2",
+      "label": "Fabbricazione e posa dei mattoni",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o3",
+      "label": "Carpenteria, coperture e intonaco",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o4",
+      "label": "Fusione, tornitura e scultura",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "c1",
+      "label": "Muri, bastioni, strade e isolati",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c2",
+      "label": "Case, cortili e drenaggi",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c3",
+      "label": "Tetti, porte e superfici decorate",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c4",
+      "label": "Monete, statue, contenitori e iscrizioni",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "s1",
+      "label": "Città fortificate",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s2",
+      "label": "Stupa e monasteri",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s3",
+      "label": "Case, botteghe e mercati",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s4",
+      "label": "Templi e spazi pubblici",
+      "layer": 3,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m1",
+      "target": "o1",
+      "label": "materia prima",
+      "status": "documentato"
+    },
+    {
+      "source": "o1",
+      "target": "c1",
+      "label": "produce o prepara",
+      "status": "documentato"
+    },
+    {
+      "source": "c1",
+      "target": "s1",
+      "label": "costituisce o serve",
+      "status": "documentato"
+    },
+    {
+      "source": "m2",
+      "target": "o2",
+      "label": "materia prima",
+      "status": "documentato"
+    },
+    {
+      "source": "o2",
+      "target": "c2",
+      "label": "produce o prepara",
+      "status": "documentato"
+    },
+    {
+      "source": "c2",
+      "target": "s2",
+      "label": "costituisce o serve",
+      "status": "documentato"
+    },
+    {
+      "source": "m3",
+      "target": "o3",
+      "label": "materia prima",
+      "status": "documentato"
+    },
+    {
+      "source": "o3",
+      "target": "c3",
+      "label": "produce o prepara",
+      "status": "documentato"
+    },
+    {
+      "source": "c3",
+      "target": "s3",
+      "label": "costituisce o serve",
+      "status": "documentato"
+    },
+    {
+      "source": "m4",
+      "target": "o4",
+      "label": "materia prima",
+      "status": "documentato"
+    },
+    {
+      "source": "o4",
+      "target": "c4",
+      "label": "produce o prepara",
+      "status": "documentato"
+    },
+    {
+      "source": "c4",
+      "target": "s4",
+      "label": "costituisce o serve",
+      "status": "documentato"
+    },
+    {
+      "source": "m1",
+      "target": "o3",
+      "label": "materiale complementare",
+      "status": "sintesi"
+    },
+    {
+      "source": "m2",
+      "target": "o1",
+      "label": "rinforzo o rivestimento",
+      "status": "inferito"
+    },
+    {
+      "source": "c2",
+      "target": "s1",
+      "label": "integrazione strutturale",
+      "status": "sintesi"
+    },
+    {
+      "source": "c3",
+      "target": "s4",
+      "label": "manutenzione e rinnovo",
+      "status": "inferito"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Coxcatlán Cave",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Cronologia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Datazioni dirette",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Sequenza stratigrafica",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Riconoscere i disturbi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Piante",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Mais",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Zucca e gourd",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Peperoncino e avocado",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Macinazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Metati",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Mani",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Preparazione dei semi",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Conservazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Fosse",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Cache",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Durata dello stoccaggio",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Mobilità",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Rete di grotte",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Campi stagionali",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_3",
+          "label": "Villaggio permanente",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Ambiente",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Stagionalità",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_2",
+          "label": "Macchia semiarida",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Gestione dell’acqua",
+          "status": "inferito"
+        }
+      ]
+    }
+  ]
+}

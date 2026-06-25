@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Dadiwan I",
+    "Dadiwan II",
+    "Yangshao iniziale",
+    "Yangshao medio-tardo",
+    "Fase finale verso 3000 a.C."
+  ],
+  "items": [
+    {
+      "id": "houses",
+      "label": "Case seminterrate e poi strutture più ampie",
+      "lane": "Abitazioni",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "central",
+      "label": "Edifici di dimensioni maggiori in alcune fasi",
+      "lane": "Comunitarie",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "pits",
+      "label": "Fosse di deposito",
+      "lane": "Conservazione",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "kilns",
+      "label": "Fornaci ceramiche",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "hearths",
+      "label": "Focolari e superfici domestiche",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "cemetery",
+      "label": "Aree funerarie",
+      "lane": "Funerarie",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "renew",
+      "label": "Ricostruzioni e cambi di impianto",
+      "lane": "Manutenzione",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Melaka ebbe origine come capitale di un sultanato malese nel XV secolo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "ML1; ML2"
+  },
+  {
+    "claim": "La posizione nello stretto favorì il commercio fra Oriente e Occidente.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "ML1; ML4"
+  },
+  {
+    "claim": "La città ospitò comunità mercantili provenienti da più regioni.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "ML1; ML2"
+  },
+  {
+    "claim": "Il sultanato contribuì alla diffusione dell’Islam marittimo.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "ML2; ML5"
+  },
+  {
+    "claim": "Gran parte dell’architettura del XV secolo era lignea e scarsamente conservata.",
+    "theme": "costruzione",
+    "status": "inferito",
+    "source": "ML2; ML3"
+  },
+  {
+    "claim": "Magazzini, pesi e dazi erano essenziali al funzionamento portuale.",
+    "theme": "economia",
+    "status": "sintesi",
+    "source": "ML2; ML4"
+  },
+  {
+    "claim": "Il rifornimento combinava entroterra, pesca e importazioni marittime.",
+    "theme": "alimentazione",
+    "status": "sintesi",
+    "source": "ML2; ML4"
+  },
+  {
+    "claim": "Gli edifici coloniali oggi visibili sono successivi alla conquista portoghese.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "ML1; ML3"
+  }
+]

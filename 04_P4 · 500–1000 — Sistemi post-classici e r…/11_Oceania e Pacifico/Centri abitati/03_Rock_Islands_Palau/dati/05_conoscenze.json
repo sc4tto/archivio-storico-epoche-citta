@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Villaggi delle Rock Islands, Palau",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Canoe e passaggi di reef",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Orientamento nella laguna",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Risorse marine",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Pesca specializzata",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Raccolta di molluschi e tartarughe",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Orticoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Taro e colture insulari",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_1",
+          "label": "Gestione dei suoli limitati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Terrazze e muri a secco",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Architettura deperibile",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Paesaggio culturale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Grotte e luoghi sacri",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Reti fra villaggi",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

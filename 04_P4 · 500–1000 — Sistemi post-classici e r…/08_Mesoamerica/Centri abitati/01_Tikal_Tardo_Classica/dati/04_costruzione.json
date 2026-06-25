@@ -1,0 +1,252 @@
+{
+  "nodes": [
+    {
+      "id": "m_limestone",
+      "label": "Calcare locale e pietra da taglio",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_lime",
+      "label": "Calce, stucco e malte",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_wood",
+      "label": "Legname e fibre vegetali",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_fill",
+      "label": "Terra, pietrame e riempimenti",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "o_quarry",
+      "label": "Estrazione, taglio e posa dei blocchi",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_burn",
+      "label": "Cottura della calce e intonacatura",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_carpentry",
+      "label": "Carpenteria, ponteggi e coperture",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_level",
+      "label": "Riempimento, livellamento e drenaggio",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "c_masonry",
+      "label": "Muri, volte e scale in muratura",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_stucco",
+      "label": "Superfici stuccate e decorate",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_roofs",
+      "label": "Tetti, architravi e ponteggi",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "c_platforms",
+      "label": "Piattaforme, terrazze e bacini",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "s_temples",
+      "label": "Templi, palazzi e complessi cerimoniali",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_residences",
+      "label": "Residenze, cortili e quartieri",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_waterworks",
+      "label": "Serbatoi, dighe e canali",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_roads",
+      "label": "Sacbeob, piazze e percorsi monumentali",
+      "layer": 3,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m_limestone",
+      "target": "o_quarry",
+      "status": "documentato",
+      "label": "blocchi strutturali"
+    },
+    {
+      "source": "m_limestone",
+      "target": "o_burn",
+      "status": "documentato",
+      "label": "materia prima per la calce"
+    },
+    {
+      "source": "m_wood",
+      "target": "o_burn",
+      "status": "documentato",
+      "label": "combustibile per calcare"
+    },
+    {
+      "source": "m_wood",
+      "target": "o_carpentry",
+      "status": "documentato",
+      "label": "travi, architravi e ponteggi"
+    },
+    {
+      "source": "m_fill",
+      "target": "o_level",
+      "status": "documentato",
+      "label": "nuclei e terrapieni"
+    },
+    {
+      "source": "m_fill",
+      "target": "o_quarry",
+      "status": "sintesi",
+      "label": "pietrame minuto per nuclei murari"
+    },
+    {
+      "source": "m_lime",
+      "target": "o_burn",
+      "status": "documentato",
+      "label": "produzione e posa di malte"
+    },
+    {
+      "source": "o_quarry",
+      "target": "c_masonry",
+      "status": "documentato",
+      "label": "blocchi, scale e volte"
+    },
+    {
+      "source": "o_quarry",
+      "target": "c_platforms",
+      "status": "documentato",
+      "label": "rivestimenti e cordoli"
+    },
+    {
+      "source": "o_burn",
+      "target": "c_stucco",
+      "status": "documentato",
+      "label": "intonaci e modellato"
+    },
+    {
+      "source": "o_burn",
+      "target": "c_masonry",
+      "status": "documentato",
+      "label": "malta e giunti"
+    },
+    {
+      "source": "o_carpentry",
+      "target": "c_roofs",
+      "status": "documentato",
+      "label": "tetti e architravi"
+    },
+    {
+      "source": "o_carpentry",
+      "target": "c_masonry",
+      "status": "sintesi",
+      "label": "ponteggi di costruzione"
+    },
+    {
+      "source": "o_level",
+      "target": "c_platforms",
+      "status": "documentato",
+      "label": "terrazze e bacini"
+    },
+    {
+      "source": "o_level",
+      "target": "c_masonry",
+      "status": "documentato",
+      "label": "nuclei delle piattaforme"
+    },
+    {
+      "source": "c_masonry",
+      "target": "s_temples",
+      "status": "documentato",
+      "label": "architettura monumentale"
+    },
+    {
+      "source": "c_masonry",
+      "target": "s_residences",
+      "status": "documentato",
+      "label": "edifici abitativi"
+    },
+    {
+      "source": "c_stucco",
+      "target": "s_temples",
+      "status": "documentato",
+      "label": "decorazione e rivestimento"
+    },
+    {
+      "source": "c_stucco",
+      "target": "s_roads",
+      "status": "sintesi",
+      "label": "pavimenti e piazze"
+    },
+    {
+      "source": "c_roofs",
+      "target": "s_residences",
+      "status": "documentato",
+      "label": "coperture domestiche"
+    },
+    {
+      "source": "c_roofs",
+      "target": "s_temples",
+      "status": "documentato",
+      "label": "architravi e ambienti coperti"
+    },
+    {
+      "source": "c_platforms",
+      "target": "s_temples",
+      "status": "documentato",
+      "label": "basamenti piramidali"
+    },
+    {
+      "source": "c_platforms",
+      "target": "s_waterworks",
+      "status": "documentato",
+      "label": "argini e serbatoi"
+    },
+    {
+      "source": "c_platforms",
+      "target": "s_roads",
+      "status": "documentato",
+      "label": "piazze e causeways"
+    },
+    {
+      "source": "c_platforms",
+      "target": "s_residences",
+      "status": "documentato",
+      "label": "cortili sopraelevati"
+    }
+  ]
+}

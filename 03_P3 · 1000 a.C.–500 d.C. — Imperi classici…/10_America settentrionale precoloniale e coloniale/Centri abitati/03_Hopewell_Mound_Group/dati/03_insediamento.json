@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Prime attività del sito",
+    "Recinti e strutture lignee",
+    "Tumuli monumentali e deposizioni",
+    "Raduni e uso cerimoniale",
+    "Distruzione agricola e indagini moderne"
+  ],
+  "items": [
+    {
+      "id": "bigwall",
+      "label": "Grande recinto geometrico",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "large_mounds",
+      "label": "Grandi tumuli funerari",
+      "lane": "Funerarie",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "wood",
+      "label": "Edifici lignei e altari",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "cache",
+      "label": "Depositi di materiali esotici",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "craft",
+      "label": "Lavorazione di rame e mica",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "gather",
+      "label": "Raduni interregionali",
+      "lane": "Organizzazione",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "archaeology",
+      "label": "Scavi e prospezioni",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

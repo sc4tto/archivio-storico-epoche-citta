@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Chicago ferroviaria, industriale e segregata",
+    "site": "Chicago ferroviaria, industriale e segregata",
+    "modern_location": "Chicago, Stati Uniti",
+    "coordinates": {
+      "lat": 41.8781,
+      "lon": -87.6298
+    },
+    "scope": "Chicago fra 1900 e 1945: ferrovie, stockyards, acciaio, elevated railways, Grande Migrazione, riot razziale del 1919, depressione, Century of Progress e produzione bellica.",
+    "version": "1.0",
+    "warning": "Sono escluse le autostrade urbane, la suburbanizzazione di massa e la ristrutturazione industriale successiva al 1945."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "CH1",
+      "title": "Chicago History Museum",
+      "use": "Storia urbana, lavoro, immigrazione e quartieri.",
+      "url": "https://www.chicagohistory.org/"
+    },
+    {
+      "id": "CH2",
+      "title": "Library of Congress — Chicago collections",
+      "use": "Fotografie, mappe e documenti industriali.",
+      "url": "https://www.loc.gov/"
+    },
+    {
+      "id": "CH3",
+      "title": "National Archives — Chicago regional records",
+      "use": "Amministrazione federale e storia sociale.",
+      "url": "https://www.archives.gov/chicago"
+    },
+    {
+      "id": "CH4",
+      "title": "Chicago Public Library — Digital Collections",
+      "use": "Quartieri, stampa e storia civica.",
+      "url": "https://www.chipublib.org/"
+    },
+    {
+      "id": "CH5",
+      "title": "Pullman National Historical Park",
+      "use": "Industria, comunità operaia e conflitti del lavoro.",
+      "url": "https://www.nps.gov/pull/"
+    }
+  ]
+}

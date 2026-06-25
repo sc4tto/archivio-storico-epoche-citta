@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Shah Abbas I fece di Isfahan la capitale safavide alla fine del XVI secolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "IF1; IF2"
+  },
+  {
+    "claim": "Il Maydan integra moschee, palazzo e accesso al bazar.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "IF1"
+  },
+  {
+    "claim": "Chahar Bagh collegava palazzi, giardini e quartieri meridionali.",
+    "theme": "paesaggio",
+    "status": "documentato",
+    "source": "IF2; IF4"
+  },
+  {
+    "claim": "Le maioliche policrome sono un tratto distintivo dell’architettura safavide.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "IF1; IF3"
+  },
+  {
+    "claim": "I ponti sullo Zayandeh Rud avevano funzioni idrauliche e rappresentative.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "IF4"
+  },
+  {
+    "claim": "La Nuova Julfa ospitava importanti reti mercantili armene.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "IF4"
+  },
+  {
+    "claim": "La caduta safavide del 1722 segnò un forte declino politico.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "IF2"
+  },
+  {
+    "claim": "Le trasformazioni qajar posteriori sono escluse dal modulo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "IF4"
+  }
+]

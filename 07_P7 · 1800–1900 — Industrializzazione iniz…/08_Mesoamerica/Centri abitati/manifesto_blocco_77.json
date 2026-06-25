@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_77_P7_Mesoamerica_5_Centri_v1",
+  "macroregion": "Mesoamerica",
+  "centers": [
+    "01_Citta_del_Messico_Repubblicana_Porfiriana",
+    "02_Guadalajara_Repubblicana_Ferroviaria",
+    "03_Puebla_Industriale_Liberale",
+    "04_Veracruz_Porto_Ferroviario",
+    "05_Acapulco_Porto_Pacifico"
+  ],
+  "uses_central_assets": true
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Suakin fu un importante porto del Mar Rosso già prima della conquista ottomana.",
+    "theme": "continuità",
+    "status": "documentato",
+    "source": "SU1"
+  },
+  {
+    "claim": "Gli Ottomani vi stabilirono la sede dell’eyalet di Habesh nel XVI secolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "SU1; SU4"
+  },
+  {
+    "claim": "Il porto collegava comunità Beja, sultanato di Sennar e Hijaz.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "SU1; SU3"
+  },
+  {
+    "claim": "Moschee, mura e infrastrutture furono restaurate o rafforzate dagli Ottomani.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "SU1"
+  },
+  {
+    "claim": "Pietra corallina e legname erano fondamentali per l’edilizia insulare.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "SU1; SU2"
+  },
+  {
+    "claim": "Il pellegrinaggio verso Gedda e Mecca sosteneva traffici e servizi.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "SU1; SU5"
+  },
+  {
+    "claim": "Il mutamento delle rotte oceaniche ridusse il ruolo del porto senza annullarlo.",
+    "theme": "economia",
+    "status": "sintesi",
+    "source": "SU1"
+  },
+  {
+    "claim": "Le ricostruzioni egiziane del XIX secolo sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "SU1; SU2"
+  }
+]

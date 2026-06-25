@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "f1",
+      "label": "Crescita urbana e formazione del comune",
+      "lane": "Politica",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "f2",
+      "label": "Arti, corporazioni e manifatture tessili",
+      "lane": "Economia",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "f3",
+      "label": "Nuova cerchia muraria e Palazzo dei Priori",
+      "lane": "Urbanistica",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "f4",
+      "label": "Cattedrale di Santa Maria del Fiore",
+      "lane": "Religione",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "f5",
+      "label": "Conflitti fra fazioni e ordinamenti civici",
+      "lane": "Politica",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "f6",
+      "label": "Peste nera del 1348",
+      "lane": "Società",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "f7",
+      "label": "Ascesa dei Medici e finanza internazionale",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "f8",
+      "label": "Cupola del Brunelleschi e cantieri rinascimentali",
+      "lane": "Costruzione",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

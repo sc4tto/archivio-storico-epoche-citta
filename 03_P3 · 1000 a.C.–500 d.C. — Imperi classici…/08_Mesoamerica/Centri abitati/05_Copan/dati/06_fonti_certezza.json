@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "La valle di Copán era abitata prima della fondazione dinastica",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "COPAN_UNESCO"
+  },
+  {
+    "claim": "Yax K’uk’ Mo’ fondò una dinastia nel 427 d.C.",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "COPAN_UNESCO"
+  },
+  {
+    "claim": "Copán fu centro politico, civile e religioso della valle",
+    "theme": "Funzione",
+    "status": "documentato",
+    "source": "COPAN_UNESCO"
+  },
+  {
+    "claim": "La città sviluppò templi, piazze, altari e campi da gioco",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "COPAN_UNESCO"
+  },
+  {
+    "claim": "La Scalinata Geroglifica visibile fu completata integralmente entro il 500",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Monumento principalmente successivo"
+  },
+  {
+    "claim": "Il fondatore proveniva con certezza dalla città di Teotihuacan",
+    "theme": "Origini",
+    "status": "non_documentato",
+    "source": "Identità e itinerario discussi"
+  },
+  {
+    "claim": "Le fasi sovrapposte dell’Acropoli documentano ricostruzioni ripetute",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "COPAN_UNESCO"
+  },
+  {
+    "claim": "I monumenti iscritti permettono di ricostruire parte della storia dinastica",
+    "theme": "Scrittura",
+    "status": "documentato",
+    "source": "COPAN_UNESCO"
+  }
+]

@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1970–1979",
+    "1980–1989",
+    "1990–1999",
+    "2000–2009",
+    "2010–25 giugno 2026"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Espansione verso la Sabana, Soacha e comuni connessi",
+      "lane": "Insediamento",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Conflitto armato, sfollamenti e urbanizzazione informale",
+      "lane": "Società",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "TransMilenio in servizio dal 2000",
+      "lane": "Mobilità",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Integrazione SITP e progressiva elettrificazione degli autobus",
+      "lane": "Mobilità",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Costruzione della Prima Linea Metro, non conclusa al 25 giugno 2026",
+      "lane": "Mobilità",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "POT 2022 e sviluppo orientato al trasporto come piano futuro",
+      "lane": "Pianificazione",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Inquinamento atmosferico, alluvioni e protezione delle zone umide",
+      "lane": "Ambiente",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Politica climatica 2020–2050 come strategia futura",
+      "lane": "Clima",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

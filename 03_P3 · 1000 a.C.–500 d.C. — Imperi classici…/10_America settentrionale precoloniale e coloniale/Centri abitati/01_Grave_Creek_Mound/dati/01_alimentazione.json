@@ -1,0 +1,234 @@
+{
+  "nodes": [
+    {
+      "id": "env1",
+      "label": "Valli e terrazze del sistema Ohio–Mississippi",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "env2",
+      "label": "Foreste temperate, praterie e zone umide",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "env3",
+      "label": "Corridoi fluviali e reti terrestri continentali",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "res1",
+      "label": "Noci, ghiande, frutti e semi selvatici",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "res2",
+      "label": "Chenopodio, girasole, zucca e altre piante coltivate",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "res3",
+      "label": "Cervo, tacchino e piccoli mammiferi",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "res4",
+      "label": "Pesci, molluschi, tartarughe e uccelli acquatici",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "res5",
+      "label": "Mais in diffusione limitata nelle fasi finali e beni scambiati",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "acq1",
+      "label": "Raccolta e coltivazione di piante locali",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "acq2",
+      "label": "Caccia, cattura e pesca",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "acq3",
+      "label": "Scambio, pellegrinaggio e redistribuzione",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "tr1",
+      "label": "Macinazione, pestatura e tostatura",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "tr2",
+      "label": "Cottura in recipienti e focolari",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "tr3",
+      "label": "Essiccazione, deposito e trasporto",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "tr4",
+      "label": "Macellazione, affumicatura e lavorazione",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "out1",
+      "label": "Diete miste di foresta, fiume e coltivazione",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "out2",
+      "label": "Semi, ossa, conchiglie, carboni e strumenti",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "out3",
+      "label": "Residui domestici, offerte e contesti funerari",
+      "layer": 4,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "env1",
+      "target": "res1",
+      "label": "ambiente produttivo",
+      "status": "sintesi"
+    },
+    {
+      "source": "env1",
+      "target": "res2",
+      "label": "ambiente produttivo",
+      "status": "sintesi"
+    },
+    {
+      "source": "env2",
+      "target": "res3",
+      "label": "habitat e gestione",
+      "status": "sintesi"
+    },
+    {
+      "source": "env2",
+      "target": "res4",
+      "label": "acqua e risorse",
+      "status": "sintesi"
+    },
+    {
+      "source": "env3",
+      "target": "res5",
+      "label": "paesaggio e raccolta",
+      "status": "sintesi"
+    },
+    {
+      "source": "res1",
+      "target": "acq1",
+      "label": "raccolta o gestione",
+      "status": "documentato"
+    },
+    {
+      "source": "res2",
+      "target": "acq1",
+      "label": "raccolta o gestione",
+      "status": "documentato"
+    },
+    {
+      "source": "res3",
+      "target": "acq2",
+      "label": "caccia o cattura",
+      "status": "documentato"
+    },
+    {
+      "source": "res4",
+      "target": "acq3",
+      "label": "pesca o raccolta",
+      "status": "sintesi"
+    },
+    {
+      "source": "res5",
+      "target": "acq3",
+      "label": "raccolta mirata",
+      "status": "sintesi"
+    },
+    {
+      "source": "acq1",
+      "target": "tr1",
+      "label": "trasformazione vegetale",
+      "status": "documentato"
+    },
+    {
+      "source": "acq1",
+      "target": "tr3",
+      "label": "conservazione",
+      "status": "sintesi"
+    },
+    {
+      "source": "acq2",
+      "target": "tr4",
+      "label": "lavorazione faunistica",
+      "status": "documentato"
+    },
+    {
+      "source": "acq3",
+      "target": "tr2",
+      "label": "cottura",
+      "status": "documentato"
+    },
+    {
+      "source": "acq3",
+      "target": "tr4",
+      "label": "trattamento",
+      "status": "documentato"
+    },
+    {
+      "source": "tr1",
+      "target": "out1",
+      "label": "preparazione",
+      "status": "sintesi"
+    },
+    {
+      "source": "tr2",
+      "target": "out1",
+      "label": "cottura",
+      "status": "sintesi"
+    },
+    {
+      "source": "tr3",
+      "target": "out2",
+      "label": "depositi e reperti",
+      "status": "documentato"
+    },
+    {
+      "source": "tr4",
+      "target": "out2",
+      "label": "resti e strumenti",
+      "status": "documentato"
+    },
+    {
+      "source": "tr2",
+      "target": "out3",
+      "label": "cenere e residui",
+      "status": "documentato"
+    }
+  ]
+}

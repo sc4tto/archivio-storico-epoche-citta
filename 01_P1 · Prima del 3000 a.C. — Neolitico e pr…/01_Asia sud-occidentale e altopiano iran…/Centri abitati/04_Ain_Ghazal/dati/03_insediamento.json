@@ -1,0 +1,83 @@
+{
+  "phases": [
+    "MPPNB",
+    "LPPNB",
+    "PPNC",
+    "Yarmoukiano iniziale",
+    "Neolitico ceramico tardo"
+  ],
+  "items": [
+    {
+      "id": "rect",
+      "label": "Case rettangolari in mattoni crudi",
+      "lane": "Abitazioni",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "plaster",
+      "label": "Pavimenti e pareti intonacati",
+      "lane": "Abitazioni",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "courtyard",
+      "label": "Cortili e spazi tra gruppi di case",
+      "lane": "Impianto",
+      "start": 0,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "special",
+      "label": "Edifici speciali o rituali",
+      "lane": "Comunitarie",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "statues",
+      "label": "Depositi di statue in fosse",
+      "lane": "Simboliche",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "burial",
+      "label": "Sepolture e trattamento selettivo dei crani",
+      "lane": "Funerarie",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "storage",
+      "label": "Vani e strutture di deposito",
+      "lane": "Conservazione",
+      "start": 0,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "smaller",
+      "label": "Riduzione e trasformazione dell’insediamento",
+      "lane": "Impianto",
+      "start": 2,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "ceramic",
+      "label": "Uso crescente della ceramica",
+      "lane": "Produttive",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

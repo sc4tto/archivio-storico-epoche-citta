@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "New York City",
+      "lat": 40.7128,
+      "lon": -74.006,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "hud",
+      "label": "Hudson Valley",
+      "lat": 41.7,
+      "lon": -73.9,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "nj",
+      "label": "New Jersey e corridoio I-95",
+      "lat": 40.3,
+      "lon": -74.5,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "li",
+      "label": "Long Island e pesca atlantica",
+      "lat": 40.8,
+      "lon": -72.8,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "mid",
+      "label": "Midwest e grandi pianure",
+      "lat": 41.5,
+      "lon": -88.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "sun",
+      "label": "Florida, California e Sun Belt",
+      "lat": 31.0,
+      "lon": -90.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "glob",
+      "label": "Atlantico e reti globali",
+      "lat": 40.0,
+      "lon": -65.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "hud",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e camion regionali",
+      "food": "frutta, ortaggi, latte e prodotti artigianali"
+    },
+    {
+      "source": "nj",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "magazzini e autostrade",
+      "food": "carni, generi confezionati e distribuzione"
+    },
+    {
+      "source": "li",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "pesca e mercato regionale",
+      "food": "pesce, molluschi e prodotti costieri"
+    },
+    {
+      "source": "mid",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti ferroviarie e autostradali",
+      "food": "cereali, carne e alimenti industriali"
+    },
+    {
+      "source": "sun",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "catene del freddo",
+      "food": "frutta, verdure e agrumi"
+    },
+    {
+      "source": "glob",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto, aeroporti e commercio",
+      "food": "caffè, spezie, oli e ingredienti globali"
+    }
+  ]
+}

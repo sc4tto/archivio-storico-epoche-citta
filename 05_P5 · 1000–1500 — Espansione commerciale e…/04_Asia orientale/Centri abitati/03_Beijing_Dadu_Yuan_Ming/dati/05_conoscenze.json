@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Beijing–Dadu fra Yuan e primi Ming",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Pianificazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Asse nord-sud e simmetria",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Quartieri, porte e funzioni rituali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Idraulica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Canali urbani e laghi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Grande Canale e granai",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Carpenteria",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Moduli, incastri e coperture",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Tegole invetriate e lacca",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Logistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Trasporto fiscale del grano",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Stazioni e strade imperiali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Governo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Corte Yuan multiculturale",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Rituali e burocrazia Ming",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

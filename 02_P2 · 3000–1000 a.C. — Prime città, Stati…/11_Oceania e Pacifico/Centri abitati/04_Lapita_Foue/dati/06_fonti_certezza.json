@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Il sito di Foué ha dato il nome alla cultura Lapita",
+    "theme": "Storia della ricerca",
+    "status": "documentato",
+    "source": "FOUE_KONE"
+  },
+  {
+    "claim": "La ceramica dentellata è il principale indicatore culturale del sito",
+    "theme": "Ceramica",
+    "status": "documentato",
+    "source": "FOUE_SAND"
+  },
+  {
+    "claim": "La sequenza mostra trasformazioni regionali degli stili",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "FOUE_SAND"
+  },
+  {
+    "claim": "La pesca lagunare e la conchiglia erano importanti",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "FOUE_KIRCH"
+  },
+  {
+    "claim": "Il sito partecipava a reti interinsulari",
+    "theme": "Scambi",
+    "status": "sintesi",
+    "source": "FOUE_KIRCH"
+  },
+  {
+    "claim": "Tutti i siti Lapita appartenevano a un unico Stato",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Reti senza Stato unitario dimostrato"
+  },
+  {
+    "claim": "Ogni motivo ceramico indicava un clan preciso",
+    "theme": "Simboli",
+    "status": "non_documentato",
+    "source": "Significati non decifrati"
+  },
+  {
+    "claim": "Il villaggio conservato rappresenta l’intera comunità",
+    "theme": "Metodo",
+    "status": "non_documentato",
+    "source": "Erosione e scavo parziale"
+  }
+]

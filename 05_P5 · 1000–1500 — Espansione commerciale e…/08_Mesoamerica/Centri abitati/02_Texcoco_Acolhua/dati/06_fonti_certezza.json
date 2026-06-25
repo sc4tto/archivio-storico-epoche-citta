@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Texcoco fu uno dei tre membri della Triplice Alleanza.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "TX1; TX4"
+  },
+  {
+    "claim": "Nezahualcóyotl governò Texcoco nel XV secolo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "TX1"
+  },
+  {
+    "claim": "Tetzcotzinco conserva terrazze, canali e vasche rupestri.",
+    "theme": "idraulica",
+    "status": "documentato",
+    "source": "TX2"
+  },
+  {
+    "claim": "Le opere della riva orientale erano integrate al sistema lacustre della valle.",
+    "theme": "paesaggio",
+    "status": "documentato",
+    "source": "TX2; TX3"
+  },
+  {
+    "claim": "Texcoco ebbe un ruolo culturale e scolastico importante.",
+    "theme": "conoscenze",
+    "status": "sintesi",
+    "source": "TX1; TX4"
+  },
+  {
+    "claim": "Tributi e alleanze collegavano Texcoco a regioni lontane.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "TX1; TX4"
+  },
+  {
+    "claim": "La ricostruzione dettagliata dei palazzi dipende in parte da fonti coloniali.",
+    "theme": "metodo",
+    "status": "sintesi",
+    "source": "TX1; TX2"
+  },
+  {
+    "claim": "Il modulo non attribuisce automaticamente ogni opera idraulica a un singolo sovrano.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "TX2"
+  }
+]

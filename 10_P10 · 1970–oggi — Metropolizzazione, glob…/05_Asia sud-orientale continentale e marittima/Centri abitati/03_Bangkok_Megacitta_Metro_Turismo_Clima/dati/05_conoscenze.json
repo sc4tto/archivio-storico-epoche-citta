@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Bangkok, megacittà, metro, turismo e rischio climatico",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Mobilità metropolitana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "BTS, MRT, ferrovie, autobus e battelli",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Interscambi, TOD e accessibilità",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Acqua e calore",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Canali, polder, pompe e bacini",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Ombra, verde, materiali e salute termica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Economia urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Turismo, finanza, commercio e logistica",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Lavoro migrante, servizi e disuguaglianze",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Pianificazione regionale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Bangkok Metropolitan Region e corridoi industriali",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Uso del suolo, densificazione e periferie",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Politica e diritti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Monarchia, governi militari e amministrazione eletta",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Proteste, libertà di espressione e repressione",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

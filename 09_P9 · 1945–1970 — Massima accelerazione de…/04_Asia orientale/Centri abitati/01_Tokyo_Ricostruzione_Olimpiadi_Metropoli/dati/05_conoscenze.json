@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Tokyo, ricostruzione e metropoli dell’alta crescita",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Infrastrutture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Ferrovie, metropolitana, autostrade, porto, aeroporto ed energia",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Acqua, fognature, sanità, scuole, mercati e gestione dei rifiuti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Economia urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Industria meccanica, elettrica, editoria, finanza e commercio",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Logistica, distribuzione alimentare, edilizia e servizi aziendali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Politica e istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Occupazione, governo metropolitano, municipalità e democrazia parlamentare",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Pianificazione, agenzie pubbliche, sindacati e amministrazioni locali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Sfollati, pendolari, lavoratori industriali, impiegati e studenti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Associazioni di quartiere, cultura di massa, università e secolarizzazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Crisi e disuguaglianze",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Carenza di alloggi, sovraffollamento, incendi e inquinamento",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Sgomberi, traffico, servizi diseguali e conflitti del lavoro",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

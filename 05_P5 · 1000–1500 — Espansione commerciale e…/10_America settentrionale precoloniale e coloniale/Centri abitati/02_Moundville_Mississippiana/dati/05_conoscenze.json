@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Moundville mississippiana",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Tumuli",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Riporto e compattazione della terra",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Costruzione per fasi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Mais e colture complementari",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Gestione dei campi fluviali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Cerimoniale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Piazze e tumuli di rango",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Rituali funerari",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Ceramica e incisione",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Conchiglia e rame",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Organizzazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Pianificazione della piazza",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Lavoro comunitario",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

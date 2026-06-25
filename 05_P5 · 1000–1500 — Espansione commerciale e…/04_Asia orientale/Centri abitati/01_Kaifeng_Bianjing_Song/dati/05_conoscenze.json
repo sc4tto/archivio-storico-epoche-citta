@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Kaifeng–Bianjing dei Song e dei Jin",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Idraulica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Canali, chiuse e dragaggio",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Argini e gestione delle piene",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Quartieri, porte e mercati",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Coordinamento fra città interna ed esterna",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Carpenteria modulare",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Murature e coperture ceramiche",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Granai fiscali e trasporto fluviale",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Mercati diurni e notturni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Amministrazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Burocrazia imperiale e provinciale",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Controllo di prezzi e rifornimenti",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

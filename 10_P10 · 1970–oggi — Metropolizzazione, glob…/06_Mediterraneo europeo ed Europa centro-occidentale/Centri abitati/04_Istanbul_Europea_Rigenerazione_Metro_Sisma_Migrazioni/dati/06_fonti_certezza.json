@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Il Piano d’azione climatica di Istanbul integra trasporti, energia, rifiuti, acqua e adattamento.",
+    "theme": "clima",
+    "status": "documentato",
+    "source": "IS1"
+  },
+  {
+    "claim": "La cronologia di Metro Istanbul registra successive aperture ed estensioni della rete fino al 2026.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "IS2"
+  },
+  {
+    "claim": "Il rapporto annuale municipale documenta investimenti, servizi e iniziative di preparazione al rischio sismico.",
+    "theme": "rischio",
+    "status": "documentato",
+    "source": "IS3"
+  },
+  {
+    "claim": "Il Piano locale per l’uguaglianza affronta accesso ai servizi e disuguaglianze fra gruppi sociali e migranti.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "IS4"
+  },
+  {
+    "claim": "Gli obiettivi ferroviari e climatici con scadenze dopo il 25 giugno 2026 restano piani o programmi futuri.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "IS1"
+  },
+  {
+    "claim": "Istanbul europea, rigenerazione, metro, sisma e migrazioni è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Gli sgomberi e le ricollocazioni della trasformazione urbana, la repressione delle proteste di Gezi, la precarietà dei rifugiati e dei migranti e la distribuzione diseguale del rischio sismico non sono presentate come costi neutrali della rigenerazione di Istanbul europea.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

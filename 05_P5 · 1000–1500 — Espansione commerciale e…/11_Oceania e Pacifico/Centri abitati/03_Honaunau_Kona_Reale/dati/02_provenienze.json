@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Hōnaunau",
+      "lat": 19.421,
+      "lon": -155.9103,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "kee",
+      "label": "Kealakekua Bay",
+      "lat": 19.475,
+      "lon": -155.925,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "kii",
+      "label": "Kiʻilae Village",
+      "lat": 19.404,
+      "lon": -155.899,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "upl",
+      "label": "Altopiani di Kona",
+      "lat": 19.55,
+      "lon": -155.82,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "koh",
+      "label": "Kohala",
+      "lat": 20.15,
+      "lon": -155.78,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "mau",
+      "label": "Maui",
+      "lat": 20.8,
+      "lon": -156.33,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "kau",
+      "label": "Kaʻū",
+      "lat": 19.1,
+      "lon": -155.6,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "kee",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sentiero costiero e canoe",
+      "food": "pesce, persone e beni rituali"
+    },
+    {
+      "source": "kii",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete locale dell’ahupuaʻa",
+      "food": "pesce, artigianato e manodopera"
+    },
+    {
+      "source": "upl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sentieri monte-mare",
+      "food": "tuberi, legna e fibre"
+    },
+    {
+      "source": "koh",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "reti politiche interne",
+      "food": "basalto, capi e alleanze"
+    },
+    {
+      "source": "mau",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "navigazione interinsulare",
+      "food": "piante, beni e relazioni"
+    },
+    {
+      "source": "kau",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sentieri e canoe",
+      "food": "derrate, pietra e scambi"
+    }
+  ]
+}

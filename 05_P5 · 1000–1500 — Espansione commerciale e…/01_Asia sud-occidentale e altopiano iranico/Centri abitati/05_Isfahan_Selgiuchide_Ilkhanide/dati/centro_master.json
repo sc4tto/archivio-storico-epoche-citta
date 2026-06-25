@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Isfahan selgiuchide e ilkhanide",
+    "site": "Isfahan medievale e Masjed-e Jāmé",
+    "modern_location": "Isfahan, Iran",
+    "coordinates": {
+      "lat": 32.6546,
+      "lon": 51.668
+    },
+    "scope": "Isfahan fra 1000 e 1500: capitale dei Grandi Selgiuchidi, sviluppo della moschea del venerdì e del bazar, trasformazioni ilkhanidi e timuridi, agricoltura irrigua lungo lo Zayandeh Rud.",
+    "version": "1.0",
+    "warning": "La celebre piazza Naqsh-e Jahan e gran parte dell’immagine monumentale attuale sono safavidi e posteriori al 1500. Il modulo è centrato sulla moschea del venerdì, sul bazar medievale e sul sistema urbano precedente."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "IS1",
+      "title": "UNESCO — Masjed-e Jāmé of Isfahan",
+      "use": "Evoluzione della moschea, quattro iwan e innovazioni nelle cupole.",
+      "url": "https://whc.unesco.org/en/list/1397/"
+    },
+    {
+      "id": "IS2",
+      "title": "Encyclopaedia Iranica — Isfahan",
+      "use": "Storia urbana, Selgiuchidi, Mongoli e periodo timuride.",
+      "url": "https://iranicaonline.org/articles/isfahan-index"
+    },
+    {
+      "id": "IS3",
+      "title": "Archnet — Jami Masjid of Isfahan",
+      "use": "Fasi costruttive, planimetria e decorazione.",
+      "url": "https://www.archnet.org/sites/1621"
+    },
+    {
+      "id": "IS4",
+      "title": "Metropolitan Museum — Art of the Seljuqs of Iran",
+      "use": "Arte, architettura e cultura materiale selgiuchide.",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-seljuqs-of-iran-ca-1040-1196"
+    },
+    {
+      "id": "IS5",
+      "title": "UNESCO Silk Roads — Isfahan",
+      "use": "Ruolo urbano e commerciale nelle rotte iraniche.",
+      "url": "https://en.unesco.org/silkroad/content/isfahan"
+    }
+  ]
+}

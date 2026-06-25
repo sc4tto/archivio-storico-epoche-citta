@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Starčevo antico",
+    "Nuova occupazione Vinča",
+    "Crescita del tell",
+    "Fasi tarde e grandi edifici",
+    "Abbandono neolitico"
+  ],
+  "items": [
+    {
+      "id": "tell",
+      "label": "Accumulazione progressiva del tell",
+      "lane": "Trasformazione",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Case rettangolari in legno e argilla",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "streets",
+      "label": "Allineamenti e spazi di circolazione",
+      "lane": "Territorio",
+      "start": 2,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "ovens",
+      "label": "Focolari, forni e aree produttive",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "storage",
+      "label": "Stoccaggio domestico di derrate",
+      "lane": "Conservazione",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "figurines",
+      "label": "Figurine, ornamenti e pratiche rituali domestiche",
+      "lane": "Comunitarie",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "fires",
+      "label": "Distruzioni e ricostruzioni dopo incendi",
+      "lane": "Trasformazione",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

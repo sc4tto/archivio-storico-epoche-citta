@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "La Paz, rivoluzione nazionale e conurbazione altiplanica",
+    "site": "La Paz, rivoluzione nazionale e conurbazione altiplanica",
+    "modern_location": "La Paz–El Alto, Bolivia",
+    "coordinates": {
+      "lat": -16.4897,
+      "lon": -68.1193
+    },
+    "scope": "La Paz e l’altopiano urbano fra 1945 e 1970: Rivoluzione nazionale del 1952, nazionalizzazione delle miniere, riforma agraria, migrazione aymara e mineraria, crescita di El Alto, mercati, trasporti e servizi in una topografia fortemente diseguale.",
+    "version": "1.0",
+    "warning": "Sono esclusi la crescita autonoma di El Alto come città successiva, le crisi degli anni ottanta, le mobilitazioni del nuovo millennio e gli sviluppi posteriori al 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "LP1",
+      "title": "Universidad Mayor de San Andrés — Urbanización y crecimiento de La Paz y El Alto",
+      "use": "Espansione urbana, migrazione, topografia e formazione della conurbazione.",
+      "url": "https://repositorio.umsa.bo/bitstream/handle/123456789/25431/T-346.pdf?isAllowed=y&sequence=1"
+    },
+    {
+      "id": "LP2",
+      "title": "Banco Central de Bolivia — Historia económica de Bolivia",
+      "use": "Rivoluzione del 1952, nazionalizzazione mineraria, riforme e stabilizzazione.",
+      "url": "https://www.bcb.gob.bo/webdocs/publicacionesbcb/2025/10/09/historia_economica.pdf"
+    },
+    {
+      "id": "LP3",
+      "title": "Universidad Mayor de San Andrés — El movimiento fabril boliviano",
+      "use": "Lavoratori industriali, sindacati, milizie e conflitti politici.",
+      "url": "https://repositorio.umsa.bo/bitstream/handle/123456789/43419/T-209.pdf?isAllowed=y&sequence=1"
+    },
+    {
+      "id": "LP4",
+      "title": "Universidad Mayor de San Andrés — El problema de la vivienda en La Paz",
+      "use": "Deficit abitativo, lottizzazioni, autocostruzione e servizi urbani.",
+      "url": "https://repositorio.umsa.bo/xmlui/bitstream/handle/123456789/32852/TG%20-%204616.pdf?isAllowed=y&sequence=1"
+    }
+  ]
+}

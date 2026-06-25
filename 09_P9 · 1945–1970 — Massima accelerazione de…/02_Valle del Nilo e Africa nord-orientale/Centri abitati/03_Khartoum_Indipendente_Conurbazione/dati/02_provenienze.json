@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Khartoum",
+      "lat": 15.5007,
+      "lon": 32.5599,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "omd",
+      "label": "Omdurman",
+      "lat": 15.64,
+      "lon": 32.49,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "khn",
+      "label": "Khartoum North",
+      "lat": 15.63,
+      "lon": 32.55,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "gez",
+      "label": "Gezira irrigua",
+      "lat": 14.5,
+      "lon": 33.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "por",
+      "label": "Port Sudan e Mar Rosso",
+      "lat": 19.62,
+      "lon": 37.22,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "kas",
+      "label": "Kassala e oriente",
+      "lat": 15.45,
+      "lon": 36.4,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "whn",
+      "label": "Nilo Bianco e Sudan meridionale",
+      "lat": 12.0,
+      "lon": 31.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "omd",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ponti e traghetti",
+      "food": "mercati, bestiame, artigianato e lavoratori"
+    },
+    {
+      "source": "khn",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ponti e rete urbana",
+      "food": "industrie, ferrovia e magazzini"
+    },
+    {
+      "source": "gez",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e camion",
+      "food": "cotone, sorgo, ortaggi e arachidi"
+    },
+    {
+      "source": "por",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia verso il Mar Rosso",
+      "food": "merci importate e combustibili"
+    },
+    {
+      "source": "kas",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e strade",
+      "food": "sesamo, gomma arabica e bestiame"
+    },
+    {
+      "source": "whn",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Nilo e collegamenti terrestri",
+      "food": "bestiame, cereali e migranti"
+    }
+  ]
+}

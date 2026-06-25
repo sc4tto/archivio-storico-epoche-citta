@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Alessandria fu il principale porto mediterraneo dell’Egitto.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "AL1; AL2"
+  },
+  {
+    "claim": "Il cotone sostenne commercio, finanza e infrastrutture portuali.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "AL2; AL3"
+  },
+  {
+    "claim": "La città ebbe una popolazione cosmopolita e multilingue.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "AL1; AL2"
+  },
+  {
+    "claim": "Tranvie e ferrovie collegarono porto, centro e sobborghi.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "AL1; AL3"
+  },
+  {
+    "claim": "Epidemie favorirono investimenti sanitari e fognari.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "AL1; AL3"
+  },
+  {
+    "claim": "Le guerre mondiali rafforzarono la funzione militare del porto.",
+    "theme": "conflitti",
+    "status": "documentato",
+    "source": "AL2; AL3"
+  },
+  {
+    "claim": "Bombardamenti colpirono la città durante la Seconda guerra mondiale.",
+    "theme": "conflitti",
+    "status": "documentato",
+    "source": "AL2"
+  },
+  {
+    "claim": "Le nazionalizzazioni successive al 1952 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "AL2"
+  }
+]

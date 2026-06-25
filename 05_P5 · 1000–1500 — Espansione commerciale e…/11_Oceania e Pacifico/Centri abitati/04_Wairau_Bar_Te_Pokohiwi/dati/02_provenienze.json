@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Te Pokohiwi–Wairau Bar",
+      "lat": -41.51,
+      "lon": 174.09,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "lag",
+      "label": "Laguna di Wairau",
+      "lat": -41.48,
+      "lon": 174.07,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "kai",
+      "label": "Kaikōura",
+      "lat": -42.4,
+      "lon": 173.68,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "nel",
+      "label": "Nelson–D’Urville Island",
+      "lat": -41.05,
+      "lon": 173.9,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "west",
+      "label": "Costa occidentale e pounamu",
+      "lat": -42.45,
+      "lon": 170.8,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "tau",
+      "label": "Altopiano vulcanico dell’Isola del Nord",
+      "lat": -38.7,
+      "lon": 176.1,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "tah",
+      "label": "Tahanga–Coromandel",
+      "lat": -36.83,
+      "lon": 175.8,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "lag",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canoe e margini lagunari",
+      "food": "pesce, molluschi e acqua"
+    },
+    {
+      "source": "kai",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte costiere",
+      "food": "selce, fauna marina e contatti"
+    },
+    {
+      "source": "nel",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione e sentieri",
+      "food": "argillite per asce"
+    },
+    {
+      "source": "west",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "esplorazioni interregionali",
+      "food": "pounamu"
+    },
+    {
+      "source": "tau",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti a lunga distanza",
+      "food": "pomice e materiali vulcanici"
+    },
+    {
+      "source": "tah",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione lungo costa",
+      "food": "basalto per utensili"
+    }
+  ]
+}

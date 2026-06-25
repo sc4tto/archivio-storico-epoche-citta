@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Firenze comunale e rinascimentale",
+    "site": "Centro storico di Firenze",
+    "modern_location": "Firenze, Toscana, Italia",
+    "coordinates": {
+      "lat": 43.7696,
+      "lon": 11.2558
+    },
+    "scope": "Firenze fra 1000 e 1500: crescita comunale, arti e corporazioni, finanza, conflitti civici, peste, ascesa medicea e cantieri del primo Rinascimento.",
+    "version": "1.0",
+    "warning": "Il modulo include il Quattrocento ma non proietta all’indietro le trasformazioni granducali e barocche dei secoli successivi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "FI1",
+      "title": "UNESCO — Historic Centre of Florence",
+      "use": "Centro medievale, mura, cattedrale, palazzi e sviluppo rinascimentale.",
+      "url": "https://whc.unesco.org/en/list/174/"
+    },
+    {
+      "id": "FI2",
+      "title": "Comune di Firenze — Firenze Patrimonio Mondiale",
+      "use": "Gestione, storia urbana e patrimonio del centro storico.",
+      "url": "https://www.firenzepatrimoniomondiale.it/"
+    },
+    {
+      "id": "FI3",
+      "title": "Opera di Santa Maria del Fiore",
+      "use": "Cattedrale, battistero, campanile e cantieri monumentali.",
+      "url": "https://duomo.firenze.it/"
+    },
+    {
+      "id": "FI4",
+      "title": "Museo Nazionale del Bargello",
+      "use": "Scultura, arti civiche e cultura materiale fiorentina.",
+      "url": "https://bargellomusei.beniculturali.it/"
+    },
+    {
+      "id": "FI5",
+      "title": "Encyclopaedia Britannica — Florence",
+      "use": "Comune, arti, finanza, Medici e Rinascimento.",
+      "url": "https://www.britannica.com/place/Florence"
+    }
+  ]
+}

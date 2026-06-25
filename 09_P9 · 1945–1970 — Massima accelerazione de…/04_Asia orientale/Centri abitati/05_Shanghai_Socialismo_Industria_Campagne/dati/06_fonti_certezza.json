@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Nel 1949 Shanghai passò sotto l’amministrazione della Repubblica Popolare Cinese.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "SH1"
+  },
+  {
+    "claim": "Fra 1953 e 1956 imprese e proprietà furono trasformate verso il socialismo di Stato.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "SH2; SH3"
+  },
+  {
+    "claim": "Shanghai rimase un centro industriale decisivo nell’economia pianificata.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "SH1; SH2"
+  },
+  {
+    "claim": "Il sistema hukou limitò la migrazione rurale-urbana dalla fine degli anni Cinquanta.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "SH2"
+  },
+  {
+    "claim": "Grande balzo e Rivoluzione culturale produssero carenze, mobilitazioni e repressioni.",
+    "theme": "crisi",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Shanghai, trasformazione socialista e città industriale è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Guerra civile, espropriazione, controllo delle migrazioni, campagne politiche, repressioni, lavoro coercitivo e carestia aggravata dalle politiche statali sono descritti esplicitamente come processi violenti e non neutrali.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_57_P5_America_Settentrionale_5_Centri_v1",
+  "macroregion": "America settentrionale precoloniale e coloniale",
+  "centers": [
+    "01_Cahokia_Mississippiana",
+    "02_Moundville_Mississippiana",
+    "03_Etowah_Mounds",
+    "04_Chaco_Canyon_Maturo",
+    "05_Mesa_Verde_Cliff_Dwellings"
+  ],
+  "uses_central_assets": true
+}

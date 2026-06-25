@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Preistoria e Uruk",
+    "Bronzo antico",
+    "Periodo antico-assiro",
+    "Periodo medio-assiro",
+    "Transizione al I millennio"
+  ],
+  "items": [
+    {
+      "id": "ishtar",
+      "label": "Tempio e culto di Ishtar",
+      "lane": "Monumentali",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "kuyunjik",
+      "label": "Insediamento di Kuyunjik",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "yunus",
+      "label": "Area di Nebi Yunus",
+      "lane": "Amministrative",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "houses",
+      "label": "Quartieri domestici",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "workshops",
+      "label": "Laboratori e depositi",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "river",
+      "label": "Approdi e percorsi del Tigri",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "later",
+      "label": "Preparazione della futura capitale",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

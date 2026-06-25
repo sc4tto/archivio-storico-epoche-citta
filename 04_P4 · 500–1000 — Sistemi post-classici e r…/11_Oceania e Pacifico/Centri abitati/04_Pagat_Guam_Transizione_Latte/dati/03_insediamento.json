@@ -1,0 +1,74 @@
+{
+  "phases": [
+    "500–650",
+    "650–800",
+    "800–900",
+    "900–1000"
+  ],
+  "items": [
+    {
+      "id": "p1",
+      "label": "Abitati costieri pre-Latte",
+      "lane": "Abitato",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "p2",
+      "label": "Grotte e sorgenti come risorse del paesaggio",
+      "lane": "Insediamento",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "p3",
+      "label": "Pesca, orticoltura e raccolta",
+      "lane": "Sussistenza",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "p4",
+      "label": "Ceramica e utensili in pietra e conchiglia",
+      "lane": "Artigianato",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "p5",
+      "label": "Crescita di villaggi costieri",
+      "lane": "Urbanistica",
+      "start": 1,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "p6",
+      "label": "Prime trasformazioni verso il Latte",
+      "lane": "Costruzione",
+      "start": 2,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "p7",
+      "label": "Reti fra Guam, Rota e Saipan",
+      "lane": "Commercio",
+      "start": 1,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "p8",
+      "label": "Pieno sistema Latte dopo il 1000",
+      "lane": "Cronologia",
+      "start": 3,
+      "end": 3,
+      "status": "non_documentato"
+    }
+  ]
+}

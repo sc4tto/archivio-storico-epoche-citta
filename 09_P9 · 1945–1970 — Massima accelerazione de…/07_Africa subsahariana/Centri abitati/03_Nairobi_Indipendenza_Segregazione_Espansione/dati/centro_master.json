@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Nairobi, indipendenza, segregazione ed espansione",
+    "site": "Nairobi, indipendenza, segregazione ed espansione",
+    "modern_location": "Nairobi, Kenya",
+    "coordinates": {
+      "lat": -1.2921,
+      "lon": 36.8219
+    },
+    "scope": "Nairobi fra 1945 e 1970: piano coloniale del 1948, città razzialmente segregata, emergenza Mau Mau, quartieri operai e nuovi estates, indipendenza del Kenya nel 1963, africanizzazione amministrativa ed economica, migrazione rurale e rapido ampliamento verso est e nord-est.",
+    "version": "1.0",
+    "warning": "Sono esclusi l’espansione metropolitana tarda, gli insediamenti e le politiche successive al 1970 e le trasformazioni infrastrutturali recenti."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "NA1",
+      "title": "CODESRIA — Nairobi: Contemporary Urban Issues",
+      "use": "Pianificazione post-indipendenza, crescita, alloggio, trasporti e Nairobi Urban Study Group del 1967.",
+      "url": "https://publication.codesria.org/index.php/pub/catalog/download/92/679/1853?inline=1"
+    },
+    {
+      "id": "NA2",
+      "title": "RC21 — Urbanisation, Informality and Housing Challenge in Nairobi",
+      "use": "Piani del 1905, 1927 e 1948, segregazione residenziale e crescita informale.",
+      "url": "https://www.rc21.org/en/wp-content/uploads/2014/12/G2_Dennis-Mwaniki.pdf"
+    },
+    {
+      "id": "NA3",
+      "title": "African Minds — The Politics of Housing in (Post)colonial Africa",
+      "use": "Alloggio coloniale e postcoloniale, quartieri, razza, classe e cambiamenti dopo il 1963.",
+      "url": "https://www.africanminds.co.za/wp-content/uploads/2020/05/Politics_of_Housing_9783110598278_WEB.pdf"
+    },
+    {
+      "id": "NA4",
+      "title": "UN-Habitat — Regional Overview of Urban Planning in Anglophone Africa",
+      "use": "Governance, pianificazione, sviluppo urbano e continuità istituzionali.",
+      "url": "https://unhabitat.org/sites/default/files/2010/07/GRHS.2009.Regional.Anglophone.Africa.pdf"
+    }
+  ]
+}

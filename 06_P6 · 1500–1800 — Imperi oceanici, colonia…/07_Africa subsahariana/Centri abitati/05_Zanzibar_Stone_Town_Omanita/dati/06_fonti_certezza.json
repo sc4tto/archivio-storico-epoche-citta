@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Stone Town è un esempio di città commerciale swahili della costa orientale africana.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "ZA1"
+  },
+  {
+    "claim": "Il tessuto urbano riflette influenze africane, arabe, indiane ed europee.",
+    "theme": "cultura",
+    "status": "documentato",
+    "source": "ZA1"
+  },
+  {
+    "claim": "Pietra corallina, legno di mangrovia e malta di calce erano materiali caratteristici.",
+    "theme": "tecniche",
+    "status": "documentato",
+    "source": "ZA1; ZA3"
+  },
+  {
+    "claim": "La conquista omanita del 1698 trasformò il quadro politico dell’isola.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "ZA2"
+  },
+  {
+    "claim": "Il forte omanita fu costruito sul sito di precedenti strutture portoghesi.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "ZA1; ZA2"
+  },
+  {
+    "claim": "Il porto collegava coste africane, Arabia e India attraverso i monsoni.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "ZA1; ZA4"
+  },
+  {
+    "claim": "La tratta schiavistica regionale fu parte delle reti commerciali coercitive.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "ZA1; ZA5"
+  },
+  {
+    "claim": "Palazzi e apogeo sultanale ottocentesco sono esclusi.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "ZA1; ZA2"
+  }
+]

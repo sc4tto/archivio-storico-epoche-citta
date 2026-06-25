@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Chang’an Tang — modulo multi-grafo",
+    "short_name": "Chang’an Tang",
+    "site": "Daxing–Chang’an, capitale Sui e Tang",
+    "modern_location": "Xi’an, Shaanxi, Cina",
+    "coordinates": {
+      "lat": 34.3416,
+      "lon": 108.9398
+    },
+    "scope": "Capitale imperiale pianificata dei Sui e dei Tang fra VI e inizi del X secolo, centro della burocrazia, dei palazzi Taiji e Daming, dei mercati sorvegliati e del corridoio transasiatico della Via della Seta.",
+    "version": "1.0-blocco_40_p4_asia_orientale_5_centri_v1",
+    "warning": "Gran parte della capitale Tang è sepolta sotto la Xi’an moderna o nota attraverso scavi parziali e testi. Ricostruzioni di porte e palazzi non sono resti integri; cifre demografiche e immagini di una città totalmente cosmopolita vanno trattate come stime e sintesi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "CHA_UNESCO",
+      "title": "UNESCO — Silk Roads: Chang’an–Tianshan Corridor",
+      "url": "https://whc.unesco.org/en/list/1442/",
+      "use": "capitali, palazzi, scambi, religioni e infrastrutture della Via della Seta"
+    },
+    {
+      "id": "CHA_MET",
+      "title": "Metropolitan Museum — The Tang Dynasty",
+      "url": "https://www.metmuseum.org/toah/hd/tang/hd_tang.htm",
+      "use": "cultura materiale, corte e cosmopolitismo Tang"
+    },
+    {
+      "id": "CHA_IICC",
+      "title": "ICOMOS International Conservation Center Xi’an — Silk Roads",
+      "url": "https://www.iicc.org.cn/",
+      "use": "conservazione e interpretazione dei siti del corridoio"
+    }
+  ]
+}

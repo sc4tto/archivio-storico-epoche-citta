@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Tokyo imperiale e ricostruita",
+    "site": "Tokyo imperiale e ricostruita",
+    "modern_location": "Tokyo, Giappone",
+    "coordinates": {
+      "lat": 35.6762,
+      "lon": 139.6503
+    },
+    "scope": "Tokyo fra 1900 e 1945: capitale, porto della baia, industrie, università, tram e ferrovie suburbane, terremoto e incendi del 1923, ricostruzione, militarizzazione e bombardamenti finali.",
+    "version": "1.0",
+    "warning": "Il modulo termina nell’agosto 1945. Occupazione alleata, ricostruzione postbellica, Olimpiadi del 1964 e crescita metropolitana successiva sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "TO1",
+      "title": "Tokyo Metropolitan Government — History of Tokyo",
+      "use": "Storia amministrativa e sviluppo urbano della capitale.",
+      "url": "https://www.metro.tokyo.lg.jp/english/about/history/"
+    },
+    {
+      "id": "TO2",
+      "title": "National Diet Library — Great Kantō Earthquake",
+      "use": "Fonti digitali sul sisma del 1923 e la ricostruzione.",
+      "url": "https://www.ndl.go.jp/"
+    },
+    {
+      "id": "TO3",
+      "title": "Edo-Tokyo Museum",
+      "use": "Cultura urbana e trasformazioni di Tokyo.",
+      "url": "https://www.edo-tokyo-museum.or.jp/en/"
+    },
+    {
+      "id": "TO4",
+      "title": "Encyclopaedia Britannica — Tokyo",
+      "use": "Storia urbana e ruolo nazionale.",
+      "url": "https://www.britannica.com/place/Tokyo"
+    },
+    {
+      "id": "TO5",
+      "title": "Japan Center for Asian Historical Records",
+      "use": "Fonti amministrative, imperiali e militari.",
+      "url": "https://www.jacar.go.jp/english/"
+    }
+  ]
+}

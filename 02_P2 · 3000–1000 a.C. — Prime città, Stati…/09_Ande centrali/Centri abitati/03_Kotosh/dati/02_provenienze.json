@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Kotosh",
+      "lat": -9.929,
+      "lon": -76.239,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "higueras",
+      "label": "Valle dell’Higueras",
+      "lat": -9.92,
+      "lon": -76.25,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "huanuco",
+      "label": "Bacino di Huánuco",
+      "lat": -9.93,
+      "lon": -76.24,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "shillacoto",
+      "label": "Shillacoto",
+      "lat": -9.94,
+      "lon": -76.25,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "highlands",
+      "label": "Altopiani centrali",
+      "lat": -10.0,
+      "lon": -76.7,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "east",
+      "label": "Versante amazzonico",
+      "lat": -9.7,
+      "lon": -75.7,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "higueras",
+      "target": "site",
+      "label": "acqua, campi e pietra",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "huanuco",
+      "target": "site",
+      "label": "rete di insediamenti vallivi",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "shillacoto",
+      "target": "site",
+      "label": "tradizioni ceramiche e rituali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "highlands",
+      "target": "site",
+      "label": "camelidi e pietre",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "east",
+      "target": "site",
+      "label": "piante e beni orientali",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

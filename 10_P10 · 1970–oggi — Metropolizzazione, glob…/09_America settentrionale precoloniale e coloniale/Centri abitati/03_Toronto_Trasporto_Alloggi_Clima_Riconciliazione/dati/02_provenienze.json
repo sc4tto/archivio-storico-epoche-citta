@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Toronto",
+      "lat": 43.6532,
+      "lon": -79.3832,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "gb",
+      "label": "Greenbelt e Ontario meridionale",
+      "lat": 43.8,
+      "lon": -79.8,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "nia",
+      "label": "Niagara e penisola agricola",
+      "lat": 43.1,
+      "lon": -79.1,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "gl",
+      "label": "Grandi Laghi",
+      "lat": 44.0,
+      "lon": -80.5,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "qc",
+      "label": "Québec e corridoio Windsor–Montréal",
+      "lat": 45.0,
+      "lon": -76.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "us",
+      "label": "Midwest e Nord-est statunitense",
+      "lat": 42.0,
+      "lon": -83.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "glob",
+      "label": "Aeroporto Pearson e reti globali",
+      "lat": 43.68,
+      "lon": -79.63,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "gb",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "camion e mercati terminali",
+      "food": "verdure, latte, cereali e prodotti freschi"
+    },
+    {
+      "source": "nia",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "logistica regionale",
+      "food": "frutta, vino e prodotti orticoli"
+    },
+    {
+      "source": "gl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "pesca e trasporto regionale",
+      "food": "pesce e prodotti dei bacini lacustri"
+    },
+    {
+      "source": "qc",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e autostrade",
+      "food": "latticini, cereali e prodotti trasformati"
+    },
+    {
+      "source": "us",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoi continentali",
+      "food": "carni, prodotti confezionati e ingredienti"
+    },
+    {
+      "source": "glob",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cargo aereo e commercio",
+      "food": "spezie, riso, tè, caffè e alimenti diasporici"
+    }
+  ]
+}

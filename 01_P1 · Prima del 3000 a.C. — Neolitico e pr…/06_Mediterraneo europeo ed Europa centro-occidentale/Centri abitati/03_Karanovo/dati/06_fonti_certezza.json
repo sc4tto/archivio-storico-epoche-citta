@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Il tell di Karanovo conserva una lunga sequenza dal Neolitico all’Età del Bronzo",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "KARANOVO_III"
+  },
+  {
+    "claim": "La sequenza Karanovo è usata come riferimento cronologico per la preistoria balcanica",
+    "theme": "Metodo",
+    "status": "documentato",
+    "source": "KARANOVO_III"
+  },
+  {
+    "claim": "Le fasi neolitiche comprendevano abitazioni in terra e legno con forni e ceramica",
+    "theme": "Edilizia",
+    "status": "sintesi",
+    "source": "KARANOVO_III"
+  },
+  {
+    "claim": "Agricoltura e allevamento erano componenti centrali dell’economia",
+    "theme": "Alimentazione",
+    "status": "sintesi",
+    "source": "NAIM_BULGARIA"
+  },
+  {
+    "claim": "Le ricostruzioni successive produssero l’accumulo del tell",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "KARANOVO_III"
+  },
+  {
+    "claim": "Tutti i livelli ebbero la stessa organizzazione sociale",
+    "theme": "Società",
+    "status": "non_documentato",
+    "source": "La sequenza copre molti secoli"
+  },
+  {
+    "claim": "I segni su singoli oggetti costituiscono una scrittura decifrata",
+    "theme": "Scrittura",
+    "status": "non_documentato",
+    "source": "Interpretazione non dimostrata"
+  },
+  {
+    "claim": "La fine di ogni fase fu causata da invasione militare",
+    "theme": "Trasformazioni",
+    "status": "non_documentato",
+    "source": "Cause diverse e spesso incerte"
+  }
+]

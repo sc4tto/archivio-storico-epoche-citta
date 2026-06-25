@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Coxcatlán Cave — modulo multi-grafo",
+    "short_name": "Coxcatlán Cave",
+    "site": "Grotta di Coxcatlán",
+    "modern_location": "Valle di Tehuacán, Puebla, Messico",
+    "coordinates": {
+      "lat": 18.21,
+      "lon": -97.15
+    },
+    "scope": "Grotta con una lunga sequenza dell’Arcaico e numerose zone di occupazione, celebre per resti di piante domesticate e per la revisione cronologica delle prime fasi del mais, della zucca e di altre colture.",
+    "version": "1.0-blocco_09_p1_mesoamerica_5_centri_v1",
+    "warning": "La stratigrafia è complessa e in parte disturbata. Le datazioni dirette hanno corretto cronologie precedenti: il modulo non tratta tutte le associazioni fra reperti e livelli come automaticamente contemporanee."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "SMITH_COXCATLAN",
+      "title": "Smith — Reassessing Coxcatlan Cave and the early history of domesticated plants in Mesoamerica",
+      "url": "https://doi.org/10.1073/pnas.0503857102",
+      "use": "revisione cronologica, zone di occupazione e piante domesticate"
+    },
+    {
+      "id": "MACNEISH_TEHUACAN",
+      "title": "MacNeish (a cura di) — The Prehistory of the Tehuacán Valley",
+      "url": "https://search.worldcat.org/search?q=The+Prehistory+of+the+Tehuacan+Valley",
+      "use": "scavi, litica, fauna e sequenza culturale"
+    },
+    {
+      "id": "LONG_AMS",
+      "title": "Long et al. — First direct AMS dates on early maize from Tehuacán, Mexico",
+      "url": "https://doi.org/10.1017/S0033822200012379",
+      "use": "datazioni dirette dei resti di mais"
+    }
+  ]
+}

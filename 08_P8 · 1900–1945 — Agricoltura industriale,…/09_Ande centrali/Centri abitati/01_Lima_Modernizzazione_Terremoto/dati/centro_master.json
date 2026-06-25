@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Lima modernizzata, industriale e sismica",
+    "site": "Lima modernizzata, industriale e sismica",
+    "modern_location": "Lima, Perù",
+    "coordinates": {
+      "lat": -12.0464,
+      "lon": -77.0428
+    },
+    "scope": "Lima fra 1900 e 1945: tram elettrici, demolizione delle mura residue, viali, porto del Callao, Oncenio di Leguía, migrazioni interne, industria, sanità e terremoto del 1940.",
+    "version": "1.0",
+    "warning": "Sono escluse la grande espansione barriada del dopoguerra, le autostrade metropolitane e le trasformazioni successive al 1945."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "LI1",
+      "title": "UNESCO — Historic Centre of Lima",
+      "use": "Patrimonio urbano, architettura e sviluppo della capitale.",
+      "url": "https://whc.unesco.org/en/list/500/"
+    },
+    {
+      "id": "LI2",
+      "title": "Biblioteca Nacional del Perú — Biblioteca Digital",
+      "use": "Stampa, mappe e collezioni sulla Lima contemporanea.",
+      "url": "https://bibliotecadigital.bnp.gob.pe/"
+    },
+    {
+      "id": "LI3",
+      "title": "Archivo General de la Nación del Perú",
+      "use": "Fonti amministrative, urbane e sociali.",
+      "url": "https://www.agn.gob.pe/"
+    },
+    {
+      "id": "LI4",
+      "title": "Instituto Geofísico del Perú",
+      "use": "Sismicità e terremoto di Lima-Callao del 1940.",
+      "url": "https://www.igp.gob.pe/"
+    },
+    {
+      "id": "LI5",
+      "title": "Municipalidad Metropolitana de Lima — Prolima",
+      "use": "Patrimonio e storia del centro storico.",
+      "url": "https://www.munlima.gob.pe/prolima/"
+    }
+  ]
+}

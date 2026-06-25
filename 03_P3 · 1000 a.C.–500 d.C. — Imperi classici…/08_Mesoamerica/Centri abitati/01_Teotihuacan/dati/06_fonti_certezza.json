@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Teotihuacan fu una delle maggiori città antiche delle Americhe",
+    "theme": "Urbanismo",
+    "status": "documentato",
+    "source": "TEO_UNESCO"
+  },
+  {
+    "claim": "Il Viale dei Morti organizza il principale asse monumentale",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "TEO_UNESCO"
+  },
+  {
+    "claim": "La città comprendeva quartieri residenziali oltre al centro cerimoniale",
+    "theme": "Abitato",
+    "status": "documentato",
+    "source": "TEO_UNESCO"
+  },
+  {
+    "claim": "L’ossidiana di Pachuca alimentava produzioni specializzate",
+    "theme": "Economia",
+    "status": "documentato",
+    "source": "TEO_COWGILL"
+  },
+  {
+    "claim": "Conosciamo i nomi e la successione completa dei re di Teotihuacan",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Scrittura e titolature non decifrate come lista dinastica"
+  },
+  {
+    "claim": "Teotihuacan esercitò influenza artistica e politica fino all’area maya",
+    "theme": "Relazioni",
+    "status": "documentato",
+    "source": "TEO_UNESCO"
+  },
+  {
+    "claim": "Ogni parte visibile delle piramidi è una ricostruzione antica intatta",
+    "theme": "Conservazione",
+    "status": "non_documentato",
+    "source": "Interventi moderni documentati"
+  },
+  {
+    "claim": "La forma esatta del governo resta oggetto di dibattito",
+    "theme": "Politica",
+    "status": "sintesi",
+    "source": "TEO_COWGILL"
+  }
+]

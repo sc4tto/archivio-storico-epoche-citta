@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "s1",
+      "label": "Capitale del regno cristiano di Alodia",
+      "lane": "Politica",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "s2",
+      "label": "Chiese e grandi complessi in mattoni",
+      "lane": "Architettura",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s3",
+      "label": "Quartieri, strade e aree produttive",
+      "lane": "Urbanistica",
+      "start": 0,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "s4",
+      "label": "Agricoltura del Nilo Azzurro e mercati",
+      "lane": "Economia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "s5",
+      "label": "Rapporti con Nubia ed Etiopia",
+      "lane": "Reti",
+      "start": 0,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "s6",
+      "label": "Pressioni pastorali e trasformazioni regionali",
+      "lane": "Crisi",
+      "start": 3,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "s7",
+      "label": "Declino delle istituzioni alodiane",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "s8",
+      "label": "Abbandono e riuso dei materiali",
+      "lane": "Urbanistica",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

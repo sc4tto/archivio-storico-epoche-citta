@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Tebe",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Templi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Karnak",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Luxor",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Restauri greco-romani",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Scrittura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Geroglifico",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Demotico",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Greco e copto",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Sacerdozi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Calendari rituali",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Gestione fondiaria",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Gerarchie interne",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Necropoli",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Tombe e cappelle",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Riuso",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Pellegrinaggi",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Amministrazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Tassazione templare",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Archivi",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Popolazione urbana",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Cristianizzazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Chiese",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Monasteri",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Cronologia di ogni riuso",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

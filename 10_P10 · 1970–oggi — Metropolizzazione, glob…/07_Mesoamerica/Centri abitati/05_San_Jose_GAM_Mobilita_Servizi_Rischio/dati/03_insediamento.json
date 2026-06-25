@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1970–1979",
+    "1980–1989",
+    "1990–1999",
+    "2000–2009",
+    "2010–25 giugno 2026"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Espansione della Grande Area Metropolitana e motorizzazione",
+      "lane": "Insediamento",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Crescita dei servizi pubblici, finanziari, universitari e sanitari",
+      "lane": "Economia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Creazione di INCOFER nel 1985",
+      "lane": "Mobilità",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Contrazione ferroviaria e successiva riattivazione dei servizi pendolari",
+      "lane": "Mobilità",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Rinnovo del centro, regolazione urbana e nuove centralità periferiche",
+      "lane": "Pianificazione",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Congestione, dipendenza dall’automobile e frammentazione degli autobus",
+      "lane": "Mobilità",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Alluvioni, frane, sismi e rafforzamento della gestione del rischio",
+      "lane": "Rischio",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Finanziamento 2026 del Tren Eléctrico GAM, ancora progetto futuro",
+      "lane": "Pianificazione",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

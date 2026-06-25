@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Kaifeng–Bianzhou — modulo multi-grafo",
+    "short_name": "Kaifeng–Bianzhou",
+    "site": "Bianzhou e prima capitale delle Cinque Dinastie e dei Song",
+    "modern_location": "Kaifeng, Henan, Cina",
+    "coordinates": {
+      "lat": 34.7973,
+      "lon": 114.3076
+    },
+    "scope": "Centro sul sistema del Grande Canale, trasformato in grande nodo commerciale sotto i Tang e capitale di più dinastie dal 907; dal 960 fu capitale dei Song settentrionali, con espansione urbana, mercati e rifornimenti fluviali.",
+    "version": "1.0-blocco_40_p4_asia_orientale_5_centri_v1",
+    "warning": "La massima fioritura monumentale e commerciale dei Song proseguì dopo il 1000 e non va retrodatata integralmente. Inondazioni, ricostruzioni e città sovrapposte rendono difficile isolare il tessuto del P4; la Pagoda di Ferro del 1049 è fuori periodo."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "KAI_BRIT",
+      "title": "Encyclopaedia Britannica — Kaifeng",
+      "url": "https://www.britannica.com/place/Kaifeng",
+      "use": "storia urbana, capitale e reti fluviali"
+    },
+    {
+      "id": "KAI_MUSEUM",
+      "title": "Kaifeng Museum",
+      "url": "https://www.kfsbwg.com/",
+      "use": "reperti, storia locale e stratificazione urbana"
+    },
+    {
+      "id": "KAI_CAMBRIDGE",
+      "title": "The Cambridge History of China — Five Dynasties and Northern Song",
+      "url": "https://www.cambridge.org/core/series/cambridge-history-of-china/",
+      "use": "politica, economia e cronologia"
+    }
+  ]
+}

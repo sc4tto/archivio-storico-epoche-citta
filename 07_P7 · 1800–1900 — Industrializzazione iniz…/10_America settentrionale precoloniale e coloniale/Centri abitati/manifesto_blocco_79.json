@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_79_P7_America_Settentrionale_5_Centri_v1",
+  "macroregion": "America settentrionale precoloniale e coloniale",
+  "centers": [
+    "01_New_York_Portuale_Industriale_Immigrata",
+    "02_Chicago_Ferroviaria_Industriale_Ricostruita",
+    "03_Philadelphia_Industriale_Metropolitana",
+    "04_Boston_Industriale_Immigrata_Riformatrice",
+    "05_Montreal_Portuale_Industriale"
+  ],
+  "uses_central_assets": true
+}

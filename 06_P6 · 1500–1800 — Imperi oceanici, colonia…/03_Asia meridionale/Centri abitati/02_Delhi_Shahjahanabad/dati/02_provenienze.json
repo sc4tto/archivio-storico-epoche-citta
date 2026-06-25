@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Shahjahanabad",
+      "lat": 28.6562,
+      "lon": 77.241,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "yam",
+      "label": "Yamuna e Doab",
+      "lat": 28.72,
+      "lon": 77.28,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "har",
+      "label": "Haryana e Delhi rurale",
+      "lat": 28.55,
+      "lon": 76.95,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "agr",
+      "label": "Agra",
+      "lat": 27.18,
+      "lon": 78.01,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "lah",
+      "label": "Lahore e Punjab",
+      "lat": 31.52,
+      "lon": 74.36,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "kas",
+      "label": "Kashmir e Kabul",
+      "lat": 34.08,
+      "lon": 74.8,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "ben",
+      "label": "Bengala e porti orientali",
+      "lat": 23.8,
+      "lon": 90.4,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "yam",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiume, canali e strade",
+      "food": "cereali, ortaggi e pesce"
+    },
+    {
+      "source": "har",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "mercati rurali",
+      "food": "grano, bestiame e latticini"
+    },
+    {
+      "source": "agr",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strada imperiale",
+      "food": "riso, zucchero e manufatti"
+    },
+    {
+      "source": "lah",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "asse del Punjab",
+      "food": "cavalli, grano e tessili"
+    },
+    {
+      "source": "kas",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "passi e carovane",
+      "food": "frutta secca, zafferano e cavalli"
+    },
+    {
+      "source": "ben",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti gangetiche e mercantili",
+      "food": "riso, seta e zucchero"
+    }
+  ]
+}

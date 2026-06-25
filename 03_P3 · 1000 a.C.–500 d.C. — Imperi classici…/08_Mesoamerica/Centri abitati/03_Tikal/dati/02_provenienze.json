@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Tikal",
+      "lat": 17.222,
+      "lon": -89.6237,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "uaxactun",
+      "label": "Uaxactún",
+      "lat": 17.39,
+      "lon": -89.63,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "calakmul",
+      "label": "Calakmul",
+      "lat": 18.1,
+      "lon": -89.81,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "teot",
+      "label": "Teotihuacan",
+      "lat": 19.69,
+      "lon": -98.84,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "copan",
+      "label": "Copán",
+      "lat": 14.84,
+      "lon": -89.14,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "belize",
+      "label": "Caracol e Belize",
+      "lat": 16.76,
+      "lon": -89.12,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "uaxactun",
+      "target": "site",
+      "label": "rivalità, alleanze e scambi locali",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "calakmul",
+      "target": "site",
+      "label": "competizione dinastica e reti politiche",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "teot",
+      "target": "site",
+      "label": "persone, simboli e evento del 378",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "copan",
+      "target": "site",
+      "label": "legami dinastici e circolazione di élite",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "belize",
+      "target": "site",
+      "label": "selce, sale, cacao e reti regionali",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

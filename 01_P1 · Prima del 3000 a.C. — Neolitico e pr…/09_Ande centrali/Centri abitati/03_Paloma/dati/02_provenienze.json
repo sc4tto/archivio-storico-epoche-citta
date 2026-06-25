@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Paloma",
+      "lat": -12.52,
+      "lon": -76.75,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "coast",
+      "label": "Costa di Chilca",
+      "lat": -12.53,
+      "lon": -76.8,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "lomas",
+      "label": "Lomas e Quebrada de los Perdidos",
+      "lat": -12.5,
+      "lon": -76.73,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "river",
+      "label": "Valle del fiume Chilca",
+      "lat": -12.51,
+      "lon": -76.67,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "salinas",
+      "label": "Saline costiere",
+      "lat": -12.65,
+      "lon": -76.7,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "highlands",
+      "label": "Reti con gli altopiani",
+      "lat": -12.4,
+      "lon": -75.8,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "coast",
+      "target": "site",
+      "label": "pesce e molluschi",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "lomas",
+      "target": "site",
+      "label": "legname, frutti e selvaggina",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "river",
+      "target": "site",
+      "label": "acqua e piante vallive",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "salinas",
+      "target": "site",
+      "label": "sale per conservazione",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "highlands",
+      "target": "site",
+      "label": "ossidiana e beni esotici",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

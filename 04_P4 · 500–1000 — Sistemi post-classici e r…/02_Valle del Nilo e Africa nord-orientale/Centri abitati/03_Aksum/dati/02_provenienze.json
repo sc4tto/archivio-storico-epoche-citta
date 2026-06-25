@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Aksum",
+      "lat": 14.1211,
+      "lon": 38.725,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "adulis",
+      "label": "Adulis e costa del Mar Rosso",
+      "lat": 15.25,
+      "lon": 39.66,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "highlands",
+      "label": "Altopiano del Tigray",
+      "lat": 14.3,
+      "lon": 39.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "nubia",
+      "label": "Nubia e valle del Nilo",
+      "lat": 18.25,
+      "lon": 30.75,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "arabia",
+      "label": "Arabia meridionale",
+      "lat": 15.35,
+      "lon": 44.2,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "india",
+      "label": "Oceano Indiano",
+      "lat": 15.0,
+      "lon": 65.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "highlands",
+      "target": "site",
+      "label": "cereali, bestiame, pietra e legname",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "adulis",
+      "target": "site",
+      "label": "avorio, moneta, importazioni e traffici marittimi",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "nubia",
+      "target": "site",
+      "label": "oro, avorio e contatti politici",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "arabia",
+      "target": "site",
+      "label": "mercanti, testi e relazioni militari",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "india",
+      "target": "site",
+      "label": "beni di lusso via Mar Rosso",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

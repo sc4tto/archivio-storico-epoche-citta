@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Wari — fasi iniziali — modulo multi-grafo",
+    "short_name": "Wari — fasi iniziali",
+    "site": "Zona archeologica monumentale Wari",
+    "modern_location": "Ayacucho, Perù",
+    "coordinates": {
+      "lat": -13.061,
+      "lon": -74.224
+    },
+    "scope": "Insediamento del bacino di Ayacucho che tra IV e VI secolo avviò una forte crescita urbana e cerimoniale, anticipando lo Stato Wari del Medio Orizzonte con recinti murati, quartieri, templi, produzioni specializzate e reti regionali.",
+    "version": "1.0-blocco_34_p3_ande_centrali_5_centri_v1",
+    "warning": "La massima espansione della città e dello Stato Wari è posteriore al 500 d.C. Il modulo include soltanto le origini e la soglia di formazione; stime demografiche, cronologia dei quartieri e natura dell’espansione rimangono discusse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "WARI_MUSEUM",
+      "title": "Ministerio de Cultura — Museo de Sitio Wari",
+      "url": "https://museos.cultura.pe/museos/museo-de-sitio-wari",
+      "use": "collezioni, settori e tutela"
+    },
+    {
+      "id": "WARI_ISBELL",
+      "title": "William Isbell — Wari and Tiwanaku",
+      "url": "https://search.worldcat.org/search?q=Wari+Tiwanaku+Isbell",
+      "use": "urbanizzazione, religione e dibattiti"
+    },
+    {
+      "id": "WARI_JENNINGS",
+      "title": "Justin Jennings — Beyond Wari Walls",
+      "url": "https://search.worldcat.org/search?q=Beyond+Wari+Walls+Jennings",
+      "use": "reti, interazioni e formazione statale"
+    }
+  ]
+}

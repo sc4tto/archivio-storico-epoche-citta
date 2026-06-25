@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Calcutta fu capitale dell’India britannica fino al 1911.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "KO1; KO2"
+  },
+  {
+    "claim": "Il porto dell’Hooghly sostenne industria della juta e commercio globale.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "KO2; KO3"
+  },
+  {
+    "claim": "Il movimento swadeshi ebbe un forte centro urbano a Calcutta.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "KO1; KO4"
+  },
+  {
+    "claim": "Tram e ferrovie collegarono quartieri industriali e hinterland.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "KO2; KO3"
+  },
+  {
+    "claim": "Università, musei e stampa ampliarono la sfera pubblica urbana.",
+    "theme": "cultura",
+    "status": "documentato",
+    "source": "KO1; KO5"
+  },
+  {
+    "claim": "La carestia del Bengala del 1943 colpì duramente la città e i migranti rurali.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "KO2; KO4"
+  },
+  {
+    "claim": "Povertà e sovraffollamento caratterizzarono molti basti operai.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "KO2; KO4"
+  },
+  {
+    "claim": "La Partizione del 1947 è esclusa.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "KO2"
+  }
+]

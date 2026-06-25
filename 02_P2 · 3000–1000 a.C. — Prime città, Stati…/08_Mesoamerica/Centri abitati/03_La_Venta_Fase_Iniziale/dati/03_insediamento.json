@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Presenze precedenti",
+    "Occupazione iniziale",
+    "Prime piattaforme",
+    "Transizione verso il Formativo medio",
+    "Grande fioritura post-P2"
+  ],
+  "items": [
+    {
+      "id": "settle",
+      "label": "Insediamento sul rilievo",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "mounds",
+      "label": "Prime piattaforme di terra",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "axis",
+      "label": "Organizzazione assiale degli spazi",
+      "lane": "Pianificazione",
+      "start": 2,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "sculpt",
+      "label": "Produzione e arrivo di sculture",
+      "lane": "Artigianato",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "greenstone",
+      "label": "Circolazione di pietre verdi",
+      "lane": "Reti",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "complexa",
+      "label": "Sviluppo del Complesso A",
+      "lane": "Monumentali",
+      "start": 4,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "flourish",
+      "label": "Fioritura principale successiva",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

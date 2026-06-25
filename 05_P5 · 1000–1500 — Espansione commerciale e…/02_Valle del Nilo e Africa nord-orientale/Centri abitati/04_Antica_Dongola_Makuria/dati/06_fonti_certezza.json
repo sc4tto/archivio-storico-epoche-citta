@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Antica Dongola fu la capitale del regno cristiano di Makuria.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "DO1; DO2"
+  },
+  {
+    "claim": "La città comprendeva chiese, monasteri, palazzi e quartieri residenziali.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "DO1; DO2"
+  },
+  {
+    "claim": "Le pitture murali documentano élite regali e religiose nubiane.",
+    "theme": "arte",
+    "status": "documentato",
+    "source": "DO1; DO3"
+  },
+  {
+    "claim": "Il Nilo sosteneva agricoltura, mobilità e commercio.",
+    "theme": "ambiente",
+    "status": "documentato",
+    "source": "DO2; DO4"
+  },
+  {
+    "claim": "I rapporti con l’Egitto alternarono commercio, diplomazia e conflitto.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "DO3; DO4"
+  },
+  {
+    "claim": "La sala del trono fu convertita in moschea nel XIV secolo.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "DO1; DO2"
+  },
+  {
+    "claim": "L’islamizzazione fu un processo graduale e non un evento unico.",
+    "theme": "certezza",
+    "status": "sintesi",
+    "source": "DO2"
+  },
+  {
+    "claim": "Le fasi tarde trasformarono la città senza cancellarne subito tutte le istituzioni precedenti.",
+    "theme": "urbanistica",
+    "status": "sintesi",
+    "source": "DO2"
+  }
+]

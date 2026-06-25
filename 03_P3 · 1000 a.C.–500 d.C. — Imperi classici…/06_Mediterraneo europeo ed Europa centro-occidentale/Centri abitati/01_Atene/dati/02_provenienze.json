@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Atene",
+      "lat": 37.984,
+      "lon": 23.728,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "acro",
+      "label": "Acropoli",
+      "lat": 37.972,
+      "lon": 23.726,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "agora",
+      "label": "Agorà",
+      "lat": 37.975,
+      "lon": 23.722,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "piraeus",
+      "label": "Pireo",
+      "lat": 37.943,
+      "lon": 23.647,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "delos",
+      "label": "Delo ed Egeo",
+      "lat": 37.4,
+      "lon": 25.27,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "blacksea",
+      "label": "Mar Nero",
+      "lat": 42.0,
+      "lon": 29.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "acro",
+      "target": "site",
+      "label": "culto civico, tesori e monumentalità",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "agora",
+      "target": "site",
+      "label": "assemblee, tribunali, mercati e uffici",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "piraeus",
+      "target": "site",
+      "label": "grano, vino, merci e potenza navale",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "delos",
+      "target": "site",
+      "label": "tributi, pellegrinaggi e commercio egeo",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "blacksea",
+      "target": "site",
+      "label": "grano e rotte di lunga distanza",
+      "status": "sintesi",
+      "food": "sì"
+    }
+  ]
+}

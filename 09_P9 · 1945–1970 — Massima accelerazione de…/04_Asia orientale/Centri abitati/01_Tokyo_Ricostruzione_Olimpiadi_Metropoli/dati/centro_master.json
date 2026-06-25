@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Tokyo, ricostruzione e metropoli dell’alta crescita",
+    "site": "Tokyo, ricostruzione e metropoli dell’alta crescita",
+    "modern_location": "Tokyo, Giappone",
+    "coordinates": {
+      "lat": 35.6762,
+      "lon": 139.6503
+    },
+    "scope": "Tokyo fra 1945 e 1970: distruzione bellica, occupazione e democratizzazione, ricostruzione urbana, scarsità abitativa, crescita suburbana, alta crescita economica e trasformazioni legate ai Giochi olimpici del 1964.",
+    "version": "1.0",
+    "warning": "Sono esclusi la crisi petrolifera del 1973, la successiva riconversione industriale, le grandi politiche metropolitane tarde e le infrastrutture completate dopo il 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "TO1",
+      "title": "Tokyo Metropolitan Government — The History of Tokyo’s Development",
+      "use": "Cronologia della ricostruzione, pianificazione e infrastrutture urbane.",
+      "url": "https://www.toshiseibi.metro.tokyo.lg.jp/documents/d/toshiseibi/pdf_keikaku_chousa_singikai_pdf_tokyotoshizukuri_en_nenpyou"
+    },
+    {
+      "id": "TO2",
+      "title": "National Diet Library — Modern Japan in Archives: Chronological Table",
+      "use": "Occupazione, costituzione, riforme e contesto politico del dopoguerra.",
+      "url": "https://www.ndl.go.jp/modern/e/utility/chronology.html"
+    },
+    {
+      "id": "TO3",
+      "title": "Encyclopaedia Britannica — Tokyo",
+      "use": "Storia urbana, economia, trasporti e crescita metropolitana.",
+      "url": "https://www.britannica.com/place/Tokyo"
+    },
+    {
+      "id": "TO4",
+      "title": "Tokyo Metropolitan Government — A Timeline of Edo Josui and Tokyo Waterworks",
+      "use": "Sviluppo dell’approvvigionamento idrico e dei servizi metropolitani.",
+      "url": "https://www.seisakukikaku.metro.tokyo.lg.jp/documents/d/seisakukikaku/1212-05-suidou-e"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1500–1560",
+    "1560–1620",
+    "1620–1680",
+    "1680–1740",
+    "1740–1800"
+  ],
+  "items": [
+    {
+      "id": "bg1",
+      "label": "Controllo safavide e conquista ottomana del 1534",
+      "lane": "Politica",
+      "start": 0,
+      "end": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "bg2",
+      "label": "Consolidamento come capitale provinciale ottomana",
+      "lane": "Amministrazione",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "bg3",
+      "label": "Occupazione safavide 1624–1638",
+      "lane": "Politica",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "bg4",
+      "label": "Riconquista ottomana e ricostruzione delle difese",
+      "lane": "Costruzione",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "bg5",
+      "label": "Mercati, ponti di barche e traffico sul Tigri",
+      "lane": "Economia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "bg6",
+      "label": "Epidemie e crisi della rete irrigua",
+      "lane": "Rischi",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "bg7",
+      "label": "Santuari e pluralità religiosa urbana",
+      "lane": "Religione",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "bg8",
+      "label": "Ripresa sotto i governatori mamelucchi",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

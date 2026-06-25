@@ -1,0 +1,318 @@
+{
+  "nodes": [
+    {
+      "id": "t0",
+      "label": "Campi rialzati del bacino",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t1",
+      "label": "Terrazze e pendii dell’altopiano",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t2",
+      "label": "Lago Titicaca e zone umide",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t3",
+      "label": "Valli colonizzate a quote inferiori",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "r0",
+      "label": "Patate, quinoa e cañihua",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r1",
+      "label": "Mais e peperoncini vallivi",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r2",
+      "label": "Camelidi, pesce e uccelli acquatici",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r3",
+      "label": "Foglie di coca e frutti tropicali",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "a0",
+      "label": "Coltivazione su sukakollos",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a1",
+      "label": "Carovane di lama",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a2",
+      "label": "Pesca, raccolta e allevamento",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a3",
+      "label": "Redistribuzione cerimoniale",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "x0",
+      "label": "Essiccazione e liofilizzazione",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x1",
+      "label": "Macinazione e bollitura",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x2",
+      "label": "Fermentazione di bevande",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x3",
+      "label": "Stoccaggio e trasporto",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "p0",
+      "label": "Chuño, quinoa e zuppe",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "p1",
+      "label": "Mais e chicha",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "p2",
+      "label": "Carne, pesce e charqui",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "p3",
+      "label": "Beni per feste e pellegrinaggi",
+      "layer": 4,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "t0",
+      "target": "r0",
+      "status": "documentato",
+      "label": "I campi rialzati producevano patate, quinoa e cañihua."
+    },
+    {
+      "source": "t1",
+      "target": "r0",
+      "status": "documentato",
+      "label": "Terrazze e pendii sostenevano colture d’altura."
+    },
+    {
+      "source": "t1",
+      "target": "r2",
+      "status": "documentato",
+      "label": "L’altopiano offriva pascoli per i camelidi."
+    },
+    {
+      "source": "t2",
+      "target": "r2",
+      "status": "documentato",
+      "label": "Il lago e le zone umide fornivano pesce e uccelli acquatici."
+    },
+    {
+      "source": "t3",
+      "target": "r1",
+      "status": "documentato",
+      "label": "Le valli più basse fornivano mais e peperoncini."
+    },
+    {
+      "source": "t3",
+      "target": "r3",
+      "status": "sintesi",
+      "label": "Le colonie vallive potevano fornire coca e frutti tropicali."
+    },
+    {
+      "source": "r0",
+      "target": "a0",
+      "status": "documentato",
+      "label": "Patate e quinoa erano coltivate sui sukakollos."
+    },
+    {
+      "source": "r0",
+      "target": "a3",
+      "status": "sintesi",
+      "label": "Parte dei raccolti alimentava la redistribuzione cerimoniale."
+    },
+    {
+      "source": "r1",
+      "target": "a1",
+      "status": "documentato",
+      "label": "Mais e peperoncini giungevano tramite carovane dalle valli."
+    },
+    {
+      "source": "r1",
+      "target": "a3",
+      "status": "sintesi",
+      "label": "Il mais era concentrato per feste e cerimonie."
+    },
+    {
+      "source": "r2",
+      "target": "a2",
+      "status": "documentato",
+      "label": "Camelidi, pesce e uccelli derivavano da allevamento, pesca e raccolta."
+    },
+    {
+      "source": "r2",
+      "target": "a1",
+      "status": "documentato",
+      "label": "I camelidi sostenevano il trasporto carovaniero."
+    },
+    {
+      "source": "r3",
+      "target": "a1",
+      "status": "sintesi",
+      "label": "Coca e frutti tropicali erano trasportati da carovane."
+    },
+    {
+      "source": "r3",
+      "target": "a3",
+      "status": "sintesi",
+      "label": "I beni tropicali potevano essere redistribuiti in contesti rituali."
+    },
+    {
+      "source": "a0",
+      "target": "x0",
+      "status": "documentato",
+      "label": "Le colture d’altura erano essiccate o trasformate in chuño."
+    },
+    {
+      "source": "a0",
+      "target": "x1",
+      "status": "documentato",
+      "label": "Quinoa e tuberi erano macinati e bolliti."
+    },
+    {
+      "source": "a1",
+      "target": "x3",
+      "status": "documentato",
+      "label": "Le carovane assicuravano trasporto e stoccaggio."
+    },
+    {
+      "source": "a1",
+      "target": "x1",
+      "status": "documentato",
+      "label": "Il mais vallivo era macinato e bollito."
+    },
+    {
+      "source": "a2",
+      "target": "x0",
+      "status": "documentato",
+      "label": "Carne e pesce potevano essere essiccati."
+    },
+    {
+      "source": "a2",
+      "target": "x1",
+      "status": "documentato",
+      "label": "Pesce e carne erano anche bolliti o cotti."
+    },
+    {
+      "source": "a3",
+      "target": "x2",
+      "status": "sintesi",
+      "label": "La redistribuzione cerimoniale alimentava la fermentazione di bevande."
+    },
+    {
+      "source": "a3",
+      "target": "x3",
+      "status": "documentato",
+      "label": "La redistribuzione richiedeva depositi e trasporto."
+    },
+    {
+      "source": "x0",
+      "target": "p0",
+      "status": "documentato",
+      "label": "Essiccazione e liofilizzazione producevano chuño e scorte."
+    },
+    {
+      "source": "x0",
+      "target": "p2",
+      "status": "documentato",
+      "label": "L’essiccazione produceva carne e charqui."
+    },
+    {
+      "source": "x1",
+      "target": "p0",
+      "status": "documentato",
+      "label": "Macinazione e bollitura producevano quinoa, zuppe e preparazioni di tuberi."
+    },
+    {
+      "source": "x1",
+      "target": "p1",
+      "status": "documentato",
+      "label": "Il mais bollito o macinato contribuiva a pasti e bevande."
+    },
+    {
+      "source": "x1",
+      "target": "p2",
+      "status": "documentato",
+      "label": "Carne e pesce erano consumati anche cotti."
+    },
+    {
+      "source": "x2",
+      "target": "p1",
+      "status": "documentato",
+      "label": "La fermentazione produceva chicha di mais."
+    },
+    {
+      "source": "x2",
+      "target": "p3",
+      "status": "sintesi",
+      "label": "Le bevande fermentate erano distribuite durante feste e pellegrinaggi."
+    },
+    {
+      "source": "x3",
+      "target": "p0",
+      "status": "documentato",
+      "label": "Lo stoccaggio conservava tuberi e quinoa."
+    },
+    {
+      "source": "x3",
+      "target": "p2",
+      "status": "documentato",
+      "label": "Lo stoccaggio conservava carne e pesce essiccati."
+    },
+    {
+      "source": "x3",
+      "target": "p3",
+      "status": "documentato",
+      "label": "Trasporto e depositi sostenevano feste e pellegrinaggi."
+    }
+  ]
+}

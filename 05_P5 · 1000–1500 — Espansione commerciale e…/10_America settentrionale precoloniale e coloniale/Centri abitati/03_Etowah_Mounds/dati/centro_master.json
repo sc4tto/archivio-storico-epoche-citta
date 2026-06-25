@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Etowah Mounds mississippiana",
+    "site": "Etowah Indian Mounds",
+    "modern_location": "Cartersville, Georgia, Stati Uniti",
+    "coordinates": {
+      "lat": 34.1278,
+      "lon": -84.8066
+    },
+    "scope": "Etowah fra 1000 e 1500, con attenzione alle principali fasi mississippiane, alla costruzione dei tumuli, alle difese e alla produzione artistica.",
+    "version": "1.0",
+    "warning": "Il sito continuò oltre il 1500; le fasi del XVI secolo sono escluse. Le attribuzioni sociali degli oggetti funerari sono formulate in termini archeologici."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "ET1",
+      "title": "Georgia State Parks — Etowah Indian Mounds",
+      "use": "Descrizione ufficiale di tumuli, piazza, villaggio, fossato e cronologia generale.",
+      "url": "https://gastateparks.org/EtowahIndianMounds"
+    },
+    {
+      "id": "ET2",
+      "title": "New Georgia Encyclopedia — Etowah Mounds",
+      "use": "Cronologia, cultura materiale e organizzazione del sito.",
+      "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/etowah-mounds/"
+    },
+    {
+      "id": "ET3",
+      "title": "National Park Service — Etowah Mounds",
+      "use": "Inquadramento storico-archeologico e tutela del sito.",
+      "url": "https://www.nps.gov/places/etowah-indian-mounds.htm"
+    },
+    {
+      "id": "ET4",
+      "title": "Smithsonian — Mississippian Culture",
+      "use": "Iconografia, oggetti di prestigio e reti culturali.",
+      "url": "https://naturalhistory.si.edu/education/teaching-resources/anthropology-and-social-studies/mississippian-culture"
+    },
+    {
+      "id": "ET5",
+      "title": "National Park Service — Southeastern Prehistory",
+      "use": "Quadro delle società mississippiane.",
+      "url": "https://www.nps.gov/articles/000/southeastern-prehistory-mississippian-and-late-prehistoric-period.htm"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Roma",
+      "lat": 41.8933,
+      "lon": 12.4829,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "tiber",
+      "label": "Tevere urbano",
+      "lat": 41.89,
+      "lon": 12.47,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "campagna",
+      "label": "Campagna romana",
+      "lat": 41.79,
+      "lon": 12.7,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "ostia",
+      "label": "Ostia e Portus",
+      "lat": 41.75,
+      "lon": 12.27,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "sabina",
+      "label": "Sabina e valle dell’Aniene",
+      "lat": 42.1,
+      "lon": 12.72,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "sicily",
+      "label": "Sicilia e Tirreno",
+      "lat": 37.6,
+      "lon": 14.0,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "francia",
+      "label": "Regni franchi e vie alpine",
+      "lat": 46.0,
+      "lon": 8.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "tiber",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "trasporto e mulini",
+      "food": "acqua, pesce e merci"
+    },
+    {
+      "source": "campagna",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "patrimoni e mercati",
+      "food": "grano, vino e bestiame"
+    },
+    {
+      "source": "ostia",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "via fluviale e costiera",
+      "food": "sale e merci"
+    },
+    {
+      "source": "sabina",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e proprietà ecclesiastiche",
+      "food": "olio, vino e legname"
+    },
+    {
+      "source": "sicily",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "rifornimenti mediterranei variabili",
+      "food": "grano e olio"
+    },
+    {
+      "source": "francia",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "pellegrinaggi e diplomazia",
+      "food": "persone, doni e metalli"
+    }
+  ]
+}

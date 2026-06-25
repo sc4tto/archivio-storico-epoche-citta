@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Saigon, guerra, rifugiati e capitale militarizzata",
+    "site": "Saigon, guerra, rifugiati e capitale militarizzata",
+    "modern_location": "Ho Chi Minh City, Vietnam",
+    "coordinates": {
+      "lat": 10.8231,
+      "lon": 106.6297
+    },
+    "scope": "Saigon fra 1945 e 1970: ritorno coloniale francese e guerra d’Indocina, divisione del Vietnam nel 1954, afflusso di rifugiati dal Nord, capitale della Repubblica del Vietnam, crescita trainata dalla guerra, sfollamento rurale, autoritarismo e offensiva del Têt del 1968.",
+    "version": "1.0",
+    "warning": "Sono esclusi la caduta di Saigon e la riunificazione del 1975, la rinominazione in Ho Chi Minh City del 1976, le riforme economiche successive e gli sviluppi dopo il 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SA1",
+      "title": "Michigan State University Vietnam Project Archive — Public Administration in the Saigon Metropolitan Area",
+      "use": "Popolazione, amministrazione, urbanizzazione e servizi nella Saigon dei primi anni Sessanta.",
+      "url": "https://vietnamproject.archives.msu.edu/recordFiles/159-547-3742/UA17-95_000585.pdf"
+    },
+    {
+      "id": "SA2",
+      "title": "Diplomatic History — Refugee Resettlement in South Vietnam, 1954–1956",
+      "use": "Migrazione dal Nord, reinsediamento e limiti delle politiche statali e statunitensi.",
+      "url": "https://academic.oup.com/dh/article-pdf/38/5/987/1386183/dht119.pdf"
+    },
+    {
+      "id": "SA3",
+      "title": "U.S. National Archives — Vietnam War Records",
+      "use": "Fonti primarie sul conflitto, amministrazione e presenza militare statunitense.",
+      "url": "https://www.archives.gov/research/vietnam-war"
+    },
+    {
+      "id": "SA4",
+      "title": "University of California, Irvine — Global War City: Traces of the Militarized Past in Saigon",
+      "use": "Militarizzazione urbana, economia di guerra e memoria spaziale.",
+      "url": "https://faculty.sites.uci.edu/longbui/files/2018/10/Bui-global-war-cities.pdf"
+    }
+  ]
+}

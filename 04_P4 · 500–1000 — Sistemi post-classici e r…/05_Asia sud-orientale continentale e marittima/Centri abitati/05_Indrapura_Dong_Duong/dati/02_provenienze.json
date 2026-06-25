@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "c",
+      "label": "Indrapura–Đồng Dương",
+      "lat": 15.66,
+      "lon": 108.37,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -20
+    },
+    {
+      "id": "thu",
+      "label": "Sistema Thu Bồn–Vu Gia",
+      "lat": 15.8,
+      "lon": 108.25,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "myson",
+      "label": "Mỹ Sơn",
+      "lat": 15.77,
+      "lon": 108.12,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "traki",
+      "label": "Trà Kiệu",
+      "lat": 15.82,
+      "lon": 108.25,
+      "status": "sintesi",
+      "kind": "locale"
+    },
+    {
+      "id": "costa",
+      "label": "Costa di Quảng Nam",
+      "lat": 15.88,
+      "lon": 108.36,
+      "status": "sintesi",
+      "kind": "locale"
+    },
+    {
+      "id": "java",
+      "label": "Java e arcipelago",
+      "lat": -7.5,
+      "lon": 110.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "cina",
+      "label": "Cina meridionale",
+      "lat": 23.1,
+      "lon": 113.3,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "thu",
+      "target": "c",
+      "status": "documentato",
+      "label": "corridoio fluviale",
+      "food": "riso, persone e materiali"
+    },
+    {
+      "source": "myson",
+      "target": "c",
+      "status": "documentato",
+      "label": "rete religiosa e dinastica",
+      "food": "rituali e artigiani"
+    },
+    {
+      "source": "traki",
+      "target": "c",
+      "status": "sintesi",
+      "label": "continuità territoriale",
+      "food": "tributi e mercati"
+    },
+    {
+      "source": "costa",
+      "target": "c",
+      "status": "sintesi",
+      "label": "accesso marittimo",
+      "food": "merci e viaggiatori"
+    },
+    {
+      "source": "java",
+      "target": "c",
+      "status": "documentato",
+      "label": "pellegrinaggi e contatti",
+      "food": "idee buddhiste e beni"
+    },
+    {
+      "source": "cina",
+      "target": "c",
+      "status": "documentato",
+      "label": "diplomazia e commercio",
+      "food": "ceramiche e testi"
+    }
+  ]
+}

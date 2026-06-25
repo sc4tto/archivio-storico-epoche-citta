@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Ban Chiang fu occupata da comunità agricole sedentarie",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "BC_UNESCO"
+  },
+  {
+    "claim": "Sono documentati riso, animali domestici, ceramica e bronzo",
+    "theme": "Economia",
+    "status": "documentato",
+    "source": "BC_UNESCO"
+  },
+  {
+    "claim": "Le sepolture mostrano cambiamenti nei corredi",
+    "theme": "Società",
+    "status": "documentato",
+    "source": "BC_PENN"
+  },
+  {
+    "claim": "La metallurgia appartiene soprattutto alle fasi tarde del II millennio a.C.",
+    "theme": "Cronologia",
+    "status": "sintesi",
+    "source": "BC_METAL"
+  },
+  {
+    "claim": "La ceramica dipinta rossa caratterizza tutte le fasi più antiche",
+    "theme": "Ceramica",
+    "status": "non_documentato",
+    "source": "Stili differenziati nel tempo"
+  },
+  {
+    "claim": "Ban Chiang fu una capitale territoriale",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Villaggio senza Stato dimostrato"
+  },
+  {
+    "claim": "Le date del V millennio a.C. sono universalmente accettate",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Cronologia rivista"
+  },
+  {
+    "claim": "Ogni bronzo fu prodotto localmente",
+    "theme": "Metallurgia",
+    "status": "non_documentato",
+    "source": "Produzione e circolazione entrambe possibili"
+  }
+]

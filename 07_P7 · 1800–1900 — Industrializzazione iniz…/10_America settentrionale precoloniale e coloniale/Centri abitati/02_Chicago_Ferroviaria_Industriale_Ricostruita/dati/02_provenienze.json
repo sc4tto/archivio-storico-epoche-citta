@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Chicago",
+      "lat": 41.8781,
+      "lon": -87.6298,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "ill",
+      "label": "Prairies dell’Illinois",
+      "lat": 40.5,
+      "lon": -89.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "lak",
+      "label": "Lake Michigan",
+      "lat": 43.0,
+      "lon": -87.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "ind",
+      "label": "Indiana e cintura agricola",
+      "lat": 40.0,
+      "lon": -86.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "wes",
+      "label": "Great Plains e West",
+      "lat": 42.0,
+      "lon": -100.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "sou",
+      "label": "Mississippi Valley e South",
+      "lat": 35.0,
+      "lon": -90.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "atl",
+      "label": "East Coast ed Europa",
+      "lat": 42.0,
+      "lon": -75.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "ill",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e ferrovie",
+      "food": "grano, mais, latticini e bestiame"
+    },
+    {
+      "source": "lak",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Great Lakes shipping",
+      "food": "pesce, legname, minerale e navigazione"
+    },
+    {
+      "source": "ind",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie regionali",
+      "food": "carbone, cereali e manufatti"
+    },
+    {
+      "source": "wes",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "linee ferroviarie transcontinentali",
+      "food": "bovini, grano e materie prime"
+    },
+    {
+      "source": "sou",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Mississippi e ferrovie",
+      "food": "cotone, legname e derrate"
+    },
+    {
+      "source": "atl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie orientali e porti atlantici",
+      "food": "immigrati, capitali, macchinari e merci"
+    }
+  ]
+}

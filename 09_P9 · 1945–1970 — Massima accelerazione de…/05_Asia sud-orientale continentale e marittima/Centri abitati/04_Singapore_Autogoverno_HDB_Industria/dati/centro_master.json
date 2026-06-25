@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Singapore, autogoverno, edilizia pubblica e industrializzazione",
+    "site": "Singapore, autogoverno, edilizia pubblica e industrializzazione",
+    "modern_location": "Singapore",
+    "coordinates": {
+      "lat": 1.3521,
+      "lon": 103.8198
+    },
+    "scope": "Singapore fra 1945 e 1970: ritorno dell’amministrazione britannica, decolonizzazione, autogoverno nel 1959, unione con la Malaysia e indipendenza nel 1965, crisi abitativa, HDB, industrializzazione di Jurong, urban renewal e porto.",
+    "version": "1.0",
+    "warning": "Sono esclusi il Concept Plan del 1971, la creazione dell’URA nel 1974, le nuove città e metropolitane successive e gli sviluppi oltre il 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SI1",
+      "title": "Housing & Development Board — Our History",
+      "use": "Crisi abitativa, istituzione dell’HDB nel 1960 e prime campagne edilizie.",
+      "url": "https://www.hdb.gov.sg/about-us/our-story/our-history"
+    },
+    {
+      "id": "SI2",
+      "title": "National Archives of Singapore — Singapore Street Scenes, 1960",
+      "use": "Urban renewal, piano del 1958 e trasformazioni del dopoguerra.",
+      "url": "https://corporate.nas.gov.sg/media/collections-and-research/singapore-street-scenes/"
+    },
+    {
+      "id": "SI3",
+      "title": "National Archives of Singapore — Housing and Development Board, Administrative History",
+      "use": "Origini istituzionali dell’HDB e passaggio dal Singapore Improvement Trust.",
+      "url": "https://www.nas.gov.sg/archivesonline/government_records/agency-details/36"
+    },
+    {
+      "id": "SI4",
+      "title": "National Library Board — Singapore from Self-rule to Independence, 1959–1965",
+      "use": "Autogoverno, unione con la Malaysia e indipendenza.",
+      "url": "https://biblioasia.nlb.gov.sg/all-sections/book-there-was-a-time-singapore-from-self-rule-to-independence-1959-1965/"
+    }
+  ]
+}

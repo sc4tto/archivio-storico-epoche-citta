@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Rano Raraku",
+      "lat": -27.1258,
+      "lon": -109.2767,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "ton",
+      "label": "Ahu Tongariki",
+      "lat": -27.125,
+      "lon": -109.276,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "ana",
+      "label": "Anakena",
+      "lat": -27.073,
+      "lon": -109.323,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "kau",
+      "label": "Rano Kau",
+      "lat": -27.186,
+      "lon": -109.437,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "tere",
+      "label": "Terevaka",
+      "lat": -27.091,
+      "lon": -109.379,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "motu",
+      "label": "Motu Nui",
+      "lat": -27.202,
+      "lon": -109.452,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "pit",
+      "label": "Pitcairn e Mangareva",
+      "lat": -24.37,
+      "lon": -128.32,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "ton",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "vie di trasporto terrestre",
+      "food": "moai e squadre di lavoro"
+    },
+    {
+      "source": "ana",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sentieri interni",
+      "food": "derrate, pietra e persone"
+    },
+    {
+      "source": "kau",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti dell’isola",
+      "food": "acqua, basalto e prodotti agricoli"
+    },
+    {
+      "source": "tere",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "percorsi su suoli vulcanici",
+      "food": "pietra, legna e colture"
+    },
+    {
+      "source": "motu",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "navigazione costiera",
+      "food": "uccelli, pesce e ritualità"
+    },
+    {
+      "source": "pit",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "memoria di connessioni polinesiane",
+      "food": "piante, tecnologie e antenati"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Addis Abeba presenta una forte domanda abitativa e una vasta presenza di insediamenti informali.",
+    "theme": "abitazione",
+    "status": "documentato",
+    "source": "AD1"
+  },
+  {
+    "claim": "La strategia urbana della Banca Mondiale collega inclusività, connettività e resilienza.",
+    "theme": "pianificazione",
+    "status": "documentato",
+    "source": "AD2"
+  },
+  {
+    "claim": "Il programma dei condomini e l’espansione stradale hanno modificato forma e densità urbane.",
+    "theme": "trasformazione",
+    "status": "documentato",
+    "source": "AD3"
+  },
+  {
+    "claim": "La light rail è entrata in servizio nel 2015 come investimento di trasporto collettivo.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "AD3"
+  },
+  {
+    "claim": "I progetti di trasporto richiedono procedure di compensazione e ricollocazione per le persone colpite.",
+    "theme": "diritti",
+    "status": "documentato",
+    "source": "AD4"
+  },
+  {
+    "claim": "Addis Abeba, crescita, condomini, mobilità e trasformazione è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Espropri, demolizioni, ricollocazioni e subordinazione delle comunità Oromo non sono trattati come costi inevitabili della modernizzazione; residenti kebele, venditori informali e persone trasferite sono soggetti con diritti fondiari, abitativi e politici.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

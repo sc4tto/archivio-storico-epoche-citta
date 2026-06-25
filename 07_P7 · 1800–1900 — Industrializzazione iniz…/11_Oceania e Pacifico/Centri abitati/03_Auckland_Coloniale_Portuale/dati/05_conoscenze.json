@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Auckland coloniale e portuale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Porto e trasporti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Banchine, strade, ferrovie e linee a vapore",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Dogane, magazzini e mercati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Urbanistica coloniale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Lotti, griglie e riempimenti costieri",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Servizi idrici, sanità e polizia urbana",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Economia e lavoro",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "porto, kauri, gum, commercio e servizi coloniali",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Lavoro salariato, vincolato o coatto",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Popolazioni indigene",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "mana whenua, Tāmaki Makaurau e alienazioni fondiarie",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Espropriazione, resistenza e continuità culturale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Rischi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "incendi, malattie, crisi economiche e conflitti coloniali",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Epidemie, incendi, siccità e sviluppo diseguale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

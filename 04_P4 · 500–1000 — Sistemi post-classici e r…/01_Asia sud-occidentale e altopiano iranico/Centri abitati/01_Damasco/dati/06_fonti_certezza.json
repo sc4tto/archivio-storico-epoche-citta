@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Damasco fu capitale del califfato omayyade",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "DAM_UNESCO"
+  },
+  {
+    "claim": "La Grande Moschea fu costruita all’inizio dell’VIII secolo",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "DAM_UNESCO"
+  },
+  {
+    "claim": "Il tessuto urbano conserva l’impronta della griglia greco-romana",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "DAM_UNESCO"
+  },
+  {
+    "claim": "La Ghouta sosteneva l’approvvigionamento urbano",
+    "theme": "Ambiente",
+    "status": "documentato",
+    "source": "DAM_BURNS"
+  },
+  {
+    "claim": "Comunità cristiane continuarono a vivere nella città islamica",
+    "theme": "Religione",
+    "status": "documentato",
+    "source": "DAM_UNESCO"
+  },
+  {
+    "claim": "Tutti i monumenti visibili risalgono agli Omayyadi",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Molti edifici sono posteriori"
+  },
+  {
+    "claim": "Il cambio di capitale nel 750 causò un abbandono completo",
+    "theme": "Insediamento",
+    "status": "non_documentato",
+    "source": "La città rimase importante"
+  },
+  {
+    "claim": "Damasco collegava Mediterraneo, Arabia e Iraq",
+    "theme": "Reti",
+    "status": "sintesi",
+    "source": "DAM_BURNS"
+  }
+]

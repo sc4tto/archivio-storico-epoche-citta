@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Istanbul ottomana nell’età delle riforme",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Riforme e amministrazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Tanzimat, ministeri e municipalità",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Catasto, polizia e regolamenti urbani",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Trasporti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Vapore, traghetti e porti",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Ferrovie, tram e ponti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Muratura e carpenteria tradizionale",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Ferro, vetro e nuovi impianti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Finanza e commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Banche, assicurazioni e dogane",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Mercati imperiali e debito estero",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Società urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Millet, migrazioni e quartieri",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Scuole, stampa e consumi moderni",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

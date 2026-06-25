@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_66_P6_Mesoamerica_5_Centri_v1",
+  "macroregion": "Mesoamerica",
+  "centers": [
+    "01_Citta_del_Messico_Vicereale",
+    "02_Puebla_de_los_Angeles",
+    "03_Oaxaca_de_Antequera",
+    "04_Antigua_Guatemala_Capitale",
+    "05_Merida_dello_Yucatan"
+  ],
+  "uses_central_assets": true
+}

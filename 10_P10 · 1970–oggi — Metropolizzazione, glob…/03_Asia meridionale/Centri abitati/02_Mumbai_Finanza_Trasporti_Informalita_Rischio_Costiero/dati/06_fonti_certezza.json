@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Il Mumbai Climate Action Plan identifica alluvioni, calore estremo e innalzamento marino fra i rischi prioritari.",
+    "theme": "clima",
+    "status": "documentato",
+    "source": "MU1"
+  },
+  {
+    "claim": "La BMC ha integrato le azioni climatiche nel processo di bilancio urbano.",
+    "theme": "governance",
+    "status": "documentato",
+    "source": "MU2"
+  },
+  {
+    "claim": "Le famiglie povere risultano esposte in modo sproporzionato alle alluvioni ricorrenti.",
+    "theme": "disuguaglianza",
+    "status": "documentato",
+    "source": "MU3"
+  },
+  {
+    "claim": "Il Mumbai Trans Harbour Link è un collegamento di circa 22 km fra Sewri e l’area di Navi Mumbai.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "MU4"
+  },
+  {
+    "claim": "Il piano climatico dichiara un’impostazione inclusiva e basata su dati.",
+    "theme": "politiche urbane",
+    "status": "documentato",
+    "source": "MU1"
+  },
+  {
+    "claim": "Mumbai, finanza, trasporti, informalità e rischio costiero è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Violenza comunitaria, demolizioni di insediamenti, sgomberi, acquisizioni fondiarie e ricollocazioni non sono neutralizzati come semplice riqualificazione; abitanti di chawl e slum, pescatori Koli, lavoratori dei mulini, migranti e movimenti per la casa sono rappresentati come soggetti storici.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Surat, porto moghul",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Fiume e mare",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Maree, estuario e approdi",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Monsoni e navigazione oceanica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Dogane, cambi e assicurazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Compagnie, broker e mercanti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Cantieristica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Teak, corde e carpenteria",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Riparazione e provviste di bordo",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Castello e amministrazione moghul",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Sarai, ospizi e pellegrinaggio",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Reti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Deccan e Gujarat interno",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Mar Rosso, Golfo e compagnie europee",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

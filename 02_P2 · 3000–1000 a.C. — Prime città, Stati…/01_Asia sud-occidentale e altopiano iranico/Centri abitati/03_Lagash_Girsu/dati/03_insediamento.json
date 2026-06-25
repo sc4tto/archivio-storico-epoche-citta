@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Prime dinastie iniziali",
+    "Apogeo della città-stato",
+    "Dominio accadico",
+    "Età di Gudea",
+    "Ur III e antico-babilonese"
+  ],
+  "items": [
+    {
+      "id": "ningirsu",
+      "label": "Santuario di Ningirsu",
+      "lane": "Monumentali",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "tablet",
+      "label": "Tablet Hill e archivi",
+      "lane": "Amministrative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "bridge",
+      "label": "Ponte e canale urbano",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Quartieri residenziali",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "fields",
+      "label": "Campi e canali del territorio",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "textiles",
+      "label": "Laboratori tessili e razioni",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "walls",
+      "label": "Mura e limiti urbani",
+      "lane": "Difensive",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

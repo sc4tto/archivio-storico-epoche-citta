@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1945–1949",
+    "1950–1954",
+    "1955–1959",
+    "1960–1964",
+    "1965–1970"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Industrializzazione sostitutiva e concentrazione amministrativa nel dopoguerra",
+      "lane": "Economia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Migrazione accelerata dalle Ande e dalla costa verso Lima",
+      "lane": "Demografia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Espansione di barriadas mediante occupazione e autocostruzione organizzata",
+      "lane": "Abitazione",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Consolidamento di La Parada come grande nodo alimentare e commerciale",
+      "lane": "Mercati",
+      "start": 1,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "ev5",
+      "label": "Legge 13517 sui barrios marginales nel 1961",
+      "lane": "Politica urbana",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Ampliamento delle reti stradali e della conurbazione Lima–Callao",
+      "lane": "Infrastrutture",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Colpo di Stato militare del 1968 e nuova agenda riformista",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Riforma agraria del 1969 e nuovi rapporti città-campagna",
+      "lane": "Riforme",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

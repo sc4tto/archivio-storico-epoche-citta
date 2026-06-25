@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Paisley Caves",
+      "lat": 42.69,
+      "lon": -120.55,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "summer",
+      "label": "Summer Lake",
+      "lat": 42.83,
+      "lon": -120.74,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "basin",
+      "label": "Great Basin settentrionale",
+      "lat": 42.5,
+      "lon": -120.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "obsidian",
+      "label": "Fonti di ossidiana dell’Oregon",
+      "lat": 43.2,
+      "lon": -121.2,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "pluvial",
+      "label": "Antichi laghi pluviali",
+      "lat": 42.3,
+      "lon": -119.8,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "plateau",
+      "label": "Columbia Plateau",
+      "lat": 44.5,
+      "lon": -120.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "summer",
+      "target": "site",
+      "label": "acqua, uccelli e risorse lacustri",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "basin",
+      "target": "site",
+      "label": "piante, selvaggina e mobilità",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "obsidian",
+      "target": "site",
+      "label": "ossidiana e strumenti",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "pluvial",
+      "target": "site",
+      "label": "corridoi ecologici",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "plateau",
+      "target": "site",
+      "label": "connessioni tecnologiche",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Linzi fu la capitale dello Stato di Qi",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "LIN_ARCH"
+  },
+  {
+    "claim": "Il sito comprendeva città interna ed esterna fortificate",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "LIN_ARCH"
+  },
+  {
+    "claim": "Sono documentate attività metallurgiche e artigianali",
+    "theme": "Produzione",
+    "status": "documentato",
+    "source": "LIN_ARCH"
+  },
+  {
+    "claim": "Sale e commerci costieri contribuirono all’economia di Qi",
+    "theme": "Economia",
+    "status": "documentato",
+    "source": "LIN_BOOK"
+  },
+  {
+    "claim": "Linzi continuò come centro regionale in età Qin-Han",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "LIN_ARCH"
+  },
+  {
+    "claim": "La popolazione antica è conosciuta tramite un censimento archeologico completo",
+    "theme": "Demografia",
+    "status": "non_documentato",
+    "source": "Stime da testi e indizi parziali"
+  },
+  {
+    "claim": "L’Accademia Jixia è localizzata con assoluta certezza in un singolo edificio",
+    "theme": "Conoscenze",
+    "status": "non_documentato",
+    "source": "Localizzazione precisa non dimostrata"
+  },
+  {
+    "claim": "Ogni quartiere mantenne la stessa funzione per tutto il periodo",
+    "theme": "Urbanistica",
+    "status": "non_documentato",
+    "source": "Trasformazioni di lunga durata"
+  }
+]

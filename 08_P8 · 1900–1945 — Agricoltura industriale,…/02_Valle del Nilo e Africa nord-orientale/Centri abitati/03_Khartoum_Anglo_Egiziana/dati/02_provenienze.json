@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Khartoum",
+      "lat": 15.5007,
+      "lon": 32.5599,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "omd",
+      "label": "Omdurman",
+      "lat": 15.64,
+      "lon": 32.48,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "bah",
+      "label": "Khartoum North",
+      "lat": 15.63,
+      "lon": 32.55,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "gez",
+      "label": "Gezira",
+      "lat": 14.5,
+      "lon": 33.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "egy",
+      "label": "Egitto",
+      "lat": 27.0,
+      "lon": 31.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "red",
+      "label": "Port Sudan e Mar Rosso",
+      "lat": 19.62,
+      "lon": 37.22,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "eth",
+      "label": "Etiopia occidentale",
+      "lat": 12.0,
+      "lon": 36.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "omd",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ponti e traghetti",
+      "food": "mercati, bestiame e prodotti artigiani"
+    },
+    {
+      "source": "bah",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ponti e binari",
+      "food": "officine, ferrovia e servizi portuali"
+    },
+    {
+      "source": "gez",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e Nilo Azzurro",
+      "food": "cotone, sorgo e prodotti irrigui"
+    },
+    {
+      "source": "egy",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e Nilo",
+      "food": "farina, funzionari e manufatti"
+    },
+    {
+      "source": "red",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia per Port Sudan",
+      "food": "merci importate e attrezzature"
+    },
+    {
+      "source": "eth",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane e strade",
+      "food": "caffè, bestiame e prodotti di frontiera"
+    }
+  ]
+}

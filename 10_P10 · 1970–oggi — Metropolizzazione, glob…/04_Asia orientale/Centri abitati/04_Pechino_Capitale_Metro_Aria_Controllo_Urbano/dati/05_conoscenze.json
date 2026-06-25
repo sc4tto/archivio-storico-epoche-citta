@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Pechino, capitale, metropolitana, aria e controllo urbano",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Governance capitale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Funzioni nazionali, municipali e distrettuali",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Tongzhou e coordinamento regionale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Trasporto verde",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Metro, bus, biciclette e ferrovie regionali",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Emissioni, congestione e accessibilità",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Qualità dell’aria",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Monitoraggio, fonti mobili e controllo regionale",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Salute, energia e industria",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Patrimonio urbano",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Hutong, assi storici e riuso",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Demolizioni, turismo e diritto all’abitare",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Diritti e controllo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Hukou, sorveglianza e spazio pubblico",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Memoria del 1989, censura e partecipazione",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

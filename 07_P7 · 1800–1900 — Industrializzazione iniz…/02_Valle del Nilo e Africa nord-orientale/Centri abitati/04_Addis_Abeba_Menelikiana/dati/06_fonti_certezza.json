@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Addis Abeba fu fondata negli anni 1880 da Menelik II e Taytu.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "AD1; AD2"
+  },
+  {
+    "claim": "Il nuovo centro si sviluppò presso le sorgenti di Finfinne, a sud di Entoto.",
+    "theme": "territorio",
+    "status": "documentato",
+    "source": "AD1; AD4"
+  },
+  {
+    "claim": "Palazzo e safar dei dignitari produssero una struttura urbana policentrica.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "AD3; AD4"
+  },
+  {
+    "claim": "La città divenne capitale dell’impero etiopico durante il regno di Menelik II.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "AD1; AD2"
+  },
+  {
+    "claim": "Mercati e carovane la collegavano a Shewa, Harar e ai porti del Mar Rosso.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "AD2; AD4"
+  },
+  {
+    "claim": "La vittoria di Adwa del 1896 rafforzò l’indipendenza etiopica e il ruolo della capitale.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "AD2"
+  },
+  {
+    "claim": "La scarsità di legname contribuì all’introduzione dell’eucalipto.",
+    "theme": "ambiente",
+    "status": "documentato",
+    "source": "AD1; AD4"
+  },
+  {
+    "claim": "La ferrovia completata nel Novecento è esclusa.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "AD1; AD2"
+  }
+]

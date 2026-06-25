@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Fort Ancient Earthworks",
+      "lat": 39.406,
+      "lon": -84.093,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "littlemiami",
+      "label": "Little Miami River",
+      "lat": 39.39,
+      "lon": -84.1,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "northfort",
+      "label": "North Fort",
+      "lat": 39.414,
+      "lon": -84.095,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "southfort",
+      "label": "South Fort",
+      "lat": 39.4,
+      "lon": -84.093,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "chillicothe",
+      "label": "Scioto e Chillicothe",
+      "lat": 39.33,
+      "lon": -83.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "newark",
+      "label": "Newark Earthworks",
+      "lat": 40.06,
+      "lon": -82.43,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "littlemiami",
+      "target": "site",
+      "label": "acqua, pesca e percorso di valle",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "northfort",
+      "target": "site",
+      "label": "accessi, terrazze e rituali",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "southfort",
+      "target": "site",
+      "label": "spazi livellati e raduni",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "chillicothe",
+      "target": "site",
+      "label": "reti cerimoniali Hopewell",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "newark",
+      "target": "site",
+      "label": "geometrie e cicli astronomici",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

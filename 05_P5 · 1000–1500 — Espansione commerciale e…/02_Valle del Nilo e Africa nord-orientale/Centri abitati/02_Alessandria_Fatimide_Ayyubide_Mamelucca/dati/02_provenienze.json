@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Alessandria",
+      "lat": 31.2001,
+      "lon": 29.9187,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "mar",
+      "label": "Lago Mareotis",
+      "lat": 31.05,
+      "lon": 29.82,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "ros",
+      "label": "Rosetta",
+      "lat": 31.4,
+      "lon": 30.42,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "dam",
+      "label": "Damietta",
+      "lat": 31.42,
+      "lon": 31.81,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "cai",
+      "label": "Cairo",
+      "lat": 30.04,
+      "lon": 31.24,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "ven",
+      "label": "Venezia",
+      "lat": 45.44,
+      "lon": 12.33,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "gen",
+      "label": "Genova",
+      "lat": 44.41,
+      "lon": 8.93,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "mar",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali e strade locali",
+      "food": "vino, ortaggi e sale"
+    },
+    {
+      "source": "ros",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Delta occidentale",
+      "food": "grano e merci fluviali"
+    },
+    {
+      "source": "dam",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "rete dei porti del Delta",
+      "food": "granaglie e tessili"
+    },
+    {
+      "source": "cai",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "asse Cairo–Alexandria",
+      "food": "spezie, zucchero e funzionari"
+    },
+    {
+      "source": "ven",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "commercio mediterraneo",
+      "food": "legname, metalli e tessili"
+    },
+    {
+      "source": "gen",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "commercio mediterraneo",
+      "food": "legname, schiavi e manufatti"
+    }
+  ]
+}

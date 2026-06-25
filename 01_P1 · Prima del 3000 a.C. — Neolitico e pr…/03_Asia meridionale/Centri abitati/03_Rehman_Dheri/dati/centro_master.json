@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Rehman Dheri — modulo multi-grafo",
+    "short_name": "Rehman Dheri",
+    "site": "Rehman Dheri",
+    "modern_location": "Presso Dera Ismail Khan, Khyber Pakhtunkhwa, Pakistan",
+    "coordinates": {
+      "lat": 31.5,
+      "lon": 70.09
+    },
+    "scope": "Insediamento pre/early Harappan, dalla fase iniziale attorno al 3300 a.C. fino al III–II millennio; nel P1 si considera l’avvio della sequenza",
+    "version": "1.0-blocco_04_p1_asia_meridionale_5_centri_v1",
+    "warning": "La pagina P1 riguarda soprattutto la fase iniziale; molte caratteristiche visibili appartengono a fasi successive e sono marcate come sintesi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "UNESCO_REHMAN",
+      "title": "UNESCO World Heritage Centre — Archaeological Site of Rehman Dheri",
+      "url": "https://whc.unesco.org/en/tentativelists/1877/",
+      "use": "pianta, mura, rete stradale, profondità della sequenza e cronologia"
+    },
+    {
+      "id": "HARAPPA_REHMAN",
+      "title": "Harappa.com — Rehman Dheri",
+      "url": "https://www.harappa.com/indus/rehman-dheri.html",
+      "use": "sintesi di materiali, pianificazione e artigianato"
+    },
+    {
+      "id": "SOUTH_ASIA_CAMBRIDGE",
+      "title": "Coningham & Young — The Archaeology of South Asia",
+      "url": "https://www.cambridge.org/core/books/archaeology-of-south-asia/",
+      "use": "quadro comparativo early Harappan"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Osaka fu uno dei maggiori centri industriali del Giappone.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "OS1; OS5"
+  },
+  {
+    "claim": "Il porto e i canali collegavano fabbriche e mercati.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "OS1; OS3"
+  },
+  {
+    "claim": "Industrie tessili e meccaniche concentrarono lavoro salariato.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "OS4; OS5"
+  },
+  {
+    "claim": "La città ampliò più volte i propri confini municipali.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "OS1"
+  },
+  {
+    "claim": "La metropolitana aprì nel 1933.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "OS1"
+  },
+  {
+    "claim": "Comunità coreane e lavoratori marginalizzati subirono discriminazioni.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "OS4"
+  },
+  {
+    "claim": "La mobilitazione bellica convertì produzione e approvvigionamenti.",
+    "theme": "conflitti",
+    "status": "documentato",
+    "source": "OS4"
+  },
+  {
+    "claim": "Ricostruzione e boom successivi al 1945 sono esclusi.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "OS1"
+  }
+]

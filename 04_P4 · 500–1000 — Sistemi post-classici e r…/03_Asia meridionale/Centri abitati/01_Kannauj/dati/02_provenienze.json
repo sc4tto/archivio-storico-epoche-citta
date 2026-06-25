@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Kannauj",
+      "lat": 27.0552,
+      "lon": 79.9181,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "ganges",
+      "label": "Gange e pianura del Doab",
+      "lat": 27.1,
+      "lon": 79.85,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "mathura",
+      "label": "Mathura",
+      "lat": 27.49,
+      "lon": 77.67,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "varanasi",
+      "label": "Varanasi",
+      "lat": 25.32,
+      "lon": 82.97,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "ujjain",
+      "label": "Ujjain",
+      "lat": 23.18,
+      "lon": 75.78,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "bengal",
+      "label": "Bengala e regno Pala",
+      "lat": 24.0,
+      "lon": 88.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "ganges",
+      "target": "site",
+      "label": "cereali, acqua e trasporto fluviale",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "mathura",
+      "target": "site",
+      "label": "mercanti, pellegrini e manufatti",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "varanasi",
+      "target": "site",
+      "label": "testi, artigiani e beni rituali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "ujjain",
+      "target": "site",
+      "label": "rotte politiche e commerciali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "bengal",
+      "target": "site",
+      "label": "ambascerie, conflitti e scambi",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

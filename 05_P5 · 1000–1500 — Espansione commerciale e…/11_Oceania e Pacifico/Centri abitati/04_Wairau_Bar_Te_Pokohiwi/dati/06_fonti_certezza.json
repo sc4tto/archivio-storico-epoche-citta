@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Wairau Bar è uno dei più antichi insediamenti conosciuti della Nuova Zelanda.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "WB1; WB2"
+  },
+  {
+    "claim": "L’occupazione principale appartiene alla fine del XIII e all’inizio del XIV secolo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "WB1"
+  },
+  {
+    "claim": "Il sito comprende abitazioni, aree di lavoro, sepolture e grandi forni.",
+    "theme": "insediamento",
+    "status": "documentato",
+    "source": "WB1; WB3"
+  },
+  {
+    "claim": "Argillite e altre pietre venivano trasformate in asce e utensili.",
+    "theme": "artigianato",
+    "status": "documentato",
+    "source": "WB3"
+  },
+  {
+    "claim": "La dieta comprendeva moa, foche, pesci, molluschi e piante.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "WB1; WB3"
+  },
+  {
+    "claim": "I materiali attestano mobilità su grandi distanze.",
+    "theme": "reti",
+    "status": "documentato",
+    "source": "WB1; WB4"
+  },
+  {
+    "claim": "Il sito non è rappresentato come città permanente.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "WB1"
+  },
+  {
+    "claim": "Interpretazione e presentazione devono rispettare Rangitāne o Wairau.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "WB5"
+  }
+]

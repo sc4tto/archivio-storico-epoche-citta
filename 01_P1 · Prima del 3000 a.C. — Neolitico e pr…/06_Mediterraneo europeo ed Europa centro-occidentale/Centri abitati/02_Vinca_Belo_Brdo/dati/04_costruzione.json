@@ -1,0 +1,198 @@
+{
+  "nodes": [
+    {
+      "id": "m1",
+      "label": "Legname e pali",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m2",
+      "label": "Argilla, paglia e fibre",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m3",
+      "label": "Terra battuta e sedimenti",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m4",
+      "label": "Pietra, osso e conchiglia",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "o1",
+      "label": "Intreccio e carpenteria",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "o2",
+      "label": "Impasto e intonacatura",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o3",
+      "label": "Livellamento e battitura",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o4",
+      "label": "Taglio, levigatura e perforazione",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "c1",
+      "label": "Telai lignei",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c2",
+      "label": "Pareti in incannucciato e argilla",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c3",
+      "label": "Pavimenti, forni e banchine",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c4",
+      "label": "Utensili, arredi e ornamenti",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "s1",
+      "label": "Case rettangolari",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s2",
+      "label": "Edifici plurivano nelle fasi tarde",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "s3",
+      "label": "Spazi domestici attrezzati",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s4",
+      "label": "Insediamento stratificato su tell",
+      "layer": 3,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m1",
+      "target": "o1",
+      "label": "materia prima",
+      "status": "sintesi"
+    },
+    {
+      "source": "o1",
+      "target": "c1",
+      "label": "produce o prepara",
+      "status": "documentato"
+    },
+    {
+      "source": "c1",
+      "target": "s1",
+      "label": "costituisce o serve",
+      "status": "documentato"
+    },
+    {
+      "source": "m2",
+      "target": "o2",
+      "label": "materia prima",
+      "status": "documentato"
+    },
+    {
+      "source": "o2",
+      "target": "c2",
+      "label": "produce o prepara",
+      "status": "documentato"
+    },
+    {
+      "source": "c2",
+      "target": "s2",
+      "label": "costituisce o serve",
+      "status": "sintesi"
+    },
+    {
+      "source": "m3",
+      "target": "o3",
+      "label": "materia prima",
+      "status": "documentato"
+    },
+    {
+      "source": "o3",
+      "target": "c3",
+      "label": "produce o prepara",
+      "status": "documentato"
+    },
+    {
+      "source": "c3",
+      "target": "s3",
+      "label": "costituisce o serve",
+      "status": "documentato"
+    },
+    {
+      "source": "m4",
+      "target": "o4",
+      "label": "materia prima",
+      "status": "documentato"
+    },
+    {
+      "source": "o4",
+      "target": "c4",
+      "label": "produce o prepara",
+      "status": "documentato"
+    },
+    {
+      "source": "c4",
+      "target": "s4",
+      "label": "costituisce o serve",
+      "status": "documentato"
+    },
+    {
+      "source": "m1",
+      "target": "o3",
+      "label": "materiale complementare",
+      "status": "sintesi"
+    },
+    {
+      "source": "m2",
+      "target": "o1",
+      "label": "rinforzo o attrezzatura",
+      "status": "inferito"
+    },
+    {
+      "source": "c2",
+      "target": "s1",
+      "label": "integrazione strutturale",
+      "status": "sintesi"
+    },
+    {
+      "source": "c3",
+      "target": "s4",
+      "label": "manutenzione e rinnovo",
+      "status": "inferito"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Gao fu una capitale e un porto importante sul Niger.",
+    "theme": "urbanizzazione",
+    "status": "documentato",
+    "source": "GA1; GA2"
+  },
+  {
+    "claim": "La città partecipava alle reti transahariane e saheliane.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "GA2; GA4"
+  },
+  {
+    "claim": "La Tomba di Askia fu costruita nel 1495.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "GA1"
+  },
+  {
+    "claim": "Il complesso dell’Askia è un esempio monumentale di architettura in terra.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "GA1; GA5"
+  },
+  {
+    "claim": "Gao-Saney e Gao antico formarono un sistema urbano articolato.",
+    "theme": "insediamento",
+    "status": "sintesi",
+    "source": "GA2; GA4"
+  },
+  {
+    "claim": "Il Niger sosteneva trasporto, pesca e approvvigionamento.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "GA2"
+  },
+  {
+    "claim": "L’ascesa songhai trasformò Gao nel XV secolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "GA2; GA3"
+  },
+  {
+    "claim": "Il pieno sviluppo del XVI secolo è escluso dal periodo P5.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "GA3"
+  }
+]

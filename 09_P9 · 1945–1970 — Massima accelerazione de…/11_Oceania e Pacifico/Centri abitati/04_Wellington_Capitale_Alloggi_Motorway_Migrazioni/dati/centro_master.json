@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Wellington, capitale, alloggi, motorway e migrazioni",
+    "site": "Wellington, capitale, alloggi, motorway e migrazioni",
+    "modern_location": "Wellington, Aotearoa Nuova Zelanda",
+    "coordinates": {
+      "lat": -41.2866,
+      "lon": 174.7756
+    },
+    "scope": "Wellington fra 1945 e 1970: espansione della capitale e del pubblico impiego, edilizia statale e comunale, crescita verso Hutt Valley, Porirua e colline, aeroporto del 1959, rete ferroviaria suburbana e motorways; il modulo include migrazione Māori e del Pacifico, demolizioni per l’autostrada e distruzione di tombe a Bolton Street.",
+    "version": "1.0",
+    "warning": "Sono esclusi i grandi movimenti anti-tour e anti-nucleari successivi, la ristrutturazione neoliberale del pubblico impiego, la gentrificazione tarda e gli sviluppi posteriori al 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "WE1",
+      "title": "Te Ara — Wellington places",
+      "use": "Espansione collinare, Hutt Valley, Porirua, migrazioni e distruzioni connesse alla motorway.",
+      "url": "https://teara.govt.nz/en/wellington-places/print"
+    },
+    {
+      "id": "WE2",
+      "title": "Te Ara — Roads",
+      "use": "Prima motorway del 1950 e sviluppo della rete stradale postbellica.",
+      "url": "https://teara.govt.nz/en/roads/print"
+    },
+    {
+      "id": "WE3",
+      "title": "Te Ara — Māori housing: te noho whare",
+      "use": "Migrazione Māori, alloggi economici e comunità di Newtown.",
+      "url": "https://teara.govt.nz/en/maori-housing-te-noho-whare/print"
+    },
+    {
+      "id": "WE4",
+      "title": "Heritage New Zealand — Dobson House",
+      "use": "Modernismo residenziale di Wellington nel 1958–1959.",
+      "url": "https://www.heritage.org.nz/list-details/9874/Dobson-House"
+    }
+  ]
+}

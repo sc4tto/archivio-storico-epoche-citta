@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Uruk",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "water",
+      "label": "Idraulica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "canalk",
+          "label": "Scavo e manutenzione di canali",
+          "status": "documentato"
+        },
+        {
+          "id": "levee",
+          "label": "Gestione di argini e campi",
+          "status": "sintesi"
+        },
+        {
+          "id": "boat",
+          "label": "Navigazione fluviale",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "agri",
+      "label": "Agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "barleyk",
+          "label": "Coltivazione cerealicola",
+          "status": "documentato"
+        },
+        {
+          "id": "herdk",
+          "label": "Gestione degli armenti",
+          "status": "sintesi"
+        },
+        {
+          "id": "surplus",
+          "label": "Conservazione del surplus",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "admin",
+      "label": "Amministrazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "count",
+          "label": "Contabilità",
+          "status": "documentato"
+        },
+        {
+          "id": "seal",
+          "label": "Sigilli e controllo dei contenitori",
+          "status": "documentato"
+        },
+        {
+          "id": "writing",
+          "label": "Proto-scrittura",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "buildk",
+      "label": "Edilizia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "brickk",
+          "label": "Mattoni crudi standardizzati",
+          "status": "documentato"
+        },
+        {
+          "id": "monument",
+          "label": "Progettazione monumentale",
+          "status": "documentato"
+        },
+        {
+          "id": "mosaic",
+          "label": "Mosaici a coni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "pottery",
+          "label": "Ceramica e contenitori",
+          "status": "documentato"
+        },
+        {
+          "id": "textile",
+          "label": "Produzione tessile",
+          "status": "sintesi"
+        },
+        {
+          "id": "metal",
+          "label": "Metalli importati e lavorati",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "social",
+      "label": "Organizzazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "labour",
+          "label": "Mobilitazione del lavoro",
+          "status": "sintesi"
+        },
+        {
+          "id": "redistribution",
+          "label": "Redistribuzione",
+          "status": "documentato"
+        },
+        {
+          "id": "institution",
+          "label": "Istituzioni templari e amministrative",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

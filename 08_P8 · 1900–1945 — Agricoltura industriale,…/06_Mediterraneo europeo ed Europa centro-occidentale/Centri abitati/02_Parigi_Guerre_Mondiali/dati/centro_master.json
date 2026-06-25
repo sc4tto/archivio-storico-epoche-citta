@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Parigi metropolitana, occupata e liberata",
+    "site": "Parigi metropolitana, occupata e liberata",
+    "modern_location": "Parigi, Francia",
+    "coordinates": {
+      "lat": 48.8566,
+      "lon": 2.3522
+    },
+    "scope": "Parigi fra 1900 e 1945: Métro, banlieue operaie, Grande Guerra, influenza, Fronte popolare, occupazione, persecuzioni, resistenza e liberazione.",
+    "version": "1.0",
+    "warning": "Ricostruzione e politiche metropolitane successive al 1945 sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "PA1",
+      "title": "Paris Musées",
+      "use": "Storia urbana e sociale di Parigi.",
+      "url": "https://www.parismusees.paris.fr/"
+    },
+    {
+      "id": "PA2",
+      "title": "Musée Carnavalet",
+      "use": "Collezioni su Parigi moderna.",
+      "url": "https://www.carnavalet.paris.fr/"
+    },
+    {
+      "id": "PA3",
+      "title": "UNESCO — Paris, Banks of the Seine",
+      "use": "Patrimonio urbano e paesaggio fluviale.",
+      "url": "https://whc.unesco.org/en/list/600/"
+    },
+    {
+      "id": "PA4",
+      "title": "RATP — Patrimoine",
+      "use": "Métro e trasporti urbani.",
+      "url": "https://www.ratp.fr/"
+    },
+    {
+      "id": "PA5",
+      "title": "Mémorial de la Shoah",
+      "use": "Persecuzioni e deportazioni.",
+      "url": "https://www.memorialdelashoah.org/"
+    }
+  ]
+}

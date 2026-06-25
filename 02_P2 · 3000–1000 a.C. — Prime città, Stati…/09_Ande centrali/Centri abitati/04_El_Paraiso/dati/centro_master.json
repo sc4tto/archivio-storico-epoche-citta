@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "El Paraíso — modulo multi-grafo",
+    "short_name": "El Paraíso",
+    "site": "Complesso preceramico di El Paraíso",
+    "modern_location": "Bassa valle del Chillón, Lima, Perù",
+    "coordinates": {
+      "lat": -11.949,
+      "lon": -77.113
+    },
+    "scope": "Grande complesso monumentale preceramico della costa centrale, con numerosi edifici, cortili, riempimenti in shicra, economia integrata fra risorse marine, piante coltivate e prodotti della valle.",
+    "version": "1.0-blocco_22_p2_ande_centrali_5_centri_v1",
+    "warning": "Il numero originario degli edifici e la cronologia di alcune unità sono alterati da distruzioni, ricostruzioni e usi successivi. Le stime demografiche e la funzione di ogni edificio restano variabili."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "PARAISO_QUILTER",
+      "title": "Quilter — Architecture and Chronology at El Paraíso, Peru",
+      "url": "https://www.jstor.org/stable/529938",
+      "use": "architettura, fasi costruttive e datazioni"
+    },
+    {
+      "id": "PARAISO_SCIENCE",
+      "title": "Quilter et al. — Subsistence Economy of El Paraíso, an Early Peruvian Site",
+      "url": "https://doi.org/10.1126/science.251.4991.277",
+      "use": "resti vegetali, fauna e base economica"
+    },
+    {
+      "id": "PARAISO_CULTURA",
+      "title": "Ministerio de Cultura del Perú — patrimonio archeologico di Lima",
+      "url": "https://www.gob.pe/cultura",
+      "use": "tutela, conservazione e ricerche recenti"
+    }
+  ]
+}

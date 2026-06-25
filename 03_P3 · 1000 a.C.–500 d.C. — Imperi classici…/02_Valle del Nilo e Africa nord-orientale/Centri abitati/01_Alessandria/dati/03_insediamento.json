@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Fondazione e piano urbano",
+    "Capitale tolemaica",
+    "Annessione romana",
+    "Metropoli imperiale",
+    "Tarda antichità"
+  ],
+  "items": [
+    {
+      "id": "grid",
+      "label": "Reticolo stradale e asse canopico",
+      "lane": "Urbanistiche",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "harbours",
+      "label": "Porti, moli e Faro",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "royal",
+      "label": "Quartiere reale e palazzi",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "museion",
+      "label": "Museion e tradizione bibliotecaria",
+      "lane": "Culturali",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "houses",
+      "label": "Case, botteghe e magazzini",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "necropolis",
+      "label": "Necropoli e catacombe",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "churches",
+      "label": "Chiese e istituzioni tardoantiche",
+      "lane": "Religiose",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

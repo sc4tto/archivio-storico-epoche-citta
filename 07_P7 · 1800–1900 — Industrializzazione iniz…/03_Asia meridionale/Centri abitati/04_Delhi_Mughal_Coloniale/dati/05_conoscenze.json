@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Delhi moghul e coloniale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Città moghul",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Haveli, bazar e quartieri",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Corte, poesia e artigianato",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Conquista coloniale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Residenza britannica e amministrazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Confische, demolizioni e controllo militare",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "1857",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Assedio e combattimenti urbani",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Espulsioni e trasformazione del Red Fort",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Ferrovie e servizi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Stazione, ponti e cantonment",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Municipalità, acqua e salute",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Approccio alle fonti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Memorie moghul e documenti coloniali",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Topografie della violenza e della perdita",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

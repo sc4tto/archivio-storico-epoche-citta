@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Insediamenti del medio Preclassico",
+    "Crescita urbana preclassica",
+    "Costruzione delle grandi piattaforme",
+    "Prime fasi classiche e stele",
+    "Sviluppi dinastici entro il V secolo"
+  ],
+  "items": [
+    {
+      "id": "struct2",
+      "label": "Struttura II e grandi piattaforme",
+      "lane": "Monumentali",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "plazas",
+      "label": "Piazze e gruppi monumentali",
+      "lane": "Monumentali",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "stelae",
+      "label": "Stele e altari",
+      "lane": "Amministrative",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "sacbe",
+      "label": "Sacbé e collegamenti fra gruppi",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "water",
+      "label": "Aguadas e serbatoi modificati",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "residences",
+      "label": "Gruppi residenziali e corti",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "agriculture",
+      "label": "Terrazze e paesaggio produttivo",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

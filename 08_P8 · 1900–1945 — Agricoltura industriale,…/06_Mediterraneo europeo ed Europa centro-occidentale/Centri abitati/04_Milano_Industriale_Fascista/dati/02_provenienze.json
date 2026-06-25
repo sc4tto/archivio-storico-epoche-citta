@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Milano",
+      "lat": 45.4642,
+      "lon": 9.19,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "nav",
+      "label": "Navigli e scali merci",
+      "lat": 45.45,
+      "lon": 9.17,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "pad",
+      "label": "Pianura padana agricola",
+      "lat": 45.2,
+      "lon": 9.6,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "ind",
+      "label": "Sesto e cintura industriale",
+      "lat": 45.53,
+      "lon": 9.24,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "alp",
+      "label": "Alpi e energia idroelettrica",
+      "lat": 46.3,
+      "lon": 9.8,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "ita",
+      "label": "Reti industriali italiane",
+      "lat": 44.5,
+      "lon": 11.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "front",
+      "label": "Fronti e impero coloniale italiano",
+      "lat": 32,
+      "lon": 15,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "nav",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigli e ferrovie",
+      "food": "merci, carbone, cereali e materiali"
+    },
+    {
+      "source": "pad",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie regionali",
+      "food": "latte, riso, mais, carne e ortaggi"
+    },
+    {
+      "source": "ind",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "tram e scali industriali",
+      "food": "operai, macchine, acciaio e energia"
+    },
+    {
+      "source": "alp",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "linee elettriche e ferrovie",
+      "food": "elettricità idroelettrica e materiali"
+    },
+    {
+      "source": "ita",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "mercato nazionale",
+      "food": "cotone, macchinari, capitali e prodotti industriali"
+    },
+    {
+      "source": "front",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "logistica militare",
+      "food": "soldati, materie prime, feriti e propaganda"
+    }
+  ]
+}

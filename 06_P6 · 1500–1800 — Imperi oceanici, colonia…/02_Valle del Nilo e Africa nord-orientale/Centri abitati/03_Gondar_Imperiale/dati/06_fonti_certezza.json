@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Gondar fu fondata come capitale permanente da Fasilides nel 1636.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "GO1; GO2"
+  },
+  {
+    "claim": "Il Fasil Ghebbi riunisce palazzi, sale, chiese e strutture di corte.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "GO1"
+  },
+  {
+    "claim": "L’architettura mostra influenze locali e contatti con tradizioni esterne.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "GO1; GO3"
+  },
+  {
+    "claim": "La città divenne un centro di pittura, manoscritti e cultura religiosa.",
+    "theme": "conoscenza",
+    "status": "documentato",
+    "source": "GO1; GO4"
+  },
+  {
+    "claim": "Mercati e carovane collegavano Gondar al Sudan e al Mar Rosso.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "GO2"
+  },
+  {
+    "claim": "Le campagne circostanti fornivano cereali, bestiame e miele.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "GO2"
+  },
+  {
+    "claim": "Quartieri di gruppi religiosi e professionali articolavano la città.",
+    "theme": "società",
+    "status": "sintesi",
+    "source": "GO2"
+  },
+  {
+    "claim": "Le trasformazioni ottocentesche sono escluse dal modulo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "GO2"
+  }
+]

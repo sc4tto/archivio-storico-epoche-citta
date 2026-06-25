@@ -1,0 +1,174 @@
+{
+  "nodes": [
+    {
+      "id": "m_brick",
+      "label": "Laterizio e malta",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_marble",
+      "label": "Marmi e spolia mediterranei",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_stone",
+      "label": "Pietra d’Istria e locale",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_timber",
+      "label": "Legname e tegole",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "o_brickwork",
+      "label": "Muratura, volte e cupole",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_mosaic",
+      "label": "Mosaico parietale e pavimentale",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_carve",
+      "label": "Taglio e scultura lapidea",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_carp",
+      "label": "Carpenteria e coperture",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "c_central",
+      "label": "Piante centrali e battisteri",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_basilica",
+      "label": "Navate, absidi e campanili",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_mausoleum",
+      "label": "Mausolei e cappelle",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_urban",
+      "label": "Case, portici e strutture portuali",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "s_vitale",
+      "label": "San Vitale e complessi episcopali",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_apollinare",
+      "label": "Sant’Apollinare Nuovo e in Classe",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_theodoric",
+      "label": "Mausoleo di Teodorico e battisteri",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_cityport",
+      "label": "Città, porto e monasteri",
+      "layer": 3,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m_brick",
+      "target": "o_brickwork",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_brickwork",
+      "target": "c_central",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_central",
+      "target": "s_vitale",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_marble",
+      "target": "o_mosaic",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_mosaic",
+      "target": "c_basilica",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_basilica",
+      "target": "s_apollinare",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_stone",
+      "target": "o_carve",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_carve",
+      "target": "c_mausoleum",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_mausoleum",
+      "target": "s_theodoric",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_timber",
+      "target": "o_carp",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "o_carp",
+      "target": "c_urban",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "c_urban",
+      "target": "s_cityport",
+      "status": "sintesi",
+      "label": ""
+    }
+  ]
+}

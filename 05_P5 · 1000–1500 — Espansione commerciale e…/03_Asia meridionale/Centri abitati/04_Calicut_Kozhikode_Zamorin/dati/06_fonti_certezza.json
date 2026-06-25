@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Kozhikode divenne il principale porto del Malabar nel tardo Medioevo.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "CA1; CA2"
+  },
+  {
+    "claim": "I Samoothiri consolidarono il proprio potere attraverso il controllo del porto e delle reti interne.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "CA1; CA2"
+  },
+  {
+    "claim": "Pepe e spezie provenivano anche dai Ghati occidentali.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "CA1; CA5"
+  },
+  {
+    "claim": "Mercanti arabi e musulmani ebbero un ruolo centrale nei traffici oceanici.",
+    "theme": "commercio",
+    "status": "documentato",
+    "source": "CA1; CA4"
+  },
+  {
+    "claim": "La navigazione seguiva il ritmo dei monsoni.",
+    "theme": "tecnologia",
+    "status": "documentato",
+    "source": "CA4; CA5"
+  },
+  {
+    "claim": "Tetti spioventi, legno e laterite rispondevano al clima umido.",
+    "theme": "costruzione",
+    "status": "sintesi",
+    "source": "CA3"
+  },
+  {
+    "claim": "Il porto era connesso a Aden, Hormuz e reti cinesi.",
+    "theme": "reti",
+    "status": "documentato",
+    "source": "CA4; CA5"
+  },
+  {
+    "claim": "L’arrivo portoghese del 1498 segna il limite finale del modulo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "CA1; CA2"
+  }
+]

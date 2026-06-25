@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Stone Town",
+      "lat": -6.1622,
+      "lon": 39.1921,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "ung",
+      "label": "Unguja rurale",
+      "lat": -6.25,
+      "lon": 39.35,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "pem",
+      "label": "Pemba",
+      "lat": -5.2,
+      "lon": 39.8,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "coast",
+      "label": "Costa swahili e Bagamoyo",
+      "lat": -6.44,
+      "lon": 38.9,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "int",
+      "label": "Interno dell’Africa orientale",
+      "lat": -6.0,
+      "lon": 32.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "oma",
+      "label": "Oman e Arabia",
+      "lat": 23.6,
+      "lon": 58.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "ind",
+      "label": "India e Oceano Indiano",
+      "lat": 15.0,
+      "lon": 75.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "ung",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade rurali e approdi",
+      "food": "chiodi di garofano, cocco, frutta e derrate"
+    },
+    {
+      "source": "pem",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cabottaggio interinsulare",
+      "food": "chiodi di garofano, riso e prodotti marini"
+    },
+    {
+      "source": "coast",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porti e carovane costiere",
+      "food": "avorio, cereali, legname e persone schiavizzate"
+    },
+    {
+      "source": "int",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti carovaniere coercitive",
+      "food": "avorio e altri prodotti di carovana"
+    },
+    {
+      "source": "oma",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "monsoni e dhow",
+      "food": "datteri, armi, capitali e famiglie mercantili"
+    },
+    {
+      "source": "ind",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte dell’Oceano Indiano",
+      "food": "tessili, riso, credito e mercanti"
+    }
+  ]
+}

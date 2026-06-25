@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Guadalajara",
+      "lat": 20.6597,
+      "lon": -103.3496,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "zap",
+      "label": "Zapopan e valle metropolitana",
+      "lat": 20.72,
+      "lon": -103.4,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "tla",
+      "label": "Tlaquepaque, Tonalá e Tlajomulco",
+      "lat": 20.55,
+      "lon": -103.32,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "alt",
+      "label": "Altos de Jalisco",
+      "lat": 21.2,
+      "lon": -102.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "cha",
+      "label": "Ciénega e lago di Chapala",
+      "lat": 20.2,
+      "lon": -103.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "pac",
+      "label": "Costa di Jalisco e Pacifico",
+      "lat": 19.5,
+      "lon": -105.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "glob",
+      "label": "Bajío, frontiera e reti globali",
+      "lat": 22.0,
+      "lon": -101.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "zap",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "mercati e distribuzione urbana",
+      "food": "verdure, pane, latticini e servizi"
+    },
+    {
+      "source": "tla",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoi metropolitanI e tianguis",
+      "food": "mais, carne, ortaggi e pendolari"
+    },
+    {
+      "source": "alt",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "autostrade e catene agroindustriali",
+      "food": "latte, uova, carne e agave"
+    },
+    {
+      "source": "cha",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti regionali e Mercado de Abastos",
+      "food": "pesce, mais, frutta e verdure"
+    },
+    {
+      "source": "pac",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoi verso il Pacifico",
+      "food": "pesce, frutta tropicale e merci"
+    },
+    {
+      "source": "glob",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "aeroporto, ferrovia e autostrade",
+      "food": "ingredienti, macchinari e alimenti confezionati"
+    }
+  ]
+}

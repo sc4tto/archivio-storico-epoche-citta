@@ -1,0 +1,74 @@
+{
+  "phases": [
+    "500–768",
+    "768–800",
+    "800–814",
+    "814–1000"
+  ],
+  "items": [
+    {
+      "id": "at1",
+      "label": "Insediamento termale e proprietà regia franca",
+      "lane": "Abitato",
+      "start": 0,
+      "end": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "at2",
+      "label": "Carlo Magno sceglie Aquisgrana come residenza favorita",
+      "lane": "Corte",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "at3",
+      "label": "Costruzione del palazzo e della cappella palatina",
+      "lane": "Monumenti",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "at4",
+      "label": "Aula regia, archivi, scuola e officine",
+      "lane": "Istituzioni",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "at5",
+      "label": "Assemblee, ambasciate e feste imperiali",
+      "lane": "Politica",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "at6",
+      "label": "Sepoltura di Carlo Magno nel 814",
+      "lane": "Culto",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "at7",
+      "label": "Continuità del centro palatino sotto i successori",
+      "lane": "Politica",
+      "start": 3,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "at8",
+      "label": "Inizio della tradizione delle incoronazioni nel 936",
+      "lane": "Culto",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    }
+  ]
+}

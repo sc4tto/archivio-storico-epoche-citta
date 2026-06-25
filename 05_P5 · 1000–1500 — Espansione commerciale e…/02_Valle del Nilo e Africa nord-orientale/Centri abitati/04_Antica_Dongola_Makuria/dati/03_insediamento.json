@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "d1",
+      "label": "Capitale cristiana di Makuria",
+      "lane": "Politica",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "d2",
+      "label": "Chiese, monasteri e pitture murali",
+      "lane": "Religione",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "d3",
+      "label": "Palazzo e sala del trono",
+      "lane": "Architettura",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "d4",
+      "label": "Commercio e quartieri urbani",
+      "lane": "Economia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "d5",
+      "label": "Conflitti con poteri egiziani e dinastie locali",
+      "lane": "Conflitto",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "d6",
+      "label": "Conversione della sala del trono in moschea",
+      "lane": "Religione",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "d7",
+      "label": "Trasformazione dei quartieri e islamizzazione",
+      "lane": "Urbanistica",
+      "start": 3,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "d8",
+      "label": "Declino politico e continuità locale",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

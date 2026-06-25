@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Shum Laka conserva una lunga sequenza dalla Later Stone Age alle fasi recenti",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "UNESCO_SHUM"
+  },
+  {
+    "claim": "Il riparo ha restituito grandi quantità di manufatti litici",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "SHUM_LITHIC"
+  },
+  {
+    "claim": "Sono documentate sepolture umane di più fasi",
+    "theme": "Ritualità",
+    "status": "documentato",
+    "source": "NATURE_SHUM"
+  },
+  {
+    "claim": "La ceramica appartiene soprattutto a fasi oloceniche più tarde",
+    "theme": "Ceramica",
+    "status": "documentato",
+    "source": "SHUM_SEQUENCE"
+  },
+  {
+    "claim": "Il DNA antico non rappresenta semplicemente una popolazione sorgente bantu",
+    "theme": "Popolazioni",
+    "status": "documentato",
+    "source": "NATURE_SHUM"
+  },
+  {
+    "claim": "Tutti gli occupanti parlavano lingue bantu",
+    "theme": "Lingua",
+    "status": "non_documentato",
+    "source": "La lingua non è direttamente osservabile"
+  },
+  {
+    "claim": "Il riparo era una città permanente",
+    "theme": "Urbanizzazione",
+    "status": "non_documentato",
+    "source": "Occupazioni ripetute di un riparo"
+  },
+  {
+    "claim": "Tutte le sepolture ebbero lo stesso significato rituale",
+    "theme": "Ritualità",
+    "status": "non_documentato",
+    "source": "Fasi e contesti diversi"
+  }
+]

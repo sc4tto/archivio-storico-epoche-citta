@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "La ricostruzione postbellica e l’edilizia municipale risposero sia ai danni del Blitz sia a una precedente crisi abitativa.",
+    "theme": "abitazione",
+    "status": "documentato",
+    "source": "LO1; LO2"
+  },
+  {
+    "claim": "I piani di ricostruzione orientarono decentramento, Green Belt e localizzazione di abitazioni, industria e trasporti.",
+    "theme": "pianificazione",
+    "status": "documentato",
+    "source": "LO2"
+  },
+  {
+    "claim": "Il Grande Smog del 1952 fu una grave crisi sanitaria legata soprattutto alla combustione del carbone.",
+    "theme": "ambiente",
+    "status": "documentato",
+    "source": "LO3"
+  },
+  {
+    "claim": "Il NHS, operativo dal 1948, rese l’assistenza sanitaria un pilastro del welfare postbellico.",
+    "theme": "sanità",
+    "status": "documentato",
+    "source": "LO4"
+  },
+  {
+    "claim": "La crescita stradale e la motorizzazione modificarono accessibilità e forma urbana, senza eliminare disuguaglianze abitative.",
+    "theme": "mobilità",
+    "status": "sintesi",
+    "source": "LO1; LO2"
+  },
+  {
+    "claim": "Londra, ricostruzione, welfare e Grande Smog è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Bombardamenti, sgomberi, demolizioni e trasferimenti dalle aree di ricostruzione sono descritti come processi capaci di produrre perdita della casa e disuguaglianza; l’inquinamento del 1952 non è presentato come incidente neutrale, ma come effetto letale di combustibili, politiche e condizioni sociali.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

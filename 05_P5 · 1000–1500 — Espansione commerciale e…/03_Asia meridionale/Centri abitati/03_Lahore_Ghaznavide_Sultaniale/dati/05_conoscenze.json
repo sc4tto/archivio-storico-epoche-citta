@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Lahore ghaznavide e sultaniale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Acqua",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Ravi, pozzi e canali",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Giardini e orti irrigui",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Difesa",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Forte e mura",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Porte e controllo delle rotte",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Mattone cotto e archi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Stucco e iscrizioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Punjab, Kabul e Multan",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Sarai e mercati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Religione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Sufi, moschee e khanqah",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Patronato ghaznavide e sultaniale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

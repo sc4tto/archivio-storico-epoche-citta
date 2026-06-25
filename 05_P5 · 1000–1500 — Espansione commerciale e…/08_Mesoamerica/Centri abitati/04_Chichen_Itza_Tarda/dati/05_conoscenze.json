@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Chichén Itzá tarda e paesaggio dei cenotes",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Acqua",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Gestione dei cenotes",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Localizzazione degli insediamenti carsici",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Volta maya e piattaforme",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Colonnati e grandi piazze",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Astronomia e calendario",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Orientamenti monumentali",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_1",
+          "label": "Cicli rituali e osservazione celeste",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Scambi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Reti dello Yucatán",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Contatti con il Messico centrale",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Ritualità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Cenote Sacro e offerte",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Gioco della pelota e processioni",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

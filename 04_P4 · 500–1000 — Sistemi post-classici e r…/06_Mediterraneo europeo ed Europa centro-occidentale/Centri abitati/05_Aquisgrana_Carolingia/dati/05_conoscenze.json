@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Aquisgrana carolingia",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0_geometry",
+      "label": "Architettura e geometria",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0_oct",
+          "label": "Progetto ottagonale e cupola",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1_models",
+          "label": "Adattamento di modelli romani e ravennati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1_metal",
+      "label": "Arti del metallo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0_casting",
+          "label": "Fusione di porte e grate bronzee",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1_smith",
+          "label": "Officine e montaggio",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2_court",
+      "label": "Amministrazione di corte",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0_capit",
+          "label": "Capitolari, archivi e messaggeri",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1_assembly",
+          "label": "Organizzazione di assemblee",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3_school",
+      "label": "Scuola palatina",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0_latin",
+          "label": "Latino, copiatura e correzione dei testi",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1_computus",
+          "label": "Calcolo, liturgia e calendario",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4_territory",
+      "label": "Logistica territoriale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0_estatesk",
+          "label": "Gestione delle tenute regie",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1_hospitality",
+          "label": "Ospitalità, scorte e trasporti",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

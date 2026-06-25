@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Jiahu",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Ambiente",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Risorse fluviali",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Gestione delle zone umide",
+          "status": "sintesi"
+        },
+        {
+          "id": "k1_3",
+          "label": "Cicli stagionali",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Agricoltura",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Riso",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_2",
+          "label": "Miglio",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_3",
+          "label": "Raccolta di ghiande e frutti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Pesca e caccia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Pesca",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Tartarughe e fauna acquatica",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Caccia al cervo",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Tecnologie alimentari",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Macinazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Fermentazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Cottura",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Musica e rituale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Produzione di flauti ossei",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Accordatura e foratura",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Funzione rituale esclusiva",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Segni e organizzazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Segni incisi",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Gestione delle sepolture",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Scrittura pienamente sviluppata",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

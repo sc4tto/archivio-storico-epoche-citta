@@ -1,0 +1,228 @@
+{
+  "nodes": [
+    {
+      "id": "env1",
+      "label": "Margine coltivabile del Delta",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "env2",
+      "label": "Canali, paludi e acque del Nilo",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "env3",
+      "label": "Steppe e margini desertici",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "crop1",
+      "label": "Frumenti e orzo",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "crop2",
+      "label": "Legumi e altre piante coltivate",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "animal",
+      "label": "Bovini, ovicaprini e suini",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "aquatic",
+      "label": "Pesci e molluschi d’acqua dolce",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "wild",
+      "label": "Selvaggina e piante spontanee",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "cultivate",
+      "label": "Coltivazione e mietitura",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "herd",
+      "label": "Allevamento e custodia delle mandrie",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "fishhunt",
+      "label": "Pesca, caccia e raccolta",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "grind",
+      "label": "Macinazione e pestatura",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "cook",
+      "label": "Cottura in focolari",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "store",
+      "label": "Deposito in fosse e contenitori",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "butcher",
+      "label": "Macellazione e trattamento del pesce",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "meals",
+      "label": "Pappe, pani non lievitati e pasti misti",
+      "layer": 4,
+      "status": "inferito"
+    },
+    {
+      "id": "evidence",
+      "label": "Semi, ossa e strumenti di lavorazione",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "refuse",
+      "label": "Cenere, conchiglie e scarti domestici",
+      "layer": 4,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "env1",
+      "target": "crop1",
+      "label": "ambiente produttivo",
+      "status": "sintesi"
+    },
+    {
+      "source": "env1",
+      "target": "crop2",
+      "label": "ambiente produttivo",
+      "status": "sintesi"
+    },
+    {
+      "source": "env2",
+      "target": "aquatic",
+      "label": "risorse acquatiche",
+      "status": "sintesi"
+    },
+    {
+      "source": "env3",
+      "target": "animal",
+      "label": "pascolo o gestione animale",
+      "status": "inferito"
+    },
+    {
+      "source": "env3",
+      "target": "wild",
+      "label": "raccolta e caccia",
+      "status": "sintesi"
+    },
+    {
+      "source": "crop1",
+      "target": "cultivate",
+      "label": "produzione o raccolta",
+      "status": "sintesi"
+    },
+    {
+      "source": "crop2",
+      "target": "cultivate",
+      "label": "produzione o raccolta",
+      "status": "sintesi"
+    },
+    {
+      "source": "animal",
+      "target": "herd",
+      "label": "gestione animale",
+      "status": "sintesi"
+    },
+    {
+      "source": "aquatic",
+      "target": "fishhunt",
+      "label": "pesca e raccolta",
+      "status": "sintesi"
+    },
+    {
+      "source": "wild",
+      "target": "fishhunt",
+      "label": "caccia e raccolta",
+      "status": "sintesi"
+    },
+    {
+      "source": "cultivate",
+      "target": "grind",
+      "label": "trasformazione vegetale",
+      "status": "documentato"
+    },
+    {
+      "source": "cultivate",
+      "target": "store",
+      "label": "conservazione",
+      "status": "sintesi"
+    },
+    {
+      "source": "herd",
+      "target": "butcher",
+      "label": "prodotti animali",
+      "status": "sintesi"
+    },
+    {
+      "source": "fishhunt",
+      "target": "butcher",
+      "label": "trattamento delle prede",
+      "status": "inferito"
+    },
+    {
+      "source": "grind",
+      "target": "meals",
+      "label": "preparazione",
+      "status": "inferito"
+    },
+    {
+      "source": "cook",
+      "target": "meals",
+      "label": "cottura",
+      "status": "inferito"
+    },
+    {
+      "source": "store",
+      "target": "evidence",
+      "label": "contenitori e fosse",
+      "status": "documentato"
+    },
+    {
+      "source": "butcher",
+      "target": "evidence",
+      "label": "resti faunistici",
+      "status": "sintesi"
+    },
+    {
+      "source": "cook",
+      "target": "refuse",
+      "label": "cenere e residui",
+      "status": "sintesi"
+    }
+  ]
+}

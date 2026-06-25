@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Taipei, rifugiati, autoritarismo e industrializzazione",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Infrastrutture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Ferrovie, strade, ponti, porto di Keelung, energia e telecomunicazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Acqua, fognature, sanità, scuole, mercati e controllo delle inondazioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Economia urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Industria leggera, tessili, alimentare, imprese pubbliche e PMI",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Aiuti statunitensi, commercio, logistica ed esportazioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Politica e istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Governo ROC, KMT, municipalità, esercito e apparati di sicurezza",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Pianificazione, legge marziale, censura e amministrazione centrale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Taiwanesi locali, rifugiati mainlander, militari, operai e studenti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Quartieri militari, università, associazioni e culture linguistiche plurali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Crisi e disuguaglianze",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Repressione del 1947, Terrore bianco, sovraffollamento e alloggi precari",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Discriminazioni politiche, censura, servizi diseguali e inquinamento",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

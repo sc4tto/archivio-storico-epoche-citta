@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_102_P9_Oceania_Pacifico_5_Centri_v1",
+  "macroregion": "Oceania e Pacifico",
+  "centers": [
+    "01_Sydney_Immigrazione_Suburbio_Edilizia_Pubblica",
+    "02_Melbourne_Migrazione_Industria_High_Rise_Suburbio",
+    "03_Auckland_Motorizzazione_Migrazione_Maori_Suburbio",
+    "04_Wellington_Capitale_Alloggi_Motorway_Migrazioni",
+    "05_Honolulu_Statehood_Turismo_Motorizzazione_Terra"
+  ],
+  "uses_central_assets": true
+}

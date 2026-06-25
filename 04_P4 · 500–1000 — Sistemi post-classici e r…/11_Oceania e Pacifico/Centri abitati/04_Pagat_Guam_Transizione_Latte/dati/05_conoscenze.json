@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Pagat e la transizione Latte di Guam",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Orticoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Tuberi e arboricoltura",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Gestione di suoli calcarei",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Canoe fra le Marianne",
+          "status": "sintesi"
+        },
+        {
+          "id": "k1_1",
+          "label": "Pesca offshore e di reef",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Case in materiali deperibili",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Transizione verso supporti latte",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Ceramica",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Utensili in conchiglia e pietra",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Paesaggio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Grotte, sorgenti e costa",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Luoghi funerari e comunitari",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

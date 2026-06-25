@@ -1,0 +1,210 @@
+{
+  "nodes": [
+    {
+      "id": "t_piana",
+      "label": "Piana di Roluos",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_tonle",
+      "label": "Acque e zone umide del Tonlé Sap",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "t_bosco",
+      "label": "Boschi e giardini tropicali",
+      "layer": 0,
+      "status": "inferito"
+    },
+    {
+      "id": "r_riso",
+      "label": "Riso",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "r_pesce",
+      "label": "Pesce e risorse acquatiche",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "r_frutta",
+      "label": "Frutta, palma e ortaggi",
+      "layer": 1,
+      "status": "inferito"
+    },
+    {
+      "id": "r_animali",
+      "label": "Bovini, suini e pollame",
+      "layer": 1,
+      "status": "inferito"
+    },
+    {
+      "id": "a_risaia",
+      "label": "Coltivazione in risaia",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "a_pesca",
+      "label": "Pesca e raccolta acquatica",
+      "layer": 2,
+      "status": "inferito"
+    },
+    {
+      "id": "a_giardino",
+      "label": "Orticoltura e raccolta",
+      "layer": 2,
+      "status": "inferito"
+    },
+    {
+      "id": "a_allevamento",
+      "label": "Allevamento domestico",
+      "layer": 2,
+      "status": "inferito"
+    },
+    {
+      "id": "x_pulitura",
+      "label": "Battitura e pulitura",
+      "layer": 3,
+      "status": "inferito"
+    },
+    {
+      "id": "x_cottura",
+      "label": "Bollitura e cottura",
+      "layer": 3,
+      "status": "inferito"
+    },
+    {
+      "id": "x_conserva",
+      "label": "Essiccazione e fermentazione",
+      "layer": 3,
+      "status": "inferito"
+    },
+    {
+      "id": "p_riso",
+      "label": "Riso cotto e preparazioni cerealicole",
+      "layer": 4,
+      "status": "inferito"
+    },
+    {
+      "id": "p_pesce",
+      "label": "Pesce fresco o conservato",
+      "layer": 4,
+      "status": "inferito"
+    },
+    {
+      "id": "p_surplus",
+      "label": "Surplus per corte, templi e lavoro",
+      "layer": 4,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "t_piana",
+      "target": "r_riso",
+      "status": "sintesi",
+      "label": "suoli agricoli"
+    },
+    {
+      "source": "t_tonle",
+      "target": "r_pesce",
+      "status": "sintesi",
+      "label": "reti d’acqua"
+    },
+    {
+      "source": "t_bosco",
+      "target": "r_frutta",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "t_piana",
+      "target": "r_animali",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "r_riso",
+      "target": "a_risaia",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "r_pesce",
+      "target": "a_pesca",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "r_frutta",
+      "target": "a_giardino",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "r_animali",
+      "target": "a_allevamento",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "a_risaia",
+      "target": "x_pulitura",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "a_pesca",
+      "target": "x_conserva",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "a_giardino",
+      "target": "x_cottura",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "a_allevamento",
+      "target": "x_cottura",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "x_pulitura",
+      "target": "p_riso",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "x_cottura",
+      "target": "p_riso",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "x_conserva",
+      "target": "p_pesce",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "p_riso",
+      "target": "p_surplus",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "p_pesce",
+      "target": "p_surplus",
+      "status": "inferito",
+      "label": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Khao Sam Kaeo fu attivo fra IV e I secolo a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "KSK_BELLINA"
+  },
+  {
+    "claim": "Sono documentate officine di vetro, pietra e metallo",
+    "theme": "Produzione",
+    "status": "documentato",
+    "source": "KSK_BELLINA"
+  },
+  {
+    "claim": "Il sito collegava reti dell’Oceano Indiano e del Mar Cinese Meridionale",
+    "theme": "Reti",
+    "status": "documentato",
+    "source": "KSK_BEFEO"
+  },
+  {
+    "claim": "Tecniche artigianali esterne furono adattate localmente",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "KSK_METAL"
+  },
+  {
+    "claim": "Il sito era una colonia politica dell’India",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Trasferimenti non equivalgono a colonizzazione"
+  },
+  {
+    "claim": "Tutti gli artigiani erano immigrati",
+    "theme": "Demografia",
+    "status": "non_documentato",
+    "source": "Origini e mobilità complesse"
+  },
+  {
+    "claim": "Ogni terrapieno era una fortificazione militare",
+    "theme": "Urbanistica",
+    "status": "non_documentato",
+    "source": "Funzioni differenziate"
+  },
+  {
+    "claim": "Le merci giungevano sempre per rotte dirette senza intermediari",
+    "theme": "Reti",
+    "status": "non_documentato",
+    "source": "Circuiti multilocali"
+  }
+]

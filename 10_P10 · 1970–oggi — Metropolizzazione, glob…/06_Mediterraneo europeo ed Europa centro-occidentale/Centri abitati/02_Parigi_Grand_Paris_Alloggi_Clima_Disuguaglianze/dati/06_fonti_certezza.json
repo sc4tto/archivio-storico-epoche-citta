@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Il Piano climatico 2024–2030 di Parigi integra adattamento, riduzione delle emissioni, edilizia e mobilità.",
+    "theme": "clima",
+    "status": "documentato",
+    "source": "PA1"
+  },
+  {
+    "claim": "Il progetto Grand Paris Express comprende nuove linee automatiche e aperture progressive previste fra il 2024 e il 2030.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "PA2"
+  },
+  {
+    "claim": "APUR ha rilevato nel 2021 una povertà nella Métropole du Grand Paris superiore alla media della Francia metropolitana e forti differenze comunali.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "PA3"
+  },
+  {
+    "claim": "L’eredità olimpica comprende abitazioni, spazi pubblici, ciclabilità e trasformazioni nel nord-est metropolitano.",
+    "theme": "rigenerazione",
+    "status": "documentato",
+    "source": "PA4"
+  },
+  {
+    "claim": "Le tratte del Grand Paris Express successive al 25 giugno 2026 restano progetti in costruzione o programmati.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "PA2"
+  },
+  {
+    "claim": "Parigi, Grand Paris, alloggi, clima e disuguaglianze è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "La segregazione territoriale, la repressione delle rivolte del 2005, le espulsioni e gli sgomberi di campi e occupazioni, la gentrificazione e la diseguale esposizione al calore non sono presentate come conseguenze neutrali della rigenerazione metropolitana.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

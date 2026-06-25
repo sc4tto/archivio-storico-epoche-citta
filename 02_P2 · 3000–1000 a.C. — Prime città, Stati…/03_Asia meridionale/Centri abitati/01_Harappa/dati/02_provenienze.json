@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Harappa",
+      "lat": 30.628,
+      "lon": 72.864,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "ravi",
+      "label": "Antico corso del Ravi",
+      "lat": 30.7,
+      "lon": 72.9,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "farm",
+      "label": "Piana agricola del Punjab",
+      "lat": 30.5,
+      "lon": 72.8,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "ganweriwala",
+      "label": "Ganweriwala / Cholistan",
+      "lat": 28.55,
+      "lon": 71.05,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "mohenjo",
+      "label": "Mohenjo-daro",
+      "lat": 27.329,
+      "lon": 68.138,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "baluchistan",
+      "label": "Belucistan e altopiani",
+      "lat": 29.5,
+      "lon": 67.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "ravi",
+      "target": "site",
+      "label": "acqua, pesce e trasporto",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "farm",
+      "target": "site",
+      "label": "cereali, cotone e bestiame",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "ganweriwala",
+      "target": "site",
+      "label": "ceramiche, pesi e reti regionali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "mohenjo",
+      "target": "site",
+      "label": "standard condivisi e scambi",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "baluchistan",
+      "target": "site",
+      "label": "rame, pietre e tradizioni precedenti",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Frequentazioni tardo-pleistoceniche",
+    "Fase Western Stemmed",
+    "Uso olocenico iniziale",
+    "Occupazioni stagionali ripetute",
+    "Fasi tarde e conservazione"
+  ],
+  "items": [
+    {
+      "id": "early",
+      "label": "Frequentazioni delle grotte",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "copro",
+      "label": "Deposizione di coproliti umani",
+      "lane": "Evidenze",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "points",
+      "label": "Punte peduncolate occidentali",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "hearth",
+      "label": "Focolari e superfici di attività",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "fibres",
+      "label": "Intreccio e lavorazione di fibre",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "hunt",
+      "label": "Caccia e raccolta stagionale",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "pres",
+      "label": "Conservazione in ambiente arido",
+      "lane": "Formazione",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

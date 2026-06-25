@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Chaco Canyon nel periodo maturo",
+    "site": "Chaco Canyon e Pueblo Bonito",
+    "modern_location": "New Mexico nord-occidentale, Stati Uniti",
+    "coordinates": {
+      "lat": 36.0606,
+      "lon": -107.9617
+    },
+    "scope": "Chaco Canyon fra 1000 e 1250, con enfasi sull’apogeo fra circa 1020 e 1110, sulle grandi case, sulle kiva e sulla rete stradale.",
+    "version": "1.0",
+    "warning": "Il modulo distingue il periodo maturo dalla fase formativa già trattata nel Blocco 46. I rapporti di autorità fra grandi case e comunità esterne restano oggetto di interpretazione."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "CH1",
+      "title": "UNESCO — Chaco Culture",
+      "use": "Cronologia, grandi case, strade e ruolo cerimoniale e commerciale.",
+      "url": "https://whc.unesco.org/en/list/353/"
+    },
+    {
+      "id": "CH2",
+      "title": "National Park Service — Chaco Culture National Historical Park",
+      "use": "Storia, architettura, paesaggio e comunità Pueblo contemporanee.",
+      "url": "https://www.nps.gov/chcu/learn/historyculture/index.htm"
+    },
+    {
+      "id": "CH3",
+      "title": "National Park Service — Great Houses",
+      "use": "Pueblo Bonito, Chetro Ketl e architettura monumentale.",
+      "url": "https://www.nps.gov/chcu/learn/historyculture/great-houses.htm"
+    },
+    {
+      "id": "CH4",
+      "title": "National Park Service — Chacoan Roads",
+      "use": "Sistema stradale e connessioni regionali.",
+      "url": "https://www.nps.gov/chcu/learn/historyculture/chacoan-roads.htm"
+    },
+    {
+      "id": "CH5",
+      "title": "UNESCO — Outstanding Universal Value of Chaco Culture",
+      "use": "Apogeo 1020–1110 e rete archeologica regionale.",
+      "url": "https://whc.unesco.org/en/list/353/"
+    }
+  ]
+}

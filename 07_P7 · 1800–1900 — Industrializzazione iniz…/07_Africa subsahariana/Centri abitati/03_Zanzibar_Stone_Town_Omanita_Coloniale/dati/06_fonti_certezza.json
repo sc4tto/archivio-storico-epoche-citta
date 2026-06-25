@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Stone Town fu un grande centro commerciale e politico dell’Oceano Indiano.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "ZA1; ZA3"
+  },
+  {
+    "claim": "La corte omanita si stabilì a Zanzibar nel XIX secolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "ZA1; ZA3"
+  },
+  {
+    "claim": "La ricchezza delle piantagioni di chiodi di garofano dipese largamente dal lavoro schiavizzato.",
+    "theme": "coercizione",
+    "status": "documentato",
+    "source": "ZA1; ZA3"
+  },
+  {
+    "claim": "Le case urbane usarono pietra corallina, calce, cortili e porte intagliate.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "ZA1; ZA2"
+  },
+  {
+    "claim": "Comunità swahili, arabe, indiane ed europee contribuirono al paesaggio urbano.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "ZA1; ZA5"
+  },
+  {
+    "claim": "Il mercato degli schiavi fu chiuso legalmente nel 1873, ma la coercizione non cessò immediatamente.",
+    "theme": "coercizione",
+    "status": "documentato",
+    "source": "ZA1; ZA3"
+  },
+  {
+    "claim": "Zanzibar divenne protettorato britannico nel 1890.",
+    "theme": "colonialismo",
+    "status": "documentato",
+    "source": "ZA3; ZA4"
+  },
+  {
+    "claim": "Le trasformazioni successive al 1900 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "ZA1"
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Batavia–Giakarta coloniale olandese",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Acqua e salute",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Canali, drenaggi e bonifiche",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Malaria, colera e spostamento urbano",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Amministrazione coloniale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Residenze, censimenti e polizia",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Sistema delle colture e fiscalità",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Trasporti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Strade postali e ferrovie",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Tanjung Priok e navigazione a vapore",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Produzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Zucchero, caffè, tè e riso",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Magazzini, opifici e commercio",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Muratura tropicale e ventilazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Ferro, vetro e edifici pubblici",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

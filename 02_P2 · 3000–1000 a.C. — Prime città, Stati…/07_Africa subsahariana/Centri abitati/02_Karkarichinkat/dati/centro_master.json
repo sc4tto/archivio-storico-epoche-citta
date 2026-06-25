@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Karkarichinkat — modulo multi-grafo",
+    "short_name": "Karkarichinkat",
+    "site": "Karkarichinkat Nord e Sud",
+    "modern_location": "Bassa valle del Tilemsi, Mali orientale",
+    "coordinates": {
+      "lat": 17.9,
+      "lon": -0.2
+    },
+    "scope": "Complesso pastorale e funerario del Tilemsi con bovini domestici, ceramica, macine, primi resti di miglio perlato e pratiche di sepoltura in un paesaggio che divenne progressivamente più arido.",
+    "version": "1.0-blocco_20_p2_africa_subsahariana_5_centri_v1",
+    "warning": "I siti Nord e Sud hanno cronologie e funzioni differenti. Le datazioni di miglio, sepolture e occupazioni non devono essere fuse in un’unica fase continua."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "KK_MANNING",
+      "title": "Manning et al. — 4500-year-old domesticated pearl millet from the Tilemsi Valley",
+      "url": "https://doi.org/10.1016/j.jas.2010.09.007",
+      "use": "resti archeobotanici e domesticazione del miglio"
+    },
+    {
+      "id": "KK_FINUCANE",
+      "title": "Finucane, Manning e Touré — Prehistoric dental modification in West Africa",
+      "url": "https://onlinelibrary.wiley.com/journal/10991212",
+      "use": "sepolture e modificazioni dentarie"
+    },
+    {
+      "id": "KK_SUBSIST",
+      "title": "Finucane — Late Stone Age subsistence in the Tilemsi Valley",
+      "url": "https://www.sciencedirect.com/journal/journal-of-anthropological-archaeology",
+      "use": "isotopi, dieta e gestione del bestiame"
+    }
+  ]
+}

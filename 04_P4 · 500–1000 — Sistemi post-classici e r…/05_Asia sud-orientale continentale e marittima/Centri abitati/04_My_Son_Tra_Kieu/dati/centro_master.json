@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Mỹ Sơn–Trà Kiệu",
+    "site": "Paesaggio sacro e politico della valle del Thu Bồn",
+    "modern_location": "Quảng Nam, Vietnam centrale",
+    "coordinates": {
+      "lat": 15.77,
+      "lon": 108.12
+    },
+    "scope": "Sistema territoriale di Champa fra il santuario di Mỹ Sơn, la capitale tradizionalmente identificata con Trà Kiệu e l’accesso marittimo del Thu Bồn.",
+    "version": "1.0",
+    "warning": "L’identificazione di Trà Kiệu con Simhapura e la ricostruzione delle funzioni urbane restano discusse. Il modulo unisce siti complementari senza considerarli un unico abitato continuo."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "M1",
+      "title": "UNESCO World Heritage Centre — My Son Sanctuary",
+      "use": "Cronologia, architettura, religione e rapporto con il Thu Bồn.",
+      "url": "https://whc.unesco.org/en/list/949/"
+    },
+    {
+      "id": "M2",
+      "title": "Encyclopaedia Britannica — Champa",
+      "use": "Quadro storico del regno e dei centri dell’Amaravati.",
+      "url": "https://www.britannica.com/place/Champa-ancient-kingdom-Indochina"
+    },
+    {
+      "id": "M3",
+      "title": "Andrew Hardy, Mauro Cucarzi, Patrizia Zolese, Champa and the Archaeology of Mỹ Sơn",
+      "use": "Archeologia del santuario e del territorio Cham.",
+      "url": "https://nuspress.nus.edu.sg/products/champa-and-the-archaeology-of-my-son-vietnam"
+    },
+    {
+      "id": "M4",
+      "title": "Ian Glover e Bérénice Bellina — studi su Trà Kiệu e reti commerciali",
+      "use": "Archeologia urbana e scambi nella valle del Thu Bồn.",
+      "url": "https://www.cambridge.org/core/books/early-interactions-between-south-and-southeast-asia/"
+    },
+    {
+      "id": "M5",
+      "title": "Corpus of the Inscriptions of Campā — EFEO/NYU",
+      "use": "Epigrafia Cham e sanscrita.",
+      "url": "https://isaw.nyu.edu/publications/inscriptions/campa"
+    }
+  ]
+}

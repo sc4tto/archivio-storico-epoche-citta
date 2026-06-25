@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "La Metro Line 1 misura 19,7 km e comprende 14 stazioni, tre sotterranee e undici sopraelevate.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "HC1"
+  },
+  {
+    "claim": "La prima linea della metropolitana è entrata in servizio commerciale nel dicembre 2024.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "HC2"
+  },
+  {
+    "claim": "La Banca Mondiale descrive un rischio di alluvione significativo e crescente, che richiede strategie integrate e robuste.",
+    "theme": "rischio",
+    "status": "documentato",
+    "source": "HC3"
+  },
+  {
+    "claim": "Le comunicazioni e le submission ONU documentano restrizioni persistenti alla libertà di espressione e persecuzioni di attivisti.",
+    "theme": "diritti",
+    "status": "documentato",
+    "source": "HC4"
+  },
+  {
+    "claim": "Le ulteriori linee e gli orizzonti 2040–2060 restano piani o progetti futuri.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "HC1"
+  },
+  {
+    "claim": "Ho Chi Minh City, industria, metro, alluvioni e ricollocazioni è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Le rieducazioni e migrazioni controllate del dopoguerra, le acquisizioni fondiarie, le demolizioni e ricollocazioni per grandi progetti, la disciplina del lavoro industriale e la repressione del dissenso sono trattate come coercizione e disuguaglianza, non come processi urbani neutrali.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

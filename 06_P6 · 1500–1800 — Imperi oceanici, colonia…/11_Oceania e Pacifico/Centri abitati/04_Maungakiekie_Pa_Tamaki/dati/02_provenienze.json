@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Maungakiekie pā",
+      "lat": -36.9006,
+      "lon": 174.783,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "ist",
+      "label": "Istmo di Tāmaki",
+      "lat": -36.9,
+      "lon": 174.82,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "wai",
+      "label": "Waitematā Harbour",
+      "lat": -36.83,
+      "lon": 174.78,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "man",
+      "label": "Manukau Harbour",
+      "lat": -37.0,
+      "lon": 174.75,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "hau",
+      "label": "Hauraki Gulf e isole",
+      "lat": -36.7,
+      "lon": 175.1,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "wai2",
+      "label": "Waikato e Kaipara",
+      "lat": -37.5,
+      "lon": 174.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "aot",
+      "label": "Reti costiere di Aotearoa",
+      "lat": -38.5,
+      "lon": 176.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "ist",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sentieri e orti",
+      "food": "kūmara, legname, fibre e manodopera"
+    },
+    {
+      "source": "wai",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "waka e approdi",
+      "food": "pesce, molluschi e trasporto"
+    },
+    {
+      "source": "man",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "waka e portage",
+      "food": "pesce, anguille, sale e accesso alla costa occidentale"
+    },
+    {
+      "source": "hau",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione nel golfo",
+      "food": "ossidiana, conchiglie e prodotti insulari"
+    },
+    {
+      "source": "wai2",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "vie terrestri e fluviali",
+      "food": "derrate, pietra e alleanze"
+    },
+    {
+      "source": "aot",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti di scambio a lunga distanza",
+      "food": "pounamu, conoscenze e beni di prestigio"
+    }
+  ]
+}

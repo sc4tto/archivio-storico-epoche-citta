@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Ollantaytambo fu profondamente trasformato dagli Inca nel XV secolo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "OL1; OL2"
+  },
+  {
+    "claim": "Terrazze e canali integravano agricoltura, controllo dell’acqua e monumentalità.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "OL1; OL4"
+  },
+  {
+    "claim": "Grandi blocchi furono trasportati dalle cave di Kachiqhata.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "OL2; OL4"
+  },
+  {
+    "claim": "Il quartiere urbano impiegava moduli a kancha e strade pianificate.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "OL1; OL2"
+  },
+  {
+    "claim": "Il Tempio del Sole conserva settori incompiuti.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "OL2; OL4"
+  },
+  {
+    "claim": "Il sito era collegato a Cusco e alle rotte orientali.",
+    "theme": "reti",
+    "status": "documentato",
+    "source": "OL1; OL5"
+  },
+  {
+    "claim": "Le funzioni di fortezza, tempio e tenuta reale possono coesistere.",
+    "theme": "metodo",
+    "status": "sintesi",
+    "source": "OL2; OL3"
+  },
+  {
+    "claim": "Gli eventi del 1536 sono esclusi dal periodo.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "OL2"
+  }
+]

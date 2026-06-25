@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Costantinopoli",
+      "lat": 41.008,
+      "lon": 28.978,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "thr",
+      "label": "Tracia",
+      "lat": 41.25,
+      "lon": 27.8,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "bos",
+      "label": "Bosforo",
+      "lat": 41.12,
+      "lon": 29.08,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "mar",
+      "label": "Mar di Marmara",
+      "lat": 40.7,
+      "lon": 28.4,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "blk",
+      "label": "Mar Nero",
+      "lat": 42.0,
+      "lon": 31.5,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "aeg",
+      "label": "Egeo",
+      "lat": 39.0,
+      "lon": 25.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "ana",
+      "label": "Anatolia occidentale",
+      "lat": 39.5,
+      "lon": 30.5,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "thr",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e proprietà rurali",
+      "food": "grano, vino e bestiame"
+    },
+    {
+      "source": "bos",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "pesca e cabotaggio",
+      "food": "pesce e merci"
+    },
+    {
+      "source": "mar",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porti e approdi",
+      "food": "grano, sale e ceramiche"
+    },
+    {
+      "source": "blk",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte del Mar Nero",
+      "food": "grano, cera e pesce"
+    },
+    {
+      "source": "aeg",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte egee",
+      "food": "olio, vino e merci mediterranee"
+    },
+    {
+      "source": "ana",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e porti anatolici",
+      "food": "cereali, frutta e animali"
+    }
+  ]
+}

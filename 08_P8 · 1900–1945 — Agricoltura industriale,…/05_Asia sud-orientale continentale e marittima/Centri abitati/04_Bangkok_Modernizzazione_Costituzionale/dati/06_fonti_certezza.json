@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Bangkok rimase il centro politico e amministrativo del Siam.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "BK1; BK2; BK5"
+  },
+  {
+    "claim": "Ferrovie, tram e strade trasformarono una città ancora fortemente fluviale.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "BK1; BK2"
+  },
+  {
+    "claim": "Riso e porto legavano la capitale alle esportazioni mondiali.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "BK2; BK5"
+  },
+  {
+    "claim": "La rivoluzione del 1932 introdusse la monarchia costituzionale.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "BK2; BK4"
+  },
+  {
+    "claim": "Rattanakosin conservò palazzi e templi mentre crescevano quartieri moderni.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "BK1; BK3"
+  },
+  {
+    "claim": "Il governo promosse nazionalismo e centralizzazione negli anni Trenta.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "BK2; BK5"
+  },
+  {
+    "claim": "Presenza giapponese, bombardamenti e razionamento segnarono la guerra.",
+    "theme": "conflitti",
+    "status": "documentato",
+    "source": "BK2"
+  },
+  {
+    "claim": "Espansione metropolitana successiva al 1945 è esclusa.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "BK1"
+  }
+]

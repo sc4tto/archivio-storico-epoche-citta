@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Manila, megaregione, trasporti, alluvioni e disuguaglianze",
+    "site": "Manila, megaregione, trasporti, alluvioni e disuguaglianze",
+    "modern_location": "Metro Manila, Filippine",
+    "coordinates": {
+      "lat": 14.5995,
+      "lon": 120.9842
+    },
+    "scope": "Metro Manila dal 1970 al 25 giugno 2026: consolidamento della regione metropolitana, regime di legge marziale e democratizzazione, crescita di Makati, Quezon City e nuovi poli, reti LRT e MRT, jeepney e trasporto informale, outsourcing e servizi, espansione degli insediamenti informali, alluvioni, gestione dei rifiuti e costruzione della Metro Manila Subway.",
+    "version": "1.0",
+    "warning": "La Metro Manila Subway resta un progetto in costruzione: le date di completamento successive al 25 giugno 2026 sono obiettivi programmati e non risultati conseguiti."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MA1",
+      "title": "World Bank — Metro Manila Flood Management Project, Implementation Status 2024",
+      "use": "Pompaggio, drenaggio, rifiuti, alluvioni e ricollocazione di famiglie insediate lungo i corsi d’acqua.",
+      "url": "https://documents1.worldbank.org/curated/en/099100324190511960/pdf/P1538141e9ead80fe196e812b5eed79f98a.pdf"
+    },
+    {
+      "id": "MA2",
+      "title": "World Bank — Navigating Informality: Perils and Prospects in Metro Manila",
+      "use": "Insediamenti informali, lavoro, mobilità quotidiana e diversità socioeconomica.",
+      "url": "https://pubdocs.worldbank.org/en/564861506978931790/Navigating-Informality-Metro-Manila-7-26-17web.pdf"
+    },
+    {
+      "id": "MA3",
+      "title": "JICA — Additional Financing for Metro Manila Subway Project",
+      "use": "Tracciato, stazioni, capacità prevista e stato di progetto della prima metropolitana sotterranea.",
+      "url": "https://www.jica.go.jp/english/overseas/philippine/information/press/2025/LAMMSPCMH.html"
+    },
+    {
+      "id": "MA4",
+      "title": "OHCHR — UN Report on Human Rights Violations in the Philippines",
+      "use": "Uccisioni extragiudiziali, impunità, difensori dei diritti e impatto della “guerra alla droga”.",
+      "url": "https://www.ohchr.org/en/press-releases/2020/06/philippines-un-report-details-widespread-human-rights-violations-and"
+    }
+  ]
+}

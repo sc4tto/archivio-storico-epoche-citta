@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Cnosso fu un centro amministrativo, economico e religioso della Creta dell’età del Bronzo",
+    "theme": "Funzione",
+    "status": "documentato",
+    "source": "KN_UNESCO"
+  },
+  {
+    "claim": "Il complesso palaziale fu ricostruito e rimodellato più volte",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "KN_BSA"
+  },
+  {
+    "claim": "Il centro comprendeva un ampio paesaggio urbano oltre il palazzo",
+    "theme": "Urbanizzazione",
+    "status": "documentato",
+    "source": "KN_UCL"
+  },
+  {
+    "claim": "A Cnosso sono attestati Lineare A e Lineare B",
+    "theme": "Scrittura",
+    "status": "documentato",
+    "source": "KN_UNESCO"
+  },
+  {
+    "claim": "Le ricostruzioni moderne vanno distinte dalle strutture antiche",
+    "theme": "Conservazione",
+    "status": "documentato",
+    "source": "KN_BSA"
+  },
+  {
+    "claim": "Il palazzo prova l’esistenza storica del re Minosse",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Mito e dati archeologici sono distinti"
+  },
+  {
+    "claim": "Tutti gli affreschi visibili sono originali integri",
+    "theme": "Conservazione",
+    "status": "non_documentato",
+    "source": "Molte ricostruzioni sono moderne"
+  },
+  {
+    "claim": "Cnosso controllò politicamente tutta Creta in ogni fase",
+    "theme": "Territorio",
+    "status": "non_documentato",
+    "source": "Gerarchie e autonomia regionale discusse"
+  }
+]

@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Philadelphia",
+      "lat": 39.9526,
+      "lon": -75.1652,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "del",
+      "label": "Delaware Valley",
+      "lat": 40.1,
+      "lon": -75.3,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "nj",
+      "label": "South Jersey",
+      "lat": 39.8,
+      "lon": -74.8,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "lan",
+      "label": "Lancaster e Pennsylvania rurale",
+      "lat": 40.04,
+      "lon": -76.3,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "coal",
+      "label": "Anthracite region",
+      "lat": 41.0,
+      "lon": -76.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "wes",
+      "label": "Pennsylvania occidentale e Midwest",
+      "lat": 40.5,
+      "lon": -80.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "atl",
+      "label": "Atlantico ed Europa",
+      "lat": 42.0,
+      "lon": -40.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "del",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiume, canali e ferrovie",
+      "food": "grano, latticini, frutta e legname"
+    },
+    {
+      "source": "nj",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "traghetti e ferrovie",
+      "food": "ortaggi, frutta, pollame e molluschi"
+    },
+    {
+      "source": "lan",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e Pennsylvania Railroad",
+      "food": "farina, carne, latticini e tabacco"
+    },
+    {
+      "source": "coal",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali e Reading Railroad",
+      "food": "carbone antracite e ferro"
+    },
+    {
+      "source": "wes",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Pennsylvania Railroad",
+      "food": "acciaio, grano e materie prime"
+    },
+    {
+      "source": "atl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto del Delaware e linee a vapore",
+      "food": "immigrati, caffè, tè e merci"
+    }
+  ]
+}

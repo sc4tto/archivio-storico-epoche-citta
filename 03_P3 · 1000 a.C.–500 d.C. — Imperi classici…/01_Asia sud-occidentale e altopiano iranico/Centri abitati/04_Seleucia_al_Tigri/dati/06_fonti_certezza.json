@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Seleucia fu fondata da Seleuco I all’inizio del III secolo a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "SEL_PLEIADES"
+  },
+  {
+    "claim": "La città fu un importante centro seleucide e partico",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "SEL_TURIN"
+  },
+  {
+    "claim": "Gli scavi hanno restituito numerose monete e case",
+    "theme": "Archeologia",
+    "status": "documentato",
+    "source": "SEL_KELSEY"
+  },
+  {
+    "claim": "Un edificio d’archivio ha restituito migliaia di impronte di sigillo",
+    "theme": "Amministrazione",
+    "status": "documentato",
+    "source": "SEL_TURIN"
+  },
+  {
+    "claim": "L’urbanistica combinava elementi ellenistici e tradizioni mesopotamiche",
+    "theme": "Urbanistica",
+    "status": "sintesi",
+    "source": "SEL_TURIN"
+  },
+  {
+    "claim": "La popolazione di 600.000 abitanti è un dato censuario verificato",
+    "theme": "Demografia",
+    "status": "non_documentato",
+    "source": "Cifra letteraria antica"
+  },
+  {
+    "claim": "La città era esclusivamente greca",
+    "theme": "Società",
+    "status": "non_documentato",
+    "source": "Popolazione plurale"
+  },
+  {
+    "claim": "Tutto il sito è stato scavato",
+    "theme": "Metodo",
+    "status": "non_documentato",
+    "source": "Aree estese restano inesplorate"
+  }
+]

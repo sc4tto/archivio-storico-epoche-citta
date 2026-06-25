@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Philadelphia",
+      "lat": 39.953,
+      "lon": -75.165,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "lan",
+      "label": "Contee agricole e Lancaster",
+      "lat": 40.0,
+      "lon": -76.3,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "del",
+      "label": "Valle e baia del Delaware",
+      "lat": 39.2,
+      "lon": -75.3,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "sch",
+      "label": "Schuylkill e Pennsylvania interna",
+      "lat": 40.3,
+      "lon": -76.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "len",
+      "label": "Territori Lenape",
+      "lat": 40.2,
+      "lon": -74.8,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "car",
+      "label": "Caraibi e Atlantico",
+      "lat": 18.0,
+      "lon": -66.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "col",
+      "label": "New York, Chesapeake e altri porti coloniali",
+      "lat": 39.0,
+      "lon": -74.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "lan",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carri e strade rurali",
+      "food": "grano, farina, bestiame e latticini"
+    },
+    {
+      "source": "del",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiume e baia",
+      "food": "pesce, legname e trasporto portuale"
+    },
+    {
+      "source": "sch",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiume e strade interne",
+      "food": "farina, ferro, legname e carbone iniziale"
+    },
+    {
+      "source": "len",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "scambi, trattati e pressione territoriale",
+      "food": "prodotti, conoscenze e relazioni diplomatiche"
+    },
+    {
+      "source": "car",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione atlantica",
+      "food": "zucchero, melassa e merci coloniali"
+    },
+    {
+      "source": "col",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cabotaggio e posta",
+      "food": "stampa, merci, persone e credito"
+    }
+  ]
+}

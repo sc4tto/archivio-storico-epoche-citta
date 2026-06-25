@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Santiago consolidò il proprio ruolo di capitale politica e finanziaria del Cile.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "SA1; SA3"
+  },
+  {
+    "claim": "La ferrovia con Valparaíso fu completata nel 1863.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "SA1; SA2"
+  },
+  {
+    "claim": "Gli interventi di Vicuña Mackenna modificarono viali, parchi e spazi pubblici.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "SA2; SA5"
+  },
+  {
+    "claim": "La canalizzazione del Mapocho avanzò nel tardo Ottocento.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "SA2; SA3"
+  },
+  {
+    "claim": "Industrie, ferrovie e mercati ampliarono il lavoro salariato urbano.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "SA2; SA4"
+  },
+  {
+    "claim": "Conventillos ed epidemie rivelarono forti carenze abitative e sanitarie.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "SA2; SA4"
+  },
+  {
+    "claim": "La ricchezza mineraria e agricola si concentrò in gruppi oligarchici.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "SA2; SA3"
+  },
+  {
+    "claim": "Le trasformazioni successive al 1900 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "SA1"
+  }
+]

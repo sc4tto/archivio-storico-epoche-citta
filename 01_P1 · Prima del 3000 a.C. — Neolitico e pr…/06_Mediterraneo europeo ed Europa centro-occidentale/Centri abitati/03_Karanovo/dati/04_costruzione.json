@@ -1,0 +1,198 @@
+{
+  "nodes": [
+    {
+      "id": "m1",
+      "label": "Legname e rami",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "m2",
+      "label": "Argilla, paglia e fibre",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m3",
+      "label": "Terra e sedimenti del tell",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m4",
+      "label": "Pietra, osso e corno",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "o1",
+      "label": "Carpenteria e intreccio",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "o2",
+      "label": "Impasto, rivestimento e cottura",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o3",
+      "label": "Livellamento e ricostruzione",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o4",
+      "label": "Taglio, levigatura e perforazione",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "c1",
+      "label": "Telai e sostegni",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "c2",
+      "label": "Pareti, forni e intonaci",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c3",
+      "label": "Pavimenti e piattaforme",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c4",
+      "label": "Utensili e arredi mobili",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "s1",
+      "label": "Case rettangolari",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "s2",
+      "label": "Unità domestiche con forno",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s3",
+      "label": "Edifici sovrapposti nel tell",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s4",
+      "label": "Spazi produttivi e rituali",
+      "layer": 3,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m1",
+      "target": "o1",
+      "label": "materia prima",
+      "status": "sintesi"
+    },
+    {
+      "source": "o1",
+      "target": "c1",
+      "label": "produce o prepara",
+      "status": "sintesi"
+    },
+    {
+      "source": "c1",
+      "target": "s1",
+      "label": "costituisce o serve",
+      "status": "sintesi"
+    },
+    {
+      "source": "m2",
+      "target": "o2",
+      "label": "materia prima",
+      "status": "documentato"
+    },
+    {
+      "source": "o2",
+      "target": "c2",
+      "label": "produce o prepara",
+      "status": "documentato"
+    },
+    {
+      "source": "c2",
+      "target": "s2",
+      "label": "costituisce o serve",
+      "status": "documentato"
+    },
+    {
+      "source": "m3",
+      "target": "o3",
+      "label": "materia prima",
+      "status": "documentato"
+    },
+    {
+      "source": "o3",
+      "target": "c3",
+      "label": "produce o prepara",
+      "status": "documentato"
+    },
+    {
+      "source": "c3",
+      "target": "s3",
+      "label": "costituisce o serve",
+      "status": "documentato"
+    },
+    {
+      "source": "m4",
+      "target": "o4",
+      "label": "materia prima",
+      "status": "documentato"
+    },
+    {
+      "source": "o4",
+      "target": "c4",
+      "label": "produce o prepara",
+      "status": "documentato"
+    },
+    {
+      "source": "c4",
+      "target": "s4",
+      "label": "costituisce o serve",
+      "status": "sintesi"
+    },
+    {
+      "source": "m1",
+      "target": "o3",
+      "label": "materiale complementare",
+      "status": "sintesi"
+    },
+    {
+      "source": "m2",
+      "target": "o1",
+      "label": "rinforzo o attrezzatura",
+      "status": "inferito"
+    },
+    {
+      "source": "c2",
+      "target": "s1",
+      "label": "integrazione strutturale",
+      "status": "sintesi"
+    },
+    {
+      "source": "c3",
+      "target": "s4",
+      "label": "manutenzione e rinnovo",
+      "status": "inferito"
+    }
+  ]
+}

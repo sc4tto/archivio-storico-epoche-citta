@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Guadalajara consolidò il proprio ruolo di capitale politica ed economica di Jalisco.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "GU2; GU3"
+  },
+  {
+    "claim": "L’Hospicio Cabañas fu una grande istituzione assistenziale e architettonica del XIX secolo.",
+    "theme": "istituzioni",
+    "status": "documentato",
+    "source": "GU1; GU4"
+  },
+  {
+    "claim": "La città fu coinvolta direttamente nell’insurrezione indipendentista del 1810.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "GU2; GU5"
+  },
+  {
+    "claim": "Mercati, manifatture e produzioni agroalimentari sostennero la crescita regionale.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "GU2; GU3"
+  },
+  {
+    "claim": "Le ferrovie del tardo Ottocento integrarono Guadalajara con il centro del paese e il Pacifico.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "GU2; GU5"
+  },
+  {
+    "claim": "L’architettura combinò cantera, adobe, cortili e forme neoclassiche.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "GU1; GU4"
+  },
+  {
+    "claim": "La crescita urbana rimase segnata da differenze sociali e concentrazione della proprietà.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "GU3; GU5"
+  },
+  {
+    "claim": "Le trasformazioni successive al 1900 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "GU2"
+  }
+]

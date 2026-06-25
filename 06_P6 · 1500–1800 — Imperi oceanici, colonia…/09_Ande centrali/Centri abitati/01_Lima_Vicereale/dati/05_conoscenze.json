@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Lima vicereale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Rischio sismico",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Quincha, adobe e ricostruzioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Fondazioni, contrafforti e tetti leggeri",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Governo vicereale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Viceré, audiencia e cabildo",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Fiscalità, dogane e approvvigionamento",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Porto e commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Callao e flotta del Pacifico",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Argento, mercurio e merci atlantiche",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Acqua e territorio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Canali preispanici e huertas",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Mulini, acquedotti e fontane",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Società coloniale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Confraternite e quartieri",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Schiavitù, tributo e gerarchie coloniali",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

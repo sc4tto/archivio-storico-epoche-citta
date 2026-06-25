@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "San Pietroburgo–Leningrado rivoluzionaria e assediata",
+    "site": "San Pietroburgo–Leningrado rivoluzionaria e assediata",
+    "modern_location": "San Pietroburgo, Russia",
+    "coordinates": {
+      "lat": 59.9343,
+      "lon": 30.3351
+    },
+    "scope": "San Pietroburgo–Petrograd–Leningrado fra 1900 e 1945: capitale imperiale, rivoluzioni del 1905 e 1917, trasferimento della capitale, piani sovietici, industria, repressione, assedio e fame.",
+    "version": "1.0",
+    "warning": "La ricostruzione post-assedio e la fase post-sovietica sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SP1",
+      "title": "UNESCO — Historic Centre of Saint Petersburg",
+      "use": "Paesaggio urbano storico e continuità monumentale.",
+      "url": "https://whc.unesco.org/en/list/540/"
+    },
+    {
+      "id": "SP2",
+      "title": "State Museum of the History of St Petersburg",
+      "use": "Storia urbana e rivoluzionaria.",
+      "url": "https://www.spbmuseum.ru/"
+    },
+    {
+      "id": "SP3",
+      "title": "The Hermitage Museum",
+      "use": "Patrimonio storico e istituzioni culturali.",
+      "url": "https://www.hermitagemuseum.org/"
+    },
+    {
+      "id": "SP4",
+      "title": "Yad Vashem — Siege of Leningrad resources",
+      "use": "Guerra, assedio e memoria civile.",
+      "url": "https://www.yadvashem.org/"
+    },
+    {
+      "id": "SP5",
+      "title": "Encyclopaedia Britannica — Saint Petersburg",
+      "use": "Sintesi storica della città.",
+      "url": "https://www.britannica.com/place/St-Petersburg-Russia"
+    }
+  ]
+}

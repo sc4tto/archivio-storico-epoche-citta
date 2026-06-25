@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1200–1250",
+    "1250–1300",
+    "1300–1350",
+    "1350–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "wb1",
+      "label": "Arrivo di coloni dalla Polinesia orientale",
+      "lane": "Migrazione",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "wb2",
+      "label": "Primo insediamento presso laguna ed estuario",
+      "lane": "Insediamento",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "wb3",
+      "label": "Produzione intensiva di asce in argillite",
+      "lane": "Artigianato",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "wb4",
+      "label": "Caccia a moa, foche e fauna locale",
+      "lane": "Economia",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "wb5",
+      "label": "Grandi umu e lavorazione di piante",
+      "lane": "Alimentazione",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "wb6",
+      "label": "Sepolture con oggetti di tradizione polinesiana",
+      "lane": "Ritualità",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "wb7",
+      "label": "Esplorazione e scambi su grandi distanze",
+      "lane": "Reti",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "wb8",
+      "label": "Riduzione o abbandono del sito",
+      "lane": "Cronologia",
+      "start": 2,
+      "end": 2,
+      "status": "sintesi"
+    }
+  ]
+}

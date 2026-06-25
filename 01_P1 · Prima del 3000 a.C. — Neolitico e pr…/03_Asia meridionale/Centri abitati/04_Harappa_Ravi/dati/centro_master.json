@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Harappa — fase Ravi — modulo multi-grafo",
+    "short_name": "Harappa — fase Ravi",
+    "site": "Harappa — fase Ravi",
+    "modern_location": "Harappa, Punjab, Pakistan",
+    "coordinates": {
+      "lat": 30.63,
+      "lon": 72.87
+    },
+    "scope": "Fase Ravi/Hakra circa 3300–2800 a.C.; nel P1 si considera l’emergere del centro alla fine del periodo",
+    "version": "1.0-blocco_04_p1_asia_meridionale_5_centri_v1",
+    "warning": "Harappa è nota soprattutto per le fasi mature successive; il modulo isola, per quanto possibile, l’occupazione Ravi più antica."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "HARP",
+      "title": "Harappa Archaeological Research Project",
+      "url": "https://www.harappa.com/har/harappa-archaeological-research-project",
+      "use": "ricerche, cronologia, quartieri e materiali"
+    },
+    {
+      "id": "HARAPPA_SITE",
+      "title": "Harappa.com — Ancient Indus Civilization",
+      "url": "https://www.harappa.com/",
+      "use": "archivio divulgativo-specialistico e bibliografia"
+    },
+    {
+      "id": "SOUTH_ASIA_CAMBRIDGE",
+      "title": "Coningham & Young — The Archaeology of South Asia",
+      "url": "https://www.cambridge.org/core/books/archaeology-of-south-asia/",
+      "use": "quadro cronologico early Harappan"
+    }
+  ]
+}

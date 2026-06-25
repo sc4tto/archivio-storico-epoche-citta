@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Ayutthaya",
+      "lat": 14.3556,
+      "lon": 100.5658,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "cha",
+      "label": "Bacino del Chao Phraya",
+      "lat": 14.15,
+      "lon": 100.55,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "lop",
+      "label": "Lopburi e pianure settentrionali",
+      "lat": 14.8,
+      "lon": 100.65,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "gulf",
+      "label": "Golfo del Siam",
+      "lat": 13.2,
+      "lon": 100.55,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "chi",
+      "label": "Cina meridionale",
+      "lat": 23.1,
+      "lon": 113.3,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "ind",
+      "label": "India e Coromandel",
+      "lat": 13.0,
+      "lon": 80.2,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "mal",
+      "label": "Melaka e arcipelago malese",
+      "lat": 2.2,
+      "lon": 102.25,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "cha",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiumi e canali",
+      "food": "riso, zucchero e legname"
+    },
+    {
+      "source": "lop",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e corsi d’acqua",
+      "food": "cereali, bestiame e prodotti forestali"
+    },
+    {
+      "source": "gulf",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione verso il golfo",
+      "food": "pesce, sale e merci oceaniche"
+    },
+    {
+      "source": "chi",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte del Mar Cinese",
+      "food": "seta, tè, porcellana e mercanti"
+    },
+    {
+      "source": "ind",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte dell’Oceano Indiano",
+      "food": "tessili, spezie e comunità mercantili"
+    },
+    {
+      "source": "mal",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "stretto di Melaka",
+      "food": "spezie, stagno e prodotti insulari"
+    }
+  ]
+}

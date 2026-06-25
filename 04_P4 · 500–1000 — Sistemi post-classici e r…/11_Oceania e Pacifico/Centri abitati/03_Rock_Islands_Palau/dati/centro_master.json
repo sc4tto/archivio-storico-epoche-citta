@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Villaggi delle Rock Islands, Palau",
+    "site": "Rock Islands Southern Lagoon",
+    "modern_location": "Koror e laguna meridionale, Palau",
+    "coordinates": {
+      "lat": 7.15,
+      "lon": 134.35
+    },
+    "scope": "Villaggi e sistemi di approvvigionamento delle Rock Islands fra 500 e 1000: pesca di reef e laguna, orticoltura, abitati costieri, grotte, approdi e navigazione fra isole.",
+    "version": "1.0",
+    "warning": "Il sito UNESCO conserva una sequenza di oltre tremila anni. Le date delle singole strutture e dei villaggi variano; il modulo presenta il primo millennio come fase di uso e insediamento, senza attribuire a esso tutta la monumentalità visibile."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "RI1",
+      "title": "UNESCO World Heritage Centre — Rock Islands Southern Lagoon",
+      "use": "Valore culturale, villaggi, grotte, laguna e lunga sequenza insediativa.",
+      "url": "https://whc.unesco.org/en/list/1386/"
+    },
+    {
+      "id": "RI2",
+      "title": "UNESCO — Nomination dossier, Rock Islands Southern Lagoon",
+      "use": "Inventario archeologico, paesaggi e criteri di iscrizione.",
+      "url": "https://whc.unesco.org/en/list/1386/documents/"
+    },
+    {
+      "id": "RI3",
+      "title": "ICOMOS Evaluation — Rock Islands Southern Lagoon",
+      "use": "Valutazione dei siti culturali e della cronologia.",
+      "url": "https://whc.unesco.org/document/152428"
+    },
+    {
+      "id": "RI4",
+      "title": "Palau International Coral Reef Center",
+      "use": "Ecologia di reef, lagune e risorse marine.",
+      "url": "https://picrc.org/"
+    },
+    {
+      "id": "RI5",
+      "title": "Palau Bureau of Cultural and Historical Preservation",
+      "use": "Tutela e documentazione del patrimonio archeologico palauano.",
+      "url": "https://www.palauheritage.org/"
+    }
+  ]
+}

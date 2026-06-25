@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Nanchino Ming–Qing",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Acqua e fiumi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Navigazione sullo Yangtze",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Canali, argini e drenaggi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Amministrazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Capitale meridionale e uffici",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Esami, fiscalità e approvvigionamento",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Mura in mattoni e porte",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Telaio ligneo e tetti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Manifatture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Seta, carta e stampa",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Cantieri navali e metalli",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Paesaggio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Mausolei e vie sacre",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Giardini e colline urbane",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

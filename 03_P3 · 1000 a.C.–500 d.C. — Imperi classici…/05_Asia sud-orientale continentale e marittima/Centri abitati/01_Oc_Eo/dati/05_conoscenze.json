@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Óc Eo",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Idraulica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Canali",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Argini",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Navigazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Produzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Perle",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Metalli",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Ceramica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "India",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Mondo cinese",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Contatto diretto con Roma",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Scrittura",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Iscrizioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Sigilli",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Lingue locali ricostruite",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Religioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Induismo",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Buddhismo",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Culti locali",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Politica",
+      "status": "inferito",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Funan",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_2",
+          "label": "Élite portuali",
+          "status": "inferito"
+        },
+        {
+          "id": "k6_3",
+          "label": "Stato unitario centralizzato",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

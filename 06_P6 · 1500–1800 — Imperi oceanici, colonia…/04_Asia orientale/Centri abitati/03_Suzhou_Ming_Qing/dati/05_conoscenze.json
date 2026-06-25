@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Suzhou Ming–Qing",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Acqua e paesaggio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Canali, ponti e drenaggi",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Stagni, rocce e giardini",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Seta e mercati",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Bachicoltura e tessitura",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Gilde, crediti e commercio",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Case a corte e padiglioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Muratura, legno e tegole",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Arti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Pittura, calligrafia e stampa",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Teatro, musica e collezionismo",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Alimentazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Risicoltura e acquacoltura",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Fermentazione e cucina urbana",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Lahore",
+      "lat": 31.55,
+      "lon": 74.344,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "rav",
+      "label": "Ravi",
+      "lat": 31.6,
+      "lon": 74.4,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "mul",
+      "label": "Multan",
+      "lat": 30.2,
+      "lon": 71.47,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "sia",
+      "label": "Sialkot",
+      "lat": 32.49,
+      "lon": 74.54,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "kab",
+      "label": "Kabul",
+      "lat": 34.53,
+      "lon": 69.17,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "del",
+      "label": "Delhi",
+      "lat": 28.61,
+      "lon": 77.21,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "kas",
+      "label": "Kashmir",
+      "lat": 34.0,
+      "lon": 74.8,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "rav",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiume, campi e canali",
+      "food": "acqua, grano e riso"
+    },
+    {
+      "source": "mul",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "asse dell’Indo",
+      "food": "tessili, zucchero e merci occidentali"
+    },
+    {
+      "source": "sia",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete del Punjab",
+      "food": "grano, bestiame e artigiani"
+    },
+    {
+      "source": "kab",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoio nord-occidentale",
+      "food": "cavalli, frutta secca e metalli"
+    },
+    {
+      "source": "del",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Grand Trunk e reti sultaniali",
+      "food": "moneta, funzionari e tessili"
+    },
+    {
+      "source": "kas",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "rotte montane",
+      "food": "lana, legname e frutta"
+    }
+  ]
+}

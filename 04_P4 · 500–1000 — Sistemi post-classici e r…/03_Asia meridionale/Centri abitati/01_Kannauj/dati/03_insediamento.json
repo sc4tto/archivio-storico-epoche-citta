@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Capitale maukhari",
+    "Corte di Harsha, 606–647",
+    "Riorganizzazione post-Harsha",
+    "Lotta tripartita",
+    "Capitale gurjara-pratihara"
+  ],
+  "items": [
+    {
+      "id": "palace",
+      "label": "Corte e complessi palaziali",
+      "lane": "Politiche",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "monasteries",
+      "label": "Monasteri buddhisti",
+      "lane": "Religiose",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "temples",
+      "label": "Templi hindu e santuari",
+      "lane": "Religiose",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "markets",
+      "label": "Mercati e quartieri artigiani",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "roads",
+      "label": "Strade e approdi sul Gange",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "assemblies",
+      "label": "Assemblee e cerimonie di corte",
+      "lane": "Politiche",
+      "start": 1,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "war",
+      "label": "Contese dinastiche e riassetti",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

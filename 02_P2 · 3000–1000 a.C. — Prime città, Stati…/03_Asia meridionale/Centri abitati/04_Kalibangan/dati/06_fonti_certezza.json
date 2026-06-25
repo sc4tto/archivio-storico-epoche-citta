@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Kalibangan conserva una fase pre-harappana seguita da una città harappana pianificata",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "KALIBANGAN_REPORT"
+  },
+  {
+    "claim": "Fuori dalle mura è conservato un campo con solchi incrociati",
+    "theme": "Agricoltura",
+    "status": "documentato",
+    "source": "KALIBANGAN_ASI"
+  },
+  {
+    "claim": "La città comprendeva cittadella fortificata e città bassa",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "KALIBANGAN_REPORT"
+  },
+  {
+    "claim": "Il cimitero documenta pratiche funerarie differenti",
+    "theme": "Funerario",
+    "status": "documentato",
+    "source": "KALIBANGAN_REPORT"
+  },
+  {
+    "claim": "Sono presenti piattaforme e focolari interpretati come installazioni rituali",
+    "theme": "Rituali",
+    "status": "sintesi",
+    "source": "KALIBANGAN_ASI"
+  },
+  {
+    "claim": "I cosiddetti altari del fuoco provano una religione identica a culti storici posteriori",
+    "theme": "Religione",
+    "status": "non_documentato",
+    "source": "Collegamento anacronistico non dimostrato"
+  },
+  {
+    "claim": "Il Ghaggar era necessariamente un grande fiume perenne in ogni fase",
+    "theme": "Ambiente",
+    "status": "non_documentato",
+    "source": "Dinamica fluviale discussa"
+  },
+  {
+    "claim": "L’abbandono derivò da un solo terremoto",
+    "theme": "Declino",
+    "status": "non_documentato",
+    "source": "Possibili cause multiple"
+  }
+]

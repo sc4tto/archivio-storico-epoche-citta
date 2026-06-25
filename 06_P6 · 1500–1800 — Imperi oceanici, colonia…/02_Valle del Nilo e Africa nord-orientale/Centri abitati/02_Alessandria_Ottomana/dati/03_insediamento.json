@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1500–1560",
+    "1560–1620",
+    "1620–1680",
+    "1680–1740",
+    "1740–1800"
+  ],
+  "items": [
+    {
+      "id": "al1",
+      "label": "Incorporazione nell’Egitto ottomano",
+      "lane": "Politica",
+      "start": 0,
+      "end": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "al2",
+      "label": "Uso della cittadella di Qaitbay e difese costiere",
+      "lane": "Difesa",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "al3",
+      "label": "Persistenza di dogane e fondachi",
+      "lane": "Economia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "al4",
+      "label": "Declino relativo a favore di Rosetta",
+      "lane": "Economia",
+      "start": 1,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "al5",
+      "label": "Pesca, saline e traffico di cereali",
+      "lane": "Produzione",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "al6",
+      "label": "Terremoti, insabbiamento e manutenzione portuale",
+      "lane": "Rischi",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "al7",
+      "label": "Contatti con mercanti europei e levantini",
+      "lane": "Società",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "al8",
+      "label": "Assedio del 1798 come limite finale",
+      "lane": "Trasformazioni",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

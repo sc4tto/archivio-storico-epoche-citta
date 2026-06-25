@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_95_P9_Asia_Orientale_5_Centri_v1",
+  "macroregion": "Asia orientale",
+  "centers": [
+    "01_Tokyo_Ricostruzione_Olimpiadi_Metropoli",
+    "02_Osaka_Ricostruzione_Industria_Senri",
+    "03_Seoul_Guerra_Ricostruzione_Crescita",
+    "04_Taipei_Rifugiati_Autoritarismo_Industria",
+    "05_Shanghai_Socialismo_Industria_Campagne"
+  ],
+  "uses_central_assets": true
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Cairo khediviale e riformatore",
+    "site": "Cairo khediviale e riformatore",
+    "modern_location": "Cairo, Egitto",
+    "coordinates": {
+      "lat": 30.0444,
+      "lon": 31.2357
+    },
+    "scope": "Cairo fra 1800 e 1900: capitale dell’Egitto di Muhammad Ali e dei khedivè, centro politico, commerciale e culturale collegato al Delta, al Nilo e al Canale di Suez.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Le trasformazioni novecentesche, la piena motorizzazione e l’espansione metropolitana contemporanea sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "CA1",
+      "title": "UNESCO — Historic Cairo",
+      "use": "Tessuto storico, monumenti e continuità urbana.",
+      "url": "https://whc.unesco.org/en/list/89/"
+    },
+    {
+      "id": "CA2",
+      "title": "Encyclopaedia Britannica — Cairo",
+      "use": "Storia politica, crescita urbana e ruolo di capitale.",
+      "url": "https://www.britannica.com/place/Cairo"
+    },
+    {
+      "id": "CA3",
+      "title": "Aga Khan Trust for Culture — Historic Cairo",
+      "use": "Conservazione, quartieri e paesaggio urbano.",
+      "url": "https://www.akdn.org/where-we-work/middle-east/egypt"
+    },
+    {
+      "id": "CA4",
+      "title": "American University in Cairo Digital Collections",
+      "use": "Mappe, fotografie e documenti sul Cairo ottocentesco.",
+      "url": "https://digitalcollections.aucegypt.edu/"
+    },
+    {
+      "id": "CA5",
+      "title": "Egyptian National Railways — History",
+      "use": "Sviluppo ferroviario e collegamenti nazionali.",
+      "url": "https://www.enr.gov.eg/"
+    }
+  ]
+}

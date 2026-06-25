@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Ctesifonte fu capitale sasanide e centro commerciale internazionale",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "CTE_MET"
+  },
+  {
+    "claim": "Il Taq-i Kisra fu costruito nel VI secolo",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "CTE_MET"
+  },
+  {
+    "claim": "La città comprendeva insediamenti su entrambe le rive del Tigri",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "CTE_MET"
+  },
+  {
+    "claim": "Sono attestate comunità zoroastriane, cristiane ed ebraiche",
+    "theme": "Società",
+    "status": "documentato",
+    "source": "CTE_MET"
+  },
+  {
+    "claim": "La conquista islamica avvenne nel 637",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "CTE_MET"
+  },
+  {
+    "claim": "La città fu abbandonata completamente nel 637",
+    "theme": "Insediamento",
+    "status": "non_documentato",
+    "source": "Persistettero riuso e abitati"
+  },
+  {
+    "claim": "Baghdad accelerò il declino e il riuso dei materiali di Ctesifonte",
+    "theme": "Trasformazione",
+    "status": "documentato",
+    "source": "CTE_MET"
+  },
+  {
+    "claim": "L’arco superstite coincide con l’intera capitale",
+    "theme": "Conservazione",
+    "status": "non_documentato",
+    "source": "È solo una parte del palazzo"
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Ho Chi Minh City, industria, metro, alluvioni e ricollocazioni",
+    "site": "Ho Chi Minh City, industria, metro, alluvioni e ricollocazioni",
+    "modern_location": "Ho Chi Minh City, Vietnam",
+    "coordinates": {
+      "lat": 10.8231,
+      "lon": 106.6297
+    },
+    "scope": "Ho Chi Minh City dal 1970 al 25 giugno 2026: fine della guerra e riunificazione, rinomina del 1976, economia pianificata e riforme Đổi Mới, industrializzazione esportatrice, migrazione interna, espansione verso Thủ Đức e il delta, porto e servizi digitali, congestione motociclistica, apertura della Metro Line 1 nel dicembre 2024, alluvioni, subsidenza, acquisizioni fondiarie e ricollocazioni.",
+    "version": "1.0",
+    "warning": "Le ulteriori linee della metropolitana e il master plan con orizzonti 2040–2060 sono piani o progetti futuri; non sono presentati come reti già completate."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "HC1",
+      "title": "Ho Chi Minh City MAUR — Metro Line 1",
+      "use": "Lunghezza, stazioni e caratteristiche tecniche della linea Bến Thành–Suối Tiên.",
+      "url": "https://maur.hochiminhcity.gov.vn/web/en/metro-line-1"
+    },
+    {
+      "id": "HC2",
+      "title": "Vietnam Government Portal — First Metro Line Starts Operation in Ho Chi Minh City",
+      "use": "Apertura commerciale della prima linea nel dicembre 2024.",
+      "url": "https://en.baochinhphu.vn/first-metro-line-starts-operation-in-ho-chi-minh-city-111241223160018449.htm"
+    },
+    {
+      "id": "HC3",
+      "title": "World Bank — Green Infrastructure Solutions in Urban Flood Risk Management",
+      "use": "Rischio crescente di alluvione e strategie robuste e integrate per Ho Chi Minh City.",
+      "url": "https://openknowledge.worldbank.org/entities/publication/fe3c417d-0afe-5c52-8015-ba966d4a8475"
+    },
+    {
+      "id": "HC4",
+      "title": "OHCHR UPR Joint Submission — Freedom of Expression in Viet Nam",
+      "use": "Restrizioni alla libertà di espressione e persecuzione di attivisti e dissidenti.",
+      "url": "https://www.ohchr.org/sites/default/files/2021-12/GHRC-88Project-10-28-21.pdf"
+    }
+  ]
+}

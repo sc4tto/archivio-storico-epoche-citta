@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Nishapur",
+      "lat": 36.2141,
+      "lon": 58.7961,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "qanat",
+      "label": "Qanat e oasi del Khorasan",
+      "lat": 36.2,
+      "lon": 58.7,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "merv",
+      "label": "Merv",
+      "lat": 37.66,
+      "lon": 62.18,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "herat",
+      "label": "Herat",
+      "lat": 34.35,
+      "lon": 62.2,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "baghdad",
+      "label": "Baghdad",
+      "lat": 33.315,
+      "lon": 44.366,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "samarqand",
+      "label": "Samarcanda",
+      "lat": 39.65,
+      "lon": 66.96,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "qanat",
+      "target": "site",
+      "label": "acqua, cereali, ortaggi e frutta",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "merv",
+      "target": "site",
+      "label": "carovane, tessili e moneta",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "herat",
+      "target": "site",
+      "label": "reti del Khorasan",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "baghdad",
+      "target": "site",
+      "label": "funzionari, testi e mercati occidentali",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "samarqand",
+      "target": "site",
+      "label": "carta, ceramiche e rotte centroasiatiche",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

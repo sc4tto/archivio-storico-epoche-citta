@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Ollantaytambo",
+      "lat": -13.2584,
+      "lon": -72.2641,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "uru",
+      "label": "Valle dell’Urubamba",
+      "lat": -13.3,
+      "lon": -72.2,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "pat",
+      "label": "Valle di Patakancha",
+      "lat": -13.2,
+      "lon": -72.16,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "mar",
+      "label": "Cave di Kachiqhata",
+      "lat": -13.31,
+      "lon": -72.33,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "cus",
+      "label": "Cusco",
+      "lat": -13.53,
+      "lon": -71.97,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "anti",
+      "label": "Antisuyu",
+      "lat": -12.8,
+      "lon": -72.9,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "coll",
+      "label": "Collao",
+      "lat": -15.5,
+      "lon": -70.1,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "uru",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e canali",
+      "food": "mais, frutta e acqua"
+    },
+    {
+      "source": "pat",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sentieri vallivi",
+      "food": "tuberi, lana e manodopera"
+    },
+    {
+      "source": "mar",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rampe di trasporto",
+      "food": "grandi blocchi di porfido"
+    },
+    {
+      "source": "cus",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Qhapaq Ñan",
+      "food": "funzionari, beni e ordini"
+    },
+    {
+      "source": "anti",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte orientali",
+      "food": "coca, piume e prodotti tropicali"
+    },
+    {
+      "source": "coll",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane meridionali",
+      "food": "camelidi, metalli e tessili"
+    }
+  ]
+}

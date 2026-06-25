@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Fase della cultura Buni",
+    "Prime costruzioni in mattoni",
+    "Sviluppo buddhista e portuale",
+    "Fase di Tarumanagara",
+    "Trasformazioni dopo il VI secolo"
+  ],
+  "items": [
+    {
+      "id": "mounds",
+      "label": "Tumuli e rialzi artificiali",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "brick",
+      "label": "Edifici in mattoni",
+      "lane": "Monumentali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "jiwa",
+      "label": "Candi Jiwa",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "blandongan",
+      "label": "Candi Blandongan",
+      "lane": "Rituali",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "settlement",
+      "label": "Aree abitative e agricole",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "water",
+      "label": "Canali e zone umide",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "votives",
+      "label": "Tavolette e depositi votivi",
+      "lane": "Rituali",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

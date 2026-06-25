@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Antica Dongola",
+      "lat": 18.2167,
+      "lon": 30.75,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "kar",
+      "label": "Karma e Terza Cataratta",
+      "lat": 19.6,
+      "lon": 30.4,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "far",
+      "label": "Faras",
+      "lat": 22.2,
+      "lon": 31.5,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "qas",
+      "label": "Qasr Ibrim",
+      "lat": 22.65,
+      "lon": 31.99,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "asw",
+      "label": "Assuan",
+      "lat": 24.09,
+      "lon": 32.9,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "sob",
+      "label": "Soba",
+      "lat": 15.59,
+      "lon": 32.52,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "cai",
+      "label": "Cairo",
+      "lat": 30.04,
+      "lon": 31.24,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "kar",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoio del Nilo",
+      "food": "cereali, ceramiche e persone"
+    },
+    {
+      "source": "far",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete ecclesiastica nubiana",
+      "food": "clero, manoscritti e manufatti"
+    },
+    {
+      "source": "qas",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "asse settentrionale",
+      "food": "beni, messaggeri e tributi"
+    },
+    {
+      "source": "asw",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "frontiera con l’Egitto",
+      "food": "tessili, metalli e moneta"
+    },
+    {
+      "source": "sob",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "rete fra regni nubiani",
+      "food": "beni e ambascerie"
+    },
+    {
+      "source": "cai",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rapporti diplomatici e commerciali",
+      "food": "tessili, spezie e funzionari"
+    }
+  ]
+}

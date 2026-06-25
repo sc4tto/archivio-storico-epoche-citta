@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Los Angeles dell’acqua, dell’automobile e del cinema",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Infrastrutture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Ferrovie, metropolitane, tram, strade, porti ed elettricità",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Acqua, fognature, ospedali, mercati e sanità urbana",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Economia urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "petrolio, cinema, aeronautica, agricoltura, porto ed edilizia",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Industria, commercio, credito, logistica e approvvigionamento",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Politica e istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "municipalità, contea, Stato della California e governo federale",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Municipalità, polizia, tribunali, amministrazioni statali e federali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "messicano-americani, afroamericani, asiatico-americani, migranti interni, operai e tecnici",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Migrazioni, scuole, sindacati, associazioni, chiese e stampa",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Crisi e disuguaglianze",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "siccità, conflitti idrici, smog iniziale, segregazione, rimpatri forzati e violenza razziale",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Segregazione, redlining, sfruttamento del lavoro e servizi distribuiti in modo diseguale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

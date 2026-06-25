@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "pa1",
+      "label": "Sviluppo della tradizione Ychma",
+      "lane": "Politica",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "pa2",
+      "label": "Costruzione delle piramidi con rampa",
+      "lane": "Costruzione",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "pa3",
+      "label": "Crescita dei pellegrinaggi regionali",
+      "lane": "Religione",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "pa4",
+      "label": "Piazze, strade interne e recinti",
+      "lane": "Urbanistica",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "pa5",
+      "label": "Depositi e quartieri di servizio",
+      "lane": "Economia",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "pa6",
+      "label": "Incorporazione nell’impero inca",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "pa7",
+      "label": "Tempio del Sole e Acllawasi",
+      "lane": "Costruzione",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "pa8",
+      "label": "Continuità dell’oracolo sotto controllo inca",
+      "lane": "Religione",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

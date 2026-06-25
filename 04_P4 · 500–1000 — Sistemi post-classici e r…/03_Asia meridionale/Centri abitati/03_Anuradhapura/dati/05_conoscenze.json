@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Anuradhapura",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Monasteri",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Mahavihara",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Abhayagiri",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Jetavana",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Idraulica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Serbatoi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Canali",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Portate annuali esatte",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Scrittura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Iscrizioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Cronache",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Narrazioni sempre letterali",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Medicina",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Ospedali monastici",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Vasche medicinali",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Diagnosi specifiche",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Reti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Mantai",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "India meridionale",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Controllo stabile di tutti i porti",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Restauro",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Ricostruzioni moderne",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Conservazione degli stupa",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Aspetto attuale sempre antico",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

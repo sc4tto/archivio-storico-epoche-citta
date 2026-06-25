@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Freetown krio e coloniale",
+    "site": "Freetown krio e coloniale",
+    "modern_location": "Freetown, Sierra Leone",
+    "coordinates": {
+      "lat": 8.4657,
+      "lon": -13.2317
+    },
+    "scope": "Freetown fra 1800 e 1900: colonia della Sierra Leone, West Africa Squadron, arrivo dei recaptives, società krio, Fourah Bay College, porto, missioni, amministrazione e prime infrastrutture ferroviarie.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Protettorato novecentesco consolidato, indipendenza del 1961, guerra civile e ricostruzione contemporanea sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "FR1",
+      "title": "Encyclopaedia Britannica — Freetown",
+      "use": "Fondazione, colonia e sviluppo urbano.",
+      "url": "https://www.britannica.com/place/Freetown"
+    },
+    {
+      "id": "FR2",
+      "title": "Sierra Leone Heritage",
+      "use": "Patrimonio krio, siti storici e cultura materiale.",
+      "url": "https://www.sierraleoneheritage.org/"
+    },
+    {
+      "id": "FR3",
+      "title": "Sierra Leone National Museum",
+      "use": "Storia, collezioni e memoria nazionale.",
+      "url": "https://www.sierraleoneheritage.org/museum"
+    },
+    {
+      "id": "FR4",
+      "title": "British Library — Endangered Archives Programme",
+      "use": "Archivi dell’Africa occidentale e della Sierra Leone.",
+      "url": "https://eap.bl.uk/"
+    },
+    {
+      "id": "FR5",
+      "title": "Fourah Bay College",
+      "use": "Istruzione superiore e storia dell’istituzione fondata nel 1827.",
+      "url": "https://www.usl.edu.sl/"
+    }
+  ]
+}

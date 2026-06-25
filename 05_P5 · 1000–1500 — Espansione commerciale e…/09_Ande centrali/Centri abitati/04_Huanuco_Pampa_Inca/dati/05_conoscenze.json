@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Huánuco Pampa, centro amministrativo inca",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Logistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Qollqa e rotazione delle scorte",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Distribuzione delle razioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Strade",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Qhapaq Ñan e ponti",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Tambos e chasqui",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Amministrazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Mit’a e gruppi provinciali",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Quipu e contabilità",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Kallanka e ushnu",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Porte trapezoidali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Ecologia verticale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Scambi fra puna e valli",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Gestione dei camelidi",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

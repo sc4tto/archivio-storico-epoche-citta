@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Watson Brake",
+      "lat": 32.36,
+      "lon": -92.11,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "ouachita",
+      "label": "Fiume Ouachita",
+      "lat": 32.4,
+      "lon": -92.12,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "flood",
+      "label": "Pianura alluvionale",
+      "lat": 32.35,
+      "lon": -92.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "uplands",
+      "label": "Terrazze e alture vicine",
+      "lat": 32.5,
+      "lon": -92.3,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "lower",
+      "label": "Bassa valle del Mississippi",
+      "lat": 31.5,
+      "lon": -91.5,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "gulf",
+      "label": "Reti della costa del Golfo",
+      "lat": 30.0,
+      "lon": -90.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "ouachita",
+      "target": "site",
+      "label": "pesce, acqua e trasporto",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "flood",
+      "target": "site",
+      "label": "noci, piante e fauna",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "uplands",
+      "target": "site",
+      "label": "terra e pietra",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "lower",
+      "target": "site",
+      "label": "contatti fra comunità arcaiche",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "gulf",
+      "target": "site",
+      "label": "conchiglie e idee monumentali",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

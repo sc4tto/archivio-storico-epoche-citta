@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Paloma fu un villaggio preceramico di lunga durata",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "PALOMA_QUILTER"
+  },
+  {
+    "claim": "Le case erano costruite soprattutto con canne e materiali vegetali",
+    "theme": "Edilizia",
+    "status": "documentato",
+    "source": "PALOMA_QUILTER"
+  },
+  {
+    "claim": "Le risorse marine ebbero un peso centrale nella dieta",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "PALOMA_BENFER"
+  },
+  {
+    "claim": "Le sepolture erano integrate nel paesaggio domestico",
+    "theme": "Rituali",
+    "status": "documentato",
+    "source": "PALOMA_QUILTER"
+  },
+  {
+    "claim": "La stabilità insediativa aumentò nel tempo",
+    "theme": "Sedentarietà",
+    "status": "sintesi",
+    "source": "PALOMA_BENFER"
+  },
+  {
+    "claim": "Il villaggio aveva una pianta urbana regolare",
+    "theme": "Urbanistica",
+    "status": "non_documentato",
+    "source": "Distribuzione non pianificata"
+  },
+  {
+    "claim": "Le fosse agricole visibili appartengono certamente alla fase antica",
+    "theme": "Agricoltura",
+    "status": "non_documentato",
+    "source": "Possibile cronologia posteriore"
+  },
+  {
+    "claim": "Sono state trovate imbarcazioni complete",
+    "theme": "Navigazione",
+    "status": "non_documentato",
+    "source": "Navigazione inferita dalle specie pescate"
+  }
+]

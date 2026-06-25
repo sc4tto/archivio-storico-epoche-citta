@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Edo fu una delle maggiori città del mondo all’inizio del XIX secolo.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "TO1; TO5"
+  },
+  {
+    "claim": "Nel 1868 la corte imperiale si trasferì a Edo, rinominata Tokyo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "TO1; TO2"
+  },
+  {
+    "claim": "La ferrovia Tokyo–Yokohama entrò in servizio nel 1872.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "TO2; TO4"
+  },
+  {
+    "claim": "La trasformazione Meiji introdusse ministeri, scuole e nuovi edifici pubblici.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "TO2; TO3"
+  },
+  {
+    "claim": "Il tessuto urbano continuò a dipendere da legno, canali e mercati di quartiere.",
+    "theme": "tecniche",
+    "status": "documentato",
+    "source": "TO1; TO5"
+  },
+  {
+    "claim": "Incendi e terremoti condizionarono ricostruzioni e regolamenti.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "TO1; TO3"
+  },
+  {
+    "claim": "Ginza Bricktown rappresentò un esperimento di edilizia in mattoni e strade modernizzate.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "TO2; TO3"
+  },
+  {
+    "claim": "Il terremoto del Kantō del 1923 è fuori dal limite del modulo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "TO1"
+  }
+]

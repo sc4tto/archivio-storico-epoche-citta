@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Città del Messico",
+      "lat": 19.433,
+      "lon": -99.133,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "xoc",
+      "label": "Xochimilco e Chalco",
+      "lat": 19.25,
+      "lon": -99.08,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "tex",
+      "label": "Texcoco e bacino orientale",
+      "lat": 19.5,
+      "lon": -98.88,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "tol",
+      "label": "Valle di Toluca",
+      "lat": 19.28,
+      "lon": -99.65,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "pue",
+      "label": "Puebla e Tlaxcala",
+      "lat": 19.05,
+      "lon": -98.2,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "ver",
+      "label": "Veracruz e costa del Golfo",
+      "lat": 19.18,
+      "lon": -96.14,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "min",
+      "label": "Bajío e distretti minerari",
+      "lat": 21.0,
+      "lon": -101.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "xoc",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canoe e calzadas",
+      "food": "mais, ortaggi, fiori e prodotti chinamperi"
+    },
+    {
+      "source": "tex",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "lago e strade",
+      "food": "sale, cereali e prodotti lacustri"
+    },
+    {
+      "source": "tol",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strada occidentale",
+      "food": "grano, bestiame, legname e carbone"
+    },
+    {
+      "source": "pue",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "camino real",
+      "food": "grano, tessili, ceramiche e bestiame"
+    },
+    {
+      "source": "ver",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strada di Veracruz",
+      "food": "cacao, zucchero e merci atlantiche"
+    },
+    {
+      "source": "min",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade dei distretti minerari",
+      "food": "argento, cuoio e derrate del Bajío"
+    }
+  ]
+}

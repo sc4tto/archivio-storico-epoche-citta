@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Luoyang Han–Wei",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Governo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Palazzi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Accademia",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Archivi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Carovane mensili",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Seta",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Ambascerie",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Scienze",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Carta",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Sismografo",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Astronomia",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Asse nord-sud",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Mura e porte",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Quartieri",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Religioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Confucianesimo",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Daoismo",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Buddhismo",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Fasi",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Han orientali",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Wei-Jin",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Unica pianta invariata",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

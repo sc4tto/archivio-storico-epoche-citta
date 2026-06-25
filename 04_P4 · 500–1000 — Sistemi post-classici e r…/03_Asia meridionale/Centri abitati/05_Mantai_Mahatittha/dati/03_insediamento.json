@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Porto tardoantico",
+    "Espansione del VI–VII secolo",
+    "Nodo dell’Oceano Indiano",
+    "Massima attività fra VIII e X secolo",
+    "Conquista chola e trasformazioni"
+  ],
+  "items": [
+    {
+      "id": "harbor",
+      "label": "Approdi, lagune e canali",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "warehouses",
+      "label": "Magazzini e aree di deposito",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "houses",
+      "label": "Quartieri residenziali",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "craft",
+      "label": "Lavorazione di perle e ceramiche",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "temple",
+      "label": "Aree religiose e Tiruketheeswaram",
+      "lane": "Religiose",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "markets",
+      "label": "Mercati e scambi",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "shift",
+      "label": "Mutamenti costieri e politici",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

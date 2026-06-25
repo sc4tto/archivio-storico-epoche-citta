@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Heian-kyō",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Fondazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Anno 794",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Imperatore Kanmu",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Capitale progettata in un solo momento senza adattamenti",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Griglia",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Suzaku Avenue",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Simmetria mantenuta integralmente",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Corte",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Daidairi",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Aristocrazia di corte",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Città esclusivamente palatina",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Religioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Tō-ji e Sai-ji",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Templi montani e periferici",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Tutti i monumenti UNESCO sono P4",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Cultura",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Scrittura kana",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Letteratura di corte",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Diffusione uniforme sociale",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Conservazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Scavi urbani",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Ricostruzioni e restauri",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Palazzo originario ancora integro",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Singapore, porto coloniale e città migrante",
+    "site": "Singapore, porto coloniale e città migrante",
+    "modern_location": "Singapore",
+    "coordinates": {
+      "lat": 1.2903,
+      "lon": 103.8519
+    },
+    "scope": "Singapore fra 1819 e 1900: fondazione del porto britannico, Straits Settlements, crescita del commercio di transito, quartieri urbani, migrazioni, bonifiche, servizi e reti regionali.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. La base navale novecentesca, l’occupazione giapponese, l’indipendenza e la metropoli contemporanea sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SG1",
+      "title": "National Library Board Singapore — Singapore Infopedia",
+      "use": "Fondazione, porto franco, società e sviluppo urbano.",
+      "url": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=1cbd1c72-1f76-4a2a-8a6d-6c49f4a4d7f8"
+    },
+    {
+      "id": "SG2",
+      "title": "Encyclopaedia Britannica — Singapore",
+      "use": "Storia politica ed economica del porto.",
+      "url": "https://www.britannica.com/place/Singapore/History"
+    },
+    {
+      "id": "SG3",
+      "title": "National Heritage Board Singapore",
+      "use": "Patrimonio urbano, quartieri e istituzioni.",
+      "url": "https://www.nhb.gov.sg/"
+    },
+    {
+      "id": "SG4",
+      "title": "National Archives of Singapore",
+      "use": "Mappe, fotografie e documentazione coloniale.",
+      "url": "https://www.nas.gov.sg/archivesonline/"
+    },
+    {
+      "id": "SG5",
+      "title": "Maritime and Port Authority of Singapore — Port history",
+      "use": "Sviluppo delle attività portuali.",
+      "url": "https://www.mpa.gov.sg/"
+    }
+  ]
+}

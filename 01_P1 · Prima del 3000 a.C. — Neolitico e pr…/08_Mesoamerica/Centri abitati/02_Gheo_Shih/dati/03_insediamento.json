@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Prima frequentazione",
+    "Accampamento stagionale",
+    "Uso dell’area delimitata",
+    "Attività di macinazione",
+    "Riduzione dell’uso"
+  ],
+  "items": [
+    {
+      "id": "open",
+      "label": "Occupazione all’aperto",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "hearth",
+      "label": "Focolari e attività domestiche",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "plaza",
+      "label": "Area sgombra delimitata da pietre",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "grinding",
+      "label": "Macinazione intensiva",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "lapidary",
+      "label": "Lavorazione di piccoli oggetti in pietra",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "gather",
+      "label": "Aggregazioni stagionali di più gruppi",
+      "lane": "Organizzazione",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "decline",
+      "label": "Fine della frequentazione principale",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

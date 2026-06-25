@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Çatalhöyük",
+      "lat": 37.6667,
+      "lon": 32.8281,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "plain",
+      "label": "Piana di Konya",
+      "lat": 37.72,
+      "lon": 32.65,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": -20,
+      "anchor": "end"
+    },
+    {
+      "id": "carsamba",
+      "label": "Bacino del Çarşamba",
+      "lat": 37.57,
+      "lon": 32.75,
+      "status": "sintesi",
+      "kind": "locale",
+      "dx": -10,
+      "dy": 28,
+      "anchor": "end"
+    },
+    {
+      "id": "taurus",
+      "label": "Margini dei monti Tauro",
+      "lat": 37.25,
+      "lon": 32.45,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 28,
+      "anchor": "middle"
+    },
+    {
+      "id": "hasan",
+      "label": "Hasan Dağı",
+      "lat": 38.13,
+      "lon": 34.17,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "gollu",
+      "label": "Göllü Dağ e Cappadocia",
+      "lat": 38.25,
+      "lon": 34.58,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "plain",
+      "target": "site",
+      "label": "suoli, colture e pascolo",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "carsamba",
+      "target": "site",
+      "label": "acqua, argille, canne e risorse umide",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "taurus",
+      "target": "site",
+      "label": "legname e pietra; derrate non specificate",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "hasan",
+      "target": "site",
+      "label": "ossidiana cappadocica; non prova commercio alimentare",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "gollu",
+      "target": "site",
+      "label": "ossidiana e reti di scambio",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Jemdet Nasr e transizione",
+    "Prime dinastie",
+    "Fase accadica",
+    "Ur III",
+    "Isin-Larsa e antico-babilonese"
+  ],
+  "items": [
+    {
+      "id": "eanna",
+      "label": "Complesso di Eanna e sue ricostruzioni",
+      "lane": "Monumentali",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "anu",
+      "label": "Area sacra di Anu",
+      "lane": "Monumentali",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Quartieri residenziali",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "canals",
+      "label": "Canali e approdi",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "tablets",
+      "label": "Archivi e produzione scribale",
+      "lane": "Amministrative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "craft",
+      "label": "Laboratori e produzione standardizzata",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "walls",
+      "label": "Mura e porte urbane",
+      "lane": "Difensive",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

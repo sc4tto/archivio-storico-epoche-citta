@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_42_P4_Mediterraneo_Europa_5_Centri_v1",
+  "macroregion": "Mediterraneo europeo ed Europa centro-occidentale",
+  "centers": [
+    "01_Costantinopoli_Bizantina",
+    "02_Roma_Altomedievale",
+    "03_Ravenna_Bizantina",
+    "04_Cordoba_Omayyade",
+    "05_Aquisgrana_Carolingia"
+  ],
+  "uses_central_assets": true
+}

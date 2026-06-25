@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Port Said e il Canale di Suez",
+    "site": "Port Said e il Canale di Suez",
+    "modern_location": "Port Said, Egitto",
+    "coordinates": {
+      "lat": 31.2653,
+      "lon": 32.3019
+    },
+    "scope": "Port Said fra 1859 e 1900: cantiere e porto del Canale di Suez, città della Compagnia, nodo del traffico a vapore fra Mediterraneo e Mar Rosso e spazio di segregazione sociale.",
+    "version": "1.0",
+    "warning": "Il lavoro forzato impiegato nelle prime fasi del canale è descritto come coercitivo. Guerre mondiali, nazionalizzazione del 1956 e ampliamenti contemporanei sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "PS1",
+      "title": "Suez Canal Authority — Canal History",
+      "use": "Costruzione, apertura e infrastrutture del canale.",
+      "url": "https://www.suezcanal.gov.eg/English/About/SuezCanal/Pages/CanalHistory.aspx"
+    },
+    {
+      "id": "PS2",
+      "title": "Encyclopaedia Britannica — Port Said",
+      "use": "Fondazione e sviluppo della città portuale.",
+      "url": "https://www.britannica.com/place/Port-Said"
+    },
+    {
+      "id": "PS3",
+      "title": "Encyclopaedia Britannica — Suez Canal",
+      "use": "Costruzione, apertura e importanza globale.",
+      "url": "https://www.britannica.com/topic/Suez-Canal"
+    },
+    {
+      "id": "PS4",
+      "title": "Bibliotheca Alexandrina — Memory of Modern Egypt",
+      "use": "Mappe, fotografie e documenti del canale.",
+      "url": "https://modernegypt.bibalex.org/"
+    },
+    {
+      "id": "PS5",
+      "title": "International Association of Ports and Harbors — Port Said",
+      "use": "Funzioni portuali e posizione marittima.",
+      "url": "https://www.iaphworldports.org/"
+    }
+  ]
+}

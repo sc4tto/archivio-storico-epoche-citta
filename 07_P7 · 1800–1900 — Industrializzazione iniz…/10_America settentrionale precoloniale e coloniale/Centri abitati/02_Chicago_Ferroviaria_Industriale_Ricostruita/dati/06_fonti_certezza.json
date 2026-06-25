@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Chicago divenne uno dei maggiori nodi ferroviari del Nord America.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "CH1; CH2"
+  },
+  {
+    "claim": "Stockyards e grain elevators collegarono agricoltura e industria urbana.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "CH1; CH2"
+  },
+  {
+    "claim": "L’incendio del 1871 distrusse ampie parti della città e accelerò la ricostruzione.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "CH1; CH5"
+  },
+  {
+    "claim": "La ricostruzione favorì nuove tecniche metalliche e regolamenti antincendio.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "CH4; CH5"
+  },
+  {
+    "claim": "Haymarket e Pullman mostrarono la durezza dei conflitti del lavoro.",
+    "theme": "lavoro",
+    "status": "documentato",
+    "source": "CH1; CH3"
+  },
+  {
+    "claim": "La crescita industriale produsse inquinamento e quartieri operai insalubri.",
+    "theme": "ambiente",
+    "status": "documentato",
+    "source": "CH1; CH2"
+  },
+  {
+    "claim": "L’espansione urbana seguì l’espropriazione di territori indigeni.",
+    "theme": "indigeni",
+    "status": "documentato",
+    "source": "CH1; CH2"
+  },
+  {
+    "claim": "Il Piano Burnham del 1909 è escluso.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "CH2; CH4"
+  }
+]

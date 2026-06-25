@@ -1,0 +1,92 @@
+{
+  "id": "ms_root",
+  "label": "Competenze di Mỹ Sơn–Trà Kiệu",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "ms_build",
+      "label": "Architettura Cham",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "ms_brick",
+          "label": "Muratura in mattoni cotti",
+          "status": "documentato"
+        },
+        {
+          "id": "ms_stone",
+          "label": "Scultura in arenaria",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "ms_relig",
+      "label": "Religione e scrittura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "ms_shiva",
+          "label": "Rituale shivaita e culto dinastico",
+          "status": "documentato"
+        },
+        {
+          "id": "ms_epi",
+          "label": "Epigrafia sanscrita e cham",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "ms_geo",
+      "label": "Geografia sacra",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "ms_mountain",
+          "label": "Relazione tra monti, fiume e santuario",
+          "status": "documentato"
+        },
+        {
+          "id": "ms_route",
+          "label": "Corridoio Thu Bồn–costa",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "ms_trade",
+      "label": "Scambio marittimo",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "ms_monsoon",
+          "label": "Navigazione monsonica",
+          "status": "sintesi"
+        },
+        {
+          "id": "ms_ports",
+          "label": "Gestione di approdi e mercati",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "ms_food",
+      "label": "Produzione locale",
+      "status": "inferito",
+      "children": [
+        {
+          "id": "ms_rice",
+          "label": "Coltivazione del riso",
+          "status": "sintesi"
+        },
+        {
+          "id": "ms_fish",
+          "label": "Pesca e risorse costiere",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

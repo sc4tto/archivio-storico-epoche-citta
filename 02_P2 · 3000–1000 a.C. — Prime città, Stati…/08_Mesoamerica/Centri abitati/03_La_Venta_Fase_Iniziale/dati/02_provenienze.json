@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "La Venta",
+      "lat": 18.1,
+      "lon": -94.04,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "tonala",
+      "label": "Fiume Tonalá",
+      "lat": 18.2,
+      "lon": -93.85,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "coast",
+      "label": "Costa del Golfo",
+      "lat": 18.3,
+      "lon": -94.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "sanlorenzo",
+      "label": "San Lorenzo",
+      "lat": 17.95,
+      "lon": -94.79,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "tuxtlas",
+      "label": "Sierra de los Tuxtlas",
+      "lat": 18.5,
+      "lon": -95.2,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "motagua",
+      "label": "Valle del Motagua e altopiani",
+      "lat": 15.3,
+      "lon": -89.2,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "tonala",
+      "target": "site",
+      "label": "acqua, pesca e trasporto",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "coast",
+      "target": "site",
+      "label": "sale e risorse marine",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "sanlorenzo",
+      "target": "site",
+      "label": "tradizioni e reti del Golfo",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "tuxtlas",
+      "target": "site",
+      "label": "basalto monumentale",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "motagua",
+      "target": "site",
+      "label": "giadeite e pietre verdi",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

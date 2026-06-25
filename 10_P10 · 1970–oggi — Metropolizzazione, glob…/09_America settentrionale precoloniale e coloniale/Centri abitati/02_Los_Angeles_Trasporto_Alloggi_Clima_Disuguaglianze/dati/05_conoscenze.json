@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Los Angeles, trasporto, alloggi, clima e disuguaglianze",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Governance policentrica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Città, contea, Metro, LADWP e comunità",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Coordinamento, fondi, dati e partecipazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Trasporto e spazio urbano",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Metro, autobus, strade, ciclabilità e pedonalità",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Accessibilità, sicurezza, manutenzione e uso del suolo",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Alloggi e segregazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Housing Element, affitti, edilizia accessibile e servizi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Zonizzazione discriminatoria, spostamenti, sfratti e senzatetto",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Clima mediterraneo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Siccità, incendi, calore, smog e piogge intense",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Risparmio idrico, resilienza, ombra e ricostruzione sicura",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Società plurale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Comunità latinoamericane, asiatiche, nere e indigene",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Diritti civili, memoria, rappresentanza e contrasto alla repressione",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

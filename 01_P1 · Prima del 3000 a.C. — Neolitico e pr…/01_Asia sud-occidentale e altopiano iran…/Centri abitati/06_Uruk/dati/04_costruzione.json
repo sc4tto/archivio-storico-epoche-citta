@@ -1,0 +1,186 @@
+{
+  "nodes": [
+    {
+      "id": "mud",
+      "label": "Limo e argilla alluvionale",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "reeds",
+      "label": "Canne e stuoie",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "bitumen",
+      "label": "Bitume",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "baked",
+      "label": "Mattoni cotti e coni d’argilla",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "brickmake",
+      "label": "Produzione standardizzata di mattoni crudi",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "reedwork",
+      "label": "Intreccio e posa di canne",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "seal",
+      "label": "Impermeabilizzazione con bitume",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "decorate",
+      "label": "Produzione di coni e mosaici parietali",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "mudbrick",
+      "label": "Murature in mattoni crudi",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "matting",
+      "label": "Stuoie e rinforzi vegetali",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "hydraulic",
+      "label": "Canali, argini e opere idrauliche",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "mosaic",
+      "label": "Rivestimenti a coni",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "temples",
+      "label": "Templi e complessi monumentali",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "stores",
+      "label": "Magazzini e spazi amministrativi",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Quartieri residenziali",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "canals",
+      "label": "Rete urbana e agricola di canali",
+      "layer": 3,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "mud",
+      "target": "brickmake",
+      "label": "materia prima",
+      "status": "documentato"
+    },
+    {
+      "source": "reeds",
+      "target": "reedwork",
+      "label": "materia prima",
+      "status": "documentato"
+    },
+    {
+      "source": "bitumen",
+      "target": "seal",
+      "label": "materia prima",
+      "status": "sintesi"
+    },
+    {
+      "source": "baked",
+      "target": "decorate",
+      "label": "materia prima",
+      "status": "sintesi"
+    },
+    {
+      "source": "brickmake",
+      "target": "mudbrick",
+      "label": "produce",
+      "status": "documentato"
+    },
+    {
+      "source": "reedwork",
+      "target": "matting",
+      "label": "produce",
+      "status": "documentato"
+    },
+    {
+      "source": "seal",
+      "target": "hydraulic",
+      "label": "protegge",
+      "status": "sintesi"
+    },
+    {
+      "source": "decorate",
+      "target": "mosaic",
+      "label": "produce",
+      "status": "documentato"
+    },
+    {
+      "source": "mudbrick",
+      "target": "temples",
+      "label": "costituisce",
+      "status": "documentato"
+    },
+    {
+      "source": "mudbrick",
+      "target": "stores",
+      "label": "costituisce",
+      "status": "documentato"
+    },
+    {
+      "source": "mudbrick",
+      "target": "houses",
+      "label": "costituisce",
+      "status": "sintesi"
+    },
+    {
+      "source": "mosaic",
+      "target": "temples",
+      "label": "decora",
+      "status": "documentato"
+    },
+    {
+      "source": "hydraulic",
+      "target": "canals",
+      "label": "costituisce",
+      "status": "documentato"
+    },
+    {
+      "source": "matting",
+      "target": "houses",
+      "label": "integra",
+      "status": "sintesi"
+    }
+  ]
+}

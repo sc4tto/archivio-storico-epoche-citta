@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Paesaggio pre-monumentale",
+    "Edifici lignei e prime deposizioni",
+    "Costruzione dei tumuli",
+    "Uso del recinto e raduni",
+    "Scavi, distruzione e ricostruzione"
+  ],
+  "items": [
+    {
+      "id": "wall",
+      "label": "Recinto in terra",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "mounds",
+      "label": "Gruppo di tumuli funerari",
+      "lane": "Funerarie",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "charnel",
+      "label": "Edifici lignei e ossari",
+      "lane": "Funerarie",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "offerings",
+      "label": "Depositi di rame, mica e conchiglia",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "plaza",
+      "label": "Spazio interno e accessi",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "gathering",
+      "label": "Raduni periodici",
+      "lane": "Organizzazione",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "restoration",
+      "label": "Scavi e ricostruzione novecentesca",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

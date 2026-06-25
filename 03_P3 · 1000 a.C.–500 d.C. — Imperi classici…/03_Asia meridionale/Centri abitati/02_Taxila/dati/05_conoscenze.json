@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Taxila",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Bhir Mound",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Griglia di Sirkap",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Fortificazioni di Sirsukh",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Buddhismo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Stupa",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Monasteri",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Pellegrinaggi",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Monetazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Indo-greci",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Indo-sciti e parti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Kushana",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Reti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Via verso Battriana",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Pianura dell’Indo",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Gange",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Pietra",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Metalli",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Ceramica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Pluralità culturale",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Persiana",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Ellenistica",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Centroasiatica",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

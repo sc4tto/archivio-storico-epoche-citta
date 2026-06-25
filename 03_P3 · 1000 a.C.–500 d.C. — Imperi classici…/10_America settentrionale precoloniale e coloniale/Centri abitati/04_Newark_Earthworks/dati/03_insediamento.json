@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Paesaggio precedente",
+    "Costruzione dei grandi recinti",
+    "Uso cerimoniale e osservazioni cicliche",
+    "Riuso e trasformazioni successive",
+    "Distruzione parziale e tutela"
+  ],
+  "items": [
+    {
+      "id": "greatcircle",
+      "label": "Great Circle e fossato interno",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "octagon",
+      "label": "Octagon e Observatory Circle",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "wright",
+      "label": "Wright Earthworks e vie parallele",
+      "lane": "Paesaggio",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "gateways",
+      "label": "Porte e percorsi",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "alignments",
+      "label": "Allineamenti lunari e solari",
+      "lane": "Conoscenze",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "gatherings",
+      "label": "Raduni e cerimonie",
+      "lane": "Organizzazione",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "loss",
+      "label": "Canali, strade e urbanizzazione moderna",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

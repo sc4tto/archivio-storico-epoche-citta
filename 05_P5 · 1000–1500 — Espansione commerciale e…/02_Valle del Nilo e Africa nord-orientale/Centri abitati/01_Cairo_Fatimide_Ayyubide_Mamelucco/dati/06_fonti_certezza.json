@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Cairo fu fondata nel 969 come capitale fatimide.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "CA1; CA2"
+  },
+  {
+    "claim": "La cittadella divenne il centro del governo ayyubide.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "CA1"
+  },
+  {
+    "claim": "Il periodo mamelucco ampliò il tessuto urbano e monumentale.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "CA1; CA3"
+  },
+  {
+    "claim": "Al-Azhar fu un centro religioso e accademico di lunga durata.",
+    "theme": "conoscenza",
+    "status": "documentato",
+    "source": "CA1"
+  },
+  {
+    "claim": "Canali, cisterne e sabil collegavano la città al Nilo.",
+    "theme": "acqua",
+    "status": "documentato",
+    "source": "CA1; CA4"
+  },
+  {
+    "claim": "I mercati erano organizzati per attività artigianali e commerciali.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "CA1; CA4"
+  },
+  {
+    "claim": "La peste del XIV secolo causò forti crisi demografiche.",
+    "theme": "demografia",
+    "status": "documentato",
+    "source": "CA2"
+  },
+  {
+    "claim": "Le trasformazioni ottomane appartengono al periodo successivo.",
+    "theme": "certezza",
+    "status": "documentato",
+    "source": "CA1"
+  }
+]

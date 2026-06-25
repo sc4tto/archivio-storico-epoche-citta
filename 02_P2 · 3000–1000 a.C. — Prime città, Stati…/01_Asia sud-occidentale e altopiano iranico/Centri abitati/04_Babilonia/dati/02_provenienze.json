@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Babilonia",
+      "lat": 32.542,
+      "lon": 44.42,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "euphrates",
+      "label": "Eufrate e canali urbani",
+      "lat": 32.55,
+      "lon": 44.4,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "borsippa",
+      "label": "Borsippa",
+      "lat": 32.39,
+      "lon": 44.34,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "sippar",
+      "label": "Sippar",
+      "lat": 33.06,
+      "lon": 44.25,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "mari",
+      "label": "Mari e medio Eufrate",
+      "lat": 34.55,
+      "lon": 40.89,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "elam",
+      "label": "Susa ed Elam",
+      "lat": 32.19,
+      "lon": 48.25,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "euphrates",
+      "target": "site",
+      "label": "acqua, trasporto e irrigazione",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "borsippa",
+      "target": "site",
+      "label": "culto, prodotti e mobilità locale",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "sippar",
+      "target": "site",
+      "label": "testi, lana, cereali e persone",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "mari",
+      "target": "site",
+      "label": "carovane, legname e beni siriani",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "elam",
+      "target": "site",
+      "label": "metalli, pietre e rapporti politici",
+      "status": "documentato",
+      "food": "no"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Damasco",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Griglia romana persistente",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Mura e porte",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Piano interamente omayyade",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Religione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Grande moschea",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Chiese cristiane",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Uniformità confessionale",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Acqua",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Barada e canali",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Ghouta irrigua",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Portate esatte per quartiere",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Artigianato",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Metalli e tessili",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Vetro e ceramica",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Monopolio statale totale",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Politica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Capitale omayyade",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Amministrazione califfale",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Centralità invariata dopo il 750",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Metodo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Monumenti conservati",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Fonti testuali",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Datazione di ogni muro",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Il sito fu scoperto durante lavori al terminale dei traghetti",
+    "theme": "Scoperta",
+    "status": "documentato",
+    "source": "MUL_JPS"
+  },
+  {
+    "claim": "Sono stati recuperati oltre quattromila frammenti ceramici",
+    "theme": "Ceramica",
+    "status": "documentato",
+    "source": "MUL_JPS"
+  },
+  {
+    "claim": "Mulifanua conserva ceramica Lapita decorata",
+    "theme": "Ceramica",
+    "status": "documentato",
+    "source": "MUL_JPS"
+  },
+  {
+    "claim": "Il deposito è oggi parzialmente sommerso",
+    "theme": "Paesaggio",
+    "status": "documentato",
+    "source": "MUL_JPS"
+  },
+  {
+    "claim": "Sono note asce riconducibili alla tradizione Lapita",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "MUL_JPS"
+  },
+  {
+    "claim": "Mulifanua era la capitale politica di tutte le Samoa",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Nessuna prova di capitale unitaria"
+  },
+  {
+    "claim": "Ogni frammento corrisponde a un vaso distinto",
+    "theme": "Metodo",
+    "status": "non_documentato",
+    "source": "La frammentazione moltiplica i reperti"
+  },
+  {
+    "claim": "La posizione favoriva collegamenti fra Upolu, Manono e Savai‘i",
+    "theme": "Mobilità",
+    "status": "sintesi",
+    "source": "Geografia dello stretto"
+  }
+]

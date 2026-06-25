@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Snaketown–Huhugam preclassica",
+    "site": "Snaketown / Hohokam Pima National Monument",
+    "modern_location": "Gila River Indian Community, Arizona, Stati Uniti",
+    "coordinates": {
+      "lat": 33.187,
+      "lon": -111.92
+    },
+    "scope": "Snaketown fra circa 500 e 1000, nella fase preclassica Huhugam/Hohokam, con sistemi irrigui, case seminterrate, campi da gioco e scambi nel deserto di Sonora.",
+    "version": "1.0",
+    "warning": "Il sito è territorio della Gila River Indian Community e non è aperto al pubblico. “Hohokam” è un termine archeologico; il modulo usa anche Huhugam per rispettare la continuità O’odham."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SN1",
+      "title": "National Park Foundation — Hohokam Pima National Monument",
+      "use": "Protezione del sito, Snaketown e contesto Huhugam.",
+      "url": "https://www.nationalparks.org/explore/parks/hohokam-pima-national-monument"
+    },
+    {
+      "id": "SN2",
+      "title": "Arizona State Museum — Hohokam collections",
+      "use": "Collezioni, ceramica e ricerca archeologica.",
+      "url": "https://statemuseum.arizona.edu/collections/archaeological"
+    },
+    {
+      "id": "SN3",
+      "title": "Gila River Indian Community — Huhugam Heritage Center",
+      "use": "Prospettiva della comunità e continuità culturale O’odham.",
+      "url": "https://www.grichhc.org/"
+    },
+    {
+      "id": "SN4",
+      "title": "University of Arizona Press — The Hohokam, Desert Farmers and Craftsmen",
+      "use": "Canali, case, ceramica e artigianato di Snaketown.",
+      "url": "https://uapress.arizona.edu/book/the-hohokam-desert-farmers-and-craftsmen"
+    },
+    {
+      "id": "SN5",
+      "title": "National Park Service — Hohokam Pima National Monument",
+      "use": "Sito protetto e contesto archeologico.",
+      "url": "https://www.nps.gov/places/hohokam-pima-national-monument.htm"
+    }
+  ]
+}

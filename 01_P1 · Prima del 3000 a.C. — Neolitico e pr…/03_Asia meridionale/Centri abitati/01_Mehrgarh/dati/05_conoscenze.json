@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Mehrgarh",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Ambiente",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Regimi alluvionali",
+          "status": "inferito"
+        },
+        {
+          "id": "k1_2",
+          "label": "Percorsi del passo di Bolan",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Gestione di piana e colline",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Coltivazione di orzo e frumento",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_2",
+          "label": "Domesticazione e gestione dei bovini",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_3",
+          "label": "Conservazione delle sementi",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Edilizia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Mattoni crudi plano-convessi",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Strutture compartimentate",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Manutenzione del tell",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Ceramica",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Produzione di perle",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Lavorazione della pietra",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Cura del corpo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Perforazione dentale",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Uso di punte litiche fini",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Conoscenze terapeutiche complessive",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Organizzazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Gestione dei depositi",
+          "status": "inferito"
+        },
+        {
+          "id": "k6_2",
+          "label": "Pratiche funerarie",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Reti interregionali",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

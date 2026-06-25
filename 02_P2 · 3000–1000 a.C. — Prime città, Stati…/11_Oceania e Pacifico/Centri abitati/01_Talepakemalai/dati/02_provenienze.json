@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Talepakemalai",
+      "lat": -1.93,
+      "lon": 147.1,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "lagoon",
+      "label": "Laguna di Eloaua",
+      "lat": -1.94,
+      "lon": 147.11,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "mussau",
+      "label": "Isole Mussau",
+      "lat": -1.5,
+      "lon": 149.7,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "talasea",
+      "label": "Talasea, Nuova Britannia",
+      "lat": -5.28,
+      "lon": 150.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "newireland",
+      "label": "Nuova Irlanda",
+      "lat": -3.2,
+      "lon": 152.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "solomons",
+      "label": "Isole Salomone",
+      "lat": -8.0,
+      "lon": 159.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "lagoon",
+      "target": "site",
+      "label": "pesce, molluschi e siti su pali",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "mussau",
+      "target": "site",
+      "label": "piante, legname e mobilità locale",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "talasea",
+      "target": "site",
+      "label": "ossidiana",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "newireland",
+      "target": "site",
+      "label": "ceramiche e contatti regionali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "solomons",
+      "target": "site",
+      "label": "espansione e scambi verso est",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

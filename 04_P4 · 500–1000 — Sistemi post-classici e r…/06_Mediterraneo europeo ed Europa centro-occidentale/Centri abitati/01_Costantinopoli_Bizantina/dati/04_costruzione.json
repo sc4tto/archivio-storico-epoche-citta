@@ -1,0 +1,174 @@
+{
+  "nodes": [
+    {
+      "id": "m_brick",
+      "label": "Laterizio e malta",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_stone",
+      "label": "Pietra da costruzione",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_marble",
+      "label": "Marmi e spolia",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_timber",
+      "label": "Legname e piombo",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "o_vault",
+      "label": "Muratura, volte e cupole",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_dress",
+      "label": "Taglio, trasporto e posa",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_mosaic",
+      "label": "Mosaico e rivestimento",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_carp",
+      "label": "Carpenteria e coperture",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "c_dome",
+      "label": "Cupole, esedre e pilastri",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_walls",
+      "label": "Mura, torri e cisterne",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_colonnade",
+      "label": "Colonnati e pavimenti",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_roof",
+      "label": "Tetti, solai e banchine",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "s_hagia",
+      "label": "Hagia Sophia e grandi chiese",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_def",
+      "label": "Sistema difensivo teodosiano",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_palace",
+      "label": "Palazzi, monasteri e fori",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_urban",
+      "label": "Porti, mercati e tessuto abitativo",
+      "layer": 3,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m_brick",
+      "target": "o_vault",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_vault",
+      "target": "c_dome",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_dome",
+      "target": "s_hagia",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_stone",
+      "target": "o_dress",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_dress",
+      "target": "c_walls",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_walls",
+      "target": "s_def",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_marble",
+      "target": "o_mosaic",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_mosaic",
+      "target": "c_colonnade",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_colonnade",
+      "target": "s_palace",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_timber",
+      "target": "o_carp",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_carp",
+      "target": "c_roof",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_roof",
+      "target": "s_urban",
+      "status": "sintesi",
+      "label": ""
+    }
+  ]
+}

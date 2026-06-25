@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Newark Earthworks — modulo multi-grafo",
+    "short_name": "Newark Earthworks",
+    "site": "Great Circle e Octagon Earthworks di Newark",
+    "modern_location": "Newark e Heath, Ohio, Stati Uniti",
+    "coordinates": {
+      "lat": 40.057,
+      "lon": -82.43
+    },
+    "scope": "Grande complesso geometrico Hopewell formato da cerchi, ottagono, fossati, muri e percorsi, costruito fra circa 100 a.C. e 400 d.C.; conserva allineamenti con cicli lunari e solari e rappresenta una delle massime espressioni della pianificazione monumentale in terra.",
+    "version": "1.0-blocco_35_p3_america_settentrionale_5_centri_v1",
+    "warning": "Solo una parte dell’originario complesso di Newark è sopravvissuta. Gli allineamenti astronomici documentati non equivalgono a un osservatorio nel senso moderno, e non consentono di ricostruire in modo completo calendari, sacerdoti o rituali."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "HOPEWELL_UNESCO",
+      "title": "UNESCO — Hopewell Ceremonial Earthworks",
+      "url": "https://whc.unesco.org/en/list/1689/",
+      "use": "cronologia, geometria, astronomia, reti e conservazione"
+    },
+    {
+      "id": "HOPEWELL_NPS",
+      "title": "National Park Service — Hopewell Ceremonial Earthworks",
+      "url": "https://www.nps.gov/hocu/learn/historyculture/hopewell-ceremonial-earthworks.htm",
+      "use": "componenti seriali, gestione e interpretazione"
+    },
+    {
+      "id": "HOPEWELL_LYNOTT",
+      "title": "Mark Lynott — Hopewell Ceremonial Landscapes of Ohio",
+      "url": "https://search.worldcat.org/search?q=Hopewell+Ceremonial+Landscapes+of+Ohio+Lynott",
+      "use": "paesaggi cerimoniali, costruzione e organizzazione sociale"
+    }
+  ]
+}

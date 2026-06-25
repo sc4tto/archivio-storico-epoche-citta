@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Chan Chan",
+      "lat": -8.111,
+      "lon": -79.0747,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "moc",
+      "label": "Valle del Moche",
+      "lat": -8.1,
+      "lon": -78.99,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "chi",
+      "label": "Valle di Chicama",
+      "lat": -7.8,
+      "lon": -79.15,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "vir",
+      "label": "Valle di Virú",
+      "lat": -8.41,
+      "lon": -78.75,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "lam",
+      "label": "Lambayeque",
+      "lat": -6.7,
+      "lon": -79.9,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "high",
+      "label": "Sierra settentrionale",
+      "lat": -7.3,
+      "lon": -78.3,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "ecu",
+      "label": "Costa ecuadoriana",
+      "lat": -2.2,
+      "lon": -80.9,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "moc",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali e strade",
+      "food": "mais, ortaggi e acqua"
+    },
+    {
+      "source": "chi",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoi vallivi",
+      "food": "cotone, mais e frutta"
+    },
+    {
+      "source": "vir",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade costiere",
+      "food": "derrate e manodopera"
+    },
+    {
+      "source": "lam",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti costiere settentrionali",
+      "food": "metalli e ceramiche"
+    },
+    {
+      "source": "high",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane",
+      "food": "camelidi, lana e minerali"
+    },
+    {
+      "source": "ecu",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione e scambio",
+      "food": "spondylus e beni tropicali"
+    }
+  ]
+}

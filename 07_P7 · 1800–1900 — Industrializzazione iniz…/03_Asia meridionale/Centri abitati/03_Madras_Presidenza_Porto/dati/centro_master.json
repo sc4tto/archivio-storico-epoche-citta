@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Madras della Presidenza e del porto",
+    "site": "Madras della Presidenza e del porto",
+    "modern_location": "Chennai, India",
+    "coordinates": {
+      "lat": 13.0827,
+      "lon": 80.2707
+    },
+    "scope": "Madras fra 1800 e 1900: capitale amministrativa dell’India meridionale britannica, porto del Coromandel, centro tessile, educativo e ferroviario.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Le grandi espansioni automobilistiche e industriali del XX secolo, il porto moderno e la Chennai metropolitana sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MA1",
+      "title": "Encyclopaedia Britannica — Chennai",
+      "use": "Storia urbana e ruolo della Presidenza di Madras.",
+      "url": "https://www.britannica.com/place/Chennai"
+    },
+    {
+      "id": "MA2",
+      "title": "Archaeological Survey of India — Fort Museum, Chennai",
+      "use": "Fort St George, amministrazione e cultura materiale.",
+      "url": "https://asi.nic.in/"
+    },
+    {
+      "id": "MA3",
+      "title": "Chennai Port Authority — History",
+      "use": "Costruzione del porto artificiale e traffici.",
+      "url": "https://chennaiport.gov.in/"
+    },
+    {
+      "id": "MA4",
+      "title": "Tamil Nadu Archives and Historical Research",
+      "use": "Documenti amministrativi e cartografia della Presidenza.",
+      "url": "https://www.tamilnaduarchives.tn.gov.in/"
+    },
+    {
+      "id": "MA5",
+      "title": "Indian Railways — Southern Railway Heritage",
+      "use": "Sviluppo ferroviario nell’India meridionale.",
+      "url": "https://sr.indianrailways.gov.in/"
+    }
+  ]
+}

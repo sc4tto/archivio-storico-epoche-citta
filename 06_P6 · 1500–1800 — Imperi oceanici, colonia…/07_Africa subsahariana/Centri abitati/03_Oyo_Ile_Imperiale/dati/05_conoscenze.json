@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Oyo-Ile imperiale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Governo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Alaafin, Oyo Mesi e Ogboni",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Tributo, province e messaggeri",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Cavalleria",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Allevamento e importazione dei cavalli",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Scuderie, logistica e campagne",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Mura concentriche e porte",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Palazzo, mercati e quartieri",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Acqua",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Pozzi, cisterne e serbatoi",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Gestione stagionale delle risorse",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Kola, sale e tessili",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Rotte verso Borgu e Dahomey",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

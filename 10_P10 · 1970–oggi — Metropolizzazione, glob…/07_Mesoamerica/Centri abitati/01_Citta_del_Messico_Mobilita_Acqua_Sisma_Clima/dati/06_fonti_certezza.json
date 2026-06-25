@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "La rete Metro è cresciuta attraverso successive aperture e ampliamenti dalla sua inaugurazione nel 1969.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "MX1"
+  },
+  {
+    "claim": "Il sovrasfruttamento delle falde contribuisce alla subsidenza e aggrava danni e rischio di alluvione.",
+    "theme": "acqua",
+    "status": "documentato",
+    "source": "MX2"
+  },
+  {
+    "claim": "La politica climatica cittadina integra mobilità, acqua, rifiuti, aria e resilienza.",
+    "theme": "clima",
+    "status": "documentato",
+    "source": "MX3"
+  },
+  {
+    "claim": "I terremoti del 1985 e 2017 restano riferimenti centrali per la prevenzione sismica.",
+    "theme": "rischio",
+    "status": "documentato",
+    "source": "MX4"
+  },
+  {
+    "claim": "La strategia 2021–2050 e il programma 2021–2030 sono piani con orizzonti successivi alla data di chiusura.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "MX3"
+  },
+  {
+    "claim": "Città del Messico è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Disuguaglianze idriche, informalità, sgomberi e costi sociali delle infrastrutture non sono presentati come processi neutrali.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

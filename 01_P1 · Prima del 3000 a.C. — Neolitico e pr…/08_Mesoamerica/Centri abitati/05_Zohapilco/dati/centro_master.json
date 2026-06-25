@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Zohapilco — modulo multi-grafo",
+    "short_name": "Zohapilco",
+    "site": "Insediamento all’aperto di Zohapilco",
+    "modern_location": "Tlapacoya, antico margine del lago Chalco, Bacino del Messico",
+    "coordinates": {
+      "lat": 19.3,
+      "lon": -98.9
+    },
+    "scope": "Sito all’aperto frequentato fra circa 5500 e 2200 a.C. sul margine del lago Chalco, importante per lo sfruttamento lacustre, la crescente stabilità insediativa e le fasi iniziali della ceramica nel Bacino del Messico.",
+    "version": "1.0-blocco_09_p1_mesoamerica_5_centri_v1",
+    "warning": "La permanenza annuale, il peso dell’agricoltura e la cronologia delle ceramiche più antiche sono oggetto di discussione. Il modulo separa la lunga frequentazione del luogo dalla piena sedentarietà."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "NIEDERBERGER_ZOHAPILCO",
+      "title": "Niederberger — Zohapilco: Cinco milenios de ocupación humana en un sitio lacustre de la Cuenca de México",
+      "url": "https://search.worldcat.org/search?q=Zohapilco+cinco+milenios+ocupacion+humana",
+      "use": "sequenza, ambiente lacustre, insediamento e cultura materiale"
+    },
+    {
+      "id": "INAH_TLAPACOYA",
+      "title": "INAH — Tlapacoya: storia delle ricerche nel lago di Chalco",
+      "url": "https://mediateca.inah.gob.mx/islandora/search/catch_all_fields_mt%3A%28Tlapacoya%29",
+      "use": "contesto archeologico e documentazione istituzionale"
+    },
+    {
+      "id": "MESOAMERICA_HANDBOOK",
+      "title": "Oxford Handbook of Mesoamerican Archaeology — Origins of food production and village life",
+      "url": "https://doi.org/10.1093/oxfordhb/9780195390933.001.0001",
+      "use": "quadro comparativo di sussistenza e sedentarizzazione"
+    }
+  ]
+}

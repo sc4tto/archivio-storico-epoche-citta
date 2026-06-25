@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Kom el-Dikka conserva un complesso pubblico tardoantico",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "ALE_PCMA"
+  },
+  {
+    "claim": "Auditoria, terme e abitazioni documentano la vita urbana",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "ALE_PCMA"
+  },
+  {
+    "claim": "Alessandria rimase un porto importante dopo la conquista araba",
+    "theme": "Reti",
+    "status": "sintesi",
+    "source": "ALE_CEALEX"
+  },
+  {
+    "claim": "Cisterne e infrastrutture idriche erano essenziali",
+    "theme": "Acqua",
+    "status": "documentato",
+    "source": "ALE_CEALEX"
+  },
+  {
+    "claim": "Tutti i monumenti famosi oggi visibili appartengono al P4",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Molti sono anteriori o posteriori"
+  },
+  {
+    "claim": "La conquista del VII secolo causò un abbandono immediato",
+    "theme": "Insediamento",
+    "status": "non_documentato",
+    "source": "La continuità urbana è documentata"
+  },
+  {
+    "claim": "La topografia del P4 è integralmente ricostruita",
+    "theme": "Metodo",
+    "status": "non_documentato",
+    "source": "Aree estese restano coperte o sommerse"
+  },
+  {
+    "claim": "La città collegava Mediterraneo e valle del Nilo",
+    "theme": "Reti",
+    "status": "documentato",
+    "source": "ALE_CEALEX"
+  }
+]

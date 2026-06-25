@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Fondazione della capitale Han orientale",
+    "Apogeo imperiale Han",
+    "Crisi del II–III secolo",
+    "Capitali Wei e Jin",
+    "Ricostruzione dei Wei settentrionali fino al 500"
+  ],
+  "items": [
+    {
+      "id": "walls",
+      "label": "Mura, porte e asse urbano",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "palaces",
+      "label": "Palazzi settentrionale e meridionale",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "markets",
+      "label": "Mercati e quartieri artigiani",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "academy",
+      "label": "Accademia imperiale",
+      "lane": "Amministrative",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "temples",
+      "label": "Templi e primi complessi buddhisti",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "roads",
+      "label": "Strade, ponti e stazioni",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "rebuild",
+      "label": "Ricostruzioni tardoantiche",
+      "lane": "Eventi",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

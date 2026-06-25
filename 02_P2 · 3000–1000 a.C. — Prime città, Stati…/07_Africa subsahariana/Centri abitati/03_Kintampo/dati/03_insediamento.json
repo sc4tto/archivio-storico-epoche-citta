@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Prime comunità Kintampo",
+    "Villaggi e ripari",
+    "Diffusione del miglio",
+    "Reti savana-foresta",
+    "Trasformazioni regionali"
+  ],
+  "items": [
+    {
+      "id": "houses",
+      "label": "Case con pali e fango",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "shelters",
+      "label": "Uso di ripari rocciosi",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "millet",
+      "label": "Coltivazione del miglio",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "oilpalm",
+      "label": "Gestione della palma da olio",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "grinding",
+      "label": "Macinazione e lavorazione vegetale",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "ornaments",
+      "label": "Perline e bracciali litici",
+      "lane": "Artigianato",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "exchange",
+      "label": "Scambi savana-costa",
+      "lane": "Reti",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

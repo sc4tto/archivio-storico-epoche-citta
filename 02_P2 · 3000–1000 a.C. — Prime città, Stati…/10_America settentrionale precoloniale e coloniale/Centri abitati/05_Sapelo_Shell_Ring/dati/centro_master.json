@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Sapelo Island Shell Ring — modulo multi-grafo",
+    "short_name": "Sapelo Island Shell Ring",
+    "site": "Complesso degli anelli di conchiglie di Sapelo Island",
+    "modern_location": "Sapelo Island, Georgia, Stati Uniti",
+    "coordinates": {
+      "lat": 31.398,
+      "lon": -81.28
+    },
+    "scope": "Complesso costiero del Tardo Arcaico con anelli di conchiglie, spazi centrali, aree domestiche e attività specializzate, legato alla raccolta di ostriche, pesca, ceramica a tempera di fibre e mobilità tra isole barriera.",
+    "version": "1.0-blocco_23_p2_america_settentrionale_5_centri_v1",
+    "warning": "La funzione degli anelli come villaggi, luoghi di raduno o monumenti è oggetto di dibattito. La forma attuale è influenzata da erosione, riuso e processi costieri."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "SAPELO_GEO",
+      "title": "Thompson et al. — The Sapelo Shell Ring Complex: Shallow Geophysics on a Georgia Sea Island",
+      "url": "https://www.tandfonline.com/journals/ysea20",
+      "use": "geofisica, attività interne e organizzazione spaziale"
+    },
+    {
+      "id": "SAPELO_FORMATION",
+      "title": "Thompson — Articulating Activity Areas and Formation Processes at the Sapelo Island Shell Ring Complex",
+      "url": "https://www.jstor.org/stable/40713419",
+      "use": "processi di formazione e aree di attività"
+    },
+    {
+      "id": "SAPELO_DNR",
+      "title": "Georgia Department of Natural Resources — Sapelo Island",
+      "url": "https://gastateparks.org/SapeloIsland",
+      "use": "tutela del paesaggio e contesto ambientale"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "et1",
+      "label": "Fondazione del centro mississippiano",
+      "lane": "Insediamento",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "et2",
+      "label": "Costruzione dei primi tumuli",
+      "lane": "Costruzione",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "et3",
+      "label": "Grande piazza e villaggio fortificato",
+      "lane": "Urbanistica",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "et4",
+      "label": "Fossato e dispositivi difensivi",
+      "lane": "Difesa",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "et5",
+      "label": "Apogeo di Mound A e Mound C",
+      "lane": "Politica",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "et6",
+      "label": "Produzione artistica e oggetti di prestigio",
+      "lane": "Artigianato",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "et7",
+      "label": "Riorganizzazioni e interruzioni insediative",
+      "lane": "Insediamento",
+      "start": 3,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "et8",
+      "label": "Persistenza del centro fino al 1500",
+      "lane": "Cronologia",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

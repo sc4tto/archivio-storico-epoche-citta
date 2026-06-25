@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_44_P4_Mesoamerica_5_Centri_v1",
+  "macroregion": "Mesoamerica",
+  "centers": [
+    "01_Tikal_Tardo_Classica",
+    "02_Uxmal_Puuc",
+    "03_Chichen_Itza_Terminale",
+    "04_El_Tajin",
+    "05_Tula_Chico_Grande"
+  ],
+  "uses_central_assets": true
+}

@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Tell di Karanovo",
+      "lat": 42.512,
+      "lon": 25.9,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "azmak",
+      "label": "Valle dell’Azmak",
+      "lat": 42.5,
+      "lon": 25.86,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": 26,
+      "anchor": "end"
+    },
+    {
+      "id": "fields",
+      "label": "Pianura agricola di Nova Zagora",
+      "lat": 42.48,
+      "lon": 25.98,
+      "status": "sintesi",
+      "kind": "locale",
+      "dx": 12,
+      "dy": 24,
+      "anchor": "start"
+    },
+    {
+      "id": "sredna",
+      "label": "Sredna Gora e rilievi interni",
+      "lat": 42.65,
+      "lon": 25.55,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": -10,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "thrace",
+      "label": "Reti neolitiche della Tracia",
+      "lat": 42.2,
+      "lon": 26.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "aegean",
+      "label": "Balcani meridionali ed Egeo",
+      "lat": 41.2,
+      "lon": 24.8,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "azmak",
+      "target": "site",
+      "label": "acqua, argille e risorse di valle",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "fields",
+      "target": "site",
+      "label": "campi e pascoli",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "sredna",
+      "target": "site",
+      "label": "pietra, legno e selvaggina",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "thrace",
+      "target": "site",
+      "label": "confronti ceramici e reti regionali",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "aegean",
+      "target": "site",
+      "label": "diffusione di tecniche e colture neolitiche",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

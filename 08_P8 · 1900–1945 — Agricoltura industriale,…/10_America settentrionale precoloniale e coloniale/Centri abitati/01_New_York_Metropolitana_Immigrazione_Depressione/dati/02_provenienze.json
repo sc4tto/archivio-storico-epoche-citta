@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "New York",
+      "lat": 40.7128,
+      "lon": -74.006,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "hud",
+      "label": "Valle dell’Hudson",
+      "lat": 41.5,
+      "lon": -73.9,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "jer",
+      "label": "New Jersey e mercati regionali",
+      "lat": 40.4,
+      "lon": -74.4,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "lon",
+      "label": "Long Island e coste",
+      "lat": 40.8,
+      "lon": -73.1,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "chi",
+      "label": "Midwest e Chicago",
+      "lat": 41.88,
+      "lon": -87.63,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "sou",
+      "label": "Sud degli Stati Uniti",
+      "lat": 33.0,
+      "lon": -84.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "atl",
+      "label": "Atlantico, Europa e Caraibi",
+      "lat": 35.0,
+      "lon": -50.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "hud",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia, fiume e acquedotti",
+      "food": "latte, frutta, verdure e acqua"
+    },
+    {
+      "source": "jer",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e ponti",
+      "food": "ortaggi, pollame, industrie e pendolarismo"
+    },
+    {
+      "source": "lon",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e cabotaggio",
+      "food": "pesce, patate, ortaggi e servizi portuali"
+    },
+    {
+      "source": "chi",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e Grandi Laghi",
+      "food": "carne, cereali e manufatti"
+    },
+    {
+      "source": "sou",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e rotte costiere",
+      "food": "cotone, tabacco, migranti e prodotti agricoli"
+    },
+    {
+      "source": "atl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto oceanico",
+      "food": "immigrati, caffè, cacao, zucchero e merci"
+    }
+  ]
+}

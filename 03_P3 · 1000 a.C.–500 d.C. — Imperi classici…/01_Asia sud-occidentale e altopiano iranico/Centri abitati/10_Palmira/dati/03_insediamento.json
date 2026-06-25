@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Insediamento ellenistico",
+    "Crescita carovaniera",
+    "Città romana",
+    "Regno di Odenato e Zenobia",
+    "Tarda antichità"
+  ],
+  "items": [
+    {
+      "id": "bel",
+      "label": "Tempio di Bel e santuari",
+      "lane": "Religiose",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "colonnade",
+      "label": "Grande colonnato",
+      "lane": "Urbanistiche",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "agora",
+      "label": "Agorà e tariffa doganale",
+      "lane": "Amministrative",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Case e quartieri",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "tombs",
+      "label": "Torri funerarie e ipogei",
+      "lane": "Rituali",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "caravans",
+      "label": "Carovane e mercati",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "walls",
+      "label": "Fortificazioni e trasformazioni",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

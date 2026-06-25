@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Bangkok",
+      "lat": 13.7563,
+      "lon": 100.5018,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "cen",
+      "label": "Pianura centrale",
+      "lat": 14.4,
+      "lon": 100.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "riv",
+      "label": "Delta del Chao Phraya",
+      "lat": 13.35,
+      "lon": 100.6,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "khl",
+      "label": "Porto di Khlong Toei",
+      "lat": 13.7,
+      "lon": 100.57,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "nor",
+      "label": "Thailandia settentrionale",
+      "lat": 18.2,
+      "lon": 99.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "isa",
+      "label": "Nord-est Isan",
+      "lat": 16.2,
+      "lon": 103.2,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "gulf",
+      "label": "Golfo di Thailandia e importazioni",
+      "lat": 11.5,
+      "lon": 101.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "cen",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie, camion e canali",
+      "food": "riso, zucchero, ortaggi e migranti"
+    },
+    {
+      "source": "riv",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "barche, strade e mercati",
+      "food": "pesce, frutta, cocco e riso"
+    },
+    {
+      "source": "khl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto, magazzini e camion",
+      "food": "grano, carburanti, merci e macchinari"
+    },
+    {
+      "source": "nor",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e autobus",
+      "food": "riso glutinoso, legname, frutta e lavoratori"
+    },
+    {
+      "source": "isa",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e strade",
+      "food": "riso, bestiame, tapioca e migranti"
+    },
+    {
+      "source": "gulf",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navi costiere e commercio estero",
+      "food": "pesce, oli, fertilizzanti e beni industriali"
+    }
+  ]
+}

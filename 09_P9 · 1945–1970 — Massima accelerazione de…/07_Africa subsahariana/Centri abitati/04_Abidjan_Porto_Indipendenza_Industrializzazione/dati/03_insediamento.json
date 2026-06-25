@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1945–1949",
+    "1950–1954",
+    "1955–1959",
+    "1960–1964",
+    "1965–1970"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Completamento del canale di Vridi e apertura del porto in acque profonde nel 1950",
+      "lane": "Porto",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Piano Badani del 1952 e nuove direttrici di sviluppo",
+      "lane": "Urbanistica",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Rapida industrializzazione portuale e crescita di Treichville e Marcory",
+      "lane": "Economia",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Indipendenza della Côte d’Ivoire nel 1960",
+      "lane": "Politica",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Piano SETAP del 1960 per l’agglomerazione",
+      "lane": "Pianificazione",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Abidjan diventa il principale motore economico e amministrativo nazionale",
+      "lane": "Economia",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Forte immigrazione interna e dall’Africa occidentale",
+      "lane": "Migrazione",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Crescita di quartieri non pianificati e pressione su acqua, alloggi e trasporti",
+      "lane": "Servizi",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

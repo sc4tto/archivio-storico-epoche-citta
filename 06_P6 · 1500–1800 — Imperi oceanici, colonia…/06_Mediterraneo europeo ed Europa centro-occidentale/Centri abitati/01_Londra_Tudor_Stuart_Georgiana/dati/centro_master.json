@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Londra Tudor, Stuart e georgiana",
+    "site": "Londra Tudor, Stuart e georgiana",
+    "modern_location": "Londra, Regno Unito",
+    "coordinates": {
+      "lat": 51.5074,
+      "lon": -0.1278
+    },
+    "scope": "Londra fra 1500 e 1800: City, Westminster, porto del Tamigi e sobborghi, con istituzioni monarchiche e parlamentari, mercati, cantieri, manifatture e reti imperiali.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1800. Ferrovie, grandi opere vittoriane, embankment ottocenteschi e metropoli industriale successiva sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "LO1",
+      "title": "UNESCO — Palace of Westminster and Westminster Abbey",
+      "use": "Monarchia, Parlamento, abbazia e ruolo simbolico di Westminster.",
+      "url": "https://whc.unesco.org/en/list/426/"
+    },
+    {
+      "id": "LO2",
+      "title": "Museum of London — London history",
+      "use": "Sviluppo urbano, Grande Incendio, vita economica e materiale.",
+      "url": "https://www.londonmuseum.org.uk/"
+    },
+    {
+      "id": "LO3",
+      "title": "Historic England — The Great Fire of London",
+      "use": "Incendio del 1666 e ricostruzione della City.",
+      "url": "https://historicengland.org.uk/"
+    },
+    {
+      "id": "LO4",
+      "title": "Royal Museums Greenwich — Maritime London",
+      "use": "Porto, navigazione, cantieri e reti oceaniche.",
+      "url": "https://www.rmg.co.uk/"
+    },
+    {
+      "id": "LO5",
+      "title": "UK Parliament — History of Parliament",
+      "use": "Istituzioni parlamentari e Westminster.",
+      "url": "https://www.parliament.uk/about/living-heritage/"
+    }
+  ]
+}

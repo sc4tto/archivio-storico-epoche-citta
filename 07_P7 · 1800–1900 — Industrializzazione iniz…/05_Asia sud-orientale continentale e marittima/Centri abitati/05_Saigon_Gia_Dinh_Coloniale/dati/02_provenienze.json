@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Saigon–Gia Định",
+      "lat": 10.7769,
+      "lon": 106.7009,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "cho",
+      "label": "Chợ Lớn e canali occidentali",
+      "lat": 10.75,
+      "lon": 106.65,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "mek",
+      "label": "Delta del Mekong",
+      "lat": 10.1,
+      "lon": 105.8,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "coast",
+      "label": "Cap Saint-Jacques e costa",
+      "lat": 10.35,
+      "lon": 107.08,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "cam",
+      "label": "Cambogia e alto Mekong",
+      "lat": 12.5,
+      "lon": 104.9,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "chi",
+      "label": "Cina meridionale e Hong Kong",
+      "lat": 22.3,
+      "lon": 114.2,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "fra",
+      "label": "Francia e mercati coloniali",
+      "lat": 43.0,
+      "lon": 5.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "cho",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali e strade",
+      "food": "riso lavorato, mercanti e manifatture"
+    },
+    {
+      "source": "mek",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Mekong e rete di canali",
+      "food": "riso, pesce, frutta e manodopera"
+    },
+    {
+      "source": "coast",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cabotaggio e porto",
+      "food": "sale, pesce e traffico marittimo"
+    },
+    {
+      "source": "cam",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiume e vie terrestri",
+      "food": "riso, bestiame, prodotti forestali e persone"
+    },
+    {
+      "source": "chi",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "giunche e piroscafi",
+      "food": "tessili, tè, porcellana e reti mercantili"
+    },
+    {
+      "source": "fra",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "linee oceaniche coloniali",
+      "food": "macchinari, capitale, vino e materiali"
+    }
+  ]
+}

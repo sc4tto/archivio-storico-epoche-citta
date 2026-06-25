@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Dhaka–Jahangirnagar moghul",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Delta e acqua",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Argini, canali e ghats",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Navigazione fluviale e monsoni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Tessili",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Mussola e filatura fine",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Tintura, commercio e controllo qualità",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Mattone, cupole e terracotta",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Fondazioni rialzate e drenaggio",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Amministrazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Subahdar, dazi e mercati",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Waqf, katra e fondazioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Mobilità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Barche e cantieri navali",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Chittagong, Hooghly e Arakan",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

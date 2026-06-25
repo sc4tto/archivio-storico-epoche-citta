@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Kotosh",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Stratigrafia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Mito",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Wairajirca",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Kotosh e Chavín",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Edilizia rituale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Focolare centrale",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Condotti di ventilazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Interramento rituale",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Iconografia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Mani incrociate",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Rilievi in argilla",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Significato preciso",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Ceramica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Comparsa Wairajirca",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Forme e decorazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Produzione specializzata",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Reti verticali",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Valle",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Altopiani",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_3",
+          "label": "Versante orientale",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Organizzazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Manutenzione dei templi",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_2",
+          "label": "Autorità rituali",
+          "status": "inferito"
+        },
+        {
+          "id": "k6_3",
+          "label": "Monarchia",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

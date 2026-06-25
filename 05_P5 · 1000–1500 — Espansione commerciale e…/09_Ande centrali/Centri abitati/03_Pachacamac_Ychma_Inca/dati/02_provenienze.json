@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Pachacamac",
+      "lat": -12.2553,
+      "lon": -76.9003,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "lurin",
+      "label": "Valle del Lurín",
+      "lat": -12.2,
+      "lon": -76.85,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "coast",
+      "label": "Litorale di Lurín",
+      "lat": -12.28,
+      "lon": -76.94,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "rimac",
+      "label": "Valle del Rímac",
+      "lat": -12.05,
+      "lon": -77.05,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "chin",
+      "label": "Chincha",
+      "lat": -13.42,
+      "lon": -76.13,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "high",
+      "label": "Sierra centrale",
+      "lat": -12.0,
+      "lon": -75.2,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "cus",
+      "label": "Cusco",
+      "lat": -13.53,
+      "lon": -71.97,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "lurin",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali e percorsi locali",
+      "food": "mais, frutta e legumi"
+    },
+    {
+      "source": "coast",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sentieri costieri",
+      "food": "pesce, molluschi e alghe"
+    },
+    {
+      "source": "rimac",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte regionali",
+      "food": "ceramiche, tessili e pellegrini"
+    },
+    {
+      "source": "chin",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti costiere meridionali",
+      "food": "derrate e beni rituali"
+    },
+    {
+      "source": "high",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane",
+      "food": "camelidi, lana e coca"
+    },
+    {
+      "source": "cus",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Qhapaq Ñan e amministrazione inca",
+      "food": "offerte, funzionari e nuove costruzioni"
+    }
+  ]
+}

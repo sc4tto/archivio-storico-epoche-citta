@@ -1,7 +1,9 @@
 # Kannauj
 
-- **Epoca:** P4 · 500–1000 — Sistemi post-classici e religioni universalistiche
-- **Macroregione:** Asia meridionale
-- **Voce di origine:** Kannauj, Kanchipuram, Anuradhapura e città portuali.
+Modulo del Blocco 39, generato da sette JSON nella cartella `dati`.
 
-Questa cartella può contenere mappe, immagini, testi, fonti e appunti relativi al centro abitato o sistema d'insediamento indicato.
+- `APRI_CENTRO.bat`: apre il modulo.
+- `RIGENERA_CENTRO.bat`: rigenera le pagine.
+- `VERIFICA_CENTRO.bat`: controlla JSON, collegamenti e grafi.
+
+Descrizione: Grande centro della pianura gangetica fra VI e X secolo: capitale dei Maukhari e di Harsha, nodo politico conteso durante la lotta tripartita e successiva capitale dei Gurjara-Pratihara. Il modulo integra corte, monasteri, templi, mercati e vie terrestri e fluviali..

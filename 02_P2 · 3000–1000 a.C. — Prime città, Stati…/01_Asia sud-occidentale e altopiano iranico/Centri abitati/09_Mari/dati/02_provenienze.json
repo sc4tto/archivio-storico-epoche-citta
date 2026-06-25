@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Mari",
+      "lat": 34.551,
+      "lon": 40.888,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "euphrates",
+      "label": "Eufrate",
+      "lat": 34.55,
+      "lon": 40.95,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "canal",
+      "label": "Canale di collegamento urbano",
+      "lat": 34.57,
+      "lon": 40.88,
+      "status": "sintesi",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "terqa",
+      "label": "Terqa",
+      "lat": 34.93,
+      "lon": 40.57,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "ebla",
+      "label": "Ebla",
+      "lat": 35.8,
+      "lon": 36.8,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "babylon",
+      "label": "Babilonia",
+      "lat": 32.54,
+      "lon": 44.42,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "euphrates",
+      "target": "site",
+      "label": "acqua, pesca e navigazione",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "canal",
+      "target": "site",
+      "label": "irrigazione e collegamento fluviale",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "terqa",
+      "target": "site",
+      "label": "cereali, greggi e amministrazione",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "ebla",
+      "target": "site",
+      "label": "diplomazia, tessili e metalli",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "babylon",
+      "target": "site",
+      "label": "lettere, guerra e commerci",
+      "status": "documentato",
+      "food": "parziale"
+    }
+  ]
+}

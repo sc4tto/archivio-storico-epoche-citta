@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Manila–Intramuros spagnola",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Fortificazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Bastioni, fossati e artiglieria",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Difesa del porto e del Pasig",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Galeone e commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Argento, seta e dogane",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Parian e mercanti sangley",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Pietra, adobe e legno",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Tecniche adattate a terremoti e tifoni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Religione e istruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Ordini, conventi e collegi",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Parrocchie e ospedali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Alimentazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Riso, pesce e cocco",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Scambi americani e asiatici",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

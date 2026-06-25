@@ -1,0 +1,216 @@
+{
+  "nodes": [
+    {
+      "id": "t_camp",
+      "label": "Campagna romana e patrimoni ecclesiastici",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_tiber",
+      "label": "Tevere, Aniene e zone umide",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_latium",
+      "label": "Orti, vigne e pascoli del Lazio",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "r_grain",
+      "label": "Grano e legumi",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_wine",
+      "label": "Vino, olio e ortaggi",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_fish",
+      "label": "Pesce fluviale e marino",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "r_livestock",
+      "label": "Ovini, suini, bovini e formaggi",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "a_estate",
+      "label": "Rendite di patrimoni e monasteri",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_market",
+      "label": "Mercati, diaconie e donazioni",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_fishery",
+      "label": "Pesca e rifornimento da Ostia",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "a_pasture",
+      "label": "Pascolo e allevamento",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "x_mill",
+      "label": "Molitura, forni e panificazione",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x_press",
+      "label": "Pigiatura, frantoi e cantine",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x_store",
+      "label": "Magazzini, granai e dispense",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_bread",
+      "label": "Pane, elemosine e distribuzioni",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "p_monastic",
+      "label": "Pasti monastici e clericali",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_pilgrim",
+      "label": "Rifornimenti per pellegrini e feste",
+      "layer": 4,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "t_camp",
+      "target": "r_grain",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "t_tiber",
+      "target": "r_wine",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "t_latium",
+      "target": "r_fish",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "t_camp",
+      "target": "r_livestock",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_grain",
+      "target": "a_estate",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_wine",
+      "target": "a_market",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_fish",
+      "target": "a_fishery",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "r_livestock",
+      "target": "a_pasture",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "a_estate",
+      "target": "x_mill",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "a_market",
+      "target": "x_press",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "a_fishery",
+      "target": "x_store",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "a_pasture",
+      "target": "x_mill",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "x_mill",
+      "target": "p_bread",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "x_press",
+      "target": "p_monastic",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "x_store",
+      "target": "p_pilgrim",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "r_livestock",
+      "target": "a_estate",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "a_pasture",
+      "target": "x_store",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "x_store",
+      "target": "p_pilgrim",
+      "status": "sintesi",
+      "label": ""
+    }
+  ]
+}

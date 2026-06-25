@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Baghdad",
+      "lat": 33.3152,
+      "lon": 44.3661,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "diy",
+      "label": "Diyala e campagne orientali",
+      "lat": 33.5,
+      "lon": 45.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "bab",
+      "label": "Babil e medio Eufrate",
+      "lat": 32.55,
+      "lon": 44.42,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "sam",
+      "label": "Samarra e medio Tigri",
+      "lat": 34.2,
+      "lon": 43.88,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "mos",
+      "label": "Mosul e Kurdistan",
+      "lat": 36.34,
+      "lon": 43.13,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "per",
+      "label": "Kermanshah e Persia occidentale",
+      "lat": 34.31,
+      "lon": 47.07,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "gul",
+      "label": "Bassora, Golfo e India",
+      "lat": 30.5,
+      "lon": 47.8,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "diy",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali e strade",
+      "food": "cereali, frutta e ortaggi"
+    },
+    {
+      "source": "bab",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Tigri, Eufrate e carovane",
+      "food": "grano, riso, datteri e bestiame"
+    },
+    {
+      "source": "sam",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione fluviale",
+      "food": "cereali, lana e prodotti pastorali"
+    },
+    {
+      "source": "mos",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane e Tigri",
+      "food": "lana, pellami, grano e manufatti"
+    },
+    {
+      "source": "per",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "via di Kermanshah",
+      "food": "tessili, frutta secca e pellegrini"
+    },
+    {
+      "source": "gul",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "piroscafi sul Tigri",
+      "food": "tè, zucchero, spezie e merci indiane"
+    }
+  ]
+}

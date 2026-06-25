@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Prime visite",
+    "Occupazioni stagionali",
+    "Gestione delle cucurbitacee",
+    "Mais nelle fasi tarde",
+    "Lunga interruzione"
+  ],
+  "items": [
+    {
+      "id": "camp",
+      "label": "Uso stagionale del riparo",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "hearth",
+      "label": "Focolari e aree di attività",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "plants",
+      "label": "Raccolta e gestione delle piante",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "squash",
+      "label": "Domesticazione progressiva della zucca",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "maize",
+      "label": "Presenza di mais nelle fasi più tarde",
+      "lane": "Produttive",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "storage",
+      "label": "Deposito temporaneo di semi e frutti",
+      "lane": "Conservazione",
+      "start": 2,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "gap",
+      "label": "Abbandono prolungato del riparo",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

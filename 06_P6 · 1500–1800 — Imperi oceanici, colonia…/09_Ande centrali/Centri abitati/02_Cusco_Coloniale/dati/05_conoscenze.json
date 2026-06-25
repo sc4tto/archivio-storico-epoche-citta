@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Cusco coloniale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Continuità inca-coloniale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Murature, strade e canali riutilizzati",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Sovrapposizione di edifici e significati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Rischio sismico",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Ricostruzione dopo il 1650",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Muratura, adobe e tetti lignei",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Produzione artistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Pittura cusqueña e retabli",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Argenteria, tessili e intaglio",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Reti andine",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Qhapaq Ñan e carovane",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Potosí, Titicaca e Yungas",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Società coloniale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Parrocchie indigene e confraternite",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Tributo, mita e gerarchie coloniali",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Kaifeng–Bianjing dei Song e dei Jin",
+    "site": "Kaifeng–Bianjing",
+    "modern_location": "Kaifeng, Henan, Cina",
+    "coordinates": {
+      "lat": 34.7971,
+      "lon": 114.3076
+    },
+    "scope": "Kaifeng fra 1000 e 1500: apogeo della capitale dei Song settentrionali, conquista Jin del 1127, funzione di capitale meridionale, assedio mongolo e successiva continuità amministrativa.",
+    "version": "1.0",
+    "warning": "Il modulo distingue la metropoli dei Song dalla città ridotta dopo il 1127. Le ricostruzioni moderne in stile Song non sono trattate come resti medievali."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "KF1",
+      "title": "Encyclopaedia Britannica — Kaifeng",
+      "use": "Capitale Song, sistema dei canali, commercio e trasformazioni dopo il 1127.",
+      "url": "https://www.britannica.com/place/Kaifeng"
+    },
+    {
+      "id": "KF2",
+      "title": "UNESCO — The Grand Canal",
+      "use": "Rete idraulica e logistica che collegava Kaifeng alle regioni produttrici.",
+      "url": "https://whc.unesco.org/en/list/1443/"
+    },
+    {
+      "id": "KF3",
+      "title": "The Metropolitan Museum of Art — The Song Dynasty",
+      "use": "Contesto politico, artistico e materiale della Cina Song.",
+      "url": "https://www.metmuseum.org/toah/hd/song/hd_song.htm"
+    },
+    {
+      "id": "KF4",
+      "title": "Asia for Educators — Song Dynasty",
+      "use": "Economia urbana, mercati, tecnologia e vita quotidiana dei Song.",
+      "url": "https://afe.easia.columbia.edu/songdynasty-module/index.html"
+    },
+    {
+      "id": "KF5",
+      "title": "Palace Museum — Along the River During Qingming Festival",
+      "use": "Rappresentazione della vita urbana e commerciale attribuita alla capitale Song.",
+      "url": "https://en.dpm.org.cn/collections/collections/2009-09-24/849.html"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Agra moghul",
+    "site": "Agra moghul",
+    "modern_location": "Agra, Uttar Pradesh, India",
+    "coordinates": {
+      "lat": 27.1767,
+      "lon": 78.0081
+    },
+    "scope": "Agra fra 1526 e 1800: capitale moghul, città del forte e dei giardini sullo Yamuna, centro di corte, artigianato, commercio e architettura funeraria.",
+    "version": "1.0",
+    "warning": "Il modulo distingue la fase capitale di Akbar, Jahangir e Shah Jahan dal ridimensionamento successivo allo spostamento della corte a Delhi. Le trasformazioni coloniali dell’Ottocento sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "AG1",
+      "title": "UNESCO — Agra Fort",
+      "use": "Forte, palazzi e ruolo della cittadella moghul.",
+      "url": "https://whc.unesco.org/en/list/251/"
+    },
+    {
+      "id": "AG2",
+      "title": "UNESCO — Taj Mahal",
+      "use": "Architettura funeraria, giardini e paesaggio dello Yamuna.",
+      "url": "https://whc.unesco.org/en/list/252/"
+    },
+    {
+      "id": "AG3",
+      "title": "Encyclopaedia Britannica — Agra",
+      "use": "Storia politica e sviluppo urbano della città.",
+      "url": "https://www.britannica.com/place/Agra"
+    },
+    {
+      "id": "AG4",
+      "title": "The Metropolitan Museum of Art — The Art of the Mughals",
+      "use": "Contesto artistico, materiali e cultura di corte.",
+      "url": "https://www.metmuseum.org/toah/hd/mugh/hd_mugh.htm"
+    },
+    {
+      "id": "AG5",
+      "title": "UNESCO — Agra Fort documents",
+      "use": "Documentazione patrimoniale e conservativa.",
+      "url": "https://whc.unesco.org/en/list/251/documents/"
+    }
+  ]
+}

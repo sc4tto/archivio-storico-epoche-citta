@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Calakmul — modulo multi-grafo",
+    "short_name": "Calakmul",
+    "site": "Antica città maya e foreste protette di Calakmul",
+    "modern_location": "Campeche, Messico",
+    "coordinates": {
+      "lat": 18.105,
+      "lon": -89.81
+    },
+    "scope": "Capitale maya immersa nelle basse terre della penisola dello Yucatán, con grandi complessi, stele, sacbé, serbatoi e un paesaggio di insediamenti connessi; nel P3 si sviluppano le sue fasi preclassiche e classiche iniziali.",
+    "version": "1.0-blocco_33_p3_mesoamerica_5_centri_v1",
+    "warning": "L’apogeo della dinastia Kaan e molte guerre con Tikal appartengono soprattutto al periodo successivo al 500 d.C. Il modulo evita di retrodatare automaticamente al P3 ogni monumento e titolo noto dalle iscrizioni tarde."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "CAL_UNESCO",
+      "title": "UNESCO — Ancient Maya City and Protected Tropical Forests of Calakmul",
+      "url": "https://whc.unesco.org/en/list/1061/",
+      "use": "città, paesaggio, acqua e reti"
+    },
+    {
+      "id": "CAL_INAH",
+      "title": "INAH — Zona arqueológica de Calakmul",
+      "url": "https://www.inah.gob.mx/zonas/61-zona-arqueologica-de-calakmul",
+      "use": "monumenti e tutela"
+    },
+    {
+      "id": "CAL_MARTIN",
+      "title": "Simon Martin — Ancient Maya Politics",
+      "url": "https://search.worldcat.org/search?q=Ancient+Maya+Politics+Simon+Martin",
+      "use": "dinastie, alleanze e conflitti"
+    }
+  ]
+}

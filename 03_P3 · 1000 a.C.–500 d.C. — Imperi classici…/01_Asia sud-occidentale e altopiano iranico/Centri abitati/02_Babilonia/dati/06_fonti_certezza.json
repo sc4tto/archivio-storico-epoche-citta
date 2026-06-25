@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Babilonia fu capitale dell’impero neo-babilonese fra 626 e 539 a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "BAB_UNESCO"
+  },
+  {
+    "claim": "Il sito conserva mura, porte, palazzi e templi",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "BAB_UNESCO"
+  },
+  {
+    "claim": "La città ebbe una rilevante tradizione matematica e astronomica",
+    "theme": "Conoscenze",
+    "status": "documentato",
+    "source": "BAB_CDLI"
+  },
+  {
+    "claim": "Le fasi achemenide ed ellenistica continuarono l’uso urbano",
+    "theme": "Continuità",
+    "status": "documentato",
+    "source": "BAB_UNESCO"
+  },
+  {
+    "claim": "Le ricostruzioni moderne coincidono sempre con le forme antiche",
+    "theme": "Conservazione",
+    "status": "non_documentato",
+    "source": "BAB_UNESCO"
+  },
+  {
+    "claim": "I Giardini Pensili sono stati identificati con certezza",
+    "theme": "Monumenti",
+    "status": "non_documentato",
+    "source": "Associazione letteraria discussa"
+  },
+  {
+    "claim": "La Torre di Babele corrisponde integralmente alla forma ricostruita di Etemenanki",
+    "theme": "Ricezione",
+    "status": "non_documentato",
+    "source": "Rapporto simbolico, non identità completa"
+  },
+  {
+    "claim": "L’intero sito è stato scavato",
+    "theme": "Metodo",
+    "status": "non_documentato",
+    "source": "Gran parte del sito resta non scavata"
+  }
+]

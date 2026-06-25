@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Prime comunità Nok",
+    "Villaggi agricoli",
+    "Sviluppo della terracotta",
+    "Espansione regionale",
+    "Transizione verso età del Ferro"
+  ],
+  "items": [
+    {
+      "id": "villages",
+      "label": "Villaggi agricoli",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "millet",
+      "label": "Coltivazione e consumo del miglio",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "grind",
+      "label": "Macinazione e cucina",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "pottery",
+      "label": "Ceramica decorata",
+      "lane": "Artigianato",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "terracotta",
+      "label": "Produzione di terracotte",
+      "lane": "Artigianato",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "ritual",
+      "label": "Depositi selettivi e frammentazione",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "iron",
+      "label": "Prime metallurgie del ferro",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

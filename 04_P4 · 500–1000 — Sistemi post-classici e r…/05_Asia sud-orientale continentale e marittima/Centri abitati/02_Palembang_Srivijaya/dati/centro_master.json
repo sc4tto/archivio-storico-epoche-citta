@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Palembang–Srivijaya",
+    "site": "Palembang e bacino inferiore del Musi",
+    "modern_location": "Sumatra Meridionale, Indonesia",
+    "coordinates": {
+      "lat": -2.99,
+      "lon": 104.76
+    },
+    "scope": "Centro fluviale e marittimo associato a Srivijaya fra VII e X secolo.",
+    "version": "1.0",
+    "warning": "La localizzazione del centro politico e la forma urbana di Srivijaya restano discusse; il modello distingue dati epigrafici, archeologia di Palembang e ricostruzioni comparative."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "P1",
+      "title": "Encyclopaedia Britannica — Srivijaya empire",
+      "use": "Origine a Palembang, commercio marittimo e buddhismo.",
+      "url": "https://www.britannica.com/place/Srivijaya-empire"
+    },
+    {
+      "id": "P2",
+      "title": "Kedukan Bukit inscription",
+      "use": "Testimonianza epigrafica del 683 collegata alla formazione di Srivijaya.",
+      "url": "https://en.wikipedia.org/wiki/Kedukan_Bukit_inscription"
+    },
+    {
+      "id": "P3",
+      "title": "Talang Tuo inscription",
+      "use": "Giardino Śrīksetra e ideologia regia nel 684.",
+      "url": "https://en.wikipedia.org/wiki/Talang_Tuo_inscription"
+    },
+    {
+      "id": "P4",
+      "title": "Pierre-Yves Manguin — studi su Srivijaya e Palembang",
+      "use": "Archeologia del basso Musi, insediamento fluviale e reti marittime.",
+      "url": "https://www.persee.fr/authority/239324"
+    },
+    {
+      "id": "P5",
+      "title": "A Record of the Buddhist Religion as Practised in India and the Malay Archipelago — Yijing",
+      "use": "Buddhismo, mobilità monastica e ruolo di Srivijaya.",
+      "url": "https://archive.org/details/recordofbuddhist00ichi"
+    }
+  ]
+}

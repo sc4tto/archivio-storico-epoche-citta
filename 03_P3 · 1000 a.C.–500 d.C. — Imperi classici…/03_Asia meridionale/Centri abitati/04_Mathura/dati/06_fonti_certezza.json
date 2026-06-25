@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Mathura fu un importante nodo urbano e commerciale sulla Yamuna",
+    "theme": "Reti",
+    "status": "documentato",
+    "source": "MAT_ALLCHIN"
+  },
+  {
+    "claim": "La produzione in arenaria rossa raggiunse grande importanza in età kushana",
+    "theme": "Arte",
+    "status": "documentato",
+    "source": "MAT_QUINT"
+  },
+  {
+    "claim": "Il distretto conserva iscrizioni e immagini buddhiste, jainiste e brahmaniche",
+    "theme": "Religioni",
+    "status": "documentato",
+    "source": "MAT_MUSEUM"
+  },
+  {
+    "claim": "Kankali Tila fu un importante complesso jainista",
+    "theme": "Religione",
+    "status": "documentato",
+    "source": "MAT_QUINT"
+  },
+  {
+    "claim": "Monete e iscrizioni attestano molte successioni politiche",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "MAT_QUINT"
+  },
+  {
+    "claim": "Tutte le sculture furono prodotte in una sola officina cittadina",
+    "theme": "Artigianato",
+    "status": "non_documentato",
+    "source": "Produzione regionale e officine plurime"
+  },
+  {
+    "claim": "Ogni immagine può essere attribuita a una comunità religiosa esclusiva",
+    "theme": "Interpretazione",
+    "status": "non_documentato",
+    "source": "Contesti e iconografie talvolta condivisi"
+  },
+  {
+    "claim": "La città ebbe confini invariabili per tutto il P3",
+    "theme": "Urbanistica",
+    "status": "non_documentato",
+    "source": "Espansioni e trasformazioni successive"
+  }
+]

@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Aksum",
+      "lat": 14.132,
+      "lon": 38.719,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "stelae",
+      "label": "Campo delle stele",
+      "lat": 14.132,
+      "lon": 38.72,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "adulis",
+      "label": "Adulis",
+      "lat": 15.27,
+      "lon": 39.66,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "yeha",
+      "label": "Yeha e altopiano settentrionale",
+      "lat": 14.29,
+      "lon": 39.02,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "nile",
+      "label": "Nilo e Sudan",
+      "lat": 16.0,
+      "lon": 34.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "arabia",
+      "label": "Arabia meridionale",
+      "lat": 15.0,
+      "lon": 44.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "stelae",
+      "target": "site",
+      "label": "memoria regale e lavoro monumentale",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "adulis",
+      "target": "site",
+      "label": "merci, moneta e traffici marittimi",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "yeha",
+      "target": "site",
+      "label": "tradizioni regionali e produzioni agricole",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "nile",
+      "target": "site",
+      "label": "avorio, animali e rotte africane",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "arabia",
+      "target": "site",
+      "label": "scritture, persone e commercio",
+      "status": "documentato",
+      "food": "parziale"
+    }
+  ]
+}

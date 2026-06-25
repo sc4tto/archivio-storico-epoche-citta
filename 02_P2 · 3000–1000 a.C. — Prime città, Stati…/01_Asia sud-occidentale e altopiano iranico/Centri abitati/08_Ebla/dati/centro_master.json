@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Ebla — modulo multi-grafo",
+    "short_name": "Ebla",
+    "site": "Ebla / Tell Mardikh",
+    "modern_location": "Governatorato di Idlib, Siria",
+    "coordinates": {
+      "lat": 35.798,
+      "lon": 36.798
+    },
+    "scope": "Capitale siriana del Bronzo antico e medio, con acropoli, palazzi, porte, santuari, fortificazioni e un grande archivio reale che documenta amministrazione, tessili, allevamento, diplomazia e commercio interregionale.",
+    "version": "1.0-blocco_14_p2_asia_so_completamento_5_centri_v1",
+    "warning": "Ebla ebbe più fasi urbane e distruzioni. L’archivio reale appartiene soprattutto alla seconda metà del III millennio a.C.; non ogni edificio o istituzione documentata nelle fasi successive era contemporanea."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "EBLA_SAPIENZA",
+      "title": "Sapienza Università di Roma — Ebla, sixty years later",
+      "url": "https://www.uniroma1.it/en/notizia/ebla-sixty-years-later-protection-and-recovery-archaeological-site",
+      "use": "storia della missione, archivi e recupero del sito"
+    },
+    {
+      "id": "EBLA_MISSION",
+      "title": "Sapienza — Missione archeologica italiana a Ebla",
+      "url": "https://www.antichita.uniroma1.it/",
+      "use": "ricerca, architettura e cronologia"
+    },
+    {
+      "id": "EBLA_ARET",
+      "title": "Archivi Reali di Ebla — Testi e studi",
+      "url": "https://www.harrassowitz-verlag.de/reihe_286.ahtml",
+      "use": "testi amministrativi, lessicali e diplomatici"
+    }
+  ]
+}

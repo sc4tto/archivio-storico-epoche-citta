@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Sechín Bajo",
+      "lat": -9.463,
+      "lon": -78.255,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "river",
+      "label": "Valle del Sechín",
+      "lat": -9.47,
+      "lon": -78.23,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "cerro",
+      "label": "Cerro Sechín",
+      "lat": -9.47,
+      "lon": -78.26,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "alto",
+      "label": "Sechín Alto",
+      "lat": -9.46,
+      "lon": -78.22,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "coast",
+      "label": "Costa di Casma",
+      "lat": -9.47,
+      "lon": -78.38,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "highlands",
+      "label": "Passi verso gli altopiani",
+      "lat": -9.2,
+      "lon": -77.7,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "river",
+      "target": "site",
+      "label": "acqua, campi e materiali",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "cerro",
+      "target": "site",
+      "label": "paesaggio cerimoniale successivo",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "alto",
+      "target": "site",
+      "label": "continuità e competizione regionale",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "coast",
+      "target": "site",
+      "label": "pesce, molluschi e sale",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "highlands",
+      "target": "site",
+      "label": "pietre e beni interregionali",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Grande Zimbabwe fiorì fra XI e XV secolo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "GZ1; GZ2"
+  },
+  {
+    "claim": "Le mura monumentali furono costruite in granito senza malta.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "GZ1; GZ2"
+  },
+  {
+    "claim": "Il sito era collegato al commercio dell’oro verso la costa.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "GZ1; GZ3"
+  },
+  {
+    "claim": "Bovini e agricoltura sostenevano l’economia locale.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "GZ2; GZ4"
+  },
+  {
+    "claim": "Il Grande Recinto e il complesso collinare organizzavano spazi di rango.",
+    "theme": "insediamento",
+    "status": "sintesi",
+    "source": "GZ1; GZ2"
+  },
+  {
+    "claim": "Perline e ceramiche testimoniano contatti a lunga distanza.",
+    "theme": "commercio",
+    "status": "documentato",
+    "source": "GZ3; GZ5"
+  },
+  {
+    "claim": "Le funzioni precise di alcuni recinti restano discusse.",
+    "theme": "metodo",
+    "status": "sintesi",
+    "source": "GZ1; GZ2"
+  },
+  {
+    "claim": "Le interpretazioni coloniali che negavano l’origine africana sono escluse.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "GZ1; GZ2"
+  }
+]

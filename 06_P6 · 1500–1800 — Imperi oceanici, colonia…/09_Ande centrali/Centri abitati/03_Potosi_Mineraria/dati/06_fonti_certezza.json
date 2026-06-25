@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Potosí si sviluppò dal 1545 attorno allo sfruttamento del Cerro Rico.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "PO1; PO2"
+  },
+  {
+    "claim": "La città divenne uno dei maggiori centri argentiferi del mondo moderno.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "PO1; PO2"
+  },
+  {
+    "claim": "Lagune, canali e ingenios costituivano un vasto sistema idraulico minerario.",
+    "theme": "tecniche",
+    "status": "documentato",
+    "source": "PO1"
+  },
+  {
+    "claim": "Il mercurio di Huancavelica fu essenziale per l’amalgamazione dell’argento.",
+    "theme": "tecniche",
+    "status": "documentato",
+    "source": "PO2; PO4"
+  },
+  {
+    "claim": "La mita impose lavoro obbligatorio a comunità indigene delle Ande.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "PO2; PO4"
+  },
+  {
+    "claim": "Carovane e strade collegavano Potosí a valli agricole, porti e mercati lontani.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "PO4; PO5"
+  },
+  {
+    "claim": "La Casa de Moneda trasformava l’argento in moneta imperiale.",
+    "theme": "istituzioni",
+    "status": "documentato",
+    "source": "PO1; PO3"
+  },
+  {
+    "claim": "L’attività mineraria successiva al 1800 è esclusa.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "PO2"
+  }
+]

@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Tokyo",
+      "lat": 35.6762,
+      "lon": 139.6503,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "kan",
+      "label": "Kantō agricolo",
+      "lat": 36.1,
+      "lon": 139.3,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "hok",
+      "label": "Hokkaidō",
+      "lat": 43.06,
+      "lon": 141.35,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "toh",
+      "label": "Tōhoku",
+      "lat": 38.27,
+      "lon": 140.87,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "bay",
+      "label": "Baia di Tokyo",
+      "lat": 35.55,
+      "lon": 139.85,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "air",
+      "label": "Haneda e Narita",
+      "lat": 35.7,
+      "lon": 140.2,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "glo",
+      "label": "Rotte transpacifiche",
+      "lat": 34.0,
+      "lon": 145.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "kan",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e autostrade",
+      "food": "ortaggi, riso, latte e pendolari"
+    },
+    {
+      "source": "hok",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "traghetti, ferrovia e cargo aereo",
+      "food": "latticini, carne, patate e pesce"
+    },
+    {
+      "source": "toh",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Shinkansen e camion",
+      "food": "riso, frutta, pesce e lavoratori"
+    },
+    {
+      "source": "bay",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porti, aste e catena del freddo",
+      "food": "pesce, alghe, container e carburanti"
+    },
+    {
+      "source": "air",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cargo aereo",
+      "food": "frutta fresca, alimenti premium e passeggeri"
+    },
+    {
+      "source": "glo",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "container e voli",
+      "food": "ingredienti, merci, capitale e conoscenze"
+    }
+  ]
+}

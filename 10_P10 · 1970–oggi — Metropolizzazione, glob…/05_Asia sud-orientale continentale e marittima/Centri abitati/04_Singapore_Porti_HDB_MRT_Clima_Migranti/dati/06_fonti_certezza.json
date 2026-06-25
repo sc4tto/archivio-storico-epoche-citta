@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "HDB documenta una continuità di oltre sei decenni nell’edilizia pubblica e nella formazione delle new towns.",
+    "theme": "alloggi",
+    "status": "documentato",
+    "source": "SI1"
+  },
+  {
+    "claim": "LTA descrive una rete MRT superiore a 200 km e oltre 600 km di percorsi ciclabili e park connector.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "SI2"
+  },
+  {
+    "claim": "Il Land Transport Master Plan 2040 definisce obiettivi futuri di città dei 45 minuti e quartieri dei 20 minuti.",
+    "theme": "pianificazione",
+    "status": "documentato",
+    "source": "SI3"
+  },
+  {
+    "claim": "ILO analizza il contributo dei lavoratori migranti e gli atteggiamenti pubblici nei loro confronti.",
+    "theme": "lavoro",
+    "status": "documentato",
+    "source": "SI4"
+  },
+  {
+    "claim": "Gli obiettivi 2040 e le espansioni dei primi anni Trenta non sono considerati già completati.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "SI3"
+  },
+  {
+    "claim": "Singapore, porto globale, HDB, MRT, clima e lavoro migrante è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "I reinsediamenti obbligatori della fase di urban renewal, la regolazione autoritaria dello spazio pubblico, la dipendenza dai lavoratori migranti e le disuguaglianze tra cittadini e non cittadini sono esplicitati come rapporti coercitivi e diseguali e non neutralizzati nel racconto della modernizzazione.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Fra il 1940 e il 1970 la capitale concentrò industria, occupazione e migrazione, ampliando la propria area metropolitana.",
+    "theme": "urbanizzazione",
+    "status": "documentato",
+    "source": "MX1; MX2"
+  },
+  {
+    "claim": "Le grandi opere della reggenza Uruchurtu combinarono modernizzazione infrastrutturale e forte controllo politico dello spazio urbano.",
+    "theme": "governo urbano",
+    "status": "documentato",
+    "source": "MX1"
+  },
+  {
+    "claim": "Il Metro iniziò il servizio il 4 settembre 1969 con il tratto Zaragoza–Chapultepec.",
+    "theme": "trasporti",
+    "status": "documentato",
+    "source": "MX3"
+  },
+  {
+    "claim": "Il movimento studentesco del 1968 fu sottoposto a occupazioni militari, detenzioni e violenza di Stato culminata a Tlatelolco.",
+    "theme": "repressione",
+    "status": "documentato",
+    "source": "MX4"
+  },
+  {
+    "claim": "Edilizia pubblica e grandi complessi non eliminarono il deficit abitativo né l’espansione popolare periferica.",
+    "theme": "abitazione",
+    "status": "sintesi",
+    "source": "MX1; MX2"
+  },
+  {
+    "claim": "Città del Messico, industrializzazione e metropoli autoritaria è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "La repressione del 1968, le detenzioni, gli sgomberi, le demolizioni e le disuguaglianze territoriali sono descritti come esercizio autoritario del potere e non come semplici effetti della modernizzazione; studenti, abitanti e migranti sono rappresentati come soggetti storici.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

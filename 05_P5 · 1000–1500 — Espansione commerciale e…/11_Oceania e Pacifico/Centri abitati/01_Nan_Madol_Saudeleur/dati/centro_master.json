@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Nan Madol saudeleur",
+    "site": "Nan Madol",
+    "modern_location": "Temwen, Pohnpei, Stati Federati di Micronesia",
+    "coordinates": {
+      "lat": 6.8444,
+      "lon": 158.3347
+    },
+    "scope": "Nan Madol fra 1100 e 1500, con particolare attenzione alla costruzione degli isolotti artificiali, alla concentrazione cerimoniale saudeleur e ai rapporti con l’interno di Pohnpei.",
+    "version": "1.0",
+    "warning": "Le cronologie dei singoli isolotti e le ricostruzioni del potere saudeleur non sono uniformi. Il modulo distingue dati archeologici, tradizioni orali e sintesi interpretative."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "NM1",
+      "title": "UNESCO — Nan Madol: Ceremonial Centre of Eastern Micronesia",
+      "use": "Cronologia 1200–1500, oltre cento isolotti, architettura in basalto e corallo e funzioni cerimoniali.",
+      "url": "https://whc.unesco.org/en/list/1503/"
+    },
+    {
+      "id": "NM2",
+      "title": "Encyclopaedia Britannica — Nan Madol",
+      "use": "Sintesi storica, Saudeleur e caratteristiche del sito.",
+      "url": "https://www.britannica.com/place/Nan-Madol"
+    },
+    {
+      "id": "NM3",
+      "title": "Federated States of Micronesia Historic Preservation",
+      "use": "Quadro di tutela e tradizioni di Pohnpei.",
+      "url": "https://hpo.gov.fm/"
+    },
+    {
+      "id": "NM4",
+      "title": "William S. Ayres — Nan Madol Archaeology",
+      "use": "Archeologia degli isolotti, cronologia e organizzazione del lavoro.",
+      "url": "https://scholarspace.manoa.hawaii.edu/"
+    },
+    {
+      "id": "NM5",
+      "title": "UNESCO Nomination Dossier — Nan Madol",
+      "use": "Tecniche costruttive, paesaggio e integrità del complesso.",
+      "url": "https://whc.unesco.org/en/list/1503/documents/"
+    }
+  ]
+}

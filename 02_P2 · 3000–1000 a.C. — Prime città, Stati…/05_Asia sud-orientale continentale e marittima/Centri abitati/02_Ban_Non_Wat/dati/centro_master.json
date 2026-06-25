@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Ban Non Wat — modulo multi-grafo",
+    "short_name": "Ban Non Wat",
+    "site": "Villaggio e cimitero di Ban Non Wat",
+    "modern_location": "Provincia di Nakhon Ratchasima, Thailandia",
+    "coordinates": {
+      "lat": 15.174,
+      "lon": 102.307
+    },
+    "scope": "Sequenza neolitica e dell’età del Bronzo presso il bacino del Mun, con abitazioni, riso, animali domestici, ceramica, bronzi e centinaia di sepolture organizzate in fasi.",
+    "version": "1.0-blocco_18_p2_asia_sud_orientale_5_centri_v1",
+    "warning": "Le cronologie bayesiane e l’inizio preciso dell’età del Bronzo sono discussi. Il modulo usa una cronologia prudente e distingue i livelli neolitici da quelli bronzei."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "BNW_CAJ",
+      "title": "Higham — The Bronze Age of Southeast Asia: New Insight on Social Change from Ban Non Wat",
+      "url": "https://doi.org/10.1017/S0959774311000348",
+      "use": "bronzo, società e sepolture"
+    },
+    {
+      "id": "BNW_ANTIQUITY",
+      "title": "Higham e Higham — A New Chronological Framework for Prehistoric Southeast Asia",
+      "url": "https://doi.org/10.1017/S0003598X00094836",
+      "use": "cronologia bayesiana"
+    },
+    {
+      "id": "BNW_FAD",
+      "title": "Thai Fine Arts Department — The Excavation of Ban Non Wat",
+      "url": "https://www.finearts.go.th/",
+      "use": "rapporti di scavo e sequenza del sito"
+    }
+  ]
+}

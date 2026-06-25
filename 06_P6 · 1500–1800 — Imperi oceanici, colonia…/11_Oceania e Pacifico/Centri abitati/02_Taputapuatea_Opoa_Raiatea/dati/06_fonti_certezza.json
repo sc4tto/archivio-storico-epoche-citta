@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Taputapuātea fu un centro politico, cerimoniale, funerario e religioso.",
+    "theme": "culto",
+    "status": "documentato",
+    "source": "TA1"
+  },
+  {
+    "claim": "Il complesso comprende marae con funzioni differenti fra valle, laguna e oceano.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "TA1; TA2"
+  },
+  {
+    "claim": "I marae monumentali furono costruiti e utilizzati soprattutto fra XIV e XVIII secolo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "TA1"
+  },
+  {
+    "claim": "Il sito coordinò un’alleanza che collegava ampie regioni della Polinesia.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "TA1; TA5"
+  },
+  {
+    "claim": "La navigazione e le canoe d’altura erano essenziali per mantenere la rete.",
+    "theme": "tecniche",
+    "status": "documentato",
+    "source": "TA1; TA5"
+  },
+  {
+    "claim": "Agricoltori vivevano nelle valli mentre capi, sacerdoti e guerrieri occupavano aree prossime al mare.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "TA1"
+  },
+  {
+    "claim": "I contatti europei di fine Settecento introdussero nuovi rischi e rapporti di potere.",
+    "theme": "contatti",
+    "status": "documentato",
+    "source": "TA3; TA4"
+  },
+  {
+    "claim": "Missionizzazione e dominio coloniale ottocenteschi sono esclusi.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "TA1; TA3"
+  }
+]

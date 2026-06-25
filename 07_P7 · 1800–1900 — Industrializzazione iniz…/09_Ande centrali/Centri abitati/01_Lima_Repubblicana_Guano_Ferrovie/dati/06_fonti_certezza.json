@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Lima rimase capitale politica del Perù dopo l’indipendenza.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "LI1; LI2"
+  },
+  {
+    "claim": "La ferrovia Lima–Callao fu una delle prime linee ferroviarie dell’America meridionale.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "LI2; LI4"
+  },
+  {
+    "claim": "La ricchezza del guano finanziò opere pubbliche ma aumentò la dipendenza finanziaria.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "LI2; LI4"
+  },
+  {
+    "claim": "Adobe e quincha continuarono a essere impiegati per adattarsi al rischio sismico.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "LI1; LI5"
+  },
+  {
+    "claim": "La demolizione delle mura favorì l’espansione urbana nella seconda metà del secolo.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "LI2; LI4"
+  },
+  {
+    "claim": "Epidemie e sovraffollamento alimentarono riforme sanitarie.",
+    "theme": "sanità",
+    "status": "documentato",
+    "source": "LI2; LI3"
+  },
+  {
+    "claim": "L’occupazione cilena del 1881–1883 causò requisizioni e danni al patrimonio.",
+    "theme": "conflitto",
+    "status": "documentato",
+    "source": "LI2; LI3"
+  },
+  {
+    "claim": "Le trasformazioni successive al 1900 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "LI2"
+  }
+]

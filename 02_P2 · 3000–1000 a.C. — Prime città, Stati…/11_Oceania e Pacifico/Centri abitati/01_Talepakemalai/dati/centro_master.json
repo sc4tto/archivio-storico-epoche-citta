@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Talepakemalai — modulo multi-grafo",
+    "short_name": "Talepakemalai",
+    "site": "Sito Lapita di Talepakemalai",
+    "modern_location": "Isola di Eloaua, arcipelago delle Mussau, Papua Nuova Guinea",
+    "coordinates": {
+      "lat": -1.93,
+      "lon": 147.1
+    },
+    "scope": "Grande insediamento Lapita antico su margine lagunare, con ceramica dentellata, pali di abitazioni, pesca, orticoltura, animali introdotti, conchiglia lavorata e ossidiana trasportata attraverso il Mare di Bismarck.",
+    "version": "1.0-blocco_24_p2_oceania_pacifico_5_centri_v1",
+    "warning": "Le prime date e la durata delle singole aree del sito sono state più volte ricalibrate. La ricostruzione di case su palafitte e di un villaggio unitario deriva dall’integrazione di pali, distribuzioni di reperti e paleoambiente."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "TALE_KIRCH",
+      "title": "Kirch — The Lapita Peoples: Ancestors of the Oceanic World",
+      "url": "https://search.worldcat.org/search?q=The+Lapita+Peoples+Kirch",
+      "use": "quadro dello scavo, villaggio e cultura materiale"
+    },
+    {
+      "id": "TALE_EXCHANGE",
+      "title": "Kirch — Lapita exchange systems and their Polynesian transformations",
+      "url": "https://www.jstor.org/action/doBasicSearch?Query=Kirch+Lapita+exchange+systems",
+      "use": "ossidiana, conchiglia e reti interinsulari"
+    },
+    {
+      "id": "TALE_SYNTH",
+      "title": "Green e Kirch — Lapita settlement in the Mussau Islands",
+      "url": "https://search.worldcat.org/search?q=Lapita+Mussau+Talepakemalai",
+      "use": "cronologia e organizzazione dell’insediamento"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Yokohama, porto aperto Meiji",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Porto dei trattati",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Dogane, pilotaggio e quarantena",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Extraterritorialità e consolati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Seta e tè",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Classificazione, imballaggio e aste",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Reti rurali e case commerciali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Trasporti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Piroscafi e cantieri",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Prima ferrovia verso Tokyo",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Mediazione culturale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Interpreti, stampa e fotografia",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Scuole, ospedali e tecniche straniere",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Ricostruzione urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Incendi, strade e materiali",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Gas, acqua e drenaggi",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

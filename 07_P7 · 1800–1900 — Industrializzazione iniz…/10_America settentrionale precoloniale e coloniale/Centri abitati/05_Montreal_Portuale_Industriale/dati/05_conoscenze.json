@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Montréal portuale e industriale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Porto e canale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Navigazione sul San Lorenzo",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Chiuse, banchine e magazzini",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Industria",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Mulini, tessili e alimentari",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Ferrovie, macchinari e cantieri",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Società",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Francofoni, anglofoni e immigrati",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Quartieri operai e divisioni di classe",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Salute",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Tifo, colera e sovraffollamento",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Acqua, fognature e ospedali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Territorio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Terre Kanien’kehá:ka e colonialismo",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Espansione urbana e annessioni",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

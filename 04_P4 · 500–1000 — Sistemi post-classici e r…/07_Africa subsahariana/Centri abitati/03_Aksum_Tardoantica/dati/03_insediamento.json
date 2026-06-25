@@ -1,0 +1,74 @@
+{
+  "phases": [
+    "500–570",
+    "570–650",
+    "650–800",
+    "800–1000"
+  ],
+  "items": [
+    {
+      "id": "ak1",
+      "label": "Ultima fase di forte proiezione regale e marittima",
+      "lane": "Politica",
+      "start": 0,
+      "end": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "ak2",
+      "label": "Palazzi, tombe e chiese nel paesaggio monumentale",
+      "lane": "Monumenti",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ak3",
+      "label": "Cristianesimo e scrittura ge’ez come istituzioni durevoli",
+      "lane": "Culto e testi",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ak4",
+      "label": "Agricoltura e allevamento degli altopiani",
+      "lane": "Sussistenza",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ak5",
+      "label": "Riduzione della monetazione e dei traffici del Mar Rosso",
+      "lane": "Economia",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ak6",
+      "label": "Riorientamento verso reti interne etiopiche",
+      "lane": "Territorio",
+      "start": 2,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "ak7",
+      "label": "Declino del ruolo politico centrale entro il X secolo",
+      "lane": "Politica",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ak8",
+      "label": "Persistenza di Aksum come luogo sacro e dinastico",
+      "lane": "Culto e memoria",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    }
+  ]
+}

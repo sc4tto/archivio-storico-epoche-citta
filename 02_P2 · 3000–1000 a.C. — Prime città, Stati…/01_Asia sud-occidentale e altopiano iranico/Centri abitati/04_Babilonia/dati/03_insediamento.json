@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Origini del III millennio",
+    "Ascesa amorrea",
+    "Regno di Hammurabi",
+    "Crisi post-Hammurabi",
+    "Fase cassita e tardo II millennio"
+  ],
+  "items": [
+    {
+      "id": "temples",
+      "label": "Templi urbani e culto di Marduk",
+      "lane": "Monumentali",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "palace",
+      "label": "Palazzo e amministrazione reale",
+      "lane": "Amministrative",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Quartieri di case a corte",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "walls",
+      "label": "Mura e porte",
+      "lane": "Difensive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "canals",
+      "label": "Canali e approdi",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "schools",
+      "label": "Scuole scribali e archivi",
+      "lane": "Amministrative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "markets",
+      "label": "Laboratori, mercati e magazzini",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

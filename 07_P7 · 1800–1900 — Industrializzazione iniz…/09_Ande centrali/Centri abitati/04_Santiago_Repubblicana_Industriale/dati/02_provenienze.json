@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Santiago",
+      "lat": -33.4489,
+      "lon": -70.6693,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "mai",
+      "label": "Valle del Maipo",
+      "lat": -33.73,
+      "lon": -70.8,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "aco",
+      "label": "Aconcagua e Quillota",
+      "lat": -32.9,
+      "lon": -71.25,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "ran",
+      "label": "Rancagua e valle centrale",
+      "lat": -34.17,
+      "lon": -70.74,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "val",
+      "label": "Valparaíso",
+      "lat": -33.05,
+      "lon": -71.62,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "sur",
+      "label": "Concepción e regioni meridionali",
+      "lat": -36.82,
+      "lon": -73.05,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "nor",
+      "label": "Norte Chico e regioni minerarie",
+      "lat": -29.9,
+      "lon": -71.25,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "mai",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e ferrovia",
+      "food": "vino, frutta, cereali e bestiame"
+    },
+    {
+      "source": "aco",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e strade vallive",
+      "food": "frutta, vino, legumi e prodotti irrigui"
+    },
+    {
+      "source": "ran",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia meridionale",
+      "food": "grano, carne, carbone e prodotti agricoli"
+    },
+    {
+      "source": "val",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia Santiago–Valparaíso",
+      "food": "importazioni, macchinari e servizi portuali"
+    },
+    {
+      "source": "sur",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e cabotaggio",
+      "food": "cereali, legname, carbone e bestiame"
+    },
+    {
+      "source": "nor",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e reti commerciali",
+      "food": "rame, argento, nitrati e capitali"
+    }
+  ]
+}

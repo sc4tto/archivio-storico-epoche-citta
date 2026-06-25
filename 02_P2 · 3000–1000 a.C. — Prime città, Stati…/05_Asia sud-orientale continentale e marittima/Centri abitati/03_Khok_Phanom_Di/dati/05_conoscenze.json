@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Khok Phanom Di",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Agricoltura e ambiente",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Riso e colture stagionali",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Lettura dei cicli monsonici",
+          "status": "sintesi"
+        },
+        {
+          "id": "k1_3",
+          "label": "Gestione di suoli e acque",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Ceramica e artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Formatura e cottura",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Decorazione e lucidatura",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Scambio di forme e tecniche",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Metalli e pietra",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Bronzo e rame",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_2",
+          "label": "Asce levigate",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Materie prime esotiche",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Navigazione e mobilità",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Fiumi e coste",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Canoe e trasporto",
+          "status": "inferito"
+        },
+        {
+          "id": "k4_3",
+          "label": "Rotte interinsulari",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Rituali e morti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Sepolture",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Corredi e offerte",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Antenati",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Mobilità, genere e status",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Cooperazione di villaggio",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_2",
+          "label": "Differenze sociali",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_3",
+          "label": "Chiefdom centralizzato",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "nodes": [
+    {
+      "id": "m1",
+      "label": "Mattoni crudi e cotti",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m2",
+      "label": "Bitume, canne e legname",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m3",
+      "label": "Mattoni invetriati e pigmenti",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m4",
+      "label": "Argilla, metallo e pietra importata",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "o1",
+      "label": "Formatura e cottura dei mattoni",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o2",
+      "label": "Impermeabilizzazione e carpenteria",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o3",
+      "label": "Invetriazione e posa decorativa",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o4",
+      "label": "Scrittura, fusione e intaglio",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "c1",
+      "label": "Muri, volte e pavimenti",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c2",
+      "label": "Canali, tetti e drenaggi",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c3",
+      "label": "Porte e facciate decorate",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c4",
+      "label": "Tavolette, statue e arredi",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "s1",
+      "label": "Mura e porte",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s2",
+      "label": "Palazzi e templi",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s3",
+      "label": "Ziggurat e via processionale",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s4",
+      "label": "Case, archivi e magazzini",
+      "layer": 3,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m1",
+      "target": "o1",
+      "label": "materia prima",
+      "status": "documentato"
+    },
+    {
+      "source": "o1",
+      "target": "c1",
+      "label": "produce o prepara",
+      "status": "documentato"
+    },
+    {
+      "source": "c1",
+      "target": "s1",
+      "label": "costituisce o serve",
+      "status": "documentato"
+    },
+    {
+      "source": "m2",
+      "target": "o2",
+      "label": "materia prima",
+      "status": "documentato"
+    },
+    {
+      "source": "o2",
+      "target": "c2",
+      "label": "produce o prepara",
+      "status": "documentato"
+    },
+    {
+      "source": "c2",
+      "target": "s2",
+      "label": "costituisce o serve",
+      "status": "documentato"
+    },
+    {
+      "source": "m3",
+      "target": "o3",
+      "label": "materia prima",
+      "status": "documentato"
+    },
+    {
+      "source": "o3",
+      "target": "c3",
+      "label": "produce o prepara",
+      "status": "documentato"
+    },
+    {
+      "source": "c3",
+      "target": "s3",
+      "label": "costituisce o serve",
+      "status": "documentato"
+    },
+    {
+      "source": "m4",
+      "target": "o4",
+      "label": "materia prima",
+      "status": "documentato"
+    },
+    {
+      "source": "o4",
+      "target": "c4",
+      "label": "produce o prepara",
+      "status": "documentato"
+    },
+    {
+      "source": "c4",
+      "target": "s4",
+      "label": "costituisce o serve",
+      "status": "documentato"
+    },
+    {
+      "source": "m1",
+      "target": "o3",
+      "label": "materiale complementare",
+      "status": "sintesi"
+    },
+    {
+      "source": "m2",
+      "target": "o1",
+      "label": "rinforzo o rivestimento",
+      "status": "inferito"
+    },
+    {
+      "source": "c2",
+      "target": "s1",
+      "label": "integrazione strutturale",
+      "status": "sintesi"
+    },
+    {
+      "source": "c3",
+      "target": "s4",
+      "label": "manutenzione e rinnovo",
+      "status": "inferito"
+    }
+  ]
+}

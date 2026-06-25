@@ -1,0 +1,174 @@
+{
+  "nodes": [
+    {
+      "id": "pm_legno",
+      "label": "Legno",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "pm_bambu",
+      "label": "Bambù e fibre",
+      "layer": 0,
+      "status": "inferito"
+    },
+    {
+      "id": "pm_argilla",
+      "label": "Argilla e laterizio",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "pm_terra",
+      "label": "Terra alluvionale",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "po_carp",
+      "label": "Carpenteria e palafitte",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "po_intreccio",
+      "label": "Intreccio e copertura",
+      "layer": 1,
+      "status": "inferito"
+    },
+    {
+      "id": "po_cottura",
+      "label": "Cottura dei mattoni",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "po_scavo",
+      "label": "Scavo di canali e fossati",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "pc_case",
+      "label": "Case su pali e piattaforme",
+      "layer": 2,
+      "status": "inferito"
+    },
+    {
+      "id": "pc_jetty",
+      "label": "Pontili e approdi",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "pc_sacro",
+      "label": "Basamenti e strutture sacre",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "pc_canali",
+      "label": "Canali, stagni e argini",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "ps_abitato",
+      "label": "Insediamento fluviale disperso",
+      "layer": 3,
+      "status": "inferito"
+    },
+    {
+      "id": "ps_porto",
+      "label": "Sistema portuale del Musi",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "ps_culto",
+      "label": "Aree buddhiste e regie",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ps_paesaggio",
+      "label": "Paesaggio idraulico di Karanganyar",
+      "layer": 3,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "pm_legno",
+      "target": "po_carp",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "pm_bambu",
+      "target": "po_intreccio",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "pm_argilla",
+      "target": "po_cottura",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "pm_terra",
+      "target": "po_scavo",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "po_carp",
+      "target": "pc_case",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "po_carp",
+      "target": "pc_jetty",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "po_cottura",
+      "target": "pc_sacro",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "po_scavo",
+      "target": "pc_canali",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "pc_case",
+      "target": "ps_abitato",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "pc_jetty",
+      "target": "ps_porto",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "pc_sacro",
+      "target": "ps_culto",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "pc_canali",
+      "target": "ps_paesaggio",
+      "status": "sintesi",
+      "label": ""
+    }
+  ]
+}

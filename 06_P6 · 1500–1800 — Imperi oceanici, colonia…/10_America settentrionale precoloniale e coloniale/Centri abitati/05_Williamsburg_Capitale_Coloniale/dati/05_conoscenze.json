@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Williamsburg, capitale coloniale della Virginia",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Capitale coloniale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Assemblea, tribunali e governatore",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Cerimoniale, tasse e amministrazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Fabbri, falegnami e stampatori",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Taverne, botteghe e mercati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Piantagione e schiavitù",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Tabacco e Tidewater",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Lavoro schiavizzato domestico e rurale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Mattoni, legno e camini",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Edifici pubblici e giardini",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Relazioni Powhatan",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Diplomazia e conflitti",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Espropriazione territoriale e sopravvivenza indigena",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

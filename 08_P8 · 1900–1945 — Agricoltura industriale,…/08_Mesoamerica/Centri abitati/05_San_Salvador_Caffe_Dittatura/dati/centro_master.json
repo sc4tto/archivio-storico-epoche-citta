@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "San Salvador fra caffè, terremoti e dittatura",
+    "site": "San Salvador fra caffè, terremoti e dittatura",
+    "modern_location": "San Salvador, El Salvador",
+    "coordinates": {
+      "lat": 13.6929,
+      "lon": -89.2182
+    },
+    "scope": "San Salvador fra 1900 e 1945: economia del caffè, ferrovie, terremoto ed eruzione del 1917, urbanizzazione, crisi del 1929, dittatura militare, La Matanza del 1932 e sciopero del 1944.",
+    "version": "1.0",
+    "warning": "Sono escluse la guerra civile del 1980–1992, il terremoto del 1986 e l’espansione metropolitana postbellica."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SS1",
+      "title": "Encyclopaedia Britannica — San Salvador",
+      "use": "Storia della capitale e rischio sismico.",
+      "url": "https://www.britannica.com/place/San-Salvador-El-Salvador"
+    },
+    {
+      "id": "SS2",
+      "title": "Ministerio de Cultura de El Salvador",
+      "use": "Patrimonio, musei e storia nazionale.",
+      "url": "https://www.cultura.gob.sv/"
+    },
+    {
+      "id": "SS3",
+      "title": "Archivo General de la Nación de El Salvador",
+      "use": "Fonti politiche, sociali e urbane.",
+      "url": "https://www.cultura.gob.sv/archivo-general-de-la-nacion/"
+    },
+    {
+      "id": "SS4",
+      "title": "Universidad de El Salvador — Sistema Bibliotecario",
+      "use": "Studi su città, caffè e conflitti sociali.",
+      "url": "https://biblioteca.ues.edu.sv/"
+    },
+    {
+      "id": "SS5",
+      "title": "Ministerio de Medio Ambiente — Observatorio de Amenazas",
+      "use": "Terremoti, vulcani e rischio territoriale.",
+      "url": "https://www.snet.gob.sv/"
+    }
+  ]
+}

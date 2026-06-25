@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Taputapuātea–ʻŌpoʻa, centro māʻohi",
+    "site": "Taputapuātea–ʻŌpoʻa, centro māʻohi",
+    "modern_location": "Raiatea, Polinesia Francese",
+    "coordinates": {
+      "lat": -16.8369,
+      "lon": -151.3596
+    },
+    "scope": "Taputapuātea–ʻŌpoʻa fra 1500 e 1800: complesso di marae, potere degli ariʻi, culto di ʻOro, agricoltura valliva, navigazione e incontri fra capi, sacerdoti e guerrieri della Polinesia.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1800. Missionizzazione cristiana, regno Pomare ottocentesco, protettorato francese e restauri contemporanei sono esclusi o segnalati come successivi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "TA1",
+      "title": "UNESCO — Taputapuātea",
+      "use": "Marae, paesaggio culturale, alleanze e navigazione.",
+      "url": "https://whc.unesco.org/en/list/1529/"
+    },
+    {
+      "id": "TA2",
+      "title": "Direction de la Culture et du Patrimoine de Polynésie française",
+      "use": "Patrimonio māʻohi e gestione del sito.",
+      "url": "https://www.patrimoine.pf/"
+    },
+    {
+      "id": "TA3",
+      "title": "Encyclopaedia Britannica — Society Islands",
+      "use": "Contesto geografico e storico dell’arcipelago.",
+      "url": "https://www.britannica.com/place/Society-Islands"
+    },
+    {
+      "id": "TA4",
+      "title": "Musée de Tahiti et des Îles — Te Fare Iamanaha",
+      "use": "Cultura materiale e storia māʻohi.",
+      "url": "https://www.museetahiti.pf/"
+    },
+    {
+      "id": "TA5",
+      "title": "Journal of the Polynesian Society — Raiatea and marae",
+      "use": "Tradizioni, genealogie e studi regionali.",
+      "url": "https://www.jps.auckland.ac.nz/"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Insediamento nabateo iniziale",
+    "Capitale nabatea",
+    "Monumentalizzazione",
+    "Provincia romana",
+    "Tarda antichità"
+  ],
+  "items": [
+    {
+      "id": "water",
+      "label": "Canali, cisterne e dighe",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "tombs",
+      "label": "Tombe e facciate rupestri",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "temples",
+      "label": "Templi e santuari",
+      "lane": "Religiose",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "street",
+      "label": "Strada colonnata e mercati",
+      "lane": "Urbanistiche",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Case e quartieri",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "terraces",
+      "label": "Terrazze agricole",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "churches",
+      "label": "Chiese e riusi tardoantichi",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

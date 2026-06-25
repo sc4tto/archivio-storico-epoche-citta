@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Badariano iniziale",
+    "Badariano sviluppato",
+    "Badariano tardo",
+    "Transizione Naqada I",
+    "Riuso successivo"
+  ],
+  "items": [
+    {
+      "id": "settlements",
+      "label": "Piccoli insediamenti lungo il margine alluvionale",
+      "lane": "Impianto",
+      "start": 0,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "huts",
+      "label": "Capanne e strutture leggere",
+      "lane": "Abitazioni",
+      "start": 0,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "pits",
+      "label": "Fosse e aree di deposito",
+      "lane": "Conservazione",
+      "start": 0,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "craft",
+      "label": "Produzione di ceramica fine e strumenti",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "cemeteries",
+      "label": "Necropoli con tombe a fossa",
+      "lane": "Funerarie",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "gravegoods",
+      "label": "Corredi differenziati",
+      "lane": "Sociali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "transition",
+      "label": "Continuità e trasformazione verso Naqada I",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

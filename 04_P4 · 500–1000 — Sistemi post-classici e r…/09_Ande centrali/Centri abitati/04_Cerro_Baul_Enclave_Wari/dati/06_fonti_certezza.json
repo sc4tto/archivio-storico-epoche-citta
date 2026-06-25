@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Cerro Baúl fu un importante centro Wari nella valle di Moquegua.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "B2; B3; B4"
+  },
+  {
+    "claim": "Il sito occupava una posizione elevata e difendibile su una mesa.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "B2; B4"
+  },
+  {
+    "claim": "La brewery produsse chicha su scala specializzata.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "B1; B5"
+  },
+  {
+    "claim": "La produzione di chicha era legata a banchetti e relazioni politiche.",
+    "theme": "rituale",
+    "status": "documentato",
+    "source": "B1; B5"
+  },
+  {
+    "claim": "Wari e Tiwanaku interagirono nella stessa regione senza una guerra permanente dimostrabile.",
+    "theme": "politica",
+    "status": "sintesi",
+    "source": "B2; B4"
+  },
+  {
+    "claim": "Il complesso fu chiuso attraverso incendio e rottura rituale di recipienti.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "B1"
+  },
+  {
+    "claim": "Pietra, terra, legno e intonaco convergevano nelle stesse strutture.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "B2; B3"
+  },
+  {
+    "claim": "La data precisa dell’abbandono varia secondo campioni e interpretazioni.",
+    "theme": "certezza",
+    "status": "sintesi",
+    "source": "B1; B4"
+  }
+]

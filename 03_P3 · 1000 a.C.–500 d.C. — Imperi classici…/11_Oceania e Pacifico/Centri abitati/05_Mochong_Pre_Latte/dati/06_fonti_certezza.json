@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Mochong conserva una lunga sequenza di occupazione",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "MOC_NPS"
+  },
+  {
+    "claim": "Le fasi antiche comprendono ceramiche rosse e comuni",
+    "theme": "Ceramica",
+    "status": "documentato",
+    "source": "MOC_MICRO"
+  },
+  {
+    "claim": "Le Marianne furono colonizzate tramite una rotta distinta dalla dispersione Lapita",
+    "theme": "Origini",
+    "status": "documentato",
+    "source": "MOC_ANTIQUITY"
+  },
+  {
+    "claim": "Pesca e raccolta costiera furono componenti essenziali dell’economia",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "MOC_MICRO"
+  },
+  {
+    "claim": "Le pietre latte visibili appartengono soprattutto a secoli posteriori al P3",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "MOC_MICRO"
+  },
+  {
+    "claim": "Le strutture latte furono costruite nel I millennio a.C.",
+    "theme": "Architettura",
+    "status": "non_documentato",
+    "source": "Periodo Latte generalmente dopo circa 900 d.C."
+  },
+  {
+    "claim": "Mochong era il centro politico di tutte le Marianne",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Nessuna prova di capitale pan-arcipelago"
+  },
+  {
+    "claim": "Contatti con le Caroline aumentarono nel primo millennio d.C.",
+    "theme": "Scambi",
+    "status": "sintesi",
+    "source": "MOC_MICRO"
+  }
+]

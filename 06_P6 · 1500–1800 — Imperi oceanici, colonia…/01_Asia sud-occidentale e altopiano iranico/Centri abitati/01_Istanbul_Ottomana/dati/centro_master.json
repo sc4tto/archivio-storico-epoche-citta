@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Istanbul ottomana",
+    "site": "Istanbul ottomana",
+    "modern_location": "Istanbul, Turchia",
+    "coordinates": {
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "scope": "Istanbul fra 1500 e 1800, con attenzione a corte, fondazioni imperiali, approvvigionamento, porti, mercati, quartieri artigiani e infrastrutture idriche.",
+    "version": "1.0",
+    "warning": "La città conserva strutture bizantine e sviluppi ottomani di lunga durata. Il modulo distingue le opere del XVI–XVIII secolo dalle trasformazioni ottocentesche e contemporanee."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "IS1",
+      "title": "UNESCO — Historic Areas of Istanbul",
+      "use": "Quadro urbano, Topkapı, Süleymaniye, quartieri storici e continuità bizantino-ottomana.",
+      "url": "https://whc.unesco.org/en/list/356/"
+    },
+    {
+      "id": "IS2",
+      "title": "Encyclopaedia Britannica — Istanbul",
+      "use": "Storia politica, posizione sul Bosforo e sviluppo della capitale ottomana.",
+      "url": "https://www.britannica.com/place/Istanbul"
+    },
+    {
+      "id": "IS3",
+      "title": "The Metropolitan Museum of Art — The Art of the Ottomans before 1600",
+      "use": "Architettura, arti di corte, ceramica e cultura materiale ottomana.",
+      "url": "https://www.metmuseum.org/toah/hd/otto1/hd_otto1.htm"
+    },
+    {
+      "id": "IS4",
+      "title": "Topkapı Palace — National Palaces of Türkiye",
+      "use": "Palazzo, funzioni di corte, cucine, tesoro e organizzazione degli spazi imperiali.",
+      "url": "https://www.millisaraylar.gov.tr/en/palaces/topkapi-palace"
+    },
+    {
+      "id": "IS5",
+      "title": "UNESCO — Istanbul nomination documents",
+      "use": "Documentazione su monumenti, quartieri, sistemi urbani e conservazione.",
+      "url": "https://whc.unesco.org/en/list/356/documents/"
+    }
+  ]
+}

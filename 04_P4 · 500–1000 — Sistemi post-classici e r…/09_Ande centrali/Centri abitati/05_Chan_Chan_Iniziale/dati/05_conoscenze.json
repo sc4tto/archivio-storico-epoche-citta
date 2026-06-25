@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Chan Chan iniziale e valle di Moche",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Ingegneria idraulica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Canali fra Moche e Chicama",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Gestione di pozzi e falda",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Architettura in terra",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Adobes seriali e muri alti",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Frisi e superfici modellate",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Produzione specializzata",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Tessitura e lavorazione del legno",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Metallurgia e conchiglie",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Risorse marine",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Pesca e navigazione su caballitos",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Conservazione del pesce",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Gerarchia urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Recinti differenziati",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_1",
+          "label": "Controllo di depositi e lavoro",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

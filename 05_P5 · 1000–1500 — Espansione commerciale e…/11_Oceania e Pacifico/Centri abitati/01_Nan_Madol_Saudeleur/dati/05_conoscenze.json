@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Nan Madol saudeleur",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Ingegneria megalitica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Trasporto di basalto via acqua",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Tecnica header-stretcher",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Idraulica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Isolotti artificiali e canali",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Drenaggio in ambiente lagunare",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Taro in zone umide",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Agroforesta di pane e cocco",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Canoe nei canali e in laguna",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Connessioni interinsulari",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Politica rituale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Gerarchie saudeleur",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_1",
+          "label": "Domini cerimoniali e mortuari",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

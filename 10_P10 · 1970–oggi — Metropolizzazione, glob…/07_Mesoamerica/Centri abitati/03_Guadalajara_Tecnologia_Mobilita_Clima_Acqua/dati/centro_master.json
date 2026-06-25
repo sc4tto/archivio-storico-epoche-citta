@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Guadalajara, tecnologia, mobilità, clima e acqua",
+    "site": "Guadalajara, tecnologia, mobilità, clima e acqua",
+    "modern_location": "Guadalajara, Jalisco, Messico",
+    "coordinates": {
+      "lat": 20.6597,
+      "lon": -103.3496
+    },
+    "scope": "Guadalajara dal 1970 al 25 giugno 2026: metropolizzazione verso Zapopan, Tlaquepaque, Tonalá e Tlajomulco, industria elettronica e servizi, espansione abitativa dispersa, reti SITEUR, Mi Macro e MiBici, pressioni sulla qualità dell’aria e sull’acqua, disuguaglianze di accesso e pianificazione climatica metropolitana.",
+    "version": "1.0",
+    "warning": "Il PACmetro e gli altri strumenti con orizzonti successivi al 25 giugno 2026 sono piani; infrastrutture non concluse restano indicate come progetti futuri."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "GJ1",
+      "title": "SITEUR — Piano istituzionale del Sistema de Tren Eléctrico Urbano",
+      "use": "Linee ferroviarie, servizio metropolitano e ruolo di SITEUR.",
+      "url": "https://plan.jalisco.gob.mx/wp-content/uploads/2024/11/Sistema-de-Tren-Electrico-Urbano.pdf"
+    },
+    {
+      "id": "GJ2",
+      "title": "Gobierno de Jalisco — Mi Macro Periférico",
+      "use": "BRT orbitale, stazioni e riduzione dei tempi di viaggio.",
+      "url": "https://jalisco.gob.mx/en/prensa/noticias/138834"
+    },
+    {
+      "id": "GJ3",
+      "title": "PACmetro — Piano di azione climatica dell’Area Metropolitana di Guadalajara",
+      "use": "Trasporto integrato, emissioni, calore, acqua e resilienza.",
+      "url": "https://plan.jalisco.gob.mx/wp-content/uploads/2022/12/Plan-de-Accion-Climatica-del-Area-Metropolitana-de-Guadalajara-PACmetro-2020v2.pdf"
+    },
+    {
+      "id": "GJ4",
+      "title": "PIMUS — Piano integrale di mobilità urbana sostenibile dell’AMG",
+      "use": "Espansione dispersa, distanze, dipendenza dall’automobile e mobilità metropolitana.",
+      "url": "https://plan.jalisco.gob.mx/wp-content/uploads/2022/12/Plan_Integral_de_Movilidad_Urbana_Sustentable_del_AMG_2015_2.pdf"
+    }
+  ]
+}

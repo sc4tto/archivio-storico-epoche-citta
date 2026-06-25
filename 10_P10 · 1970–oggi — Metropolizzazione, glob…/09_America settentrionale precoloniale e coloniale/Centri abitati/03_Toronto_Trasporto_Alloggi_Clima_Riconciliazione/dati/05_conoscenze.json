@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Toronto, trasporto, alloggi, clima e riconciliazione",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Governance regionale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Città, TTC, Metrolinx, provincia e comunità",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Coordinamento, dati, investimenti e responsabilità",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Trasporto accessibile",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Subway, streetcar, bus, GO e Wheel-Trans",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Accessibilità, manutenzione, integrazione e sicurezza",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Alloggi come diritto",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "HousingTO, edilizia sociale, affitti e nuovi alloggi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Sfratti, precarietà, segregazione e prevenzione dello spostamento",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Clima e ravine",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Piogge estreme, calore, bacini e infrastrutture verdi",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Adattamento, decarbonizzazione e giustizia climatica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Riconciliazione indigena",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "First Nations, Inuit, Métis e Indigenous Affairs Office",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Verità, giustizia, condivisione del potere e riparazioni",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

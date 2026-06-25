@@ -1,0 +1,288 @@
+{
+  "nodes": [
+    {
+      "id": "t_hills",
+      "label": "Colline calcaree e suoli Puuc",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_fields",
+      "label": "Campi e terrazze agricole",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_chultun",
+      "label": "Chultunes e aguadas",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_network",
+      "label": "Corridoi verso Kabah, Sayil e Labná",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "r_maize",
+      "label": "Mais, fagioli e zucca",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_fruit",
+      "label": "Frutti, miele e piante utili",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "r_game",
+      "label": "Cervi, tacchini e fauna selvatica",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_imports",
+      "label": "Sale, cacao e beni alimentari importati",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "a_farm",
+      "label": "Coltivazione su suoli sottili",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_water",
+      "label": "Raccolta dell’acqua piovana",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_hunt",
+      "label": "Caccia e apicoltura",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "a_exchange",
+      "label": "Scambio lungo sacbeob e mercati",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "x_grind",
+      "label": "Macinazione e preparazione del mais",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x_cook",
+      "label": "Cottura in focolari e forni",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x_dry",
+      "label": "Essiccazione e tostatura",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "x_store",
+      "label": "Conservazione in recipienti e depositi",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "p_staples",
+      "label": "Pasti a base di mais",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_honey",
+      "label": "Miele e bevande rituali",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_reserve",
+      "label": "Scorte per la stagione secca",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_feasts",
+      "label": "Banchetti e rifornimento di corte",
+      "layer": 4,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "t_hills",
+      "target": "r_maize",
+      "status": "documentato",
+      "label": "campi su suoli calcarei"
+    },
+    {
+      "source": "t_fields",
+      "target": "r_maize",
+      "status": "documentato",
+      "label": "coltivazione intensiva"
+    },
+    {
+      "source": "t_fields",
+      "target": "r_fruit",
+      "status": "sintesi",
+      "label": "orti e alberi utili"
+    },
+    {
+      "source": "t_hills",
+      "target": "r_game",
+      "status": "documentato",
+      "label": "fauna delle colline"
+    },
+    {
+      "source": "t_network",
+      "target": "r_imports",
+      "status": "sintesi",
+      "label": "beni da regioni costiere e interne"
+    },
+    {
+      "source": "t_chultun",
+      "target": "r_maize",
+      "status": "sintesi",
+      "label": "acqua per la produzione agricola"
+    },
+    {
+      "source": "r_maize",
+      "target": "a_farm",
+      "status": "documentato",
+      "label": "produzione locale"
+    },
+    {
+      "source": "r_maize",
+      "target": "a_exchange",
+      "status": "sintesi",
+      "label": "surplus regionali"
+    },
+    {
+      "source": "r_fruit",
+      "target": "a_hunt",
+      "status": "sintesi",
+      "label": "apicoltura e raccolta"
+    },
+    {
+      "source": "r_fruit",
+      "target": "a_farm",
+      "status": "sintesi",
+      "label": "orti"
+    },
+    {
+      "source": "r_game",
+      "target": "a_hunt",
+      "status": "documentato",
+      "label": "caccia"
+    },
+    {
+      "source": "r_imports",
+      "target": "a_exchange",
+      "status": "sintesi",
+      "label": "scambio interregionale"
+    },
+    {
+      "source": "a_farm",
+      "target": "x_grind",
+      "status": "documentato",
+      "label": "lavorazione dei cereali"
+    },
+    {
+      "source": "a_farm",
+      "target": "x_store",
+      "status": "documentato",
+      "label": "scorte"
+    },
+    {
+      "source": "a_water",
+      "target": "x_cook",
+      "status": "sintesi",
+      "label": "uso domestico dell’acqua"
+    },
+    {
+      "source": "a_water",
+      "target": "x_store",
+      "status": "documentato",
+      "label": "gestione della stagione secca"
+    },
+    {
+      "source": "a_hunt",
+      "target": "x_cook",
+      "status": "documentato",
+      "label": "preparazione della carne"
+    },
+    {
+      "source": "a_hunt",
+      "target": "x_dry",
+      "status": "sintesi",
+      "label": "conservazione"
+    },
+    {
+      "source": "a_exchange",
+      "target": "x_store",
+      "status": "sintesi",
+      "label": "deposito di beni importati"
+    },
+    {
+      "source": "a_exchange",
+      "target": "x_cook",
+      "status": "sintesi",
+      "label": "banchetti"
+    },
+    {
+      "source": "x_grind",
+      "target": "p_staples",
+      "status": "documentato",
+      "label": "pasti quotidiani"
+    },
+    {
+      "source": "x_cook",
+      "target": "p_staples",
+      "status": "documentato",
+      "label": "cottura"
+    },
+    {
+      "source": "x_cook",
+      "target": "p_feasts",
+      "status": "sintesi",
+      "label": "pasti pubblici"
+    },
+    {
+      "source": "x_dry",
+      "target": "p_reserve",
+      "status": "sintesi",
+      "label": "scorte"
+    },
+    {
+      "source": "x_store",
+      "target": "p_reserve",
+      "status": "documentato",
+      "label": "conservazione"
+    },
+    {
+      "source": "x_store",
+      "target": "p_feasts",
+      "status": "sintesi",
+      "label": "redistribuzione"
+    },
+    {
+      "source": "x_cook",
+      "target": "p_honey",
+      "status": "sintesi",
+      "label": "bevande e miele"
+    }
+  ]
+}

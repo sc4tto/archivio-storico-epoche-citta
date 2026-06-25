@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "La grotta conserva resti botanici eccezionalmente antichi",
+    "theme": "Archeobotanica",
+    "status": "documentato",
+    "source": "UNESCO_YAGUL"
+  },
+  {
+    "claim": "La zucca mostra caratteri di domesticazione molto precoci",
+    "theme": "Domesticazione",
+    "status": "documentato",
+    "source": "SMITH_1997"
+  },
+  {
+    "claim": "Sono presenti antichi resti di mais direttamente datati",
+    "theme": "Mais",
+    "status": "documentato",
+    "source": "PIPERNO_FLANNERY_2001"
+  },
+  {
+    "claim": "Le occupazioni antiche erano stagionali",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "UNESCO_YAGUL"
+  },
+  {
+    "claim": "La dieta combinava piante e caccia",
+    "theme": "Alimentazione",
+    "status": "sintesi",
+    "source": "UNESCO_YAGUL"
+  },
+  {
+    "claim": "Il sito era un villaggio agricolo permanente",
+    "theme": "Urbanizzazione",
+    "status": "non_documentato",
+    "source": "Occupazione stagionale del riparo"
+  },
+  {
+    "claim": "Il mais fu domesticato esclusivamente dentro la grotta",
+    "theme": "Domesticazione",
+    "status": "non_documentato",
+    "source": "Processo regionale più ampio"
+  },
+  {
+    "claim": "I reperti identificano una popolazione etnica nota",
+    "theme": "Identità",
+    "status": "non_documentato",
+    "source": "Assenza di fonti linguistiche"
+  }
+]

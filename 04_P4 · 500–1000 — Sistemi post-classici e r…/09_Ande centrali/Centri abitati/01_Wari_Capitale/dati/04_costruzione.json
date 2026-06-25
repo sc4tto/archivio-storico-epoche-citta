@@ -1,0 +1,276 @@
+{
+  "nodes": [
+    {
+      "id": "m0",
+      "label": "Pietra locale e lastre",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m1",
+      "label": "Argilla, terra e malta",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m2",
+      "label": "Legno e fibre vegetali",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m3",
+      "label": "Gesso, pigmenti e intonaco",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "o0",
+      "label": "Taglio e posa di murature",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o1",
+      "label": "Preparazione di adobes e riempimenti",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o2",
+      "label": "Carpenteria e coperture",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "o3",
+      "label": "Intonacatura e pittura",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "c0",
+      "label": "Muri alti e recinti",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c1",
+      "label": "Pavimenti, canali e piattaforme",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c2",
+      "label": "Tetti, architravi e passerelle",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "c3",
+      "label": "Nicchie, facciate e superfici dipinte",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "s0",
+      "label": "Quartieri e complessi amministrativi",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s1",
+      "label": "Templi a D e cortili rituali",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s2",
+      "label": "Laboratori e depositi",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s3",
+      "label": "Tombe e gallerie funerarie",
+      "layer": 3,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m0",
+      "target": "o0",
+      "status": "documentato",
+      "label": "Pietra e lastre erano tagliate e messe in opera nelle murature."
+    },
+    {
+      "source": "m0",
+      "target": "o1",
+      "status": "sintesi",
+      "label": "Pietrame minuto poteva essere impiegato nei riempimenti."
+    },
+    {
+      "source": "m1",
+      "target": "o1",
+      "status": "documentato",
+      "label": "Argilla e terra erano preparate per adobes, malte e riempimenti."
+    },
+    {
+      "source": "m1",
+      "target": "o3",
+      "status": "documentato",
+      "label": "Argille fini contribuivano agli intonaci."
+    },
+    {
+      "source": "m2",
+      "target": "o2",
+      "status": "sintesi",
+      "label": "Legno e fibre erano impiegati in carpenteria e coperture."
+    },
+    {
+      "source": "m2",
+      "target": "o0",
+      "status": "inferito",
+      "label": "Il legno poteva servire come architrave o sostegno nella muratura."
+    },
+    {
+      "source": "m3",
+      "target": "o3",
+      "status": "documentato",
+      "label": "Gesso, pigmenti e intonaco erano applicati alle superfici."
+    },
+    {
+      "source": "o0",
+      "target": "c0",
+      "status": "documentato",
+      "label": "La posa della pietra produceva muri alti e recinti."
+    },
+    {
+      "source": "o0",
+      "target": "c1",
+      "status": "documentato",
+      "label": "La muratura contribuiva a piattaforme, canali e pavimentazioni."
+    },
+    {
+      "source": "o1",
+      "target": "c0",
+      "status": "documentato",
+      "label": "Adobes e riempimenti formavano pareti e recinti."
+    },
+    {
+      "source": "o1",
+      "target": "c1",
+      "status": "documentato",
+      "label": "Riempimenti e terra battuta formavano piattaforme e pavimenti."
+    },
+    {
+      "source": "o2",
+      "target": "c2",
+      "status": "sintesi",
+      "label": "Carpenteria e fibre formavano tetti, architravi e passerelle."
+    },
+    {
+      "source": "o2",
+      "target": "c0",
+      "status": "inferito",
+      "label": "Architravi lignei erano integrati nei muri e negli accessi."
+    },
+    {
+      "source": "o3",
+      "target": "c3",
+      "status": "documentato",
+      "label": "Intonacatura e pittura producevano nicchie e facciate decorate."
+    },
+    {
+      "source": "o3",
+      "target": "c0",
+      "status": "documentato",
+      "label": "Gli intonaci rivestivano muri e recinti."
+    },
+    {
+      "source": "o3",
+      "target": "c1",
+      "status": "documentato",
+      "label": "Pavimenti e piattaforme potevano ricevere finiture superficiali."
+    },
+    {
+      "source": "c0",
+      "target": "s0",
+      "status": "documentato",
+      "label": "Muri e recinti definivano quartieri e complessi amministrativi."
+    },
+    {
+      "source": "c0",
+      "target": "s1",
+      "status": "documentato",
+      "label": "I muri delimitavano templi e cortili rituali."
+    },
+    {
+      "source": "c0",
+      "target": "s2",
+      "status": "documentato",
+      "label": "Recinti murari organizzavano laboratori e depositi."
+    },
+    {
+      "source": "c0",
+      "target": "s3",
+      "status": "documentato",
+      "label": "Murature e recinti erano impiegati anche in contesti funerari."
+    },
+    {
+      "source": "c1",
+      "target": "s0",
+      "status": "documentato",
+      "label": "Piattaforme, canali e pavimenti strutturavano i complessi amministrativi."
+    },
+    {
+      "source": "c1",
+      "target": "s1",
+      "status": "documentato",
+      "label": "Cortili e piattaforme sostenevano attività rituali."
+    },
+    {
+      "source": "c1",
+      "target": "s2",
+      "status": "documentato",
+      "label": "Pavimenti e canalette servivano aree produttive e depositi."
+    },
+    {
+      "source": "c2",
+      "target": "s0",
+      "status": "sintesi",
+      "label": "Tetti e passerelle coprivano e collegavano ambienti amministrativi."
+    },
+    {
+      "source": "c2",
+      "target": "s1",
+      "status": "sintesi",
+      "label": "Coperture leggere erano presenti nei cortili e negli edifici rituali."
+    },
+    {
+      "source": "c2",
+      "target": "s2",
+      "status": "sintesi",
+      "label": "Laboratori e depositi richiedevano coperture e architravi."
+    },
+    {
+      "source": "c3",
+      "target": "s0",
+      "status": "documentato",
+      "label": "Facciate e nicchie decorate caratterizzavano complessi di rango."
+    },
+    {
+      "source": "c3",
+      "target": "s1",
+      "status": "documentato",
+      "label": "Superfici dipinte e nicchie erano importanti nei templi."
+    },
+    {
+      "source": "c3",
+      "target": "s3",
+      "status": "documentato",
+      "label": "Pitture e finiture erano impiegate anche in spazi funerari."
+    }
+  ]
+}

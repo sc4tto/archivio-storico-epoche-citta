@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Osaka rimase il principale centro commerciale del Giappone nella prima parte del XIX secolo.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "OS1; OS2"
+  },
+  {
+    "claim": "I mercati del riso e i grossisti sostennero credito e distribuzione nazionale.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "OS1; OS2"
+  },
+  {
+    "claim": "Canali e ponti strutturarono la mobilità e i quartieri mercantili.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "OS2; OS3"
+  },
+  {
+    "claim": "La Restaurazione Meiji accelerò ferrovie, industria e amministrazione municipale.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "OS1; OS4"
+  },
+  {
+    "claim": "Le filature cotonifere impiegarono in larga misura giovani donne migranti in condizioni dure.",
+    "theme": "lavoro",
+    "status": "documentato",
+    "source": "OS1; OS4"
+  },
+  {
+    "claim": "Kobe e la ferrovia integrarono Osaka con il commercio internazionale.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "OS4; OS5"
+  },
+  {
+    "claim": "La città mantenne tecniche lignee accanto a fabbriche in mattoni e ferro.",
+    "theme": "tecniche",
+    "status": "documentato",
+    "source": "OS2; OS3"
+  },
+  {
+    "claim": "La grande conurbazione industriale del XX secolo è esclusa.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "OS1"
+  }
+]

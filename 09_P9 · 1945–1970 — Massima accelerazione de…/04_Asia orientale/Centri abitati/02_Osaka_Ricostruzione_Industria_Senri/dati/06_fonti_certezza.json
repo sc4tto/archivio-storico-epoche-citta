@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Ampie parti di Osaka furono distrutte dai bombardamenti del 1945.",
+    "theme": "conflitto",
+    "status": "documentato",
+    "source": "OS1; OS3"
+  },
+  {
+    "claim": "La ricostruzione accompagnò una riconversione verso industrie civili e pesanti.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "OS1; OS2"
+  },
+  {
+    "claim": "Senri New Town fu avviata nel 1961 nella regione metropolitana.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "OS2"
+  },
+  {
+    "claim": "Subsidenza e inquinamento furono problemi dell’industrializzazione costiera.",
+    "theme": "ambiente",
+    "status": "documentato",
+    "source": "OS2"
+  },
+  {
+    "claim": "Expo 1970 segnò il culmine simbolico dell’alta crescita nel limite del modulo.",
+    "theme": "cronologia",
+    "status": "sintesi",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Osaka, ricostruzione industriale e nuova urbanizzazione è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Bombardamenti, ricostruzione, lavoro industriale, sgomberi, scarsità abitativa, inquinamento e subsidenza sono descritti come costi umani e ambientali, non come semplice progresso.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

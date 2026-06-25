@@ -1,0 +1,174 @@
+{
+  "nodes": [
+    {
+      "id": "m_argilla",
+      "label": "Argilla locale",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_laterite",
+      "label": "Laterite",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_arenaria",
+      "label": "Arenaria",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_legno",
+      "label": "Legno",
+      "layer": 0,
+      "status": "inferito"
+    },
+    {
+      "id": "o_cottura",
+      "label": "Foggiatura e cottura dei mattoni",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_taglio",
+      "label": "Taglio e posa dei blocchi",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_scultura",
+      "label": "Scultura e finitura",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_carp",
+      "label": "Carpenteria",
+      "layer": 1,
+      "status": "inferito"
+    },
+    {
+      "id": "c_torre",
+      "label": "Torri in laterizio",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_piattaforma",
+      "label": "Piattaforme e recinti",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_lintel",
+      "label": "Architravi e stipiti",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_tetto",
+      "label": "Coperture e sale lignee",
+      "layer": 2,
+      "status": "inferito"
+    },
+    {
+      "id": "s_preah",
+      "label": "Preah Ko",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_bakong",
+      "label": "Bakong",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_lolei",
+      "label": "Lolei",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_palazzo",
+      "label": "Palazzo e abitato della capitale",
+      "layer": 3,
+      "status": "inferito"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m_argilla",
+      "target": "o_cottura",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_laterite",
+      "target": "o_taglio",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_arenaria",
+      "target": "o_scultura",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_legno",
+      "target": "o_carp",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "o_cottura",
+      "target": "c_torre",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_taglio",
+      "target": "c_piattaforma",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_scultura",
+      "target": "c_lintel",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_carp",
+      "target": "c_tetto",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "c_torre",
+      "target": "s_preah",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_piattaforma",
+      "target": "s_bakong",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_lintel",
+      "target": "s_lolei",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_tetto",
+      "target": "s_palazzo",
+      "status": "inferito",
+      "label": ""
+    }
+  ]
+}

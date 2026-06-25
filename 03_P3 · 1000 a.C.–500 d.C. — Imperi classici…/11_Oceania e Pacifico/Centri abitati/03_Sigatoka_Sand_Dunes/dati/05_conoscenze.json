@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Sigatoka Sand Dunes",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Dune",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Erosione eolica",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Depositi stratificati",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Superficie stabile",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Ceramica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Reperti oltre 2600 anni",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Stili successivi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Unica fase di produzione",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Sepolture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Grande area funeraria",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Riti variabili",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_3",
+          "label": "Datazione identica per tutti",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Economia",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Pesca",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Orticoltura",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Commercio centralizzato",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Paesaggio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Foce fluviale",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Costa dinamica",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Confini del villaggio completi",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Tutela",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Parco nazionale",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Musealizzazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Erosione arrestata",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

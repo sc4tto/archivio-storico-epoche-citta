@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Nok–Taruga — modulo multi-grafo",
+    "short_name": "Nok–Taruga",
+    "site": "Siti della cultura Nok con riferimento a Taruga",
+    "modern_location": "Nigeria centrale",
+    "coordinates": {
+      "lat": 9.26,
+      "lon": 7.99
+    },
+    "scope": "Insieme di villaggi e siti produttivi della cultura Nok, noto per terracotte figurate, ceramica, agricoltura e prime evidenze della metallurgia del ferro nella Nigeria centrale.",
+    "version": "1.0-blocco_32_p3_africa_subsahariana_5_centri_v1",
+    "warning": "“Nok” indica una cultura archeologica distribuita, non una città o uno Stato unitario. Molti reperti sono privi di contesto a causa di scoperte minerarie e saccheggi; cronologie e funzioni rituali restano parziali."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "NOK_MET",
+      "title": "The Metropolitan Museum — Nok Terracottas",
+      "url": "https://www.metmuseum.org/essays/nok-terracottas-500-b-c-200-a-d",
+      "use": "terracotte, cronologia e contesto"
+    },
+    {
+      "id": "NOK_FRANKFURT",
+      "title": "Goethe University — Nok research",
+      "url": "https://www.uni-frankfurt.de/",
+      "use": "ricerca archeologica sistematica"
+    },
+    {
+      "id": "NOK_JAA",
+      "title": "Breunig e Rupp — Studies on the Nok Culture",
+      "url": "https://doi.org/10.3213/2191-5784-10284",
+      "use": "insediamenti, metallurgia e limiti interpretativi"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Ayutthaya fu fondata intorno al 1350.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "AY1; AY2"
+  },
+  {
+    "claim": "La città sorse su un’isola circondata da tre fiumi.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "AY1"
+  },
+  {
+    "claim": "La rete di strade, canali e fossati seguiva un piano sistematico.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "AY1; AY4"
+  },
+  {
+    "claim": "La capitale divenne un nodo commerciale fra India, Cina e arcipelago.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "AY1; AY2"
+  },
+  {
+    "claim": "Risaie e pesca fluviale sostenevano il rifornimento urbano.",
+    "theme": "alimentazione",
+    "status": "sintesi",
+    "source": "AY1; AY4"
+  },
+  {
+    "claim": "Prang e grandi monasteri caratterizzavano l’architettura religiosa.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "AY1; AY3"
+  },
+  {
+    "claim": "Molti elementi cosmopoliti più noti appartengono ai secoli successivi al 1500.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "AY1; AY2"
+  },
+  {
+    "claim": "L’arte di Ayutthaya assimilò tradizioni regionali diverse.",
+    "theme": "arte",
+    "status": "documentato",
+    "source": "AY1; AY5"
+  }
+]

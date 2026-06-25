@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Il porto di Yokohama fu aperto al commercio estero nel 1859.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "YO1; YO5"
+  },
+  {
+    "claim": "La città crebbe rapidamente intorno all’insediamento straniero e alle dogane.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "YO1; YO2"
+  },
+  {
+    "claim": "Seta greggia e tè furono fra le principali esportazioni.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "YO1; YO4"
+  },
+  {
+    "claim": "La ferrovia Yokohama–Tokyo del 1872 fu la prima linea del Giappone.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "YO1; YO3"
+  },
+  {
+    "claim": "L’incendio del 1866 favorì una ricostruzione con strade più ampie e materiali diversi.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "YO1; YO3"
+  },
+  {
+    "claim": "Il porto fu un importante canale di trasferimento tecnologico e culturale.",
+    "theme": "cultura",
+    "status": "documentato",
+    "source": "YO1; YO4"
+  },
+  {
+    "claim": "I trattati crearono extraterritorialità e gerarchie giuridiche fino al 1899.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "YO1; YO5"
+  },
+  {
+    "claim": "Il terremoto del Kantō del 1923 è fuori periodo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "YO5"
+  }
+]

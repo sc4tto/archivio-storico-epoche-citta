@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Taxila comprende più città e complessi monastici di epoche diverse",
+    "theme": "Topografia",
+    "status": "documentato",
+    "source": "TAX_UNESCO"
+  },
+  {
+    "claim": "Bhir Mound è il primo centro storico della sequenza urbana",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "TAX_UNESCO"
+  },
+  {
+    "claim": "Sirkap presenta una pianta a griglia e fortificazioni",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "TAX_UNESCO"
+  },
+  {
+    "claim": "Sirsukh mostra fortificazioni con bastioni arrotondati",
+    "theme": "Difese",
+    "status": "documentato",
+    "source": "TAX_UNESCO"
+  },
+  {
+    "claim": "La valle fu un importante centro buddhista e di apprendimento",
+    "theme": "Religione",
+    "status": "documentato",
+    "source": "TAX_UNESCO"
+  },
+  {
+    "claim": "Tutte le città furono occupate contemporaneamente con la stessa funzione",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Sequenza di rifondazioni e trasformazioni"
+  },
+  {
+    "claim": "Ogni elemento ellenistico indica popolazione greca residente",
+    "theme": "Identità",
+    "status": "non_documentato",
+    "source": "Forme artistiche e identità non coincidono automaticamente"
+  },
+  {
+    "claim": "Taxila fu una università nel senso istituzionale moderno",
+    "theme": "Istruzione",
+    "status": "non_documentato",
+    "source": "Centro di apprendimento con forme diverse da quelle moderne"
+  }
+]

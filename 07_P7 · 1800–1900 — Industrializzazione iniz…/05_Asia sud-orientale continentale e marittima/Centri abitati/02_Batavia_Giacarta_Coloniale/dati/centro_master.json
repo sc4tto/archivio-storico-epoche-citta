@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Batavia–Giakarta coloniale olandese",
+    "site": "Batavia–Giakarta coloniale olandese",
+    "modern_location": "Jakarta, Indonesia",
+    "coordinates": {
+      "lat": -6.1754,
+      "lon": 106.8272
+    },
+    "scope": "Batavia fra 1800 e 1900: amministrazione coloniale olandese, interregno britannico, spostamento verso Weltevreden, economie estrattive, ferrovia, porto e quartieri urbani plurali.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Il nazionalismo novecentesco, l’occupazione giapponese, l’indipendenza indonesiana e la Giacarta contemporanea sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "BA1",
+      "title": "UNESCO Tentative List — Old Town of Jakarta",
+      "use": "Città storica, porto e paesaggio coloniale.",
+      "url": "https://whc.unesco.org/en/tentativelists/6010/"
+    },
+    {
+      "id": "BA2",
+      "title": "Encyclopaedia Britannica — Jakarta",
+      "use": "Storia di Batavia e sviluppo coloniale.",
+      "url": "https://www.britannica.com/place/Jakarta/History"
+    },
+    {
+      "id": "BA3",
+      "title": "Nationaal Archief — Netherlands East Indies",
+      "use": "Mappe e amministrazione coloniale.",
+      "url": "https://www.nationaalarchief.nl/"
+    },
+    {
+      "id": "BA4",
+      "title": "Jakarta History Museum",
+      "use": "Patrimonio urbano e cultura materiale di Batavia.",
+      "url": "https://museumjakarta.com/"
+    },
+    {
+      "id": "BA5",
+      "title": "Encyclopaedia Britannica — Cultivation System",
+      "use": "Contesto economico e coercitivo delle colture coloniali.",
+      "url": "https://www.britannica.com/topic/culture-system"
+    }
+  ]
+}

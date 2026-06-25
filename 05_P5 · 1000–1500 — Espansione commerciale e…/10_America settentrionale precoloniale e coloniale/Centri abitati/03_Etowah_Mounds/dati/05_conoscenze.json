@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Etowah Mounds mississippiana",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Terra",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Costruzione dei tumuli",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Fossati e riempimenti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Fiume",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Pesca e trappole",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Trasporto locale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Difesa",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Fossato e palizzata",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Controllo degli accessi",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Lavorazione della conchiglia",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Rame e iconografia",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Cerimoniale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Piazze e piattaforme",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Sepolture di rango",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

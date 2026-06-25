@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Carlo Magno fece di Aquisgrana la sua residenza favorita.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "A1; A3; A4"
+  },
+  {
+    "claim": "La cappella palatina fu costruita fra la fine dell’VIII e l’inizio del IX secolo.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "A1; A2"
+  },
+  {
+    "claim": "Il nucleo ottagonale si ispirò a modelli dell’Impero romano d’Oriente e dell’Italia tardoantica.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "A1; A2"
+  },
+  {
+    "claim": "Il complesso comprendeva aula regia, cappella, edifici di servizio e collegamenti coperti.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "A2; A3"
+  },
+  {
+    "claim": "Marmi e spolia furono trasportati dall’Italia per il programma monumentale.",
+    "theme": "materiali",
+    "status": "documentato",
+    "source": "A2; A5"
+  },
+  {
+    "claim": "Le tenute regie sostenevano l’ospitalità della corte e delle assemblee.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "A4; A5"
+  },
+  {
+    "claim": "La scuola palatina favorì la produzione e correzione di manoscritti latini.",
+    "theme": "cultura",
+    "status": "documentato",
+    "source": "A4"
+  },
+  {
+    "claim": "Nel 936 iniziò ad Aquisgrana la tradizione delle incoronazioni dei re tedeschi.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "A2; A3"
+  }
+]

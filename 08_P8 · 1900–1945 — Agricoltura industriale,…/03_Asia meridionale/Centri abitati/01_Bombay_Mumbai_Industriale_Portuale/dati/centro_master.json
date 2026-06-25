@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Bombay–Mumbai industriale e portuale",
+    "site": "Bombay–Mumbai industriale e portuale",
+    "modern_location": "Mumbai, India",
+    "coordinates": {
+      "lat": 18.9388,
+      "lon": 72.8354
+    },
+    "scope": "Bombay fra 1900 e 1945: porto e ferrovie, industria cotoniera, chawl operaie, municipalità, epidemie, università, scioperi, nazionalismo e funzione strategica nelle due guerre mondiali.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1945. Indipendenza e Partizione del 1947, riorganizzazione dello Stato del Maharashtra e metropolizzazione postcoloniale sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MU1",
+      "title": "UNESCO — Victorian Gothic and Art Deco Ensembles of Mumbai",
+      "use": "Edifici pubblici, spazio urbano e trasformazioni ottocentesche-novecentesche.",
+      "url": "https://whc.unesco.org/en/list/1480/"
+    },
+    {
+      "id": "MU2",
+      "title": "Encyclopaedia Britannica — Mumbai",
+      "use": "Storia urbana, industria e porto.",
+      "url": "https://www.britannica.com/place/Mumbai"
+    },
+    {
+      "id": "MU3",
+      "title": "Mumbai Port Authority",
+      "use": "Porto, docks e infrastrutture marittime.",
+      "url": "https://mumbaiport.gov.in/"
+    },
+    {
+      "id": "MU4",
+      "title": "National Archives of India",
+      "use": "Fonti amministrative, industriali e politiche.",
+      "url": "https://nationalarchives.nic.in/"
+    },
+    {
+      "id": "MU5",
+      "title": "Gandhi Heritage Portal",
+      "use": "Movimento nazionale, campagne e fonti documentarie.",
+      "url": "https://www.gandhiheritageportal.org/"
+    }
+  ]
+}

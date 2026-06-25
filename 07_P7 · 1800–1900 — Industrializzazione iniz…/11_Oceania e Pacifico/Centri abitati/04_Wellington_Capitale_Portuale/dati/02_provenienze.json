@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Wellington / Te Whanganui-a-Tara",
+      "lat": -41.2865,
+      "lon": 174.7762,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "hut",
+      "label": "Hutt Valley",
+      "lat": -41.2,
+      "lon": 174.9,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "por",
+      "label": "Port Nicholson",
+      "lat": -41.28,
+      "lon": 174.85,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "wai",
+      "label": "Wairarapa",
+      "lat": -41.1,
+      "lon": 175.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "man",
+      "label": "Manawatū",
+      "lat": -40.35,
+      "lon": 175.6,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "sou",
+      "label": "South Island e Cook Strait",
+      "lat": -41.7,
+      "lon": 173.8,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "uk",
+      "label": "Gran Bretagna e Australia",
+      "lat": 51.5,
+      "lon": -0.1,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "hut",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e ferrovia Hutt",
+      "food": "ortaggi, latticini, legname e manodopera"
+    },
+    {
+      "source": "por",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto e cabotaggio",
+      "food": "pesce, merci e servizi portuali"
+    },
+    {
+      "source": "wai",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e ferrovia Wairarapa",
+      "food": "lana, carne e cereali"
+    },
+    {
+      "source": "man",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e ferrovie",
+      "food": "legname e prodotti agricoli"
+    },
+    {
+      "source": "sou",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Cook Strait shipping",
+      "food": "lana, cereali, carbone e migranti"
+    },
+    {
+      "source": "uk",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "linee oceaniche",
+      "food": "manufatti, capitale, migranti e tè"
+    }
+  ]
+}

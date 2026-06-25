@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Puebla de los Ángeles vicereale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Pianificazione urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Griglia, piazza e isolati",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Quartieri e parrocchie",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Manifatture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Obrajes tessili e mulini",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Talavera, vetro e metalli",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Cantera, mattoni e calce",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Volte, cupole e azulejos",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Camino real e mesones",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Alhóndiga, mercati e alcabala",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Vescovado, cabildo e conventi",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Biblioteca, collegi e ospedali",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

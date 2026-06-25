@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Tebe / Luxor",
+      "lat": 25.718,
+      "lon": 32.658,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "karnak",
+      "label": "Karnak",
+      "lat": 25.719,
+      "lon": 32.657,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "westbank",
+      "label": "Riva occidentale e necropoli",
+      "lat": 25.733,
+      "lon": 32.6,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "deirmedina",
+      "label": "Deir el-Medina",
+      "lat": 25.728,
+      "lon": 32.602,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "nubia",
+      "label": "Nubia settentrionale",
+      "lat": 22.5,
+      "lon": 31.5,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "punt",
+      "label": "Mar Rosso e Punt",
+      "lat": 20.0,
+      "lon": 38.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "karnak",
+      "target": "site",
+      "label": "culto, tributi e personale",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "westbank",
+      "target": "site",
+      "label": "cantieri, templi funerari e sepolture",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "deirmedina",
+      "target": "site",
+      "label": "artigiani e registri di lavoro",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "nubia",
+      "target": "site",
+      "label": "oro, bestiame e tributi",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "punt",
+      "target": "site",
+      "label": "incenso, legni e beni esotici",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

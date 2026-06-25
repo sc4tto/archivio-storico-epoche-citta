@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Il piano Detailed Area Plan vigente copre il periodo pianificato 2022–2035.",
+    "theme": "pianificazione",
+    "status": "documentato",
+    "source": "DH1"
+  },
+  {
+    "claim": "Dhaka Ovest continua a subire allagamenti urbani legati alla congestione del drenaggio.",
+    "theme": "rischio",
+    "status": "documentato",
+    "source": "DH2"
+  },
+  {
+    "claim": "Il programma idrico metropolitano mira a ridurre l’inquinamento di fiumi e canali e a rafforzare la resilienza.",
+    "theme": "acqua",
+    "status": "documentato",
+    "source": "DH3"
+  },
+  {
+    "claim": "OHCHR ha documentato gravi violazioni durante le proteste di luglio e agosto 2024.",
+    "theme": "diritti umani",
+    "status": "documentato",
+    "source": "DH4"
+  },
+  {
+    "claim": "Gli insediamenti informali in aree basse risultano particolarmente esposti alle alluvioni.",
+    "theme": "disuguaglianza",
+    "status": "documentato",
+    "source": "DH2"
+  },
+  {
+    "claim": "Dhaka, industria tessile, metro, acqua e alluvioni è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Repressione del 2024, lavoro industriale insicuro, sgomberi, acquisizioni, ricollocazioni e perdita forzata di mezzi di sussistenza non sono trattati come costi neutri della crescita; lavoratrici dell’abbigliamento, abitanti dei basti, studenti e comunità fluviali sono soggetti storici e politici.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Antica Dongola — modulo multi-grafo",
+    "short_name": "Antica Dongola",
+    "site": "Tungul, capitale del regno di Makuria",
+    "modern_location": "Dongola al-ʿAjuz, Sudan",
+    "coordinates": {
+      "lat": 18.25,
+      "lon": 30.75
+    },
+    "scope": "Capitale cristiana del regno di Makuria lungo il medio Nilo. Fra VI e X secolo comprende una cittadella reale, chiese monumentali, quartieri, necropoli, monasteri e il grande edificio rappresentativo del IX secolo noto come Sala del Trono.",
+    "version": "1.0-blocco_38_p4_valle_nilo_5_centri_v1",
+    "warning": "La conversione della Sala del Trono in moschea nel 1317 e molte pitture del monastero appartengono a epoche posteriori al P4. I rapporti politici con l’Egitto sono documentati, ma il funzionamento concreto del Baqt e la topografia completa della città restano parzialmente ricostruiti."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "DON_PCMA",
+      "title": "PCMA University of Warsaw — Old Dongola",
+      "url": "https://pcma.uw.edu.pl/en/2019/04/02/dongola-2/",
+      "use": "scavi, cittadella, chiese e quartieri"
+    },
+    {
+      "id": "DON_GUIDE",
+      "title": "Włodzimierz Godlewski — Dongola, ancient Tungul",
+      "url": "https://pcma.uw.edu.pl/wp-content/uploads/pam/PAM_2012_XXIV_1/05_Godlewski.pdf",
+      "use": "guida archeologica e fasi urbane"
+    },
+    {
+      "id": "DON_UMMA",
+      "title": "CORDIS — Urban Metamorphosis of a Medieval African Capital",
+      "url": "https://cordis.europa.eu/project/id/759926",
+      "use": "ricerca urbana e trasformazioni della capitale"
+    }
+  ]
+}

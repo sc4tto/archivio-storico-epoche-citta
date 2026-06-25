@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_96_P9_Asia_Sudorientale_5_Centri_v1",
+  "macroregion": "Asia sud-orientale continentale e marittima",
+  "centers": [
+    "01_Jakarta_Indipendenza_Kampung_Capitale",
+    "02_Manila_Ricostruzione_Indipendenza_Metropoli",
+    "03_Bangkok_Migrazione_Strade_Autoritarismo",
+    "04_Singapore_Autogoverno_HDB_Industria",
+    "05_Saigon_Guerra_Rifugiati_Capitale"
+  ],
+  "uses_central_assets": true
+}

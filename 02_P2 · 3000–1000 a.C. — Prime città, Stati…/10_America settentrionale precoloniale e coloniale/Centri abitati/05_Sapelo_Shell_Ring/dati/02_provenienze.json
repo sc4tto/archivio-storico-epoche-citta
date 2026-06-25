@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Sapelo Shell Ring",
+      "lat": 31.398,
+      "lon": -81.28,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "estuary",
+      "label": "Estuario di Sapelo",
+      "lat": 31.45,
+      "lon": -81.25,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "ocean",
+      "label": "Costa atlantica",
+      "lat": 31.4,
+      "lon": -81.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "altamaha",
+      "label": "Delta dell’Altamaha",
+      "lat": 31.32,
+      "lon": -81.35,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "stallings",
+      "label": "Stallings Island",
+      "lat": 33.532,
+      "lon": -82.039,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "carolina",
+      "label": "Anelli costieri della Carolina",
+      "lat": 32.5,
+      "lon": -80.2,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "estuary",
+      "target": "site",
+      "label": "ostriche, pesci e canali",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "ocean",
+      "target": "site",
+      "label": "risorse marine e mobilità",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "altamaha",
+      "target": "site",
+      "label": "legname e reti regionali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "stallings",
+      "target": "site",
+      "label": "tradizioni ceramiche",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "carolina",
+      "target": "site",
+      "label": "forme ad anello e contatti costieri",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

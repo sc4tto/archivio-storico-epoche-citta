@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Madrid divenne sede permanente della corte nel 1561.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "MA2; MA4"
+  },
+  {
+    "claim": "Plaza Mayor e il tessuto asburgico organizzarono la città di corte.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "MA2; MA4"
+  },
+  {
+    "claim": "Il Palazzo Reale sostituì l’Alcázar dopo l’incendio del 1734.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "MA3"
+  },
+  {
+    "claim": "Buen Retiro e Paseo del Prado formarono un paesaggio di arti e scienze.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "MA1; MA5"
+  },
+  {
+    "claim": "La città dipendeva dall’approvvigionamento della Meseta e della Sierra.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "MA2; MA4"
+  },
+  {
+    "claim": "Acqua e neve erano trasportate mediante infrastrutture e reti commerciali.",
+    "theme": "territorio",
+    "status": "documentato",
+    "source": "MA2; MA4"
+  },
+  {
+    "claim": "Manifatture e accademie furono promosse dai Borbone.",
+    "theme": "cultura",
+    "status": "documentato",
+    "source": "MA2; MA5"
+  },
+  {
+    "claim": "Ensanche e Gran Vía sono esclusi.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "MA2"
+  }
+]

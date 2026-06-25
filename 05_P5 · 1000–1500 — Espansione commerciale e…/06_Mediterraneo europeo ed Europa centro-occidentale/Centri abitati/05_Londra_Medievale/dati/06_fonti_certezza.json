@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "La conquista normanna trasformò Londra e portò alla costruzione della Torre.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "LO3"
+  },
+  {
+    "claim": "La City mantenne istituzioni civiche e corporative proprie.",
+    "theme": "governo",
+    "status": "documentato",
+    "source": "LO1; LO5"
+  },
+  {
+    "claim": "Il Tamigi era il principale asse di trasporto e approvvigionamento.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "LO1; LO2"
+  },
+  {
+    "claim": "Westminster divenne un polo monarchico e religioso distinto dalla City.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "LO4"
+  },
+  {
+    "claim": "Il ponte medievale collegava City e Southwark e ospitava attività urbane.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "LO2"
+  },
+  {
+    "claim": "Le case a graticcio convivevano con grandi edifici in pietra.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "LO2; LO3"
+  },
+  {
+    "claim": "L’approvvigionamento dipendeva da campagne vicine e commercio marittimo.",
+    "theme": "alimentazione",
+    "status": "sintesi",
+    "source": "LO1; LO2"
+  },
+  {
+    "claim": "La ricostruzione successiva al 1666 è esclusa dal periodo P5.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "LO1"
+  }
+]

@@ -1,0 +1,276 @@
+{
+  "nodes": [
+    {
+      "id": "m0",
+      "label": "Pietra vulcanica locale",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m1",
+      "label": "Terra, argilla e malta",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m2",
+      "label": "Legno e fibre",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m3",
+      "label": "Pigmenti e intonaci",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "o0",
+      "label": "Terrazzamento e muri di contenimento",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o1",
+      "label": "Muratura e preparazione di pavimenti",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o2",
+      "label": "Carpenteria e coperture",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "o3",
+      "label": "Intonacatura e finitura",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "c0",
+      "label": "Terrazze, scale e accessi",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c1",
+      "label": "Muri, cortili e canalette",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c2",
+      "label": "Tetti e chiusure",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "c3",
+      "label": "Focolari, vasche e superfici produttive",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "s0",
+      "label": "Recinti residenziali e amministrativi",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s1",
+      "label": "Templi e spazi di banchetto",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s2",
+      "label": "Brewery e laboratori",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s3",
+      "label": "Canali e campi sulla mesa",
+      "layer": 3,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m0",
+      "target": "o0",
+      "status": "documentato",
+      "label": "La pietra vulcanica formava terrazze e muri di contenimento."
+    },
+    {
+      "source": "m0",
+      "target": "o1",
+      "status": "documentato",
+      "label": "La pietra locale era usata nelle murature e nei pavimenti."
+    },
+    {
+      "source": "m1",
+      "target": "o0",
+      "status": "documentato",
+      "label": "Terra e malta completavano terrazzamenti e contenimenti."
+    },
+    {
+      "source": "m1",
+      "target": "o1",
+      "status": "documentato",
+      "label": "Argilla e terra erano impiegate in murature e pavimenti."
+    },
+    {
+      "source": "m1",
+      "target": "o3",
+      "status": "documentato",
+      "label": "Argille fini contribuivano alle finiture."
+    },
+    {
+      "source": "m2",
+      "target": "o2",
+      "status": "sintesi",
+      "label": "Legno e fibre erano impiegati in carpenteria e coperture."
+    },
+    {
+      "source": "m3",
+      "target": "o3",
+      "status": "sintesi",
+      "label": "Pigmenti e intonaci erano applicati alle superfici."
+    },
+    {
+      "source": "o0",
+      "target": "c0",
+      "status": "documentato",
+      "label": "Terrazzamento e contenimento producevano terrazze, scale e accessi."
+    },
+    {
+      "source": "o0",
+      "target": "c1",
+      "status": "documentato",
+      "label": "I muri di contenimento definivano cortili e canalette."
+    },
+    {
+      "source": "o0",
+      "target": "c3",
+      "status": "documentato",
+      "label": "Le terrazze sostenevano superfici produttive e vasche."
+    },
+    {
+      "source": "o1",
+      "target": "c0",
+      "status": "documentato",
+      "label": "Muratura e pavimenti formavano accessi e gradoni."
+    },
+    {
+      "source": "o1",
+      "target": "c1",
+      "status": "documentato",
+      "label": "Muratura e preparazione dei pavimenti formavano cortili e canalette."
+    },
+    {
+      "source": "o1",
+      "target": "c3",
+      "status": "documentato",
+      "label": "Pavimenti e murature definivano focolari e aree produttive."
+    },
+    {
+      "source": "o2",
+      "target": "c2",
+      "status": "sintesi",
+      "label": "Carpenteria e fibre formavano tetti e chiusure."
+    },
+    {
+      "source": "o2",
+      "target": "c1",
+      "status": "inferito",
+      "label": "Sostegni lignei erano integrati in cortili e ambienti."
+    },
+    {
+      "source": "o3",
+      "target": "c3",
+      "status": "documentato",
+      "label": "Intonacatura e finitura rivestivano vasche e superfici produttive."
+    },
+    {
+      "source": "o3",
+      "target": "c1",
+      "status": "documentato",
+      "label": "Le finiture erano applicate a muri, cortili e canalette."
+    },
+    {
+      "source": "c0",
+      "target": "s0",
+      "status": "documentato",
+      "label": "Terrazze, scale e accessi organizzavano recinti residenziali e amministrativi."
+    },
+    {
+      "source": "c0",
+      "target": "s1",
+      "status": "documentato",
+      "label": "Accessi e terrazze definivano templi e spazi di banchetto."
+    },
+    {
+      "source": "c0",
+      "target": "s3",
+      "status": "documentato",
+      "label": "Terrazze e canali sostenevano i campi sulla mesa."
+    },
+    {
+      "source": "c1",
+      "target": "s0",
+      "status": "documentato",
+      "label": "Muri e cortili formavano i recinti amministrativi."
+    },
+    {
+      "source": "c1",
+      "target": "s1",
+      "status": "documentato",
+      "label": "Cortili e canalette servivano templi e banchetti."
+    },
+    {
+      "source": "c1",
+      "target": "s2",
+      "status": "documentato",
+      "label": "Muri, cortili e canalette strutturavano brewery e laboratori."
+    },
+    {
+      "source": "c1",
+      "target": "s3",
+      "status": "documentato",
+      "label": "Canalette e muri contribuivano al sistema agricolo."
+    },
+    {
+      "source": "c2",
+      "target": "s0",
+      "status": "sintesi",
+      "label": "Recinti residenziali e amministrativi richiedevano coperture."
+    },
+    {
+      "source": "c2",
+      "target": "s1",
+      "status": "sintesi",
+      "label": "Spazi di banchetto e templi comprendevano coperture leggere."
+    },
+    {
+      "source": "c2",
+      "target": "s2",
+      "status": "sintesi",
+      "label": "Brewery e laboratori richiedevano tetti e chiusure."
+    },
+    {
+      "source": "c3",
+      "target": "s1",
+      "status": "documentato",
+      "label": "Focolari e superfici preparate servivano i banchetti."
+    },
+    {
+      "source": "c3",
+      "target": "s2",
+      "status": "documentato",
+      "label": "Vasche, focolari e superfici produttive caratterizzavano brewery e laboratori."
+    }
+  ]
+}

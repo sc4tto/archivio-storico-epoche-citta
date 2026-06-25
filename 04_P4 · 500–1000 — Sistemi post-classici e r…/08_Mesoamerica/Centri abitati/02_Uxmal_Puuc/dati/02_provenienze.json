@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Uxmal",
+      "lat": 20.359,
+      "lon": -89.7713,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "kabah",
+      "label": "Kabah",
+      "lat": 20.248,
+      "lon": -89.65,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "sayil",
+      "label": "Sayil",
+      "lat": 20.176,
+      "lon": -89.652,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "labna",
+      "label": "Labná",
+      "lat": 20.173,
+      "lon": -89.579,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "oxk",
+      "label": "Oxkintok",
+      "lat": 20.561,
+      "lon": -89.949,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "coast",
+      "label": "Costa settentrionale dello Yucatán",
+      "lat": 21.25,
+      "lon": -89.75,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "chichen",
+      "label": "Chichén Itzá",
+      "lat": 20.684,
+      "lon": -88.568,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "kabah",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sacbé e rete politica",
+      "food": "derrate e maestranze"
+    },
+    {
+      "source": "sayil",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete Puuc",
+      "food": "ceramiche e prodotti agricoli"
+    },
+    {
+      "source": "labna",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoi regionali",
+      "food": "pietra, cibo e persone"
+    },
+    {
+      "source": "oxk",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "scambi nella regione occidentale",
+      "food": "beni e tecniche"
+    },
+    {
+      "source": "coast",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "rotte verso saline e porti",
+      "food": "sale e prodotti marini"
+    },
+    {
+      "source": "chichen",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "contatti politici e commerciali",
+      "food": "beni di prestigio e idee"
+    }
+  ]
+}

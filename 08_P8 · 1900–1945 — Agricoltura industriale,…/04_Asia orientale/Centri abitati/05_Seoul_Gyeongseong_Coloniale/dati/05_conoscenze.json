@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Seoul–Gyeongseong sotto dominio giapponese",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Trasporti e infrastrutture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Ferrovie, tram, porti e strade moderne",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Acqua, elettricità, telegrafo e sanità urbana",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Economia urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "ferrovie, industria, commercio, amministrazione e servizi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Mercati, manifatture, finanza e lavoro salariato",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Politica e istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Impero coreano finale, Governo generale e movimento indipendentista",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Municipalità, amministrazioni, polizia e apparati militari",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società e migrazioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "coreani, coloni giapponesi, operai, studenti, commercianti e migranti rurali",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Quartieri, associazioni, scuole, università e stampa",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Conflitti e vulnerabilità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "colonialismo giapponese, repressione, assimilazione, lavoro coatto, requisizioni e guerra",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Imperialismo, guerre sino-giapponesi, colonialismo giapponese e distruzioni belliche",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

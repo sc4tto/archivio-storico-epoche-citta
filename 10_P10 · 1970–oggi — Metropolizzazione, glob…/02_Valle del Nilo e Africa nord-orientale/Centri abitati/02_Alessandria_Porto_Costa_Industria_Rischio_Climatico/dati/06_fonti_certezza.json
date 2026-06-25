@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Alessandria è il principale porto mediterraneo dell’Egitto e un importante centro industriale.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "AL3"
+  },
+  {
+    "claim": "Il rischio di allagamento costiero e innalzamento del mare minaccia infrastrutture, abitazioni e attività economiche.",
+    "theme": "clima",
+    "status": "documentato",
+    "source": "AL1; AL2"
+  },
+  {
+    "claim": "La resilienza richiede drenaggio urbano, protezione costiera e pianificazione sensibile all’acqua.",
+    "theme": "adattamento",
+    "status": "documentato",
+    "source": "AL1"
+  },
+  {
+    "claim": "Il corridoio ferroviario con il Cairo è oggetto di un progetto logistico della Banca Mondiale.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "AL4"
+  },
+  {
+    "claim": "Le politiche climatiche devono includere i quartieri e i lavoratori più esposti, non soltanto gli asset portuali.",
+    "theme": "giustizia climatica",
+    "status": "sintesi",
+    "source": "AL1; AL3"
+  },
+  {
+    "claim": "Alessandria, porto, costa, industria e rischio climatico è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "L’eventuale espropriazione o ricollocazione di residenti per opere costiere, portuali o immobiliari non è presentata come neutrale; l’accesso alla costa, la salute dei lavoratori e la protezione dei quartieri popolari sono questioni di giustizia ambientale.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "phases": [
+    "600–700",
+    "700–800",
+    "800–900",
+    "900–1020"
+  ],
+  "items": [
+    {
+      "id": "b1",
+      "label": "Fondazione e terrazzamento della mesa",
+      "lane": "Urbanistica",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "b2",
+      "label": "Costruzione di recinti, residenze e templi",
+      "lane": "Monumentalità",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "b3",
+      "label": "Sviluppo di canali e campi irrigati",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "b4",
+      "label": "Produzione specializzata di chicha",
+      "lane": "Produzione",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "b5",
+      "label": "Banchetti e negoziazioni di frontiera",
+      "lane": "Rituale",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "b6",
+      "label": "Relazioni con comunità Tiwanaku vicine",
+      "lane": "Politica",
+      "start": 1,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "b7",
+      "label": "Rottura rituale di vasellame e incendio",
+      "lane": "Rituale",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "b8",
+      "label": "Abbandono dell’enclave",
+      "lane": "Abitato",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    }
+  ]
+}

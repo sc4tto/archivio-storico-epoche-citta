@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Rapa Nui, ahu e moai",
+    "site": "Rapa Nui — Rano Raraku e Ahu Tongariki",
+    "modern_location": "Isola di Pasqua, Cile",
+    "coordinates": {
+      "lat": -27.1258,
+      "lon": -109.2767
+    },
+    "scope": "Rapa Nui fra 1000 e 1500, dalla crescita dei lignaggi e dei santuari costieri alla produzione, al trasporto e all’erezione dei moai.",
+    "version": "1.0",
+    "warning": "La data della prima colonizzazione e le spiegazioni del cambiamento ambientale sono dibattute. Il modulo non presenta il collasso ecologico come causa unica e non estende automaticamente al periodo P5 il culto dell’uomo-uccello più tardo."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "RN1",
+      "title": "UNESCO — Rapa Nui National Park",
+      "use": "Ahu, moai, cronologia dall’XI al XVI secolo e paesaggio culturale.",
+      "url": "https://whc.unesco.org/en/list/715/"
+    },
+    {
+      "id": "RN2",
+      "title": "Museo Antropológico Padre Sebastián Englert",
+      "use": "Archeologia, collezioni e cultura Rapa Nui.",
+      "url": "https://www.museorapanui.gob.cl/"
+    },
+    {
+      "id": "RN3",
+      "title": "Chile — Consejo de Monumentos Nacionales, Rapa Nui",
+      "use": "Tutela e descrizione del patrimonio archeologico.",
+      "url": "https://www.monumentos.gob.cl/"
+    },
+    {
+      "id": "RN4",
+      "title": "Jo Anne Van Tilburg — Easter Island Statue Project",
+      "use": "Produzione, cave e trasporto dei moai.",
+      "url": "https://www.eisp.org/"
+    },
+    {
+      "id": "RN5",
+      "title": "UNESCO Nomination and Periodic Reporting — Rapa Nui",
+      "use": "Integrità, strutture produttive, villaggi e paesaggio.",
+      "url": "https://whc.unesco.org/en/list/715/documents/"
+    }
+  ]
+}

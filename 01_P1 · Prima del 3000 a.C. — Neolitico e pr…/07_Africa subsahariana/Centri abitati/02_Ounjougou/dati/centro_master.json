@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Ounjougou — modulo multi-grafo",
+    "short_name": "Ounjougou",
+    "site": "Complesso archeologico di Ounjougou",
+    "modern_location": "Valle superiore dello Yamé, altopiano di Bandiagara, Mali",
+    "coordinates": {
+      "lat": 14.42,
+      "lon": -3.52
+    },
+    "scope": "Complesso di oltre cento località con una lunga sequenza paleoambientale e archeologica; il modulo enfatizza l’Olocene antico, la ceramica precoce, la raccolta intensiva di graminacee e le industrie litiche.",
+    "version": "1.0-blocco_08_p1_africa_subsahariana_5_centri_v1",
+    "warning": "Il termine Ounjougou indica un complesso di siti e non un singolo villaggio. Le definizioni di “proto-agricoltura” e “Neolitico precoce” sono interpretative e non equivalgono a domesticazione certa."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "OUNJOUGOU_OFFICIAL",
+      "title": "Ounjougou — Human settlement and palaeoenvironment in West Africa",
+      "url": "https://www.ounjougou.org/en/",
+      "use": "sequenza, contesto geografico, ricerca e cronologia"
+    },
+    {
+      "id": "ANTIQUITY_OUNJOUGOU",
+      "title": "Huysecom et al. — Ounjougou (Mali): A history of Holocene settlement at the southern edge of the Sahara",
+      "url": "https://doi.org/10.1017/S0003598X00113237",
+      "use": "occupazione olocenica, ambiente e tecnologia"
+    },
+    {
+      "id": "PALAEO_OUNJOUGOU",
+      "title": "Neumann et al. — The Early Holocene palaeoenvironment of Ounjougou",
+      "url": "https://doi.org/10.1016/j.palaeo.2009.03.003",
+      "use": "fitoliti, vegetazione e ambiente dell’Olocene antico"
+    }
+  ]
+}

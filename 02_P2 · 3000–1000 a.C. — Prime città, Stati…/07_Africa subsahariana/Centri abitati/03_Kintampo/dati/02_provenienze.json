@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Kintampo",
+      "lat": 8.06,
+      "lon": -1.73,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "birimi",
+      "label": "Birimi",
+      "lat": 10.3,
+      "lon": -0.6,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "ntereso",
+      "label": "Ntereso",
+      "lat": 8.7,
+      "lon": -1.6,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "bosumpra",
+      "label": "Bosumpra Cave",
+      "lat": 5.85,
+      "lon": -0.2,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "volta",
+      "label": "Bacino del Volta",
+      "lat": 8.0,
+      "lon": -0.5,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "coast",
+      "label": "Costa del Golfo di Guinea",
+      "lat": 5.2,
+      "lon": -1.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "birimi",
+      "target": "site",
+      "label": "miglio e ceramiche",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "ntereso",
+      "target": "site",
+      "label": "pesca, case e utensili",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "bosumpra",
+      "target": "site",
+      "label": "contatti con raccoglitori forestali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "volta",
+      "target": "site",
+      "label": "acqua, mobilità e insediamenti",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "coast",
+      "target": "site",
+      "label": "conchiglie e beni di scambio",
+      "status": "documentato",
+      "food": "no"
+    }
+  ]
+}

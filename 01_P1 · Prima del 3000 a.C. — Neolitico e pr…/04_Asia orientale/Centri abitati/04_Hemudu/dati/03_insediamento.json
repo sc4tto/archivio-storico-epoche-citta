@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Hemudu iniziale",
+    "Hemudu medio",
+    "Hemudu tardo",
+    "Trasformazioni regionali",
+    "Fine della sequenza"
+  ],
+  "items": [
+    {
+      "id": "piles",
+      "label": "Edifici lignei con pali e impalcati",
+      "lane": "Abitazioni",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "floors",
+      "label": "Pavimenti sopraelevati o drenati",
+      "lane": "Costruzione",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "wet",
+      "label": "Adattamento a suoli umidi",
+      "lane": "Impianto",
+      "start": 0,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "storage",
+      "label": "Recipienti e aree di deposito",
+      "lane": "Conservazione",
+      "start": 0,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "craft",
+      "label": "Lavorazione di legno, osso e ceramica",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "rice",
+      "label": "Aree con resti di riso e strumenti agricoli",
+      "lane": "Agricoltura",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "renew",
+      "label": "Ricostruzione di strutture lignee",
+      "lane": "Manutenzione",
+      "start": 0,
+      "end": 3,
+      "status": "inferito"
+    }
+  ]
+}

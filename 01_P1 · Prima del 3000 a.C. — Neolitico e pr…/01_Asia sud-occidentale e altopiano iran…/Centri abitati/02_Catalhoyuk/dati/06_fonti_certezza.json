@@ -1,0 +1,62 @@
+[
+  {
+    "claim": "Due tell e 18 livelli neolitici nel tell orientale",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "UNESCO_1405"
+  },
+  {
+    "claim": "Occupazione neolitica del tell orientale circa 7400–6200 a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "UNESCO_1405"
+  },
+  {
+    "claim": "Case addossate senza strade e accesso dai tetti",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "UNESCO_1405"
+  },
+  {
+    "claim": "Pitture, rilievi e sculture documentano pratiche simboliche",
+    "theme": "Simbolico",
+    "status": "documentato",
+    "source": "UNESCO_1405"
+  },
+  {
+    "claim": "Economia agricola con cereali, legumi e ovicaprini",
+    "theme": "Alimentazione",
+    "status": "sintesi",
+    "source": "CATAL_ARCHIVE"
+  },
+  {
+    "claim": "Ossidiana proveniente da aree cappadociche",
+    "theme": "Provenienze",
+    "status": "sintesi",
+    "source": "CATAL_ARCHIVE"
+  },
+  {
+    "claim": "I tetti funzionavano anche come spazi di circolazione",
+    "theme": "Insediamento",
+    "status": "sintesi",
+    "source": "UNESCO_1405; CATAL_ARCHIVE"
+  },
+  {
+    "claim": "Le abitazioni erano tutte equivalenti sul piano sociale",
+    "theme": "Società",
+    "status": "non_documentato",
+    "source": "L’interpretazione egualitaria richiede analisi di fase e contesto"
+  },
+  {
+    "claim": "Il dipinto con due picchi è certamente una mappa",
+    "theme": "Simbolico",
+    "status": "non_documentato",
+    "source": "Interpretazione discussa; non adottata come dato certo"
+  },
+  {
+    "claim": "Importazione sistematica di derrate da lunga distanza",
+    "theme": "Commercio",
+    "status": "non_documentato",
+    "source": "Materiali esotici non equivalgono a scambio alimentare"
+  }
+]

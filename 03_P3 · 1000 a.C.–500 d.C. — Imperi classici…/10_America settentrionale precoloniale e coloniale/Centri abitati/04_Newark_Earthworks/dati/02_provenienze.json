@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Newark Earthworks",
+      "lat": 40.057,
+      "lon": -82.43,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "licking",
+      "label": "Fiume Licking",
+      "lat": 40.06,
+      "lon": -82.42,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "greatcircle",
+      "label": "Great Circle",
+      "lat": 40.041,
+      "lon": -82.426,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "octagon",
+      "label": "Octagon Earthworks",
+      "lat": 40.069,
+      "lon": -82.43,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "chillicothe",
+      "label": "Valle dello Scioto",
+      "lat": 39.33,
+      "lon": -83.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "continental",
+      "label": "Reti continentali orientali",
+      "lat": 40.0,
+      "lon": -90.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "licking",
+      "target": "site",
+      "label": "acqua, pesca e mobilità",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "greatcircle",
+      "target": "site",
+      "label": "processioni e uso cerimoniale",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "octagon",
+      "target": "site",
+      "label": "allineamenti lunari e raduni",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "chillicothe",
+      "target": "site",
+      "label": "forme geometriche e reti rituali",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "continental",
+      "target": "site",
+      "label": "rame, mica, conchiglie e persone",
+      "status": "documentato",
+      "food": "no"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Ur sorse in un paesaggio di canali e paludi del delta meridionale",
+    "theme": "Paesaggio",
+    "status": "documentato",
+    "source": "AHWAR_UNESCO"
+  },
+  {
+    "claim": "La città sviluppò templi, quartieri, archivi e opere idrauliche",
+    "theme": "Urbanizzazione",
+    "status": "documentato",
+    "source": "AHWAR_UNESCO"
+  },
+  {
+    "claim": "Il cimitero reale documenta forti differenze sociali nelle prime dinastie",
+    "theme": "Società",
+    "status": "documentato",
+    "source": "PENN_UR"
+  },
+  {
+    "claim": "Ur fu capitale di un sistema statale nel periodo Ur III",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "PENN_UR"
+  },
+  {
+    "claim": "Il commercio marittimo collegava Ur al Golfo Persico",
+    "theme": "Scambi",
+    "status": "documentato",
+    "source": "PENN_UR"
+  },
+  {
+    "claim": "Il porto antico è stato interamente scavato",
+    "theme": "Archeologia",
+    "status": "non_documentato",
+    "source": "UNESCO segnala che deve ancora essere scavato"
+  },
+  {
+    "claim": "Ogni tomba ricca apparteneva a un re identificato",
+    "theme": "Funerario",
+    "status": "non_documentato",
+    "source": "Identificazioni parziali e discusse"
+  },
+  {
+    "claim": "Ur fu abbandonata subito dopo la dinastia Ur III",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Occupazioni successive documentate"
+  }
+]

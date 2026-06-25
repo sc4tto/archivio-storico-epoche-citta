@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Khartoum turco-egiziana e mahdista",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Fiumi e territorio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Navigazione, piene e approdi",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Coltivazione stagionale e pascoli",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Amministrazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Governo turco-egiziano e tassazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Caserme, telegrafo e burocrazia",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Commercio coercitivo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Gomma, avorio e carovane",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Tratta schiavistica e violenza organizzata",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Conflitto",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Assedio, difesa e logistica",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Stato mahdista e spostamento a Omdurman",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Terra, mattoni e canne",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Argini, approdi e ricostruzioni",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

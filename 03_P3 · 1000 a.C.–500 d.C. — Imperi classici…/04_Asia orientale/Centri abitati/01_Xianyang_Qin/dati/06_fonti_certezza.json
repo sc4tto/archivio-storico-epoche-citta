@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Xianyang fu la capitale del Qin prima e dopo l’unificazione del 221 a.C.",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "XIA_CAMBRIDGE"
+  },
+  {
+    "claim": "Sono documentati palazzi, depositi e officine della città Qin",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "XIA_ARCH"
+  },
+  {
+    "claim": "Il mausoleo del Primo Imperatore riflette simbolicamente il piano della capitale",
+    "theme": "Paesaggio",
+    "status": "documentato",
+    "source": "XIA_UNESCO"
+  },
+  {
+    "claim": "La valle del Wei sostenne infrastrutture agricole e amministrative",
+    "theme": "Economia",
+    "status": "documentato",
+    "source": "XIA_CAMBRIDGE"
+  },
+  {
+    "claim": "La città partecipò alla standardizzazione imperiale",
+    "theme": "Amministrazione",
+    "status": "documentato",
+    "source": "XIA_CAMBRIDGE"
+  },
+  {
+    "claim": "È stata identificata con certezza una cinta continua dell’intera città",
+    "theme": "Urbanistica",
+    "status": "non_documentato",
+    "source": "Estensione urbana e mura restano discusse"
+  },
+  {
+    "claim": "Il mausoleo coincideva fisicamente con il centro di Xianyang",
+    "theme": "Topografia",
+    "status": "non_documentato",
+    "source": "Complesso funerario distinto dalla capitale"
+  },
+  {
+    "claim": "Ogni edificio palaziale noto ha una funzione certa",
+    "theme": "Funzione",
+    "status": "non_documentato",
+    "source": "Identificazioni funzionali parziali"
+  }
+]

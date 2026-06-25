@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Lothal — modulo multi-grafo",
+    "short_name": "Lothal",
+    "site": "Lothal: insediamento portuale harappano",
+    "modern_location": "Distretto di Ahmedabad, Gujarat, India",
+    "coordinates": {
+      "lat": 22.522,
+      "lon": 72.249
+    },
+    "scope": "Centro fortificato del Gujarat con città alta e bassa, drenaggi, piattaforme, magazzino, laboratori per perle e una grande vasca rettangolare tradizionalmente interpretata come bacino portuale collegato al Golfo di Khambhat.",
+    "version": "1.0-blocco_16_p2_asia_meridionale_5_centri_v1",
+    "warning": "L’identificazione della grande vasca come dockyard è sostenuta dalla candidatura UNESCO ma è stata contestata da alcuni studiosi, che propongono funzioni idrauliche alternative. La scheda mantiene entrambe le possibilità."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "LOTHAL_UNESCO",
+      "title": "UNESCO — Archaeological remains of a Harappa Port-Town, Lothal",
+      "url": "https://whc.unesco.org/en/tentativelists/5918/",
+      "use": "impianto urbano, magazzino, officina di perle e interpretazione portuale"
+    },
+    {
+      "id": "LOTHAL_ASI",
+      "title": "Archaeological Survey of India — Lothal",
+      "url": "https://asi.nic.in/",
+      "use": "scavi, reperti e conservazione"
+    },
+    {
+      "id": "LOTHAL_LESHNIK",
+      "title": "Leshnik — The Harappan “Port” at Lothal: Another View",
+      "url": "https://doi.org/10.1525/aa.1968.70.5.02a00070",
+      "use": "dibattito sulla funzione del bacino"
+    }
+  ]
+}

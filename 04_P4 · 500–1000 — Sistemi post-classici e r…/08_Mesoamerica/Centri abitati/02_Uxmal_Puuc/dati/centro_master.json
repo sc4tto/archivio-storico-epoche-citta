@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Uxmal e regione Puuc",
+    "site": "Uxmal / Óoxmáal",
+    "modern_location": "Stato dello Yucatán, Messico",
+    "coordinates": {
+      "lat": 20.359,
+      "lon": -89.7713
+    },
+    "scope": "Uxmal fra 700 e 1000, con attenzione all’architettura Puuc, alla raccolta dell’acqua, alla rete con Kabah, Sayil e Labná e alla crescita del centro politico-amministrativo.",
+    "version": "1.0",
+    "warning": "Le cronologie dei singoli edifici sono state più volte riviste. Il modulo distingue il periodo di massima costruzione fra VIII e X secolo dalle tradizioni storiche maya posteriori."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "U1",
+      "title": "UNESCO World Heritage Centre — Pre-Hispanic Town of Uxmal",
+      "use": "Cronologia, architettura, chultunes e rete Puuc.",
+      "url": "https://whc.unesco.org/en/list/791/"
+    },
+    {
+      "id": "U2",
+      "title": "INAH — Zona arqueológica de Uxmal",
+      "use": "Descrizione del sito, edifici e conservazione.",
+      "url": "https://www.inah.gob.mx/zonas/110-zona-arqueologica-de-uxmal"
+    },
+    {
+      "id": "U3",
+      "title": "George F. Andrews — Puuc Architecture",
+      "use": "Tipologie edilizie, rivestimenti e sequenze architettoniche.",
+      "url": "https://www.mesoweb.com/publications/Andrews/Puuc.html"
+    },
+    {
+      "id": "U4",
+      "title": "Nicholas Dunning — Lords of the Hills",
+      "use": "Paesaggio, suoli, acqua e insediamento nella regione Puuc.",
+      "url": "https://www.worldcat.org/title/23180364"
+    },
+    {
+      "id": "U5",
+      "title": "Jeff Karl Kowalski — The House of the Governor",
+      "use": "Architettura, iconografia e ruolo politico del complesso.",
+      "url": "https://www.worldcat.org/title/11783306"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Kintampo è una tradizione regionale con numerosi siti",
+    "theme": "Scala",
+    "status": "documentato",
+    "source": "KIN_CASEY"
+  },
+  {
+    "claim": "Il miglio perlato è documentato in contesti Kintampo",
+    "theme": "Agricoltura",
+    "status": "documentato",
+    "source": "KIN_DANDREA"
+  },
+  {
+    "claim": "La palma da olio ebbe un ruolo importante nella sussistenza",
+    "theme": "Arboricoltura",
+    "status": "documentato",
+    "source": "KIN_LOGAN"
+  },
+  {
+    "claim": "Sono attestati villaggi all’aperto e ripari rocciosi",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "KIN_CASEY"
+  },
+  {
+    "claim": "Perline di conchiglia indicano contatti verso la costa",
+    "theme": "Scambi",
+    "status": "documentato",
+    "source": "KIN_DANDREA"
+  },
+  {
+    "claim": "Kintampo fu una singola città capitale",
+    "theme": "Urbanizzazione",
+    "status": "non_documentato",
+    "source": "Complesso regionale"
+  },
+  {
+    "claim": "La migrazione sahariana è provata in ogni dettaglio",
+    "theme": "Popolazione",
+    "status": "non_documentato",
+    "source": "Modello interpretativo"
+  },
+  {
+    "claim": "Agricoltori e raccoglitori non ebbero contatti",
+    "theme": "Società",
+    "status": "non_documentato",
+    "source": "Coesistenza e interazione possibili"
+  }
+]

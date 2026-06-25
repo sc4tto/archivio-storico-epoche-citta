@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Cairo",
+      "lat": 30.0444,
+      "lon": 31.2357,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "fus",
+      "label": "Fustat",
+      "lat": 30.006,
+      "lon": 31.23,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "giz",
+      "label": "Giza",
+      "lat": 30.013,
+      "lon": 31.209,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "dam",
+      "label": "Damietta",
+      "lat": 31.417,
+      "lon": 31.814,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "ale",
+      "label": "Alessandria",
+      "lat": 31.2,
+      "lon": 29.918,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "qus",
+      "label": "Qus",
+      "lat": 25.915,
+      "lon": 32.763,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "ayd",
+      "label": "Aydhab",
+      "lat": 22.2,
+      "lon": 36.5,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "fus",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "asse urbano e portuale",
+      "food": "artigiani, granaglie e manufatti"
+    },
+    {
+      "source": "giz",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "campi e approdi del Nilo",
+      "food": "cereali, frutta e bestiame"
+    },
+    {
+      "source": "dam",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ramo orientale del Delta",
+      "food": "grano, lino e merci mediterranee"
+    },
+    {
+      "source": "ale",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "asse commerciale occidentale",
+      "food": "metalli, legname e merci europee"
+    },
+    {
+      "source": "qus",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoio del Nilo superiore",
+      "food": "spezie e beni del Mar Rosso"
+    },
+    {
+      "source": "ayd",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "porto del Mar Rosso",
+      "food": "spezie, tessili e pellegrini"
+    }
+  ]
+}

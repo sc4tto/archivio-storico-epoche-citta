@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Bosumpra Cave",
+      "lat": 6.67,
+      "lon": -0.75,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "plateau",
+      "label": "Altopiano di Kwahu",
+      "lat": 6.7,
+      "lon": -0.78,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "forest",
+      "label": "Margine foresta-savana",
+      "lat": 6.55,
+      "lon": -0.7,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": 24,
+      "anchor": "start"
+    },
+    {
+      "id": "volta",
+      "label": "Bacino del Volta",
+      "lat": 7.0,
+      "lon": 0.1,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "lowland",
+      "label": "Basse terre Akan",
+      "lat": 6.0,
+      "lon": -1.0,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "westafrica",
+      "label": "Reti litiche dell’Africa occidentale",
+      "lat": 8.0,
+      "lon": -2.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "plateau",
+      "target": "site",
+      "label": "quarzo, pietra e ripari naturali",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "forest",
+      "target": "site",
+      "label": "frutti, noci, tuberi e fauna",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "volta",
+      "target": "site",
+      "label": "corridoi d’acqua e mobilità",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "lowland",
+      "target": "site",
+      "label": "risorse dei diversi ecotoni",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "westafrica",
+      "target": "site",
+      "label": "confronti ceramici e litici",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Prime frequentazioni della collina",
+    "Costruzione iniziale dei terrapieni",
+    "Ampliamenti in più fasi",
+    "Uso cerimoniale e raduni",
+    "Occupazioni tarde e tutela moderna"
+  ],
+  "items": [
+    {
+      "id": "walls",
+      "label": "Terrapieni lungo il margine collinare",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "gateways",
+      "label": "Numerosi accessi e passaggi",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "terraces",
+      "label": "Terrazze e piazze livellate",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "moorehead",
+      "label": "Moorehead Circle e strutture lignee",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "roads",
+      "label": "Percorsi interni e collegamenti",
+      "lane": "Paesaggio",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "gatherings",
+      "label": "Raduni periodici",
+      "lane": "Organizzazione",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "later",
+      "label": "Occupazioni Fort Ancient più tarde",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

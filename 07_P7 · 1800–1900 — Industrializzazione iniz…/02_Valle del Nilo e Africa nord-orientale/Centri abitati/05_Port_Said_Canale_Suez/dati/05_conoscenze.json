@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Port Said e il Canale di Suez",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Ingegneria del canale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Dragaggio, scavo e riporto",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Moli, frangiflutti e segnalamento",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Navigazione a vapore",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Carbone, acqua e manutenzione",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Pilotaggio, transito e dogane",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Lavoro e coercizione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Corvée e mortalità nei cantieri",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Migrazione, salari e segregazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Sanità portuale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Quarantena, acqua dolce ed epidemie",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Ospedali e igiene dei quartieri",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Economia globale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Posta, passeggeri e merci",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Compagnia, debito e controllo strategico",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Lake Mungo — modulo multi-grafo",
+    "short_name": "Lake Mungo",
+    "site": "Paesaggio archeologico del Lago Mungo, regione dei laghi Willandra",
+    "modern_location": "Nuovo Galles del Sud sud-occidentale, Australia",
+    "coordinates": {
+      "lat": -33.75,
+      "lon": 143.12
+    },
+    "scope": "Paesaggio lacustre pleistocenico con focolari, strumenti, resti alimentari, sepolture e una lunga relazione fra comunità umane, dune lunette e oscillazioni climatiche.",
+    "version": "1.0-blocco_12_p1_oceania_pacifico_5_centri_v1",
+    "warning": "Le cronologie dei resti umani furono a lungo controverse; il modulo segue le sintesi UNESCO e le datazioni pubblicate nel 2003, evitando di trasformare il paesaggio archeologico in una singola città."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "WILLANDRA_UNESCO",
+      "title": "UNESCO — Willandra Lakes Region",
+      "url": "https://whc.unesco.org/en/list/167/",
+      "use": "valore universale, paesaggio, occupazione e rituali funerari"
+    },
+    {
+      "id": "MUNGO_NATURE_2003",
+      "title": "Bowler et al. — New ages for human occupation and climatic change at Lake Mungo, Australia",
+      "url": "https://doi.org/10.1038/nature01383",
+      "use": "cronologia delle occupazioni e dei resti umani"
+    },
+    {
+      "id": "MUNGO_GRINDING",
+      "title": "Fullagar et al. — Evidence for Pleistocene seed grinding at Lake Mungo",
+      "url": "https://doi.org/10.1002/arco.5053",
+      "use": "macinazione di semi e lavorazione vegetale"
+    }
+  ]
+}

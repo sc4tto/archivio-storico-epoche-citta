@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Bangkok, migrazione rurale, strade e modernizzazione autoritaria",
+    "site": "Bangkok, migrazione rurale, strade e modernizzazione autoritaria",
+    "modern_location": "Bangkok, Thailandia",
+    "coordinates": {
+      "lat": 13.7563,
+      "lon": 100.5018
+    },
+    "scope": "Bangkok fra 1945 e 1970: centralità della monarchia costituzionale, colpi di Stato e governi militari, rapida migrazione rurale, espansione stradale, primo piano metropolitano del 1960, crescita industriale e pressione su canali, alloggi e servizi.",
+    "version": "1.0",
+    "warning": "Sono esclusi la rivolta democratica del 1973, il Bangkok Metropolitan Administration del 1972, la rete ferroviaria urbana contemporanea e gli sviluppi successivi al 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "BA1",
+      "title": "Eindhoven University of Technology — Planning System of Thailand, with Emphasis on Urban Planning",
+      "use": "Storia degli strumenti urbanistici e del piano di Bangkok.",
+      "url": "https://research.tue.nl/files/4354418/314327.pdf"
+    },
+    {
+      "id": "BA2",
+      "title": "Transportation Research Procedia — Planning Our Way Ahead: Thailand’s Transport Master Plan",
+      "use": "Origini della pianificazione dei trasporti e Greater Bangkok Plan del 1960.",
+      "url": "https://doi.org/10.1016/j.trpro.2017.05.222"
+    },
+    {
+      "id": "BA3",
+      "title": "Demography — Urbanization in Thailand, 1947–1967",
+      "use": "Migrazione rurale, crescita urbana e primato di Bangkok.",
+      "url": "https://www.jstor.org/stable/2060610"
+    },
+    {
+      "id": "BA4",
+      "title": "Eastern Asia Society for Transportation Studies — Urban Planning and Transport in Bangkok",
+      "use": "Sviluppo della rete viaria, piani e rapporto tra trasporto e forma urbana.",
+      "url": "https://easts.info/on-line/journal_06/4300.pdf"
+    }
+  ]
+}

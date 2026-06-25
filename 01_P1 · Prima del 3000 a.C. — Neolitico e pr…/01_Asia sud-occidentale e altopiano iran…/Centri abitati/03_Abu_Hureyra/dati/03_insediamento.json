@@ -1,0 +1,83 @@
+{
+  "phases": [
+    "Abu Hureyra 1 iniziale",
+    "Abu Hureyra 1 tardo",
+    "Intervallo/riassetto",
+    "Abu Hureyra 2 iniziale",
+    "Abu Hureyra 2 maturo"
+  ],
+  "items": [
+    {
+      "id": "pit",
+      "label": "Capanne circolari o semi-sotterranee",
+      "lane": "Abitazioni",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "posts",
+      "label": "Tetti su pali, canne e frasche",
+      "lane": "Costruzione",
+      "start": 0,
+      "end": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "storage",
+      "label": "Fosse e depositi per alimenti",
+      "lane": "Conservazione",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "year",
+      "label": "Occupazione sedentaria o prolungata",
+      "lane": "Impianto",
+      "start": 0,
+      "end": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "rect",
+      "label": "Case rettangolari in mattoni crudi",
+      "lane": "Abitazioni",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "rooms",
+      "label": "Ambienti multipli e vani di deposito",
+      "lane": "Conservazione",
+      "start": 3,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "fields",
+      "label": "Spazi agricoli nell’hinterland",
+      "lane": "Produttive",
+      "start": 3,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "herding",
+      "label": "Aree di custodia animale presso il villaggio",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "tell",
+      "label": "Accumulo progressivo del tell",
+      "lane": "Impianto",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

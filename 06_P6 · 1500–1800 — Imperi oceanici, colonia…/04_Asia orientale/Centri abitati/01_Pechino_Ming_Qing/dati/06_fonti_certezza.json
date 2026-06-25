@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Pechino rimase la capitale dei Ming e poi dei Qing durante il periodo 1500–1800.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "BJ1; BJ4"
+  },
+  {
+    "claim": "L’asse centrale organizzava palazzi, porte, altari e spazi cerimoniali.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "BJ1; BJ2; BJ3"
+  },
+  {
+    "claim": "La Città Proibita fu il cuore della corte e dell’amministrazione imperiale.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "BJ2"
+  },
+  {
+    "claim": "Il Grande Canale fu essenziale per l’approvvigionamento granario della capitale.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "BJ4"
+  },
+  {
+    "claim": "L’architettura palatina combinava piattaforme murarie e telai lignei.",
+    "theme": "tecniche",
+    "status": "documentato",
+    "source": "BJ2; BJ3"
+  },
+  {
+    "claim": "Il 1644 segnò la transizione dalla dinastia Ming alla dinastia Qing.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "BJ4"
+  },
+  {
+    "claim": "Mercati, hutong e botteghe sostenevano una vasta popolazione urbana.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "BJ4"
+  },
+  {
+    "claim": "Le trasformazioni successive al 1800 sono fuori dal limite del modulo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "BJ4"
+  }
+]

@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Karkarichinkat Nord",
+      "lat": 17.9,
+      "lon": -0.2,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "south",
+      "label": "Karkarichinkat Sud",
+      "lat": 17.8,
+      "lon": -0.18,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "tilemsi",
+      "label": "Valle del Tilemsi",
+      "lat": 17.5,
+      "lon": -0.5,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "gao",
+      "label": "Regione di Gao",
+      "lat": 16.27,
+      "lon": -0.05,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "sahara",
+      "label": "Sahara centrale",
+      "lat": 21.0,
+      "lon": 5.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "niger",
+      "label": "Medio Niger",
+      "lat": 15.0,
+      "lon": -4.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "south",
+      "target": "site",
+      "label": "mobilità fra aree funerarie e domestiche",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "tilemsi",
+      "target": "site",
+      "label": "pascoli, acqua e coltivazioni",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "gao",
+      "target": "site",
+      "label": "corridoi regionali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "sahara",
+      "target": "site",
+      "label": "mandrie e tradizioni pastorali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "niger",
+      "target": "site",
+      "label": "miglio e reti meridionali",
+      "status": "sintesi",
+      "food": "sì"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "nodes": [
+    {
+      "id": "env1",
+      "label": "Margine delle lomas presso Chilca",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "env2",
+      "label": "Costa, spiagge e valle fluviale",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "env3",
+      "label": "Nebbie stagionali in ambiente arido",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "crop1",
+      "label": "Frutti di lomas, semi e piante raccolte",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "crop2",
+      "label": "Cotone e fibre nelle fasi tarde",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "animal",
+      "label": "Uccelli, piccoli mammiferi e fauna terrestre",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "aquatic",
+      "label": "Pesci, molluschi e risorse marine",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "wild",
+      "label": "Cactus, algarrobo e piante spontanee",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "cultivate",
+      "label": "Raccolta e coltivazione limitata",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "herd",
+      "label": "Caccia terrestre",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "fishhunt",
+      "label": "Pesca, raccolta e conservazione marina",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "grind",
+      "label": "Macinazione e frantumazione",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "cook",
+      "label": "Cottura in focolari interni ed esterni",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "store",
+      "label": "Essiccazione, salatura e deposito",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "butcher",
+      "label": "Pulizia e lavorazione del pesce",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "meals",
+      "label": "Pasti fortemente integrati con risorse marine",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "evidence",
+      "label": "Case, sepolture, fauna e utensili",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "refuse",
+      "label": "Conchiglie, cenere e grandi scarichi",
+      "layer": 4,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "env1",
+      "target": "crop1",
+      "label": "ambiente produttivo",
+      "status": "sintesi"
+    },
+    {
+      "source": "env1",
+      "target": "crop2",
+      "label": "ambiente produttivo",
+      "status": "sintesi"
+    },
+    {
+      "source": "env2",
+      "target": "aquatic",
+      "label": "risorse locali",
+      "status": "sintesi"
+    },
+    {
+      "source": "env3",
+      "target": "animal",
+      "label": "habitat animale",
+      "status": "sintesi"
+    },
+    {
+      "source": "env3",
+      "target": "wild",
+      "label": "raccolta e caccia",
+      "status": "sintesi"
+    },
+    {
+      "source": "crop1",
+      "target": "cultivate",
+      "label": "produzione o raccolta",
+      "status": "sintesi"
+    },
+    {
+      "source": "crop2",
+      "target": "cultivate",
+      "label": "produzione o raccolta",
+      "status": "sintesi"
+    },
+    {
+      "source": "animal",
+      "target": "herd",
+      "label": "caccia o gestione",
+      "status": "documentato"
+    },
+    {
+      "source": "aquatic",
+      "target": "fishhunt",
+      "label": "pesca o raccolta",
+      "status": "documentato"
+    },
+    {
+      "source": "wild",
+      "target": "fishhunt",
+      "label": "caccia o raccolta",
+      "status": "documentato"
+    },
+    {
+      "source": "cultivate",
+      "target": "grind",
+      "label": "trasformazione vegetale",
+      "status": "documentato"
+    },
+    {
+      "source": "cultivate",
+      "target": "store",
+      "label": "conservazione",
+      "status": "sintesi"
+    },
+    {
+      "source": "herd",
+      "target": "butcher",
+      "label": "prodotti animali",
+      "status": "documentato"
+    },
+    {
+      "source": "fishhunt",
+      "target": "butcher",
+      "label": "trattamento delle prede",
+      "status": "documentato"
+    },
+    {
+      "source": "grind",
+      "target": "meals",
+      "label": "preparazione",
+      "status": "documentato"
+    },
+    {
+      "source": "cook",
+      "target": "meals",
+      "label": "cottura",
+      "status": "documentato"
+    },
+    {
+      "source": "store",
+      "target": "evidence",
+      "label": "depositi o contenitori",
+      "status": "documentato"
+    },
+    {
+      "source": "butcher",
+      "target": "evidence",
+      "label": "resti faunistici",
+      "status": "documentato"
+    },
+    {
+      "source": "cook",
+      "target": "refuse",
+      "label": "cenere e residui",
+      "status": "documentato"
+    }
+  ]
+}

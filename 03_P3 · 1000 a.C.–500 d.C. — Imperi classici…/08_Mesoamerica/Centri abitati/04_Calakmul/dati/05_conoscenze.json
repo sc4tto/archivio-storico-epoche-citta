@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Calakmul",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Paesaggio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Foresta tropicale",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Insediamenti multipli",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Ambiente incontaminato",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Acqua",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Aguadas",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Serbatoi modificati",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Acqua perenne abbondante",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Politica",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Dinastia Kaan",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Alleanze",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Apogeo completo prima del 500",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Scrittura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Stele",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Titoli dinastici",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Testi tutti leggibili",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Grandi piattaforme",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Palazzi",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Fasi tutte contemporanee",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Economia",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Agricoltura",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Scambi regionali",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Mercato centrale identificato con certezza",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

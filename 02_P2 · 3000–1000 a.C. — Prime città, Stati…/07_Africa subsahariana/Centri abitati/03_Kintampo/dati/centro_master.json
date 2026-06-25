@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Kintampo — modulo multi-grafo",
+    "short_name": "Kintampo",
+    "site": "Complesso archeologico di Kintampo",
+    "modern_location": "Ghana centrale e settentrionale",
+    "coordinates": {
+      "lat": 8.06,
+      "lon": -1.73
+    },
+    "scope": "Tradizione archeologica diffusa fra savana e margine forestale, con villaggi all’aperto e ripari, miglio perlato, palma da olio, animali domestici, ceramica, pietra levigata e reti con la costa.",
+    "version": "1.0-blocco_20_p2_africa_subsahariana_5_centri_v1",
+    "warning": "Kintampo è un complesso regionale, non un singolo popolo omogeneo. La relazione con i gruppi Punpun e le ipotesi migratorie sahariane sono modelli interpretativi, non identità dimostrate."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "KIN_DANDREA",
+      "title": "D’Andrea e Casey — Pearl Millet and Kintampo Subsistence",
+      "url": "https://link.springer.com/journal/10437",
+      "use": "miglio, archeobotanica e sussistenza"
+    },
+    {
+      "id": "KIN_CASEY",
+      "title": "Casey — The Kintampo Complex: The Late Holocene on the Gambaga Escarpment",
+      "url": "https://www.archaeopress.com/Archaeopress/",
+      "use": "siti, ceramica e insediamento"
+    },
+    {
+      "id": "KIN_LOGAN",
+      "title": "Logan e D’Andrea — Oil palm, arboriculture and changing subsistence practices during Kintampo times",
+      "url": "https://www.sciencedirect.com/journal/quaternary-international",
+      "use": "palma da olio e gestione vegetale"
+    }
+  ]
+}

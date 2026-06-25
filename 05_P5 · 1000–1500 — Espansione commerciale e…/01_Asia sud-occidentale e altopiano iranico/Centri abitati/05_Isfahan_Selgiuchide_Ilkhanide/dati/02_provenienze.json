@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Isfahan",
+      "lat": 32.6546,
+      "lon": 51.668,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "zay",
+      "label": "Valle dello Zayandeh Rud",
+      "lat": 32.58,
+      "lon": 51.5,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "kas",
+      "label": "Kashan",
+      "lat": 33.98,
+      "lon": 51.44,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "yaz",
+      "label": "Yazd",
+      "lat": 31.9,
+      "lon": 54.36,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "shi",
+      "label": "Shiraz",
+      "lat": 29.59,
+      "lon": 52.58,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "ray",
+      "label": "Ray",
+      "lat": 35.6,
+      "lon": 51.44,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "bag",
+      "label": "Baghdad",
+      "lat": 33.315,
+      "lon": 44.366,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "zay",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali dello Zayandeh Rud",
+      "food": "cereali, frutta e acqua"
+    },
+    {
+      "source": "kas",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotta settentrionale",
+      "food": "ceramiche e derrate"
+    },
+    {
+      "source": "yaz",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotta orientale",
+      "food": "tessili, spezie e metalli"
+    },
+    {
+      "source": "shi",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "asse verso Fars",
+      "food": "vino, frutta e artigiani"
+    },
+    {
+      "source": "ray",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoio selgiuchide",
+      "food": "funzionari e merci"
+    },
+    {
+      "source": "bag",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "rotta occidentale",
+      "food": "libri, spezie e tessili"
+    }
+  ]
+}

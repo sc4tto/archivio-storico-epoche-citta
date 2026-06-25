@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Melaka, sultanato e porto dello stretto",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Monsoni e pilotaggio dello stretto",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Costruzione e riparazione navale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Pesi, dazi e magazzini",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Mediazione multiculturale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Urbanistica portuale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Approdi e quartieri mercantili",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Drenaggio tropicale",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Religione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Islam di corte",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Comunità religiose mercantili",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Diplomazia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Relazioni con la Cina Ming",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Alleanze regionali",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

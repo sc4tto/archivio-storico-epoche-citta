@@ -1,0 +1,83 @@
+{
+  "phases": [
+    "Neolitico iniziale",
+    "Neolitico medio",
+    "Neolitico tardo",
+    "Transizione",
+    "Calcolitico occidentale"
+  ],
+  "items": [
+    {
+      "id": "dense",
+      "label": "Case addossate senza strade",
+      "lane": "Impianto",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "roof",
+      "label": "Accesso dagli abbaini e uso dei tetti",
+      "lane": "Circolazione",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "house",
+      "label": "Ambienti principali con piattaforme",
+      "lane": "Abitazioni",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "side",
+      "label": "Vani laterali di deposito",
+      "lane": "Conservazione",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "hearth",
+      "label": "Focolari e forni domestici",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "burial",
+      "label": "Sepolture sotto pavimenti e piattaforme",
+      "lane": "Funerarie",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "art",
+      "label": "Pitture, rilievi e installazioni parietali",
+      "lane": "Simboliche",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "renew",
+      "label": "Demolizione parziale e ricostruzione sovrapposta",
+      "lane": "Manutenzione",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "west",
+      "label": "Occupazione del tell occidentale",
+      "lane": "Impianto",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

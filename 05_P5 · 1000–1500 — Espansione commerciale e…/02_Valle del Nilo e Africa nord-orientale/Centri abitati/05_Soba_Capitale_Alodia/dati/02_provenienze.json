@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Soba",
+      "lat": 15.588,
+      "lon": 32.521,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "blu",
+      "label": "Nilo Azzurro",
+      "lat": 15.5,
+      "lon": 32.65,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "gez",
+      "label": "Gezira",
+      "lat": 14.5,
+      "lon": 33.0,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "but",
+      "label": "Butana",
+      "lat": 16.5,
+      "lon": 34.0,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "don",
+      "label": "Antica Dongola",
+      "lat": 18.22,
+      "lon": 30.75,
+      "status": "sintesi",
+      "kind": "locale"
+    },
+    {
+      "id": "aks",
+      "label": "Altopiani etiopici",
+      "lat": 13.5,
+      "lon": 39.0,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "sua",
+      "label": "Suakin",
+      "lat": 19.1,
+      "lon": 37.33,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "blu",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiume e piane alluvionali",
+      "food": "acqua, pesce e cereali"
+    },
+    {
+      "source": "gez",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "campi e villaggi agricoli",
+      "food": "sorgo, sesamo e bestiame"
+    },
+    {
+      "source": "but",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte pastorali",
+      "food": "bovini, ovini e sale"
+    },
+    {
+      "source": "don",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "rete fra regni nubiani",
+      "food": "ambascerie e manufatti"
+    },
+    {
+      "source": "aks",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "corridoio etiopico",
+      "food": "beni, idee e clero"
+    },
+    {
+      "source": "sua",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "rotta verso il Mar Rosso",
+      "food": "sale, tessili e merci importate"
+    }
+  ]
+}

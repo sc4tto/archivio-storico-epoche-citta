@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Unguja Ukuu",
+      "lat": -6.3172,
+      "lon": 39.3744,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "creek",
+      "label": "Baia e creek locale",
+      "lat": -6.32,
+      "lon": 39.36,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "zanzibar",
+      "label": "Entroterra di Unguja",
+      "lat": -6.15,
+      "lon": 39.25,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "main",
+      "label": "Costa di Tanzania",
+      "lat": -6.7,
+      "lon": 39.0,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "mafia",
+      "label": "Isola di Mafia",
+      "lat": -7.85,
+      "lon": 39.75,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "gulf",
+      "label": "Golfo Persico e Arabia",
+      "lat": 24.0,
+      "lon": 52.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "india",
+      "label": "India occidentale",
+      "lat": 20.0,
+      "lon": 72.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "creek",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "approdo e pesca",
+      "food": "pesce, conchiglie e acqua"
+    },
+    {
+      "source": "zanzibar",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sentieri insulari",
+      "food": "cereali, bestiame e legname"
+    },
+    {
+      "source": "main",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "attraversamento costiero",
+      "food": "ferro, ceramica e derrate"
+    },
+    {
+      "source": "mafia",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cabotaggio regionale",
+      "food": "vasellame e persone"
+    },
+    {
+      "source": "gulf",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte monsoniche",
+      "food": "ceramiche, vetro e monete"
+    },
+    {
+      "source": "india",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "scambio oceanico indiretto",
+      "food": "ceramiche, perline e tessuti"
+    }
+  ]
+}

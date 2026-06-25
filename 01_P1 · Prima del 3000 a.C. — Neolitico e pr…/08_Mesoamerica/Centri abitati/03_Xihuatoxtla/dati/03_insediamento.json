@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Olocene iniziale",
+    "Uso del riparo",
+    "Mais e zucca sui macinelli",
+    "Incremento della gestione vegetale",
+    "Fasi successive"
+  ],
+  "items": [
+    {
+      "id": "shelter",
+      "label": "Frequentazione ripetuta del riparo",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "hearth",
+      "label": "Focolari e superfici di attività",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "grind",
+      "label": "Uso di strumenti di macinazione",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "maize",
+      "label": "Trasformazione del mais",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "squash",
+      "label": "Uso e gestione della zucca",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "fields",
+      "label": "Piccoli appezzamenti o orti",
+      "lane": "Territorio",
+      "start": 2,
+      "end": 4,
+      "status": "inferito"
+    },
+    {
+      "id": "shift",
+      "label": "Crescita graduale del contributo agricolo",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

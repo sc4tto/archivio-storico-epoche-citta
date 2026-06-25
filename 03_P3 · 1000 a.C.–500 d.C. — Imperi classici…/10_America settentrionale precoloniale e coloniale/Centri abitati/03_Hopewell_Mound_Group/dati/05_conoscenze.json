@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Hopewell Mound Group",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Recinti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Geometrie",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Fossati e muri",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Funzione militare",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Materiali",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Ossidiana",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Rame",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Mica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Taglio della mica",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Lamine di rame",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Produzione quotidiana di massa",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Rituali",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Deposizioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Cremazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Teologia ricostruita integralmente",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Organizzazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Cooperazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Gruppi dispersi",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Stato territoriale",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Metodo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Scavi ottocenteschi",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Telerilevamento",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Nome antico noto",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

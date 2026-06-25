@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "La sequenza inizia attorno al 3300 a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "UNESCO_REHMAN"
+  },
+  {
+    "claim": "L’insediamento presenta una rete regolare di strade e isolati",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "UNESCO_REHMAN"
+  },
+  {
+    "claim": "Sono visibili muri, edifici e aree artigianali",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "UNESCO_REHMAN"
+  },
+  {
+    "claim": "Fornaci e scorie indicano attività industriali",
+    "theme": "Artigianato",
+    "status": "documentato",
+    "source": "UNESCO_REHMAN"
+  },
+  {
+    "claim": "La pianificazione iniziale fu replicata nelle fasi successive",
+    "theme": "Urbanistica",
+    "status": "sintesi",
+    "source": "UNESCO_REHMAN"
+  },
+  {
+    "claim": "I marchi ceramici costituiscono una scrittura decifrata",
+    "theme": "Scrittura",
+    "status": "non_documentato",
+    "source": "I segni non sono un sistema decifrato"
+  },
+  {
+    "claim": "La presenza di mura dimostra guerre permanenti",
+    "theme": "Conflitto",
+    "status": "non_documentato",
+    "source": "Le fortificazioni possono avere più funzioni"
+  },
+  {
+    "claim": "Rehman Dheri era già una metropoli nel 3300 a.C.",
+    "theme": "Demografia",
+    "status": "non_documentato",
+    "source": "La definizione e la popolazione non sono stabilite"
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Prime occupazioni preclassiche",
+    "Complessi monumentali preclassici",
+    "Prime iscrizioni e dinastia classica",
+    "Evento del 378 e riorganizzazione politica",
+    "Crescita del V secolo"
+  ],
+  "items": [
+    {
+      "id": "lostworld",
+      "label": "Complesso Mundo Perdido",
+      "lane": "Rituali",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "northacro",
+      "label": "Acropoli Nord e tombe dinastiche",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "central",
+      "label": "Acropoli Centrale e palazzi",
+      "lane": "Monumentali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "stelae",
+      "label": "Stele e altari iscritti",
+      "lane": "Amministrative",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "reservoirs",
+      "label": "Aguadas e serbatoi",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "causeways",
+      "label": "Sacbé e reti interne",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "residences",
+      "label": "Quartieri e residenze periferiche",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Nanchoc — modulo multi-grafo",
+    "short_name": "Nanchoc",
+    "site": "Complesso preceramico di Nanchoc",
+    "modern_location": "Alta valle dello Zaña, Cajamarca, Perù",
+    "coordinates": {
+      "lat": -6.96,
+      "lon": -79.24
+    },
+    "scope": "Complesso di siti all’aperto con abitazioni leggere, orticoltura precoce, macinazione, colture come zucca, arachide e cotone e, nelle fasi tarde, piccoli canali di irrigazione.",
+    "version": "1.0-blocco_10_p1_ande_centrali_5_centri_v1",
+    "warning": "Nanchoc comprende numerosi siti e fasi, non un singolo villaggio immobile. Le date di colture, case, monticoli e canali non sono tutte contemporanee."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "NANCHOC_SCIENCE",
+      "title": "Dillehay et al. — Preceramic Adoption of Peanut, Squash, and Cotton in Northern Peru",
+      "url": "https://doi.org/10.1126/science.1141390",
+      "use": "domesticazione e uso di arachide, zucca e cotone"
+    },
+    {
+      "id": "NANCHOC_CANALS",
+      "title": "Dillehay, Eling e Rossen — Preceramic irrigation canals in the Peruvian Andes",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.0508583102",
+      "use": "cronologia e struttura dei canali preceramici"
+    },
+    {
+      "id": "NANCHOC_SYNTH",
+      "title": "Dillehay — The Settlement of the Americas: A New Prehistory",
+      "url": "https://search.worldcat.org/search?q=The+Settlement+of+the+Americas+Dillehay",
+      "use": "quadro regionale delle occupazioni e della transizione economica"
+    }
+  ]
+}

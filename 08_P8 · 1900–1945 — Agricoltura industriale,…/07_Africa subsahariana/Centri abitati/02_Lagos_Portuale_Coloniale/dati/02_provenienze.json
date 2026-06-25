@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Lagos",
+      "lat": 6.455,
+      "lon": 3.3841,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "lag",
+      "label": "Laguna e isole",
+      "lat": 6.48,
+      "lon": 3.35,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "abe",
+      "label": "Abeokuta e Yorubaland",
+      "lat": 7.15,
+      "lon": 3.35,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "ibo",
+      "label": "Ibadan e interno ferroviario",
+      "lat": 7.38,
+      "lon": 3.9,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "nig",
+      "label": "Nigeria settentrionale",
+      "lat": 10.5,
+      "lon": 7.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "liv",
+      "label": "Liverpool e Regno Unito",
+      "lat": 53.4,
+      "lon": -3.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "coa",
+      "label": "Costa del Golfo di Guinea",
+      "lat": 5.0,
+      "lon": 1.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "lag",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "laguna, moli e canoe",
+      "food": "pesce, sale, trasporto e rifiuti"
+    },
+    {
+      "source": "abe",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e ferrovia",
+      "food": "olio di palma, manioca e prodotti agricoli"
+    },
+    {
+      "source": "ibo",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia Lagos–Ibadan",
+      "food": "cacao, kola, cereali e pendolari"
+    },
+    {
+      "source": "nig",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie coloniali",
+      "food": "arachidi, bestiame e tessili"
+    },
+    {
+      "source": "liv",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "shipping imperiale",
+      "food": "macchinari, farina, tessili e capitali"
+    },
+    {
+      "source": "coa",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione del Golfo di Guinea",
+      "food": "merci, migranti e traffici costieri"
+    }
+  ]
+}

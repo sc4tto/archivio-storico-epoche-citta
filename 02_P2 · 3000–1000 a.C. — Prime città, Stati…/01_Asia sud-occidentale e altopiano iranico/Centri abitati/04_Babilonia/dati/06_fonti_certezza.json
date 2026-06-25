@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Babilonia è attestata dal III millennio a.C. e fu capitale sotto Hammurabi",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "BABYLON_UNESCO"
+  },
+  {
+    "claim": "La città esercitò una forte influenza politica, scientifica e culturale",
+    "theme": "Influenza",
+    "status": "documentato",
+    "source": "BABYLON_UNESCO"
+  },
+  {
+    "claim": "Scrittura cuneiforme, matematica e amministrazione furono centrali",
+    "theme": "Conoscenze",
+    "status": "documentato",
+    "source": "BABYLON_UNESCO"
+  },
+  {
+    "claim": "Quartieri, templi, palazzi, mura e canali componevano il paesaggio urbano",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "BABYLON_UNESCO"
+  },
+  {
+    "claim": "Le strutture monumentali oggi più visibili appartengono tutte all’età di Hammurabi",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Molte sono neobabilonesi"
+  },
+  {
+    "claim": "I Giardini Pensili sono stati localizzati con certezza nel sito",
+    "theme": "Tradizione",
+    "status": "non_documentato",
+    "source": "Localizzazione e identificazione discusse"
+  },
+  {
+    "claim": "Il codice di Hammurabi regolava uniformemente ogni abitante dell’impero",
+    "theme": "Diritto",
+    "status": "non_documentato",
+    "source": "Testo reale e pratica giuridica non coincidono pienamente"
+  },
+  {
+    "claim": "La città fu abbandonata dopo la caduta della dinastia amorrea",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Fasi cassite e successive documentate"
+  }
+]

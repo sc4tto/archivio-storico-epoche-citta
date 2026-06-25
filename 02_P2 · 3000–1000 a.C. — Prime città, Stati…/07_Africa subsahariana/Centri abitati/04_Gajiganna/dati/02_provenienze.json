@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Gajiganna",
+      "lat": 11.7,
+      "lon": 13.1,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "konduga",
+      "label": "Konduga",
+      "lat": 11.65,
+      "lon": 13.42,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "maiduguri",
+      "label": "Maiduguri e monticoli regionali",
+      "lat": 11.83,
+      "lon": 13.15,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "lake",
+      "label": "Lago Ciad",
+      "lat": 13.0,
+      "lon": 14.0,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "mandara",
+      "label": "Monti Mandara",
+      "lat": 10.5,
+      "lon": 13.6,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "air",
+      "label": "Aïr e Sahara meridionale",
+      "lat": 18.5,
+      "lon": 8.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "konduga",
+      "target": "site",
+      "label": "ceramiche e insediamenti",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "maiduguri",
+      "target": "site",
+      "label": "rete di monticoli abitati",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "lake",
+      "target": "site",
+      "label": "pesca, acqua e pascoli",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "mandara",
+      "target": "site",
+      "label": "pietra e reti locali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "air",
+      "target": "site",
+      "label": "tradizioni pastorali sahariane",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

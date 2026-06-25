@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Kealakekua–Kona",
+      "lat": 19.476,
+      "lon": -155.922,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "upl",
+      "label": "Pendici agricole di Kona",
+      "lat": 19.55,
+      "lon": -155.87,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "bay",
+      "label": "Baia di Kealakekua e Kaʻawaloa",
+      "lat": 19.48,
+      "lon": -155.93,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "hon",
+      "label": "Hōnaunau e Kona meridionale",
+      "lat": 19.42,
+      "lon": -155.91,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "koh",
+      "label": "Kohala e Kona settentrionale",
+      "lat": 20.1,
+      "lon": -155.8,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "hil",
+      "label": "Hilo, Hāmākua e distretti orientali",
+      "lat": 19.7,
+      "lon": -155.1,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "pac",
+      "label": "Maui, Oʻahu e rotte oceaniche",
+      "lat": 20.8,
+      "lon": -157.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "upl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sentieri fra costa e altura",
+      "food": "tuberi, frutta, fibre e legname"
+    },
+    {
+      "source": "bay",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "baia e litorale",
+      "food": "pesce, sale, canoe e servizi di approdo"
+    },
+    {
+      "source": "hon",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sentiero costiero",
+      "food": "derrate, specialisti rituali e alleanze"
+    },
+    {
+      "source": "koh",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "circuiti dell’isola",
+      "food": "guerrieri, tributi e beni di rango"
+    },
+    {
+      "source": "hil",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sentieri transinsulari",
+      "food": "taro, piume, legname e prodotti delle foreste umide"
+    },
+    {
+      "source": "pac",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione interinsulare",
+      "food": "informazioni, conchiglie, doni e contatti esterni"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Monte Albán fu edificata su una cima modificata artificialmente",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "MONTE_UNESCO"
+  },
+  {
+    "claim": "La capitale fiorì a partire da circa 500 a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "MONTE_UNESCO"
+  },
+  {
+    "claim": "Il sito conserva templi, campi da gioco, tombe e iscrizioni",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "MONTE_UNESCO"
+  },
+  {
+    "claim": "La fase II comportò urbanizzazione, terrazze e opere idrauliche",
+    "theme": "Territorio",
+    "status": "documentato",
+    "source": "MONTE_UNESCO"
+  },
+  {
+    "claim": "Le figure dei Danzantes rappresentano con certezza ballerini festivi",
+    "theme": "Iconografia",
+    "status": "non_documentato",
+    "source": "Interpretazioni come prigionieri o antenati"
+  },
+  {
+    "claim": "Esistevano rapporti documentati con Teotihuacan",
+    "theme": "Relazioni",
+    "status": "documentato",
+    "source": "MONTE_UNESCO"
+  },
+  {
+    "claim": "Monte Albán fu abitata da una sola cultura senza trasformazioni",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Sequenza di lunga durata"
+  },
+  {
+    "claim": "La regione è sismica e l’architettura riflette adattamenti locali",
+    "theme": "Ambiente",
+    "status": "documentato",
+    "source": "MONTE_UNESCO"
+  }
+]

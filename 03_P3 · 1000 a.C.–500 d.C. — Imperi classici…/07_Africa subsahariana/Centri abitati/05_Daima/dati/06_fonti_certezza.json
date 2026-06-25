@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Daima conserva una lunga sequenza stratigrafica del bacino del Ciad",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "DAIMA_CONNAH"
+  },
+  {
+    "claim": "Le fasi iniziali mostrano agricoltura, pastorizia, pesca e caccia",
+    "theme": "Sussistenza",
+    "status": "documentato",
+    "source": "DAIMA_CONNAH"
+  },
+  {
+    "claim": "Sono documentate figurine di terracotta, ceramiche e utensili in osso e pietra",
+    "theme": "Reperti",
+    "status": "documentato",
+    "source": "DAIMA_CONNAH"
+  },
+  {
+    "claim": "Il ferro compare gradualmente nella sequenza",
+    "theme": "Tecnologia",
+    "status": "sintesi",
+    "source": "DAIMA_JAH"
+  },
+  {
+    "claim": "Daima era una capitale di un impero già nel P3",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Insediamento a tell senza Stato documentato"
+  },
+  {
+    "claim": "Ogni figurina rappresenta una divinità identificata",
+    "theme": "Religione",
+    "status": "non_documentato",
+    "source": "Funzione sconosciuta"
+  },
+  {
+    "claim": "Le sepolture erano collocate anche entro l’insediamento",
+    "theme": "Rituali",
+    "status": "documentato",
+    "source": "DAIMA_CONNAH"
+  },
+  {
+    "claim": "Il livello del lago Ciad rimase invariato per tutta la sequenza",
+    "theme": "Ambiente",
+    "status": "non_documentato",
+    "source": "Paesaggio idrologico variabile"
+  }
+]

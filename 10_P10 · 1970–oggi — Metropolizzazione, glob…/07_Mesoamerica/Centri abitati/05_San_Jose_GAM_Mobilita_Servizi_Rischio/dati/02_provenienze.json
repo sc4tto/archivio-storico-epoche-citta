@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "San José",
+      "lat": 9.9281,
+      "lon": -84.0907,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "esc",
+      "label": "Escazú, Desamparados e cantoni vicini",
+      "lat": 9.9,
+      "lon": -84.12,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "her",
+      "label": "Heredia e Alajuela",
+      "lat": 10.05,
+      "lon": -84.25,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "car",
+      "label": "Cartago e valle orientale",
+      "lat": 9.86,
+      "lon": -83.92,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "cen",
+      "label": "Valle Centrale e regioni agricole",
+      "lat": 10.2,
+      "lon": -84.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "coa",
+      "label": "Coste caraibica e pacifica",
+      "lat": 9.8,
+      "lon": -83.3,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "glob",
+      "label": "Centroamerica e reti globali",
+      "lat": 12.0,
+      "lon": -86.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "esc",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "mercati urbani e distribuzione locale",
+      "food": "pane, verdure, latticini e pendolari"
+    },
+    {
+      "source": "her",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "autostrade, ferrovia e CENADA",
+      "food": "latte, caffè, carne, frutta e servizi"
+    },
+    {
+      "source": "car",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoi regionali e ferias",
+      "food": "patate, verdure, latte e caffè"
+    },
+    {
+      "source": "cen",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti nazionali e cooperative",
+      "food": "riso, fagioli, carne e frutta"
+    },
+    {
+      "source": "coa",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e porti nazionali",
+      "food": "pesce, banane, ananas e oli"
+    },
+    {
+      "source": "glob",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porti, aeroporto e commercio",
+      "food": "grano, ingredienti e alimenti confezionati"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "La Venta fu occupata prima della sua massima fioritura",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "LV_POOL"
+  },
+  {
+    "claim": "Il centro fu costruito soprattutto con terra e argilla",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "LV_HEIZER"
+  },
+  {
+    "claim": "Basalto e pietre verdi arrivavano attraverso reti a lunga distanza",
+    "theme": "Provenienze",
+    "status": "documentato",
+    "source": "LV_GONZALEZ"
+  },
+  {
+    "claim": "L’organizzazione assiale divenne un elemento importante del centro",
+    "theme": "Pianificazione",
+    "status": "sintesi",
+    "source": "LV_GONZALEZ"
+  },
+  {
+    "claim": "La fase più monumentale di La Venta è in gran parte posteriore al limite P2",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "LV_POOL"
+  },
+  {
+    "claim": "Tutti i monumenti visibili appartengono a prima del 1000 a.C.",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Molti sono posteriori"
+  },
+  {
+    "claim": "La Venta sostituì San Lorenzo in un singolo evento politico",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Transizione graduale e discussa"
+  },
+  {
+    "claim": "Ogni offerta massiva aveva lo stesso significato",
+    "theme": "Rituali",
+    "status": "non_documentato",
+    "source": "Contesti e cronologie differenti"
+  }
+]

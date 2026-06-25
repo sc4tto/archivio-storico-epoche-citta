@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "cu1",
+      "label": "Occupazioni regionali e tradizioni pre-inca",
+      "lane": "Insediamento",
+      "start": 0,
+      "end": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "cu2",
+      "label": "Consolidamento di lignaggi e poteri locali",
+      "lane": "Politica",
+      "start": 2,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "cu3",
+      "label": "Riorganizzazione monumentale attribuita a Pachacuti",
+      "lane": "Urbanistica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "cu4",
+      "label": "Qorikancha, palazzi e kancha imperiali",
+      "lane": "Costruzione",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "cu5",
+      "label": "Espansione delle strade radiali del Qhapaq Ñan",
+      "lane": "Infrastrutture",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "cu6",
+      "label": "Formazione dei quattro suyus come ordine territoriale",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "cu7",
+      "label": "Depositi, quartieri e residenze di gruppi provinciali",
+      "lane": "Società",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "cu8",
+      "label": "Massima funzione imperiale prima del 1500",
+      "lane": "Amministrazione",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

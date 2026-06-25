@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1900–1909",
+    "1910–1918",
+    "1919–1928",
+    "1929–1938",
+    "1939–1945"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Peste del 1900, demolizioni e campagne sanitarie",
+      "lane": "Sanità",
+      "start": 0,
+      "end": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Elettrificazione di tram, industrie e sobborghi",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Prima guerra mondiale e mobilitazione portuale",
+      "lane": "Politica",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Influenza del 1919 e pressione sugli ospedali",
+      "lane": "Sanità",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Apertura del Sydney Harbour Bridge nel 1932",
+      "lane": "Infrastrutture",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Grande depressione, disoccupazione e relief works",
+      "lane": "Economia",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Slum clearance e housing pubblico iniziale",
+      "lane": "Urbanistica",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Difesa del porto e produzione bellica 1939–1945",
+      "lane": "Rischi",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

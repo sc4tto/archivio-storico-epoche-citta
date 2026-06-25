@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Spirit Cave conserva livelli di occupazione del Pleistocene finale e Olocene antico",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "SPIRIT_ANTIQUITY"
+  },
+  {
+    "claim": "La sussistenza comprendeva fauna selvatica e una vasta gamma di piante raccolte",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "SPIRIT_ZOO"
+  },
+  {
+    "claim": "Gli utensili comprendono ciottoli lavorati e schegge",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "GORMAN_1971"
+  },
+  {
+    "claim": "Le occupazioni furono brevi e ripetute",
+    "theme": "Insediamento",
+    "status": "sintesi",
+    "source": "SPIRIT_ANTIQUITY"
+  },
+  {
+    "claim": "Le nuove datazioni richiedono cautela nel leggere la stratigrafia",
+    "theme": "Metodo",
+    "status": "documentato",
+    "source": "SPIRIT_ANTIQUITY"
+  },
+  {
+    "claim": "Spirit Cave dimostra l’invenzione dell’agricoltura nel X millennio a.C.",
+    "theme": "Agricoltura",
+    "status": "non_documentato",
+    "source": "Le piante identificate non dimostrano domesticazione"
+  },
+  {
+    "claim": "La ceramica appartiene certamente ai livelli più antichi",
+    "theme": "Ceramica",
+    "status": "non_documentato",
+    "source": "Le datazioni della ceramica sono state riviste"
+  },
+  {
+    "claim": "Il sito fu un villaggio permanente",
+    "theme": "Insediamento",
+    "status": "non_documentato",
+    "source": "L’evidenza indica occupazioni episodiche"
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Batavia della VOC",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Acqua e salute",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Canali, drenaggi e argini",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Alluvioni, paludi e malattie",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "VOC e commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Monopoli, aste e contabilità",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Flotte, magazzini e dogane",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Mattoni, palificate e tetti",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Fortificazioni e ponti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Kampung e quartieri etnici",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Lavoro libero, servile e schiavile",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Produzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Zucchero, riso e orti",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Cantieri, arsenali e manifatture",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Hane Dune",
+      "lat": -8.93,
+      "lon": -139.54,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "vaip",
+      "label": "Vaipaee",
+      "lat": -8.91,
+      "lon": -139.57,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "hok",
+      "label": "Hokatu",
+      "lat": -8.92,
+      "lon": -139.51,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "nuku",
+      "label": "Nuku Hiva",
+      "lat": -8.87,
+      "lon": -140.1,
+      "status": "sintesi",
+      "kind": "locale"
+    },
+    {
+      "id": "hiva",
+      "label": "Hiva Oa",
+      "lat": -9.8,
+      "lon": -139.03,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "soc",
+      "label": "Isole della Società",
+      "lat": -17.65,
+      "lon": -149.45,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "west",
+      "label": "Polinesia occidentale",
+      "lat": -15.0,
+      "lon": -173.0,
+      "status": "inferito",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "vaip",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "mobilità interna a Ua Huka",
+      "food": "pietra e derrate"
+    },
+    {
+      "source": "hok",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete costiera",
+      "food": "pesce e persone"
+    },
+    {
+      "source": "nuku",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "navigazione fra Marchesi",
+      "food": "manufatti e matrimoni"
+    },
+    {
+      "source": "hiva",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "rete dell’arcipelago",
+      "food": "piante, animali e persone"
+    },
+    {
+      "source": "soc",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "via di colonizzazione",
+      "food": "canoe e specie trasportate"
+    },
+    {
+      "source": "west",
+      "target": "ctr",
+      "status": "inferito",
+      "label": "ascendenza delle rotte",
+      "food": "conoscenze nautiche"
+    }
+  ]
+}

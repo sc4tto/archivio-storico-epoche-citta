@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "d1",
+      "label": "Dominio selgiuchide e Buride",
+      "lane": "Politica",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "d2",
+      "label": "Crescita di madrase e waqf",
+      "lane": "Istituzioni",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "d3",
+      "label": "Capitale ayyubide e città di Saladino",
+      "lane": "Politica",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "d4",
+      "label": "Cittadella, mura e sobborghi",
+      "lane": "Urbanistica",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "d5",
+      "label": "Passaggio al dominio mamelucco",
+      "lane": "Politica",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "d6",
+      "label": "Artigianato, suq e carovane",
+      "lane": "Economia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "d7",
+      "label": "Incursioni mongole e crisi regionali",
+      "lane": "Conflitto",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "d8",
+      "label": "Espansione di khan, bagni e quartieri",
+      "lane": "Urbanistica",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

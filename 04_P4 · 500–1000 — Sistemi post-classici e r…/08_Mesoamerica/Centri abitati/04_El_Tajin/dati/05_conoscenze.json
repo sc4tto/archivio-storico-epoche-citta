@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di El Tajín",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0_terrain",
+      "label": "Paesaggio collinare",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0_levels",
+          "label": "Uso dei dislivelli e delle terrazze",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1_drain",
+          "label": "Drenaggio in clima umido",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1_agri",
+      "label": "Economia regionale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0_maize",
+          "label": "Coltivazione nelle valli",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1_gulf",
+          "label": "Scambio di risorse costiere",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2_craft",
+      "label": "Pietra e immagine",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0_niches",
+          "label": "Moduli di nicchie e cornici",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1_relief",
+          "label": "Rilievo narrativo e pittura",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3_ritual",
+      "label": "Gioco della palla",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0_court",
+          "label": "Progettazione di campi e tribune",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1_ceremony",
+          "label": "Sequenze rituali rappresentate",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4_politics",
+      "label": "Gerarchia urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0_access",
+          "label": "Controllo degli accessi a Tajín Chico",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1_labour",
+          "label": "Coordinamento di cantieri e artigiani",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

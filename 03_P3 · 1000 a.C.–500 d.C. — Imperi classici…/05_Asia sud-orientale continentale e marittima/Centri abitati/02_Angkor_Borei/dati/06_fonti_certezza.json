@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Angkor Borei fu occupata dal IV secolo a.C. al VII secolo d.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "AB_STARK"
+  },
+  {
+    "claim": "Il sito conserva mura, fossati e canali",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "AB_STARK"
+  },
+  {
+    "claim": "Esistevano collegamenti con Óc Eo e il delta",
+    "theme": "Reti",
+    "status": "documentato",
+    "source": "AB_LOMAP"
+  },
+  {
+    "claim": "Angkor Borei è certamente la capitale nominata in ogni fonte cinese",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Identificazioni storiche discusse"
+  },
+  {
+    "claim": "Le strutture in mattoni iniziano già nelle fasi più antiche",
+    "theme": "Architettura",
+    "status": "sintesi",
+    "source": "AB_STARK"
+  },
+  {
+    "claim": "Tutta la città antica è stata scavata",
+    "theme": "Ricerca",
+    "status": "non_documentato",
+    "source": "Scavi parziali sotto abitato moderno"
+  },
+  {
+    "claim": "Le iscrizioni più antiche dimostrano alfabetizzazione generale",
+    "theme": "Scrittura",
+    "status": "non_documentato",
+    "source": "Produzione epigrafica di élite"
+  },
+  {
+    "claim": "Phnom Da era integrata nel paesaggio rituale regionale",
+    "theme": "Religione",
+    "status": "documentato",
+    "source": "AB_HIGHAM"
+  }
+]

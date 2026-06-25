@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Calakmul",
+      "lat": 18.105,
+      "lon": -89.81,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "elmirador",
+      "label": "El Mirador",
+      "lat": 17.76,
+      "lon": -89.92,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "tikal",
+      "label": "Tikal",
+      "lat": 17.22,
+      "lon": -89.62,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "uxul",
+      "label": "Uxul",
+      "lat": 18.2,
+      "lon": -89.64,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "riobec",
+      "label": "Regione Río Bec",
+      "lat": 18.4,
+      "lon": -89.3,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "gulf",
+      "label": "Costa del Golfo e Campeche",
+      "lat": 19.0,
+      "lon": -91.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "elmirador",
+      "target": "site",
+      "label": "tradizioni preclassiche e mobilità regionale",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "tikal",
+      "target": "site",
+      "label": "competizione, alleanze e scambi",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "uxul",
+      "target": "site",
+      "label": "strade, risorse e insediamenti connessi",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "riobec",
+      "target": "site",
+      "label": "stili architettonici e reti locali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "gulf",
+      "target": "site",
+      "label": "sale, conchiglie e traffici di pianura",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

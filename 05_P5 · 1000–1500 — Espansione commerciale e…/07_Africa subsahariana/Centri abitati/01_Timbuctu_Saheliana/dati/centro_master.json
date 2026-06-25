@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Timbuctù saheliana e intellettuale",
+    "site": "Timbuctù storica",
+    "modern_location": "Timbuktu, Mali",
+    "coordinates": {
+      "lat": 16.7666,
+      "lon": -3.0026
+    },
+    "scope": "Timbuctù fra 1000 e 1500: formazione urbana, integrazione nelle reti transahariane, moschee, scuole e apogeo culturale del XV secolo.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1500. La piena fioritura del XVI secolo e le ricostruzioni moderne sono escluse o indicate soltanto come continuità."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "TI1",
+      "title": "UNESCO — Timbuktu",
+      "use": "Moschee, università coranica, architettura in terra e ruolo commerciale e spirituale.",
+      "url": "https://whc.unesco.org/en/list/119/"
+    },
+    {
+      "id": "TI2",
+      "title": "Encyclopaedia Britannica — Timbuktu",
+      "use": "Cronologia urbana, commercio transahariano e storia politica.",
+      "url": "https://www.britannica.com/place/Timbuktu-Mali"
+    },
+    {
+      "id": "TI3",
+      "title": "UNESCO — World Heritage Earthen Architecture Programme",
+      "use": "Tecniche costruttive in terra e conservazione.",
+      "url": "https://whc.unesco.org/en/earthen-architecture/"
+    },
+    {
+      "id": "TI4",
+      "title": "Metropolitan Museum — Trans-Saharan Trade",
+      "use": "Reti del Sahara, oro, sale e diffusione culturale.",
+      "url": "https://www.metmuseum.org/toah/hd/gold/hd_gold.htm"
+    },
+    {
+      "id": "TI5",
+      "title": "UNESCO — General History of Africa",
+      "use": "Contesto storico dei regni del Sahel e delle città mercantili.",
+      "url": "https://www.unesco.org/en/general-history-africa"
+    }
+  ]
+}

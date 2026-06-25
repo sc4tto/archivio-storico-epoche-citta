@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Johannesburg",
+      "lat": -26.2041,
+      "lon": 28.0473,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "rand",
+      "label": "Witwatersrand",
+      "lat": -26.15,
+      "lon": 27.85,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "sow",
+      "label": "Soweto e insediamenti sud-occidentali",
+      "lat": -26.25,
+      "lon": 27.86,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "vaa",
+      "label": "Vaal e Highveld agricolo",
+      "lat": -26.75,
+      "lon": 27.85,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "kim",
+      "label": "Kimberley e Cape",
+      "lat": -28.73,
+      "lon": 24.75,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "dur",
+      "label": "Durban e Natal",
+      "lat": -29.86,
+      "lon": 31.02,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "moz",
+      "label": "Mozambico e Africa australe",
+      "lat": -22.5,
+      "lon": 33.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "rand",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "linee minerarie e strade",
+      "food": "oro, carbone, manodopera e macchinari"
+    },
+    {
+      "source": "sow",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "tram, autobus e percorsi pendolari",
+      "food": "lavoratori, ortaggi e reti familiari"
+    },
+    {
+      "source": "vaa",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "acquedotti e ferrovie",
+      "food": "acqua, mais, carne e latticini"
+    },
+    {
+      "source": "kim",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie del Capo",
+      "food": "diamanti, capitali e personale tecnico"
+    },
+    {
+      "source": "dur",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie verso l’Oceano Indiano",
+      "food": "merci importate, carbone e traffici marittimi"
+    },
+    {
+      "source": "moz",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti di reclutamento e ferrovia",
+      "food": "lavoratori migranti e derrate"
+    }
+  ]
+}

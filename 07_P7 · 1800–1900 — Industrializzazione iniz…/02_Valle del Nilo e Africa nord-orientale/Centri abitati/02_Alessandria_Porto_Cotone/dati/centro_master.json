@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Alessandria portuale e cotoniera",
+    "site": "Alessandria portuale e cotoniera",
+    "modern_location": "Alessandria, Egitto",
+    "coordinates": {
+      "lat": 31.2001,
+      "lon": 29.9187
+    },
+    "scope": "Alessandria fra 1800 e 1900: ricostruzione sotto Muhammad Ali, porto del cotone egiziano, nodo ferroviario e marittimo, città di comunità arabe, greche, italiane, ebraiche e levantine.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. L’espansione novecentesca, i quartieri modernisti e le trasformazioni del porto contemporaneo sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "AL1",
+      "title": "Encyclopaedia Britannica — Alexandria",
+      "use": "Storia moderna, porto e crescita ottocentesca.",
+      "url": "https://www.britannica.com/place/Alexandria-Egypt"
+    },
+    {
+      "id": "AL2",
+      "title": "Bibliotheca Alexandrina — Memory of Modern Egypt",
+      "use": "Mappe, fotografie e documenti sulla città moderna.",
+      "url": "https://modernegypt.bibalex.org/"
+    },
+    {
+      "id": "AL3",
+      "title": "Alexandria Port Authority",
+      "use": "Porto, bacini e infrastrutture marittime.",
+      "url": "https://www.apa.gov.eg/"
+    },
+    {
+      "id": "AL4",
+      "title": "Library of Congress — Alexandria collections",
+      "use": "Fotografie e vedute storiche della città.",
+      "url": "https://www.loc.gov/pictures/search/?q=Alexandria%20Egypt"
+    },
+    {
+      "id": "AL5",
+      "title": "Egyptian National Railways",
+      "use": "Collegamenti ferroviari con Cairo e Delta.",
+      "url": "https://www.enr.gov.eg/"
+    }
+  ]
+}

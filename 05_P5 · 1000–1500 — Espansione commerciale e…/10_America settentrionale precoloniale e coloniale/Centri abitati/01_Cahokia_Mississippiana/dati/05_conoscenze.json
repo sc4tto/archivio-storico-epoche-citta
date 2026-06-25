@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Cahokia mississippiana",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Movimento terra",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Costruzione per fasi dei tumuli",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Organizzazione del lavoro collettivo",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Mais e colture indigene",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Gestione delle piane alluvionali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Piazze e assi monumentali",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Quartieri specializzati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Astronomia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Allineamenti di Woodhenge",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Calendario cerimoniale",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Reti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Navigazione fluviale",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Scambi interregionali",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "ps_root",
+  "label": "Competenze di Palembang–Srivijaya",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "ps_nav",
+      "label": "Navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "ps_monsoni",
+          "label": "Lettura dei monsoni",
+          "status": "documentato"
+        },
+        {
+          "id": "ps_fiumi",
+          "label": "Pilotaggio fluviale ed estuarino",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "ps_com",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "ps_trasbordo",
+          "label": "Trasbordo e stoccaggio",
+          "status": "sintesi"
+        },
+        {
+          "id": "ps_reti",
+          "label": "Gestione di reti tributarie",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "ps_cost",
+      "label": "Costruzioni deperibili",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "ps_palafitte",
+          "label": "Palafitte e piattaforme",
+          "status": "inferito"
+        },
+        {
+          "id": "ps_barche",
+          "label": "Carpenteria navale",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "ps_buddha",
+      "label": "Buddhismo e scrittura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "ps_monaci",
+          "label": "Accoglienza di monaci e studiosi",
+          "status": "documentato"
+        },
+        {
+          "id": "ps_epigrafia",
+          "label": "Malese antico e scrittura pallava",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "ps_amb",
+      "label": "Ambiente deltizio",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "ps_acque",
+          "label": "Canali, fossati e drenaggio",
+          "status": "sintesi"
+        },
+        {
+          "id": "ps_risorse",
+          "label": "Uso di pesce, riso e prodotti forestali",
+          "status": "inferito"
+        }
+      ]
+    }
+  ]
+}

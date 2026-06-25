@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Edo Tokugawa",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Acqua e fuoco",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Fossati, canali e approdi",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Prevenzione e ricostruzione dopo gli incendi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Governo urbano",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Bakufu e magistrati di città",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Sankin-kōtai e quartieri daimyo",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Carpenteria antisismica",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Kura e intonaci resistenti al fuoco",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Mercati e arti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Grossisti, botteghe e credito",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Ukiyo-e, kabuki e editoria",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Alimentazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Pesca della baia e mercati",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Miso, soia, soba e conserve",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

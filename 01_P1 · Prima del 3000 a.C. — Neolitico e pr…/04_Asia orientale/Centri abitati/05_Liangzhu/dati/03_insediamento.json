@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Emergere circa 3300 a.C.",
+    "Formazione del centro",
+    "Sviluppo urbano",
+    "Apogeo nel III millennio",
+    "Crisi e abbandono"
+  ],
+  "items": [
+    {
+      "id": "walls",
+      "label": "Città murata",
+      "lane": "Impianto",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "mojiao",
+      "label": "Piattaforma di Mojiaoshan e complessi centrali",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "hydraulic",
+      "label": "Dighe, argini e canali",
+      "lane": "Idrauliche",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "villages",
+      "label": "Insediamenti e campi nella pianura",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "storage",
+      "label": "Depositi e gestione del riso",
+      "lane": "Conservazione",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "cemeteries",
+      "label": "Cimiteri con differenziazione dei corredi",
+      "lane": "Funerarie",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "jade",
+      "label": "Produzione e uso rituale delle giade",
+      "lane": "Simboliche",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

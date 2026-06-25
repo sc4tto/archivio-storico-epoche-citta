@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Tula Chico–Tula Grande",
+    "site": "Tula / Tollan-Xicocotitlan",
+    "modern_location": "Stato di Hidalgo, Messico",
+    "coordinates": {
+      "lat": 20.0641,
+      "lon": -99.3409
+    },
+    "scope": "Tula fra 700 e 1000, con attenzione al passaggio da Tula Chico a Tula Grande, alla posizione nel corridoio del fiume Tula, alla produzione artigianale e alle prime forme monumentali tolteche.",
+    "version": "1.0",
+    "warning": "Il massimo sviluppo di Tula Grande appartiene soprattutto al periodo dopo il 900 e continua oltre il 1000. Il modulo non proietta retroattivamente sull’VIII secolo gli edifici e i miti noti dalle fasi più tarde."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "L1",
+      "title": "INAH — Zona arqueológica de Tula",
+      "use": "Descrizione del sito, Tula Chico, Tula Grande e monumenti.",
+      "url": "https://www.inah.gob.mx/zonas/163-zona-arqueologica-de-tula"
+    },
+    {
+      "id": "L2",
+      "title": "The Metropolitan Museum of Art — The Toltec civilization",
+      "use": "Sintesi su Tula, arte e reti dell’altopiano.",
+      "url": "https://www.metmuseum.org/toah/hd/tolt/hd_tolt.htm"
+    },
+    {
+      "id": "L3",
+      "title": "Michael E. Smith — Tula and Chichen Itza: Are We Asking the Right Questions?",
+      "use": "Cronologia e rapporti interregionali.",
+      "url": "https://www.public.asu.edu/~mesmith9/1-CompleteSet/MES-05-TulaEncyc.pdf"
+    },
+    {
+      "id": "L4",
+      "title": "Mastache, Cobean e Healan — Ancient Tollan: Tula and the Toltec Heartland",
+      "use": "Urbanistica, quartieri, produzione e territorio.",
+      "url": "https://www.worldcat.org/title/50519315"
+    },
+    {
+      "id": "L5",
+      "title": "Dan Healan — The Archaeology of Tula, Hidalgo",
+      "use": "Scavi e sequenze di Tula Chico e Tula Grande.",
+      "url": "https://doi.org/10.1017/CBO9780511921005"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Meroe",
+      "lat": 16.938,
+      "lon": 33.748,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "nile",
+      "label": "Nilo",
+      "lat": 16.9,
+      "lon": 33.65,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "atbara",
+      "label": "Atbara e Butana",
+      "lat": 17.7,
+      "lon": 34.0,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "naqa",
+      "label": "Naqa",
+      "lat": 16.27,
+      "lon": 33.27,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "musawwarat",
+      "label": "Musawwarat es-Sufra",
+      "lat": 16.42,
+      "lon": 33.33,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "redsea",
+      "label": "Mar Rosso",
+      "lat": 19.0,
+      "lon": 37.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "nile",
+      "target": "site",
+      "label": "acqua, pesca e trasporto",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "atbara",
+      "target": "site",
+      "label": "bestiame, cereali e carovane",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "naqa",
+      "target": "site",
+      "label": "culto e reti regionali",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "musawwarat",
+      "target": "site",
+      "label": "cerimonie e produzione specializzata",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "redsea",
+      "target": "site",
+      "label": "beni mediterranei e indo-arabi",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

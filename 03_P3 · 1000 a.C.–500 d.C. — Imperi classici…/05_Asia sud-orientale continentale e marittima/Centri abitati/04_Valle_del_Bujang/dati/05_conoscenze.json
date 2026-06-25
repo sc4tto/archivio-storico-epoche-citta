@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Valle del Bujang",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Metallurgia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Ferro",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Scorie",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Forni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Fiume Merbok",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Costa",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Stretto di Malacca",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "India",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Penisola malese",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Arcipelago",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Architettura",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Mattoni",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Pietra",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Date più antiche certe",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Religioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Induismo",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Buddhismo",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Culti locali",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Politica",
+      "status": "inferito",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Polità portuali",
+          "status": "inferito"
+        },
+        {
+          "id": "k6_2",
+          "label": "Élite mercantili",
+          "status": "inferito"
+        },
+        {
+          "id": "k6_3",
+          "label": "Impero unitario",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

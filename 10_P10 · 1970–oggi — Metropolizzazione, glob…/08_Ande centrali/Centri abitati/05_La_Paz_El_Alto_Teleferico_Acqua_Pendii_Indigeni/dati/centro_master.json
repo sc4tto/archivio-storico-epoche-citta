@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "La Paz–El Alto, teleférico, acqua, pendii e società indigene",
+    "site": "La Paz–El Alto, teleférico, acqua, pendii e società indigene",
+    "modern_location": "La Paz ed El Alto, Bolivia",
+    "coordinates": {
+      "lat": -16.4897,
+      "lon": -68.1193
+    },
+    "scope": "La Paz–El Alto dal 1970 al 25 giugno 2026: rapida crescita dell’altopiano, migrazione aymara e quechua, informalità e centralità di El Alto, crisi economiche e cicli politici, mercati e trasporto minibus, rete Mi Teleférico dal 2014, scarsità idrica, ritiro glaciale, pendii instabili, frane, alluvioni e accesso diseguale ai servizi.",
+    "version": "1.0",
+    "warning": "Ulteriori ampliamenti del trasporto e programmi con scadenze successive al 25 giugno 2026 sono registrati come piani o progetti futuri."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "LP1",
+      "title": "Mi Teleférico — storia e rete metropolitana",
+      "use": "Apertura della prima linea nel 2014 e integrazione fra La Paz ed El Alto.",
+      "url": "https://www.miteleferico.bo/noticia/MI%20TELEF%C3%89RICO%20-%209%20A%C3%91OS"
+    },
+    {
+      "id": "LP2",
+      "title": "World Bank — Promoting the Development of Resilient Cities in Bolivia",
+      "use": "Insediamenti informali, frane, alluvioni, drenaggio e servizi in La Paz ed El Alto.",
+      "url": "https://documents1.worldbank.org/curated/en/099061224215039190/pdf/P1811991c38fdd0f31a892143c7b8e69559.pdf"
+    },
+    {
+      "id": "LP3",
+      "title": "World Bank — Bolivia Climate Resilience and Integrated Basin Management",
+      "use": "Scarsità idrica, ritiro glaciale e sicurezza dell’acqua nella conurbazione La Paz–El Alto.",
+      "url": "https://documents1.worldbank.org/curated/en/958801633378485460/pdf/Bolivia-Climate-Resilience-Integrated-Basin-Management-Project.pdf"
+    },
+    {
+      "id": "LP4",
+      "title": "World Bank — Neighborhood upgrading and urban resilience in Bolivia",
+      "use": "Pendii instabili, esclusione sociale, servizi di base e miglioramento integrato dei quartieri.",
+      "url": "https://blogs.worldbank.org/en/latinamerica/scaling-up-neighborhood-upgrading-boost-urban-resilience-bolivia"
+    }
+  ]
+}

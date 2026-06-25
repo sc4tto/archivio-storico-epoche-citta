@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Lalibela e il paesaggio sacro Zagwe",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Scavo rupestre",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Taglio dall’alto verso il basso",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Controllo di pilastri e pareti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Acqua",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Trincee e drenaggi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Sorgenti, vasche e canali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Liturgia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Percorsi processionali",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Calendario e pellegrinaggi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Terrazzamenti d’altopiano",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Gestione di pascoli e miele",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Conservazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Riparazioni in muratura",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Manutenzione di pitture e superfici",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

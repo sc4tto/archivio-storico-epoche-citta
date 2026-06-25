@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Transmetro entrò in servizio nel 2007 come primo sistema BRT di questo tipo in Centroamerica.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "GT1"
+  },
+  {
+    "claim": "Il Piano maestro di mobilità ricostruisce la storia del trasporto urbano e propone integrazione modale.",
+    "theme": "pianificazione",
+    "status": "documentato",
+    "source": "GT2"
+  },
+  {
+    "claim": "Il progetto di resilienza urbana affronta urbanizzazione non pianificata, informalità, servizi e rischi climatici.",
+    "theme": "resilienza",
+    "status": "documentato",
+    "source": "GT3"
+  },
+  {
+    "claim": "La Commissione per il chiarimento storico documentò violazioni gravi durante il conflitto armato interno.",
+    "theme": "diritti umani",
+    "status": "documentato",
+    "source": "GT4"
+  },
+  {
+    "claim": "Le opere del progetto di resilienza non concluse al 25 giugno 2026 sono progetti futuri.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "GT3"
+  },
+  {
+    "claim": "Città del Guatemala è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Repressione, violenza, sfollamenti, informalità e sfratti non sono descritti come processi neutrali.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

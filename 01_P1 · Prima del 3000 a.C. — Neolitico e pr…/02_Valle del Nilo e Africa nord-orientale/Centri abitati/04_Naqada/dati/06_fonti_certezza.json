@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Naqada è il sito eponimo di una lunga sequenza predinastica",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "UCL_NAQADA"
+  },
+  {
+    "claim": "La seriazione ceramica ha contribuito alla cronologia relativa",
+    "theme": "Metodo",
+    "status": "documentato",
+    "source": "PETRIE_NAQADA"
+  },
+  {
+    "claim": "Le necropoli mostrano crescente differenziazione dei corredi",
+    "theme": "Società",
+    "status": "sintesi",
+    "source": "PETRIE_NAQADA"
+  },
+  {
+    "claim": "Il sito era connesso ai percorsi del deserto orientale",
+    "theme": "Provenienze",
+    "status": "sintesi",
+    "source": "EES_NAQADA"
+  },
+  {
+    "claim": "Ceramica, selce e pietra indicano artigianati specializzati",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "UCL_NAQADA"
+  },
+  {
+    "claim": "Ogni tomba ricca apparteneva a un re",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "La ricchezza funeraria non identifica automaticamente il rango istituzionale"
+  },
+  {
+    "claim": "Tutti i materiali levantini arrivavano direttamente a Naqada",
+    "theme": "Scambi",
+    "status": "non_documentato",
+    "source": "Le reti potevano essere indirette"
+  },
+  {
+    "claim": "La cultura Naqada coincide con un’unica città",
+    "theme": "Geografia",
+    "status": "non_documentato",
+    "source": "La cultura è distribuita in numerosi siti"
+  }
+]

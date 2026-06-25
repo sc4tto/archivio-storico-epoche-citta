@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Monterrey, industria, acqua, aria e metropolitana",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Industria e reti globali",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Acciaio, automotive, elettrodomestici e filiere nordamericane",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Logistica, standard, formazione e lavoro",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mobilità metropolitana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Metrorrey, Transmetro, autobus e infrastrutture stradali",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Sicurezza, manutenzione, accessibilità e integrazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Gestione idrica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Dighe, acquedotti, pozzi, pressione e trattamento",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Siccità, risparmio, equità e resilienza",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Qualità dell’aria",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Inventari emissivi, monitoraggio, industria e traffico",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Salute, trasparenza e responsabilità ambientale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Governance urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Stato, municipi, imprese e coordinamento metropolitano",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Espansione dispersa, alloggi e disuguaglianze territoriali",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Seoul–Gyeongseong sotto dominio giapponese",
+    "site": "Seoul–Gyeongseong sotto dominio giapponese",
+    "modern_location": "Seoul, Corea del Sud",
+    "coordinates": {
+      "lat": 37.5665,
+      "lon": 126.978
+    },
+    "scope": "Seoul fra 1900 e 1945: ultimi anni dell’Impero coreano, annessione del 1910, governo coloniale, infrastrutture, industria, Movimento del Primo Marzo, espansione urbana e guerra totale.",
+    "version": "1.0",
+    "warning": "Il modulo termina nell’agosto 1945. Divisione della penisola, guerra di Corea, ricostruzione e crescita metropolitana postbellica sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SE1",
+      "title": "Seoul Museum of History",
+      "use": "Storia urbana, cartografia e società della capitale.",
+      "url": "https://museum.seoul.go.kr/eng/"
+    },
+    {
+      "id": "SE2",
+      "title": "National Institute of Korean History",
+      "use": "Fonti sul periodo coloniale e movimento indipendentista.",
+      "url": "https://www.history.go.kr/"
+    },
+    {
+      "id": "SE3",
+      "title": "UNESCO — Changdeokgung Palace Complex",
+      "use": "Continuità del paesaggio palaziale e urbano.",
+      "url": "https://whc.unesco.org/en/list/816/"
+    },
+    {
+      "id": "SE4",
+      "title": "National Museum of Korea",
+      "use": "Storia moderna, cultura materiale e collezioni.",
+      "url": "https://www.museum.go.kr/site/eng/home"
+    },
+    {
+      "id": "SE5",
+      "title": "Encyclopaedia Britannica — Seoul",
+      "use": "Storia urbana e ruolo nazionale.",
+      "url": "https://www.britannica.com/place/Seoul"
+    }
+  ]
+}

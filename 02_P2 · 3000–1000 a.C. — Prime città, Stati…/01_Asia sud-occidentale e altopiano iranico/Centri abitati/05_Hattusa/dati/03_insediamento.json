@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Insediamento hattico",
+    "Colonia commerciale assira",
+    "Prima capitale ittita",
+    "Età imperiale",
+    "XIII secolo e abbandono"
+  ],
+  "items": [
+    {
+      "id": "lower",
+      "label": "Città Bassa e Grande Tempio",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "upper",
+      "label": "Città Alta e distretti templari",
+      "lane": "Monumentali",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "palace",
+      "label": "Büyükkale e residenze reali",
+      "lane": "Amministrative",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "walls",
+      "label": "Mura, torri e porte monumentali",
+      "lane": "Difensive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "archives",
+      "label": "Archivi cuneiformi",
+      "lane": "Amministrative",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "silos",
+      "label": "Silos e magazzini",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "water",
+      "label": "Stagni, sorgenti e drenaggi",
+      "lane": "Territorio",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

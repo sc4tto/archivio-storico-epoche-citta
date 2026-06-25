@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Angkor Borei — modulo multi-grafo",
+    "short_name": "Angkor Borei",
+    "site": "Città antica di Angkor Borei e paesaggio del basso Mekong",
+    "modern_location": "Takéo, Cambogia",
+    "coordinates": {
+      "lat": 10.983,
+      "lon": 104.98
+    },
+    "scope": "Insediamento fortificato e nodo fluviale occupato dal IV secolo a.C. almeno fino al VII secolo d.C., con mura, fossati, canali, aree abitative, artigianato, iscrizioni e collegamenti verso Óc Eo e Phnom Da.",
+    "version": "1.0-blocco_30_p3_asia_sud_orientale_5_centri_v1",
+    "warning": "Le fonti cinesi e le tradizioni successive non consentono di identificare automaticamente Angkor Borei con una specifica capitale di Funan. Molte strutture sono sepolte sotto l’abitato moderno e le fasi cronologiche si sovrappongono."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "AB_STARK",
+      "title": "Miriam Stark et al. — Archaeological Field Investigations at Angkor Borei",
+      "url": "https://www.jstor.org/stable/42928408",
+      "use": "scavi, stratigrafia e cronologia del sito"
+    },
+    {
+      "id": "AB_LOMAP",
+      "title": "Lower Mekong Archaeological Project",
+      "url": "https://www2.hawaii.edu/~miriams/angkorborei.html",
+      "use": "ricerca sul basso Mekong, ambiente e gestione del patrimonio"
+    },
+    {
+      "id": "AB_HIGHAM",
+      "title": "Charles Higham — Early Mainland Southeast Asia",
+      "url": "https://search.worldcat.org/search?q=Early+Mainland+Southeast+Asia+Higham",
+      "use": "Funan, delta del Mekong e urbanizzazione"
+    }
+  ]
+}

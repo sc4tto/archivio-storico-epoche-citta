@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Londra Tudor, Stuart e georgiana",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Tamigi e porto",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Maree, navigazione e banchine",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Cantieri, magazzini e dogane",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Governo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Monarchia, Parlamento e City",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Corporazioni, tribunali e tassazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Ricostruzione in mattoni e pietra",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Carpenteria, cupole e coperture",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Compagnie privilegiate e credito",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Assicurazioni, mercati e borse",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Salute urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Peste, incendi e acqua",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Ospedali, parrocchie e assistenza",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

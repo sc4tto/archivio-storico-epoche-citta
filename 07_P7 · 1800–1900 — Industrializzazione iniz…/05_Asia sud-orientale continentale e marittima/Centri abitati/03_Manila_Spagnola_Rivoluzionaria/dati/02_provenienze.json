@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Manila–Intramuros",
+      "lat": 14.5995,
+      "lon": 120.9842,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "pas",
+      "label": "Pasig e Laguna de Bay",
+      "lat": 14.4,
+      "lon": 121.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "pam",
+      "label": "Pampanga e Luzon centrale",
+      "lat": 15.1,
+      "lon": 120.7,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "cav",
+      "label": "Cavite e baia di Manila",
+      "lat": 14.48,
+      "lon": 120.9,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "vis",
+      "label": "Visayas e arcipelago filippino",
+      "lat": 10.5,
+      "lon": 123.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "chi",
+      "label": "Cina meridionale e Hong Kong",
+      "lat": 22.3,
+      "lon": 114.2,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "glo",
+      "label": "Europa, Americhe e mercati globali",
+      "lat": 20.0,
+      "lon": 0.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "pas",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiume Pasig e lago",
+      "food": "riso, pesce, legname e prodotti agricoli"
+    },
+    {
+      "source": "pam",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e corsi d’acqua",
+      "food": "riso, zucchero, tabacco e bestiame"
+    },
+    {
+      "source": "cav",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "baia e cabotaggio",
+      "food": "cantieri, sale e traffici portuali"
+    },
+    {
+      "source": "vis",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione interinsulare",
+      "food": "abaca, zucchero, cera e prodotti insulari"
+    },
+    {
+      "source": "chi",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "giunche e piroscafi",
+      "food": "tessili, tè, porcellana e mercanti"
+    },
+    {
+      "source": "glo",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "linee oceaniche",
+      "food": "macchinari, farina, vino e capitale"
+    }
+  ]
+}

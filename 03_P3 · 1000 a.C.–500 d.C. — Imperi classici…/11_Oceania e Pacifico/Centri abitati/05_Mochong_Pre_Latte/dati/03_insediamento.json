@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Occupazioni costiere pre-Latte",
+    "Sviluppo del villaggio",
+    "Trasformazioni ceramiche",
+    "Contatti regionali del primo millennio d.C.",
+    "Periodo Latte posteriore e conservazione"
+  ],
+  "items": [
+    {
+      "id": "redware",
+      "label": "Ceramica rossa e decorata",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "plainware",
+      "label": "Ceramica comune",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Abitazioni leggere pre-Latte",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "fishing",
+      "label": "Pesca e raccolta marina",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "gardens",
+      "label": "Orticoltura insulare",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "contacts",
+      "label": "Contatti nell’arcipelago",
+      "lane": "Organizzazione",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "latte",
+      "label": "Architetture latte posteriori",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Tokugawa Ieyasu stabilì il proprio governo a Edo all’inizio del XVII secolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "ED1"
+  },
+  {
+    "claim": "Edo divenne il centro politico dello shogunato Tokugawa.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "ED1; ED3"
+  },
+  {
+    "claim": "Fossati, canali e residenze daimyo strutturavano la città-castello.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "ED3; ED4"
+  },
+  {
+    "claim": "Il sankin-kōtai contribuì alla crescita delle reti stradali e dei consumi urbani.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "ED1; ED3"
+  },
+  {
+    "claim": "Incendi ricorrenti influenzarono materiali, spazi aperti e ricostruzioni.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "ED3; ED4"
+  },
+  {
+    "claim": "Mercanti, artigiani, teatri e stampe sostennero una cultura urbana distinta.",
+    "theme": "cultura",
+    "status": "documentato",
+    "source": "ED2; ED5"
+  },
+  {
+    "claim": "La baia e la navigazione costiera erano essenziali per l’approvvigionamento.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "ED1; ED3"
+  },
+  {
+    "claim": "La trasformazione di Edo in Tokyo dopo il 1868 è fuori dal limite del modulo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "ED1"
+  }
+]

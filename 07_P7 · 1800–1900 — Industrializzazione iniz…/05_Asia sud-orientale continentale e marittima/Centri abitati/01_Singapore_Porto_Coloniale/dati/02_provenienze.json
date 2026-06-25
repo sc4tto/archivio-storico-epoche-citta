@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Singapore",
+      "lat": 1.2903,
+      "lon": 103.8519,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "joh",
+      "label": "Johor e penisola malese",
+      "lat": 1.7,
+      "lon": 103.65,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "ria",
+      "label": "Riau e isole dello stretto",
+      "lat": 0.8,
+      "lon": 104.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "sea",
+      "label": "Stretto di Melaka",
+      "lat": 2.0,
+      "lon": 102.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "chi",
+      "label": "Cina meridionale",
+      "lat": 23.1,
+      "lon": 113.3,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "ind",
+      "label": "India e Ceylon",
+      "lat": 12.0,
+      "lon": 80.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "arc",
+      "label": "Giava, Sumatra e arcipelago",
+      "lat": -3.0,
+      "lon": 108.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "joh",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade, fiumi e piccoli porti",
+      "food": "gambier, pepe, legname e derrate"
+    },
+    {
+      "source": "ria",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione dello stretto",
+      "food": "pesce, sago, prodotti forestali e marinai"
+    },
+    {
+      "source": "sea",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte dello stretto di Melaka",
+      "food": "merci di transito e servizi marittimi"
+    },
+    {
+      "source": "chi",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "giunche e piroscafi",
+      "food": "tè, porcellana, seta e manodopera migrante"
+    },
+    {
+      "source": "ind",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte dell’Oceano Indiano",
+      "food": "riso, tessili, oppio e lavoratori"
+    },
+    {
+      "source": "arc",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cabotaggio e linee a vapore",
+      "food": "spezie, zucchero, stagno e prodotti insulari"
+    }
+  ]
+}

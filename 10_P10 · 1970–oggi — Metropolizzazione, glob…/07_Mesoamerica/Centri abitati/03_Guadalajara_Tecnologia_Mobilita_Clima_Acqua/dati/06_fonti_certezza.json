@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "SITEUR gestisce una rete ferroviaria metropolitana articolata in più linee, inclusa la Linea 3 aperta nel 2020.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "GJ1"
+  },
+  {
+    "claim": "Mi Macro Periférico è un corridoio BRT orbitale inaugurato nel 2022.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "GJ2"
+  },
+  {
+    "claim": "Il PACmetro collega mobilità, riduzione delle emissioni e adattamento climatico.",
+    "theme": "clima",
+    "status": "documentato",
+    "source": "GJ3"
+  },
+  {
+    "claim": "Il PIMUS identifica l’espansione dispersa e l’aumento delle distanze come problemi strutturali.",
+    "theme": "pianificazione",
+    "status": "documentato",
+    "source": "GJ4"
+  },
+  {
+    "claim": "Gli obiettivi del PACmetro successivi al 25 giugno 2026 sono piani futuri.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "GJ3"
+  },
+  {
+    "claim": "Guadalajara è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Espansione periferica, disuguaglianze, informalità e costi ambientali della mobilità non sono presentati come processi neutrali.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Benin City del regno Edo",
+    "site": "Benin City del regno Edo",
+    "modern_location": "Benin City, Nigeria",
+    "coordinates": {
+      "lat": 6.335,
+      "lon": 5.6037
+    },
+    "scope": "Benin City fra 1500 e 1800: capitale Edo, corte dell’oba, corporazioni artigiane, mercati, earthworks, agricoltura periurbana e rapporti commerciali con il delta del Niger e l’Atlantico.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1800. La spedizione britannica del 1897, la distruzione del palazzo storico e la città coloniale successiva sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "BE1",
+      "title": "Encyclopaedia Britannica — Benin City",
+      "use": "Ruolo di capitale del regno Edo, palazzo, mura e storia urbana.",
+      "url": "https://www.britannica.com/place/Benin-City"
+    },
+    {
+      "id": "BE2",
+      "title": "The Metropolitan Museum of Art — The Kingdom of Benin",
+      "use": "Arte di corte, corporazioni e cultura materiale Edo.",
+      "url": "https://www.metmuseum.org/toah/hd/beni_1/hd_beni_1.htm"
+    },
+    {
+      "id": "BE3",
+      "title": "British Museum — Benin Bronzes",
+      "use": "Oggetti di corte, bronzo, avorio e contesto storico.",
+      "url": "https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/benin-bronzes"
+    },
+    {
+      "id": "BE4",
+      "title": "Smithsonian National Museum of African Art — Benin",
+      "use": "Arte, ritualità e istituzioni del regno.",
+      "url": "https://africa.si.edu/"
+    },
+    {
+      "id": "BE5",
+      "title": "Edo State Government — Culture and heritage",
+      "use": "Contesto territoriale e patrimonio Edo.",
+      "url": "https://edostate.gov.ng/"
+    }
+  ]
+}

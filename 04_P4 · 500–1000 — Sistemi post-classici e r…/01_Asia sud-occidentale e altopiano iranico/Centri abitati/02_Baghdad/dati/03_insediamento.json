@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Fondazione della Città Rotonda nel 762",
+    "Espansione lungo il Tigri",
+    "Età di Harun al-Rashid e al-Ma’mun",
+    "Trasferimento temporaneo della corte a Samarra",
+    "Ritorno della corte e frammentazione politica"
+  ],
+  "items": [
+    {
+      "id": "round",
+      "label": "Città Rotonda di al-Mansur",
+      "lane": "Urbane",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "palace",
+      "label": "Palazzo califfale e moschea centrale",
+      "lane": "Politiche",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "markets",
+      "label": "Mercati e quartieri lungo il Tigri",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "canals",
+      "label": "Canali, ponti e approdi",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "scholars",
+      "label": "Circoli di traduzione e sapere",
+      "lane": "Istituzionali",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "suburbs",
+      "label": "Karkh, Rusafa e sobborghi",
+      "lane": "Urbane",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "samarra",
+      "label": "Corte trasferita a Samarra",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

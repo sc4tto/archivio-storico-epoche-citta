@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Occupazione neolitica",
+    "Primo villaggio stabile",
+    "Introduzione del bronzo",
+    "Cimitero ricco",
+    "Fasi bronzee tarde"
+  ],
+  "items": [
+    {
+      "id": "houses",
+      "label": "Abitazioni e superfici domestiche",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "rice",
+      "label": "Agricoltura del riso",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "pottery",
+      "label": "Produzione ceramica",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "bronze",
+      "label": "Bronzi e ornamenti",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "burials",
+      "label": "Cimitero con molte sepolture",
+      "lane": "Funerarie",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "groups",
+      "label": "Raggruppamenti funerari",
+      "lane": "Organizzazione",
+      "start": 2,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "change",
+      "label": "Riduzione dei corredi",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

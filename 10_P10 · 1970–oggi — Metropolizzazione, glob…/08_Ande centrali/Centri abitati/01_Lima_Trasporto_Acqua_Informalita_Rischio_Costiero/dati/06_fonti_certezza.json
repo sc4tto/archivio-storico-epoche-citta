@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "La Linea 1 è una componente consolidata del trasporto metropolitano di Lima.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "LI1"
+  },
+  {
+    "claim": "Nel maggio 2026 la Linea 2 era ancora un progetto in costruzione e non una rete completata.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "LI2"
+  },
+  {
+    "claim": "Il Piano locale 2021–2030 integra acqua, mobilità, rifiuti, calore e vulnerabilità sociale.",
+    "theme": "clima",
+    "status": "documentato",
+    "source": "LI3"
+  },
+  {
+    "claim": "La sicurezza idrica di Lima richiede preparazione a siccità e maggiore resilienza delle infrastrutture.",
+    "theme": "acqua",
+    "status": "documentato",
+    "source": "LI4"
+  },
+  {
+    "claim": "Il Piano 2021–2030 e le fasi future della Linea 2 sono qualificati come piano e progetto futuri.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "LI2"
+  },
+  {
+    "claim": "Lima è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Informalità, scarsità idrica, sgomberi e disuguaglianze territoriali non sono presentati come processi neutrali.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

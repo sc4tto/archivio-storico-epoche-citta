@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "L’Instituto de Vivienda Urbana, creato nel 1950, promosse complessi abitativi e architettura moderna.",
+    "theme": "abitazione",
+    "status": "documentato",
+    "source": "SS1"
+  },
+  {
+    "claim": "Caffè, cotone, infrastrutture e integrazione centroamericana sostennero industrializzazione e crescita della capitale.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "SS2; SS4"
+  },
+  {
+    "claim": "La modernizzazione avvenne sotto governi militari e con spazi politici limitati.",
+    "theme": "autoritarismo",
+    "status": "documentato",
+    "source": "SS2"
+  },
+  {
+    "claim": "Migrazione rurale e insufficienza dell’offerta abitativa alimentarono mesones e insediamenti informali.",
+    "theme": "urbanizzazione",
+    "status": "sintesi",
+    "source": "SS1; SS2"
+  },
+  {
+    "claim": "La guerra del 1969 con Honduras provocò interruzioni regionali e ritorni coercitivi di migranti salvadoregni.",
+    "theme": "conflitto",
+    "status": "documentato",
+    "source": "SS3"
+  },
+  {
+    "claim": "San Salvador, industrializzazione, vivienda e guerra del 1969 è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Autoritarismo militare, repressione di proteste, espulsioni e ritorni forzati legati alla guerra del 1969 sono descritti come coercizione e violenza; lavoratori, migranti, studenti e abitanti dei mesones sono rappresentati come soggetti politici e sociali.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

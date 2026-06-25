@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "San Lorenzo Tenochtitlán — modulo multi-grafo",
+    "short_name": "San Lorenzo Tenochtitlán",
+    "site": "Centro olmeco di San Lorenzo Tenochtitlán",
+    "modern_location": "Bacino del Coatzacoalcos, Veracruz, Messico",
+    "coordinates": {
+      "lat": 17.95,
+      "lon": -94.79
+    },
+    "scope": "Grande centro del Formativo iniziale costruito su un altopiano modificato, con piattaforme, lagune artificiali, drenaggi, sculture monumentali e una rete di abitati agricoli nel bacino del Coatzacoalcos.",
+    "version": "1.0-blocco_21_p2_mesoamerica_5_centri_v1",
+    "warning": "Il complesso comprende San Lorenzo, Tenochtitlán, Potrero Nuevo e numerosi siti minori. Le stime demografiche, il grado di centralizzazione politica e la funzione di singole sculture restano discussi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "SL_COE_DIEHL",
+      "title": "Coe e Diehl — In the Land of the Olmec, Volume 1: The Archaeology of San Lorenzo Tenochtitlán",
+      "url": "https://utpress.utexas.edu/9780292710962/",
+      "use": "stratigrafia, architettura, sculture e cronologia"
+    },
+    {
+      "id": "SL_CYPHERS",
+      "title": "Cyphers — Reconstructing Olmec Life at San Lorenzo",
+      "url": "https://www.cambridge.org/core/journals/ancient-mesoamerica",
+      "use": "organizzazione del centro e risultati del progetto archeologico"
+    },
+    {
+      "id": "SL_POOL",
+      "title": "Pool — Olmec Archaeology and Early Mesoamerica",
+      "url": "https://doi.org/10.1017/CBO9780511812286",
+      "use": "sintesi regionale, cronologia e reti di scambio"
+    }
+  ]
+}

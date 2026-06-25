@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Pre-Tichitt mobile",
+    "Primo agropastoralismo",
+    "Insediamenti in pietra",
+    "Fase classica",
+    "Aridificazione e dispersione"
+  ],
+  "items": [
+    {
+      "id": "camps",
+      "label": "Campi mobili e stagionali",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "compounds",
+      "label": "Composti in pietra a secco",
+      "lane": "Abitative",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "enclosures",
+      "label": "Recinti per il bestiame",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "storage",
+      "label": "Spazi di deposito",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "walls",
+      "label": "Muri comunitari e delimitazioni",
+      "lane": "Monumentali",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "tumuli",
+      "label": "Tumuli funerari",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "decline",
+      "label": "Riduzione per aridificazione",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

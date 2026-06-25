@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Prime presenze Lapita",
+    "Insediamento stabile",
+    "Produzione ceramica intensa",
+    "Reti regionali mature",
+    "Trasformazioni post-Lapita"
+  ],
+  "items": [
+    {
+      "id": "houses",
+      "label": "Strutture domestiche leggere",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "pottery",
+      "label": "Ceramica dentellata",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "obsidian",
+      "label": "Scheggiatura di ossidiana",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "shell",
+      "label": "Lavorazione della conchiglia",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "gardens",
+      "label": "Orti tropicali",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "fishing",
+      "label": "Pesca e raccolta marina",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "plainware",
+      "label": "Transizione a ceramica meno decorata",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Niah Caves",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Foresta tropicale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Piante alimentari",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Gestione del fuoco",
+          "status": "sintesi"
+        },
+        {
+          "id": "k1_3",
+          "label": "Vegecoltura",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Caccia e pesca",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Trappole e cattura",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_2",
+          "label": "Fauna forestale",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Risorse acquatiche",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Tecnologia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Utensili litici",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Lavorazione di fibre",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_3",
+          "label": "Strumenti organici",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Mobilità",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Rete di grotte",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Foresta e costa",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Connessioni insulari",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Pratiche funerarie",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Scelta delle cavità",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Corredi",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_3",
+          "label": "Memoria del luogo",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Produzione del cibo",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Riso nelle fasi tarde",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_2",
+          "label": "Arboricoltura",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_3",
+          "label": "Agricoltura nelle fasi più antiche",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

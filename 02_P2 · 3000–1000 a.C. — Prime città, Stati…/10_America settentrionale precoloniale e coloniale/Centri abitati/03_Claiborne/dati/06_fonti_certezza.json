@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Claiborne fu un importante sito costiero del Tardo Arcaico",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "CLAIBORNE_BRUSETH"
+  },
+  {
+    "claim": "Il deposito di conchiglie aveva una configurazione ad anello",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "CLAIBORNE_RUSSO"
+  },
+  {
+    "claim": "Sono documentati oggetti di argilla tipici della sfera Poverty Point",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "CLAIBORNE_BRUSETH"
+  },
+  {
+    "claim": "La dieta comprendeva abbondanti risorse estuarine",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "CLAIBORNE_BRUSETH"
+  },
+  {
+    "claim": "Il sito partecipava a reti fra costa e interno",
+    "theme": "Scambi",
+    "status": "sintesi",
+    "source": "CLAIBORNE_SYNTH"
+  },
+  {
+    "claim": "L’anello era esclusivamente un monumento rituale",
+    "theme": "Funzione",
+    "status": "non_documentato",
+    "source": "Deposito domestico e intenzionale discussi"
+  },
+  {
+    "claim": "Claiborne era una colonia politica di Poverty Point",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Relazione politica ignota"
+  },
+  {
+    "claim": "La forma originaria è completamente conservata",
+    "theme": "Conservazione",
+    "status": "non_documentato",
+    "source": "Forti alterazioni moderne"
+  }
+]

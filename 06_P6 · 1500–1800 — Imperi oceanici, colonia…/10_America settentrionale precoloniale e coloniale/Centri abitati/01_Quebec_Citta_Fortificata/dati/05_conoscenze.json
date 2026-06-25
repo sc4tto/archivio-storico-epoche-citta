@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Québec, città fortificata",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "San Lorenzo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Navigazione, ghiaccio e maree",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Porto, pilotaggio e trasporto",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Fortificazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Bastioni, batterie e artiglieria",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Città alta, porte e mura",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Nuova Francia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Governo, Chiesa e seigneuries",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Commercio delle pellicce e dogane",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Relazioni indigene",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Diplomazia Wendat, Innu e Wabanaki",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Conflitto, alleanze e mediazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Pietra, calce e carpenteria",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Adattamento al clima e agli incendi",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

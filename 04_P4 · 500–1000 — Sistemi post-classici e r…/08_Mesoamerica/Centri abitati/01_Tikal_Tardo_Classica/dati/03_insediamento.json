@@ -1,0 +1,74 @@
+{
+  "phases": [
+    "500–650",
+    "650–750",
+    "750–850",
+    "850–1000"
+  ],
+  "items": [
+    {
+      "id": "ti1",
+      "label": "Ripresa dinastica e nuove alleanze",
+      "lane": "Politica",
+      "start": 0,
+      "end": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "ti2",
+      "label": "Costruzione di templi, palazzi e complessi gemelli",
+      "lane": "Monumentalità",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ti3",
+      "label": "Espansione di bacini e infrastrutture idriche",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ti4",
+      "label": "Crescita di quartieri e produzione periferica",
+      "lane": "Abitato",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ti5",
+      "label": "Conflitti con Calakmul e altri regni",
+      "lane": "Politica",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ti6",
+      "label": "Ultime grandi iscrizioni e stela del 869",
+      "lane": "Scrittura e culto",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ti7",
+      "label": "Riduzione della costruzione monumentale",
+      "lane": "Monumentalità",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ti8",
+      "label": "Contrazione e dispersione della popolazione",
+      "lane": "Abitato",
+      "start": 3,
+      "end": 3,
+      "status": "sintesi"
+    }
+  ]
+}

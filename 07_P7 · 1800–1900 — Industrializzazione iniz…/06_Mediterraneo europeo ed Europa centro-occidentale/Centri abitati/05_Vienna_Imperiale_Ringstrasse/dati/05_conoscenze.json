@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Vienna imperiale e della Ringstrasse",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Ringstrasse, demolizioni e lottizzazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Annessioni, quartieri e regolamenti edilizi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Acqua e fiume",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Regolazione del Danubio",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Acquedotti, fognature e salute",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Trasporti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Ferrovie imperiali e stazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Tram, ponti e navigazione danubiana",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Storicismo e monumentalità",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Case d’affitto e strutture metalliche",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Società imperiale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Migrazioni multietniche e amministrazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Disuguaglianze, lavoro e movimenti politici",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

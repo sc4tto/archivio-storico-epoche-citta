@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Guadalajara repubblicana e ferroviaria",
+    "site": "Guadalajara repubblicana e ferroviaria",
+    "modern_location": "Guadalajara, Jalisco, Messico",
+    "coordinates": {
+      "lat": 20.6597,
+      "lon": -103.3496
+    },
+    "scope": "Guadalajara fra 1800 e 1900: insurrezione indipendentista, formazione dello Stato di Jalisco, mercati regionali, Hospicio Cabañas, manifatture, riforme liberali, ferrovie e crescita dei quartieri.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Rivoluzione, industrializzazione novecentesca, autostrade e metropolizzazione della valle di Atemajac sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "GU1",
+      "title": "UNESCO — Hospicio Cabañas, Guadalajara",
+      "use": "Architettura, assistenza e storia urbana.",
+      "url": "https://whc.unesco.org/en/list/815/"
+    },
+    {
+      "id": "GU2",
+      "title": "Encyclopaedia Britannica — Guadalajara",
+      "use": "Storia della città e ruolo regionale.",
+      "url": "https://www.britannica.com/place/Guadalajara-Mexico"
+    },
+    {
+      "id": "GU3",
+      "title": "Gobierno del Estado de Jalisco",
+      "use": "Storia e territorio regionale.",
+      "url": "https://www.jalisco.gob.mx/"
+    },
+    {
+      "id": "GU4",
+      "title": "Instituto Nacional de Antropología e Historia — Jalisco",
+      "use": "Monumenti e patrimonio storico.",
+      "url": "https://www.inah.gob.mx/"
+    },
+    {
+      "id": "GU5",
+      "title": "Universidad de Guadalajara — Biblioteca Pública del Estado de Jalisco",
+      "use": "Fonti regionali e cartografia.",
+      "url": "https://bpej.udg.mx/"
+    }
+  ]
+}

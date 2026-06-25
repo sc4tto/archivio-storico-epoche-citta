@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Kyoto fu capitale imperiale dal 794 e centro culturale per oltre un millennio.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "KY1; KY3"
+  },
+  {
+    "claim": "L’architettura lignea e i giardini documentano trasformazioni dal X al XV secolo.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "KY1; KY2"
+  },
+  {
+    "claim": "Nel periodo Kamakura il potere fu diviso fra corte di Kyoto e governo guerriero orientale.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "KY3; KY5"
+  },
+  {
+    "claim": "Lo shogunato Ashikaga stabilì la propria sede a Muromachi.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "KY3; KY5"
+  },
+  {
+    "claim": "Templi e santuari erano anche grandi attori economici e territoriali.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "KY3; KY4"
+  },
+  {
+    "claim": "Le reti verso Uji, Ōmi e Osaka sostenevano rifornimenti e scambi.",
+    "theme": "reti",
+    "status": "sintesi",
+    "source": "KY1; KY3"
+  },
+  {
+    "claim": "La guerra Ōnin devastò vaste parti della città nel XV secolo.",
+    "theme": "conflitto",
+    "status": "documentato",
+    "source": "KY3"
+  },
+  {
+    "claim": "Molti edifici conservati furono ricostruiti e richiedono una lettura stratigrafica.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "KY1; KY2"
+  }
+]

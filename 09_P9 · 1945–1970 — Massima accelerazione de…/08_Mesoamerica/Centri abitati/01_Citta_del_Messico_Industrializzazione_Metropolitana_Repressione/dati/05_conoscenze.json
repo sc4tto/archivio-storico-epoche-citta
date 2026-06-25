@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Città del Messico, industrializzazione e metropoli autoritaria",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Industria e approvvigionamento",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Fabbriche, mercati, ferrovie, autotrasporto e reti nazionali",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Concentrazione di occupazione, inquinamento e dipendenza alimentare",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Pianificazione e grandi opere",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Viaducto, Periférico, Metro, drenaggio e impianti olimpici",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Espropri, demolizioni e priorità alla motorizzazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Abitazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Unità abitative, fraccionamientos e edilizia pubblica",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Colonias populares, affitto, autocostruzione e deficit di servizi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Sanità e istruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Ospedali, campagne sanitarie, scuole e università",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Distribuzione diseguale e pressione della crescita demografica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Politica e diritti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Presidenzialismo, controllo del Distrito Federal e corporativismo",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Movimento studentesco, detenzioni e repressione del 1968",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

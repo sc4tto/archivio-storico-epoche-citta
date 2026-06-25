@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Philadelphia fu uno dei maggiori centri manifatturieri degli Stati Uniti ottocenteschi.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "PH2; PH4"
+  },
+  {
+    "claim": "Ferrovie e canali collegarono la città al carbone e all’interno.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "PH4; PH5"
+  },
+  {
+    "claim": "Il Consolidation Act del 1854 ampliò fortemente il territorio municipale.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "PH2; PH3"
+  },
+  {
+    "claim": "La Centennial Exposition del 1876 celebrò industria e tecnologia.",
+    "theme": "cultura",
+    "status": "documentato",
+    "source": "PH2; PH4"
+  },
+  {
+    "claim": "L’immigrazione alimentò crescita, conflitti nativisti e nuovi quartieri.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "PH2; PH5"
+  },
+  {
+    "claim": "Comunità afroamericane e abolizionisti furono parte centrale della storia urbana.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "PH1; PH2"
+  },
+  {
+    "claim": "Industria e sovraffollamento produssero inquinamento e rischi sanitari.",
+    "theme": "ambiente",
+    "status": "documentato",
+    "source": "PH2; PH3"
+  },
+  {
+    "claim": "La metropolitana del 1907 è esclusa.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "PH3"
+  }
+]

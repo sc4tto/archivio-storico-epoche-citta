@@ -1,0 +1,228 @@
+{
+  "nodes": [
+    {
+      "id": "env1",
+      "label": "Pianoro alluvionale vicino al fiume Mitla",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "env2",
+      "label": "Valle semiarida con mesquite e cactus",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "env3",
+      "label": "Piogge estive e raccolte concentrate",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "crop1",
+      "label": "Zucca e piante coltivate in piccola scala",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "crop2",
+      "label": "Mesquite, ghiande, agave e semi",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "animal",
+      "label": "Cervi, conigli e piccola fauna",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "aquatic",
+      "label": "Risorse fluviali limitate",
+      "layer": 1,
+      "status": "inferito"
+    },
+    {
+      "id": "wild",
+      "label": "Frutti stagionali e piante selvatiche",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "cultivate",
+      "label": "Raccolta intensiva e orticoltura iniziale",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "herd",
+      "label": "Caccia collettiva o familiare",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "fishhunt",
+      "label": "Raccolta presso il corso d’acqua",
+      "layer": 2,
+      "status": "inferito"
+    },
+    {
+      "id": "grind",
+      "label": "Macinazione su metati",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "cook",
+      "label": "Cottura su focolari",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "store",
+      "label": "Accumulo stagionale di alimenti",
+      "layer": 3,
+      "status": "inferito"
+    },
+    {
+      "id": "butcher",
+      "label": "Lavorazione della selvaggina",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "meals",
+      "label": "Pasti durante aggregazioni stagionali",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "evidence",
+      "label": "Metati, strumenti e aree di attività",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "refuse",
+      "label": "Scarti litici e residui di combustione",
+      "layer": 4,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "env1",
+      "target": "crop1",
+      "label": "ambiente produttivo",
+      "status": "sintesi"
+    },
+    {
+      "source": "env1",
+      "target": "crop2",
+      "label": "ambiente produttivo",
+      "status": "sintesi"
+    },
+    {
+      "source": "env2",
+      "target": "aquatic",
+      "label": "risorse locali",
+      "status": "sintesi"
+    },
+    {
+      "source": "env3",
+      "target": "animal",
+      "label": "habitat animale",
+      "status": "sintesi"
+    },
+    {
+      "source": "env3",
+      "target": "wild",
+      "label": "raccolta e caccia",
+      "status": "sintesi"
+    },
+    {
+      "source": "crop1",
+      "target": "cultivate",
+      "label": "produzione o raccolta",
+      "status": "sintesi"
+    },
+    {
+      "source": "crop2",
+      "target": "cultivate",
+      "label": "produzione o raccolta",
+      "status": "sintesi"
+    },
+    {
+      "source": "animal",
+      "target": "herd",
+      "label": "caccia o gestione",
+      "status": "sintesi"
+    },
+    {
+      "source": "aquatic",
+      "target": "fishhunt",
+      "label": "pesca o raccolta",
+      "status": "inferito"
+    },
+    {
+      "source": "wild",
+      "target": "fishhunt",
+      "label": "caccia o raccolta",
+      "status": "inferito"
+    },
+    {
+      "source": "cultivate",
+      "target": "grind",
+      "label": "trasformazione vegetale",
+      "status": "documentato"
+    },
+    {
+      "source": "cultivate",
+      "target": "store",
+      "label": "conservazione",
+      "status": "inferito"
+    },
+    {
+      "source": "herd",
+      "target": "butcher",
+      "label": "prodotti animali",
+      "status": "sintesi"
+    },
+    {
+      "source": "fishhunt",
+      "target": "butcher",
+      "label": "trattamento delle prede",
+      "status": "sintesi"
+    },
+    {
+      "source": "grind",
+      "target": "meals",
+      "label": "preparazione",
+      "status": "sintesi"
+    },
+    {
+      "source": "cook",
+      "target": "meals",
+      "label": "cottura",
+      "status": "sintesi"
+    },
+    {
+      "source": "store",
+      "target": "evidence",
+      "label": "depositi o contenitori",
+      "status": "documentato"
+    },
+    {
+      "source": "butcher",
+      "target": "evidence",
+      "label": "resti faunistici",
+      "status": "documentato"
+    },
+    {
+      "source": "cook",
+      "target": "refuse",
+      "label": "cenere e residui",
+      "status": "documentato"
+    }
+  ]
+}

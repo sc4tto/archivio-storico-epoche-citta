@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Beirut",
+      "lat": 33.8938,
+      "lon": 35.5018,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "mtl",
+      "label": "Monte Libano",
+      "lat": 33.9,
+      "lon": 35.7,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "bek",
+      "label": "Valle della Bekaa",
+      "lat": 33.85,
+      "lon": 36.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "sid",
+      "label": "Sidone e costa meridionale",
+      "lat": 33.56,
+      "lon": 35.37,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "dam",
+      "label": "Damasco",
+      "lat": 33.51,
+      "lon": 36.29,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "egy",
+      "label": "Alessandria e Egitto",
+      "lat": 31.2,
+      "lon": 29.92,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "eur",
+      "label": "Marsiglia ed Europa",
+      "lat": 43.3,
+      "lon": 5.37,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "mtl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade montane",
+      "food": "seta, frutta, legname e latticini"
+    },
+    {
+      "source": "bek",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e strade",
+      "food": "grano, bestiame e vino"
+    },
+    {
+      "source": "sid",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cabotaggio e strada",
+      "food": "agrumi, olio e prodotti costieri"
+    },
+    {
+      "source": "dam",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia Beirut–Damasco",
+      "food": "merci, pellegrini e prodotti artigiani"
+    },
+    {
+      "source": "egy",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione mediterranea",
+      "food": "farina, cotone e traffici levantini"
+    },
+    {
+      "source": "eur",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "linee a vapore",
+      "food": "capitale, macchinari, migranti di ritorno e beni di consumo"
+    }
+  ]
+}

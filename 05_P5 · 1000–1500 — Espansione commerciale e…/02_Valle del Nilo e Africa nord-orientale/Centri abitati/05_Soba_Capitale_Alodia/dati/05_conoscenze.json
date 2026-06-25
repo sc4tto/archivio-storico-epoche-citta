@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Soba, capitale di Alodia",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Coltivazione alluvionale",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Gestione di sorgo, sesamo e bestiame",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Strade e quartieri",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Prospezione della città estesa",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Mattoni rossi e crudi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Intonaci e pitture",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Religione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Chiese e comunità cristiane",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Rapporti ecclesiastici regionali",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Scambi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Nilo, Butana ed Etiopia",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_1",
+          "label": "Mercati e redistribuzione",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

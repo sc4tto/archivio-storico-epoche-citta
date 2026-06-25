@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Los Angeles",
+      "lat": 34.0522,
+      "lon": -118.2437,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "san",
+      "label": "San Pedro e porto",
+      "lat": 33.74,
+      "lon": -118.27,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "sfv",
+      "label": "San Fernando Valley",
+      "lat": 34.25,
+      "lon": -118.45,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "owv",
+      "label": "Owens Valley",
+      "lat": 36.8,
+      "lon": -118.2,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "cen",
+      "label": "Central Valley",
+      "lat": 36.5,
+      "lon": -119.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "mex",
+      "label": "Messico settentrionale",
+      "lat": 31.0,
+      "lon": -112.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "pac",
+      "label": "Pacifico e Asia",
+      "lat": 25.0,
+      "lon": -150.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "san",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto e ferrovie",
+      "food": "pesce, petrolio, importazioni e cantieristica"
+    },
+    {
+      "source": "sfv",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "streetcars e strade",
+      "food": "agrumi, latte, ortaggi e nuovi residenti"
+    },
+    {
+      "source": "owv",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "acquedotto",
+      "food": "acqua"
+    },
+    {
+      "source": "cen",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e camion",
+      "food": "frutta, verdure, cereali e manodopera"
+    },
+    {
+      "source": "mex",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e strade",
+      "food": "lavoratori, bestiame, ortaggi e commercio"
+    },
+    {
+      "source": "pac",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte transpacifiche",
+      "food": "merci, migranti, pellicole e prodotti oceanici"
+    }
+  ]
+}

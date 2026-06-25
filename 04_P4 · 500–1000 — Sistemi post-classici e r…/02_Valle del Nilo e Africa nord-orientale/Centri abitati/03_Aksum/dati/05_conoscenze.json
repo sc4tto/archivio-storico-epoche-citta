@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Aksum",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Monumenti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Stele",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Tombe reali",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Tutte le stele nel P4",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Cristianesimo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Chiese",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Iscrizioni cristiane",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Scomparsa di culti precedenti",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Adulis",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Avorio e Mar Rosso",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Controllo navale invariato fino al X secolo",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Moneta",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Emissioni in oro, argento e bronzo",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Iconografia cristiana",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Cronologia completa di ogni serie",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Politica",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Regno tardoaksumita",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Declino nel X secolo",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_3",
+          "label": "Un’unica causa del declino",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Metodo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Epigrafia",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Scavi di palazzi e tombe",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Estensione urbana interamente nota",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

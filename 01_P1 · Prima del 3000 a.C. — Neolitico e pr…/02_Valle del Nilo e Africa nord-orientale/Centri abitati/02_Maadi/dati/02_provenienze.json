@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Maadi",
+      "lat": 29.96,
+      "lon": 31.25,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "nile",
+      "label": "Valle del Nilo presso Maadi",
+      "lat": 29.94,
+      "lon": 31.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": -20,
+      "anchor": "end"
+    },
+    {
+      "id": "wadi",
+      "label": "Wadi e deserto orientale",
+      "lat": 29.9,
+      "lon": 31.45,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 10,
+      "dy": 25,
+      "anchor": "start"
+    },
+    {
+      "id": "delta",
+      "label": "Delta e siti Maadi-Buto",
+      "lat": 30.3,
+      "lon": 31.2,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 28,
+      "anchor": "middle"
+    },
+    {
+      "id": "levant",
+      "label": "Levant meridionale",
+      "lat": 31.5,
+      "lon": 35.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "upper",
+      "label": "Alto Egitto / area Naqada",
+      "lat": 26.0,
+      "lon": 32.7,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "nile",
+      "target": "site",
+      "label": "acqua, colture, pesce e argille",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "wadi",
+      "target": "site",
+      "label": "selce, pietra e pascolo",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "delta",
+      "target": "site",
+      "label": "reti del Basso Egitto",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "levant",
+      "target": "site",
+      "label": "rame, ceramiche e modelli tecnologici",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "upper",
+      "target": "site",
+      "label": "interazione e sostituzione culturale nella fase tarda",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

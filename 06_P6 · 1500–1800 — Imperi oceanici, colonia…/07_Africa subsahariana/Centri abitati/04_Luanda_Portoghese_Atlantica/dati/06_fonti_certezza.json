@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Luanda fu fondata dai portoghesi nel 1576.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "LU1"
+  },
+  {
+    "claim": "Divenne centro amministrativo dell’Angola portoghese nel XVII secolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "LU1"
+  },
+  {
+    "claim": "Il porto fu un importante punto di partenza della tratta schiavistica verso il Brasile.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "LU1; LU5"
+  },
+  {
+    "claim": "Fortezze e chiese strutturarono la Cidade Alta.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "LU1; LU3"
+  },
+  {
+    "claim": "Porto, mercati e magazzini si concentravano nella parte bassa.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "LU1; LU3"
+  },
+  {
+    "claim": "Le reti con l’entroterra mbundu fornivano derrate, merci e persone costrette alla schiavitù.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "LU1; LU4; LU5"
+  },
+  {
+    "claim": "La città fu occupata dagli olandesi nel XVII secolo e poi riconquistata dai portoghesi.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "LU1; LU3"
+  },
+  {
+    "claim": "Le trasformazioni ottocentesche sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "LU1"
+  }
+]

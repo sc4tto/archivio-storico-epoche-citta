@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "ma1",
+      "label": "Occupazioni anteriori e crescita del nucleo",
+      "lane": "Insediamento",
+      "start": 0,
+      "end": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "ma2",
+      "label": "Formazione della grande città murata",
+      "lane": "Urbanistica",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ma3",
+      "label": "Consolidamento come capitale regionale",
+      "lane": "Politica",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ma4",
+      "label": "Templi, colonnati e piazze centrali",
+      "lane": "Costruzione",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ma5",
+      "label": "Densificazione dei quartieri residenziali",
+      "lane": "Società",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ma6",
+      "label": "Mercati, artigianato e reti costiere",
+      "lane": "Economia",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ma7",
+      "label": "Tensioni interne e incendi",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ma8",
+      "label": "Dissoluzione politica verso la metà del XV secolo",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

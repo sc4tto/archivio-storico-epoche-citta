@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Harappa",
+      "lat": 30.63,
+      "lon": 72.87,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "ravi",
+      "label": "Paleoalvei del Ravi",
+      "lat": 30.7,
+      "lon": 72.7,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": -20,
+      "anchor": "end"
+    },
+    {
+      "id": "plain",
+      "label": "Pianura del Punjab",
+      "lat": 30.5,
+      "lon": 73.1,
+      "status": "sintesi",
+      "kind": "locale",
+      "dx": 10,
+      "dy": 25,
+      "anchor": "start"
+    },
+    {
+      "id": "salt",
+      "label": "Salt Range e colline",
+      "lat": 32.5,
+      "lon": 72.5,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 28,
+      "anchor": "middle"
+    },
+    {
+      "id": "gomal",
+      "label": "Piana del Gomal",
+      "lat": 31.5,
+      "lon": 70.1,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "baloch",
+      "label": "Belucistan",
+      "lat": 29.5,
+      "lon": 67.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "ravi",
+      "target": "site",
+      "label": "acqua, pesca, trasporto e limo",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "plain",
+      "target": "site",
+      "label": "colture e pascoli",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "salt",
+      "target": "site",
+      "label": "pietra e materiali minerali",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "gomal",
+      "target": "site",
+      "label": "reti early Harappan",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "baloch",
+      "target": "site",
+      "label": "tradizioni ceramiche e artigianali",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

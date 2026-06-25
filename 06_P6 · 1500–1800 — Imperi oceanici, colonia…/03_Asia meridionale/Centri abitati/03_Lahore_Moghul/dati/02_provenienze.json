@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Lahore",
+      "lat": 31.5204,
+      "lon": 74.3587,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "rav",
+      "label": "Ravi e campagna di Lahore",
+      "lat": 31.58,
+      "lon": 74.25,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "kas",
+      "label": "Kasur",
+      "lat": 31.12,
+      "lon": 74.45,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "amr",
+      "label": "Amritsar e Batala",
+      "lat": 31.63,
+      "lon": 74.87,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "mul",
+      "label": "Multan",
+      "lat": 30.2,
+      "lon": 71.47,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "kab",
+      "label": "Kabul e Khyber",
+      "lat": 34.55,
+      "lon": 69.21,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "kas2",
+      "label": "Kashmir",
+      "lat": 34.08,
+      "lon": 74.8,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "rav",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiume e campagne suburbane",
+      "food": "grano, riso, pesce e ortaggi"
+    },
+    {
+      "source": "kas",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "mercati regionali",
+      "food": "cereali, bestiame e zucchero"
+    },
+    {
+      "source": "amr",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete di qasbah e strade",
+      "food": "tessili, cereali e latticini"
+    },
+    {
+      "source": "mul",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "asse del Punjab meridionale",
+      "food": "cotone, frutta e merci carovaniere"
+    },
+    {
+      "source": "kab",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "passi afghani",
+      "food": "cavalli, frutta secca e metalli"
+    },
+    {
+      "source": "kas2",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade montane",
+      "food": "zafferano, legname e frutta"
+    }
+  ]
+}

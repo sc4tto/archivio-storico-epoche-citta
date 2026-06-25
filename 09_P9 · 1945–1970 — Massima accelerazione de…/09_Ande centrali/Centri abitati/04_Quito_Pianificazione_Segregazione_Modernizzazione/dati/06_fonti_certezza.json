@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Il piano Odriozola del 1945 orientò una città funzionalmente separata fra aree residenziali, centro e industria.",
+    "theme": "pianificazione",
+    "status": "documentato",
+    "source": "QU1; QU3"
+  },
+  {
+    "claim": "La crescita del dopoguerra consolidò una struttura lineare con forti differenze fra nord, centro, sud e periferie.",
+    "theme": "segregazione",
+    "status": "documentato",
+    "source": "QU1; QU3"
+  },
+  {
+    "claim": "Il Piano Director del 1967 aggiornò gli strumenti municipali per una città in rapida espansione.",
+    "theme": "pianificazione",
+    "status": "documentato",
+    "source": "QU3"
+  },
+  {
+    "claim": "Gli interventi a San Blas combinarono apertura viaria e modernizzazione con demolizioni e conflitti sul tessuto storico.",
+    "theme": "centro storico",
+    "status": "documentato",
+    "source": "QU2"
+  },
+  {
+    "claim": "Le comunas indigene non furono spazi vuoti: agirono politicamente di fronte a urbanizzazione ed espropriazioni.",
+    "theme": "territorio",
+    "status": "documentato",
+    "source": "QU4"
+  },
+  {
+    "claim": "Quito, pianificazione, segregazione e modernizzazione è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Segregazione territoriale, demolizioni e espropriazione di terre comunali sono descritte come rapporti di potere e non come progresso neutrale; comunità indigene, abitanti del centro e migranti restano soggetti storici con capacità di negoziazione e resistenza.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

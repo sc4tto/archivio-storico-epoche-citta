@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "v1",
+      "label": "Paesaggio sacro pre-vijayanagara",
+      "lane": "Religione",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "v2",
+      "label": "Fondazione imperiale del 1336",
+      "lane": "Politica",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "v3",
+      "label": "Sviluppo del centro reale",
+      "lane": "Urbanistica",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "v4",
+      "label": "Bazar e strade processionali",
+      "lane": "Economia",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "v5",
+      "label": "Canali, serbatoi e agricoltura intensiva",
+      "lane": "Infrastrutture",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "v6",
+      "label": "Fortificazioni concentriche",
+      "lane": "Difesa",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "v7",
+      "label": "Templi Virupaksha e complessi sacri",
+      "lane": "Architettura",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "v8",
+      "label": "Espansione metropolitana del XV secolo",
+      "lane": "Urbanistica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

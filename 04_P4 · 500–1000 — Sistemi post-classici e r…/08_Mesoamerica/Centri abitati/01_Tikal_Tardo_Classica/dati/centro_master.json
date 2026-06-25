@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Tikal tardo-classica",
+    "site": "Tikal / Yax Mutal",
+    "modern_location": "Dipartimento di Petén, Guatemala",
+    "coordinates": {
+      "lat": 17.222,
+      "lon": -89.6237
+    },
+    "scope": "Tikal fra 500 e 1000, con attenzione alla ripresa dinastica, alla crescita monumentale, alla gestione dell’acqua, alla produzione agricola periferica e alla crisi del IX secolo.",
+    "version": "1.0",
+    "warning": "Il declino non fu un singolo evento: costruzione, iscrizioni, popolazione e reti politiche diminuirono con tempi diversi. Le stime demografiche e la causalità climatica restano oggetto di discussione."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "T1",
+      "title": "UNESCO World Heritage Centre — Tikal National Park",
+      "use": "Cronologia generale, urbanistica, bacini, strade e monumenti.",
+      "url": "https://whc.unesco.org/en/list/64/"
+    },
+    {
+      "id": "T2",
+      "title": "University of Pennsylvania Museum — Tikal Project",
+      "use": "Storia degli scavi, complessi architettonici e documentazione del sito.",
+      "url": "https://www.penn.museum/sites/tikal/"
+    },
+    {
+      "id": "T3",
+      "title": "Lentz et al. — Forests, fields, and the edge of sustainability at Tikal",
+      "use": "Uso del territorio, agricoltura e pressione ambientale.",
+      "url": "https://doi.org/10.1073/pnas.1408631111"
+    },
+    {
+      "id": "T4",
+      "title": "Scarborough et al. — Water and sustainable land use at Tikal",
+      "use": "Gestione idrica, serbatoi e paesaggio urbano.",
+      "url": "https://doi.org/10.1073/pnas.1202881109"
+    },
+    {
+      "id": "T5",
+      "title": "Mesoweb — Tikal and Classic Maya epigraphy",
+      "use": "Iscrizioni, dinastie e cronologia politica.",
+      "url": "https://www.mesoweb.com/"
+    }
+  ]
+}

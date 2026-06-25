@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Xianyang Qin",
+      "lat": 34.36,
+      "lon": 108.71,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "wei",
+      "label": "Fiume Wei",
+      "lat": 34.315,
+      "lon": 108.72,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "maus",
+      "label": "Mausoleo di Qin Shihuang",
+      "lat": 34.381,
+      "lon": 109.254,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "zhengguo",
+      "label": "Canale Zhengguo",
+      "lat": 34.59,
+      "lon": 108.82,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "hangu",
+      "label": "Passo Hangu",
+      "lat": 34.638,
+      "lon": 110.927,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "sichuan",
+      "label": "Bacino del Sichuan",
+      "lat": 30.65,
+      "lon": 104.07,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "wei",
+      "target": "site",
+      "label": "acqua, trasporto e agricoltura della valle",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "zhengguo",
+      "target": "site",
+      "label": "irrigazione e incremento delle risorse agricole",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "hangu",
+      "target": "site",
+      "label": "strade imperiali e controllo verso est",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "sichuan",
+      "target": "site",
+      "label": "metalli, derrate e collegamenti meridionali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "maus",
+      "target": "site",
+      "label": "paesaggio dinastico e mobilitazione di lavoro",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

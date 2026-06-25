@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Tràng An",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Paesaggio carsico",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Scelta delle grotte",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Orientamento fra valli interne",
+          "status": "sintesi"
+        },
+        {
+          "id": "k1_3",
+          "label": "Lettura dei cambi costieri",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Risorse acquatiche",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Raccolta di molluschi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Pesca e cattura",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Stagionalità delle zone umide",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Foresta",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Caccia",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Piante selvatiche",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_3",
+          "label": "Gestione di habitat multipli",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Tecnologia litica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Scheggiatura",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Percussione e macinazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Manutenzione degli utensili",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Fuoco e ceramica",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Focolari",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Cottura alimentare",
+          "status": "inferito"
+        },
+        {
+          "id": "k5_3",
+          "label": "Ceramica nelle fasi recenti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Organizzazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Mobilità stagionale",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_2",
+          "label": "Condivisione dei ripari",
+          "status": "inferito"
+        },
+        {
+          "id": "k6_3",
+          "label": "Agricoltura intensiva",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

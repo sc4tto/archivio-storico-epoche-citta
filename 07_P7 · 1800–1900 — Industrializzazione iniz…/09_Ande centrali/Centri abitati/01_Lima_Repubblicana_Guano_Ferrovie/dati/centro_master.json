@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Lima repubblicana, guano e ferrovie",
+    "site": "Lima repubblicana, guano e ferrovie",
+    "modern_location": "Lima, Perù",
+    "coordinates": {
+      "lat": -12.0464,
+      "lon": -77.0428
+    },
+    "scope": "Lima fra 1800 e 1900: indipendenza, repubblica, boom del guano, ferrovia Lima–Callao, espansione oltre le mura, mercati, acquedotti, occupazione cilena del 1881–1883 e ricostruzione di fine secolo.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Espansione automobilistica, barriadas, metropolizzazione novecentesca e grandi infrastrutture contemporanee sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "LI1",
+      "title": "UNESCO — Historic Centre of Lima",
+      "use": "Centro storico, monumenti e trasformazioni urbane.",
+      "url": "https://whc.unesco.org/en/list/500/"
+    },
+    {
+      "id": "LI2",
+      "title": "Encyclopaedia Britannica — Lima",
+      "use": "Storia politica, economia e crescita della capitale.",
+      "url": "https://www.britannica.com/place/Lima"
+    },
+    {
+      "id": "LI3",
+      "title": "Biblioteca Nacional del Perú",
+      "use": "Cartografia, stampa e fonti repubblicane.",
+      "url": "https://www.bnp.gob.pe/"
+    },
+    {
+      "id": "LI4",
+      "title": "Archivo General de la Nación del Perú",
+      "use": "Amministrazione, catasti e infrastrutture.",
+      "url": "https://www.agn.gob.pe/"
+    },
+    {
+      "id": "LI5",
+      "title": "Ministerio de Cultura del Perú",
+      "use": "Patrimonio storico e architettonico.",
+      "url": "https://www.gob.pe/cultura"
+    }
+  ]
+}

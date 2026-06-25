@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Il complesso del Qutb testimonia l’affermazione dei primi sultani fra XII e XIII secolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "DE1"
+  },
+  {
+    "claim": "Delhi fu un sistema di capitali successive, non una singola città immutabile.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "DE2; DE3"
+  },
+  {
+    "claim": "Siri, Tughlaqabad e Firozabad rispondevano a esigenze politiche e difensive differenti.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "DE2; DE3"
+  },
+  {
+    "claim": "Hauz, pozzi e canali erano essenziali per l’approvvigionamento.",
+    "theme": "acqua",
+    "status": "documentato",
+    "source": "DE2; DE3"
+  },
+  {
+    "claim": "L’architettura combinò forme islamiche con maestranze e materiali locali.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "DE1; DE4"
+  },
+  {
+    "claim": "Mercati e sarai sostenevano una capitale con forti esigenze militari.",
+    "theme": "economia",
+    "status": "sintesi",
+    "source": "DE2; DE3"
+  },
+  {
+    "claim": "Le tombe monumentali divennero una componente stabile del paesaggio urbano.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "DE1; DE3"
+  },
+  {
+    "claim": "Le strutture moghul posteriori al 1526 sono escluse dal modulo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "DE2"
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Frequentazioni arcaiche",
+    "Occupazione Poverty Point",
+    "Lavorazione e scambi",
+    "Fasi Woodland",
+    "Tumuli Mississippi posteriori"
+  ],
+  "items": [
+    {
+      "id": "arcaic",
+      "label": "Aree di occupazione arcaica",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "work",
+      "label": "Lavorazione di pietre esotiche",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "clay",
+      "label": "Oggetti di argilla per cottura",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "exchange",
+      "label": "Scambi nel basso Mississippi",
+      "lane": "Organizzazione",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "later",
+      "label": "Occupazioni Woodland",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "mounds",
+      "label": "Tumuli visibili posteriori",
+      "lane": "Monumentali",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "loss",
+      "label": "Distruzione di tumuli minori",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

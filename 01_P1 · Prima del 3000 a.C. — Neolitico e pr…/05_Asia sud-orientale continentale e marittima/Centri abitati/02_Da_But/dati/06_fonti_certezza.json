@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Đa Bút è il sito eponimo di una tradizione dell’Olocene medio nel Vietnam settentrionale",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "DA_BUT_VIET"
+  },
+  {
+    "claim": "Il sito comprende un grande conchigliero e sepolture",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "DA_BUT_VIET"
+  },
+  {
+    "claim": "Pesca, raccolta di molluschi e caccia furono centrali",
+    "theme": "Alimentazione",
+    "status": "sintesi",
+    "source": "DA_BUT_VIET"
+  },
+  {
+    "claim": "Ceramica e strumenti levigati indicano trasformazioni tecnologiche",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "DA_BUT_VIET"
+  },
+  {
+    "claim": "Il sito aiuta a discutere la transizione fra Hoabinhiano e Neolitico",
+    "theme": "Storia culturale",
+    "status": "sintesi",
+    "source": "MAN_BAC_MONOGRAPH"
+  },
+  {
+    "claim": "La coltivazione intensiva del riso è dimostrata nelle fasi più antiche",
+    "theme": "Agricoltura",
+    "status": "non_documentato",
+    "source": "L’evidenza produttiva è discussa"
+  },
+  {
+    "claim": "Tutte le sepolture appartengono a un unico episodio",
+    "theme": "Funerario",
+    "status": "non_documentato",
+    "source": "La sequenza è plurifase"
+  },
+  {
+    "claim": "Il conchigliero è soltanto un cumulo casuale di rifiuti",
+    "theme": "Insediamento",
+    "status": "non_documentato",
+    "source": "Il deposito ha anche valore stratigrafico e funerario"
+  }
+]

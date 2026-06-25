@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Occupazioni preurbane della valle",
+    "Formazione urbana tra I secolo a.C. e I d.C.",
+    "Espansione monumentale e Viale dei Morti",
+    "Quartieri residenziali e massima influenza",
+    "Trasformazioni del V secolo"
+  ],
+  "items": [
+    {
+      "id": "avenue",
+      "label": "Viale dei Morti e asse urbano",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "sun",
+      "label": "Piramide del Sole",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "moon",
+      "label": "Piramide della Luna",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "serpent",
+      "label": "Tempio del Serpente Piumato",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "apartments",
+      "label": "Complessi residenziali plurifamiliari",
+      "lane": "Abitative",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "murals",
+      "label": "Pittura murale e palazzi di quartiere",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "markets",
+      "label": "Mercati e officine di ossidiana",
+      "lane": "Organizzazione",
+      "start": 2,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

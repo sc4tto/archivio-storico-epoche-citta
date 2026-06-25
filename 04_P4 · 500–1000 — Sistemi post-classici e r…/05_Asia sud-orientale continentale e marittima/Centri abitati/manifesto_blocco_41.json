@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_41_P4_Asia_Sud_Orientale_5_Centri_v1",
+  "macroregion": "Asia sud-orientale continentale e marittima",
+  "centers": [
+    "01_Hariharalaya_Roluos",
+    "02_Palembang_Srivijaya",
+    "03_Bagan_Pagan_iniziale",
+    "04_My_Son_Tra_Kieu",
+    "05_Indrapura_Dong_Duong"
+  ],
+  "uses_central_assets": true
+}

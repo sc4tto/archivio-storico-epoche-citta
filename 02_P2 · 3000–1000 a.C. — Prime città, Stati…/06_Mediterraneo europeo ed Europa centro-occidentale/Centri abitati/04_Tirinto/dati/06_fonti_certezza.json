@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Tirinto conserva una delle più imponenti cinte ciclopiche micenee",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "TIR_UNESCO"
+  },
+  {
+    "claim": "La cinta fu completata in più fasi, con gallerie e passaggi interni",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "TIR_UNESCO"
+  },
+  {
+    "claim": "Il sito comprendeva palazzo, cittadella e città bassa",
+    "theme": "Urbanizzazione",
+    "status": "documentato",
+    "source": "TIR_CULTURE"
+  },
+  {
+    "claim": "La posizione collegava la pianura argiva al golfo",
+    "theme": "Territorio",
+    "status": "sintesi",
+    "source": "TIR_DAI"
+  },
+  {
+    "claim": "Sono attestati affreschi e attività amministrative palaziali",
+    "theme": "Amministrazione",
+    "status": "documentato",
+    "source": "TIR_CULTURE"
+  },
+  {
+    "claim": "Le mura furono costruite realmente dai Ciclopi",
+    "theme": "Mito",
+    "status": "non_documentato",
+    "source": "Tradizione mitica"
+  },
+  {
+    "claim": "Tirinto era subordinata a Micene in ogni fase",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Rapporti politici discussi"
+  },
+  {
+    "claim": "La fortificazione prova una guerra continua",
+    "theme": "Conflitto",
+    "status": "non_documentato",
+    "source": "Funzioni anche simboliche e amministrative"
+  }
+]

@@ -1,0 +1,174 @@
+{
+  "nodes": [
+    {
+      "id": "m_earth",
+      "label": "Terra cruda e argilla",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_stone",
+      "label": "Pietra locale e muratura a secco",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_wood",
+      "label": "Legno, canne e fibre",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_metal",
+      "label": "Ferro e rame",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "o_mud",
+      "label": "Impasto, banco e intonaco",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_masonry",
+      "label": "Posa di pietra e fondazioni",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_carp",
+      "label": "Carpenteria e coperture",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "o_smelt",
+      "label": "Fusione, ricottura e forgiatura",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "c_walls",
+      "label": "Muri e pavimenti in terra",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_stonebase",
+      "label": "Basamenti e strutture in pietra",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_roof",
+      "label": "Tetti e chiusure leggere",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "c_objects",
+      "label": "Utensili, ornamenti e lingotti",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "s_houses",
+      "label": "Case e cortili",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_workshops",
+      "label": "Aree artigianali e forni",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_markets",
+      "label": "Spazi di deposito e scambio",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "s_palace",
+      "label": "Complessi d’élite o regali",
+      "layer": 3,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m_earth",
+      "target": "o_mud",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_mud",
+      "target": "c_walls",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_walls",
+      "target": "s_houses",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_stone",
+      "target": "o_masonry",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_masonry",
+      "target": "c_stonebase",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_stonebase",
+      "target": "s_workshops",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_wood",
+      "target": "o_carp",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_carp",
+      "target": "c_roof",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "c_roof",
+      "target": "s_markets",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "m_metal",
+      "target": "o_smelt",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_smelt",
+      "target": "c_objects",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_objects",
+      "target": "s_palace",
+      "status": "documentato",
+      "label": ""
+    }
+  ]
+}

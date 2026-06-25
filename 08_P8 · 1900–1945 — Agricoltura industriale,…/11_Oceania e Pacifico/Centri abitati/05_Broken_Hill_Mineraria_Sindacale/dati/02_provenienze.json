@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Broken Hill",
+      "lat": -31.9539,
+      "lon": 141.4539,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "sil",
+      "label": "Silverton e Barrier Ranges",
+      "lat": -31.88,
+      "lon": 141.22,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "men",
+      "label": "Menindee e Darling",
+      "lat": -32.39,
+      "lon": 142.42,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "pas",
+      "label": "Stazioni pastorali circostanti",
+      "lat": -31.5,
+      "lon": 141.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "ade",
+      "label": "Adelaide e Port Pirie",
+      "lat": -34.93,
+      "lon": 138.6,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "syd",
+      "label": "Sydney e New South Wales",
+      "lat": -33.87,
+      "lon": 151.21,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "glo",
+      "label": "Mercati mondiali dei metalli",
+      "lat": -20.0,
+      "lon": 120.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "sil",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e strade minerarie",
+      "food": "minerali, manodopera e materiali"
+    },
+    {
+      "source": "men",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e collegamenti regionali",
+      "food": "acqua, bestiame e derrate"
+    },
+    {
+      "source": "pas",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade del deserto",
+      "food": "carne, lana e prodotti pastorali"
+    },
+    {
+      "source": "ade",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie verso South Australia",
+      "food": "carbone, macchinari, alimenti e fusione a Port Pirie"
+    },
+    {
+      "source": "syd",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie del New South Wales",
+      "food": "capitale, amministrazione e manufatti"
+    },
+    {
+      "source": "glo",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti commerciali e finanziarie",
+      "food": "domanda, prezzi e tecnologie dei metalli"
+    }
+  ]
+}

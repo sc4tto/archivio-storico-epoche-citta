@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "El Paraíso fu un grande complesso preceramico della valle del Chillón",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "PARAISO_QUILTER"
+  },
+  {
+    "claim": "Il sito comprendeva numerosi edifici monumentali",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "PARAISO_QUILTER"
+  },
+  {
+    "claim": "Le costruzioni mostrano più fasi e riempimenti",
+    "theme": "Costruzione",
+    "status": "documentato",
+    "source": "PARAISO_QUILTER"
+  },
+  {
+    "claim": "La sussistenza integrava risorse marine e vegetali",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "PARAISO_SCIENCE"
+  },
+  {
+    "claim": "Cotone e fibre erano importanti per reti e tessili",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "PARAISO_SCIENCE"
+  },
+  {
+    "claim": "Tutte le unità furono costruite nello stesso momento",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Fasi differenziate"
+  },
+  {
+    "claim": "Ogni edificio era un tempio",
+    "theme": "Funzione",
+    "status": "non_documentato",
+    "source": "Funzioni non uniformi"
+  },
+  {
+    "claim": "L’abbandono fu causato da una singola catastrofe",
+    "theme": "Declino",
+    "status": "non_documentato",
+    "source": "Evidenza di abbandono graduale"
+  }
+]

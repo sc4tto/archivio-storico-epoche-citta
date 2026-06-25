@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Moundville mississippiana",
+    "site": "Moundville Archaeological Site",
+    "modern_location": "Hale County, Alabama, Stati Uniti",
+    "coordinates": {
+      "lat": 33.0026,
+      "lon": -87.6308
+    },
+    "scope": "Moundville fra 1000 e 1500, dalla formazione del centro alla fase di massima monumentalità e alla trasformazione in luogo soprattutto cerimoniale e funerario.",
+    "version": "1.0",
+    "warning": "Le interpretazioni dei tumuli come sedi di gruppi di rango sono modelli archeologici. I rapporti con comunità native contemporanee sono trattati con cautela e rispetto."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MO1",
+      "title": "University of Alabama Museums — Moundville Archaeological Park",
+      "use": "Informazioni ufficiali sul sito, museo e ricerche archeologiche.",
+      "url": "https://moundville.museums.ua.edu/"
+    },
+    {
+      "id": "MO2",
+      "title": "National Park Service — Moundville Site",
+      "use": "Inquadramento come centro mississippiano e National Historic Landmark.",
+      "url": "https://www.nps.gov/places/moundville-site.htm"
+    },
+    {
+      "id": "MO3",
+      "title": "Encyclopedia of Alabama — Moundville Archaeological Site",
+      "use": "Cronologia, piazza, tumuli e società regionale.",
+      "url": "https://encyclopediaofalabama.org/article/moundville-archaeological-site/"
+    },
+    {
+      "id": "MO4",
+      "title": "University of Alabama — Office of Archaeological Research",
+      "use": "Ricerca, cronologie e cultura materiale regionale.",
+      "url": "https://oar.museums.ua.edu/"
+    },
+    {
+      "id": "MO5",
+      "title": "National Park Service — Southeastern Prehistory",
+      "use": "Quadro delle società mississippiane del Sud-Est.",
+      "url": "https://www.nps.gov/articles/000/southeastern-prehistory-mississippian-and-late-prehistoric-period.htm"
+    }
+  ]
+}

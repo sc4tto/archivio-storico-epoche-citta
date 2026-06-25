@@ -1,0 +1,62 @@
+[
+  {
+    "claim": "Il sito è un grande insediamento neolitico presso il Wadi Zarqa",
+    "theme": "Localizzazione",
+    "status": "documentato",
+    "source": "DOA_JORDAN; ROLLEFSON_KAFAFI"
+  },
+  {
+    "claim": "Le abitazioni principali erano rettangolari e costruite in mattoni crudi",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "ROLLEFSON_KAFAFI"
+  },
+  {
+    "claim": "Pavimenti e pareti erano rivestiti con intonaci, inclusa calce",
+    "theme": "Costruzione",
+    "status": "documentato",
+    "source": "ROLLEFSON_KAFAFI"
+  },
+  {
+    "claim": "Sono attestati edifici speciali o rituali",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "ROLLEFSON_KAFAFI"
+  },
+  {
+    "claim": "Le statue furono realizzate in calce su armature vegetali",
+    "theme": "Tecnologia rituale",
+    "status": "documentato",
+    "source": "BRITISH_MUSEUM; GRISSOM_2000"
+  },
+  {
+    "claim": "Le statue rappresentano con certezza specifiche divinità",
+    "theme": "Interpretazione",
+    "status": "non_documentato",
+    "source": "Funzione e identità non sono determinate"
+  },
+  {
+    "claim": "Caccia e allevamento coesistettero in proporzioni variabili",
+    "theme": "Alimentazione",
+    "status": "sintesi",
+    "source": "ROLLEFSON_KAFAFI"
+  },
+  {
+    "claim": "Il calo demografico dipese da una sola causa ambientale",
+    "theme": "Ambiente",
+    "status": "non_documentato",
+    "source": "Ipotesi multifattoriali; evitare causalità unica"
+  },
+  {
+    "claim": "Ossidiana anatolica equivale a commercio alimentare",
+    "theme": "Commercio",
+    "status": "non_documentato",
+    "source": "Inferenza non valida"
+  },
+  {
+    "claim": "Il sito documenta una lunga trasformazione dal PPNB al Neolitico ceramico",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "ROLLEFSON_KAFAFI"
+  }
+]

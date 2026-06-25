@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Huaca Prieta",
+      "lat": -7.93,
+      "lon": -79.3,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "ocean",
+      "label": "Litorale del Pacifico",
+      "lat": -7.94,
+      "lon": -79.34,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "chicama",
+      "label": "Valle del Chicama",
+      "lat": -7.86,
+      "lon": -79.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "elbrujo",
+      "label": "Complesso di El Brujo",
+      "lat": -7.91,
+      "lon": -79.31,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "highlands",
+      "label": "Valli andine interne",
+      "lat": -7.7,
+      "lon": -78.8,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "northcoast",
+      "label": "Costa settentrionale del Perù",
+      "lat": -6.8,
+      "lon": -79.6,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "ocean",
+      "target": "site",
+      "label": "pesci, molluschi e mammiferi marini",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "chicama",
+      "target": "site",
+      "label": "piante, acqua e ciottoli",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "elbrujo",
+      "target": "site",
+      "label": "mobilità locale e aree complementari",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "highlands",
+      "target": "site",
+      "label": "pietre e prodotti vegetali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "northcoast",
+      "target": "site",
+      "label": "circolazione costiera di tecniche e materiali",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

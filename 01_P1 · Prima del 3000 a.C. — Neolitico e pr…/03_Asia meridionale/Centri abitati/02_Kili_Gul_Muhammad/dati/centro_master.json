@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Kili Gul Muhammad — modulo multi-grafo",
+    "short_name": "Kili Gul Muhammad",
+    "site": "Kili Gul Muhammad",
+    "modern_location": "Valle di Quetta, Belucistan, Pakistan",
+    "coordinates": {
+      "lat": 30.25,
+      "lon": 66.95
+    },
+    "scope": "Sequenza neolitica e calcolitica della valle di Quetta, soprattutto V–IV millennio a.C.",
+    "version": "1.0-blocco_04_p1_asia_meridionale_5_centri_v1",
+    "warning": "Le pubblicazioni storiche usano diverse scansioni cronologiche; il modulo privilegia funzioni e trasformazioni generali."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "SOUTH_ASIA_CAMBRIDGE",
+      "title": "Coningham & Young — The Archaeology of South Asia",
+      "url": "https://www.cambridge.org/core/books/archaeology-of-south-asia/",
+      "use": "quadro cronologico e comparativo del Neolitico e Calcolitico sudasiatico"
+    },
+    {
+      "id": "MAI_INDUS",
+      "title": "Mission archéologique de l’Indus",
+      "url": "https://www.arscan.fr/archeologie-asie-centrale/mai/",
+      "use": "contesto delle ricerche nel Belucistan"
+    },
+    {
+      "id": "HARAPPA_OVERVIEW",
+      "title": "Harappa.com — Ancient Indus Civilization",
+      "url": "https://www.harappa.com/",
+      "use": "sintesi, cronologie e materiali del periodo preurbano"
+    }
+  ]
+}

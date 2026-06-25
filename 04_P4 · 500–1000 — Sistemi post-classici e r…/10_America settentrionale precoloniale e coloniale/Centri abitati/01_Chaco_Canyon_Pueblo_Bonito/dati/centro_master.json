@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Chaco Canyon–Pueblo Bonito",
+    "site": "Chaco Canyon / Pueblo Bonito",
+    "modern_location": "San Juan County, Nuovo Messico, Stati Uniti",
+    "coordinates": {
+      "lat": 36.0606,
+      "lon": -107.9617
+    },
+    "scope": "Chaco Canyon fra circa 850 e 1000, con attenzione alle prime grandi case, alle kiva, alla gestione dell’acqua, alla produzione alimentare marginale e alle connessioni regionali.",
+    "version": "1.0",
+    "warning": "L’apogeo della rete chacoana prosegue oltre il 1000. Il modulo limita le attribuzioni alla fase iniziale e segnala come sintesi le ricostruzioni sulla funzione politica delle grandi case."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "CH1",
+      "title": "UNESCO World Heritage Centre — Chaco Culture",
+      "use": "Cronologia, monumentalità, strade e ruolo cerimoniale.",
+      "url": "https://whc.unesco.org/en/list/353/"
+    },
+    {
+      "id": "CH2",
+      "title": "National Park Service — History & Culture, Chaco Culture",
+      "use": "Prime grandi case dalla metà del IX secolo, commercio e organizzazione.",
+      "url": "https://www.nps.gov/chcu/learn/historyculture/index.htm"
+    },
+    {
+      "id": "CH3",
+      "title": "National Park Service — Pueblo Bonito",
+      "use": "Architettura, camere, kiva e fasi costruttive.",
+      "url": "https://www.nps.gov/places/pueblo-bonito.htm"
+    },
+    {
+      "id": "CH4",
+      "title": "Chaco Research Archive",
+      "use": "Dati archeologici, cronologie e collezioni di ricerca.",
+      "url": "https://www.chacoarchive.org/"
+    },
+    {
+      "id": "CH5",
+      "title": "National Park Service — Water in Chaco Canyon",
+      "use": "Dispositivi di controllo dell’acqua e ambiente arido.",
+      "url": "https://www.nps.gov/chcu/learn/nature/water.htm"
+    }
+  ]
+}

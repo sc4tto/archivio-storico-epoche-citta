@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Shenzhen",
+      "lat": 22.5431,
+      "lon": 114.0579,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "don",
+      "label": "Dongguan",
+      "lat": 23.02,
+      "lon": 113.75,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "hui",
+      "label": "Huizhou",
+      "lat": 23.11,
+      "lon": 114.42,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "gua",
+      "label": "Guangdong interno",
+      "lat": 23.13,
+      "lon": 113.27,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "hkg",
+      "label": "Hong Kong",
+      "lat": 22.32,
+      "lon": 114.17,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "por",
+      "label": "Yantian e Shekou",
+      "lat": 22.56,
+      "lon": 114.27,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "glo",
+      "label": "Rotte globali",
+      "lat": 21.5,
+      "lon": 118.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "don",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "autostrade e ferrovie",
+      "food": "manufatti, ortaggi, lavoratori e componenti"
+    },
+    {
+      "source": "hui",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e logistica",
+      "food": "carne, pesce, prodotti agricoli e pendolari"
+    },
+    {
+      "source": "gua",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "alta velocità e camion",
+      "food": "riso, frutta, migranti e materie prime"
+    },
+    {
+      "source": "hkg",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "confine, ferrovia e finanza",
+      "food": "capitale, alimenti, servizi e passeggeri"
+    },
+    {
+      "source": "por",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "container e catena del freddo",
+      "food": "merci, pesce, energia e ingredienti"
+    },
+    {
+      "source": "glo",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navi, voli e reti digitali",
+      "food": "tecnologia, capitale, componenti e conoscenze"
+    }
+  ]
+}

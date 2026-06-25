@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Londra fu una delle maggiori metropoli industriali e finanziarie del XIX secolo.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "LO2; LO3"
+  },
+  {
+    "claim": "Il Palazzo di Westminster fu ricostruito dal 1840 in stile neogotico.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "LO1; LO5"
+  },
+  {
+    "claim": "Ferrovie e metropolitana modificarono profondamente la mobilità urbana.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "LO2; LO4"
+  },
+  {
+    "claim": "Docks e Tamigi sostennero il commercio globale e imperiale.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "LO2; LO3"
+  },
+  {
+    "claim": "Colera e inquinamento idrico favorirono grandi interventi fognari.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "LO2; LO3"
+  },
+  {
+    "claim": "I quartieri operai furono segnati da sovraffollamento e disuguaglianze.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "LO2; LO4"
+  },
+  {
+    "claim": "La crescita londinese dipese anche da materie prime e lavoro delle economie coloniali.",
+    "theme": "colonialismo",
+    "status": "documentato",
+    "source": "LO2; LO3"
+  },
+  {
+    "claim": "Le trasformazioni successive al 1900 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "LO2"
+  }
+]

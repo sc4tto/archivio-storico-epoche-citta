@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Babilonia",
+      "lat": 32.54,
+      "lon": 44.42,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "euphrates",
+      "label": "Eufrate",
+      "lat": 32.55,
+      "lon": 44.4,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "borsippa",
+      "label": "Borsippa",
+      "lat": 32.39,
+      "lon": 44.34,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "sippar",
+      "label": "Sippar",
+      "lat": 33.06,
+      "lon": 44.25,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "susa",
+      "label": "Susa",
+      "lat": 32.19,
+      "lon": 48.26,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "levant",
+      "label": "Siria e Levante",
+      "lat": 34.5,
+      "lon": 39.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "euphrates",
+      "target": "site",
+      "label": "acqua, trasporto e pesca",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "borsippa",
+      "target": "site",
+      "label": "culto, personale e prodotti agricoli",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "sippar",
+      "target": "site",
+      "label": "testi, metalli e commerci",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "susa",
+      "target": "site",
+      "label": "amministrazione imperiale e beni",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "levant",
+      "target": "site",
+      "label": "legname, vino e tributi",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

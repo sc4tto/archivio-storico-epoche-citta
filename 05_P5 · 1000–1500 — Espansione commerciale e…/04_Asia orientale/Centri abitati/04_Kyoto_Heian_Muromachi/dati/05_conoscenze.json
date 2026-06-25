@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Kyoto fra tarda Heian e Muromachi",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Carpenteria",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Incastri e moduli lignei",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Coperture in tegole o corteccia",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Paesaggio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Giardini di corte e Zen",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Gestione di acqua, pietre e vedute",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Amministrazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Corte imperiale e shogunato",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Templi e proprietà shōen",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Produzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Quartieri artigiani e mercati",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Lacca, tessili e ceramiche",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Rischi urbani",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Incendi e ricostruzioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Guerre e frammentazione dei quartieri",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

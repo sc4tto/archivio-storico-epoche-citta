@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Palmira",
+      "lat": 34.55,
+      "lon": 38.27,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "oasis",
+      "label": "Oasi di Tadmor",
+      "lat": 34.56,
+      "lon": 38.25,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "emesa",
+      "label": "Emesa/Homs",
+      "lat": 34.73,
+      "lon": 36.72,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "euphrates",
+      "label": "Eufrate e Dura-Europos",
+      "lat": 34.75,
+      "lon": 40.73,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "antioch",
+      "label": "Antiochia",
+      "lat": 36.2,
+      "lon": 36.16,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "gulf",
+      "label": "Golfo Persico",
+      "lat": 29.0,
+      "lon": 49.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "oasis",
+      "target": "site",
+      "label": "acqua, datteri e orti",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "emesa",
+      "target": "site",
+      "label": "strade e prodotti regionali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "euphrates",
+      "target": "site",
+      "label": "carovane e accesso alla Mesopotamia",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "antioch",
+      "target": "site",
+      "label": "mercati mediterranei",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "gulf",
+      "target": "site",
+      "label": "merci di lusso e spezie",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

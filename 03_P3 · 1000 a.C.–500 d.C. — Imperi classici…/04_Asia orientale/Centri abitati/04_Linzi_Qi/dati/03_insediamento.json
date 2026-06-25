@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Capitale di Qi arcaica",
+    "Espansione nel periodo delle Primavere e Autunni",
+    "Apogeo degli Stati Combattenti",
+    "Conquista Qin",
+    "Centro regionale Han"
+  ],
+  "items": [
+    {
+      "id": "inner",
+      "label": "Città interna e palazzi",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "outer",
+      "label": "Città esterna e quartieri",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "walls",
+      "label": "Mura di terra battuta",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "workshops",
+      "label": "Officine metallurgiche e artigiane",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "markets",
+      "label": "Mercati e moneta",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "academy",
+      "label": "Tradizione dell’Accademia Jixia",
+      "lane": "Amministrative",
+      "start": 3,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "tombs",
+      "label": "Necropoli aristocratiche",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

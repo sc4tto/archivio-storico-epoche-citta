@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Bombay portuale e industriale",
+    "site": "Bombay portuale e industriale",
+    "modern_location": "Mumbai, India",
+    "coordinates": {
+      "lat": 18.9388,
+      "lon": 72.8354
+    },
+    "scope": "Bombay fra 1800 e 1900: città portuale della Presidenza, nodo dell’Oceano Indiano, centro cotoniero, ferroviario e finanziario, con Fort, Native Town e nuovi quartieri.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Il Gateway of India, Marine Drive, l’Art Déco e la metropoli novecentesca sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "BO1",
+      "title": "UNESCO — Victorian Gothic and Art Deco Ensembles of Mumbai",
+      "use": "Edifici pubblici vittoriani e trasformazione del Fort.",
+      "url": "https://whc.unesco.org/en/list/1480/"
+    },
+    {
+      "id": "BO2",
+      "title": "Encyclopaedia Britannica — Mumbai",
+      "use": "Storia urbana, porto, cotone e industria.",
+      "url": "https://www.britannica.com/place/Mumbai"
+    },
+    {
+      "id": "BO3",
+      "title": "Mumbai Port Authority",
+      "use": "Storia dei docks e infrastrutture portuali.",
+      "url": "https://mumbaiport.gov.in/"
+    },
+    {
+      "id": "BO4",
+      "title": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+      "use": "Collezioni e storia culturale di Bombay.",
+      "url": "https://csmvs.in/"
+    },
+    {
+      "id": "BO5",
+      "title": "Indian Railways — Heritage",
+      "use": "Prima ferrovia passeggeri e rete della Presidenza di Bombay.",
+      "url": "https://indianrailways.gov.in/"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Il governo di Mosca continua a indicare la rete Metro e il rinnovo del materiale rotabile come priorità urbane nel 2026.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "MO1"
+  },
+  {
+    "claim": "Il programma di rinnovamento abitativo comporta demolizioni, nuove costruzioni e ricollocazioni su vasta scala.",
+    "theme": "alloggi",
+    "status": "documentato",
+    "source": "MO2"
+  },
+  {
+    "claim": "Il rapporto OHCHR del 2025 documenta l’intensificazione della repressione e l’uso della legislazione di sicurezza per silenziare il dissenso contro la guerra.",
+    "theme": "diritti",
+    "status": "documentato",
+    "source": "MO3"
+  },
+  {
+    "claim": "Il portale Moscow Transport presenta una rete integrata di metro, ferrovia suburbana, tram, autobus e servizi digitali.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "MO4"
+  },
+  {
+    "claim": "Gli obiettivi di rete e rinnovo successivi al 25 giugno 2026 restano piani governativi.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "MO1"
+  },
+  {
+    "claim": "Mosca, trasporti, rigenerazione, autoritarismo e guerra è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Le demolizioni e ricollocazioni del programma abitativo, la discriminazione del lavoro migrante, la guerra della Federazione Russa contro l’Ucraina, la repressione del dissenso e la sorveglianza non sono presentate come aspetti neutrali della modernizzazione urbana.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

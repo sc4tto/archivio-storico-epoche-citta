@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Karanovo",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Stratigrafia pratica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Ricostruzione sullo stesso luogo",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Livellamento dei piani",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Manutenzione del tell",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Agricoltura",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Coltivazione cerealicola",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_2",
+          "label": "Gestione delle sementi",
+          "status": "inferito"
+        },
+        {
+          "id": "k2_3",
+          "label": "Stoccaggio",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Allevamento",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Gestione delle mandrie",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_2",
+          "label": "Pascolo stagionale",
+          "status": "inferito"
+        },
+        {
+          "id": "k3_3",
+          "label": "Macellazione",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Ceramica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Impasti e forme",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Cottura",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Decorazioni diagnostiche",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Edilizia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Argilla e fibre",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Forni domestici",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Carpenteria",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Organizzazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Coordinamento di ricostruzioni",
+          "status": "inferito"
+        },
+        {
+          "id": "k6_2",
+          "label": "Pratiche rituali domestiche",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_3",
+          "label": "Sistema di scrittura certo",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

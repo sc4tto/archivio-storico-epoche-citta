@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Naqada I",
+    "Naqada II iniziale",
+    "Naqada II tarda",
+    "Naqada III",
+    "Transizione dinastica"
+  ],
+  "items": [
+    {
+      "id": "villages",
+      "label": "Abitati lungo la fascia coltivabile",
+      "lane": "Impianto",
+      "start": 0,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "houses",
+      "label": "Case in materiali deperibili e fango",
+      "lane": "Abitazioni",
+      "start": 0,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "storage",
+      "label": "Depositi di derrate e recipienti",
+      "lane": "Conservazione",
+      "start": 0,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "craft",
+      "label": "Specializzazione ceramica, litica e lapidea",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "cemeteries",
+      "label": "Grandi necropoli regionali",
+      "lane": "Funerarie",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "elite",
+      "label": "Tombe più ricche e differenziate",
+      "lane": "Sociali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "exchange",
+      "label": "Crescita delle reti lungo Nilo e deserti",
+      "lane": "Scambi",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Sydney, immigrazione, suburbio ed edilizia pubblica",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Migrazione e lavoro",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Selezione, accoglienza e inserimento industriale dei migranti",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Reti comunitarie, chiese, club e attività commerciali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Edilizia e modernismo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Torri, flats, prefabbricazione e standard abitativi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Finanziamento pubblico, regolazione e costruzione privata",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Mobilità metropolitana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Ferrovie suburbane, autobus, automobili e arterie",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Connessione fra porto, aeroporto, industria e sobborghi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Diritti aborigeni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Freedom Ride, associazioni e campagne contro la discriminazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Critica dell’assimilazione e rivendicazione di cittadinanza e terra",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Ambiente costiero",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Acqua, fognature, spiagge, porto e inquinamento",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Gestione di crescita, rifiuti e vulnerabilità del bacino",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_71_P7_Valle_Nilo_Africa_Nord_Orientale_5_Centri_v1",
+  "macroregion": "Valle del Nilo e Africa nord-orientale",
+  "centers": [
+    "01_Cairo_Khediviale",
+    "02_Alessandria_Porto_Cotone",
+    "03_Khartoum_Turco_Egiziana_Mahdista",
+    "04_Addis_Abeba_Menelikiana",
+    "05_Port_Said_Canale_Suez"
+  ],
+  "uses_central_assets": true
+}

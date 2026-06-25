@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di La Paz repubblicana e commerciale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Altitudine e territorio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Acqua, pendii e microclimi",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Carovane, valichi e lago Titicaca",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mercati",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Tambos e reti aymara",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Coca, lana, minerali e derrate",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Mineraria",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Argento, stagno e credito",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Fonderie, trasporti e domanda urbana",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Adobe, pietra e cortili",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Ferro, vetro e stili repubblicani",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Disuguaglianza",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Tributi, debito e lavoro dipendente",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Gerarchie razziali e marginalizzazione indigena",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

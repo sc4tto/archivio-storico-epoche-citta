@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Benin City",
+      "lat": 6.335,
+      "lon": 5.604,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "edo",
+      "label": "Campagne Edo",
+      "lat": 6.55,
+      "lon": 5.7,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "del",
+      "label": "Delta del Niger",
+      "lat": 5.6,
+      "lon": 5.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "esa",
+      "label": "Esan e aree settentrionali",
+      "lat": 6.75,
+      "lon": 6.25,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "yor",
+      "label": "Paesi yoruba",
+      "lat": 7.5,
+      "lon": 4.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "coast",
+      "label": "Porti del golfo di Guinea",
+      "lat": 5.2,
+      "lon": 3.8,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "atl",
+      "label": "Atlantico portoghese e olandese",
+      "lat": 20.0,
+      "lon": -15.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "edo",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sentieri e mercati",
+      "food": "igname, olio di palma, legna e fibre"
+    },
+    {
+      "source": "del",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiumi e canali del delta",
+      "food": "pesce, sale, conchiglie e trasporto"
+    },
+    {
+      "source": "esa",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "vie terrestri",
+      "food": "cereali, bestiame e prodotti forestali"
+    },
+    {
+      "source": "yor",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti regionali",
+      "food": "tessili, perline e beni di scambio"
+    },
+    {
+      "source": "coast",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "itinerari verso i porti",
+      "food": "pepe, avorio, rame e merci costiere"
+    },
+    {
+      "source": "atl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "commercio marittimo",
+      "food": "ottone, tessuti, corallo e beni importati"
+    }
+  ]
+}

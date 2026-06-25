@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Nanchino Ming–Qing",
+    "site": "Nanchino Ming–Qing",
+    "modern_location": "Nanchino, Jiangsu, Cina",
+    "coordinates": {
+      "lat": 32.0603,
+      "lon": 118.7969
+    },
+    "scope": "Nanchino fra 1500 e 1800: capitale meridionale Ming e centro provinciale Qing, città murata, porto fluviale, polo culturale, militare, tessile e amministrativo.",
+    "version": "1.0",
+    "warning": "Il modulo distingue la funzione di capitale meridionale dalla breve corte dei Ming meridionali del 1644–1645. Le trasformazioni del XIX e XX secolo sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "NJ1",
+      "title": "Encyclopaedia Britannica — Nanjing",
+      "use": "Storia politica, capitale Ming e sviluppo urbano.",
+      "url": "https://www.britannica.com/place/Nanjing-China"
+    },
+    {
+      "id": "NJ2",
+      "title": "UNESCO — Imperial Tombs of the Ming and Qing Dynasties",
+      "use": "Mausoleo Xiaoling e cultura funeraria imperiale.",
+      "url": "https://whc.unesco.org/en/list/1004/"
+    },
+    {
+      "id": "NJ3",
+      "title": "UNESCO — The Grand Canal",
+      "use": "Reti fluviali e collegamento del Jiangnan con la capitale.",
+      "url": "https://whc.unesco.org/en/list/1443/"
+    },
+    {
+      "id": "NJ4",
+      "title": "The Metropolitan Museum of Art — The Ming Dynasty",
+      "use": "Contesto artistico, manifatturiero e materiale Ming.",
+      "url": "https://www.metmuseum.org/toah/hd/ming/hd_ming.htm"
+    },
+    {
+      "id": "NJ5",
+      "title": "Encyclopaedia Britannica — Yangtze River",
+      "use": "Geografia e funzione economica del basso Yangtze.",
+      "url": "https://www.britannica.com/place/Yangtze-River"
+    }
+  ]
+}

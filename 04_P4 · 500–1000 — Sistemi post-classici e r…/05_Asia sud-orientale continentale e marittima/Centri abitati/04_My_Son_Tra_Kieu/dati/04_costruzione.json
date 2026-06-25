@@ -1,0 +1,174 @@
+{
+  "nodes": [
+    {
+      "id": "mm_argilla",
+      "label": "Argilla per mattoni",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "mm_arenaria",
+      "label": "Arenaria",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "mm_legno",
+      "label": "Legno",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "mm_calce",
+      "label": "Leganti e rivestimenti",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "mo_cottura",
+      "label": "Cottura e posa dei mattoni",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "mo_scultura",
+      "label": "Taglio e scultura",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "mo_carp",
+      "label": "Carpenteria",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "mo_finitura",
+      "label": "Finitura e decorazione",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "mc_torre",
+      "label": "Torre-santuario",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "mc_lintel",
+      "label": "Architravi e colonne",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "mc_sale",
+      "label": "Sale e coperture lignee",
+      "layer": 2,
+      "status": "inferito"
+    },
+    {
+      "id": "mc_recinto",
+      "label": "Recinti, porte e percorsi",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ms_myson",
+      "label": "Complessi di Mỹ Sơn",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ms_tra",
+      "label": "Edifici di Trà Kiệu",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "ms_rituale",
+      "label": "Spazi rituali e funerari",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ms_urbano",
+      "label": "Paesaggio capitale-santuario",
+      "layer": 3,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "mm_argilla",
+      "target": "mo_cottura",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "mm_arenaria",
+      "target": "mo_scultura",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "mm_legno",
+      "target": "mo_carp",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "mm_calce",
+      "target": "mo_finitura",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "mo_cottura",
+      "target": "mc_torre",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "mo_scultura",
+      "target": "mc_lintel",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "mo_carp",
+      "target": "mc_sale",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "mo_finitura",
+      "target": "mc_recinto",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "mc_torre",
+      "target": "ms_myson",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "mc_lintel",
+      "target": "ms_rituale",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "mc_sale",
+      "target": "ms_tra",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "mc_recinto",
+      "target": "ms_urbano",
+      "status": "sintesi",
+      "label": ""
+    }
+  ]
+}

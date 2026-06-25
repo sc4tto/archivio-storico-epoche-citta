@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1945–1949",
+    "1950–1954",
+    "1955–1959",
+    "1960–1964",
+    "1965–1970"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Espansione postbellica del porto, della ferrovia e delle attività commerciali",
+      "lane": "Economia",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Pianificazione coloniale e interventi del Lagos Executive Development Board",
+      "lane": "Urbanistica",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Lagos torna territorio federale separato dalla Western Region nel 1954",
+      "lane": "Istituzioni",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Indipendenza della Nigeria e Lagos capitale federale nel 1960",
+      "lane": "Politica",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Crescita di Surulere, Mushin, Yaba, Apapa e Ikeja",
+      "lane": "Espansione urbana",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Creazione dello Stato di Lagos nel 1967",
+      "lane": "Istituzioni",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Guerra civile nigeriana, mobilitazione e pressioni migratorie dal 1967",
+      "lane": "Conflitto",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Sovraffollamento, carenze idriche, traffico e insediamenti informali",
+      "lane": "Servizi",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

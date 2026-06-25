@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Costantinopoli rimase la capitale dell’Impero romano d’Oriente per tutto il periodo 500–1000.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "C1; C2"
+  },
+  {
+    "claim": "La posizione fra Bosphoro, Mar Nero e Mediterraneo rese la città un nodo strategico di traffici e difesa.",
+    "theme": "geografia",
+    "status": "documentato",
+    "source": "C1"
+  },
+  {
+    "claim": "Hagia Sophia fu ricostruita sotto Giustiniano e consacrata nel 537.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "C1; C5"
+  },
+  {
+    "claim": "Mura teodosiane, porti e cisterne formarono un sistema urbano essenziale alla resilienza della capitale.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "C1; C3"
+  },
+  {
+    "claim": "L’approvvigionamento cerealicolo dipendeva da prelievo fiscale, trasporto marittimo e mercati.",
+    "theme": "alimentazione",
+    "status": "sintesi",
+    "source": "C2; C3"
+  },
+  {
+    "claim": "Pesca e commercio del Bosphoro contribuirono stabilmente alla dieta urbana.",
+    "theme": "alimentazione",
+    "status": "sintesi",
+    "source": "C3"
+  },
+  {
+    "claim": "L’iconoclasmo modificò decorazioni e pratiche religiose senza cancellare la centralità dei complessi ecclesiastici.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "C2; C5"
+  },
+  {
+    "claim": "La popolazione e l’estensione dei quartieri variarono notevolmente fra crisi e riprese.",
+    "theme": "demografia",
+    "status": "sintesi",
+    "source": "C2; C4"
+  }
+]

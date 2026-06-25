@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Mohenjo-daro fu costruita soprattutto con mattoni e pianificata per isolati",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "MOHENJO_UNESCO"
+  },
+  {
+    "claim": "La città disponeva di numerosi pozzi e di un articolato sistema di drenaggio",
+    "theme": "Acqua",
+    "status": "documentato",
+    "source": "MOHENJO_UNESCO"
+  },
+  {
+    "claim": "Il Grande Bagno era impermeabilizzato e collocato sul settore occidentale sopraelevato",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "MOHENJO_MARSHALL"
+  },
+  {
+    "claim": "Le strade si incrociavano secondo una pianificazione regolare",
+    "theme": "Pianificazione",
+    "status": "documentato",
+    "source": "MOHENJO_UNESCO"
+  },
+  {
+    "claim": "Salinità e falda idrica minacciano la conservazione",
+    "theme": "Conservazione",
+    "status": "documentato",
+    "source": "MOHENJO_UNESCO"
+  },
+  {
+    "claim": "Il Grande Bagno era certamente un tempio con un sacerdozio identificato",
+    "theme": "Rituali",
+    "status": "non_documentato",
+    "source": "Funzione rituale plausibile ma non testuale"
+  },
+  {
+    "claim": "Il cosiddetto granaio immagazzinava sicuramente cereali",
+    "theme": "Funzione",
+    "status": "non_documentato",
+    "source": "Interpretazione discussa"
+  },
+  {
+    "claim": "La città fu distrutta da una singola invasione violenta",
+    "theme": "Declino",
+    "status": "non_documentato",
+    "source": "Assenza di prova univoca"
+  }
+]

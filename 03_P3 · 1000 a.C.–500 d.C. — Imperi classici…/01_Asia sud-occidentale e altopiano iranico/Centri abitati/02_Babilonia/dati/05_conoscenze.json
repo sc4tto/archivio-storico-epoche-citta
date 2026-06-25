@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Babilonia",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Cinte murarie",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Via processionale",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Quartieri a trama regolare",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Scrittura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Cuneiforme",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Astronomia matematica",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Archivi templari",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Idraulica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Canali",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Argini",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_3",
+          "label": "Drenaggi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Edilizia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Mattoni cotti",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Bitume",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Invetriatura",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Culto",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Marduk",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Processioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Calendario rituale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Società",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Corte reale",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Templi proprietari",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Popolazione numerica",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

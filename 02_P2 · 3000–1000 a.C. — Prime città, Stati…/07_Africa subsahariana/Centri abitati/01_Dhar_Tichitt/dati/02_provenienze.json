@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Dhar Tichitt",
+      "lat": 18.45,
+      "lon": -9.5,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "dakhlet",
+      "label": "Dakhlet el Atrouss",
+      "lat": 18.48,
+      "lon": -9.45,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "walata",
+      "label": "Dhar Walata",
+      "lat": 17.3,
+      "lon": -7.0,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "nema",
+      "label": "Dhar Néma",
+      "lat": 16.62,
+      "lon": -7.26,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "tagant",
+      "label": "Dhar Tagant",
+      "lat": 18.0,
+      "lon": -11.0,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "sahel",
+      "label": "Sahel occidentale",
+      "lat": 16.0,
+      "lon": -12.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "dakhlet",
+      "target": "site",
+      "label": "composti domestici e centro regionale",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "walata",
+      "target": "site",
+      "label": "ceramiche e mobilità stagionale",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "nema",
+      "target": "site",
+      "label": "reti agropastorali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "tagant",
+      "target": "site",
+      "label": "pascoli e tradizioni funerarie",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "sahel",
+      "target": "site",
+      "label": "circolazione di miglio e bestiame",
+      "status": "sintesi",
+      "food": "sì"
+    }
+  ]
+}

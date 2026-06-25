@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Suzhou Ming–Qing",
+    "site": "Suzhou Ming–Qing",
+    "modern_location": "Suzhou, Jiangsu, Cina",
+    "coordinates": {
+      "lat": 31.2989,
+      "lon": 120.5853
+    },
+    "scope": "Suzhou fra 1500 e 1800: città commerciale e manifatturiera del Jiangnan, centro della seta, dei giardini, dei canali, delle arti e dei consumi urbani Ming e Qing.",
+    "version": "1.0",
+    "warning": "Il modulo privilegia le fasi Ming e Qing anteriori al 1800. Restaurazioni moderne, industrializzazione e trasformazioni del XIX–XX secolo sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SZ1",
+      "title": "UNESCO — Classical Gardens of Suzhou",
+      "use": "Giardini, padiglioni, rocce e cultura urbana del Jiangnan.",
+      "url": "https://whc.unesco.org/en/list/813/"
+    },
+    {
+      "id": "SZ2",
+      "title": "UNESCO — The Grand Canal",
+      "use": "Canali, navigazione e reti commerciali.",
+      "url": "https://whc.unesco.org/en/list/1443/"
+    },
+    {
+      "id": "SZ3",
+      "title": "Encyclopaedia Britannica — Suzhou",
+      "use": "Storia urbana, seta e funzione commerciale.",
+      "url": "https://www.britannica.com/place/Suzhou-Jiangsu-China"
+    },
+    {
+      "id": "SZ4",
+      "title": "The Metropolitan Museum of Art — The Ming Dynasty",
+      "use": "Arti, cultura materiale e consumo nel periodo Ming.",
+      "url": "https://www.metmuseum.org/toah/hd/ming/hd_ming.htm"
+    },
+    {
+      "id": "SZ5",
+      "title": "The Metropolitan Museum of Art — The Qing Dynasty",
+      "use": "Cultura materiale e produzione artistica Qing.",
+      "url": "https://www.metmuseum.org/toah/hd/qing_1/hd_qing_1.htm"
+    }
+  ]
+}

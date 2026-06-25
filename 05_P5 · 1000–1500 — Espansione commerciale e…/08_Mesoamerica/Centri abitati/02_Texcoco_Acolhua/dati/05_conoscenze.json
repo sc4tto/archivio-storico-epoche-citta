@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Texcoco acolhua e paesaggio di Nezahualcóyotl",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Idraulica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Canali e acquedotti di montagna",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Dighe e controllo del lago",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Paesaggio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Terrazze e giardini",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Gestione di specie ornamentali e utili",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Governo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Leggi e amministrazione acolhua",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_1",
+          "label": "Partecipazione alla Triplice Alleanza",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Scrittura e arti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Poesia e tradizioni manoscritte",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_1",
+          "label": "Pittura, scultura e musica di corte",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Lavorazione della roccia",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Palazzi e complessi rituali",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

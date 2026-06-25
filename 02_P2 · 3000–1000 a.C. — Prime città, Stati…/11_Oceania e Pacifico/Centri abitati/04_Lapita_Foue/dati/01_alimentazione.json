@@ -1,0 +1,234 @@
+{
+  "nodes": [
+    {
+      "id": "env1",
+      "label": "Laguna e barriera della costa occidentale",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "env2",
+      "label": "Pianure costiere e foresta secca",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "env3",
+      "label": "Rotte verso Vanuatu e Fiji",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "res1",
+      "label": "Taro, igname e frutti",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "res2",
+      "label": "Cocco e piante fibrose",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "res3",
+      "label": "Maiali, polli e fauna insulare",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "res4",
+      "label": "Pesci, molluschi e tartarughe",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "res5",
+      "label": "Piante spontanee e legname",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "acq1",
+      "label": "Orticoltura e raccolta",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "acq2",
+      "label": "Allevamento e cattura",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "acq3",
+      "label": "Pesca lagunare e raccolta",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "tr1",
+      "label": "Pestatura e taglio",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "tr2",
+      "label": "Cottura in vasi e focolari",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "tr3",
+      "label": "Essiccazione e deposito",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "tr4",
+      "label": "Pulizia e lavorazione marina",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "out1",
+      "label": "Pasti orticoli e marini",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "out2",
+      "label": "Ceramica, conchiglia e fauna",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "out3",
+      "label": "Middens e livelli domestici",
+      "layer": 4,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "env1",
+      "target": "res1",
+      "label": "ambiente produttivo",
+      "status": "sintesi"
+    },
+    {
+      "source": "env1",
+      "target": "res2",
+      "label": "ambiente produttivo",
+      "status": "sintesi"
+    },
+    {
+      "source": "env2",
+      "target": "res3",
+      "label": "habitat e gestione",
+      "status": "sintesi"
+    },
+    {
+      "source": "env2",
+      "target": "res4",
+      "label": "acqua e risorse",
+      "status": "sintesi"
+    },
+    {
+      "source": "env3",
+      "target": "res5",
+      "label": "paesaggio e raccolta",
+      "status": "sintesi"
+    },
+    {
+      "source": "res1",
+      "target": "acq1",
+      "label": "coltivazione o raccolta",
+      "status": "documentato"
+    },
+    {
+      "source": "res2",
+      "target": "acq1",
+      "label": "coltivazione o raccolta",
+      "status": "documentato"
+    },
+    {
+      "source": "res3",
+      "target": "acq2",
+      "label": "allevamento o cattura",
+      "status": "documentato"
+    },
+    {
+      "source": "res4",
+      "target": "acq3",
+      "label": "pesca o raccolta",
+      "status": "documentato"
+    },
+    {
+      "source": "res5",
+      "target": "acq3",
+      "label": "raccolta mirata",
+      "status": "documentato"
+    },
+    {
+      "source": "acq1",
+      "target": "tr1",
+      "label": "trasformazione vegetale",
+      "status": "documentato"
+    },
+    {
+      "source": "acq1",
+      "target": "tr3",
+      "label": "conservazione",
+      "status": "documentato"
+    },
+    {
+      "source": "acq2",
+      "target": "tr4",
+      "label": "lavorazione animale",
+      "status": "documentato"
+    },
+    {
+      "source": "acq3",
+      "target": "tr2",
+      "label": "cottura",
+      "status": "documentato"
+    },
+    {
+      "source": "acq3",
+      "target": "tr4",
+      "label": "trattamento",
+      "status": "documentato"
+    },
+    {
+      "source": "tr1",
+      "target": "out1",
+      "label": "preparazione",
+      "status": "sintesi"
+    },
+    {
+      "source": "tr2",
+      "target": "out1",
+      "label": "cottura",
+      "status": "sintesi"
+    },
+    {
+      "source": "tr3",
+      "target": "out2",
+      "label": "depositi e reperti",
+      "status": "documentato"
+    },
+    {
+      "source": "tr4",
+      "target": "out2",
+      "label": "resti e strumenti",
+      "status": "documentato"
+    },
+    {
+      "source": "tr2",
+      "target": "out3",
+      "label": "cenere e residui",
+      "status": "documentato"
+    }
+  ]
+}

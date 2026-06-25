@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Aksum tardoantica",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0_agri",
+      "label": "Agricoltura d’altopiano",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0_terraces",
+          "label": "Suoli, terrazzi e piogge stagionali",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1_storage",
+          "label": "Conservazione di cereali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1_writing",
+      "label": "Scrittura e amministrazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0_geez",
+          "label": "Ge’ez epigrafico e manoscritto",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1_accounts",
+          "label": "Fiscalità e registrazione",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2_building",
+      "label": "Architettura in pietra e legno",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0_ashlar",
+          "label": "Taglio della pietra e moduli",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1_timberframe",
+          "label": "Legature lignee e solai",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3_religion",
+      "label": "Cristianesimo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0_liturgy",
+          "label": "Liturgia, chiese e memoria regale",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1_networks",
+          "label": "Rapporti ecclesiastici regionali",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4_trade",
+      "label": "Scambi interregionali",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0_redsea",
+          "label": "Navigazione e rotte del Mar Rosso",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1_coinage",
+          "label": "Moneta e standard di scambio",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

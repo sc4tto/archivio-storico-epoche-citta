@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Kuk documenta una lunga storia di coltivazione e gestione del suolo",
+    "theme": "Agricoltura",
+    "status": "documentato",
+    "source": "KUK_UNESCO"
+  },
+  {
+    "claim": "Sono presenti fossati e sistemi di drenaggio preistorici",
+    "theme": "Acqua",
+    "status": "documentato",
+    "source": "KUK_UNESCO"
+  },
+  {
+    "claim": "La sequenza sostiene uno sviluppo indipendente dell’agricoltura",
+    "theme": "Storia economica",
+    "status": "documentato",
+    "source": "KUK_UNESCO"
+  },
+  {
+    "claim": "Fitoliti e altri dati documentano colture come banana e taro",
+    "theme": "Archeobotanica",
+    "status": "documentato",
+    "source": "KUK_SCIENCE_2003"
+  },
+  {
+    "claim": "Le fasi agricole si trasformarono nel corso di millenni",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "KUK_ANU_2017"
+  },
+  {
+    "claim": "La prima fase era già un villaggio urbano",
+    "theme": "Urbanizzazione",
+    "status": "non_documentato",
+    "source": "Evidenza di paesaggio agricolo, non città"
+  },
+  {
+    "claim": "Ogni fossato aveva la stessa funzione",
+    "theme": "Idraulica",
+    "status": "non_documentato",
+    "source": "Fasi e funzioni differenziate"
+  },
+  {
+    "claim": "Le prime coltivazioni furono introdotte dagli Austronesiani",
+    "theme": "Popolazioni",
+    "status": "non_documentato",
+    "source": "Cronologia austronesiana molto più tarda"
+  }
+]

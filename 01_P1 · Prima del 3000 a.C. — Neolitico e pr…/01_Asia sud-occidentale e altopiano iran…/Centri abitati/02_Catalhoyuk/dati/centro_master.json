@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Çatalhöyük — modulo multi-grafo",
+    "short_name": "Çatalhöyük",
+    "site": "Çatalhöyük",
+    "modern_location": "Provincia di Konya, Turchia",
+    "coordinates": {
+      "lat": 37.6667,
+      "lon": 32.8281
+    },
+    "scope": "Tell orientale neolitico (ca. 7400–6200 a.C.) e tell occidentale calcolitico (ca. 6200–5200 a.C.)",
+    "version": "1.0-blocco-02",
+    "warning": "Le attività economiche cambiano fra livelli e aree. Le categorie alimentari sono sintesi e vanno rifasate sulle pubblicazioni specialistiche."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "UNESCO_1405",
+      "title": "UNESCO World Heritage Centre — Neolithic Site of Çatalhöyük",
+      "url": "https://whc.unesco.org/en/list/1405/",
+      "use": "cronologia, stratigrafia, case addossate, accesso dai tetti, organizzazione dello spazio e patrimonio simbolico"
+    },
+    {
+      "id": "CATAL_ARCHIVE",
+      "title": "Çatalhöyük Research Project — archivio ufficiale del progetto",
+      "url": "https://www.catalhoyuk.com/",
+      "use": "archivio di scavo, reperti, metodologie, abitazioni, pratiche domestiche e rituali"
+    },
+    {
+      "id": "CATAL_PORTAL",
+      "title": "Çatalhöyük Research Portal",
+      "url": "https://www.catalhoyuk.com/research",
+      "use": "accesso ai dati e alle pubblicazioni specialistiche del progetto"
+    }
+  ]
+}

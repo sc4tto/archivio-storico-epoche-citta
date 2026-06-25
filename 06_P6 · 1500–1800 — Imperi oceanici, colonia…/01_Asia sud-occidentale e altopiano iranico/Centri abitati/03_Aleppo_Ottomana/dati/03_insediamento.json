@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1500–1560",
+    "1560–1620",
+    "1620–1680",
+    "1680–1740",
+    "1740–1800"
+  ],
+  "items": [
+    {
+      "id": "al1",
+      "label": "Incorporazione nell’Impero ottomano",
+      "lane": "Politica",
+      "start": 0,
+      "end": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "al2",
+      "label": "Espansione dei khan e del suq coperto",
+      "lane": "Economia",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "al3",
+      "label": "Consolidamento dei quartieri mercantili",
+      "lane": "Società",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "al4",
+      "label": "Crescita del commercio con Venezia e Francia",
+      "lane": "Commercio",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "al5",
+      "label": "Sviluppo di manifatture tessili e sapone",
+      "lane": "Produzione",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "al6",
+      "label": "Restauri di cittadella, moschee e porte",
+      "lane": "Costruzione",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "al7",
+      "label": "Terremoti, epidemie e oscillazioni commerciali",
+      "lane": "Rischi",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "al8",
+      "label": "Persistenza della centralità del suq",
+      "lane": "Continuità",
+      "start": 3,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

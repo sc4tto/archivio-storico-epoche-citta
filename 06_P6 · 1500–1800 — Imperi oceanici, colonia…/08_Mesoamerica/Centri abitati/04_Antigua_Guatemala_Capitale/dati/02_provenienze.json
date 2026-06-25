@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Antigua Guatemala",
+      "lat": 14.559,
+      "lon": -90.73,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "pan",
+      "label": "Valle di Panchoy",
+      "lat": 14.55,
+      "lon": -90.75,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "ati",
+      "label": "Altipiani e lago Atitlán",
+      "lat": 14.69,
+      "lon": -91.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "esc",
+      "label": "Escuintla e costa del Pacifico",
+      "lat": 14.3,
+      "lon": -90.78,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "sal",
+      "label": "Salvador e Honduras occidentale",
+      "lat": 14.0,
+      "lon": -89.2,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "chi",
+      "label": "Chiapas e Soconusco",
+      "lat": 15.0,
+      "lon": -92.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "mex",
+      "label": "Città del Messico e Puebla",
+      "lat": 19.1,
+      "lon": -98.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "pan",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade della valle",
+      "food": "mais, grano, frutta e bestiame"
+    },
+    {
+      "source": "ati",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cammini montani",
+      "food": "tessili, mais e prodotti degli altopiani"
+    },
+    {
+      "source": "esc",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "vie verso il Pacifico",
+      "food": "cacao, zucchero e prodotti tropicali"
+    },
+    {
+      "source": "sal",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "camino real centroamericano",
+      "food": "indaco, balsamo e derrate regionali"
+    },
+    {
+      "source": "chi",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte occidentali",
+      "food": "cacao, tessili e commerci del Soconusco"
+    },
+    {
+      "source": "mex",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete vicereale",
+      "food": "libri, manufatti, funzionari e capitali"
+    }
+  ]
+}

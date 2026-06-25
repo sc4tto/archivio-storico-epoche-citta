@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Tabon Caves",
+      "lat": 8.84,
+      "lon": 117.98,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "lipuun",
+      "label": "Promontorio di Lipuun",
+      "lat": 8.85,
+      "lon": 117.97,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": -20,
+      "anchor": "end"
+    },
+    {
+      "id": "mangrove",
+      "label": "Mangrovie e estuari",
+      "lat": 8.8,
+      "lon": 117.95,
+      "status": "sintesi",
+      "kind": "locale",
+      "dx": 10,
+      "dy": 25,
+      "anchor": "start"
+    },
+    {
+      "id": "palawan",
+      "label": "Foresta interna di Palawan",
+      "lat": 9.1,
+      "lon": 117.8,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 28,
+      "anchor": "middle"
+    },
+    {
+      "id": "borneo",
+      "label": "Borneo settentrionale",
+      "lat": 6.0,
+      "lon": 116.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "seasia",
+      "label": "Reti insulari del Sud-est asiatico",
+      "lat": 10.5,
+      "lon": 120.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "lipuun",
+      "target": "site",
+      "label": "ripari, pietra e spazi di lavorazione",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "mangrove",
+      "target": "site",
+      "label": "pesce, molluschi e crostacei",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "palawan",
+      "target": "site",
+      "label": "selvaggina, piante, legno e fibre",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "borneo",
+      "target": "site",
+      "label": "confronti biogeografici e mobilità",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "seasia",
+      "target": "site",
+      "label": "connessioni culturali insulari",
+      "status": "inferito",
+      "food": "no"
+    }
+  ]
+}

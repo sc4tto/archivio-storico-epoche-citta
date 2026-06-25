@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Tiwanaku centro spirituale e politico",
+    "site": "Tiwanaku / Tiahuanaco",
+    "modern_location": "Provincia di Ingavi, dipartimento di La Paz, Bolivia",
+    "coordinates": {
+      "lat": -16.5547,
+      "lon": -68.6733
+    },
+    "scope": "Tiwanaku fra 500 e 1000, con attenzione ai templi monumentali, alla lavorazione della pietra, ai campi rialzati, alle reti del lago Titicaca e ai rapporti con le colonie vallive.",
+    "version": "1.0",
+    "warning": "La forma politica di Tiwanaku e il grado di controllo sulle colonie sono oggetto di discussione. Le ricostruzioni degli edifici devono distinguere fra strutture originali e restauri moderni."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "T1",
+      "title": "UNESCO World Heritage Centre — Tiwanaku",
+      "use": "Cronologia, architettura monumentale, drenaggi e campi rialzati.",
+      "url": "https://whc.unesco.org/en/list/567/"
+    },
+    {
+      "id": "T2",
+      "title": "Smithsonian National Museum of the American Indian — Tiwanaku",
+      "use": "Arte, iconografia e reti culturali dell’altopiano.",
+      "url": "https://americanindian.si.edu/collections-search/search?edan_q=Tiwanaku"
+    },
+    {
+      "id": "T3",
+      "title": "Kolata, The Tiwanaku: Portrait of an Andean Civilization",
+      "use": "Urbanistica, agricoltura e organizzazione politica.",
+      "url": "https://www.wiley.com/en-us/The+Tiwanaku%3A+Portrait+of+an+Andean+Civilization-p-9781557861832"
+    },
+    {
+      "id": "T4",
+      "title": "Janusek, Ancient Tiwanaku",
+      "use": "Spazi rituali, comunità e trasformazioni sociali.",
+      "url": "https://doi.org/10.1017/CBO9780511804649"
+    },
+    {
+      "id": "T5",
+      "title": "Albarracín-Jordán, Tiwanaku settlement systems",
+      "use": "Insediamento regionale e paesaggio agricolo.",
+      "url": "https://www.jstor.org/stable/971782"
+    }
+  ]
+}

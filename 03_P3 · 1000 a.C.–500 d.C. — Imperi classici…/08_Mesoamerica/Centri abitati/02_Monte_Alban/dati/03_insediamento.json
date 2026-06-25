@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Fondazione sulla cima intorno al 500 a.C.",
+    "Monte Albán I e crescita regionale",
+    "Monte Albán II: urbanizzazione e fortificazioni",
+    "Monte Albán III: apogeo classico",
+    "Trasformazioni entro il V secolo"
+  ],
+  "items": [
+    {
+      "id": "plaza",
+      "label": "Grande Piazza e piattaforme",
+      "lane": "Monumentali",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "danzantes",
+      "label": "Lastre dei Danzantes",
+      "lane": "Rituali",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "buildingj",
+      "label": "Edificio J e iscrizioni",
+      "lane": "Amministrative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "tombs",
+      "label": "Tombe e offerte funerarie",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "ballcourt",
+      "label": "Campi per il gioco della palla",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "terraces",
+      "label": "Terrazze abitative e agricole",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "water",
+      "label": "Dighe, canali e controllo delle acque",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

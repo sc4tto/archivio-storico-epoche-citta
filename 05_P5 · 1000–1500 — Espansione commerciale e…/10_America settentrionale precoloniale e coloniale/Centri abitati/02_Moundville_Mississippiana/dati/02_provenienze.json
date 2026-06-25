@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Moundville",
+      "lat": 33.0026,
+      "lon": -87.6308,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "bw",
+      "label": "Valle del Black Warrior",
+      "lat": 33.1,
+      "lon": -87.55,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "upl",
+      "label": "Altopiani dell’Alabama centrale",
+      "lat": 33.2,
+      "lon": -87.2,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "tom",
+      "label": "Bacino Tombigbee",
+      "lat": 32.8,
+      "lon": -88.2,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "gulf",
+      "label": "Costa del Golfo",
+      "lat": 30.4,
+      "lon": -88.8,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "app",
+      "label": "Appalachi meridionali",
+      "lat": 34.6,
+      "lon": -84.2,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "miss",
+      "label": "Valle del Mississippi",
+      "lat": 35.1,
+      "lon": -90.2,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "bw",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiume e sentieri",
+      "food": "mais, pesce, argilla e legname"
+    },
+    {
+      "source": "upl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti locali",
+      "food": "selvaggina e pietra"
+    },
+    {
+      "source": "tom",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corsi d’acqua",
+      "food": "derrate e ceramiche"
+    },
+    {
+      "source": "gulf",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti del Golfo",
+      "food": "conchiglia marina"
+    },
+    {
+      "source": "app",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "scambi regionali",
+      "food": "rame, mica e pietre"
+    },
+    {
+      "source": "miss",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "reti mississippiane",
+      "food": "idee, beni e alleanze"
+    }
+  ]
+}

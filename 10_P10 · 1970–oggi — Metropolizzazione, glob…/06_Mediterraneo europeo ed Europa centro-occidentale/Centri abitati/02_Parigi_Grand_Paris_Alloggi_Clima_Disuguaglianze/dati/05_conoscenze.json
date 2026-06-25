@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Parigi, Grand Paris, alloggi, clima e disuguaglianze",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Governance metropolitana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Ville de Paris, Métropole du Grand Paris e Île-de-France",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Comuni, Stato, APUR e pianificazione interscalare",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mobilità regionale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Métro, RER, tram, bus e Grand Paris Express",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Ciclabilità, intermodalità e riduzione dell’automobile",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Alloggi e disuguaglianze",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "HLM, affitto, retrofit e politiche sociali",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Povertà, segregazione, gentrificazione e homelessness",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Rigenerazione urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "ZAC, brownfield, spazi pubblici e patrimonio",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Olimpiadi 2024, stazioni e trasformazioni suburbane",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Clima e salute",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Calore, qualità dell’aria e infrastrutture verdi",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Adattamento, energia, mobilità e giustizia climatica",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

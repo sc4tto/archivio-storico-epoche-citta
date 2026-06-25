@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_69_P6_Oceania_Pacifico_5_Centri_v1",
+  "macroregion": "Oceania e Pacifico",
+  "centers": [
+    "01_Mua_Lapaha_Tonga",
+    "02_Taputapuatea_Opoa_Raiatea",
+    "03_Kealakekua_Kona_Hawaii",
+    "04_Maungakiekie_Pa_Tamaki",
+    "05_Warrane_Sydney_Cove"
+  ],
+  "uses_central_assets": true
+}

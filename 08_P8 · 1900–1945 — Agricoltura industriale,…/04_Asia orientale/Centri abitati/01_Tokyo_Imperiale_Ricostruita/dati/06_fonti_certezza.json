@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Tokyo fu capitale politica e amministrativa dell’Impero giapponese.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "TO1; TO4"
+  },
+  {
+    "claim": "Ferrovie e tram sostennero una rapida espansione suburbana.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "TO1; TO3"
+  },
+  {
+    "claim": "Il terremoto del Kantō del 1923 provocò distruzioni e incendi estesi.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "TO2; TO4"
+  },
+  {
+    "claim": "La ricostruzione introdusse nuove strade, ponti e parchi.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "TO1; TO2"
+  },
+  {
+    "claim": "Dopo il sisma furono massacrate comunità coreane e oppositori politici.",
+    "theme": "violenza",
+    "status": "documentato",
+    "source": "TO2; TO5"
+  },
+  {
+    "claim": "La metropoli dipendeva da reti alimentari nazionali e imperiali.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "TO1; TO5"
+  },
+  {
+    "claim": "La mobilitazione bellica trasformò produzione e consumi.",
+    "theme": "conflitti",
+    "status": "documentato",
+    "source": "TO5"
+  },
+  {
+    "claim": "Occupazione e ricostruzione dopo il 1945 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "TO1"
+  }
+]

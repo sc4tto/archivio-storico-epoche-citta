@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Parigi monarchica e rivoluzionaria",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Senna e approvvigionamento",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Navigazione, porti e quais",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Mercati, mulini e controllo delle derrate",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Monarchia e Stato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Corte, ministeri e giustizia",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Polizia, fiscalità e amministrazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Pietra da taglio e coperture",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Piazze reali, ponti e palazzi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Cultura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Accademie, stampa e scienze",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Teatri, salotti e collezioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Crisi e Rivoluzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Carestie, prezzi e proteste",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Municipalità e trasformazione politica",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

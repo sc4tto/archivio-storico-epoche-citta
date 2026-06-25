@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Milano, servizi avanzati, M4, rigenerazione, clima e alloggi",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Governance metropolitana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Comune, Città metropolitana e Regione Lombardia",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "PGT, accordi di programma e coordinamento ferroviario",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mobilità integrata",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Metropolitane, passante, tram, bus e ciclabilità",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "M4, interscambi, tariffe e spazio pubblico",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Rigenerazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Scali, brownfield, patrimonio industriale e nuovi parchi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Housing sociale, uffici, università e quartieri misti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Economia dei servizi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Finanza, moda, design, fiere, ricerca e tecnologia",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Lavoro precario, turismo e disuguaglianze territoriali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Clima e salute",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "PM10, NO2, calore, energia e verde urbano",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Piano Aria e Clima, adattamento e giustizia ambientale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

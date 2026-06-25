@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Jiahu iniziale",
+    "Jiahu medio",
+    "Jiahu tardo",
+    "Crisi idrologica",
+    "Abbandono"
+  ],
+  "items": [
+    {
+      "id": "moat",
+      "label": "Fossato o limite dell’insediamento",
+      "lane": "Impianto",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Case seminterrate",
+      "lane": "Abitazioni",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "pits",
+      "label": "Fosse di deposito",
+      "lane": "Conservazione",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "hearths",
+      "label": "Focolari e attività domestiche",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "cemetery",
+      "label": "Sepolture con corredi variabili",
+      "lane": "Funerarie",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "flutes",
+      "label": "Flauti ossei in contesti selezionati",
+      "lane": "Simboliche",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "flood",
+      "label": "Abbandono associato a condizioni idrologiche",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

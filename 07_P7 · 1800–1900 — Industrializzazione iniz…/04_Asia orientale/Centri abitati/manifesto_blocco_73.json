@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_73_P7_Asia_Orientale_5_Centri_v1",
+  "macroregion": "Asia orientale",
+  "centers": [
+    "01_Tokyo_Edo_Meiji",
+    "02_Osaka_Mercantile_Industriale",
+    "03_Shanghai_Porto_Trattati",
+    "04_Pechino_Qing_Tardo",
+    "05_Yokohama_Porto_Aperto"
+  ],
+  "uses_central_assets": true
+}

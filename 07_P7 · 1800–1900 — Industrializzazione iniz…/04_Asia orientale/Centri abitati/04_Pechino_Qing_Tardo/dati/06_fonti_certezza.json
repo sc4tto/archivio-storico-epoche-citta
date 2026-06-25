@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Pechino rimase la capitale dell’impero Qing per tutto il XIX secolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "BE1; BE2"
+  },
+  {
+    "claim": "L’asse centrale organizzava palazzi, porte, altari e spazi cerimoniali.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "BE1; BE3"
+  },
+  {
+    "claim": "Il Grand Canal e Tongzhou furono essenziali per l’approvvigionamento della capitale.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "BE2; BE4"
+  },
+  {
+    "claim": "Nel 1860 le forze anglo-francesi occuparono Pechino e distrussero lo Yuanmingyuan.",
+    "theme": "conflitto",
+    "status": "documentato",
+    "source": "BE2; BE5"
+  },
+  {
+    "claim": "Le legazioni straniere produssero un quartiere diplomatico separato.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "BE2; BE4"
+  },
+  {
+    "claim": "Le riforme di autorrafforzamento introdussero scuole, traduzioni e infrastrutture moderne.",
+    "theme": "riforme",
+    "status": "documentato",
+    "source": "BE2; BE5"
+  },
+  {
+    "claim": "Le prime ferrovie verso Tianjin furono politicamente controverse.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "BE2; BE4"
+  },
+  {
+    "claim": "Il protocollo Boxer del 1901 e la caduta Qing sono fuori periodo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "BE2"
+  }
+]

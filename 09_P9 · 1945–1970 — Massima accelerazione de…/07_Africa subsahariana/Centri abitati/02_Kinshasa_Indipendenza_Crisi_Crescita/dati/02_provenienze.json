@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Kinshasa",
+      "lat": -4.4419,
+      "lon": 15.2663,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "con",
+      "label": "Fiume Congo e Pool Malebo",
+      "lat": -4.3,
+      "lon": 15.35,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "bas",
+      "label": "Bas-Congo e Matadi",
+      "lat": -5.8,
+      "lon": 13.45,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "kas",
+      "label": "Kasai",
+      "lat": -5.0,
+      "lon": 21.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "ban",
+      "label": "Bandundu e Kwango",
+      "lat": -4.5,
+      "lon": 18.5,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "kat",
+      "label": "Katanga e regioni minerarie",
+      "lat": -10.5,
+      "lon": 27.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "atl",
+      "label": "Atlantico via Matadi",
+      "lat": -5.8,
+      "lon": 12.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "con",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "piroghe, battelli e porti fluviali",
+      "food": "pesce, legna, manioca, passeggeri e merci"
+    },
+    {
+      "source": "bas",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e strada Matadi–Kinshasa",
+      "food": "alimenti, carburanti, importazioni e lavoratori"
+    },
+    {
+      "source": "kas",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete fluviale e ferroviaria",
+      "food": "mais, manioca, legumi e migranti"
+    },
+    {
+      "source": "ban",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade, camion e mercati",
+      "food": "plantain, ortaggi, carne e carbone vegetale"
+    },
+    {
+      "source": "kat",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e reti nazionali",
+      "food": "rame, prodotti industriali, salari e migrazioni"
+    },
+    {
+      "source": "atl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto di Matadi e commercio oceanico",
+      "food": "farina, riso, zucchero, macchinari e medicinali"
+    }
+  ]
+}

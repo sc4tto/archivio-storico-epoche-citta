@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Puebla conservò una griglia urbana e un patrimonio architettonico sviluppati dal periodo coloniale.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "PU1; PU3"
+  },
+  {
+    "claim": "La produzione tessile e i mulini furono centrali nell’economia ottocentesca.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "PU2; PU4"
+  },
+  {
+    "claim": "La città fu teatro della battaglia del 5 maggio 1862 e dell’assedio del 1863.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "PU2; PU4"
+  },
+  {
+    "claim": "Ferrovie e strade collegarono Puebla con Città del Messico e Veracruz.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "PU2; PU4"
+  },
+  {
+    "claim": "Mattoni, azulejos e argamasa caratterizzarono molte facciate storiche.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "PU1; PU3"
+  },
+  {
+    "claim": "Fabbriche e quartieri operai produssero nuove forme di disciplina e disuguaglianza.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "PU2; PU4"
+  },
+  {
+    "claim": "Le istituzioni religiose e culturali continuarono a strutturare il centro urbano.",
+    "theme": "cultura",
+    "status": "documentato",
+    "source": "PU1; PU5"
+  },
+  {
+    "claim": "Le trasformazioni successive al 1900 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "PU2"
+  }
+]

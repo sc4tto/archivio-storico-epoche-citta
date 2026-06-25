@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Accra",
+      "lat": 5.6037,
+      "lon": -0.187,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "jam",
+      "label": "James Town e Ussher Town",
+      "lat": 5.54,
+      "lon": -0.22,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "akw",
+      "label": "Akwapim Hills",
+      "lat": 5.9,
+      "lon": -0.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "coc",
+      "label": "Regione del cacao",
+      "lat": 6.3,
+      "lon": -1.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "kum",
+      "label": "Kumasi",
+      "lat": 6.69,
+      "lon": -1.62,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "tak",
+      "label": "Sekondi–Takoradi",
+      "lat": 4.9,
+      "lon": -1.75,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "uk",
+      "label": "Regno Unito e Atlantico",
+      "lat": 51.0,
+      "lon": -10.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "jam",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canoe, surf port e strade",
+      "food": "pesce, lavoratori portuali e merci costiere"
+    },
+    {
+      "source": "akw",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade collinari",
+      "food": "acqua, ortaggi, legname e migranti"
+    },
+    {
+      "source": "coc",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e camion",
+      "food": "cacao, palm oil e derrate"
+    },
+    {
+      "source": "kum",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia dell’interno",
+      "food": "oro, kola, cacao e passeggeri"
+    },
+    {
+      "source": "tak",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia costiera",
+      "food": "merci oceaniche e traffici portuali"
+    },
+    {
+      "source": "uk",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "shipping imperiale",
+      "food": "macchinari, tessili, capitali e amministratori"
+    }
+  ]
+}

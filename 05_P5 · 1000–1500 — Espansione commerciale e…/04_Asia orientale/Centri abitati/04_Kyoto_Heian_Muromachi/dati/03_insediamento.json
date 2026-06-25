@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "y1",
+      "label": "Corte aristocratica della tarda Heian",
+      "lane": "Politica",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "y2",
+      "label": "Templi, santuari e grandi proprietà",
+      "lane": "Religione",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "y3",
+      "label": "Guerre Hōgen, Heiji e Genpei",
+      "lane": "Conflitto",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "y4",
+      "label": "Dualismo con il governo di Kamakura",
+      "lane": "Politica",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "y5",
+      "label": "Rokuhara e presenza militare",
+      "lane": "Amministrazione",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "y6",
+      "label": "Shogunato Ashikaga a Muromachi",
+      "lane": "Politica",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "y7",
+      "label": "Cultura Zen, giardini e arti",
+      "lane": "Cultura",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "y8",
+      "label": "Guerra Ōnin e distruzione urbana",
+      "lane": "Conflitto",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

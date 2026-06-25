@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Beirut indipendente, bancaria e cosmopolita",
+    "site": "Beirut indipendente, bancaria e cosmopolita",
+    "modern_location": "Beirut, Libano",
+    "coordinates": {
+      "lat": 33.8938,
+      "lon": 35.5018
+    },
+    "scope": "Beirut fra 1945 e 1970: indipendenza, porto e aeroporto, banche, università, turismo, crescita suburbana, crisi del 1958 e arrivo di profughi palestinesi.",
+    "version": "1.0",
+    "warning": "La guerra civile iniziata nel 1975, la linea verde e le ricostruzioni successive sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "BE1",
+      "title": "Encyclopaedia Britannica — Beirut",
+      "use": "Storia moderna, economia, porto e ruolo culturale.",
+      "url": "https://www.britannica.com/place/Beirut"
+    },
+    {
+      "id": "BE2",
+      "title": "American University of Beirut — Archives",
+      "use": "Università, sanità, cultura e documenti urbani.",
+      "url": "https://www.aub.edu.lb/ulibraries/archives/"
+    },
+    {
+      "id": "BE3",
+      "title": "Lebanese National Library",
+      "use": "Stampa, fotografie e patrimonio documentario.",
+      "url": "https://bnl.gov.lb/"
+    },
+    {
+      "id": "BE4",
+      "title": "UN-Habitat Lebanon",
+      "use": "Sviluppo urbano, periferie e disuguaglianze spaziali.",
+      "url": "https://unhabitat.org/lebanon"
+    }
+  ]
+}

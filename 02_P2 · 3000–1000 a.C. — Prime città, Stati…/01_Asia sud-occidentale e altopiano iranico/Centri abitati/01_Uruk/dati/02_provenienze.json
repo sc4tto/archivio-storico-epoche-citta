@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Uruk",
+      "lat": 31.3222,
+      "lon": 45.6361,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "euphrates",
+      "label": "Antichi rami dell’Eufrate",
+      "lat": 31.35,
+      "lon": 45.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "marsh",
+      "label": "Paludi e canali meridionali",
+      "lat": 31.1,
+      "lon": 45.75,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "ur",
+      "label": "Ur",
+      "lat": 30.9625,
+      "lon": 46.1031,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "susa",
+      "label": "Susa e altopiano iranico",
+      "lat": 32.19,
+      "lon": 48.25,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "gulf",
+      "label": "Golfo Persico e Dilmun",
+      "lat": 26.15,
+      "lon": 50.55,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "euphrates",
+      "target": "site",
+      "label": "acqua, trasporto e irrigazione",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "marsh",
+      "target": "site",
+      "label": "pesci, canne e prodotti delle paludi",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "ur",
+      "target": "site",
+      "label": "cereali, tessili e persone",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "susa",
+      "target": "site",
+      "label": "pietre, metalli e modelli amministrativi",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "gulf",
+      "target": "site",
+      "label": "rame, conchiglie e beni esotici",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

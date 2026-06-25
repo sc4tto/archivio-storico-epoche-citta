@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Damasco ottomana nell’età del Tanzimat",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Acqua e oasi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Barada, canali e Ghouta",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Orti, frutteti e manutenzione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Suq, khan e corporazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Carovane, pellegrinaggio e porto di Beirut",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Casa a corte e tecniche miste",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Pietra, legno e decorazione interna",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Riforme",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Tanzimat e provincia",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Scuole, strade e nuovi servizi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Società",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Quartieri e pluralità confessionale",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Violenza del 1860 e ricostruzione",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

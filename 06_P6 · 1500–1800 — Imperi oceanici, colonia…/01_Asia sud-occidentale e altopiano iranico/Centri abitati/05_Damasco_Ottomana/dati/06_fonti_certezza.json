@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Damasco fu incorporata nell’Impero ottomano nel 1516.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "DM1; DM2"
+  },
+  {
+    "claim": "La città divenne il principale punto di raccolta della carovana siriana del hajj.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "DM2"
+  },
+  {
+    "claim": "La Ghouta e i canali del Barada sostenevano orti e frutteti.",
+    "theme": "ambiente",
+    "status": "documentato",
+    "source": "DM1; DM2"
+  },
+  {
+    "claim": "Suq, khan e manifatture collegavano la città alle reti regionali.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "DM1; DM2"
+  },
+  {
+    "claim": "Le case a corte con fontane esprimevano un modello domestico urbano distintivo.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "DM4"
+  },
+  {
+    "claim": "Fondazioni waqf sostenevano moschee, scuole e assistenza.",
+    "theme": "istituzioni",
+    "status": "documentato",
+    "source": "DM1; DM3"
+  },
+  {
+    "claim": "Il tessuto urbano conserva strati precedenti ancora in uso nel periodo ottomano.",
+    "theme": "continuità",
+    "status": "documentato",
+    "source": "DM1"
+  },
+  {
+    "claim": "Le trasformazioni del XIX secolo sono escluse dal modulo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "DM2"
+  }
+]

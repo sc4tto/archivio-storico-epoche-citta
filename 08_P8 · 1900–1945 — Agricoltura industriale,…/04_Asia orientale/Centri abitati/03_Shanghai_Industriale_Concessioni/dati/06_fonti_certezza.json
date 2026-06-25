@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Shanghai fu il maggiore porto e centro industriale della Cina repubblicana.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "SH1; SH3"
+  },
+  {
+    "claim": "Concessioni straniere ed extraterritorialità frammentarono il governo urbano.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "SH2; SH4"
+  },
+  {
+    "claim": "L’industria tessile concentrò grandi comunità operaie.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "SH1; SH2"
+  },
+  {
+    "claim": "I lilong furono una forma residenziale caratteristica della città moderna.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "SH1; SH4"
+  },
+  {
+    "claim": "Scioperi e movimenti politici ebbero una forte dimensione urbana.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "SH2; SH3"
+  },
+  {
+    "claim": "La battaglia del 1937 causò distruzioni e grandi spostamenti di popolazione.",
+    "theme": "conflitti",
+    "status": "documentato",
+    "source": "SH2; SH3"
+  },
+  {
+    "claim": "L’occupazione giapponese proseguì fino al 1945.",
+    "theme": "conflitti",
+    "status": "documentato",
+    "source": "SH2; SH3"
+  },
+  {
+    "claim": "Guerra civile finale e 1949 sono esclusi.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "SH3"
+  }
+]

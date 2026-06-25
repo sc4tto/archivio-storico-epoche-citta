@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Kamgot",
+      "lat": -4.0,
+      "lon": 153.6,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "anir",
+      "label": "Isola di Anir",
+      "lat": -4.05,
+      "lon": 153.63,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "newireland",
+      "label": "Nuova Irlanda",
+      "lat": -3.3,
+      "lon": 152.0,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "talasea",
+      "label": "Talasea",
+      "lat": -5.28,
+      "lon": 150.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "mussau",
+      "label": "Mussau",
+      "lat": -1.5,
+      "lon": 149.7,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "solomons",
+      "label": "Salomone settentrionali",
+      "lat": -6.0,
+      "lon": 155.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "anir",
+      "target": "site",
+      "label": "risorse locali e mobilità costiera",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "newireland",
+      "target": "site",
+      "label": "pietra, piante e reti regionali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "talasea",
+      "target": "site",
+      "label": "ossidiana",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "mussau",
+      "target": "site",
+      "label": "stili ceramici e contatti",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "solomons",
+      "target": "site",
+      "label": "rotte verso Oceania lontana",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

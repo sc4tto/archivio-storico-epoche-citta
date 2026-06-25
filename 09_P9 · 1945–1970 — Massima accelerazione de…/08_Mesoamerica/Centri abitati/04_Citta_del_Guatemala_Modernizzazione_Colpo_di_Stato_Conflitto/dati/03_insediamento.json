@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1945–1949",
+    "1950–1954",
+    "1955–1959",
+    "1960–1964",
+    "1965–1970"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Riforme e partecipazione politica dopo la Rivoluzione del 1944",
+      "lane": "Politica",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Pianificazione di Aguilar Batres e nuova nomenclatura urbana",
+      "lane": "Urbanistica",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Colpo di Stato del 1954 e rovesciamento del governo Árbenz",
+      "lane": "Coercizione",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Espansione lungo Avenida de las Américas e assi meridionali",
+      "lane": "Trasporti",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Crescita degli asentamientos e deficit abitativo",
+      "lane": "Abitazione",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Avvio del conflitto armato interno nel 1960",
+      "lane": "Conflitto",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Colpo militare del 1963 e rafforzamento autoritario",
+      "lane": "Repressione",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Urbanizzazione e migrazione accelerate negli anni sessanta",
+      "lane": "Demografia",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

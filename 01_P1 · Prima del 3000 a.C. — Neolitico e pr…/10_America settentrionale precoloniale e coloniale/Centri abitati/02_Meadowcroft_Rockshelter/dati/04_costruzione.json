@@ -1,0 +1,198 @@
+{
+  "nodes": [
+    {
+      "id": "m1",
+      "label": "Selce, diaspro e rocce locali",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m2",
+      "label": "Legno, fibre e cortecce",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "m3",
+      "label": "Pelli, tendini e osso",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "m4",
+      "label": "Pietre da focolare, terra e cenere",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "o1",
+      "label": "Scheggiatura e ritocco",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o2",
+      "label": "Intreccio e legatura",
+      "layer": 1,
+      "status": "inferito"
+    },
+    {
+      "id": "o3",
+      "label": "Assemblaggio di armi e utensili",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "o4",
+      "label": "Allestimento e riuso dei focolari",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "c1",
+      "label": "Punte, lame e raschiatoi",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c2",
+      "label": "Cordami e contenitori",
+      "layer": 2,
+      "status": "inferito"
+    },
+    {
+      "id": "c3",
+      "label": "Aste e strumenti compositi",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "c4",
+      "label": "Focolari e superfici domestiche",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "s1",
+      "label": "Riparo naturale",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s2",
+      "label": "Aree di attività",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s3",
+      "label": "Postazioni di lavorazione",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "s4",
+      "label": "Depositi stratificati",
+      "layer": 3,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m1",
+      "target": "o1",
+      "label": "materia prima",
+      "status": "sintesi"
+    },
+    {
+      "source": "o1",
+      "target": "c1",
+      "label": "produce o prepara",
+      "status": "sintesi"
+    },
+    {
+      "source": "c1",
+      "target": "s1",
+      "label": "costituisce o serve",
+      "status": "sintesi"
+    },
+    {
+      "source": "m2",
+      "target": "o2",
+      "label": "materia prima",
+      "status": "sintesi"
+    },
+    {
+      "source": "o2",
+      "target": "c2",
+      "label": "produce o prepara",
+      "status": "sintesi"
+    },
+    {
+      "source": "c2",
+      "target": "s2",
+      "label": "costituisce o serve",
+      "status": "sintesi"
+    },
+    {
+      "source": "m3",
+      "target": "o3",
+      "label": "materia prima",
+      "status": "sintesi"
+    },
+    {
+      "source": "o3",
+      "target": "c3",
+      "label": "produce o prepara",
+      "status": "sintesi"
+    },
+    {
+      "source": "c3",
+      "target": "s3",
+      "label": "costituisce o serve",
+      "status": "sintesi"
+    },
+    {
+      "source": "m4",
+      "target": "o4",
+      "label": "materia prima",
+      "status": "sintesi"
+    },
+    {
+      "source": "o4",
+      "target": "c4",
+      "label": "produce o prepara",
+      "status": "sintesi"
+    },
+    {
+      "source": "c4",
+      "target": "s4",
+      "label": "costituisce o serve",
+      "status": "sintesi"
+    },
+    {
+      "source": "m1",
+      "target": "o3",
+      "label": "materiale complementare",
+      "status": "inferito"
+    },
+    {
+      "source": "m2",
+      "target": "o1",
+      "label": "rinforzo o legatura",
+      "status": "inferito"
+    },
+    {
+      "source": "c2",
+      "target": "s1",
+      "label": "integrazione strutturale",
+      "status": "sintesi"
+    },
+    {
+      "source": "c3",
+      "target": "s4",
+      "label": "manutenzione e rinnovo",
+      "status": "inferito"
+    }
+  ]
+}

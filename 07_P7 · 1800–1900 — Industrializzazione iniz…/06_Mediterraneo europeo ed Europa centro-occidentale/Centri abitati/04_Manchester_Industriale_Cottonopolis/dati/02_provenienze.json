@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Manchester",
+      "lat": 53.4808,
+      "lon": -2.2426,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "lan",
+      "label": "Lancashire e Cheshire",
+      "lat": 53.4,
+      "lon": -2.7,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "can",
+      "label": "Irwell, Mersey e rete dei canali",
+      "lat": 53.45,
+      "lon": -2.45,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "york",
+      "label": "Yorkshire e Midlands",
+      "lat": 53.6,
+      "lon": -1.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "liv",
+      "label": "Liverpool e Mersey",
+      "lat": 53.41,
+      "lon": -2.99,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "usa",
+      "label": "Stati Uniti e Atlantico",
+      "lat": 35.0,
+      "lon": -80.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "ind",
+      "label": "India, Egitto e impero",
+      "lat": 25.0,
+      "lon": 50.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "lan",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e ferrovie locali",
+      "food": "latte, carne, ortaggi e manodopera"
+    },
+    {
+      "source": "can",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali e navigazione interna",
+      "food": "carbone, materiali e merci pesanti"
+    },
+    {
+      "source": "york",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie trans-pennine",
+      "food": "carbone, lana, grano e macchinari"
+    },
+    {
+      "source": "liv",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e Ship Canal",
+      "food": "cotone, zucchero, cereali e merci oceaniche"
+    },
+    {
+      "source": "usa",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Atlantico e porto di Liverpool",
+      "food": "cotone grezzo e cereali"
+    },
+    {
+      "source": "ind",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti imperiali e piroscafi",
+      "food": "cotone, tè e prodotti coloniali"
+    }
+  ]
+}

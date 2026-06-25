@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Città del Guatemala, Transmetro, informalità, rischio e memoria",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Memoria e diritti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Conflitto armato, vittime, archivi e accordi di pace",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Repressione, sparizioni, sfollamenti e non ripetizione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mobilità urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Transmetro, autobus, traffico, pedonalità e ciclabilità",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Accessibilità, sicurezza, tariffe e coordinamento",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Rischio territoriale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Sismi, frane, alluvioni, barrancos e drenaggio",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Mappatura, prevenzione, allerta e ricostruzione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Alloggi e servizi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Insediamenti informali, tenure, acqua e fognature",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Upgrading, diritti abitativi e prevenzione degli sfratti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Governance metropolitana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Municipalità, Mancomunidad del Sur e governo nazionale",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Pianificazione, dati, partecipazione e resilienza",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

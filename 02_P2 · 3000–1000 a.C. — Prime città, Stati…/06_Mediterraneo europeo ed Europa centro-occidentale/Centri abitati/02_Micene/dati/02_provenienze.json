@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Micene",
+      "lat": 37.731,
+      "lon": 22.756,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "argolid",
+      "label": "Pianura argiva",
+      "lat": 37.65,
+      "lon": 22.75,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "tiryns",
+      "label": "Tirinto e golfo Argolico",
+      "lat": 37.6,
+      "lon": 22.8,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "corinth",
+      "label": "Istmo di Corinto",
+      "lat": 37.92,
+      "lon": 22.99,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "crete",
+      "label": "Creta e Cicladi",
+      "lat": 35.3,
+      "lon": 25.16,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "east",
+      "label": "Cipro, Levante ed Egitto",
+      "lat": 34.7,
+      "lon": 33.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "argolid",
+      "target": "site",
+      "label": "cereali, vino, olio e bestiame",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "tiryns",
+      "target": "site",
+      "label": "approdi e reti regionali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "corinth",
+      "target": "site",
+      "label": "corridoi terrestri",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "crete",
+      "target": "site",
+      "label": "ceramiche, iconografie e beni",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "east",
+      "target": "site",
+      "label": "rame, stagno e beni prestigiosi",
+      "status": "documentato",
+      "food": "no"
+    }
+  ]
+}

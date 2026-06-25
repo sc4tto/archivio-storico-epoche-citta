@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Koster",
+      "lat": 39.16,
+      "lon": -90.64,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "illinois",
+      "label": "Fiume Illinois",
+      "lat": 39.15,
+      "lon": -90.62,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "valley",
+      "label": "Pianura alluvionale",
+      "lat": 39.2,
+      "lon": -90.7,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "flint",
+      "label": "Fonti di selce regionali",
+      "lat": 39.5,
+      "lon": -89.8,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "mississippi",
+      "label": "Confluenza Mississippi–Illinois",
+      "lat": 38.8,
+      "lon": -90.5,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "midwest",
+      "label": "Reti del Midwest orientale",
+      "lat": 40.0,
+      "lon": -87.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "illinois",
+      "target": "site",
+      "label": "pesci, acqua e trasporto",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "valley",
+      "target": "site",
+      "label": "noci, fauna e terreni",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "flint",
+      "target": "site",
+      "label": "selce e strumenti",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "mississippi",
+      "target": "site",
+      "label": "mobilità fluviale",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "midwest",
+      "target": "site",
+      "label": "contatti e stili litici",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

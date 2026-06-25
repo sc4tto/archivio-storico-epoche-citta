@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Hangzhou-Lin’an",
+      "lat": 30.274,
+      "lon": 120.155,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "wes",
+      "label": "Lago dell’Ovest",
+      "lat": 30.24,
+      "lon": 120.14,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "qia",
+      "label": "Qiantang",
+      "lat": 30.2,
+      "lon": 120.2,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "sha",
+      "label": "Shaoxing",
+      "lat": 30.0,
+      "lon": 120.58,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "suz",
+      "label": "Suzhou",
+      "lat": 31.3,
+      "lon": 120.58,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "kai",
+      "label": "Kaifeng e nord",
+      "lat": 34.8,
+      "lon": 114.31,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "sea",
+      "label": "Mar Cinese orientale",
+      "lat": 29.5,
+      "lon": 123.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "wes",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "paesaggio, pesca e approvvigionamento",
+      "food": "pesce, loto e acqua"
+    },
+    {
+      "source": "qia",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto fluviale e accesso al mare",
+      "food": "riso, sale e merci"
+    },
+    {
+      "source": "sha",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete di canali del Zhejiang",
+      "food": "vino, tessili e cereali"
+    },
+    {
+      "source": "suz",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "basso Yangzi e Grande Canale",
+      "food": "seta, riso e artigiani"
+    },
+    {
+      "source": "kai",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "migrazione e asse imperiale",
+      "food": "funzionari, tecniche e mercanti"
+    },
+    {
+      "source": "sea",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte marittime",
+      "food": "spezie, aromi e beni stranieri"
+    }
+  ]
+}

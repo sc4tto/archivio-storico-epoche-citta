@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_83_P8_Asia_Meridionale_5_Centri_v1",
+  "macroregion": "Asia meridionale",
+  "centers": [
+    "01_Bombay_Mumbai_Industriale_Portuale",
+    "02_Calcutta_Kolkata_Capitale_Industriale",
+    "03_Delhi_Imperiale_Nazionalista",
+    "04_Karachi_Portuale_Aeronautica",
+    "05_Lahore_Coloniale_Nazionalista"
+  ],
+  "uses_central_assets": true
+}

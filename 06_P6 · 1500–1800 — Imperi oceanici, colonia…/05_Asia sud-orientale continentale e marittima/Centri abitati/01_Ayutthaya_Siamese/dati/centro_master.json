@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Ayutthaya siamese",
+    "site": "Ayutthaya siamese",
+    "modern_location": "Ayutthaya, Thailandia",
+    "coordinates": {
+      "lat": 14.3556,
+      "lon": 100.5658
+    },
+    "scope": "Ayutthaya fra 1500 e 1767: capitale siamese, centro politico e rituale, porto fluviale cosmopolita e nodo delle reti commerciali dell’Asia e dell’Oceano Indiano.",
+    "version": "1.0",
+    "warning": "Il modulo termina con la distruzione del 1767. La ricostruzione moderna e la nuova città sviluppata fuori dall’isola storica sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "AY1",
+      "title": "UNESCO — Historic City of Ayutthaya",
+      "use": "Urbanistica insulare, monumenti e ruolo di capitale.",
+      "url": "https://whc.unesco.org/en/list/576/"
+    },
+    {
+      "id": "AY2",
+      "title": "Encyclopaedia Britannica — Ayutthaya",
+      "use": "Storia politica e commerciale della capitale siamese.",
+      "url": "https://www.britannica.com/place/Ayutthaya-Thailand"
+    },
+    {
+      "id": "AY3",
+      "title": "UNESCO — Memory of the World: Archival Documents of King Chulalongkorn",
+      "use": "Contesto archivistico e amministrativo siamese.",
+      "url": "https://www.unesco.org/en/memory-world"
+    },
+    {
+      "id": "AY4",
+      "title": "Fine Arts Department of Thailand — Ayutthaya Historical Park",
+      "use": "Monumenti, conservazione e paesaggio archeologico.",
+      "url": "https://www.finearts.go.th/"
+    },
+    {
+      "id": "AY5",
+      "title": "The Metropolitan Museum of Art — Art of Southeast Asia",
+      "use": "Cultura materiale, buddhismo e reti regionali.",
+      "url": "https://www.metmuseum.org/toah/hd/ssea/hd_ssea.htm"
+    }
+  ]
+}

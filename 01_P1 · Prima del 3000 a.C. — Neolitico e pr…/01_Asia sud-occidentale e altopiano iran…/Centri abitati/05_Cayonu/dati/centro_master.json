@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Çayönü Tepesi — modulo multi-grafo",
+    "short_name": "Çayönü Tepesi",
+    "site": "Çayönü Tepesi",
+    "modern_location": "Provincia di Diyarbakır, Turchia",
+    "coordinates": {
+      "lat": 38.2167,
+      "lon": 39.7333
+    },
+    "scope": "PPNA, PPNB e Neolitico ceramico; focus sulle fasi architettoniche del IX–VII millennio a.C.",
+    "version": "1.0-blocco-02",
+    "warning": "La cronologia interna è soprattutto architettonica. Domesticazione animale e metallurgia iniziale richiedono formulazioni prudenti."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "CAYONU_PROJECT",
+      "title": "Çayönü Tepesi archaeological project — Istanbul University prehistoric archaeology",
+      "url": "https://prehistoria.istanbul.edu.tr/en/content/cayonu-tepesi/about-the-project",
+      "use": "sequenza degli scavi, architetture e contesto dell’Alto Tigri"
+    },
+    {
+      "id": "OZDOGAN_1999",
+      "title": "Özdoğan — Çayönü, in Neolithic in Turkey",
+      "url": "https://www.exoriente.org/banning/Neolithic_in_Turkey.html",
+      "use": "fasi architettoniche, edifici comunitari, economia e cultura materiale"
+    },
+    {
+      "id": "MADDIN_1999",
+      "title": "Maddin, Stech & Muhly — Early metalworking at Çayönü",
+      "url": "https://doi.org/10.1179/tns.1999.001",
+      "use": "rame nativo lavorato a freddo e ricottura; cronologia della metallurgia iniziale"
+    }
+  ]
+}

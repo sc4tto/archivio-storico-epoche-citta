@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Seleucia al Tigri",
+      "lat": 33.1,
+      "lon": 44.52,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "tigris",
+      "label": "Fiume Tigri",
+      "lat": 33.11,
+      "lon": 44.54,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "babylon",
+      "label": "Babilonia",
+      "lat": 32.54,
+      "lon": 44.42,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "ctesiphon",
+      "label": "Ctesifonte",
+      "lat": 33.09,
+      "lon": 44.58,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "susa",
+      "label": "Susa",
+      "lat": 32.19,
+      "lon": 48.26,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "antioch",
+      "label": "Antiochia",
+      "lat": 36.2,
+      "lon": 36.16,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "tigris",
+      "target": "site",
+      "label": "navigazione, acqua e pesca",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "babylon",
+      "target": "site",
+      "label": "abitanti, culti e tradizioni amministrative",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "ctesiphon",
+      "target": "site",
+      "label": "spostamento della corte e continuità urbana",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "susa",
+      "target": "site",
+      "label": "rotte iraniche e beni orientali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "antioch",
+      "target": "site",
+      "label": "moneta, funzionari e reti seleucidi",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

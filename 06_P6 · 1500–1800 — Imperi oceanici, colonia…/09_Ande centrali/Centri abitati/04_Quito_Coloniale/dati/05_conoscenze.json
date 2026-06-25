@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Quito coloniale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Arte e architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Scultura, pittura e doratura",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Chiese, chiostri e retabli",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Obrajes e tessili",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Lana, cotone e tintura",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Lavoro indigeno e mercati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Territorio vulcanico",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Pendii, quebradas e approvvigionamento idrico",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Terremoti, eruzioni e ricostruzioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Governo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Audiencia, cabildo e fiscalità",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Parrocchie e confraternite",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Reti regionali",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Costa del cacao e sierra tessile",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Pasto, Cuenca e vie amazzoniche",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "claim": "Uruk è una delle tre città archeologiche comprese nel sito UNESCO degli Ahwar",
+    "theme": "Patrimonio",
+    "status": "documentato",
+    "source": "UNESCO_1481"
+  },
+  {
+    "claim": "Le città meridionali si svilupparono in un paesaggio deltizio e palustre",
+    "theme": "Ambiente",
+    "status": "documentato",
+    "source": "UNESCO_1481"
+  },
+  {
+    "claim": "Uruk documenta architettura monumentale in mattoni crudi",
+    "theme": "Costruzione",
+    "status": "documentato",
+    "source": "UNESCO_1481"
+  },
+  {
+    "claim": "Opere idrauliche e canali furono centrali per economia e insediamento",
+    "theme": "Idraulica",
+    "status": "documentato",
+    "source": "UNESCO_1481"
+  },
+  {
+    "claim": "La centralizzazione del surplus contribuì a contabilità e scrittura",
+    "theme": "Amministrazione",
+    "status": "documentato",
+    "source": "UNESCO_1481; BRITISH_URUK"
+  },
+  {
+    "claim": "Le tavolette proto-cuneiformi registrano attività amministrative",
+    "theme": "Scrittura",
+    "status": "documentato",
+    "source": "CDLI; BRITISH_URUK"
+  },
+  {
+    "claim": "Il periodo di Uruk corrisponde a una città pienamente formata fin dalle prime fasi",
+    "theme": "Urbanizzazione",
+    "status": "non_documentato",
+    "source": "Processo graduale; distinguere Ubaid, Uruk antico, medio e tardo"
+  },
+  {
+    "claim": "I datteri furono una coltura dominante in tutte le fasi",
+    "theme": "Alimentazione",
+    "status": "sintesi",
+    "source": "Cronologia e peso relativo da precisare"
+  },
+  {
+    "claim": "Ogni materiale importato corrisponde a commercio di cibo",
+    "theme": "Commercio",
+    "status": "non_documentato",
+    "source": "Inferenza non valida"
+  },
+  {
+    "claim": "Eanna e Anu furono complessi monumentali centrali",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "MET_URUK; UNESCO_1481"
+  }
+]

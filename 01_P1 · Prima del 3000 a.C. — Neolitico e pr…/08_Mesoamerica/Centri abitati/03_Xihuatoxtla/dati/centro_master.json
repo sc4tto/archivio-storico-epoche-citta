@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Xihuatoxtla — modulo multi-grafo",
+    "short_name": "Xihuatoxtla",
+    "site": "Riparo di Xihuatoxtla",
+    "modern_location": "Valle centrale del Balsas, Guerrero, Messico",
+    "coordinates": {
+      "lat": 18.3,
+      "lon": -99.52
+    },
+    "scope": "Riparo dell’Olocene antico nel bacino centrale del Balsas, con strumenti di macinazione che hanno restituito amidi e fitoliti di mais e zucca in livelli anteriori al 6000 a.C.",
+    "version": "1.0-blocco_09_p1_mesoamerica_5_centri_v1",
+    "warning": "I residui microscopici documentano uso e trasformazione di piante, ma non definiscono da soli l’estensione dei campi, il rendimento agricolo o il grado di sedentarietà."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "RANERE_2009",
+      "title": "Ranere et al. — The cultural and chronological context of early Holocene maize and squash domestication in the Central Balsas River Valley",
+      "url": "https://doi.org/10.1073/pnas.0812590106",
+      "use": "stratigrafia, cronologia e contesto culturale"
+    },
+    {
+      "id": "PIPERNO_2009",
+      "title": "Piperno et al. — Starch grain and phytolith evidence for early ninth millennium B.P. maize",
+      "url": "https://doi.org/10.1073/pnas.0812525106",
+      "use": "residui di mais e zucca sugli strumenti"
+    },
+    {
+      "id": "BALSAS_GENETICS",
+      "title": "Matsuoka et al. — A single domestication for maize shown by multilocus microsatellite genotyping",
+      "url": "https://doi.org/10.1073/pnas.052125199",
+      "use": "quadro genetico regionale della domesticazione del mais"
+    }
+  ]
+}

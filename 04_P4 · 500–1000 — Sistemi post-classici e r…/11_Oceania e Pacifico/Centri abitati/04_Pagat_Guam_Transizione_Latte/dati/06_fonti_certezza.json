@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Pagat contiene depositi e manufatti pre-Latte oltre alle strutture latte visibili.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "PG3; PG4"
+  },
+  {
+    "claim": "La pesca, l’orticoltura e l’uso delle grotte sostenevano l’insediamento.",
+    "theme": "alimentazione",
+    "status": "sintesi",
+    "source": "PG1; PG3"
+  },
+  {
+    "claim": "La comparsa dell’architettura latte è collocata intorno alla fine del primo millennio.",
+    "theme": "costruzione",
+    "status": "sintesi",
+    "source": "PG2; PG3"
+  },
+  {
+    "claim": "Il pieno sviluppo dei villaggi latte è in gran parte posteriore al 1000.",
+    "theme": "certezza",
+    "status": "documentato",
+    "source": "PG2; PG3"
+  },
+  {
+    "claim": "Ceramica, conchiglia e pietra documentano attività domestiche e artigianali.",
+    "theme": "artigianato",
+    "status": "documentato",
+    "source": "PG3; PG4"
+  },
+  {
+    "claim": "Le reti marittime collegavano Guam alle altre Marianne.",
+    "theme": "commercio",
+    "status": "sintesi",
+    "source": "PG2; PG3"
+  },
+  {
+    "claim": "Pagat comprende aree abitative, grotte, mortai e sepolture.",
+    "theme": "insediamento",
+    "status": "documentato",
+    "source": "PG1; PG4"
+  },
+  {
+    "claim": "Il sito è centrale nei dibattiti contemporanei sulla tutela del patrimonio CHamoru.",
+    "theme": "continuità",
+    "status": "documentato",
+    "source": "PG1; PG5"
+  }
+]

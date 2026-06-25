@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Fondazione e trasferimento del 794",
+    "Prima organizzazione della capitale",
+    "Corte del IX secolo",
+    "Espansione aristocratica e religiosa",
+    "Trasformazioni del X secolo"
+  ],
+  "items": [
+    {
+      "id": "grid",
+      "label": "Griglia e viale Suzaku",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "palace",
+      "label": "Daidairi e palazzo imperiale",
+      "lane": "Politiche",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "markets",
+      "label": "Mercati orientale e occidentale",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "toji",
+      "label": "Tō-ji, Sai-ji e templi esterni",
+      "lane": "Religiose",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "mansions",
+      "label": "Residenze aristocratiche e shinden-zukuri",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "water",
+      "label": "Canali, ponti e drenaggi",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "shift",
+      "label": "Declino dell’ovest e spostamento verso est",
+      "lane": "Trasformazione",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

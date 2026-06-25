@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Delhi",
+      "lat": 28.6139,
+      "lon": 77.209,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "yam",
+      "label": "Yamuna e villaggi periurbani",
+      "lat": 28.65,
+      "lon": 77.25,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "doa",
+      "label": "Doab e Uttar Pradesh",
+      "lat": 27.9,
+      "lon": 78.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "pun",
+      "label": "Punjab orientale",
+      "lat": 30.7,
+      "lon": 76.8,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "agr",
+      "label": "Agra",
+      "lat": 27.18,
+      "lon": 78.01,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "bom",
+      "label": "Bombay",
+      "lat": 18.94,
+      "lon": 72.84,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "cal",
+      "label": "Calcutta",
+      "lat": 22.57,
+      "lon": 88.36,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "yam",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e fiume",
+      "food": "verdure, latte, acqua e sabbia"
+    },
+    {
+      "source": "doa",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e strada",
+      "food": "grano, legumi e zucchero"
+    },
+    {
+      "source": "pun",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie del Punjab",
+      "food": "grano, latticini e bestiame"
+    },
+    {
+      "source": "agr",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia",
+      "food": "frutta, pietra, artigianato e traffico regionale"
+    },
+    {
+      "source": "bom",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete ferroviaria",
+      "food": "merci importate, cotone e capitale"
+    },
+    {
+      "source": "cal",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "East Indian Railway",
+      "food": "amministrazione, stampa e merci orientali"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Hane, primo insediamento delle Marquesas",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Navigazione oceanica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Canoe e orientamento",
+          "status": "sintesi"
+        },
+        {
+          "id": "k0_1",
+          "label": "Colonizzazione di nuove isole",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Sussistenza marina",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Ami, arpioni e pesca",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Raccolta di molluschi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Fauna insulare",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Caccia agli uccelli",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Impatto sulle popolazioni animali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Orticoltura di fondazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Trasporto di piante",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_1",
+          "label": "Impianto di colture",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Tecnologia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Pietra, osso e conchiglia",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Strutture in materiali deperibili",
+          "status": "inferito"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1970–1979",
+    "1980–1989",
+    "1990–1999",
+    "2000–2009",
+    "2010–25 giugno 2026"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Espansione statale finanziata dal petrolio",
+      "lane": "Economia",
+      "start": 0,
+      "end": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Guerra Iran–Iraq e militarizzazione della capitale",
+      "lane": "Conflitto",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Sanzioni degli anni novanta e degrado dei servizi",
+      "lane": "Servizi",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Invasione del 2003, occupazione e collasso istituzionale",
+      "lane": "Conflitto",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Violenza settaria, muri di sicurezza e sfollamenti",
+      "lane": "Sicurezza",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Crescita informale e pressione sulle reti idriche",
+      "lane": "Abitazione",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Programmi di acqua, fognature e ricostruzione",
+      "lane": "Servizi",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Mobilitazioni civiche contro corruzione e carenza di servizi",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Potosí mineraria",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Estrazione e metallurgia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Scavo, ventilazione e selezione del minerale",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Amalgamazione a mercurio e fusione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Idraulica mineraria",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Lagune artificiali e canali",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Ruote, mulini e ingenios",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Monetazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Casa de Moneda e conio",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Controllo fiscale dell’argento",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Approvvigionamento",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Carovane, tambos e mercati",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Cochabamba, Arica e Tucumán",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Coercizione e rischio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Mita, salari e reclutamento",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Crolli, silicosi, mercurio e mortalità",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

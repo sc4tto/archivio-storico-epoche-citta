@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Warrane–Sydney Cove, insediamento Eora e colonia penale",
+    "site": "Warrane–Sydney Cove, insediamento Eora e colonia penale",
+    "modern_location": "Sydney, Australia",
+    "coordinates": {
+      "lat": -33.8585,
+      "lon": 151.2101
+    },
+    "scope": "Warrane–Sydney Cove fra 1500 e 1800: uso Gadigal/Eora della baia e delle risorse del porto, invasione e colonizzazione britannica dal 1788, insediamento penale, conflitti, epidemie, espropriazione e primi edifici coloniali.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1800. Macquarie, espansione urbana ottocentesca, Circular Quay, ponte, Opera House e città moderna sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SY1",
+      "title": "National Museum of Australia — First Fleet and Sydney Cove",
+      "use": "Fondazione della colonia penale e cultura materiale.",
+      "url": "https://www.nma.gov.au/defining-moments/resources/first-fleet-arrives-sydney-cove"
+    },
+    {
+      "id": "SY2",
+      "title": "City of Sydney — Barani: Aboriginal history",
+      "use": "Warrane, Gadigal/Eora e storia indigena del porto.",
+      "url": "https://www.sydneybarani.com.au/"
+    },
+    {
+      "id": "SY3",
+      "title": "State Library of New South Wales — First Fleet",
+      "use": "Diari, mappe e immagini dell’insediamento iniziale.",
+      "url": "https://www.sl.nsw.gov.au/stories/first-fleet"
+    },
+    {
+      "id": "SY4",
+      "title": "Australian National Maritime Museum — First Fleet",
+      "use": "Navigazione, trasporto dei detenuti e approdo.",
+      "url": "https://www.sea.museum/"
+    },
+    {
+      "id": "SY5",
+      "title": "Dictionary of Sydney — Sydney Cove and the Eora",
+      "use": "Storia urbana, ambiente e relazioni coloniali.",
+      "url": "https://dictionaryofsydney.org/"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Baghdad monarchica, repubblicana e petrolifera",
+    "site": "Baghdad monarchica, repubblicana e petrolifera",
+    "modern_location": "Baghdad, Iraq",
+    "coordinates": {
+      "lat": 33.3152,
+      "lon": 44.3661
+    },
+    "scope": "Baghdad fra 1945 e 1970: monarchia hashemita, rivoluzione del 1958, colpi di Stato del 1963 e 1968, fondazione dell’OPEC, espansione urbana e servizi moderni.",
+    "version": "1.0",
+    "warning": "Sono esclusi i grandi progetti monumentali e autostradali degli anni Settanta e Ottanta, la guerra Iran-Iraq e i conflitti successivi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "BA1",
+      "title": "Encyclopaedia Britannica — Baghdad",
+      "use": "Storia moderna, rivoluzione, popolazione e sviluppo urbano.",
+      "url": "https://www.britannica.com/place/Baghdad"
+    },
+    {
+      "id": "BA2",
+      "title": "Iraq National Library and Archive",
+      "use": "Documenti amministrativi, stampa e cartografia storica.",
+      "url": "https://www.iraqnla.gov.iq/"
+    },
+    {
+      "id": "BA3",
+      "title": "University of Baghdad",
+      "use": "Storia dell’istruzione superiore e della modernizzazione urbana.",
+      "url": "https://uobaghdad.edu.iq/"
+    },
+    {
+      "id": "BA4",
+      "title": "United Nations — Iraq urban development records",
+      "use": "Popolazione, servizi e pianificazione urbana.",
+      "url": "https://www.un.org/"
+    }
+  ]
+}

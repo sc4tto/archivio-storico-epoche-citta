@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Costantinopoli fu rifondata come capitale imperiale nel IV secolo",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "CON_OXFORD"
+  },
+  {
+    "claim": "La penisola storica era protetta dalle mura teodosiane del V secolo",
+    "theme": "Difese",
+    "status": "documentato",
+    "source": "CON_UNESCO"
+  },
+  {
+    "claim": "La posizione collegava Balcani, Anatolia, Mar Nero e Mediterraneo",
+    "theme": "Reti",
+    "status": "documentato",
+    "source": "CON_UNESCO"
+  },
+  {
+    "claim": "L’attuale Santa Sofia appartiene al programma edilizio di Costantino",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Edificio attuale del VI secolo"
+  },
+  {
+    "claim": "I porti e gli horrea sostenevano l’approvvigionamento della capitale",
+    "theme": "Economia",
+    "status": "documentato",
+    "source": "CON_DUMBARTON"
+  },
+  {
+    "claim": "L’ippodromo era soltanto un impianto sportivo privo di funzione politica",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Cerimonie e comunicazione imperiale"
+  },
+  {
+    "claim": "Acquedotti e cisterne erano essenziali per la città",
+    "theme": "Infrastrutture",
+    "status": "documentato",
+    "source": "CON_UNESCO"
+  },
+  {
+    "claim": "Il modulo riguarda soprattutto IV e V secolo",
+    "theme": "Metodo",
+    "status": "documentato",
+    "source": "Limite cronologico del P3"
+  }
+]

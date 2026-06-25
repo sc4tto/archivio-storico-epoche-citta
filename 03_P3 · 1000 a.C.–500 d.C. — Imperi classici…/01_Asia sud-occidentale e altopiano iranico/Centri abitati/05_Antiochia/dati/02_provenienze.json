@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Antiochia",
+      "lat": 36.2,
+      "lon": 36.16,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "orontes",
+      "label": "Fiume Oronte",
+      "lat": 36.21,
+      "lon": 36.14,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "daphne",
+      "label": "Dafne",
+      "lat": 36.13,
+      "lon": 36.15,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "seleucia",
+      "label": "Seleucia Pieria",
+      "lat": 36.12,
+      "lon": 35.92,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "apamea",
+      "label": "Apamea",
+      "lat": 35.42,
+      "lon": 36.4,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "med",
+      "label": "Mediterraneo orientale",
+      "lat": 35.5,
+      "lon": 34.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "orontes",
+      "target": "site",
+      "label": "acqua, trasporto e agricoltura",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "daphne",
+      "target": "site",
+      "label": "acqua, ville e culti",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "seleucia",
+      "target": "site",
+      "label": "porto, merci e viaggiatori",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "apamea",
+      "target": "site",
+      "label": "strade, truppe e commerci regionali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "med",
+      "target": "site",
+      "label": "vino, olio, ceramiche e persone",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

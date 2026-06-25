@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Riyadh, petrolio, espansione automobilistica e metro",
+    "site": "Riyadh, petrolio, espansione automobilistica e metro",
+    "modern_location": "Riyadh, Arabia Saudita",
+    "coordinates": {
+      "lat": 24.7136,
+      "lon": 46.6753
+    },
+    "scope": "Riyadh dal 1970 al 25 giugno 2026: rapida crescita finanziata dagli idrocarburi, trasferimento di popolazione e funzioni statali, autostrade e bassa densità, nuovi quartieri, università e servizi, dipendenza dall’automobile, stress idrico, riqualificazione di Wadi Hanifa, mega-progetti e progressiva apertura del sistema metro e bus.",
+    "version": "1.0",
+    "warning": "Le opere annunciate ma non operative al 25 giugno 2026 sono identificate come progetti o estensioni future. Non vengono convertite in risultati già conseguiti."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "RI1",
+      "title": "RCRC Open Data — Milestones in Riyadh Historical Development",
+      "use": "Cronologia urbana, trasporti, servizi e istituzioni.",
+      "url": "https://opendata.rcrc.gov.sa/explore/dataset/milestones-in-the-historical-development-of-riyadh-across-multiple-sectors-by-theme-sub-category-and-topic-1350-1434-ah/table/"
+    },
+    {
+      "id": "RI2",
+      "title": "Royal Commission for Riyadh City — Strategic Plans",
+      "use": "Housing, servizi pubblici e pianificazione metropolitana.",
+      "url": "https://www.rcrc.gov.sa/en/types/strategic-plan/"
+    },
+    {
+      "id": "RI3",
+      "title": "Royal Commission for Riyadh City — Programs and Projects",
+      "use": "Mobilità, ambiente, cultura e grandi progetti urbani.",
+      "url": "https://www.rcrc.gov.sa/en/projects/"
+    },
+    {
+      "id": "RI4",
+      "title": "RCRC — Launch of Operations at Riyadh Metro Western Station",
+      "use": "Stato operativo della rete metropolitana al 15 maggio 2026.",
+      "url": "https://www.rcrc.gov.sa/en/230241-2/"
+    }
+  ]
+}

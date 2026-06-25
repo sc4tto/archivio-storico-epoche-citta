@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Tel Aviv fu fondata nel 1909 come Ahuzat Bayit accanto a Jaffa.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "TA1; TA2"
+  },
+  {
+    "claim": "Il piano Geddes orientò la crescita urbana negli anni Venti.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "TA1; TA2"
+  },
+  {
+    "claim": "La White City conserva una vasta concentrazione di architettura moderna.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "TA1"
+  },
+  {
+    "claim": "Jaffa rimase un importante centro arabo e portuale durante il mandato.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "TA4; TA5"
+  },
+  {
+    "claim": "Il porto di Tel Aviv fu aperto durante la crisi del 1936.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "TA2; TA3"
+  },
+  {
+    "claim": "Immigrazione e conflitto modificarono rapidamente la demografia urbana.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "TA3; TA4"
+  },
+  {
+    "claim": "L’espulsione ottomana del 1917 colpì Tel Aviv e Jaffa.",
+    "theme": "conflitti",
+    "status": "documentato",
+    "source": "TA2; TA4"
+  },
+  {
+    "claim": "Gli eventi del 1948 sono esclusi dal modulo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "TA3; TA4"
+  }
+]

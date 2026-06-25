@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Vinča–Belo Brdo è un grande tell sulla riva destra del Danubio",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "MGB_VINCA"
+  },
+  {
+    "claim": "La sequenza comprende una fase Starčevo e numerosi orizzonti Vinča",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "ANT_VINCA"
+  },
+  {
+    "claim": "Le case erano costruite principalmente con legno, argilla e materiali vegetali",
+    "theme": "Edilizia",
+    "status": "documentato",
+    "source": "MGB_VINCA"
+  },
+  {
+    "claim": "Agricoltura e allevamento costituivano la base economica, integrate da risorse fluviali e selvatiche",
+    "theme": "Alimentazione",
+    "status": "sintesi",
+    "source": "MGB_VINCA"
+  },
+  {
+    "claim": "Materiali non locali indicano reti di scambio a lunga distanza",
+    "theme": "Scambi",
+    "status": "sintesi",
+    "source": "MGB_VINCA"
+  },
+  {
+    "claim": "I segni su ceramica costituiscono certamente una scrittura completa",
+    "theme": "Scrittura",
+    "status": "non_documentato",
+    "source": "Interpretazione controversa"
+  },
+  {
+    "claim": "Ogni incendio del tell fu un atto rituale intenzionale",
+    "theme": "Incendi",
+    "status": "non_documentato",
+    "source": "Cause e intenzionalità variabili"
+  },
+  {
+    "claim": "Le figurine identificano divinità con nomi e funzioni note",
+    "theme": "Religione",
+    "status": "non_documentato",
+    "source": "Assenza di testi esplicativi"
+  }
+]

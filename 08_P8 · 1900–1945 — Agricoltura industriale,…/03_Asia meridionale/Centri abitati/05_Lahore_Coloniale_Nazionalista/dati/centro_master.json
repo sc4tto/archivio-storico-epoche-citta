@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Lahore coloniale e nazionalista",
+    "site": "Lahore coloniale e nazionalista",
+    "modern_location": "Lahore, Pakistan",
+    "coordinates": {
+      "lat": 31.5204,
+      "lon": 74.3587
+    },
+    "scope": "Lahore fra 1900 e 1945: capitale del Punjab, nodo ferroviario, istituzioni educative e culturali, municipalità, crescita residenziale, epidemie, movimento nazionale e mobilitazione comunitaria.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1945. Risoluzione finale della Partizione, violenze e migrazioni del 1947 e trasformazioni postcoloniali sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "LA1",
+      "title": "UNESCO — Fort and Shalamar Gardens in Lahore",
+      "use": "Patrimonio moghul e continuità urbana.",
+      "url": "https://whc.unesco.org/en/list/171/"
+    },
+    {
+      "id": "LA2",
+      "title": "Encyclopaedia Britannica — Lahore",
+      "use": "Storia urbana, cultura e amministrazione.",
+      "url": "https://www.britannica.com/place/Lahore"
+    },
+    {
+      "id": "LA3",
+      "title": "Punjab Archives",
+      "use": "Fonti amministrative e politiche del Punjab.",
+      "url": "https://archives.punjab.gov.pk/"
+    },
+    {
+      "id": "LA4",
+      "title": "Lahore Museum",
+      "use": "Arte, archeologia e storia culturale.",
+      "url": "https://lahoremuseum.punjab.gov.pk/"
+    },
+    {
+      "id": "LA5",
+      "title": "University of the Punjab",
+      "use": "Storia dell’istruzione superiore e della vita intellettuale.",
+      "url": "https://www.pu.edu.pk/"
+    }
+  ]
+}

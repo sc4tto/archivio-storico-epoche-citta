@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Il dopoguerra rafforzò New York come centro finanziario, culturale e direzionale mondiale, mentre l’industria manifatturiera iniziava a perdere peso.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "NY1"
+  },
+  {
+    "claim": "I programmi federali di urban renewal permisero demolizioni su vasta scala e nuovi complessi residenziali, universitari e culturali.",
+    "theme": "pianificazione",
+    "status": "documentato",
+    "source": "NY1; NY2; NY3"
+  },
+  {
+    "claim": "Molti progetti spostarono famiglie povere e minoranze senza offrire un numero equivalente di alloggi accessibili.",
+    "theme": "sgomberi",
+    "status": "documentato",
+    "source": "NY2; NY3"
+  },
+  {
+    "claim": "Le grandi infrastrutture stradali aumentarono la mobilità automobilistica ma produssero separazioni, rumore e inquinamento nei quartieri attraversati.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "NY4"
+  },
+  {
+    "claim": "Movimenti di quartiere e per i diritti civili contestarono segregazione, demolizioni e governo tecnocratico della città.",
+    "theme": "politica sociale",
+    "status": "documentato",
+    "source": "NY1; NY2"
+  },
+  {
+    "claim": "New York, autostrade, urban renewal e diritti civili è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Le demolizioni e le ricollocazioni dell’urban renewal, la segregazione abitativa e scolastica e l’impatto delle autostrade sui quartieri afroamericani, portoricani e popolari sono descritti come espropriazione, subordinazione e disuguaglianza; residenti e organizzazioni sono rappresentati come soggetti politici attivi.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Lima, trasporto, acqua, informalità e rischio costiero",
+    "site": "Lima, trasporto, acqua, informalità e rischio costiero",
+    "modern_location": "Lima e Callao, Perù",
+    "coordinates": {
+      "lat": -12.0464,
+      "lon": -77.0428
+    },
+    "scope": "Lima e Callao dal 1970 al 25 giugno 2026: espansione della metropoli costiera, migrazioni interne e consolidamento delle barriadas, crescita dei servizi e del porto, Linea 1 della metropolitana, Metropolitano e cantieri della Linea 2, disuguaglianze abitative, scarsità idrica, occupazione di pendii, terremoti, El Niño, alluvioni e vulnerabilità costiera.",
+    "version": "1.0",
+    "warning": "Il Piano climatico 2021–2030 e la Linea 2 non completata al 25 giugno 2026 sono registrati come piano e progetto futuro; non sono presentati come risultati integralmente realizzati."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "LI1",
+      "title": "Ministerio de Transportes y Comunicaciones — Línea 1 del Metro de Lima",
+      "use": "Operazione della Linea 1, ruolo nel trasporto metropolitano e crescita della domanda.",
+      "url": "https://www.gob.pe/institucion/mtc/noticias/1233195-linea-1-del-metro-de-lima-alcanzo-los-1500-millones-de-pasajeros-transportados"
+    },
+    {
+      "id": "LI2",
+      "title": "Ministerio de Transportes y Comunicaciones — avanzamento della Linea 2",
+      "use": "Stato del progetto sotterraneo e distinzione fra tratte operative e opere non concluse.",
+      "url": "https://www.gob.pe/institucion/mtc/noticias/1395210-mtc-linea-2-del-metro-de-lima-y-callao-supera-el-83-de-avance-fisico-de-obra-y-transformara-la-movilidad-urbana"
+    },
+    {
+      "id": "LI3",
+      "title": "Municipalidad Metropolitana de Lima — Plan Local de Cambio Climático 2021–2030",
+      "use": "Acqua, calore, rischio costiero, mobilità, rifiuti e vulnerabilità sociale.",
+      "url": "https://smia.munlima.gob.pe/uploads/documento/1129f90484a18b8b.pdf"
+    },
+    {
+      "id": "LI4",
+      "title": "World Bank — Preparing for Future Droughts in Lima, Peru",
+      "use": "Stress idrico, siccità, infrastrutture e resilienza dell’approvvigionamento urbano.",
+      "url": "https://openknowledge.worldbank.org/entities/publication/397c92b5-8967-5ce5-9b5f-e717daa6f125"
+    }
+  ]
+}

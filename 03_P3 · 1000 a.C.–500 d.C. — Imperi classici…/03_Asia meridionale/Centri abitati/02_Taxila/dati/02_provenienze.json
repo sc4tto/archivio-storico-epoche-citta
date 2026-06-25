@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Taxila",
+      "lat": 33.745,
+      "lon": 72.839,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "bhir",
+      "label": "Bhir Mound",
+      "lat": 33.739,
+      "lon": 72.833,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "sirkap",
+      "label": "Sirkap",
+      "lat": 33.754,
+      "lon": 72.829,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "sirsukh",
+      "label": "Sirsukh",
+      "lat": 33.784,
+      "lon": 72.847,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "dharmarajika",
+      "label": "Dharmarajika",
+      "lat": 33.737,
+      "lon": 72.806,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "bactria",
+      "label": "Gandhara e Battriana",
+      "lat": 36.7,
+      "lon": 67.1,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "bhir",
+      "target": "site",
+      "label": "primo centro storico e vie irregolari",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "sirkap",
+      "target": "site",
+      "label": "città fortificata a griglia",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "sirsukh",
+      "target": "site",
+      "label": "rifondazione kushana e bastioni",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "dharmarajika",
+      "target": "site",
+      "label": "pellegrinaggio e istituzioni monastiche",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "bactria",
+      "target": "site",
+      "label": "merci, monete, persone e modelli artistici",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

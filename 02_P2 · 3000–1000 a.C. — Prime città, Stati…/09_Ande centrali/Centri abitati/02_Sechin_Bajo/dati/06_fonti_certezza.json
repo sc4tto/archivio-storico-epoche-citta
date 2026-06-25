@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Sechín Bajo conserva una lunga sequenza dal Tardo Arcaico al Formativo",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "SECHIN_FUCHS"
+  },
+  {
+    "claim": "Il complesso comprende una piazza circolare incassata",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "SECHIN_FUCHS"
+  },
+  {
+    "claim": "Gli edifici furono più volte riempiti e ricostruiti",
+    "theme": "Costruzione",
+    "status": "documentato",
+    "source": "SECHIN_FUCHS"
+  },
+  {
+    "claim": "Il sito faceva parte di un fitto paesaggio monumentale della valle",
+    "theme": "Reti regionali",
+    "status": "sintesi",
+    "source": "SECHIN_POZORSKI"
+  },
+  {
+    "claim": "Risorse agricole e marine contribuirono alla sussistenza regionale",
+    "theme": "Alimentazione",
+    "status": "sintesi",
+    "source": "SECHIN_POZORSKI"
+  },
+  {
+    "claim": "Sechín Bajo fu sicuramente la prima città delle Americhe",
+    "theme": "Urbanizzazione",
+    "status": "non_documentato",
+    "source": "Definizione e datazioni discusse"
+  },
+  {
+    "claim": "Cerro Sechín e Sechín Bajo sono lo stesso sito",
+    "theme": "Topografia",
+    "status": "non_documentato",
+    "source": "Complessi distinti"
+  },
+  {
+    "claim": "Le piazze dimostrano una monarchia ereditaria",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Forma di governo ignota"
+  }
+]

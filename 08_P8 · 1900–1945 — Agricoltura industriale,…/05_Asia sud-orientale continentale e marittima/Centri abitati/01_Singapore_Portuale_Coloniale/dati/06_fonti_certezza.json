@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Singapore fu uno dei principali porti di smistamento dell’Impero britannico in Asia.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "SG1; SG2; SG5"
+  },
+  {
+    "claim": "Gomma e stagno alimentarono la crescita commerciale e portuale.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "SG2; SG5"
+  },
+  {
+    "claim": "Acqua, fognature e sanità urbana divennero priorità municipali.",
+    "theme": "sanità",
+    "status": "documentato",
+    "source": "SG1; SG2"
+  },
+  {
+    "claim": "La città era socialmente e spazialmente segmentata lungo linee etniche e coloniali.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "SG2; SG3"
+  },
+  {
+    "claim": "La base navale rafforzò la funzione militare del porto.",
+    "theme": "difesa",
+    "status": "documentato",
+    "source": "SG1; SG5"
+  },
+  {
+    "claim": "Singapore cadde alle forze giapponesi nel febbraio 1942.",
+    "theme": "conflitti",
+    "status": "documentato",
+    "source": "SG1; SG4"
+  },
+  {
+    "claim": "Occupazione, Sook Ching, requisizioni e razionamento produssero violenza e penuria.",
+    "theme": "violenza",
+    "status": "documentato",
+    "source": "SG1; SG4"
+  },
+  {
+    "claim": "Autogoverno e indipendenza successivi al 1945 sono esclusi.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "SG2"
+  }
+]

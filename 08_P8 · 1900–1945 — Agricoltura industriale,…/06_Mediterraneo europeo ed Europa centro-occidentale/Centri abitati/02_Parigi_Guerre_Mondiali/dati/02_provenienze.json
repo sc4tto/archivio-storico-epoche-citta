@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Parigi",
+      "lat": 48.8566,
+      "lon": 2.3522,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "sei",
+      "label": "Senna e porto fluviale",
+      "lat": 48.85,
+      "lon": 2.3,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "ban",
+      "label": "Banlieue industriale",
+      "lat": 48.9,
+      "lon": 2.45,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "idf",
+      "label": "Île-de-France agricola",
+      "lat": 48.7,
+      "lon": 2.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "fra",
+      "label": "Reti nazionali francesi",
+      "lat": 46.8,
+      "lon": 2.4,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "col",
+      "label": "Impero coloniale francese",
+      "lat": 28,
+      "lon": 3,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "ger",
+      "label": "Germania occupante",
+      "lat": 51,
+      "lon": 10,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "sei",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Senna e canali",
+      "food": "carbone, materiali, vino e cereali"
+    },
+    {
+      "source": "ban",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Métro, tram e ferrovia",
+      "food": "lavoratori, manufatti, energia e rifiuti"
+    },
+    {
+      "source": "idf",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e strade",
+      "food": "latte, ortaggi, carne e grano"
+    },
+    {
+      "source": "fra",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete ferroviaria",
+      "food": "carbone, acciaio, soldati e profughi"
+    },
+    {
+      "source": "col",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte imperiali",
+      "food": "caffè, zucchero, materie prime e soldati coloniali"
+    },
+    {
+      "source": "ger",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "apparati militari e polizieschi",
+      "food": "occupazione, requisizioni e deportazioni"
+    }
+  ]
+}

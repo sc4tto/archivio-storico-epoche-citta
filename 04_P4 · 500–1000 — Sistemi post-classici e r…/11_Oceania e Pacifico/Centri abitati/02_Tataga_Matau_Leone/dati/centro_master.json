@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Tataga-Matau, cava fortificata di Leone",
+    "site": "Tataga-Matau Fortified Quarry Complex",
+    "modern_location": "Leone, Tutuila, Samoa Americane",
+    "coordinates": {
+      "lat": -14.347,
+      "lon": -170.789
+    },
+    "scope": "Tataga-Matau fra 500 e 1000: estrazione del basalto, riduzione delle preforme, mobilità di artigiani, difesa delle creste e distribuzione di utensili.",
+    "version": "1.0",
+    "warning": "Il complesso fu utilizzato per un arco cronologico molto più lungo, da circa il 200 fino all’età del contatto. Il modulo non attribuisce automaticamente al periodo 500–1000 tutte le trincee e fortificazioni visibili."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "TM1",
+      "title": "American Samoa Historic Preservation Office",
+      "use": "Documentazione delle cave, survey e tutela del complesso.",
+      "url": "https://www.ashpo.org/"
+    },
+    {
+      "id": "TM2",
+      "title": "National Park Service — National Register Database",
+      "use": "Scheda e documentazione del Tataga-Matau Fortified Quarry Complex.",
+      "url": "https://www.nps.gov/subjects/nationalregister/database-research.htm"
+    },
+    {
+      "id": "TM3",
+      "title": "National Park Service — Archaeology in American Samoa",
+      "use": "Contesto delle cave basaltiche e dei paesaggi produttivi.",
+      "url": "https://www.nps.gov/npsa/learn/historyculture/archaeology.htm"
+    },
+    {
+      "id": "TM4",
+      "title": "Journal of the Polynesian Society",
+      "use": "Studi sulla produzione e circolazione delle asce samoane.",
+      "url": "https://www.jps.auckland.ac.nz/"
+    },
+    {
+      "id": "TM5",
+      "title": "National Park of American Samoa — Culture",
+      "use": "Continuità culturale, tecnologie e uso del paesaggio.",
+      "url": "https://www.nps.gov/npsa/learn/historyculture/index.htm"
+    }
+  ]
+}

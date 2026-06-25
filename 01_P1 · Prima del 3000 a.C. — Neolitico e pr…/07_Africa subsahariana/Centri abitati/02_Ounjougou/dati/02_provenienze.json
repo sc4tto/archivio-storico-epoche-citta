@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Ounjougou — valle dello Yamé",
+      "lat": 14.42,
+      "lon": -3.52,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "yame",
+      "label": "Corso superiore dello Yamé",
+      "lat": 14.43,
+      "lon": -3.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "plateau",
+      "label": "Altopiano di Bandiagara",
+      "lat": 14.35,
+      "lon": -3.6,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": 26,
+      "anchor": "end"
+    },
+    {
+      "id": "delta",
+      "label": "Delta interno del Niger",
+      "lat": 14.6,
+      "lon": -4.8,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "sahara",
+      "label": "Margine meridionale del Sahara",
+      "lat": 16.0,
+      "lon": -2.8,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "savanna",
+      "label": "Savana sudanese verso sud",
+      "lat": 12.8,
+      "lon": -3.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "yame",
+      "target": "site",
+      "label": "acqua, sedimenti e risorse stagionali",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "plateau",
+      "target": "site",
+      "label": "pietra, piante e aree di raccolta",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "delta",
+      "target": "site",
+      "label": "reti fluviali e mobilità regionale",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "sahara",
+      "target": "site",
+      "label": "influenze ambientali e contatti",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "savanna",
+      "target": "site",
+      "label": "fauna e risorse vegetali",
+      "status": "sintesi",
+      "food": "sì"
+    }
+  ]
+}

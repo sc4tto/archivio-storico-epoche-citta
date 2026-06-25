@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Boston industriale, immigrata e riformatrice",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Porto e regione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Commercio atlantico e cabotaggio",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Collegamenti con città tessili regionali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Riempimenti di Back Bay",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Annessioni, parchi e sistemi idrici",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Trasporti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Ferrovie, tram e traghetti",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Prima subway statunitense",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Immigrazione irlandese e quartieri operai",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Abolizionismo e comunità afroamericana",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Conflitti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Nativismo e segregazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Sfruttamento del lavoro e sovraffollamento",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

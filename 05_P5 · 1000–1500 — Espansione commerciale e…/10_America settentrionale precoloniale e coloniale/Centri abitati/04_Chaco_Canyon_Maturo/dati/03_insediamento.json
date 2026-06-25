@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1050",
+    "1050–1100",
+    "1100–1150",
+    "1150–1200",
+    "1200–1250"
+  ],
+  "items": [
+    {
+      "id": "ch1",
+      "label": "Espansione di Pueblo Bonito e grandi case",
+      "lane": "Costruzione",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ch2",
+      "label": "Apogeo della società chacoana",
+      "lane": "Politica",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ch3",
+      "label": "Grande kiva e spazi cerimoniali",
+      "lane": "Religione",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ch4",
+      "label": "Rete di strade rettilinee",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ch5",
+      "label": "Importazione di legname e beni esotici",
+      "lane": "Reti",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ch6",
+      "label": "Riorganizzazione dopo metà XII secolo",
+      "lane": "Insediamento",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ch7",
+      "label": "Crescita di centri esterni come Aztec Ruins",
+      "lane": "Territorio",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ch8",
+      "label": "Riduzione dell’uso monumentale del canyon",
+      "lane": "Cronologia",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

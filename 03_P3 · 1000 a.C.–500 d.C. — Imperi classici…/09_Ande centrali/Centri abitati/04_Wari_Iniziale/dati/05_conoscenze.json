@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Wari — fasi iniziali",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Urbanistica",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Recinti murati",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Quartieri",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Piano urbano completo entro il 500",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Ceramica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Stili Huarpa",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Innovazioni Wari",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Cronologia senza sovrapposizioni",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Religione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Templi a D",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Iconografie condivise",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Culto statale uniforme già maturo",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Economia",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Produzioni specializzate",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Redistribuzione",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Contabilità pienamente nota",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Pietra e fango",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Muri elevati",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Tutti i settori contemporanei",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Relazioni",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Nasca",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Tiwanaku",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_3",
+          "label": "Conquista militare certa prima del 500",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Singapore portuale, coloniale e occupata",
+    "site": "Singapore portuale, coloniale e occupata",
+    "modern_location": "Singapore",
+    "coordinates": {
+      "lat": 1.2868,
+      "lon": 103.8545
+    },
+    "scope": "Singapore fra 1900 e 1945: porto e città coloniale, gomma e stagno, ferrovie e basi militari, quartieri migranti, municipalizzazione, caduta del 1942 e occupazione di Syonan fino al 1945.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel settembre 1945. Autogoverno, indipendenza, edilizia HDB e trasformazioni portuali successive sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SG1",
+      "title": "National Archives of Singapore",
+      "use": "Archivi coloniali, guerra e occupazione giapponese.",
+      "url": "https://www.nas.gov.sg/archivesonline/"
+    },
+    {
+      "id": "SG2",
+      "title": "National Library Board Singapore",
+      "use": "Storia urbana, porto, comunità e infrastrutture.",
+      "url": "https://www.nlb.gov.sg/main/home"
+    },
+    {
+      "id": "SG3",
+      "title": "National Heritage Board — Roots",
+      "use": "Patrimonio costruito e memoria dei quartieri.",
+      "url": "https://www.roots.gov.sg/"
+    },
+    {
+      "id": "SG4",
+      "title": "Changi Chapel and Museum",
+      "use": "Occupazione giapponese, prigionia e società civile.",
+      "url": "https://www.nhb.gov.sg/changichapelmuseum"
+    },
+    {
+      "id": "SG5",
+      "title": "Encyclopaedia Britannica — Singapore",
+      "use": "Sintesi storica e ruolo portuale.",
+      "url": "https://www.britannica.com/place/Singapore"
+    }
+  ]
+}

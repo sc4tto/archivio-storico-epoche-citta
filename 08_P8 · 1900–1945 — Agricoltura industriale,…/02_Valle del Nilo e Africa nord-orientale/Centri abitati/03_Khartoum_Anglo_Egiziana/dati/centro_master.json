@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Khartoum anglo-egiziana",
+    "site": "Khartoum anglo-egiziana",
+    "modern_location": "Khartoum, Sudan",
+    "coordinates": {
+      "lat": 15.5007,
+      "lon": 32.5599
+    },
+    "scope": "Khartoum fra 1900 e 1945: governo del condominio anglo-egiziano, sviluppo di Khartoum, Omdurman e Khartoum North, ferrovie, irrigazione, Gordon Memorial College, crisi del 1924, Seconda guerra mondiale e nazionalismo urbano.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1945. Indipendenza del Sudan del 1956, guerre civili e metropolizzazione successiva sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "KH1",
+      "title": "Sudan Archive — Durham University",
+      "use": "Fonti amministrative, mappe e fotografie coloniali.",
+      "url": "https://reed.dur.ac.uk/xtf/view?docId=ark/32150_s1qf85nb29n.xml"
+    },
+    {
+      "id": "KH2",
+      "title": "Encyclopaedia Britannica — Khartoum",
+      "use": "Storia politica e urbana della capitale.",
+      "url": "https://www.britannica.com/place/Khartoum"
+    },
+    {
+      "id": "KH3",
+      "title": "National Records Office of Sudan",
+      "use": "Archivi governativi e amministrativi.",
+      "url": "https://sudanarchives.org/"
+    },
+    {
+      "id": "KH4",
+      "title": "University of Khartoum — History",
+      "use": "Gordon Memorial College e istruzione superiore.",
+      "url": "https://uofk.edu/en/"
+    },
+    {
+      "id": "KH5",
+      "title": "Imperial War Museums — Sudan and East Africa",
+      "use": "Guerra mondiale e infrastrutture militari.",
+      "url": "https://www.iwm.org.uk/"
+    }
+  ]
+}

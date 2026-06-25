@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Kamakura divenne sede del governo di Minamoto no Yoritomo alla fine del XII secolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "KM1; KM2"
+  },
+  {
+    "claim": "Il governo guerriero operava accanto alla corte imperiale di Kyoto.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "KM1; KM2"
+  },
+  {
+    "claim": "La topografia di colline e passi condizionò la difesa e la viabilità.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "KM3; KM4"
+  },
+  {
+    "claim": "Il porto di Wakae sostenne traffici costieri e rifornimenti.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "KM3; KM5"
+  },
+  {
+    "claim": "I templi Zen furono centri religiosi, culturali ed economici.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "KM2; KM3"
+  },
+  {
+    "claim": "La città cadde nel 1333 ma mantenne un ruolo regionale nel periodo Muromachi.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "KM1"
+  },
+  {
+    "claim": "Molti edifici attuali sono ricostruzioni di complessi medievali.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "KM3; KM5"
+  },
+  {
+    "claim": "La dieta urbana combinava tributi agricoli, pesca costiera e mercati regionali.",
+    "theme": "alimentazione",
+    "status": "sintesi",
+    "source": "KM3; KM4"
+  }
+]

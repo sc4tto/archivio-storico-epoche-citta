@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Windover fu un cimitero arcaico in uno stagno di torba",
+    "theme": "Funzione",
+    "status": "documentato",
+    "source": "WINDOVER_DORAN"
+  },
+  {
+    "claim": "La torba ha conservato tessili, legno e resti umani",
+    "theme": "Conservazione",
+    "status": "documentato",
+    "source": "WINDOVER_DORAN"
+  },
+  {
+    "claim": "La dieta combinava piante, fauna terrestre e risorse acquatiche",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "WINDOVER_TUROSS"
+  },
+  {
+    "claim": "Sono documentate numerose tecniche di intreccio",
+    "theme": "Tessili",
+    "status": "documentato",
+    "source": "WINDOVER_DORAN"
+  },
+  {
+    "claim": "Il sito è riconosciuto come National Historic Landmark",
+    "theme": "Tutela",
+    "status": "documentato",
+    "source": "WINDOVER_NHL"
+  },
+  {
+    "claim": "Windover rappresenta l’intero villaggio residenziale",
+    "theme": "Insediamento",
+    "status": "non_documentato",
+    "source": "Il sito scavato è soprattutto funerario"
+  },
+  {
+    "claim": "Ogni tessuto era un indumento",
+    "theme": "Tessili",
+    "status": "non_documentato",
+    "source": "Usi diversi: stuoie, sacche e involucri"
+  },
+  {
+    "claim": "Le deposizioni provano una religione centralizzata",
+    "theme": "Politica e culto",
+    "status": "non_documentato",
+    "source": "Rituali documentati, istituzioni ignote"
+  }
+]

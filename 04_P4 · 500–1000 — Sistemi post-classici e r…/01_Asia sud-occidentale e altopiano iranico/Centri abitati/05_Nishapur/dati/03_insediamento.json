@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Città sasanide e conquista islamica",
+    "Riorganizzazione omayyade",
+    "Crescita abbaside",
+    "Capitale tahiride nel IX secolo",
+    "Apogeo samanide e trasformazioni del X secolo"
+  ],
+  "items": [
+    {
+      "id": "citadel",
+      "label": "Kuhandiz e nucleo fortificato",
+      "lane": "Difensive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "quarters",
+      "label": "Quartieri e case a corte",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "mosques",
+      "label": "Moschee ed edifici religiosi",
+      "lane": "Religiose",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "kilns",
+      "label": "Fornaci e produzione ceramica",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "markets",
+      "label": "Bazar e caravanserragli",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "qanats",
+      "label": "Qanat e canali",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "decor",
+      "label": "Stucchi e pitture murali",
+      "lane": "Decorative",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

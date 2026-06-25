@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "La prima linea della metropolitana di Seoul aprì nel 1974 e la rete si è ampliata continuamente.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "SE1"
+  },
+  {
+    "claim": "Il piano Seoul 2040 Comprehensive Plan è un quadro di pianificazione di lungo periodo, non un risultato già completato.",
+    "theme": "pianificazione",
+    "status": "documentato",
+    "source": "SE2"
+  },
+  {
+    "claim": "La Climate Card consente l’uso integrato di metropolitana, autobus e bicicletta pubblica con finalità anche ambientali.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "SE3"
+  },
+  {
+    "claim": "Il piano di sviluppo equilibrato mira a ridurre le disparità fra aree della città attraverso poli strategici.",
+    "theme": "disuguaglianze",
+    "status": "documentato",
+    "source": "SE4"
+  },
+  {
+    "claim": "Le innovazioni della metropolitana includono porte di banchina, sistemi informativi e design più accessibile.",
+    "theme": "tecnologia",
+    "status": "documentato",
+    "source": "SE1"
+  },
+  {
+    "claim": "Seoul, metropolitana, città digitale, alloggi e rigenerazione è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Repressione sotto i governi autoritari, sgomberi e ricollocazioni legati alla riqualificazione, violenza contro residenti e lavoratori, gentrificazione e sorveglianza non sono presentati come normali costi della modernizzazione; movimenti democratici, inquilini e comunità locali restano soggetti storici.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

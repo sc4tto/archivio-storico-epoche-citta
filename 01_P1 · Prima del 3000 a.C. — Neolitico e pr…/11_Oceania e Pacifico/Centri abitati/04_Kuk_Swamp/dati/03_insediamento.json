@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Gestione iniziale del suolo",
+    "Prime coltivazioni",
+    "Fossati e drenaggio",
+    "Campi organizzati",
+    "Sistemi agricoli maturi"
+  ],
+  "items": [
+    {
+      "id": "clear",
+      "label": "Disboscamento e gestione della vegetazione",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "pits",
+      "label": "Buche e impianto di piante",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ditches",
+      "label": "Fossati di drenaggio",
+      "lane": "Infrastrutture",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "plots",
+      "label": "Parcelle coltivate",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Aree abitative e posthole",
+      "lane": "Abitative",
+      "start": 2,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "bananas",
+      "label": "Banane e altre colture",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "renewal",
+      "label": "Pulizia e rinnovo dei fossati",
+      "lane": "Manutenzione",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

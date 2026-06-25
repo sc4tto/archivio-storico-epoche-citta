@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "El-Badari — modulo multi-grafo",
+    "short_name": "El-Badari",
+    "site": "El-Badari",
+    "modern_location": "Regione di El-Badari e Hemamieh, governatorato di Asyut, Egitto",
+    "coordinates": {
+      "lat": 26.99,
+      "lon": 31.42
+    },
+    "scope": "Complesso regionale badariano, circa 4400–4000 a.C., con insediamenti, aree produttive e necropoli",
+    "version": "1.0-blocco_03_p1_valle_nilo_5_centri_v1",
+    "warning": "“El-Badari” indica un’area archeologica regionale: i dati derivano da più località e non vanno attribuiti automaticamente a un unico villaggio."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "BADARI_PPS",
+      "title": "Holmes & Friedman — Survey and Test Excavations in the Badari Region",
+      "url": "https://doi.org/10.1017/S0079497X0000342X",
+      "use": "ricognizione, insediamenti, cronologia e cultura materiale"
+    },
+    {
+      "id": "BADARI_VOLUME",
+      "title": "Brunton & Caton-Thompson — The Badarian Civilisation",
+      "url": "https://archive.org/details/badariancivilisa00brun",
+      "use": "pubblicazione storica di tombe, manufatti e contesti"
+    },
+    {
+      "id": "UCL_NAQADA",
+      "title": "UCL Digital Egypt — Naqada Period",
+      "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/naqadan/index.html",
+      "use": "confronto cronologico e tecnologico"
+    }
+  ]
+}

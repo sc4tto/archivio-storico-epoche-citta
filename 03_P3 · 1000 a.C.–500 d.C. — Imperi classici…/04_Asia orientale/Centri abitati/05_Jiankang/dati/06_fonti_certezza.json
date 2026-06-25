@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Jianye fu capitale del regno di Wu orientale",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "JIA_BOOK"
+  },
+  {
+    "claim": "Jiankang fu capitale degli Jin orientali e delle dinastie meridionali",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "JIA_BOOK"
+  },
+  {
+    "claim": "La rete dello Yangtze sostenne approvvigionamento e mobilità urbana",
+    "theme": "Reti",
+    "status": "documentato",
+    "source": "JIA_BOOK"
+  },
+  {
+    "claim": "Migrazioni dal nord contribuirono alla crescita della capitale",
+    "theme": "Demografia",
+    "status": "documentato",
+    "source": "JIA_BOOK"
+  },
+  {
+    "claim": "Il buddhismo ebbe crescente importanza nelle corti meridionali",
+    "theme": "Religione",
+    "status": "documentato",
+    "source": "JIA_BOOK"
+  },
+  {
+    "claim": "Le mura Ming oggi visibili sono la cinta della Jiankang del IV secolo",
+    "theme": "Urbanistica",
+    "status": "non_documentato",
+    "source": "Cinta molto più tarda"
+  },
+  {
+    "claim": "La pianta completa della città è nota senza lacune",
+    "theme": "Topografia",
+    "status": "non_documentato",
+    "source": "Sito coperto dalla città moderna"
+  },
+  {
+    "claim": "Tutti i templi citati nei testi sono localizzati archeologicamente",
+    "theme": "Religione",
+    "status": "non_documentato",
+    "source": "Localizzazioni parziali"
+  }
+]

@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Trowulan",
+      "lat": -7.545,
+      "lon": 112.386,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "bra",
+      "label": "Fiume Brantas",
+      "lat": -7.45,
+      "lon": 112.45,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "seg",
+      "label": "Bacino Segaran",
+      "lat": -7.55,
+      "lon": 112.38,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "pen",
+      "label": "Monte Penanggungan",
+      "lat": -7.62,
+      "lon": 112.62,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "bal",
+      "label": "Bali",
+      "lat": -8.4,
+      "lon": 115.2,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "mal",
+      "label": "Stretto di Malacca",
+      "lat": 2.0,
+      "lon": 102.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "mol",
+      "label": "Molucche",
+      "lat": 0.0,
+      "lon": 127.0,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "bra",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "irrigazione e trasporto regionale",
+      "food": "riso e merci"
+    },
+    {
+      "source": "seg",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "riserva idrica e gestione urbana",
+      "food": "acqua e pesce"
+    },
+    {
+      "source": "pen",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "materiali e paesaggio sacro",
+      "food": "pietra, legname e sorgenti"
+    },
+    {
+      "source": "bal",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "amministrazione e scambio",
+      "food": "riso, bestiame e artigiani"
+    },
+    {
+      "source": "mal",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte commerciali",
+      "food": "tessili, ceramiche e metalli"
+    },
+    {
+      "source": "mol",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "reti dell’arcipelago",
+      "food": "chiodi di garofano e spezie"
+    }
+  ]
+}

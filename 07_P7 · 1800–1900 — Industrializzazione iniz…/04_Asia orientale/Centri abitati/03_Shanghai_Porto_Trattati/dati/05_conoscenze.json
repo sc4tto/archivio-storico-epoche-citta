@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Shanghai, porto dei trattati",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Porto e dogane",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Navigazione a vapore e pilotaggio",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Dogane marittime e assicurazioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Concessioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Regimi extraterritoriali",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Municipalità e polizia separate",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Seta, tè, cotone e oppio",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Banche, compradores e aste",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Industria",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Filature, cantieri e officine",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Lavoro migrante e quartieri operai",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Bund, lilong e strade nuove",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Drenaggi, illuminazione e servizi",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

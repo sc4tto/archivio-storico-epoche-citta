@@ -1,0 +1,234 @@
+{
+  "nodes": [
+    {
+      "id": "env1",
+      "label": "Grotta in calcare dunare",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "env2",
+      "label": "Foreste, macchia e pianure costiere",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "env3",
+      "label": "Clima variabile del sud-ovest australiano",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "res1",
+      "label": "Semi, tuberi e frutti locali",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "res2",
+      "label": "Fibre e legname",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "res3",
+      "label": "Macropodi, piccoli mammiferi e uccelli",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "res4",
+      "label": "Risorse costiere e fluviali occasionali",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "res5",
+      "label": "Piante spontanee della macchia",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "acq1",
+      "label": "Raccolta stagionale",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "acq2",
+      "label": "Caccia terrestre",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "acq3",
+      "label": "Acquisizione di risorse costiere",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "tr1",
+      "label": "Frantumazione e taglio",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "tr2",
+      "label": "Cottura su focolari",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "tr3",
+      "label": "Essiccazione e deposito",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "tr4",
+      "label": "Macellazione e lavorazione dell’osso",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "out1",
+      "label": "Pasti terrestri diversificati",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "out2",
+      "label": "Litica, osso, ornamenti e fauna",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "out3",
+      "label": "Cenere, ossa e sedimenti stratificati",
+      "layer": 4,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "env1",
+      "target": "res1",
+      "label": "ambiente e disponibilità",
+      "status": "sintesi"
+    },
+    {
+      "source": "env1",
+      "target": "res2",
+      "label": "ambiente e disponibilità",
+      "status": "sintesi"
+    },
+    {
+      "source": "env2",
+      "target": "res3",
+      "label": "habitat e stagionalità",
+      "status": "sintesi"
+    },
+    {
+      "source": "env2",
+      "target": "res4",
+      "label": "acqua e risorse",
+      "status": "sintesi"
+    },
+    {
+      "source": "env3",
+      "target": "res5",
+      "label": "paesaggio e raccolta",
+      "status": "sintesi"
+    },
+    {
+      "source": "res1",
+      "target": "acq1",
+      "label": "raccolta o gestione",
+      "status": "sintesi"
+    },
+    {
+      "source": "res2",
+      "target": "acq1",
+      "label": "raccolta o gestione",
+      "status": "sintesi"
+    },
+    {
+      "source": "res3",
+      "target": "acq2",
+      "label": "caccia o cattura",
+      "status": "documentato"
+    },
+    {
+      "source": "res4",
+      "target": "acq3",
+      "label": "pesca o raccolta",
+      "status": "sintesi"
+    },
+    {
+      "source": "res5",
+      "target": "acq3",
+      "label": "raccolta mirata",
+      "status": "sintesi"
+    },
+    {
+      "source": "acq1",
+      "target": "tr1",
+      "label": "trasformazione vegetale",
+      "status": "documentato"
+    },
+    {
+      "source": "acq1",
+      "target": "tr3",
+      "label": "conservazione",
+      "status": "sintesi"
+    },
+    {
+      "source": "acq2",
+      "target": "tr4",
+      "label": "lavorazione faunistica",
+      "status": "documentato"
+    },
+    {
+      "source": "acq3",
+      "target": "tr2",
+      "label": "cottura",
+      "status": "documentato"
+    },
+    {
+      "source": "acq3",
+      "target": "tr4",
+      "label": "trattamento",
+      "status": "documentato"
+    },
+    {
+      "source": "tr1",
+      "target": "out1",
+      "label": "preparazione",
+      "status": "sintesi"
+    },
+    {
+      "source": "tr2",
+      "target": "out1",
+      "label": "cottura",
+      "status": "sintesi"
+    },
+    {
+      "source": "tr3",
+      "target": "out2",
+      "label": "depositi o contenitori",
+      "status": "documentato"
+    },
+    {
+      "source": "tr4",
+      "target": "out2",
+      "label": "resti o strumenti",
+      "status": "documentato"
+    },
+    {
+      "source": "tr2",
+      "target": "out3",
+      "label": "cenere e residui",
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Sydney coloniale, penale e portuale",
+    "site": "Sydney coloniale, penale e portuale",
+    "modern_location": "Sydney, Australia",
+    "coordinates": {
+      "lat": -33.8688,
+      "lon": 151.2093
+    },
+    "scope": "Sydney fra 1800 e 1900: città coloniale sul porto, lavoro coatto dei detenuti, espansione municipale, pastoralismo, oro, ferrovie, migrazioni, sanità urbana e progressiva autogoverno coloniale.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Federation del 1901, Harbour Bridge, metropolitana e suburbanizzazione automobilistica sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SY1",
+      "title": "City of Sydney — Barani",
+      "use": "Gadigal/Eora, Warrane e impatti della colonizzazione.",
+      "url": "https://sydneybarani.com.au/"
+    },
+    {
+      "id": "SY2",
+      "title": "State Library of New South Wales — First Fleet and colony records",
+      "use": "Fondazione coloniale, convicts e fonti primarie.",
+      "url": "https://www.sl.nsw.gov.au/"
+    },
+    {
+      "id": "SY3",
+      "title": "Sydney Living Museums / Museums of History NSW",
+      "use": "Edifici coloniali, lavoro e società urbana.",
+      "url": "https://mhnsw.au/"
+    },
+    {
+      "id": "SY4",
+      "title": "National Museum of Australia — Sydney and New South Wales",
+      "use": "Contesto coloniale e trasformazioni sociali.",
+      "url": "https://www.nma.gov.au/"
+    },
+    {
+      "id": "SY5",
+      "title": "Australian Dictionary of Biography",
+      "use": "Attori politici e sociali del New South Wales.",
+      "url": "https://adb.anu.edu.au/"
+    }
+  ]
+}

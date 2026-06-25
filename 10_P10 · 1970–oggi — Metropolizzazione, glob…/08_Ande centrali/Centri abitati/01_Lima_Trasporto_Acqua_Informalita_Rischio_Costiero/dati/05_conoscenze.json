@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Lima, trasporto, acqua, informalità e rischio costiero",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Governance metropolitana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Municipalità, ATU, MTC, Callao e distretti",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Coordinamento, concessioni, dati e partecipazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mobilità integrata",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Metro, Metropolitano, autobus, pedonalità e ciclabilità",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Accessibilità, tariffe, sicurezza e manutenzione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Acqua e costa desertica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Cuencas, falde, trasferimenti, perdite e riuso",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Siccità, equità, drenaggio e rischio costiero",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Sisma e costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Norme, microzonazione, rinforzo e ispezione",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Autocostruzione, prevenzione e ricostruzione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Diritti e clima",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Barriadas, servizi, spazio pubblico e lavoro informale",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Disuguaglianze, sgomberi, inclusione e adattamento equo",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

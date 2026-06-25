@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Kamakura, capitale guerriera e religiosa",
+    "site": "Kamakura",
+    "modern_location": "Kamakura, Kanagawa, Giappone",
+    "coordinates": {
+      "lat": 35.3192,
+      "lon": 139.5467
+    },
+    "scope": "Kamakura fra 1000 e 1500: insediamento locale, fondazione del governo di Minamoto no Yoritomo, reggenza Hōjō, templi Zen, caduta del 1333 e successiva funzione regionale nel periodo Muromachi.",
+    "version": "1.0",
+    "warning": "Il modulo distingue il paesaggio del periodo dello shogunato dalle ricostruzioni posteriori. Molti complessi religiosi conservano sedi e tradizioni medievali ma edifici rifatti."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "KM1",
+      "title": "Encyclopaedia Britannica — Kamakura",
+      "use": "Storia della capitale guerriera e del governo shogunale.",
+      "url": "https://www.britannica.com/place/Kamakura-Japan"
+    },
+    {
+      "id": "KM2",
+      "title": "The Metropolitan Museum of Art — Kamakura and Muromachi Periods",
+      "use": "Cultura guerriera, buddhismo Zen e arti medievali.",
+      "url": "https://www.metmuseum.org/toah/hd/kama/hd_kama.htm"
+    },
+    {
+      "id": "KM3",
+      "title": "Kamakura City — Cultural Heritage",
+      "use": "Tutela, siti storici e paesaggio culturale della città.",
+      "url": "https://www.city.kamakura.kanagawa.jp/bunkazai/"
+    },
+    {
+      "id": "KM4",
+      "title": "Japan National Tourism Organization — Kamakura",
+      "use": "Quadro storico e principali complessi monumentali.",
+      "url": "https://www.japan.travel/en/destinations/kanto/kanagawa/kamakura-and-around/"
+    },
+    {
+      "id": "KM5",
+      "title": "Agency for Cultural Affairs — Cultural Heritage Online",
+      "use": "Beni culturali, templi e siti archeologici di Kamakura.",
+      "url": "https://bunka.nii.ac.jp/"
+    }
+  ]
+}

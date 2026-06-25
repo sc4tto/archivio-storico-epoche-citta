@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "La tradizione Nok iniziò nel II millennio a.C.",
+    "theme": "Cronologia",
+    "status": "sintesi",
+    "source": "NOK_BREUNIG"
+  },
+  {
+    "claim": "L’economia comprendeva coltivazione e consumo del miglio",
+    "theme": "Agricoltura",
+    "status": "documentato",
+    "source": "NOK_CHAMPION"
+  },
+  {
+    "claim": "Le terracotte devono essere interpretate nel loro contesto archeologico",
+    "theme": "Metodo",
+    "status": "documentato",
+    "source": "NOK_ANTIQUITY"
+  },
+  {
+    "claim": "I siti Nok erano distribuiti in un’ampia area della Nigeria centrale",
+    "theme": "Territorio",
+    "status": "documentato",
+    "source": "NOK_BREUNIG"
+  },
+  {
+    "claim": "Metallurgia e terracotta non ebbero necessariamente la stessa cronologia in ogni sito",
+    "theme": "Tecnologia",
+    "status": "sintesi",
+    "source": "NOK_ANTIQUITY"
+  },
+  {
+    "claim": "Ogni terracotta rappresenta un sovrano noto",
+    "theme": "Iconografia",
+    "status": "non_documentato",
+    "source": "Identità non leggibile"
+  },
+  {
+    "claim": "Tutti gli oggetti sul mercato antiquario hanno provenienza sicura",
+    "theme": "Provenienza",
+    "status": "non_documentato",
+    "source": "Saccheggio diffuso"
+  },
+  {
+    "claim": "Il ferro era già dominante all’inizio della tradizione",
+    "theme": "Metallurgia",
+    "status": "non_documentato",
+    "source": "Sviluppi soprattutto più tardi"
+  }
+]

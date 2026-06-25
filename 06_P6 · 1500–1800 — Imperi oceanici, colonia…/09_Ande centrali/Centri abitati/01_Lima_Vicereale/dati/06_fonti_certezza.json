@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Lima fu fondata nel 1535 e divenne capitale del vicereame del Perù.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "LI1; LI2"
+  },
+  {
+    "claim": "La piazza maggiore concentrava governo civile e istituzioni ecclesiastiche.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "LI1; LI4"
+  },
+  {
+    "claim": "Callao collegava la capitale alle rotte del Pacifico e dell’Atlantico.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "LI2; LI3"
+  },
+  {
+    "claim": "Terremoti ricorrenti influenzarono materiali e tecniche costruttive.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "LI1; LI2"
+  },
+  {
+    "claim": "Le valli irrigue costiere sostenevano gran parte dell’approvvigionamento urbano.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "LI3; LI4"
+  },
+  {
+    "claim": "Conventi, collegi e ospedali segnarono il paesaggio urbano.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "LI1; LI4"
+  },
+  {
+    "claim": "Schiavitù, tributo e lavoro coercitivo furono componenti della società coloniale.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "LI3"
+  },
+  {
+    "claim": "Le trasformazioni repubblicane successive al 1800 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "LI2"
+  }
+]

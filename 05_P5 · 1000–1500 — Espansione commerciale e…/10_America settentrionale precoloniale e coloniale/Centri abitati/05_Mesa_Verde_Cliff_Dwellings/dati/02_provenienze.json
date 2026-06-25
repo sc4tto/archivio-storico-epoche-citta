@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Cliff Palace",
+      "lat": 37.167,
+      "lon": -108.4728,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "mesa",
+      "label": "Mesa Top villages",
+      "lat": 37.2,
+      "lon": -108.49,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "spruce",
+      "label": "Spruce Tree House",
+      "lat": 37.1837,
+      "lon": -108.49,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "balc",
+      "label": "Balcony House",
+      "lat": 37.1605,
+      "lon": -108.4704,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "mancos",
+      "label": "Valle del Mancos",
+      "lat": 37.35,
+      "lon": -108.3,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "sanjuan",
+      "label": "Bacino del San Juan",
+      "lat": 37.0,
+      "lon": -108.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "rio",
+      "label": "Rio Grande Pueblos",
+      "lat": 35.7,
+      "lon": -106.1,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "mesa",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sentieri sulla mesa",
+      "food": "mais, acqua e materiali"
+    },
+    {
+      "source": "spruce",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti locali",
+      "food": "persone, ceramiche e pratiche condivise"
+    },
+    {
+      "source": "balc",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "alcove e sentieri",
+      "food": "scambi fra comunità"
+    },
+    {
+      "source": "mancos",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "vallate regionali",
+      "food": "derrate, argilla e legname"
+    },
+    {
+      "source": "sanjuan",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti Four Corners",
+      "food": "ceramiche, turchese e alleanze"
+    },
+    {
+      "source": "rio",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "migrazioni e continuità Pueblo",
+      "food": "persone, saperi e tradizioni"
+    }
+  ]
+}

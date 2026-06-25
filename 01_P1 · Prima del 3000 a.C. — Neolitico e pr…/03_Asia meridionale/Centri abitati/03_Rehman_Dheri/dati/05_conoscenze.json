@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Rehman Dheri",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Tracciamento di strade",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Ripartizione in isolati",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Manutenzione della pianta",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Agricoltura",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Colture cerealicole",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_2",
+          "label": "Allevamento",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_3",
+          "label": "Deposito",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Edilizia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Blocchi d’argilla",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Muri perimetrali",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Fornaci",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Perle",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Ceramica",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Metallo e scorie",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Segni e amministrazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Marchi su ceramica",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Sigilli",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Sistema di scrittura pienamente sviluppato",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Organizzazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Coordinamento della pianta",
+          "status": "inferito"
+        },
+        {
+          "id": "k6_2",
+          "label": "Aree industriali",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Reti regionali",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

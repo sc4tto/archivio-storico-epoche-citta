@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "c",
+      "label": "Palembang–Srivijaya",
+      "lat": -2.99,
+      "lon": 104.76,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -20
+    },
+    {
+      "id": "musi",
+      "label": "Basso corso del Musi",
+      "lat": -3.0,
+      "lon": 104.75,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "seguntang",
+      "label": "Bukit Seguntang",
+      "lat": -2.98,
+      "lon": 104.73,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "karang",
+      "label": "Karanganyar",
+      "lat": -3.01,
+      "lon": 104.72,
+      "status": "sintesi",
+      "kind": "locale"
+    },
+    {
+      "id": "bangka",
+      "label": "Bangka e stretto",
+      "lat": -2.2,
+      "lon": 106.05,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "cina",
+      "label": "Cina meridionale",
+      "lat": 23.1,
+      "lon": 113.3,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "india",
+      "label": "India e Nālandā",
+      "lat": 25.1,
+      "lon": 85.4,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "musi",
+      "target": "c",
+      "status": "documentato",
+      "label": "navigazione fluviale",
+      "food": "pesce, riso, legname"
+    },
+    {
+      "source": "seguntang",
+      "target": "c",
+      "status": "documentato",
+      "label": "iscrizioni e area sacra",
+      "food": "ideologia e culto"
+    },
+    {
+      "source": "karang",
+      "target": "c",
+      "status": "sintesi",
+      "label": "canali e abitato",
+      "food": "produzioni locali"
+    },
+    {
+      "source": "bangka",
+      "target": "c",
+      "status": "documentato",
+      "label": "controllo degli accessi marittimi",
+      "food": "aromi e merci"
+    },
+    {
+      "source": "cina",
+      "target": "c",
+      "status": "documentato",
+      "label": "rotte monsoniche",
+      "food": "ceramiche e seta"
+    },
+    {
+      "source": "india",
+      "target": "c",
+      "status": "documentato",
+      "label": "pellegrinaggio e commercio",
+      "food": "testi, religione e beni"
+    }
+  ]
+}

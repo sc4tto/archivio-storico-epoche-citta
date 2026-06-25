@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Broken Hill mineraria, sindacale e desertica",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Infrastrutture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Ferrovie, tram, strade, porti, elettricità e telecomunicazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Acqua, fognature, ospedali, mercati e sanità urbana",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Economia urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "estrazione e concentrazione di piombo, zinco e argento, officine e trasporto ferroviario",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Industria, commercio, credito, logistica e approvvigionamento",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Politica e istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "municipalità, compagnie minerarie, sindacati e governi del New South Wales e federale",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Municipalità, parlamenti, amministrazioni coloniali o federali e servizi pubblici",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Wilyakali, minatori, famiglie operaie, migranti, commercianti e associazioni mutualistiche",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Migrazioni, scuole, sindacati, associazioni, chiese e stampa",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Crisi e disuguaglianze",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "polveri, piombo, incidenti, scarsità d’acqua, disoccupazione e dispossesso indigeno",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Discriminazione indigena, sfruttamento del lavoro e servizi distribuiti in modo diseguale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

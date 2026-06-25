@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Hangzhou–Lin’an dei Song meridionali",
+    "site": "Hangzhou–Lin’an",
+    "modern_location": "Hangzhou, Zhejiang, Cina",
+    "coordinates": {
+      "lat": 30.2741,
+      "lon": 120.1551
+    },
+    "scope": "Hangzhou fra 1000 e 1500: trasformazioni del Lago dell’Ovest, capitale dei Song meridionali, conquista Yuan, continuità commerciale e sviluppo urbano sotto i Ming.",
+    "version": "1.0",
+    "warning": "Il modulo distingue la capitale Song del 1130–1276 dalle trasformazioni turistiche e urbanistiche posteriori. Le stime demografiche medievali restano controverse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "HZ1",
+      "title": "UNESCO — West Lake Cultural Landscape of Hangzhou",
+      "use": "Paesaggio del Lago dell’Ovest, causeway, templi, pagode e tradizione Tang-Song.",
+      "url": "https://whc.unesco.org/en/list/1334/"
+    },
+    {
+      "id": "HZ2",
+      "title": "UNESCO — The Grand Canal",
+      "use": "Collegamenti fluviali fra Hangzhou, il basso Yangzi e la Cina settentrionale.",
+      "url": "https://whc.unesco.org/en/list/1443/"
+    },
+    {
+      "id": "HZ3",
+      "title": "Encyclopaedia Britannica — Hangzhou",
+      "use": "Storia della capitale dei Song meridionali e ruolo commerciale.",
+      "url": "https://www.britannica.com/place/Hangzhou"
+    },
+    {
+      "id": "HZ4",
+      "title": "The Metropolitan Museum of Art — The Song Dynasty",
+      "use": "Cultura materiale, arti e trasformazioni economiche Song.",
+      "url": "https://www.metmuseum.org/toah/hd/song/hd_song.htm"
+    },
+    {
+      "id": "HZ5",
+      "title": "UNESCO — West Lake nomination materials",
+      "use": "Autenticità, cronologia e componenti del paesaggio culturale.",
+      "url": "https://whc.unesco.org/en/list/1334/documents/"
+    }
+  ]
+}

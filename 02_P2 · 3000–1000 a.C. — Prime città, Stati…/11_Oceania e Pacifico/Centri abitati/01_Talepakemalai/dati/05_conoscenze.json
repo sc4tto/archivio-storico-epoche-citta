@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Talepakemalai",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Navigazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Rotte interinsulari",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Lettura di venti e correnti",
+          "status": "inferito"
+        },
+        {
+          "id": "k1_3",
+          "label": "Canoe specifiche",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Ceramica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Impressione dentellata",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Forme complesse",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Cottura controllata",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Ossidiana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Provenienza Talasea",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Scheggiatura",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Riduzione dei nuclei",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Laguna",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Pesca",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Molluschi",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Uso delle maree",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Orticoltura",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Taro e igname",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_2",
+          "label": "Arboricoltura",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_3",
+          "label": "Gestione del suolo",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Organizzazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Abitazioni raggruppate",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_2",
+          "label": "Scambi specializzati",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_3",
+          "label": "Capo ereditario",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

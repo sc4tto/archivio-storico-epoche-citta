@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Antiochia",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Urbanistica",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Assi stradali",
+          "status": "sintesi"
+        },
+        {
+          "id": "k1_2",
+          "label": "Colonnati",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Quartieri",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Acqua",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Acquedotti",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Terme",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Drenaggi",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Mosaico",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Tessere policrome",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Iconografia mitologica",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Botteghe specializzate",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Porto di Seleucia Pieria",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Moneta",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Anfore",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Religioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Culti greco-romani",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Ebraismo",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Cristianesimo antico",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Società",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Cittadinanza urbana",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Élite municipali",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Popolazione numerica",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

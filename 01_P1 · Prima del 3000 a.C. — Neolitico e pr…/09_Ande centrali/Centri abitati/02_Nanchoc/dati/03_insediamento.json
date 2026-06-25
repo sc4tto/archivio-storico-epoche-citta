@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Accampamenti iniziali",
+    "Fase Las Pircas",
+    "Orticoltura stabile",
+    "Canali e aggregazione",
+    "Trasformazioni successive"
+  ],
+  "items": [
+    {
+      "id": "houses",
+      "label": "Abitazioni ellittiche leggere",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "hearth",
+      "label": "Focolari e superfici domestiche",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "plants",
+      "label": "Coltivazione di zucca e arachide",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "cotton",
+      "label": "Gestione del cotone",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "grind",
+      "label": "Macinazione e lavorazione vegetale",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "canals",
+      "label": "Piccoli canali preceramici",
+      "lane": "Territorio",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "mounds",
+      "label": "Spazi collettivi e monticoli",
+      "lane": "Organizzazione",
+      "start": 2,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

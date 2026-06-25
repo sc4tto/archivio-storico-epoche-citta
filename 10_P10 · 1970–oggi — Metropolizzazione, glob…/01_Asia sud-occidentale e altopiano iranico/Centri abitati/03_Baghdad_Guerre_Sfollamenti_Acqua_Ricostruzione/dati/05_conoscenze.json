@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Baghdad, guerre, sfollamenti e ricostruzione dei servizi",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Acqua urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Presa, trattamento, pompaggio e distribuzione",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Fognature, perdite, contaminazione e manutenzione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Ricostruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Valutazione dei danni, riparazione e priorità",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Coordinamento istituzionale, appalti e trasparenza",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Sfollamento",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Registrazione, alloggio e accesso ai servizi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Ritorno, integrazione locale e diritti di tenure",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Patrimonio del Tigri",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Moschee, ponti, mercati e paesaggio fluviale",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Conservazione, uso sociale e memoria del conflitto",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Sicurezza e cittadinanza",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Spazi pubblici, mobilità e accesso ai quartieri",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Proteste, repressione e rivendicazione dei servizi",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Chang’an / Xi’an",
+      "lat": 34.3416,
+      "lon": 108.9398,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "wei",
+      "label": "Valle del Wei e canali",
+      "lat": 34.25,
+      "lon": 108.85,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "luoyang",
+      "label": "Luoyang",
+      "lat": 34.62,
+      "lon": 112.45,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "hexi",
+      "label": "Corridoio di Hexi",
+      "lat": 38.0,
+      "lon": 101.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "tarim",
+      "label": "Oasi del bacino del Tarim",
+      "lat": 40.0,
+      "lon": 83.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "yangzhou",
+      "label": "Yangzhou e Grande Canale",
+      "lat": 32.39,
+      "lon": 119.42,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "wei",
+      "target": "site",
+      "label": "cereali, acqua e trasporto locale",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "luoyang",
+      "target": "site",
+      "label": "corte, funzionari e traffici imperiali",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "hexi",
+      "target": "site",
+      "label": "cavalli, merci e missioni",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "tarim",
+      "target": "site",
+      "label": "seta, vetro, spezie e religioni",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "yangzhou",
+      "target": "site",
+      "label": "tributi fiscali e derrate via canali",
+      "status": "documentato",
+      "food": "sì"
+    }
+  ]
+}

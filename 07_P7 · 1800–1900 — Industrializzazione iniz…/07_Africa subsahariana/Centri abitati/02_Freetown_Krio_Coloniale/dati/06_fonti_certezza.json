@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Freetown divenne colonia della Corona britannica nel 1808.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "FR1; FR2"
+  },
+  {
+    "claim": "La città fu base della lotta navale britannica contro la tratta atlantica.",
+    "theme": "istituzioni",
+    "status": "documentato",
+    "source": "FR1; FR4"
+  },
+  {
+    "claim": "Africani liberati dalle navi negriere contribuirono alla formazione della società krio.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "FR2; FR3"
+  },
+  {
+    "claim": "Fourah Bay College fu fondato nel 1827.",
+    "theme": "cultura",
+    "status": "documentato",
+    "source": "FR5"
+  },
+  {
+    "claim": "Porto, chiese, scuole e amministrazione strutturarono la crescita urbana.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "FR1; FR2"
+  },
+  {
+    "claim": "Alcuni recaptives furono sottoposti ad apprendistato o lavoro non pienamente libero.",
+    "theme": "coercizione",
+    "status": "documentato",
+    "source": "FR2; FR4"
+  },
+  {
+    "claim": "La ferrovia coloniale iniziò a svilupparsi alla fine del XIX secolo.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "FR1; FR3"
+  },
+  {
+    "claim": "Le trasformazioni successive al 1900 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "FR1"
+  }
+]

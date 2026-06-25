@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "La diagnosi World Bank individua deficit critici in trasporto, acqua, fognatura e rifiuti.",
+    "theme": "servizi",
+    "status": "documentato",
+    "source": "KA1"
+  },
+  {
+    "claim": "Il progetto idrico mira ad aumentare l’accesso equo ad acqua sicura e servizi fognari.",
+    "theme": "acqua",
+    "status": "documentato",
+    "source": "KA2"
+  },
+  {
+    "claim": "La Red Line BRT è progettata per migliorare qualità e uso del trasporto pubblico.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "KA3"
+  },
+  {
+    "claim": "UN-Habitat ha sostenuto interventi a basse emissioni nelle katchi abadis.",
+    "theme": "informalità",
+    "status": "documentato",
+    "source": "KA4"
+  },
+  {
+    "claim": "Karachi è altamente vulnerabile ad alluvioni, calore e rischi costieri.",
+    "theme": "clima",
+    "status": "documentato",
+    "source": "KA1; KA2"
+  },
+  {
+    "claim": "Karachi, porto, industria, acqua, mobilità e clima è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Violenza politica ed etnica, operazioni di sicurezza, sgomberi lungo i drenaggi, demolizioni, discriminazione dei migranti e ricollocazioni non sono presentati come normali processi amministrativi; residenti delle katchi abadis, rifugiati, pescatori e lavoratori del trasporto sono soggetti storici e politici.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

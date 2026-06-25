@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Aksum — modulo multi-grafo",
+    "short_name": "Aksum",
+    "site": "Aksum tardoantica e altomedievale",
+    "modern_location": "Aksum, Tigray, Etiopia",
+    "coordinates": {
+      "lat": 14.1211,
+      "lon": 38.725
+    },
+    "scope": "Centro politico, religioso e cerimoniale dell’altopiano etiopico fra VI e X secolo, con palazzi, tombe, chiese, iscrizioni e reti verso Adulis, il Mar Rosso, la Nubia e l’interno africano. Il periodo comprende l’apogeo tardo, la cristianizzazione consolidata e il progressivo declino politico.",
+    "version": "1.0-blocco_38_p4_valle_nilo_5_centri_v1",
+    "warning": "Le grandi stele più celebri risalgono soprattutto ai secoli III–IV e quindi precedono il P4. La data e le cause del declino politico sono discusse; il ruolo cerimoniale e religioso di Aksum continuò oltre la perdita della centralità imperiale."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "AKS_UNESCO",
+      "title": "UNESCO — Aksum",
+      "url": "https://whc.unesco.org/en/list/15/",
+      "use": "monumenti, cronologia, commercio e cristianesimo"
+    },
+    {
+      "id": "AKS_MET",
+      "title": "Metropolitan Museum — Aksum",
+      "url": "https://www.metmuseum.org/toah/hd/aksu/hd_aksu.htm",
+      "use": "arte, monetazione e reti del Mar Rosso"
+    },
+    {
+      "id": "AKS_PHILLIPSON",
+      "title": "David W. Phillipson — Foundations of an African Civilisation",
+      "url": "https://boydellandbrewer.com/9781847010414/foundations-of-an-african-civilisation/",
+      "use": "archeologia urbana e sviluppo del regno"
+    }
+  ]
+}

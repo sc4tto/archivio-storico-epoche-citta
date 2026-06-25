@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Il piano di ricostruzione metropolitana fu definito nel 1946.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "TO1"
+  },
+  {
+    "claim": "La Costituzione e la legge sull’autonomia locale entrarono in vigore nel 1947.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "TO1; TO2"
+  },
+  {
+    "claim": "L’alta crescita ampliò industria, terziario e pendolarismo suburbano.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "TO3"
+  },
+  {
+    "claim": "I Giochi del 1964 accelerarono opere di trasporto e riassetto urbano.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "TO1; TO3"
+  },
+  {
+    "claim": "Scarsità abitativa e inquinamento furono costi sociali della crescita.",
+    "theme": "società",
+    "status": "sintesi",
+    "source": "TO1; TO3"
+  },
+  {
+    "claim": "Tokyo, ricostruzione e metropoli dell’alta crescita è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Occupazione, distruzione bellica, rimozioni urbane, lavoro industriale, scarsità abitativa e inquinamento sono trattati come processi conflittuali e distribuiti in modo diseguale.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

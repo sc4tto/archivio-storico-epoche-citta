@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Puebla",
+      "lat": 19.041,
+      "lon": -98.206,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "tlx",
+      "label": "Tlaxcala e valle orientale",
+      "lat": 19.31,
+      "lon": -98.24,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "chol",
+      "label": "Cholula e campagne occidentali",
+      "lat": 19.06,
+      "lon": -98.31,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "atl",
+      "label": "Atlixco e Matamoros",
+      "lat": 18.91,
+      "lon": -98.43,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "ver",
+      "label": "Veracruz e Orizaba",
+      "lat": 19.18,
+      "lon": -96.14,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "mex",
+      "label": "Città del Messico",
+      "lat": 19.43,
+      "lon": -99.13,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "oax",
+      "label": "Oaxaca e Mixteca",
+      "lat": 17.06,
+      "lon": -96.72,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "tlx",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade della valle",
+      "food": "mais, grano, legname e lavoro"
+    },
+    {
+      "source": "chol",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cammini locali",
+      "food": "cereali, ceramiche e prodotti di mercato"
+    },
+    {
+      "source": "atl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "vie meridionali",
+      "food": "frutta, zucchero, grano e bestiame"
+    },
+    {
+      "source": "ver",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "camino real",
+      "food": "merci atlantiche, cacao e spezie"
+    },
+    {
+      "source": "mex",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strada della capitale",
+      "food": "capitali, ordini e beni di consumo"
+    },
+    {
+      "source": "oax",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "camino di Oaxaca",
+      "food": "cocciniglia, tessili e bestiame"
+    }
+  ]
+}

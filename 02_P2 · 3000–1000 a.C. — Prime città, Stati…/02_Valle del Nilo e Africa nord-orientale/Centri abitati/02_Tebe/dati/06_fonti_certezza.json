@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Tebe fu capitale durante parti del Medio e Nuovo Regno",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "THEBES_UNESCO"
+  },
+  {
+    "claim": "Karnak e Luxor erano grandi complessi religiosi sulla riva orientale",
+    "theme": "Culto",
+    "status": "documentato",
+    "source": "THEBES_UNESCO"
+  },
+  {
+    "claim": "La riva occidentale comprendeva tombe, templi e villaggi di artigiani",
+    "theme": "Paesaggio",
+    "status": "documentato",
+    "source": "THEBES_UNESCO"
+  },
+  {
+    "claim": "La città raggiunse una grande importanza come capitale religiosa",
+    "theme": "Religione",
+    "status": "documentato",
+    "source": "THEBES_UNESCO"
+  },
+  {
+    "claim": "Testi e immagini documentano rapporti con Nubia, Punt e Asia",
+    "theme": "Scambi",
+    "status": "documentato",
+    "source": "THEBES_UNESCO"
+  },
+  {
+    "claim": "Ogni monumento tebano appartiene alla stessa fase",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Sviluppo plurimillenario"
+  },
+  {
+    "claim": "La Valle dei Re era un quartiere residenziale ordinario",
+    "theme": "Funzione",
+    "status": "non_documentato",
+    "source": "Necropoli reale"
+  },
+  {
+    "claim": "Tebe dipendeva solo da risorse locali",
+    "theme": "Economia",
+    "status": "non_documentato",
+    "source": "Reti imperiali e interregionali"
+  }
+]

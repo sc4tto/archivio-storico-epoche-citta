@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Ujjain / Ujjayini",
+      "lat": 23.1765,
+      "lon": 75.7885,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "kshipra",
+      "label": "Fiume Kshipra",
+      "lat": 23.17,
+      "lon": 75.78,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "vidisha",
+      "label": "Vidisha e Sanchi",
+      "lat": 23.525,
+      "lon": 77.809,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "bharuch",
+      "label": "Bharuch / Barygaza",
+      "lat": 21.705,
+      "lon": 72.995,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "mathura",
+      "label": "Mathura",
+      "lat": 27.492,
+      "lon": 77.674,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "pratishthana",
+      "label": "Pratishthana / Paithan",
+      "lat": 19.477,
+      "lon": 75.385,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "kshipra",
+      "target": "site",
+      "label": "acqua, rituali e approvvigionamento",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "vidisha",
+      "target": "site",
+      "label": "strade, pietra e reti buddhiste",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "bharuch",
+      "target": "site",
+      "label": "commercio con la costa occidentale",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "mathura",
+      "target": "site",
+      "label": "via settentrionale e scambi monetari",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "pratishthana",
+      "target": "site",
+      "label": "vie del Deccan e reti satavahana",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

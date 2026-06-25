@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di La Paz–El Alto, teleférico, acqua, pendii e società indigene",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Governance intermunicipale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Municipi di La Paz ed El Alto, Stato e organizzazioni sociali",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Coordinamento, investimenti, partecipazione e dati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mobilità verticale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Mi Teleférico, minibus, autobus e percorsi pedonali",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Integrazione, accessibilità, manutenzione e tariffe",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Acqua d’alta quota",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Ghiacciai, bacini, serbatoi, perdite e domanda",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Siccità, equità, riuso e resilienza climatica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Pendii e quartieri",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Autoconstruzione, drenaggio, frane e miglioramento urbano",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Servizi, stabilizzazione, prevenzione e non ricollocazione coercitiva",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Società indigene e popolari",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Lingue, mercati, sindacati, comunità e ritualità",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Diritti, rappresentanza, pluralismo religioso e memoria dei conflitti",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "La sezione 1 della D Line è entrata in servizio l’8 maggio 2026.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "LA1"
+  },
+  {
+    "claim": "Le sezioni successive della D Line restano progetti non completati alla data di chiusura.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "LA1"
+  },
+  {
+    "claim": "Il piano Housing Element 2021–2029 orienta politiche abitative e di equità.",
+    "theme": "alloggi",
+    "status": "documentato",
+    "source": "LA2"
+  },
+  {
+    "claim": "Lo studio storico cittadino collega politiche urbanistiche e discriminazione abitativa.",
+    "theme": "segregazione",
+    "status": "documentato",
+    "source": "LA4"
+  },
+  {
+    "claim": "Il Climate Action Plan 2026 tratta calore, incendi, siccità e infrastrutture.",
+    "theme": "clima",
+    "status": "documentato",
+    "source": "LA3"
+  },
+  {
+    "claim": "Los Angeles è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Segregazione, violenza della polizia, sfratti, senzatetto e spostamenti non sono presentati come processi neutrali.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

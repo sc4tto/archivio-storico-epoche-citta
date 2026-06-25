@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Montréal",
+      "lat": 45.5017,
+      "lon": -73.5673,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "lan",
+      "label": "Lanaudière e Montérégie",
+      "lat": 45.6,
+      "lon": -73.1,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "qc",
+      "label": "Québec agricolo",
+      "lat": 46.8,
+      "lon": -71.2,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "ont",
+      "label": "Ontario e Grandi Laghi",
+      "lat": 44.0,
+      "lon": -79.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "pra",
+      "label": "Praterie canadesi",
+      "lat": 50.0,
+      "lon": -105.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "atl",
+      "label": "Atlantico e porti europei",
+      "lat": 47.0,
+      "lon": -55.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "usa",
+      "label": "Nord-est degli Stati Uniti",
+      "lat": 42.36,
+      "lon": -71.06,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "lan",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e camion",
+      "food": "latte, carne, pollame, frutta e verdure"
+    },
+    {
+      "source": "qc",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e strade",
+      "food": "patate, formaggi, sciroppo e lavoratori"
+    },
+    {
+      "source": "ont",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e via d’acqua",
+      "food": "cereali, manufatti, frutta e persone"
+    },
+    {
+      "source": "pra",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie transcontinentali",
+      "food": "frumento, carne e prodotti agricoli"
+    },
+    {
+      "source": "atl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto e rotte oceaniche",
+      "food": "pesce, caffè, zucchero, immigrati e importazioni"
+    },
+    {
+      "source": "usa",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia, strada e aviazione",
+      "food": "merci, turisti, capitali e alimenti confezionati"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Singapore",
+      "lat": 1.2868,
+      "lon": 103.8545,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "joh",
+      "label": "Johor e penisola malese",
+      "lat": 1.8,
+      "lon": 103.7,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "isl",
+      "label": "Isole e stretto di Singapore",
+      "lat": 1.2,
+      "lon": 103.95,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "kam",
+      "label": "Kampung e orti suburbani",
+      "lat": 1.36,
+      "lon": 103.82,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "mal",
+      "label": "Malacca, Penang e Malesia",
+      "lat": 4.2,
+      "lon": 101.8,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "dei",
+      "label": "Indie orientali olandesi",
+      "lat": -2.0,
+      "lon": 110.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "asi",
+      "label": "Cina, India e rete imperiale",
+      "lat": 18.0,
+      "lon": 102.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "joh",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade, ferrovia e causeway",
+      "food": "verdure, gomma, ananas, legname e acqua"
+    },
+    {
+      "source": "isl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "stretto e piccoli porti",
+      "food": "pesce, sale e trasporto costiero"
+    },
+    {
+      "source": "kam",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "mercati e strade suburbane",
+      "food": "frutta, ortaggi, pollame e maiale"
+    },
+    {
+      "source": "mal",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e cabotaggio",
+      "food": "riso, stagno, gomma e manodopera"
+    },
+    {
+      "source": "dei",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "shipping regionale",
+      "food": "petrolio, spezie, zucchero e merci"
+    },
+    {
+      "source": "asi",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte dell’Oceano Indiano e Mar Cinese",
+      "food": "riso, tessili, tè, capitale e migranti"
+    }
+  ]
+}

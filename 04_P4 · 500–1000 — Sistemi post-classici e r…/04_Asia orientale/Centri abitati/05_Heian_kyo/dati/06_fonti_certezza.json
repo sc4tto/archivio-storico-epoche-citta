@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Heian-kyō fu fondata nel 794",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "HEI_UNESCO"
+  },
+  {
+    "claim": "La città adottò un impianto ispirato alle capitali cinesi",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "HEI_UNESCO"
+  },
+  {
+    "claim": "Fu capitale imperiale e centro culturale",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "HEI_UNESCO"
+  },
+  {
+    "claim": "La griglia urbana si trasformò e si spostò progressivamente verso est",
+    "theme": "Urbanistica",
+    "status": "sintesi",
+    "source": "HEI_KYOTO"
+  },
+  {
+    "claim": "Byōdō-in del 1053 appartiene al P4",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "È successivo al 1000"
+  },
+  {
+    "claim": "Tutti i monumenti UNESCO esistevano già nel 794",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Molti sono posteriori"
+  },
+  {
+    "claim": "Il palazzo originario è conservato integralmente",
+    "theme": "Conservazione",
+    "status": "non_documentato",
+    "source": "Resti archeologici e ricostruzioni"
+  },
+  {
+    "claim": "Heian-kyō combinò corte, griglia, mercati e istituzioni religiose",
+    "theme": "Sintesi",
+    "status": "documentato",
+    "source": "HEI_UNESCO"
+  }
+]

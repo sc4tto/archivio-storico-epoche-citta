@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1970–1979",
+    "1980–1989",
+    "1990–1999",
+    "2000–2009",
+    "2010–25 giugno 2026"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Espansione lineare verso nord, sud e valli orientali",
+      "lane": "Insediamento",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Tutela del centro storico e pressioni della turistificazione",
+      "lane": "Patrimonio",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Crescita informale su pendii e disuguaglianza dei servizi",
+      "lane": "Alloggi",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Trolebús dal 1995 e BRT integrati",
+      "lane": "Mobilità",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Metro operativo nel periodo recente",
+      "lane": "Mobilità",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Studi 2026 per estensione a La Ofelia come progetto futuro",
+      "lane": "Pianificazione",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Frane, alluvioni, vulcani e terremoti nella gestione del rischio",
+      "lane": "Rischio",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Piano climatico 2025 con orizzonte 2050 come piano futuro",
+      "lane": "Clima",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Istanbul, metropoli globale, mobilità e rischio sismico",
+    "site": "Istanbul, metropoli globale, mobilità e rischio sismico",
+    "modern_location": "Istanbul, Türkiye",
+    "coordinates": {
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "scope": "Istanbul dal 1970 al 25 giugno 2026: crescita metropolitana e insediamenti informali, ponti sul Bosforo, ristrutturazione industriale e dei servizi, reti ferroviarie e metropolitane, trasformazione turistica, terremoto di Marmara del 1999, politiche di resilienza e arrivo di rifugiati e migranti, soprattutto dopo il 2011.",
+    "version": "1.0",
+    "warning": "I progetti annunciati con completamento successivo al 25 giugno 2026 sono registrati soltanto come piani futuri. Non sono presentati come opere già concluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "IS1",
+      "title": "World Bank — Istanbul Seismic Risk Mitigation Project",
+      "use": "Rischio sismico, adeguamento di edifici pubblici e capacità di emergenza.",
+      "url": "https://www.worldbank.org/en/country/turkey/brief/the-istanbul-seismic-risk-mitigation-project"
+    },
+    {
+      "id": "IS2",
+      "title": "Metro İstanbul — Timeline",
+      "use": "Cronologia verificabile dell’espansione di metro, tram e funicolari dal 1988.",
+      "url": "https://www.metro.istanbul/en/Home/Tarihce"
+    },
+    {
+      "id": "IS3",
+      "title": "UNHCR — Republic of Türkiye",
+      "use": "Protezione internazionale, rifugiati e prevalente insediamento urbano.",
+      "url": "https://www.unhcr.org/where-we-work/countries/republic-tuerkiye"
+    },
+    {
+      "id": "IS4",
+      "title": "World Bank — Istanbul Disaster Resilience Project",
+      "use": "Resilienza sismica e climatica, infrastrutture ed edifici pubblici nel 2025.",
+      "url": "https://www.worldbank.org/en/news/press-release/2025/08/08/world-bank-supports-istanbul-disaster-resilience-with-new-us-650-million-project"
+    }
+  ]
+}

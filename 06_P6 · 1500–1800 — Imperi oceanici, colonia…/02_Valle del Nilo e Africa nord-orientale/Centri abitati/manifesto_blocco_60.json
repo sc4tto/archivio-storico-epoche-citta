@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_60_P6_Valle_Nilo_Africa_Nord_Orientale_5_Centri_v1",
+  "macroregion": "Valle del Nilo e Africa nord-orientale",
+  "centers": [
+    "01_Cairo_Ottomano",
+    "02_Alessandria_Ottomana",
+    "03_Gondar_Imperiale",
+    "04_Massaua_Ottomana",
+    "05_Suakin_Ottomana"
+  ],
+  "uses_central_assets": true
+}

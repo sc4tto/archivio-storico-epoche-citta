@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Tataga-Matau, cava fortificata di Leone",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Petrotecnica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Selezione del basalto",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Percussione e sbozzatura",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Organizzazione del lavoro",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Squadre di estrazione",
+          "status": "sintesi"
+        },
+        {
+          "id": "k1_1",
+          "label": "Trasporto delle preforme",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Paesaggio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Uso delle creste",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Terrazzamenti e trincee",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Scambio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Distribuzione a Tutuila",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Circolazione interinsulare",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Sussistenza",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Rifornimento dai villaggi",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_1",
+          "label": "Pasti temporanei di cantiere",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

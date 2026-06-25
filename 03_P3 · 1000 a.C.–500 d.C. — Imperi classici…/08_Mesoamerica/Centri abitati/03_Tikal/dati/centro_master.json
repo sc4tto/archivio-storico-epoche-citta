@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Tikal — modulo multi-grafo",
+    "short_name": "Tikal",
+    "site": "Parco nazionale di Tikal",
+    "modern_location": "Petén, Guatemala",
+    "coordinates": {
+      "lat": 17.222,
+      "lon": -89.6237
+    },
+    "scope": "Grande centro maya delle basse terre, occupato dal Preclassico e divenuto nel P3 una capitale dinastica con templi, palazzi, piazze, sacbé, serbatoi, iscrizioni e relazioni estese fino al Messico centrale.",
+    "version": "1.0-blocco_33_p3_mesoamerica_5_centri_v1",
+    "warning": "Gran parte delle strutture oggi più alte appartiene a fasi posteriori al 500 d.C. Il rapporto con Teotihuacan, specialmente l’evento del 378, non equivale automaticamente a una conquista o colonia nel senso moderno."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "TIKAL_UNESCO",
+      "title": "UNESCO — Tikal National Park",
+      "url": "https://whc.unesco.org/en/list/64/",
+      "use": "cronologia, città, paesaggio e iscrizioni"
+    },
+    {
+      "id": "TIKAL_PACUNAM",
+      "title": "PACUNAM — Maya Biosphere archaeological research",
+      "url": "https://pacunam.org/",
+      "use": "paesaggio, telerilevamento e insediamenti"
+    },
+    {
+      "id": "TIKAL_MARTIN",
+      "title": "Simon Martin e Nikolai Grube — Chronicle of the Maya Kings and Queens",
+      "url": "https://search.worldcat.org/search?q=Chronicle+Maya+Kings+Queens+Martin+Grube",
+      "use": "dinastie e iscrizioni"
+    }
+  ]
+}

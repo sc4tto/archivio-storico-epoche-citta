@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Wellington capitale, del welfare e della guerra",
+    "site": "Wellington capitale, del welfare e della guerra",
+    "modern_location": "Wellington, Aotearoa Nuova Zelanda",
+    "coordinates": {
+      "lat": -41.2866,
+      "lon": 174.7756
+    },
+    "scope": "Wellington fra 1900 e 1945: capitale nazionale, porto, tram elettrici, sciopero del 1913, influenza del 1918, crescita del servizio pubblico, Centennial Exhibition e guerra nel Pacifico.",
+    "version": "1.0",
+    "warning": "Sono escluse l’espansione autostradale, i grandi interventi portuali postbellici e la ristrutturazione amministrativa successiva al 1945."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "WE1",
+      "title": "Wellington City Archives",
+      "use": "Mappe, fotografie, infrastrutture e amministrazione municipale.",
+      "url": "https://archivesonline.wcc.govt.nz/"
+    },
+    {
+      "id": "WE2",
+      "title": "Te Ara — Wellington region",
+      "use": "Storia regionale, capitale, porto e società.",
+      "url": "https://teara.govt.nz/en/wellington-region"
+    },
+    {
+      "id": "WE3",
+      "title": "NZHistory — Ministry for Culture and Heritage",
+      "use": "Parlamento, scioperi, influenza, welfare e guerre.",
+      "url": "https://nzhistory.govt.nz/"
+    },
+    {
+      "id": "WE4",
+      "title": "National Library of New Zealand",
+      "use": "Giornali, fotografie e archivi della capitale.",
+      "url": "https://natlib.govt.nz/"
+    },
+    {
+      "id": "WE5",
+      "title": "Museum of New Zealand Te Papa Tongarewa",
+      "use": "Cultura materiale, Māori, guerra e vita urbana.",
+      "url": "https://www.tepapa.govt.nz/"
+    }
+  ]
+}

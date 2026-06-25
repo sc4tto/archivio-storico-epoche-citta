@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Pachacamac fra Ychma e Inca",
+    "site": "Santuario di Pachacamac",
+    "modern_location": "Lurín, Lima, Perù",
+    "coordinates": {
+      "lat": -12.2553,
+      "lon": -76.9003
+    },
+    "scope": "Pachacamac fra 1000 e 1500: sviluppo Ychma, pellegrinaggio regionale, piramidi con rampa e successiva incorporazione inca nel tardo XV secolo.",
+    "version": "1.0",
+    "warning": "La funzione politica delle singole piramidi con rampa e il grado di controllo inca sono presentati con livelli di certezza distinti. Le visite spagnole del 1533 sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "PA1",
+      "title": "Museo de Sitio Pachacamac — Ministerio de Cultura",
+      "use": "Sequenza culturale, collezioni, architettura e uso rituale del santuario.",
+      "url": "https://museos.cultura.pe/museos/museo-de-sitio-pachacamac"
+    },
+    {
+      "id": "PA2",
+      "title": "Museo Pachacamac — sitio oficial",
+      "use": "Ricerca, conservazione e percorsi archeologici.",
+      "url": "https://pachacamac.cultura.pe/"
+    },
+    {
+      "id": "PA3",
+      "title": "Metropolitan Museum — Ancient Andean Art",
+      "use": "Contesto artistico e religioso delle società costiere andine.",
+      "url": "https://www.metmuseum.org/toah/hd/ande/hd_ande.htm"
+    },
+    {
+      "id": "PA4",
+      "title": "UNESCO — Qhapaq Ñan, Andean Road System",
+      "use": "Connessioni stradali e integrazione del santuario nelle reti inca.",
+      "url": "https://whc.unesco.org/en/list/1459/"
+    },
+    {
+      "id": "PA5",
+      "title": "Encyclopaedia Britannica — Pachacamac",
+      "use": "Santuario, oracolo e continuità religiosa.",
+      "url": "https://www.britannica.com/place/Pachacamac"
+    }
+  ]
+}

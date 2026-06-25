@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Daima — modulo multi-grafo",
+    "short_name": "Daima",
+    "site": "Tell di Daima nel bacino del lago Ciad",
+    "modern_location": "Stato di Borno, Nigeria",
+    "coordinates": {
+      "lat": 12.19,
+      "lon": 14.66
+    },
+    "scope": "Insediamento a tell del bacino del lago Ciad con una lunga sequenza stratigrafica, comprendente nel P3 comunità agricole e pastorali, pesca, ceramica, figurine, sepolture e l’introduzione graduale del ferro.",
+    "version": "1.0-blocco_32_p3_africa_subsahariana_5_centri_v1",
+    "warning": "La sequenza di Daima prosegue ben oltre il 500 d.C.; il modulo limita il focus alle fasi Daima I e alla parte iniziale di Daima II. Alcune interpretazioni economiche derivano da campioni di scavo limitati."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "DAIMA_CONNAH",
+      "title": "Graham Connah — Three Thousand Years in Africa",
+      "url": "https://search.worldcat.org/search?q=Three+Thousand+Years+in+Africa+Connah",
+      "use": "sequenza stratigrafica e ambiente del bacino del Ciad"
+    },
+    {
+      "id": "DAIMA_JAH",
+      "title": "Connah — The Daima Sequence and Prehistoric Chronology",
+      "url": "https://www.cambridge.org/core/journals/journal-of-african-history",
+      "use": "cronologia e materiali"
+    },
+    {
+      "id": "DAIMA_OXFORD",
+      "title": "Oxford Research Encyclopedia — Lake Chad archaeology",
+      "url": "https://oxfordre.com/africanhistory",
+      "use": "contesto regionale e reti"
+    }
+  ]
+}

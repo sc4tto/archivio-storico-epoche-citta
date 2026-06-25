@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Le vecchie datazioni molto anteriori per Hane sono state ridiscusse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "HA1; HA2"
+  },
+  {
+    "claim": "Le evidenze più affidabili collocano l’occupazione iniziale intorno al 1000 o poco dopo.",
+    "theme": "cronologia",
+    "status": "sintesi",
+    "source": "HA1; HA2; HA3"
+  },
+  {
+    "claim": "I primi abitanti sfruttavano intensamente pesci, molluschi e uccelli.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "HA2; HA3"
+  },
+  {
+    "claim": "Ami, ossa lavorate e utensili documentano attività specializzate.",
+    "theme": "artigianato",
+    "status": "documentato",
+    "source": "HA2"
+  },
+  {
+    "claim": "L’introduzione di colture e animali accompagnò la colonizzazione.",
+    "theme": "agricoltura",
+    "status": "sintesi",
+    "source": "HA1; HA3"
+  },
+  {
+    "claim": "La navigazione collegava rapidamente le isole dell’arcipelago.",
+    "theme": "commercio",
+    "status": "sintesi",
+    "source": "HA1; HA3"
+  },
+  {
+    "claim": "Le strutture deperibili del primo insediamento sono ricostruite soprattutto per inferenza.",
+    "theme": "certezza",
+    "status": "inferito",
+    "source": "HA2"
+  },
+  {
+    "claim": "Hane è un sito di confine cronologico fra P4 e P5.",
+    "theme": "periodizzazione",
+    "status": "sintesi",
+    "source": "HA1; HA2; HA3"
+  }
+]

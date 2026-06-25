@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Boston rimase un importante porto e centro commerciale del New England.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "BO1; BO4"
+  },
+  {
+    "claim": "Abolizionismo e comunità afroamericane ebbero un ruolo centrale nella città.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "BO2; BO4"
+  },
+  {
+    "claim": "L’immigrazione irlandese trasformò popolazione, lavoro e politica urbana.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "BO3; BO4"
+  },
+  {
+    "claim": "Back Bay fu sviluppata mediante vasti riempimenti costieri.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "BO3; BO4"
+  },
+  {
+    "claim": "La Tremont Street Subway aprì nel 1897.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "BO5"
+  },
+  {
+    "claim": "Acquedotti e fognature risposero a crescita ed epidemie.",
+    "theme": "sanità",
+    "status": "documentato",
+    "source": "BO3; BO4"
+  },
+  {
+    "claim": "Nativismo, segregazione e sovraffollamento accompagnarono l’espansione.",
+    "theme": "conflitti",
+    "status": "documentato",
+    "source": "BO2; BO4"
+  },
+  {
+    "claim": "Le trasformazioni successive al 1900 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "BO3; BO5"
+  }
+]

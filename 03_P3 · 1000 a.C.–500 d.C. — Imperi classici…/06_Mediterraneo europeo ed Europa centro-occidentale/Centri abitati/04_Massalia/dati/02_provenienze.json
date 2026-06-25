@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Massalia / Marsiglia",
+      "lat": 43.297,
+      "lon": 5.37,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "lacydon",
+      "label": "Lacydon / Porto Vecchio",
+      "lat": 43.295,
+      "lon": 5.368,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "bourse",
+      "label": "Jardin des Vestiges",
+      "lat": 43.299,
+      "lon": 5.375,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "rhone",
+      "label": "Valle del Rodano",
+      "lat": 44.0,
+      "lon": 4.8,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "etruria",
+      "label": "Etruria",
+      "lat": 42.5,
+      "lon": 11.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "phocaea",
+      "label": "Focea e Ionia",
+      "lat": 38.67,
+      "lon": 26.76,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "lacydon",
+      "target": "site",
+      "label": "approdi, cantieri e magazzini",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "bourse",
+      "target": "site",
+      "label": "mura, porto e necropoli",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "rhone",
+      "target": "site",
+      "label": "vino, ceramiche, metalli e scambi gallici",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "etruria",
+      "target": "site",
+      "label": "vino, ceramiche e relazioni tirreniche",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "phocaea",
+      "target": "site",
+      "label": "fondazione, tradizioni e reti ioniche",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

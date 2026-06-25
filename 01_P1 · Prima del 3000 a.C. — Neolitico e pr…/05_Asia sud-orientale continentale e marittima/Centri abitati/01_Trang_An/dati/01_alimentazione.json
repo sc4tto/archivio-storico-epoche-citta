@@ -1,0 +1,228 @@
+{
+  "nodes": [
+    {
+      "id": "env1",
+      "label": "Valli carsiche e grotte",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "env2",
+      "label": "Zone umide, corsi d’acqua e antiche coste",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "env3",
+      "label": "Foresta tropicale e versanti calcarei",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "crop1",
+      "label": "Molluschi terrestri e d’acqua dolce",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "crop2",
+      "label": "Pesci, crostacei e risorse acquatiche",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "animal",
+      "label": "Mammiferi di piccola e media taglia",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "aquatic",
+      "label": "Frutti, noci, tuberi e semi selvatici",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "wild",
+      "label": "Uccelli e altre risorse forestali",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "cultivate",
+      "label": "Raccolta stagionale",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "herd",
+      "label": "Pesca, cattura e caccia",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "fishhunt",
+      "label": "Gestione flessibile di più habitat",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "grind",
+      "label": "Frantumazione e taglio",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "cook",
+      "label": "Cottura su focolari",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "store",
+      "label": "Accumulo in conchiglieri e depositi",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "butcher",
+      "label": "Macellazione e trattamento delle prede",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "meals",
+      "label": "Pasti misti di foresta e zone umide",
+      "layer": 4,
+      "status": "inferito"
+    },
+    {
+      "id": "evidence",
+      "label": "Conchiglie, ossa, semi, strumenti e focolari",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "refuse",
+      "label": "Middens e residui stratificati",
+      "layer": 4,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "env1",
+      "target": "crop1",
+      "label": "ambiente produttivo",
+      "status": "sintesi"
+    },
+    {
+      "source": "env1",
+      "target": "crop2",
+      "label": "ambiente produttivo",
+      "status": "sintesi"
+    },
+    {
+      "source": "env2",
+      "target": "aquatic",
+      "label": "risorse acquatiche",
+      "status": "sintesi"
+    },
+    {
+      "source": "env3",
+      "target": "animal",
+      "label": "pascolo o gestione animale",
+      "status": "inferito"
+    },
+    {
+      "source": "env3",
+      "target": "wild",
+      "label": "raccolta e caccia",
+      "status": "sintesi"
+    },
+    {
+      "source": "crop1",
+      "target": "cultivate",
+      "label": "produzione o raccolta",
+      "status": "sintesi"
+    },
+    {
+      "source": "crop2",
+      "target": "cultivate",
+      "label": "produzione o raccolta",
+      "status": "sintesi"
+    },
+    {
+      "source": "animal",
+      "target": "herd",
+      "label": "gestione animale",
+      "status": "sintesi"
+    },
+    {
+      "source": "aquatic",
+      "target": "fishhunt",
+      "label": "pesca e raccolta",
+      "status": "sintesi"
+    },
+    {
+      "source": "wild",
+      "target": "fishhunt",
+      "label": "caccia e raccolta",
+      "status": "sintesi"
+    },
+    {
+      "source": "cultivate",
+      "target": "grind",
+      "label": "trasformazione vegetale",
+      "status": "documentato"
+    },
+    {
+      "source": "cultivate",
+      "target": "store",
+      "label": "conservazione",
+      "status": "sintesi"
+    },
+    {
+      "source": "herd",
+      "target": "butcher",
+      "label": "prodotti animali",
+      "status": "sintesi"
+    },
+    {
+      "source": "fishhunt",
+      "target": "butcher",
+      "label": "trattamento delle prede",
+      "status": "inferito"
+    },
+    {
+      "source": "grind",
+      "target": "meals",
+      "label": "preparazione",
+      "status": "inferito"
+    },
+    {
+      "source": "cook",
+      "target": "meals",
+      "label": "cottura",
+      "status": "inferito"
+    },
+    {
+      "source": "store",
+      "target": "evidence",
+      "label": "contenitori e fosse",
+      "status": "documentato"
+    },
+    {
+      "source": "butcher",
+      "target": "evidence",
+      "label": "resti faunistici",
+      "status": "sintesi"
+    },
+    {
+      "source": "cook",
+      "target": "refuse",
+      "label": "cenere e residui",
+      "status": "sintesi"
+    }
+  ]
+}

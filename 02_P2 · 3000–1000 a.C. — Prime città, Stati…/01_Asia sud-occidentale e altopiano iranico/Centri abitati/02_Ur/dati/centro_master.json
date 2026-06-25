@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Ur — modulo multi-grafo",
+    "short_name": "Ur",
+    "site": "Città di Ur / Tell el-Muqayyar",
+    "modern_location": "Governatorato di Dhi Qar, Iraq",
+    "coordinates": {
+      "lat": 30.9625,
+      "lon": 46.1031
+    },
+    "scope": "Città sumera con porto e canali, quartieri residenziali, templi, cimitero reale, grandi archivi e la capitale della III dinastia di Ur nel tardo III millennio a.C.",
+    "version": "1.0-blocco_13_p2_asia_so_5_centri_v1",
+    "warning": "Il celebre ziggurat nella forma oggi riconoscibile appartiene soprattutto alla fase Ur III e a restauri successivi. Il porto antico non è completamente scavato."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "AHWAR_UNESCO",
+      "title": "UNESCO — The Ahwar of Southern Iraq and the Mesopotamian Cities",
+      "url": "https://whc.unesco.org/en/list/1481/",
+      "use": "contesto urbano, paesaggio umido e architettura"
+    },
+    {
+      "id": "PENN_UR",
+      "title": "Penn Museum — Ur of the Chaldees: A Virtual Vision of Woolley’s Excavations",
+      "url": "https://www.penn.museum/sites/ur/",
+      "use": "scavi, cimitero reale, quartieri e reperti"
+    },
+    {
+      "id": "BM_UR",
+      "title": "British Museum — The Royal Cemetery at Ur",
+      "url": "https://www.britishmuseum.org/research/projects/ur-online",
+      "use": "documentazione degli scavi e delle collezioni di Ur"
+    }
+  ]
+}

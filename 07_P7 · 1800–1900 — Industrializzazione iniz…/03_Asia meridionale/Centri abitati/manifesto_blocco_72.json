@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_72_P7_Asia_Meridionale_5_Centri_v1",
+  "macroregion": "Asia meridionale",
+  "centers": [
+    "01_Calcutta_Coloniale_Imperiale",
+    "02_Bombay_Porto_Industriale",
+    "03_Madras_Presidenza_Porto",
+    "04_Delhi_Mughal_Coloniale",
+    "05_Lahore_Sikh_Coloniale"
+  ],
+  "uses_central_assets": true
+}

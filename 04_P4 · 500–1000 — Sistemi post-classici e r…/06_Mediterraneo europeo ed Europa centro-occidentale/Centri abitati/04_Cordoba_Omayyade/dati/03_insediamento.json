@@ -1,0 +1,74 @@
+{
+  "phases": [
+    "500–711",
+    "711–756",
+    "756–929",
+    "929–1000"
+  ],
+  "items": [
+    {
+      "id": "qt1",
+      "label": "Città tardoantica e visigota",
+      "lane": "Abitato",
+      "start": 0,
+      "end": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "qt2",
+      "label": "Conquista islamica e riorganizzazione amministrativa",
+      "lane": "Politica",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "qt3",
+      "label": "Capitale dell’emirato omayyade dal 756",
+      "lane": "Politica",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "qt4",
+      "label": "Ampliamenti della Grande Moschea",
+      "lane": "Culto",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "qt5",
+      "label": "Ponti, mercati, bagni e quartieri artigiani",
+      "lane": "Infrastrutture",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "qt6",
+      "label": "Canali, norie, orti e almunias",
+      "lane": "Paesaggio",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "qt7",
+      "label": "Califfato dal 929 e Madinat al-Zahra",
+      "lane": "Corte",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "qt8",
+      "label": "Biblioteche, medicina e cultura scritta del X secolo",
+      "lane": "Cultura",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    }
+  ]
+}

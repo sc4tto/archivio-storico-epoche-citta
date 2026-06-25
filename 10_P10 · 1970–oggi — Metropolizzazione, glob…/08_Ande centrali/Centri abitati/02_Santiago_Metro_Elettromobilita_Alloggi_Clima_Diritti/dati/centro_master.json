@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Santiago, metro, elettromobilità, alloggi, clima e diritti",
+    "site": "Santiago, metro, elettromobilità, alloggi, clima e diritti",
+    "modern_location": "Santiago del Cile, Cile",
+    "coordinates": {
+      "lat": -33.4489,
+      "lon": -70.6693
+    },
+    "scope": "Santiago dal 1970 al 25 giugno 2026: apertura della metropolitana nel 1975, espansione urbana e autostradale, dittatura militare e repressione, riforma Transantiago dal 2007, integrazione Red Movilidad, elettrificazione degli autobus, segregazione residenziale, crisi degli alloggi, smog, siccità, calore e mobilitazioni sociali del 2019.",
+    "version": "1.0",
+    "warning": "Il Piano regionale climatico con obiettivi 2030 e 2050 è registrato come piano futuro; le espansioni di trasporto non operative al 25 giugno 2026 non sono presentate come concluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SA1",
+      "title": "World Bank — Urban Transport Reform: The Santiago Experience",
+      "use": "Transantiago, integrazione dei trasporti e criticità della riforma metropolitana.",
+      "url": "https://www.worldbank.org/en/results/2013/04/11/Urban-Transport-in-Santiago"
+    },
+    {
+      "id": "SA2",
+      "title": "Red Metropolitana de Movilidad — sistema integrato",
+      "use": "Integrazione tariffaria fra autobus, Metro e treno suburbano e transizione elettrica.",
+      "url": "https://www.red.cl/acerca-de-red/que-es-red/"
+    },
+    {
+      "id": "SA3",
+      "title": "Ministerio del Medio Ambiente — Plan de Acción Regional de Cambio Climático de Santiago",
+      "use": "Calore, scarsità idrica, inquinamento e obiettivi del piano climatico regionale al 2030–2050.",
+      "url": "https://cambioclimatico.mma.gob.cl/recursos/view/279"
+    },
+    {
+      "id": "SA4",
+      "title": "OHCHR — rapporto sulla crisi sociale cilena del 2019",
+      "use": "Uso della forza, violazioni dei diritti umani, disuguaglianze e riforme istituzionali.",
+      "url": "https://www.ohchr.org/en/press-releases/2019/12/un-human-rights-office-report-chile-crisis-describes-multiple-police"
+    }
+  ]
+}

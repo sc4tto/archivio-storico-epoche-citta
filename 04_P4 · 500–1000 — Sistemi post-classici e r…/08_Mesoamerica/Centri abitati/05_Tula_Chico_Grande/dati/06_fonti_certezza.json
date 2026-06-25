@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Tula Chico precedette lo sviluppo monumentale di Tula Grande.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "L1; L4; L5"
+  },
+  {
+    "claim": "La crescita di Tula Grande iniziò intorno al IX-X secolo e proseguì dopo il 1000.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "L1; L4"
+  },
+  {
+    "claim": "La città occupava un corridoio strategico fra Bacino del Messico, Bajío e regioni orientali.",
+    "theme": "commercio",
+    "status": "documentato",
+    "source": "L3; L4"
+  },
+  {
+    "claim": "Quartieri residenziali e artigianali erano parte integrante del sistema urbano.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "L4; L5"
+  },
+  {
+    "claim": "Pietra vulcanica, stucco, adobe e legno convergevano nelle stesse strutture monumentali e domestiche.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "L1; L5"
+  },
+  {
+    "claim": "Le relazioni con Chichén Itzá sono reali sul piano comparativo ma non dimostrano una conquista unidirezionale.",
+    "theme": "interpretazione",
+    "status": "documentato",
+    "source": "L3"
+  },
+  {
+    "claim": "La produzione e il consumo di bevande di maguey nel X secolo sono plausibili ma difficili da quantificare.",
+    "theme": "alimentazione",
+    "status": "sintesi",
+    "source": "L4; L5"
+  },
+  {
+    "claim": "Le narrazioni azteche su Tollan sono fonti tarde e non equivalgono a cronache contemporanee.",
+    "theme": "certezza",
+    "status": "documentato",
+    "source": "L2; L4"
+  }
+]

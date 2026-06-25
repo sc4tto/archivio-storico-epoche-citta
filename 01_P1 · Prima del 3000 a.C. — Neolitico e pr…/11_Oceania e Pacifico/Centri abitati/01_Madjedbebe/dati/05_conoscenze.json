@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Madjedbebe",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Piante tropicali",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Semi e tuberi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Pandanus",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Macinazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Litica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Scheggiatura",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Asce levigate",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Macine",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Pigmenti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Ocra",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Additivi riflettenti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Applicazione simbolica",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Zone umide",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Stagionalità",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_2",
+          "label": "Fauna acquatica",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Mobilità",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Fuoco",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Focolari",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Cottura",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Gestione del combustibile",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Organizzazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Piccoli gruppi",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_2",
+          "label": "Trasmissione tecnica",
+          "status": "inferito"
+        },
+        {
+          "id": "k6_3",
+          "label": "Gerarchie permanenti",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

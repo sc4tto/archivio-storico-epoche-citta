@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Città del Guatemala",
+      "lat": 14.6349,
+      "lon": -90.5069,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "mix",
+      "label": "Mixco e comuni occidentali",
+      "lat": 14.63,
+      "lon": -90.61,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "sur",
+      "label": "Villa Nueva e Mancomunidad del Sur",
+      "lat": 14.52,
+      "lon": -90.59,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "sac",
+      "label": "Sacatepéquez e Chimaltenango",
+      "lat": 14.65,
+      "lon": -90.85,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "alt",
+      "label": "Altiplano occidentale",
+      "lat": 14.85,
+      "lon": -91.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "pac",
+      "label": "Costa del Pacifico",
+      "lat": 14.0,
+      "lon": -91.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "reg",
+      "label": "Caraibi, Messico e Centroamerica",
+      "lat": 16.0,
+      "lon": -89.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "mix",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "mercati, autobus e distribuzione",
+      "food": "verdure, pane, latticini e pendolari"
+    },
+    {
+      "source": "sur",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoi stradali e CENMA",
+      "food": "mais, fagioli, carne e ortaggi"
+    },
+    {
+      "source": "sac",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "camion e reti agricole",
+      "food": "verdure, frutta, caffè e latticini"
+    },
+    {
+      "source": "alt",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "commercio nazionale e migrazioni",
+      "food": "mais, patate, fagioli e tessuti"
+    },
+    {
+      "source": "pac",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "autostrade verso la costa",
+      "food": "zucchero, frutta, pesce e oli"
+    },
+    {
+      "source": "reg",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porti e commercio regionale",
+      "food": "grano, carburanti, ingredienti e alimenti confezionati"
+    }
+  ]
+}

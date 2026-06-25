@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Città pallava iniziale",
+    "Monumenti rupestri e strutturali",
+    "Kailasanatha e Vaikuntha Perumal",
+    "Transizione pallava-chola",
+    "Espansioni del X secolo"
+  ],
+  "items": [
+    {
+      "id": "kaila",
+      "label": "Tempio Kailasanatha",
+      "lane": "Religiose",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "vaikuntha",
+      "label": "Tempio Vaikuntha Perumal",
+      "lane": "Religiose",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "monasteries",
+      "label": "Istituzioni buddhiste e giainiste",
+      "lane": "Religiose",
+      "start": 0,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "quarters",
+      "label": "Quartieri di sacerdoti e artigiani",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "markets",
+      "label": "Mercati e produzione tessile",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "tanks",
+      "label": "Vasche, pozzi e canali",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "later",
+      "label": "Ampliamenti chola e posteriori",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

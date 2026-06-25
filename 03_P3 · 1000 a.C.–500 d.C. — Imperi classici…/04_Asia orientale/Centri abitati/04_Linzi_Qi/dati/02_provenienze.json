@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Linzi antica",
+      "lat": 36.82,
+      "lon": 118.3,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "zi",
+      "label": "Fiume Zi",
+      "lat": 36.82,
+      "lon": 118.36,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "coast",
+      "label": "Costa e saline dello Shandong",
+      "lat": 37.1,
+      "lon": 119.5,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "luoyang",
+      "label": "Luoyang",
+      "lat": 34.735,
+      "lon": 112.625,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "yan",
+      "label": "Regione di Yan",
+      "lat": 39.9,
+      "lon": 116.4,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "chu",
+      "label": "Regione di Chu",
+      "lat": 31.0,
+      "lon": 112.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "zi",
+      "target": "site",
+      "label": "acqua, agricoltura e trasporto locale",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "coast",
+      "target": "site",
+      "label": "sale, pesce e commerci costieri",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "luoyang",
+      "target": "site",
+      "label": "moneta, funzionari e reti imperiali",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "yan",
+      "target": "site",
+      "label": "cavalli, metalli e rapporti settentrionali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "chu",
+      "target": "site",
+      "label": "lacca, tessili e scambi meridionali",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

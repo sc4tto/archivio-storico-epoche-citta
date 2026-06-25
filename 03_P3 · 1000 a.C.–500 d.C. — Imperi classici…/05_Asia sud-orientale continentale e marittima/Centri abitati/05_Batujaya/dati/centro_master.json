@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Batujaya — modulo multi-grafo",
+    "short_name": "Batujaya",
+    "site": "Complesso archeologico di Batujaya nella pianura costiera di Karawang",
+    "modern_location": "Giava occidentale, Indonesia",
+    "coordinates": {
+      "lat": -6.06,
+      "lon": 107.17
+    },
+    "scope": "Ampio paesaggio di tumuli, strutture in mattoni, insediamenti e aree rituali nella pianura costiera di Giava occidentale, con fasi dal periodo Buni all’età di Tarumanagara e collegamenti alle rotte del Mar di Giava.",
+    "version": "1.0-blocco_30_p3_asia_sud_orientale_5_centri_v1",
+    "warning": "Le cronologie delle singole strutture variano e alcune ricostruzioni anticipano la datazione oltre il consenso disponibile. Il rapporto diretto con il regno di Tarumanagara è plausibile ma non dimostrato per ogni edificio o fase."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "BATU_BPCB",
+      "title": "Indonesian Cultural Heritage — Batujaya temple complex",
+      "url": "https://kebudayaan.kemdikbud.go.id/bpcbbanten/kompleks-percandian-batujaya/",
+      "use": "patrimonio, strutture e conservazione"
+    },
+    {
+      "id": "BATU_MUNJANA",
+      "title": "Batujaya Archaeological Research reports",
+      "url": "https://search.worldcat.org/search?q=Batujaya+archaeology+Indonesia",
+      "use": "scavi, cronologia e cultura materiale"
+    },
+    {
+      "id": "BATU_MANGUIN",
+      "title": "Early Interactions between South and Southeast Asia",
+      "url": "https://search.worldcat.org/search?q=Early+Interactions+South+Southeast+Asia",
+      "use": "reti religiose e commerciali di Giava occidentale"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "La Grande Khartoum è una conurbazione formata da Khartoum, Omdurman e Khartoum North.",
+    "theme": "urbanizzazione",
+    "status": "documentato",
+    "source": "KH1"
+  },
+  {
+    "claim": "La crescita rapida ha prodotto vaste periferie informali e insediamenti di persone sfollate.",
+    "theme": "abitazione",
+    "status": "documentato",
+    "source": "KH1"
+  },
+  {
+    "claim": "L’accesso all’acqua potabile era già insufficiente prima della guerra iniziata nel 2023.",
+    "theme": "acqua",
+    "status": "documentato",
+    "source": "KH2"
+  },
+  {
+    "claim": "La guerra ha distrutto infrastrutture e provocato sfollamenti di massa e collasso dei servizi.",
+    "theme": "conflitto",
+    "status": "documentato",
+    "source": "KH3"
+  },
+  {
+    "claim": "Ad aprile 2026 la mobilità forzata sudanese restava una crisi aperta e non risolta.",
+    "theme": "sfollamento",
+    "status": "documentato",
+    "source": "KH4"
+  },
+  {
+    "claim": "Khartoum, crescita informale, guerra, sfollamenti e ritorni è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "La guerra urbana, gli attacchi contro civili, il saccheggio, la repressione militare, gli sfollamenti forzati e i ritorni senza servizi non sono neutralizzati come semplici “fasi di trasformazione”; residenti, rifugiati e reti civiche sono soggetti politici con diritti.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

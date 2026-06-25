@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Surat",
+      "lat": 21.1702,
+      "lon": 72.8311,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "tap",
+      "label": "Valle del Tapi",
+      "lat": 21.25,
+      "lon": 73.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "bar",
+      "label": "Bharuch e basso Narmada",
+      "lat": 21.7,
+      "lon": 72.98,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "nav",
+      "label": "Navsari e Gujarat meridionale",
+      "lat": 20.95,
+      "lon": 72.93,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "dec",
+      "label": "Deccan e Burhanpur",
+      "lat": 21.31,
+      "lon": 76.23,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "hor",
+      "label": "Hormuz, Basra e Golfo Persico",
+      "lat": 26.55,
+      "lon": 56.25,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "red",
+      "label": "Mokha, Gedda e Mar Rosso",
+      "lat": 15.55,
+      "lon": 42.95,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "tap",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiume, strade e mercati rurali",
+      "food": "cereali, zucchero e cotone"
+    },
+    {
+      "source": "bar",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "costa e vie terrestri",
+      "food": "grano, tessili e mercanti"
+    },
+    {
+      "source": "nav",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete del Gujarat meridionale",
+      "food": "riso, frutta e legname"
+    },
+    {
+      "source": "dec",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane verso l’interno",
+      "food": "cotone, indaco, cavalli e metalli"
+    },
+    {
+      "source": "hor",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Oceano Indiano e Golfo",
+      "food": "datteri, cavalli e argento"
+    },
+    {
+      "source": "red",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte del pellegrinaggio",
+      "food": "caffè, spezie e pellegrini"
+    }
+  ]
+}

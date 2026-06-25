@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_58_P5_Oceania_Pacifico_5_Centri_v1",
+  "macroregion": "Oceania e Pacifico",
+  "centers": [
+    "01_Nan_Madol_Saudeleur",
+    "02_Rapa_Nui_Ahu_Moai",
+    "03_Honaunau_Kona_Reale",
+    "04_Wairau_Bar_Te_Pokohiwi",
+    "05_Pouerua_Pa_Northland"
+  ],
+  "uses_central_assets": true
+}

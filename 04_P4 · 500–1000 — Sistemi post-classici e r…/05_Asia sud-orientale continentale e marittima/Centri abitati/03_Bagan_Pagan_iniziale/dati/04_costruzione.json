@@ -1,0 +1,174 @@
+{
+  "nodes": [
+    {
+      "id": "bm_argilla",
+      "label": "Argilla alluvionale",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "bm_legno",
+      "label": "Legno",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "bm_calce",
+      "label": "Calce e stucco",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "bm_terra",
+      "label": "Terra battuta",
+      "layer": 0,
+      "status": "inferito"
+    },
+    {
+      "id": "bo_mattoni",
+      "label": "Produzione di mattoni",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "bo_carp",
+      "label": "Carpenteria",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "bo_intonaco",
+      "label": "Intonacatura e modellazione",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "bo_mura",
+      "label": "Scavo e costruzione difensiva",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "bc_muro",
+      "label": "Murature in laterizio",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "bc_tetto",
+      "label": "Coperture lignee",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "bc_stucco",
+      "label": "Superfici decorate",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "bc_fossato",
+      "label": "Mura e fossati",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "bs_santuari",
+      "label": "Prime strutture buddhiste",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "bs_case",
+      "label": "Case e sale lignee",
+      "layer": 3,
+      "status": "inferito"
+    },
+    {
+      "id": "bs_forte",
+      "label": "Nucleo fortificato",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "bs_tardi",
+      "label": "Templi monumentali successivi al 1000",
+      "layer": 3,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "bm_argilla",
+      "target": "bo_mattoni",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "bm_legno",
+      "target": "bo_carp",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "bm_calce",
+      "target": "bo_intonaco",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "bm_terra",
+      "target": "bo_mura",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "bo_mattoni",
+      "target": "bc_muro",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "bo_carp",
+      "target": "bc_tetto",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "bo_intonaco",
+      "target": "bc_stucco",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "bo_mura",
+      "target": "bc_fossato",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "bc_muro",
+      "target": "bs_santuari",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "bc_tetto",
+      "target": "bs_case",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "bc_fossato",
+      "target": "bs_forte",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "bc_stucco",
+      "target": "bs_tardi",
+      "status": "documentato",
+      "label": ""
+    }
+  ]
+}

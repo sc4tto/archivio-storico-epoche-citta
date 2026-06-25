@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Aksum — modulo multi-grafo",
+    "short_name": "Aksum",
+    "site": "Capitale del regno di Aksum",
+    "modern_location": "Aksum, Tigray, Etiopia",
+    "coordinates": {
+      "lat": 14.132,
+      "lon": 38.719
+    },
+    "scope": "Centro politico e monumentale del regno aksumita, con campi di stele, tombe reali, palazzi, iscrizioni plurilingui, monetazione e reti commerciali collegate al porto di Adulis.",
+    "version": "1.0-blocco_32_p3_africa_subsahariana_5_centri_v1",
+    "warning": "Le strutture medievali o ricostruite non devono essere confuse con il nucleo del I–V secolo. Il rapporto preciso fra città, palazzi, chiese e porto varia nel tempo."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "AKSUM_UNESCO",
+      "title": "UNESCO — Aksum",
+      "url": "https://whc.unesco.org/en/list/15/",
+      "use": "stele, tombe, palazzi e iscrizioni"
+    },
+    {
+      "id": "AKSUM_MET",
+      "title": "The Metropolitan Museum — Aksum",
+      "url": "https://www.metmuseum.org/toah/hd/aksu_1/hd_aksu_1.htm",
+      "use": "monetazione, commercio e religione"
+    },
+    {
+      "id": "AKSUM_BIEA",
+      "title": "British Institute in Eastern Africa",
+      "url": "https://www.biea.ac.uk/",
+      "use": "ricerche archeologiche regionali"
+    }
+  ]
+}

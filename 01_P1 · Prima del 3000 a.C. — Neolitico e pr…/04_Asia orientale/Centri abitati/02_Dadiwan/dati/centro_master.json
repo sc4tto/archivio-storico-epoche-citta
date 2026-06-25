@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Dadiwan — modulo multi-grafo",
+    "short_name": "Dadiwan",
+    "site": "Dadiwan",
+    "modern_location": "Qin’an, provincia di Gansu, Cina",
+    "coordinates": {
+      "lat": 35.0,
+      "lon": 105.9
+    },
+    "scope": "Complesso neolitico di Dadiwan, circa 5800–3000 a.C., con fasi pre-Yangshao e Yangshao",
+    "version": "1.0-blocco_05_p1_asia_orientale_5_centri_v1",
+    "warning": "La sequenza è lunga e comprende diversi tipi di abitazione; le ricostruzioni economiche cambiano sensibilmente fra le fasi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "DADIWAN_PNAS",
+      "title": "Barton et al. — Agricultural origins and the isotopic identity of domestication in northern China",
+      "url": "https://doi.org/10.1073/pnas.0909960106",
+      "use": "sussistenza, miglio, animali e trasformazioni agricole"
+    },
+    {
+      "id": "DADIWAN_CAMBRIDGE",
+      "title": "Liu & Chen — The Archaeology of China",
+      "url": "https://www.cambridge.org/core/books/archaeology-of-china/",
+      "use": "cronologia, insediamento e cultura materiale"
+    },
+    {
+      "id": "CHINA_NEOLITHIC",
+      "title": "Liu — The Chinese Neolithic",
+      "url": "https://www.cambridge.org/core/books/chinese-neolithic/",
+      "use": "quadro comparativo del Neolitico cinese"
+    }
+  ]
+}

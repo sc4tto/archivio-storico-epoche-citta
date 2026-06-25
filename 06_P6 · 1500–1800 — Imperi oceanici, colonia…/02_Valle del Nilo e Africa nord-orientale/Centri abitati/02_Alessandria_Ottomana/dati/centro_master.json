@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Alessandria ottomana",
+    "site": "Alessandria ottomana",
+    "modern_location": "Alessandria, Egitto",
+    "coordinates": {
+      "lat": 31.2001,
+      "lon": 29.9187
+    },
+    "scope": "Alessandria fra 1517 e 1800: porto ottomano, cittadella di Qaitbay in uso, dogane, fondachi, pesca, traffici con il Mediterraneo e collegamenti nilotici.",
+    "version": "1.0",
+    "warning": "Il modulo non retrodata la grande espansione ottocentesca. Molte strutture antiche e medievali erano riutilizzate o in rovina durante il periodo ottomano."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "AL1",
+      "title": "Encyclopaedia Britannica — Alexandria",
+      "use": "Storia urbana, porto e trasformazioni della città.",
+      "url": "https://www.britannica.com/place/Alexandria-Egypt"
+    },
+    {
+      "id": "AL2",
+      "title": "UNESCO Tentative List — Alexandria",
+      "use": "Patrimonio urbano e marittimo della città.",
+      "url": "https://whc.unesco.org/en/tentativelists/1822/"
+    },
+    {
+      "id": "AL3",
+      "title": "Archnet — Qaitbay Citadel",
+      "use": "Fortificazione del porto e uso ottomano del complesso.",
+      "url": "https://www.archnet.org/sites/2057"
+    },
+    {
+      "id": "AL4",
+      "title": "The Metropolitan Museum of Art — Ottoman art",
+      "use": "Contesto materiale e commerciale ottomano.",
+      "url": "https://www.metmuseum.org/toah/hd/otto1/hd_otto1.htm"
+    },
+    {
+      "id": "AL5",
+      "title": "Bibliotheca Alexandrina",
+      "use": "Risorse storiche e culturali sulla città e il porto.",
+      "url": "https://www.bibalex.org/"
+    }
+  ]
+}

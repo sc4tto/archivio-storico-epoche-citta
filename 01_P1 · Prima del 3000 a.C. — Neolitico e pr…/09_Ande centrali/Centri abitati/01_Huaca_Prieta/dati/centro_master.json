@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Huaca Prieta — modulo multi-grafo",
+    "short_name": "Huaca Prieta",
+    "site": "Insediamento preceramico di Huaca Prieta",
+    "modern_location": "Valle del Chicama, La Libertad, Perù",
+    "coordinates": {
+      "lat": -7.93,
+      "lon": -79.3
+    },
+    "scope": "Sequenza costiera di lunga durata, dalle frequentazioni pleistoceniche e oloceniche iniziali fino al villaggio preceramico con pesca, raccolta marina, fibre vegetali, tessili e architetture seminterrate.",
+    "version": "1.0-blocco_10_p1_ande_centrali_5_centri_v1",
+    "warning": "Le fasi più antiche furono intermittenti e non vanno confuse con il successivo insediamento stabile. Tecnologie, dieta e strutture cambiarono lungo una sequenza molto estesa."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "HUACA_QR",
+      "title": "Dillehay et al. — A late Pleistocene human presence at Huaca Prieta, Peru, and early Pacific Coastal adaptations",
+      "url": "https://doi.org/10.1017/qua.2016.3",
+      "use": "cronologia delle fasi antiche e adattamenti costieri"
+    },
+    {
+      "id": "HUACA_SCIADV",
+      "title": "Dillehay et al. — Simple technologies and diverse food strategies of the Late Pleistocene and Early Holocene at Huaca Prieta",
+      "url": "https://doi.org/10.1126/sciadv.1602778",
+      "use": "tecnologia litica, risorse marine e terrestri"
+    },
+    {
+      "id": "HUACA_INDIGO",
+      "title": "Splitstoser et al. — Early pre-Hispanic use of indigo blue in Peru",
+      "url": "https://doi.org/10.1126/sciadv.1501623",
+      "use": "tessili di cotone e pigmento indaco nelle fasi preceramiche"
+    }
+  ]
+}

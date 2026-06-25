@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Delhi-Mehrauli",
+      "lat": 28.524,
+      "lon": 77.185,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "yam",
+      "label": "Yamuna",
+      "lat": 28.61,
+      "lon": 77.25,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "sir",
+      "label": "Siri",
+      "lat": 28.55,
+      "lon": 77.22,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "tug",
+      "label": "Tughlaqabad",
+      "lat": 28.51,
+      "lon": 77.26,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "pan",
+      "label": "Punjab",
+      "lat": 31.0,
+      "lon": 75.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "gan",
+      "label": "Piana gangetica",
+      "lat": 27.0,
+      "lon": 80.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "raj",
+      "label": "Rajasthan",
+      "lat": 27.0,
+      "lon": 73.0,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "yam",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "acqua, campi e trasporto",
+      "food": "acqua, cereali e pesce"
+    },
+    {
+      "source": "sir",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete fra capitali sultaniali",
+      "food": "artigiani e merci"
+    },
+    {
+      "source": "tug",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cittadella e bacini",
+      "food": "granaglie e approvvigionamento militare"
+    },
+    {
+      "source": "pan",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Grand Trunk e corridoi nord-occidentali",
+      "food": "cavalli, grano e frutta secca"
+    },
+    {
+      "source": "gan",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "piana del Gange",
+      "food": "riso, zucchero e tessili"
+    },
+    {
+      "source": "raj",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "rotte carovaniere occidentali",
+      "food": "sale, bestiame e pietra"
+    }
+  ]
+}

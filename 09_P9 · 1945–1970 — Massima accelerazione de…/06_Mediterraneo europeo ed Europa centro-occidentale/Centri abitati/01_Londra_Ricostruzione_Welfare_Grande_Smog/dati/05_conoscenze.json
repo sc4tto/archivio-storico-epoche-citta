@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Londra, ricostruzione, welfare e Grande Smog",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Pianificazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "County of London Plan, Greater London Plan, Green Belt e New Towns",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Zonizzazione, ricostruzione, densità e coordinamento metropolitano",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Welfare e servizi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "NHS, scuole, mense, edilizia municipale e assistenza sociale",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Sanità ambientale, smoke control, acqua e fognature",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Economia urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Porto, finanza, manifattura, commercio e amministrazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Distribuzione alimentare, logistica ferroviaria e servizi pubblici",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Sfollati del Blitz, lavoratori, famiglie di council estates e nuovi immigrati",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Sindacati, associazioni locali, chiese e cultura popolare",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Crisi e disuguaglianze",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Inquinamento da carbone, carenza abitativa, sovraffollamento e degrado industriale",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Spostamenti forzati da demolizioni, accesso diseguale all’alloggio e segregazione",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

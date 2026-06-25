@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Kamakura, capitale guerriera e religiosa",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Difesa",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Kiridōshi e controllo degli accessi",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Mobilitazione dei vassalli",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Carpenteria",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Templi e residenze lignee",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Coperture e manutenzione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Porti e strade",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Wakae e cabotaggio",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Tōkaidō e rete del Kantō",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Religione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Zen e grandi monasteri",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Santuari e pellegrinaggi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Governo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Shugo, jitō e vassalli",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Tribunali e amministrazione Hōjō",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

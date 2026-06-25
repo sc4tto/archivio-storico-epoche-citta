@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Lepenski Vir",
+      "lat": 44.5567,
+      "lon": 22.0264,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "danube",
+      "label": "Danubio e vortici locali",
+      "lat": 44.559,
+      "lon": 22.032,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "hinter",
+      "label": "Pendii del Koršo e retroterra",
+      "lat": 44.548,
+      "lon": 22.015,
+      "status": "sintesi",
+      "kind": "locale",
+      "dx": -8,
+      "dy": 28,
+      "anchor": "end"
+    },
+    {
+      "id": "vlasac",
+      "label": "Vlasac e Padina",
+      "lat": 44.62,
+      "lon": 22.08,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 8,
+      "dy": 24,
+      "anchor": "start"
+    },
+    {
+      "id": "starcevo",
+      "label": "Reti Starčevo del medio Danubio",
+      "lat": 44.75,
+      "lon": 21.2,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "aegean",
+      "label": "Primi agricoltori di ascendenza egea",
+      "lat": 41.8,
+      "lon": 23.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "danube",
+      "target": "site",
+      "label": "pesci, acqua e ciottoli",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "hinter",
+      "target": "site",
+      "label": "selvaggina, legno e piante",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "vlasac",
+      "target": "site",
+      "label": "rete di siti delle Porte di Ferro",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "starcevo",
+      "target": "site",
+      "label": "ceramica, animali domestici e contatti",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "aegean",
+      "target": "site",
+      "label": "mobilità di famiglie dei primi agricoltori",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

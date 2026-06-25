@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Paso de la Amada",
+      "lat": 14.84,
+      "lon": -92.34,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "mazatan",
+      "label": "Piana di Mazatán",
+      "lat": 14.9,
+      "lon": -92.35,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "estuaries",
+      "label": "Estuari del Soconusco",
+      "lat": 14.7,
+      "lon": -92.45,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "canton",
+      "label": "Cantón Corralito",
+      "lat": 14.74,
+      "lon": -92.36,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "highlands",
+      "label": "Altopiani del Chiapas",
+      "lat": 15.0,
+      "lon": -92.0,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "gulf",
+      "label": "Costa olmeca del Golfo",
+      "lat": 17.9,
+      "lon": -94.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "mazatan",
+      "target": "site",
+      "label": "campi, villaggi e ceramiche",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "estuaries",
+      "target": "site",
+      "label": "pesce, molluschi e sale",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "canton",
+      "target": "site",
+      "label": "competizione e trasformazione regionale",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "highlands",
+      "target": "site",
+      "label": "ossidiana e pietre",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "gulf",
+      "target": "site",
+      "label": "stili, oggetti e contatti finali",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

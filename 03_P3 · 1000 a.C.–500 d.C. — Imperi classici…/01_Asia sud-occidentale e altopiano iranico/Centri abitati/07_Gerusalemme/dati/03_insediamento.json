@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Età del Ferro",
+    "Periodo persiano",
+    "Periodo ellenistico e asmoneo",
+    "Periodo erodiano e romano",
+    "Tarda antichità"
+  ],
+  "items": [
+    {
+      "id": "walls",
+      "label": "Mura e porte successive",
+      "lane": "Difensive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "water",
+      "label": "Gihon, cisterne e acquedotti",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "temple",
+      "label": "Aree sacre e complessi templari",
+      "lane": "Religiose",
+      "start": 0,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "streets",
+      "label": "Strade, mercati e quartieri",
+      "lane": "Urbanistiche",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "houses",
+      "label": "Case e residenze",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "tombs",
+      "label": "Necropoli rupestri",
+      "lane": "Rituali",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "roman",
+      "label": "Ricostruzione come Aelia Capitolina",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

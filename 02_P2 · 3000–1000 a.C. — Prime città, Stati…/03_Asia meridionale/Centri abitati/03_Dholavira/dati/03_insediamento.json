@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Primo Harappano",
+    "Transizione urbana",
+    "Harappano Maturo",
+    "Fase tarda e riduzione",
+    "Rioccupazioni finali"
+  ],
+  "items": [
+    {
+      "id": "castle",
+      "label": "Castello e bailey fortificati",
+      "lane": "Monumentali",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "middle",
+      "label": "Città media e bassa",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "reservoirs",
+      "label": "Serbatoi, canali e dighe",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "ground",
+      "label": "Area cerimoniale",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "cemetery",
+      "label": "Cimitero e cenotafi",
+      "lane": "Funerarie",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "beads",
+      "label": "Laboratori di perle",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "signboard",
+      "label": "Grande iscrizione di segni",
+      "lane": "Amministrative",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "San Lorenzo",
+      "lat": 17.95,
+      "lon": -94.79,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "teno",
+      "label": "Tenochtitlán",
+      "lat": 17.87,
+      "lon": -94.76,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "potrero",
+      "label": "Potrero Nuevo",
+      "lat": 17.9,
+      "lon": -94.83,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "manati",
+      "label": "El Manatí",
+      "lat": 17.65,
+      "lon": -94.67,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "tuxtlas",
+      "label": "Sierra de los Tuxtlas",
+      "lat": 18.5,
+      "lon": -95.2,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "highlands",
+      "label": "Altopiano messicano",
+      "lat": 19.2,
+      "lon": -98.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "teno",
+      "target": "site",
+      "label": "abitati e aree complementari",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "potrero",
+      "target": "site",
+      "label": "produzione agricola e mobilità locale",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "manati",
+      "target": "site",
+      "label": "offerte e pratiche rituali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "tuxtlas",
+      "target": "site",
+      "label": "basalto monumentale",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "highlands",
+      "target": "site",
+      "label": "ossidiana e pietre verdi",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

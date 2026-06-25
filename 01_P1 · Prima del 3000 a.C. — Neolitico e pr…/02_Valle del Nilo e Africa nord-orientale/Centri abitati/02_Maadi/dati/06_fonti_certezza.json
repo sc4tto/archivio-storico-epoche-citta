@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Maadi appartiene alla tradizione Maadi-Buto del Basso Egitto",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "MAADI_UCL"
+  },
+  {
+    "claim": "Sono documentati contatti materiali con il Levante meridionale",
+    "theme": "Provenienze",
+    "status": "documentato",
+    "source": "MAADI_UCL"
+  },
+  {
+    "claim": "L’abitato comprendeva case leggere e strutture seminterrate",
+    "theme": "Costruzione",
+    "status": "sintesi",
+    "source": "MAADI_UCL"
+  },
+  {
+    "claim": "La necropoli era distinta dall’area abitativa",
+    "theme": "Funerario",
+    "status": "documentato",
+    "source": "MAADI_UCL"
+  },
+  {
+    "claim": "Rame e ceramiche attestano reti non soltanto locali",
+    "theme": "Scambi",
+    "status": "documentato",
+    "source": "MAADI_UCL"
+  },
+  {
+    "claim": "La sostituzione da parte della cultura Naqada fu un singolo evento militare",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Il cambiamento archeologico non dimostra una conquista puntuale"
+  },
+  {
+    "claim": "Le merci levantine includevano grandi quantità di cibo",
+    "theme": "Alimentazione",
+    "status": "non_documentato",
+    "source": "I materiali esotici non quantificano derrate"
+  },
+  {
+    "claim": "Le case seminterrate avevano tutte la stessa funzione",
+    "theme": "Insediamento",
+    "status": "non_documentato",
+    "source": "La funzione varia secondo contesto e fase"
+  }
+]

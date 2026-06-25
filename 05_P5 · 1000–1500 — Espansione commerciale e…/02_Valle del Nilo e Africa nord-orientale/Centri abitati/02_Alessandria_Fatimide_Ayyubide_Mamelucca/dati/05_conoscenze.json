@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Alessandria fatimide, ayyubide e mamelucca",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Pilotaggio e gestione dei porti",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Rotte mediterranee e cabotaggio",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Dogane",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Tariffe, fondachi e consolati",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Controllo mamelucco del commercio",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Acqua",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Cisterne e canali dal Delta",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Gestione delle saline",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Difesa",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Mura e torri costiere",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Cittadella di Qaitbay",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Cantieri navali e falegnameria",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_1",
+          "label": "Lavorazione di tessili e metalli",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

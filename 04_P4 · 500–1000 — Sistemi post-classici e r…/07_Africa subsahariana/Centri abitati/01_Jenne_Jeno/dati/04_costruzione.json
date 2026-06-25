@@ -1,0 +1,174 @@
+{
+  "nodes": [
+    {
+      "id": "m_earth",
+      "label": "Terra cruda e banco",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_clay",
+      "label": "Argilla per mattoni e intonaci",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_wood",
+      "label": "Legno, canne e fibre",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_iron",
+      "label": "Ferro e scorie di lavorazione",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "o_mould",
+      "label": "Impasto e modellazione della terra",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_brick",
+      "label": "Produzione di mattoni cilindrici",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_frame",
+      "label": "Intelaiatura e copertura vegetale",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "o_forge",
+      "label": "Riduzione e forgiatura del ferro",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "c_walls",
+      "label": "Muri, basamenti e pavimenti",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_courses",
+      "label": "Corsi di mattoni e intonaci",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_roof",
+      "label": "Tetti e strutture leggere",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "c_tools",
+      "label": "Utensili, lame e accessori",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "s_houses",
+      "label": "Abitazioni e cortili",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_quarters",
+      "label": "Aggregati e quartieri specializzati",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "s_stores",
+      "label": "Granai e spazi produttivi",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "s_urban",
+      "label": "Paesaggio urbano di tell connessi",
+      "layer": 3,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m_earth",
+      "target": "o_mould",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_mould",
+      "target": "c_walls",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_walls",
+      "target": "s_houses",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_clay",
+      "target": "o_brick",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_brick",
+      "target": "c_courses",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_courses",
+      "target": "s_quarters",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "m_wood",
+      "target": "o_frame",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_frame",
+      "target": "c_roof",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "c_roof",
+      "target": "s_stores",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "m_iron",
+      "target": "o_forge",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "o_forge",
+      "target": "c_tools",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "c_tools",
+      "target": "s_urban",
+      "status": "documentato",
+      "label": ""
+    }
+  ]
+}

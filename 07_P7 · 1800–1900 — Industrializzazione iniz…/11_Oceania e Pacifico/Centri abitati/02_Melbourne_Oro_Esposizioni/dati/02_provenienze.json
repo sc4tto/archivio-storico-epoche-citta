@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Melbourne",
+      "lat": -37.8136,
+      "lon": 144.9631,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "yar",
+      "label": "Yarra Valley",
+      "lat": -37.75,
+      "lon": 145.35,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "bay",
+      "label": "Port Phillip Bay",
+      "lat": -38.1,
+      "lon": 144.9,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "gee",
+      "label": "Geelong e Western District",
+      "lat": -38.15,
+      "lon": 144.35,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "gol",
+      "label": "Ballarat e Bendigo goldfields",
+      "lat": -37.3,
+      "lon": 143.9,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "tas",
+      "label": "Tasmania e South Australia",
+      "lat": -42.0,
+      "lon": 147.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "uk",
+      "label": "Gran Bretagna, Cina e rotte oceaniche",
+      "lat": 51.5,
+      "lon": -0.1,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "yar",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Yarra e strade coloniali",
+      "food": "verdure, legname, latte e acqua"
+    },
+    {
+      "source": "bay",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "baia e docks",
+      "food": "pesce, cabotaggio e servizi portuali"
+    },
+    {
+      "source": "gee",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e ferrovie",
+      "food": "lana, grano e bestiame"
+    },
+    {
+      "source": "gol",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e ferrovie verso i campi auriferi",
+      "food": "oro, migranti, legname e derrate"
+    },
+    {
+      "source": "tas",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cabotaggio coloniale",
+      "food": "legname, farina, frutta e carbone"
+    },
+    {
+      "source": "uk",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "linee oceaniche",
+      "food": "capitali, manufatti, migranti e tè"
+    }
+  ]
+}

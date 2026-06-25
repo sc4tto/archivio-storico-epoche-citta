@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Hemudu",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Ambiente",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Dinamica delle zone umide",
+          "status": "sintesi"
+        },
+        {
+          "id": "k1_2",
+          "label": "Risorse acquatiche",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Legni locali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Gestione del riso",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Strumenti in osso e legno",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Domesticazione completa in ogni fase",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Pesca e raccolta",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Pesca",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Molluschi",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Frutti e noci",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Edilizia lignea",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Pali e incastri",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Impalcati",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Coperture vegetali",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Osso e avorio",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Ceramica",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Lacca",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Organizzazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Manutenzione collettiva",
+          "status": "inferito"
+        },
+        {
+          "id": "k6_2",
+          "label": "Gestione degli spazi umidi",
+          "status": "inferito"
+        },
+        {
+          "id": "k6_3",
+          "label": "Reti del basso Yangtze",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

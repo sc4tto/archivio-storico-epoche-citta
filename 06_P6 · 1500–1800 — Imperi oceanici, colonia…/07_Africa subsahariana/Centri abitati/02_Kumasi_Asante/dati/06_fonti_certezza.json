@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Kumasi divenne il centro politico dell’Asante tra fine XVII e XVIII secolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "KU2; KU3"
+  },
+  {
+    "claim": "La civiltà Asante raggiunse un apogeo nel XVIII secolo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "KU1; KU3"
+  },
+  {
+    "claim": "Gli edifici tradizionali impiegavano terra, legno e paglia.",
+    "theme": "tecniche",
+    "status": "documentato",
+    "source": "KU1"
+  },
+  {
+    "claim": "Oro e kola sostenevano reti commerciali regionali.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "KU3; KU4"
+  },
+  {
+    "claim": "La corte dell’Asantehene organizzava tributo, guerra e cerimoniale.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "KU3"
+  },
+  {
+    "claim": "Mercati e quartieri artigiani concentravano scambi e produzione.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "KU2; KU4"
+  },
+  {
+    "claim": "La decorazione architettonica aveva significati simbolici e rituali.",
+    "theme": "cultura",
+    "status": "documentato",
+    "source": "KU1; KU4"
+  },
+  {
+    "claim": "Le distruzioni e ricostruzioni ottocentesche sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "KU1; KU2"
+  }
+]

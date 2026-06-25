@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Bombay fu uno dei maggiori porti e centri industriali del Raj.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "MU2; MU3"
+  },
+  {
+    "claim": "I mulini cotonieri concentrarono lavoro operaio e quartieri chawl.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "MU2; MU4"
+  },
+  {
+    "claim": "Ferrovie e docks collegarono la città al Deccan e ai mercati globali.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "MU2; MU3"
+  },
+  {
+    "claim": "Le epidemie di peste produssero interventi sanitari e demolizioni.",
+    "theme": "sanità",
+    "status": "documentato",
+    "source": "MU2; MU4"
+  },
+  {
+    "claim": "L’architettura Art Déco si sviluppò soprattutto negli anni Trenta.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "MU1"
+  },
+  {
+    "claim": "Scioperi e campagne nazionaliste ebbero una forte dimensione urbana.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "MU4; MU5"
+  },
+  {
+    "claim": "Il colonialismo e le disuguaglianze segnarono l’accesso a casa e servizi.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "MU2; MU4"
+  },
+  {
+    "claim": "Indipendenza e Partizione del 1947 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "MU2"
+  }
+]

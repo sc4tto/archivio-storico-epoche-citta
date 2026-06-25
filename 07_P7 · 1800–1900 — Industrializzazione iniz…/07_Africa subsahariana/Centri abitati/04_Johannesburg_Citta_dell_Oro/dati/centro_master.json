@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Johannesburg, città dell’oro",
+    "site": "Johannesburg, città dell’oro",
+    "modern_location": "Johannesburg, Sudafrica",
+    "coordinates": {
+      "lat": -26.2041,
+      "lon": 28.0473
+    },
+    "scope": "Johannesburg fra 1886 e 1900: corsa all’oro, campi minerari, centro commerciale, ferrovie, compound, crisi idrica, capitale dei Randlords, conflitto politico degli uitlanders e inizio della guerra sudafricana.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Apartheid legislativo novecentesco, espansione metropolitana, Soweto e trasformazioni successive sono escluse, pur riconoscendo le radici ottocentesche della segregazione."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "JO1",
+      "title": "City of Johannesburg — History",
+      "use": "Fondazione, corsa all’oro e crescita urbana.",
+      "url": "https://www.joburg.org.za/"
+    },
+    {
+      "id": "JO2",
+      "title": "South African History Online — Johannesburg",
+      "use": "Miniere, lavoro, segregazione e società urbana.",
+      "url": "https://www.sahistory.org.za/place/johannesburg"
+    },
+    {
+      "id": "JO3",
+      "title": "Apartheid Museum — Historical context",
+      "use": "Storia del lavoro minerario e della segregazione.",
+      "url": "https://www.apartheidmuseum.org/"
+    },
+    {
+      "id": "JO4",
+      "title": "Wits University Historical Papers",
+      "use": "Archivi minerari, lavoro e città.",
+      "url": "https://www.wits.ac.za/historical-papers/"
+    },
+    {
+      "id": "JO5",
+      "title": "South African Heritage Resources Agency",
+      "use": "Patrimonio minerario e architettonico.",
+      "url": "https://www.sahra.org.za/"
+    }
+  ]
+}

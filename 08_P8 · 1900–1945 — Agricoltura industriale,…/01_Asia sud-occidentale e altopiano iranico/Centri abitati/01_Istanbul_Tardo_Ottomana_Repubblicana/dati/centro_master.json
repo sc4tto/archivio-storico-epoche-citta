@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Istanbul tardo-ottomana e repubblicana",
+    "site": "Istanbul tardo-ottomana e repubblicana",
+    "modern_location": "Istanbul, Turchia",
+    "coordinates": {
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "scope": "Istanbul fra 1900 e 1945: crisi dell’Impero ottomano, rivoluzione dei Giovani Turchi, guerre balcaniche e mondiale, occupazione alleata, nascita della Repubblica, perdita del ruolo di capitale, municipalizzazione e modernizzazione dei trasporti.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1945. Migrazione interna di massa, autostrade, ponti sul Bosforo e metropolizzazione del secondo dopoguerra sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "IS1",
+      "title": "UNESCO — Historic Areas of Istanbul",
+      "use": "Continuità urbana, monumenti e paesaggio storico.",
+      "url": "https://whc.unesco.org/en/list/356/"
+    },
+    {
+      "id": "IS2",
+      "title": "Istanbul Metropolitan Municipality — Atatürk Library",
+      "use": "Mappe, fotografie e fonti municipali.",
+      "url": "https://ataturkkitapligi.ibb.gov.tr/"
+    },
+    {
+      "id": "IS3",
+      "title": "SALT Research — Ottoman and Republican urban archives",
+      "use": "Trasporti, architettura e vita urbana.",
+      "url": "https://archives.saltresearch.org/"
+    },
+    {
+      "id": "IS4",
+      "title": "Encyclopaedia Britannica — Istanbul",
+      "use": "Cronologia politica e sviluppo urbano.",
+      "url": "https://www.britannica.com/place/Istanbul"
+    },
+    {
+      "id": "IS5",
+      "title": "Atatürk Cultural Center / Turkish State Archives",
+      "use": "Transizione imperiale-repubblicana.",
+      "url": "https://www.devletarsivleri.gov.tr/"
+    }
+  ]
+}

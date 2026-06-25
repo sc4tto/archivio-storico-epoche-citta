@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Valle del Bujang — modulo multi-grafo",
+    "short_name": "Valle del Bujang",
+    "site": "Complessi archeologici della valle del Bujang e dell’area di Sungai Batu",
+    "modern_location": "Kedah, Malaysia",
+    "coordinates": {
+      "lat": 5.74,
+      "lon": 100.42
+    },
+    "scope": "Paesaggio portuale e produttivo della costa nord-occidentale della penisola malese, con fiumi navigabili, aree metallurgiche, approdi, depositi, strutture rituali e connessioni con la Baia del Bengala e lo Stretto di Malacca.",
+    "version": "1.0-blocco_30_p3_asia_sud_orientale_5_centri_v1",
+    "warning": "La valle comprende siti e fasi molto differenti. Le datazioni più antiche attribuite ad alcune strutture di Sungai Batu sono oggetto di discussione e non vengono assunte come certe; i templi visibili sono spesso posteriori al limite del P3."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "BUJANG_JMM",
+      "title": "Department of Museums Malaysia — Bujang Valley Archaeological Museum",
+      "url": "https://www.jmm.gov.my/en/museum/bujang-valley-archaeological-museum",
+      "use": "siti, reperti e patrimonio della valle"
+    },
+    {
+      "id": "BUJANG_ALLEN",
+      "title": "Jane Allen — Trade, Transportation, and Tributaries in the Bujang Valley",
+      "url": "https://search.worldcat.org/search?q=Bujang+Valley+trade+transportation+tributaries",
+      "use": "reti commerciali e paesaggio fluviale"
+    },
+    {
+      "id": "BUJANG_MANGUIN",
+      "title": "Early Interactions between South and Southeast Asia",
+      "url": "https://search.worldcat.org/search?q=Early+Interactions+South+Southeast+Asia",
+      "use": "porti, scambi e indianizzazione iniziale"
+    }
+  ]
+}

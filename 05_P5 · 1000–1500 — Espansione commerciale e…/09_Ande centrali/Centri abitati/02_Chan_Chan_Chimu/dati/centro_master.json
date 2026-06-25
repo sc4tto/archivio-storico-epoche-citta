@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Chan Chan, capitale Chimú",
+    "site": "Chan Chan",
+    "modern_location": "Valle di Moche, La Libertad, Perù",
+    "coordinates": {
+      "lat": -8.111,
+      "lon": -79.0747
+    },
+    "scope": "Chan Chan fra 1000 e 1500: sviluppo della capitale Chimú, organizzazione delle ciudadelas, produzione artigianale, irrigazione costiera e incorporazione nell’impero inca verso la fine del XV secolo.",
+    "version": "1.0",
+    "warning": "Le denominazioni moderne delle ciudadelas non sono proiettate automaticamente sulle dinastie storiche. Le fasi coloniali e il saccheggio postconquista sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "CH1",
+      "title": "UNESCO — Chan Chan Archaeological Zone",
+      "use": "Urbanistica, architettura in terra, sistemi idraulici e conservazione.",
+      "url": "https://whc.unesco.org/en/list/366/"
+    },
+    {
+      "id": "CH2",
+      "title": "Encyclopaedia Britannica — Chimú",
+      "use": "Storia del regno Chimor, economia e conquista inca.",
+      "url": "https://www.britannica.com/topic/Chimu"
+    },
+    {
+      "id": "CH3",
+      "title": "Metropolitan Museum — Chimú culture",
+      "use": "Arte, metallurgia, tessili e cultura materiale della costa nord.",
+      "url": "https://www.metmuseum.org/toah/hd/chim/hd_chim.htm"
+    },
+    {
+      "id": "CH4",
+      "title": "Getty Conservation Institute — Chan Chan",
+      "use": "Conservazione dell’architettura in terra e documentazione.",
+      "url": "https://www.getty.edu/conservation/our_projects/field_projects/chan_chan/"
+    },
+    {
+      "id": "CH5",
+      "title": "UNESCO — Qhapaq Ñan, Andean Road System",
+      "use": "Connessioni imperiali e incorporazione nelle reti inca.",
+      "url": "https://whc.unesco.org/en/list/1459/"
+    }
+  ]
+}

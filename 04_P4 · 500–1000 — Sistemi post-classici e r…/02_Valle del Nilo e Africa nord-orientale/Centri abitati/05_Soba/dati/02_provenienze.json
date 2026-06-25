@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Soba",
+      "lat": 15.54,
+      "lon": 32.65,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "bluenile",
+      "label": "Nilo Azzurro e campi",
+      "lat": 15.53,
+      "lon": 32.66,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "dongola",
+      "label": "Antica Dongola",
+      "lat": 18.25,
+      "lon": 30.75,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "aksum",
+      "label": "Aksum",
+      "lat": 14.12,
+      "lon": 38.73,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "redsea",
+      "label": "Suakin e Mar Rosso",
+      "lat": 19.1,
+      "lon": 37.33,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "interior",
+      "label": "Gezira e Africa interna",
+      "lat": 13.5,
+      "lon": 31.5,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "bluenile",
+      "target": "site",
+      "label": "acqua, cereali, pesce e trasporto",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "dongola",
+      "target": "site",
+      "label": "clero, testi e diplomazia nubiana",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "aksum",
+      "target": "site",
+      "label": "contatti cristiani e merci dell’altopiano",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "redsea",
+      "target": "site",
+      "label": "vetro, ceramiche e beni importati",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "interior",
+      "target": "site",
+      "label": "bestiame, avorio e prodotti regionali",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

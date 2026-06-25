@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Valparaíso portuale fra terremoto e crisi",
+    "site": "Valparaíso portuale fra terremoto e crisi",
+    "modern_location": "Valparaíso, Cile",
+    "coordinates": {
+      "lat": -33.0472,
+      "lon": -71.6127
+    },
+    "scope": "Valparaíso fra 1900 e 1945: movimento portuale, sciopero del 1903, terremoto e incendi del 1906, ricostruzione dell’Almendral, ampliamento del porto, apertura del Canale di Panama e crisi del commercio.",
+    "version": "1.0",
+    "warning": "Sono escluse la trasformazione containerizzata, il declino industriale postbellico e le ricostruzioni successive al 1945."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "VA1",
+      "title": "UNESCO — Historic Quarter of the Seaport City of Valparaíso",
+      "use": "Forma urbana portuale, ascensori e quartieri storici.",
+      "url": "https://whc.unesco.org/en/list/959/"
+    },
+    {
+      "id": "VA2",
+      "title": "Memoria Chilena — Valparaíso",
+      "use": "Porto, terremoto, società e cultura urbana.",
+      "url": "https://www.memoriachilena.gob.cl/"
+    },
+    {
+      "id": "VA3",
+      "title": "Archivo Nacional de Chile",
+      "use": "Fonti portuali, politiche e fotografiche.",
+      "url": "https://www.archivonacional.gob.cl/"
+    },
+    {
+      "id": "VA4",
+      "title": "Museo Marítimo Nacional",
+      "use": "Storia navale, portuale e commerciale.",
+      "url": "https://www.museomaritimo.cl/"
+    },
+    {
+      "id": "VA5",
+      "title": "Servicio Hidrográfico y Oceanográfico de la Armada",
+      "use": "Sismicità, mare e cartografia costiera.",
+      "url": "https://www.shoa.cl/"
+    }
+  ]
+}

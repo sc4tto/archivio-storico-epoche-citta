@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Lagos, indipendenza, porto e crescita urbana",
+    "site": "Lagos, indipendenza, porto e crescita urbana",
+    "modern_location": "Lagos, Nigeria",
+    "coordinates": {
+      "lat": 6.5244,
+      "lon": 3.3792
+    },
+    "scope": "Lagos fra 1945 e 1970: porto e capitale federale, espansione verso Mainland, Apapa, Surulere e Ikeja, migrazioni interne, industria e servizi, indipendenza nigeriana nel 1960, creazione dello Stato di Lagos nel 1967 e pressioni urbane durante la guerra civile.",
+    "version": "1.0",
+    "warning": "Sono esclusi il trasferimento della capitale federale ad Abuja, il boom edilizio tardo-novecentesco, Lekki e gli interventi metropolitani successivi al 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "LA1",
+      "title": "University of Lagos — Which Lagos, Whose (Hi)story?",
+      "use": "Storia territoriale, autonomia, capitale federale e creazione dello Stato di Lagos nel 1967.",
+      "url": "https://lnr.unilag.edu.ng/article/download/836/702/"
+    },
+    {
+      "id": "LA2",
+      "title": "Lagos State Government — Lagos Resilience Strategy",
+      "use": "Evoluzione urbana, infrastrutture, rischi e crescita metropolitana.",
+      "url": "https://lasbca.lagosstate.gov.ng/wp-content/uploads/2021/05/Lagos_Resilience_Strategy.pdf"
+    },
+    {
+      "id": "LA3",
+      "title": "UN-Habitat — Regional Overview of Urban Planning in Anglophone Africa",
+      "use": "Lagos Executive Development Board, pianificazione, edilizia e governance urbana.",
+      "url": "https://unhabitat.org/sites/default/files/2010/07/GRHS.2009.Regional.Anglophone.Africa.pdf"
+    },
+    {
+      "id": "LA4",
+      "title": "UNESCO — General History of Africa, Volume VIII",
+      "use": "Decolonizzazione, industrializzazione, urbanizzazione e trasformazioni sociali africane dal 1935.",
+      "url": "https://unesdoc.unesco.org/ark:/48223/pf0000134407"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Zohapilco",
+      "lat": 19.3,
+      "lon": -98.9,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "chalco",
+      "label": "Antico lago Chalco",
+      "lat": 19.27,
+      "lon": -98.92,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "tlapacoya",
+      "label": "Collina di Tlapacoya",
+      "lat": 19.3,
+      "lon": -98.89,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "valley",
+      "label": "Bacino del Messico",
+      "lat": 19.4,
+      "lon": -99.1,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "volcano",
+      "label": "Sierra Nevada e vulcani",
+      "lat": 19.1,
+      "lon": -98.7,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "central",
+      "label": "Reti dell’altopiano centrale",
+      "lat": 19.5,
+      "lon": -99.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "chalco",
+      "target": "site",
+      "label": "pesce, uccelli, molluschi e piante palustri",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "tlapacoya",
+      "target": "site",
+      "label": "spazio asciutto e pietra",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "valley",
+      "target": "site",
+      "label": "mobilità e scambi nel bacino",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "volcano",
+      "target": "site",
+      "label": "ossidiana e trasformazioni ambientali",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "central",
+      "target": "site",
+      "label": "circolazione di tecniche e ceramiche",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

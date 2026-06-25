@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Parigi",
+      "lat": 48.8566,
+      "lon": 2.3522,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "idf",
+      "label": "Île-de-France agricola",
+      "lat": 48.75,
+      "lon": 2.65,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "pet",
+      "label": "Petite couronne industriale",
+      "lat": 48.89,
+      "lon": 2.42,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "nor",
+      "label": "Normandia e porto di Le Havre",
+      "lat": 49.49,
+      "lon": 0.1,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "fra",
+      "label": "Bacino parigino e Francia rurale",
+      "lat": 47.8,
+      "lon": 2.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "alg",
+      "label": "Algeria e Mediterraneo occidentale",
+      "lat": 36.75,
+      "lon": 3.05,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "eur",
+      "label": "Europa occidentale",
+      "lat": 50.0,
+      "lon": 6.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "idf",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "camion, ferrovie e mercati",
+      "food": "latte, ortaggi, frutta, cereali e pendolari"
+    },
+    {
+      "source": "pet",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade, autobus e fabbriche",
+      "food": "lavoratori, manufatti, carne e servizi"
+    },
+    {
+      "source": "nor",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Senna, ferrovie e camion",
+      "food": "pesce, caffè, cacao, banane e carburanti"
+    },
+    {
+      "source": "fra",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e strade nazionali",
+      "food": "carne, vino, grano e migranti interni"
+    },
+    {
+      "source": "alg",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navi, aerei e reti familiari",
+      "food": "migranti, couscous, agrumi, vino e spezie"
+    },
+    {
+      "source": "eur",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie internazionali e autostrade",
+      "food": "prodotti alimentari, macchinari e lavoratori"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Ctesifonte divenne capitale invernale degli Arsacidi",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "CTE_IRANICA"
+  },
+  {
+    "claim": "La città formava con Seleucia una metropoli sulle due rive del Tigri",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "CTE_MET"
+  },
+  {
+    "claim": "Fu un importante centro commerciale con popolazione diversificata",
+    "theme": "Commercio",
+    "status": "documentato",
+    "source": "CTE_MET"
+  },
+  {
+    "claim": "Subì più conquiste e saccheggi romani",
+    "theme": "Conflitto",
+    "status": "documentato",
+    "source": "CTE_IRANICA"
+  },
+  {
+    "claim": "Le fasi sasanidi iniziali ampliarono il sistema urbano",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "CTE_IRANICA"
+  },
+  {
+    "claim": "Il Taq Kasra appartiene con certezza al I secolo d.C.",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Datazione generalmente più tarda"
+  },
+  {
+    "claim": "La topografia partica è completamente ricostruita",
+    "theme": "Metodo",
+    "status": "non_documentato",
+    "source": "Aree non esplorate e corso fluviale mutato"
+  },
+  {
+    "claim": "La popolazione era culturalmente omogenea",
+    "theme": "Società",
+    "status": "non_documentato",
+    "source": "Pluralità linguistica e religiosa"
+  }
+]

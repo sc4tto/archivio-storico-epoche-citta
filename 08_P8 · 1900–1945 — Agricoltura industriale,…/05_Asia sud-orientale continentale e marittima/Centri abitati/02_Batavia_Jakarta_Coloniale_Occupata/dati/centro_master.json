@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Batavia–Jakarta coloniale e occupata",
+    "site": "Batavia–Jakarta coloniale e occupata",
+    "modern_location": "Jakarta, Indonesia",
+    "coordinates": {
+      "lat": -6.1754,
+      "lon": 106.8272
+    },
+    "scope": "Batavia–Jakarta fra 1900 e 1945: amministrazione coloniale, Tanjung Priok, ferrovie e tram, kampung e quartieri europei, Volksraad, nazionalismo indonesiano, occupazione giapponese e proclamazione del 1945.",
+    "version": "1.0",
+    "warning": "Il modulo termina nell’agosto 1945. Guerra d’indipendenza, trasferimento sovrano del 1949 e crescita metropolitana postcoloniale sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "JA1",
+      "title": "UNESCO Tentative List — Old Town of Jakarta",
+      "use": "Città vecchia, porto e paesaggio coloniale.",
+      "url": "https://whc.unesco.org/en/tentativelists/6010/"
+    },
+    {
+      "id": "JA2",
+      "title": "Nationaal Archief Nederland",
+      "use": "Amministrazione coloniale e archivi delle Indie orientali.",
+      "url": "https://www.nationaalarchief.nl/"
+    },
+    {
+      "id": "JA3",
+      "title": "Leiden University Libraries — Digital Collections",
+      "use": "Carte, fotografie e fonti coloniali su Batavia.",
+      "url": "https://digitalcollections.universiteitleiden.nl/"
+    },
+    {
+      "id": "JA4",
+      "title": "Bank Indonesia Museum",
+      "use": "Storia monetaria, commerciale e finanziaria.",
+      "url": "https://www.bi.go.id/"
+    },
+    {
+      "id": "JA5",
+      "title": "Encyclopaedia Britannica — Jakarta",
+      "use": "Storia urbana e trasformazione in Jakarta.",
+      "url": "https://www.britannica.com/place/Jakarta"
+    }
+  ]
+}

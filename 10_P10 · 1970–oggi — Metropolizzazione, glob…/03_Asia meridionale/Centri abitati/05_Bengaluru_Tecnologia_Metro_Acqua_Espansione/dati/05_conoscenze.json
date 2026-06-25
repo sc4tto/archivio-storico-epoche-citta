@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Bengaluru, tecnologia, metro, acqua ed espansione",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Economia della conoscenza",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Software, elettronica, ricerca e startup",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Lavoro qualificato, servizi e precarietà digitale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Acqua urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Cauvery, falde, laghi, riuso e perdite",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Domanda, tanker economy e accesso equo",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Mobilità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Metro, bus, strada e mobilità attiva",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Congestione, sicurezza e ultimo miglio",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Ecologia dei laghi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Rajakaluve, zone umide e drenaggio",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Ripristino, alluvioni e biodiversità",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Governance metropolitana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "GBA, BBMP, BWSSB e BMRCL",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Coordinamento, dati e partecipazione",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

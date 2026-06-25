@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Capitale sasanide del VI secolo",
+    "Costruzione e uso del Taq-i Kisra",
+    "Conquista islamica nel 637",
+    "Riuso urbano e amministrativo",
+    "Declino dopo la fondazione di Baghdad"
+  ],
+  "items": [
+    {
+      "id": "arch",
+      "label": "Taq-i Kisra e palazzo",
+      "lane": "Politiche",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "suburbs",
+      "label": "Insediamenti sulle due rive",
+      "lane": "Urbane",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "markets",
+      "label": "Mercati internazionali",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "temples",
+      "label": "Templi, chiese e accademie",
+      "lane": "Religiose",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Case a corte e stucchi",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "conquest",
+      "label": "Conquista del 637",
+      "lane": "Trasformazione",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "quarry",
+      "label": "Spoliazione per Baghdad",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

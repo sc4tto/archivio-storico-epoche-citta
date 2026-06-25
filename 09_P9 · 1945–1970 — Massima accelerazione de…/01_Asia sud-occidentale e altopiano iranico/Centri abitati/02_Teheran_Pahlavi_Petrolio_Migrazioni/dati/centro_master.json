@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Teheran pahlavi, petrolifera e migrante",
+    "site": "Teheran pahlavi, petrolifera e migrante",
+    "modern_location": "Teheran, Iran",
+    "coordinates": {
+      "lat": 35.6892,
+      "lon": 51.389
+    },
+    "scope": "Teheran fra 1945 e 1970: crisi dell’occupazione alleata, nazionalizzazione del petrolio, colpo di Stato del 1953, industrializzazione, Rivoluzione Bianca e crescita periferica.",
+    "version": "1.0",
+    "warning": "Sono escluse la metropolitana, la rivoluzione del 1979 e le grandi espansioni metropolitane successive al 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "TE1",
+      "title": "UNESCO — Golestan Palace",
+      "use": "Capitale qajar-pahlavi, patrimonio e trasformazioni urbane.",
+      "url": "https://whc.unesco.org/en/list/1422/"
+    },
+    {
+      "id": "TE2",
+      "title": "Encyclopaedia Iranica — Tehran",
+      "use": "Storia urbana, popolazione, amministrazione e infrastrutture.",
+      "url": "https://iranicaonline.org/articles/tehran-i"
+    },
+    {
+      "id": "TE3",
+      "title": "Encyclopaedia Britannica — Tehran",
+      "use": "Sviluppo della capitale e industrializzazione moderna.",
+      "url": "https://www.britannica.com/place/Tehran"
+    },
+    {
+      "id": "TE4",
+      "title": "National Library and Archives of Iran",
+      "use": "Fonti amministrative, cartografiche e fotografiche.",
+      "url": "https://www.nlai.ir/"
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "nodes": [
+    {
+      "id": "env1",
+      "label": "Isola e rapide del fiume Savannah",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "env2",
+      "label": "Canali fluviali e rive boscose",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "env3",
+      "label": "Foreste del Piedmont e pianure alluvionali",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "res1",
+      "label": "Noci, ghiande e semi",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "res2",
+      "label": "Piante fluviali e frutti",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "res3",
+      "label": "Cervi, piccoli mammiferi e uccelli",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "res4",
+      "label": "Molluschi d’acqua dolce e pesci",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "res5",
+      "label": "Canne, fibre e legname",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "acq1",
+      "label": "Raccolta intensiva",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "acq2",
+      "label": "Caccia e cattura",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "acq3",
+      "label": "Pesca e raccolta di molluschi",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "tr1",
+      "label": "Macinazione e pestatura",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "tr2",
+      "label": "Bollitura e cottura",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "tr3",
+      "label": "Essiccazione e deposito",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "tr4",
+      "label": "Apertura di conchiglie e lavorazione del pesce",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "out1",
+      "label": "Pasti fluviali e forestali",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "out2",
+      "label": "Ceramica, ossa, conchiglie e utensili",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "out3",
+      "label": "Grandi middens di conchiglie",
+      "layer": 4,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "env1",
+      "target": "res1",
+      "label": "ambiente produttivo",
+      "status": "sintesi"
+    },
+    {
+      "source": "env1",
+      "target": "res2",
+      "label": "ambiente produttivo",
+      "status": "sintesi"
+    },
+    {
+      "source": "env2",
+      "target": "res3",
+      "label": "habitat e gestione",
+      "status": "sintesi"
+    },
+    {
+      "source": "env2",
+      "target": "res4",
+      "label": "acqua e risorse",
+      "status": "sintesi"
+    },
+    {
+      "source": "env3",
+      "target": "res5",
+      "label": "paesaggio e raccolta",
+      "status": "sintesi"
+    },
+    {
+      "source": "res1",
+      "target": "acq1",
+      "label": "raccolta o gestione",
+      "status": "documentato"
+    },
+    {
+      "source": "res2",
+      "target": "acq1",
+      "label": "raccolta o gestione",
+      "status": "documentato"
+    },
+    {
+      "source": "res3",
+      "target": "acq2",
+      "label": "caccia o cattura",
+      "status": "documentato"
+    },
+    {
+      "source": "res4",
+      "target": "acq3",
+      "label": "pesca o raccolta",
+      "status": "documentato"
+    },
+    {
+      "source": "res5",
+      "target": "acq3",
+      "label": "raccolta mirata",
+      "status": "documentato"
+    },
+    {
+      "source": "acq1",
+      "target": "tr1",
+      "label": "trasformazione vegetale",
+      "status": "documentato"
+    },
+    {
+      "source": "acq1",
+      "target": "tr3",
+      "label": "conservazione",
+      "status": "documentato"
+    },
+    {
+      "source": "acq2",
+      "target": "tr4",
+      "label": "lavorazione faunistica",
+      "status": "documentato"
+    },
+    {
+      "source": "acq3",
+      "target": "tr2",
+      "label": "cottura",
+      "status": "documentato"
+    },
+    {
+      "source": "acq3",
+      "target": "tr4",
+      "label": "trattamento",
+      "status": "documentato"
+    },
+    {
+      "source": "tr1",
+      "target": "out1",
+      "label": "preparazione",
+      "status": "sintesi"
+    },
+    {
+      "source": "tr2",
+      "target": "out1",
+      "label": "cottura",
+      "status": "sintesi"
+    },
+    {
+      "source": "tr3",
+      "target": "out2",
+      "label": "depositi e reperti",
+      "status": "documentato"
+    },
+    {
+      "source": "tr4",
+      "target": "out2",
+      "label": "resti e strumenti",
+      "status": "documentato"
+    },
+    {
+      "source": "tr2",
+      "target": "out3",
+      "label": "cenere e residui",
+      "status": "documentato"
+    }
+  ]
+}

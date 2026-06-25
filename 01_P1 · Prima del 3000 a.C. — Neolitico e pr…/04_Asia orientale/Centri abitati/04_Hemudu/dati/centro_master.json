@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Hemudu — modulo multi-grafo",
+    "short_name": "Hemudu",
+    "site": "Hemudu",
+    "modern_location": "Yuyao, provincia di Zhejiang, Cina",
+    "coordinates": {
+      "lat": 29.97,
+      "lon": 121.35
+    },
+    "scope": "Cultura Hemudu, soprattutto circa 5000–3300 a.C.",
+    "version": "1.0-blocco_05_p1_asia_orientale_5_centri_v1",
+    "warning": "Il sito è celebre per riso e legno conservato in ambiente umido; il grado di domesticazione e le ricostruzioni architettoniche vanno riferiti ai singoli livelli."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "HEMUDU_RICE",
+      "title": "Fuller et al. — The domestication process and domestication rate in rice",
+      "url": "https://doi.org/10.1126/science.1166605",
+      "use": "processo di domesticazione del riso nel basso Yangtze"
+    },
+    {
+      "id": "CHINA_NEOLITHIC",
+      "title": "Liu — The Chinese Neolithic",
+      "url": "https://www.cambridge.org/core/books/chinese-neolithic/",
+      "use": "Hemudu, ambiente, economia e tecnologia"
+    },
+    {
+      "id": "HEMUDU_MUSEUM",
+      "title": "Hemudu Site Museum",
+      "url": "http://www.hemudusite.com/",
+      "use": "sito, reperti e conservazione"
+    }
+  ]
+}

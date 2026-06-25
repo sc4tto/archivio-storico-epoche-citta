@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Córdoba",
+      "lat": 37.8882,
+      "lon": -4.7794,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "river",
+      "label": "Guadalquivir e ponte",
+      "lat": 37.87,
+      "lon": -4.77,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "gardens",
+      "label": "Almunias occidentali",
+      "lat": 37.9,
+      "lon": -4.84,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "sierra",
+      "label": "Sierra Morena",
+      "lat": 38.05,
+      "lon": -4.75,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "zahra",
+      "label": "Madinat al-Zahra",
+      "lat": 37.89,
+      "lon": -4.87,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "maghreb",
+      "label": "Maghreb occidentale",
+      "lat": 34.0,
+      "lon": -6.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "med",
+      "label": "Mediterraneo e Oriente islamico",
+      "lat": 36.0,
+      "lon": -1.5,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "river",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "acqua, mulini e trasporto",
+      "food": "acqua e merci"
+    },
+    {
+      "source": "gardens",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e canali",
+      "food": "frutta, ortaggi e olio"
+    },
+    {
+      "source": "sierra",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "vie montane",
+      "food": "legname, metalli e bestiame"
+    },
+    {
+      "source": "zahra",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoio di corte",
+      "food": "funzionari, artigiani e tributi"
+    },
+    {
+      "source": "maghreb",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte politiche e commerciali",
+      "food": "persone, oro e cavalli"
+    },
+    {
+      "source": "med",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti mediterranee",
+      "food": "testi, ceramiche e beni di lusso"
+    }
+  ]
+}

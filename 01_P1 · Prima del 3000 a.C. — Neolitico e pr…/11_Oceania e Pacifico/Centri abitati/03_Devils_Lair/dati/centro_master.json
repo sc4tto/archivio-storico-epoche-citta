@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Devil’s Lair — modulo multi-grafo",
+    "short_name": "Devil’s Lair",
+    "site": "Grotta archeologica di Devil’s Lair",
+    "modern_location": "Leeuwin–Naturaliste Ridge, Australia Occidentale",
+    "coordinates": {
+      "lat": -34.12,
+      "lon": 115.06
+    },
+    "scope": "Grotta con una sequenza sedimentaria profonda e occupazioni intermittenti del Pleistocene e dell’Olocene, strumenti litici e ossei, focolari, fauna e ornamenti delle fasi tarde.",
+    "version": "1.0-blocco_12_p1_oceania_pacifico_5_centri_v1",
+    "warning": "Le datazioni più antiche e la continuità dell’uso sono state ricalibrate più volte. Il sito rappresenta occupazioni intermittenti, non un abitato permanente."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "DEVILS_QR_2001",
+      "title": "Turney et al. — Early Human Occupation at Devil’s Lair, Southwestern Australia 50,000 Years Ago",
+      "url": "https://doi.org/10.1006/qres.2000.2195",
+      "use": "cronologia delle fasi più antiche"
+    },
+    {
+      "id": "DEVILS_WAM",
+      "title": "Dortch — 33,000 year old stone and bone artifacts from Devil’s Lair, Western Australia",
+      "url": "https://museum.wa.gov.au/research/records-supplements/records/33-000-year-old-stone-and-bone-artifacts-devils-lair-western-australia",
+      "use": "manufatti litici e ossei e contesto museale"
+    },
+    {
+      "id": "DEVILS_REVIEW",
+      "title": "Dortch e Dortch — Review of Devil’s Lair artefact classification and radiocarbon chronology",
+      "url": "https://doi.org/10.1080/03122417.1996.11681590",
+      "use": "revisione dei manufatti e della cronologia"
+    }
+  ]
+}

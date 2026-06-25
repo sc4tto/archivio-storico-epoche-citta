@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Città del Messico vicereale",
+    "site": "Città del Messico vicereale",
+    "modern_location": "Città del Messico, Messico",
+    "coordinates": {
+      "lat": 19.4326,
+      "lon": -99.1332
+    },
+    "scope": "Città del Messico fra 1521 e 1800: capitale vicereale, cabildo, cattedrale, palazzo, conventi, mercati, chinampas residue e reti stradali e lacustri dell’altopiano.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1800. L’indipendenza, le riforme ottocentesche, il prosciugamento moderno del bacino e l’espansione metropolitana sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MX1",
+      "title": "UNESCO — Historic Centre of Mexico City and Xochimilco",
+      "use": "Sovrapposizione urbana, centro storico e paesaggio lacustre.",
+      "url": "https://whc.unesco.org/en/list/412/"
+    },
+    {
+      "id": "MX2",
+      "title": "INAH — Museo del Templo Mayor",
+      "use": "Contesto di Tenochtitlan e trasformazione coloniale del centro.",
+      "url": "https://www.templomayor.inah.gob.mx/"
+    },
+    {
+      "id": "MX3",
+      "title": "Encyclopaedia Britannica — Mexico City",
+      "use": "Storia della capitale vicereale e sviluppo urbano.",
+      "url": "https://www.britannica.com/place/Mexico-City"
+    },
+    {
+      "id": "MX4",
+      "title": "Archivo General de la Nación México",
+      "use": "Amministrazione, mappe e documenti della Nuova Spagna.",
+      "url": "https://www.gob.mx/agn"
+    },
+    {
+      "id": "MX5",
+      "title": "UNAM — Instituto de Investigaciones Históricas",
+      "use": "Studi sulla società e l’economia novohispana.",
+      "url": "https://historicas.unam.mx/"
+    }
+  ]
+}

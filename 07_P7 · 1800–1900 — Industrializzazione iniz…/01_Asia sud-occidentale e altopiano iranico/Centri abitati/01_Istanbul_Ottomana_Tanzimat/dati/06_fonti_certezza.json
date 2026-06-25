@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Istanbul rimase capitale dell’Impero ottomano per tutto il XIX secolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "IS1; IS2"
+  },
+  {
+    "claim": "Il Tanzimat trasformò amministrazione, diritto e governo urbano.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "IS2; IS4"
+  },
+  {
+    "claim": "Galata e Pera concentrarono finanza, ambasciate e nuovi edifici commerciali.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "IS4; IS5"
+  },
+  {
+    "claim": "Dolmabahçe esprime la nuova cultura di corte ottocentesca.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "IS3"
+  },
+  {
+    "claim": "Traghetti, ponti e ferrovie integrarono le sponde della metropoli.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "IS2; IS4"
+  },
+  {
+    "claim": "Incendi ed epidemie stimolarono regolamenti e interventi sanitari.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "IS2; IS4"
+  },
+  {
+    "claim": "La crisi fiscale aumentò la dipendenza da capitali e creditori stranieri.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "IS5"
+  },
+  {
+    "claim": "Il modulo esclude le trasformazioni successive al 1900.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "IS1; IS2"
+  }
+]

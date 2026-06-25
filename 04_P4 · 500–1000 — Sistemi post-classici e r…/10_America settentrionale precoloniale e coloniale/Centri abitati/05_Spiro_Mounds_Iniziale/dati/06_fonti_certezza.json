@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Spiro divenne un insediamento permanente intorno all’800.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "SP1; SP2"
+  },
+  {
+    "claim": "Fra 900 e 1000 iniziarono crescita politica e religiosa e reti più ampie.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "SP1; SP2"
+  },
+  {
+    "claim": "Il sito comprende mound, area d’élite e villaggio di sostegno.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "SP1"
+  },
+  {
+    "claim": "La posizione sul fiume Arkansas favorì commercio e comunicazioni.",
+    "theme": "commercio",
+    "status": "documentato",
+    "source": "SP1; SP2"
+  },
+  {
+    "claim": "Agricoltura, pesca, caccia e raccolta sostenevano il centro.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "SP2; SP4"
+  },
+  {
+    "claim": "Il ricchissimo complesso mortuario è soprattutto posteriore al 1000.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "SP1; SP2; SP5"
+  },
+  {
+    "claim": "Le popolazioni di Spiro sono collegate a tradizioni Caddoan.",
+    "theme": "continuità",
+    "status": "documentato",
+    "source": "SP1; SP4"
+  },
+  {
+    "claim": "La scala del controllo politico nella fase iniziale resta incerta.",
+    "theme": "certezza",
+    "status": "sintesi",
+    "source": "SP1; SP2"
+  }
+]

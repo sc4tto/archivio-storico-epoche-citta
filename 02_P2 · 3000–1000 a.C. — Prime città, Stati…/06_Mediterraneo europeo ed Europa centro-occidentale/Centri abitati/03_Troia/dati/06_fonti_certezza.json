@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Troia conserva una sequenza di occupazione di millenni",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "TROY_UNESCO"
+  },
+  {
+    "claim": "Troia II e VI mostrano grandi fortificazioni",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "TROY_UNESCO"
+  },
+  {
+    "claim": "Nel tardo Bronzo esisteva una città bassa estesa",
+    "theme": "Urbanizzazione",
+    "status": "documentato",
+    "source": "TROY_UNESCO"
+  },
+  {
+    "claim": "Il sito collegava Anatolia, Egeo e Balcani",
+    "theme": "Scambi",
+    "status": "documentato",
+    "source": "TROY_UNESCO"
+  },
+  {
+    "claim": "Terremoti, incendi e conflitti contribuirono a diverse trasformazioni",
+    "theme": "Crisi",
+    "status": "sintesi",
+    "source": "TROY_TUB"
+  },
+  {
+    "claim": "Un singolo livello archeologico dimostra esattamente la guerra di Omero",
+    "theme": "Mito",
+    "status": "non_documentato",
+    "source": "Correlazione non dimostrabile"
+  },
+  {
+    "claim": "La città controllava certamente ogni transito nei Dardanelli",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Posizione strategica non equivale a monopolio"
+  },
+  {
+    "claim": "Tutti i livelli appartengono alla stessa popolazione",
+    "theme": "Popolazione",
+    "status": "non_documentato",
+    "source": "Sequenza lunga e trasformazioni culturali"
+  }
+]

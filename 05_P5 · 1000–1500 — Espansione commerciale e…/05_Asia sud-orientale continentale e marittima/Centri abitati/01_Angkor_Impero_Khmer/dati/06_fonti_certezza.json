@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Angkor comprende successive capitali dell’Impero khmer fra IX e XV secolo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "AN1; AN3"
+  },
+  {
+    "claim": "Il paesaggio integra templi, villaggi, strade, baray e canali.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "AN1; AN5"
+  },
+  {
+    "claim": "Angkor Wat appartiene al regno di Suryavarman II.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "AN1; AN3"
+  },
+  {
+    "claim": "Angkor Thom e il Bayon sono collegati a Jayavarman VII.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "AN1; AN3"
+  },
+  {
+    "claim": "La produzione risicola e la pesca sostenevano la popolazione urbana dispersa.",
+    "theme": "alimentazione",
+    "status": "sintesi",
+    "source": "AN1; AN5"
+  },
+  {
+    "claim": "Le strutture lignee erano molto più diffuse di quanto indicano i soli resti in pietra.",
+    "theme": "costruzione",
+    "status": "inferito",
+    "source": "AN2; AN4"
+  },
+  {
+    "claim": "Il cambiamento idraulico fu uno dei fattori della trasformazione tardo-medievale.",
+    "theme": "ambiente",
+    "status": "sintesi",
+    "source": "AN5"
+  },
+  {
+    "claim": "Il sito continuò a essere abitato e venerato dopo il declino politico.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "AN1; AN2"
+  }
+]

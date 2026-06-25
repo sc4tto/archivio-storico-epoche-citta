@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "A Nanchoc sono documentate colture preceramiche di zucca, arachide e cotone",
+    "theme": "Agricoltura",
+    "status": "documentato",
+    "source": "NANCHOC_SCIENCE"
+  },
+  {
+    "claim": "La regione conserva piccoli canali preceramici",
+    "theme": "Acqua",
+    "status": "documentato",
+    "source": "NANCHOC_CANALS"
+  },
+  {
+    "claim": "Le abitazioni erano leggere e spesso ellittiche",
+    "theme": "Insediamento",
+    "status": "sintesi",
+    "source": "NANCHOC_SYNTH"
+  },
+  {
+    "claim": "La macinazione vegetale era parte delle attività domestiche",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "NANCHOC_SCIENCE"
+  },
+  {
+    "claim": "Sono attestati contatti fra valle, costa e versanti",
+    "theme": "Scambi",
+    "status": "sintesi",
+    "source": "NANCHOC_SYNTH"
+  },
+  {
+    "claim": "Tutti i canali risalgono alla fase più antica",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Fasi differenziate"
+  },
+  {
+    "claim": "Nanchoc era già una città",
+    "theme": "Urbanizzazione",
+    "status": "non_documentato",
+    "source": "Complesso di piccoli insediamenti"
+  },
+  {
+    "claim": "L’agricoltura aveva eliminato caccia e raccolta",
+    "theme": "Alimentazione",
+    "status": "non_documentato",
+    "source": "Economia mista"
+  }
+]

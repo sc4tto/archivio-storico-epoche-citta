@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Istanbul europea, rigenerazione, metro, sisma e migrazioni",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Governance intercontinentale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Municipalità metropolitana, distretti e Stato centrale",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Pianificazione del settore europeo e reti attraverso il Bosforo",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mobilità e infrastrutture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Metro, Marmaray, tram, Metrobus e traghetti",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Interscambi, accessibilità e progetti di estensione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Sisma e resilienza",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Mappatura del rischio, retrofit e protezione civile",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Suolo, edifici vulnerabili, emergenza e comunicazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Migrazioni e alloggi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Migrazione interna, rifugiati e lavoro urbano",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Affitti, quartieri informali, trasformazione e ricollocazioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Clima e waterfront",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Corno d’Oro, Marmara, calore e alluvioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Acqua, verde, energia e adattamento costiero",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

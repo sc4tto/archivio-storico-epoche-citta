@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Costantinopoli",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Politica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Capitale imperiale",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Corte e senato",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Amministrazione urbana",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Difese",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Mura teodosiane",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Porte",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Doppia linea difensiva",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Infrastrutture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Acquedotti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Cisterne",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Porti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Religioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Cristianesimo imperiale",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Chiese",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Culti precedenti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Reti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Balcani",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Anatolia",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Mar Nero",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Cronologia",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Costantino",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Teodosio II",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Santa Sofia giustinianea nel P3",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

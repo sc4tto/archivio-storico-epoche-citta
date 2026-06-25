@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Ctesifonte",
+      "lat": 33.09,
+      "lon": 44.58,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "seleucia",
+      "label": "Seleucia al Tigri",
+      "lat": 33.1,
+      "lon": 44.52,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "tigris",
+      "label": "Fiume Tigri",
+      "lat": 33.08,
+      "lon": 44.55,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "babylon",
+      "label": "Babilonia",
+      "lat": 32.54,
+      "lon": 44.42,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "hamadan",
+      "label": "Hegmataneh",
+      "lat": 34.8,
+      "lon": 48.52,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "gulf",
+      "label": "Golfo Persico",
+      "lat": 29.5,
+      "lon": 49.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "seleucia",
+      "target": "site",
+      "label": "mercati, artigiani e popolazione",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "tigris",
+      "target": "site",
+      "label": "acqua, navigazione e trasporto",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "babylon",
+      "target": "site",
+      "label": "cereali e amministrazione regionale",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "hamadan",
+      "target": "site",
+      "label": "corte estiva e strade imperiali",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "gulf",
+      "target": "site",
+      "label": "commercio a lunga distanza",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

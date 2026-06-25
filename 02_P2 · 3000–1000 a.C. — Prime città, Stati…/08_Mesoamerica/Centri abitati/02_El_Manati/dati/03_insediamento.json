@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Deposizioni Manatí A",
+    "Deposizioni Manatí B",
+    "Fase Macayal",
+    "Offerte lignee e di gomma",
+    "Abbandono rituale"
+  ],
+  "items": [
+    {
+      "id": "spring",
+      "label": "Uso della sorgente",
+      "lane": "Rituali",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "axes",
+      "label": "Deposizioni di asce verdi",
+      "lane": "Rituali",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "balls",
+      "label": "Palle di gomma",
+      "lane": "Artigianato",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "wood",
+      "label": "Busti e oggetti lignei",
+      "lane": "Artigianato",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "mats",
+      "label": "Avvolgimenti e stuoie",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "pigment",
+      "label": "Pigmenti e minerali",
+      "lane": "Rituali",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "closure",
+      "label": "Riduzione delle deposizioni",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

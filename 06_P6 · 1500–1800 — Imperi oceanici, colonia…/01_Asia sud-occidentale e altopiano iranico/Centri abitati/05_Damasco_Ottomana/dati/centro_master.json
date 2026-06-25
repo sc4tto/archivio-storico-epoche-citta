@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Damasco ottomana",
+    "site": "Damasco ottomana",
+    "modern_location": "Damasco, Siria",
+    "coordinates": {
+      "lat": 33.5138,
+      "lon": 36.2765
+    },
+    "scope": "Damasco fra 1516 e 1800, con attenzione alla Ghouta, alla carovana del hajj, ai mercati, ai quartieri, alle case a corte e alle fondazioni religiose e assistenziali.",
+    "version": "1.0",
+    "warning": "Il centro storico conserva strati romani, omayyadi, medievali e ottomani. Il modulo distingue le aggiunte P6 dalle strutture precedenti ancora in uso."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "DM1",
+      "title": "UNESCO — Ancient City of Damascus",
+      "use": "Tessuto urbano, moschee, case, suq, mura e continuità storica.",
+      "url": "https://whc.unesco.org/en/list/20/"
+    },
+    {
+      "id": "DM2",
+      "title": "Encyclopaedia Britannica — Damascus",
+      "use": "Storia politica, Ghouta e ruolo regionale della città.",
+      "url": "https://www.britannica.com/place/Damascus"
+    },
+    {
+      "id": "DM3",
+      "title": "The Metropolitan Museum of Art — Ottoman art",
+      "use": "Contesto artistico e architettonico dell’Impero ottomano.",
+      "url": "https://www.metmuseum.org/toah/hd/otto1/hd_otto1.htm"
+    },
+    {
+      "id": "DM4",
+      "title": "Aga Khan Trust for Culture — Damascus conservation",
+      "use": "Case a corte, quartieri storici e conservazione urbana.",
+      "url": "https://www.akdn.org/architecture/project/old-city-damascus"
+    },
+    {
+      "id": "DM5",
+      "title": "UNESCO — Ancient City of Damascus documents",
+      "use": "Documentazione storica e urbana del sito.",
+      "url": "https://whc.unesco.org/en/list/20/documents/"
+    }
+  ]
+}

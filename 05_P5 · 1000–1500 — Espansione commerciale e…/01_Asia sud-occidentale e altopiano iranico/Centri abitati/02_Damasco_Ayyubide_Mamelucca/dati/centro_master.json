@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Damasco ayyubide e mamelucca",
+    "site": "Città antica di Damasco",
+    "modern_location": "Damasco, Siria",
+    "coordinates": {
+      "lat": 33.5138,
+      "lon": 36.2765
+    },
+    "scope": "Damasco fra 1000 e 1500: città selgiuchide, ayyubide e mamelucca, nodo del pellegrinaggio, centro di artigianato e commercio, con espansione di madrase, khan e quartieri extra-muros.",
+    "version": "1.0",
+    "warning": "La Grande Moschea è di fondazione omayyade, ma rimase il fulcro della città medievale. Numerosi edifici visibili furono restaurati o trasformati in età ottomana; il modulo distingue le fasi 1000–1500 dalle aggiunte successive."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "DA1",
+      "title": "UNESCO — Ancient City of Damascus",
+      "use": "Quadro urbano, monumenti medievali e ruolo artigianale.",
+      "url": "https://whc.unesco.org/en/list/20/"
+    },
+    {
+      "id": "DA2",
+      "title": "Archnet — Damascus",
+      "use": "Madrase, moschee, mausolei, khan e architettura ayyubide-mamelucca.",
+      "url": "https://www.archnet.org/sites/country/SY"
+    },
+    {
+      "id": "DA3",
+      "title": "Encyclopaedia Britannica — Damascus",
+      "use": "Storia politica e commerciale della città.",
+      "url": "https://www.britannica.com/place/Damascus"
+    },
+    {
+      "id": "DA4",
+      "title": "Metropolitan Museum — Art of the Ayyubid Period",
+      "use": "Contesto artistico, manufatti e committenza ayyubide.",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-ayyubid-period"
+    },
+    {
+      "id": "DA5",
+      "title": "UNESCO Silk Roads — Damascus",
+      "use": "Ruolo della città nelle reti carovaniere.",
+      "url": "https://en.unesco.org/silkroad/content/damascus"
+    }
+  ]
+}

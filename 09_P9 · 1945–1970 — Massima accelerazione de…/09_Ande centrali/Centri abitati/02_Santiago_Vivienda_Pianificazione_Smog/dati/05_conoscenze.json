@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Santiago, vivienda sociale, pianificazione e smog",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Vivienda e Stato sociale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "CORVI, cajas, conjuntos e Operación Sitio",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Standardizzazione, assegnazione e deficit persistente",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Organizzazione popolare",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Tomas, juntas de vecinos, comitati e lavoro comunitario",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Negoziazione e conflitto per terra, acqua e trasporti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Pianificazione metropolitana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Plan Intercomunal, zonizzazione, arterie e limiti urbani",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Espansione diseguale e separazione tra funzioni e classi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Ambiente e salute",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Bacino chiuso, emissioni industriali, riscaldamento e traffico",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Smog, malattie respiratorie e monitoraggio iniziale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Industria e mobilità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Fabbriche, ferrovie, autobus e mercati nazionali",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Pendolarismo, inquinamento e accesso diseguale ai servizi",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

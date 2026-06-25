@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Nara fu capitale dal 710 al 784",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "NAR_UNESCO"
+  },
+  {
+    "claim": "La città fu pianificata su un reticolo ispirato a capitali cinesi",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "NAR_UNESCO"
+  },
+  {
+    "claim": "Palazzo, templi e santuari illustrano il sistema politico e religioso",
+    "theme": "Società",
+    "status": "documentato",
+    "source": "NAR_UNESCO"
+  },
+  {
+    "claim": "Il palazzo oggi comprende ricostruzioni basate su scavi",
+    "theme": "Conservazione",
+    "status": "documentato",
+    "source": "NAR_NABUNKEN"
+  },
+  {
+    "claim": "Nara fu una copia esatta di Chang’an",
+    "theme": "Urbanistica",
+    "status": "non_documentato",
+    "source": "Adattamento locale di modelli cinesi"
+  },
+  {
+    "claim": "Tutti gli edifici visibili sono originali del P4",
+    "theme": "Conservazione",
+    "status": "non_documentato",
+    "source": "Restauri e ricostruzioni plurime"
+  },
+  {
+    "claim": "La capitale rimase a Nara fino al XIX secolo",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Trasferimento definitivo nel 794"
+  },
+  {
+    "claim": "Nara integrò governo, buddhismo e culti locali",
+    "theme": "Sintesi",
+    "status": "documentato",
+    "source": "NAR_UNESCO"
+  }
+]

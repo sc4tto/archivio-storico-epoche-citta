@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Çayönü Tepesi",
+      "lat": 38.2167,
+      "lon": 39.7333,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 40,
+      "anchor": "middle"
+    },
+    {
+      "id": "bogaz",
+      "label": "Boğazçay e pianura locale",
+      "lat": 38.2,
+      "lon": 39.69,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": -22,
+      "anchor": "end"
+    },
+    {
+      "id": "ergani",
+      "label": "Area di Ergani",
+      "lat": 38.27,
+      "lon": 39.76,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 10,
+      "dy": -22,
+      "anchor": "start"
+    },
+    {
+      "id": "taurus",
+      "label": "Piedemonte dei Tauro",
+      "lat": 38.45,
+      "lon": 39.45,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": -10,
+      "dy": 28,
+      "anchor": "end"
+    },
+    {
+      "id": "bingol",
+      "label": "Bingöl/Nemrut: ossidiana",
+      "lat": 38.75,
+      "lon": 41.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "copper",
+      "label": "Depositi cupriferi di Ergani",
+      "lat": 38.27,
+      "lon": 39.77,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 10,
+      "dy": 28,
+      "anchor": "start"
+    }
+  ],
+  "flows": [
+    {
+      "source": "bogaz",
+      "target": "site",
+      "label": "acqua, argilla, colture e risorse locali",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "taurus",
+      "target": "site",
+      "label": "legname, caccia e pascolo",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "ergani",
+      "target": "site",
+      "label": "reti locali e pietra",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "bingol",
+      "target": "site",
+      "label": "ossidiana; non prova scambio di alimenti",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "copper",
+      "target": "site",
+      "label": "rame nativo e sperimentazione metallurgica",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Đa Bút — modulo multi-grafo",
+    "short_name": "Đa Bút",
+    "site": "Đa Bút",
+    "modern_location": "Distretto di Vĩnh Lộc, provincia di Thanh Hóa, Vietnam",
+    "coordinates": {
+      "lat": 20.09,
+      "lon": 105.62
+    },
+    "scope": "Sito e cultura di Đa Bút, approssimativamente VI–III millennio a.C.; nel P1 si considerano il conchigliero, le sepolture e le trasformazioni delle economie di foraggiamento",
+    "version": "1.0-blocco_06_p1_asia_sud_orientale_5_centri_v1",
+    "warning": "La cronologia e soprattutto l’esistenza di coltivazione o allevamento nelle fasi antiche sono discusse. Le ricostruzioni agricole sono marcate come sintesi, inferenza o non documentate."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "DA_BUT_VIET",
+      "title": "Nguyen Viet — The Da But Culture: Evidence for Cultural Development in Vietnam during the Middle Holocene",
+      "url": "https://journals.lib.washington.edu/index.php/BIPPA/article/view/11906",
+      "use": "sequenza culturale, conchiglieri, ceramica e pratiche funerarie"
+    },
+    {
+      "id": "MAN_BAC_MONOGRAPH",
+      "title": "Oxenham, Matsumura & Nguyen — Man Bac: The Excavation of a Neolithic Site in Northern Vietnam",
+      "url": "https://press.anu.edu.au/publications/series/terra-australis/man-bac",
+      "use": "quadro comparativo del Neolitico vietnamita e della cultura Đa Bút"
+    },
+    {
+      "id": "SEASIA_PEOPLING",
+      "title": "McColl et al. — The prehistoric peopling of Southeast Asia",
+      "url": "https://www.science.org/doi/10.1126/science.aat3628",
+      "use": "contesto biologico e archeologico delle popolazioni pre-neolitiche e neolitiche"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Insediamento del primo ferro",
+    "Fase maurya e Shunga",
+    "Mitra e satrapi settentrionali",
+    "Apogeo kushana",
+    "Trasformazioni Gupta"
+  ],
+  "items": [
+    {
+      "id": "settlement",
+      "label": "Espansione della città sulla Yamuna",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "markets",
+      "label": "Mercati e botteghe artigiane",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "sculpture",
+      "label": "Officine di scultura in arenaria rossa",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "jain",
+      "label": "Complessi jainisti di Kankali Tila",
+      "lane": "Religiose",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "buddhist",
+      "label": "Stupa e monasteri buddhisti",
+      "lane": "Religiose",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "brahmanical",
+      "label": "Santuari e immagini brahmaniche",
+      "lane": "Religiose",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "coins",
+      "label": "Monetazione e iscrizioni",
+      "lane": "Amministrative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Meadowcroft Rockshelter — modulo multi-grafo",
+    "short_name": "Meadowcroft Rockshelter",
+    "site": "Riparo roccioso di Meadowcroft",
+    "modern_location": "Cross Creek, Pennsylvania, Stati Uniti",
+    "coordinates": {
+      "lat": 40.29,
+      "lon": -80.5
+    },
+    "scope": "Riparo stratificato degli Appalachi occidentali con una lunga sequenza di frequentazioni, focolari, litica, resti botanici e faunistici e connessioni regionali lungo il bacino dell’Ohio.",
+    "version": "1.0-blocco_11_p1_america_settentrionale_5_centri_v1",
+    "warning": "Le date più antiche restano discusse a causa del possibile effetto di carbonio antico; il modulo presenta come sicure le sequenze paleoindiane e arcaiche, separando le ipotesi pre-Clovis."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "MEADOW_HEINZ",
+      "title": "Heinz History Center — Meadowcroft Rockshelter and Historic Village",
+      "url": "https://www.heinzhistorycenter.org/visit/meadowcroft/",
+      "use": "quadro istituzionale, scavi e patrimonio del sito"
+    },
+    {
+      "id": "MEADOW_AA",
+      "title": "Adovasio, Donahue e Stuckenrath — The Meadowcroft Rockshelter Radiocarbon Chronology 1975–1990",
+      "url": "https://www.cambridge.org/core/journals/american-antiquity",
+      "use": "sequenza radiocarbonica e discussione cronologica"
+    },
+    {
+      "id": "MEADOW_NHL",
+      "title": "National Park Service — Meadowcroft Rockshelter, National Historic Landmark",
+      "url": "https://www.nps.gov/subjects/nationalhistoriclandmarks/",
+      "use": "riconoscimento e rilevanza nazionale"
+    }
+  ]
+}

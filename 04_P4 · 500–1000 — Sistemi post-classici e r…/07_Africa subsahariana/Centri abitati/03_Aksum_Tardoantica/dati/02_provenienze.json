@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Aksum",
+      "lat": 14.1307,
+      "lon": 38.7223,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "yeha",
+      "label": "Yeha e altopiano settentrionale",
+      "lat": 14.28,
+      "lon": 39.02,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "adwa",
+      "label": "Adwa e corridoi agricoli",
+      "lat": 14.17,
+      "lon": 38.9,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "matara",
+      "label": "Matara",
+      "lat": 15.0,
+      "lon": 39.45,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "adulis",
+      "label": "Adulis / costa del Mar Rosso",
+      "lat": 15.25,
+      "lon": 39.66,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "arabia",
+      "label": "Arabia meridionale",
+      "lat": 15.5,
+      "lon": 44.2,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "nile",
+      "label": "Nilo e Nubia",
+      "lat": 18.0,
+      "lon": 33.0,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "yeha",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete degli altopiani",
+      "food": "cereali, bestiame e pietra"
+    },
+    {
+      "source": "adwa",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoi agricoli",
+      "food": "derrate e popolazione"
+    },
+    {
+      "source": "matara",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete regionale",
+      "food": "manufatti e scambi"
+    },
+    {
+      "source": "adulis",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "via verso il Mar Rosso",
+      "food": "sale, beni importati e persone"
+    },
+    {
+      "source": "arabia",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte marittime e diplomatiche",
+      "food": "aromi, tessili e ceramiche"
+    },
+    {
+      "source": "nile",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "contatti nord-orientali",
+      "food": "avorio, metalli e bestiame"
+    }
+  ]
+}

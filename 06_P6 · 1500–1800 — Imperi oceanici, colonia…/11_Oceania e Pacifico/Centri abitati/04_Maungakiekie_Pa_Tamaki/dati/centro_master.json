@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Maungakiekie pā, Tāmaki Makaurau",
+    "site": "Maungakiekie pā, Tāmaki Makaurau",
+    "modern_location": "Auckland, Nuova Zelanda",
+    "coordinates": {
+      "lat": -36.9006,
+      "lon": 174.783
+    },
+    "scope": "Maungakiekie fra 1500 e 1800: pā e paesaggio produttivo Waiohua e Ngāti Whātua, orticoltura su suoli vulcanici, depositi, fortificazioni, portage e reti di Tāmaki Makaurau.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1800. Fondazione coloniale di Auckland, alienazioni di terra, obelisco, strade, cave e trasformazioni moderne del maunga sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MK1",
+      "title": "Tūpuna Maunga Authority — Maungakiekie",
+      "use": "Valore ancestrale, archeologia e gestione del maunga.",
+      "url": "https://www.maunga.nz/maunga/maungakiekie/"
+    },
+    {
+      "id": "MK2",
+      "title": "Te Ara — The Encyclopedia of New Zealand: Tāmaki tribes",
+      "use": "Waiohua, Ngāti Whātua e storia regionale.",
+      "url": "https://teara.govt.nz/en/tamaki-tribes"
+    },
+    {
+      "id": "MK3",
+      "title": "Auckland War Memorial Museum — Tāmaki Makaurau",
+      "use": "Cultura materiale e archeologia Māori.",
+      "url": "https://www.aucklandmuseum.com/"
+    },
+    {
+      "id": "MK4",
+      "title": "New Zealand Heritage List — Maungakiekie",
+      "use": "Paesaggio archeologico e significato storico.",
+      "url": "https://www.heritage.org.nz/"
+    },
+    {
+      "id": "MK5",
+      "title": "Manatū Taonga — New Zealand History",
+      "use": "Contesto Māori e primi contatti.",
+      "url": "https://nzhistory.govt.nz/"
+    }
+  ]
+}

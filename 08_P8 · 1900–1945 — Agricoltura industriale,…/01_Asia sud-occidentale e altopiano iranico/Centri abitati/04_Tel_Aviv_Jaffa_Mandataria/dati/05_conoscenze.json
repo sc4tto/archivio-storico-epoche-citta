@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Tel Aviv–Jaffa nel periodo mandatario",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Trasporti e infrastrutture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Ferrovie, tram, porti e strade moderne",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Acqua, elettricità, telegrafo e sanità urbana",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Economia urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "agrumi, porto, edilizia, servizi, stampa e manifatture",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Mercati, manifatture, finanza e lavoro salariato",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Politica e istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "municipalità ebraica, autorità mandatarie e istituzioni arabe di Jaffa",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Municipalità, amministrazioni e apparati di sicurezza",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società e migrazioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "immigrazione ebraica, società palestinese araba e comunità internazionali",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Quartieri, associazioni, scuole e stampa",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Conflitti e vulnerabilità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "conflitti, espulsioni, disoccupazione, epidemie e segregazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Epidemie, carestie, bombardamenti e sviluppo diseguale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

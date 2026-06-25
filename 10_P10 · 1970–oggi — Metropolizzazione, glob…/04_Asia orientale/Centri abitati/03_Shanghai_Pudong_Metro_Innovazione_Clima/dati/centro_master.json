@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Shanghai, Pudong, metropolitana, innovazione e clima",
+    "site": "Shanghai, Pudong, metropolitana, innovazione e clima",
+    "modern_location": "Shanghai, Cina",
+    "coordinates": {
+      "lat": 31.2304,
+      "lon": 121.4737
+    },
+    "scope": "Shanghai dal 1970 al 25 giugno 2026: fine della Rivoluzione culturale, riforme e apertura, sviluppo di Pudong, porto container, manifattura avanzata e finanza, espansione della metropolitana, Expo 2010, città policentrica, invecchiamento, alluvioni, transizione ecologica e controllo politico.",
+    "version": "1.0",
+    "warning": "Shanghai 2035 e le linee guida con orizzonte successivo al 25 giugno 2026 sono piani ufficiali; risultati futuri o non conclusi sono qualificati come tali."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SH1",
+      "title": "Shanghai Municipal People’s Government — Shanghai Master Plan 2017–2035",
+      "use": "Assetto policentrico, città compatta, innovazione, trasporti, comunità di 15 minuti e resilienza.",
+      "url": "https://english.shanghai.gov.cn/assets/Download/2035004.pdf"
+    },
+    {
+      "id": "SH2",
+      "title": "Shanghai Municipal People’s Government — 2023 Shanghai Basic Facts",
+      "use": "Sviluppo urbano, ambiente, trasporti, assistenza agli anziani e quadro istituzionale.",
+      "url": "https://english.shanghai.gov.cn/cmsres/82/82807ce752024a6583b041090bd00d2a/7a5e8c4d7940b968edefb6a6480dfa23.pdf"
+    },
+    {
+      "id": "SH3",
+      "title": "Shanghai Municipal People’s Government — Transportation",
+      "use": "Metro, autobus, ferrovie e sistema di mobilità urbana.",
+      "url": "https://english.shanghai.gov.cn/en-Transportation/index.html"
+    },
+    {
+      "id": "SH4",
+      "title": "Shanghai Municipal People’s Government — Smarter, Greener Public Transport Guidelines",
+      "use": "Linee guida quinquennali per un trasporto pubblico più intelligente, verde e accessibile.",
+      "url": "https://english.shanghai.gov.cn/en-Policies/20250313/ac2721db2c9b4b01b36fbac7dfec4542.html"
+    }
+  ]
+}

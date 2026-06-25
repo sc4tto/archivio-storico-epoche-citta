@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Atene",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Politica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Assemblea e consiglio",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Magistrature e tribunali",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Partecipazione universale",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Ordini dorico e ionico",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Marmo pentelico",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Ricostruzioni moderne",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Economia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Pireo",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Moneta d’argento",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Schiavitù",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Religioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Atena Polias",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Festival civici",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Pluralità di culti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Saperi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Filosofia",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Teatro",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Retorica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Cronologia",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Arcaica",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Classica",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Ellenistico-romana",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_108_P10_Europa_Mediterranea_Centro_Occidentale_5_Centri_v1",
+  "macroregion": "Mediterraneo europeo ed Europa centro-occidentale",
+  "centers": [
+    "01_Londra_Finanza_Trasporti_Alloggi_Clima",
+    "02_Parigi_Grand_Paris_Alloggi_Clima_Disuguaglianze",
+    "03_Mosca_Trasporti_Rigenerazione_Autoritarismo_Guerra",
+    "04_Istanbul_Europea_Rigenerazione_Metro_Sisma_Migrazioni",
+    "05_Milano_Servizi_M4_Rigenerazione_Clima_Alloggi"
+  ],
+  "uses_central_assets": true
+}

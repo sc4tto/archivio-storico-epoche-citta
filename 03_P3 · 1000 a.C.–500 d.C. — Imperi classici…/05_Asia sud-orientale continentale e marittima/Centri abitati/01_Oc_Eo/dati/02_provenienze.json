@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Óc Eo",
+      "lat": 10.25,
+      "lon": 105.15,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "bathe",
+      "label": "Ba Thê",
+      "lat": 10.28,
+      "lon": 105.17,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "angkorborei",
+      "label": "Angkor Borei",
+      "lat": 10.983,
+      "lon": 104.98,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "mekong",
+      "label": "Delta del Mekong",
+      "lat": 10.5,
+      "lon": 105.5,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "gulf",
+      "label": "Golfo di Thailandia",
+      "lat": 9.5,
+      "lon": 103.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "india",
+      "label": "Costa orientale dell’India",
+      "lat": 13.0,
+      "lon": 80.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "bathe",
+      "target": "site",
+      "label": "rilievi, strutture rituali e insediamento associato",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "angkorborei",
+      "target": "site",
+      "label": "canali, ceramiche e reti del basso Mekong",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "mekong",
+      "target": "site",
+      "label": "riso, pesce, trasporto e controllo idraulico",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "gulf",
+      "target": "site",
+      "label": "navigazione costiera e merci regionali",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "india",
+      "target": "site",
+      "label": "perle, idee religiose, tecnologie e beni di prestigio",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

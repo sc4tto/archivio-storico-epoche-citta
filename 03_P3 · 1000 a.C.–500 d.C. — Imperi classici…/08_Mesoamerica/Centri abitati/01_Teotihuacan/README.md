@@ -1,7 +1,9 @@
 # Teotihuacan
 
-- **Epoca:** P3 · 1000 a.C.–500 d.C. — Imperi classici e reti continentali
-- **Macroregione:** Mesoamerica
-- **Voce di origine:** Teotihuacan, Monte Albán, Tikal e città maya classiche.
+Modulo del Blocco 33, generato da sette JSON nella cartella `dati`.
 
-Questa cartella può contenere mappe, immagini, testi, fonti e appunti relativi al centro abitato o sistema d'insediamento indicato.
+- `APRI_CENTRO.bat`: apre il modulo.
+- `RIGENERA_CENTRO.bat`: rigenera le pagine.
+- `VERIFICA_CENTRO.bat`: controlla JSON, collegamenti e grafi.
+
+Descrizione: Grande centro urbano del Messico centrale, sviluppato soprattutto fra il I e il VII secolo d.C., con pianificazione monumentale, quartieri residenziali, produzioni specializzate e relazioni estese in Mesoamerica..

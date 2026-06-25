@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Toronto industriale, sanitaria e bellica",
+    "site": "Toronto industriale, sanitaria e bellica",
+    "modern_location": "Toronto, Canada",
+    "coordinates": {
+      "lat": 43.6532,
+      "lon": -79.3832
+    },
+    "scope": "Toronto fra 1900 e 1945: porto e ferrovie, streetcars, annessioni, industrie, sanità pubblica, influenza del 1918, depressione, edilizia operaia e mobilitazione bellica.",
+    "version": "1.0",
+    "warning": "Sono escluse la metropolitana aperta nel 1954, la suburbanizzazione postbellica e la formazione della Metropolitan Toronto dopo il 1953."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "TO1",
+      "title": "City of Toronto Archives",
+      "use": "Mappe, fotografie, amministrazione e storia urbana.",
+      "url": "https://www.toronto.ca/city-government/accountability-operations-customer-service/access-city-information-or-records/city-of-toronto-archives/"
+    },
+    {
+      "id": "TO2",
+      "title": "Library and Archives Canada",
+      "use": "Immigrazione, lavoro, guerra e storia sociale.",
+      "url": "https://library-archives.canada.ca/"
+    },
+    {
+      "id": "TO3",
+      "title": "Toronto Public Library — Digital Archive",
+      "use": "Fotografie e collezioni locali.",
+      "url": "https://digitalarchive.tpl.ca/"
+    },
+    {
+      "id": "TO4",
+      "title": "Ontario Heritage Trust",
+      "use": "Patrimonio industriale e architettonico.",
+      "url": "https://www.heritagetrust.on.ca/"
+    },
+    {
+      "id": "TO5",
+      "title": "Canadian War Museum",
+      "use": "Mobilitazione industriale e vita urbana durante le guerre.",
+      "url": "https://www.warmuseum.ca/"
+    }
+  ]
+}

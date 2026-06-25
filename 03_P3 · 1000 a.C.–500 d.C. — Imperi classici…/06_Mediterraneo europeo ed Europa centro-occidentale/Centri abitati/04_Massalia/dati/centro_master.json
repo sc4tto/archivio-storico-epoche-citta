@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Massalia — modulo multi-grafo",
+    "short_name": "Massalia",
+    "site": "Massalia greca e Massilia romana, porto del Mediterraneo nord-occidentale",
+    "modern_location": "Marsiglia, Provenza, Francia",
+    "coordinates": {
+      "lat": 43.2965,
+      "lon": 5.3698
+    },
+    "scope": "Colonia focea fondata intorno al 600 a.C., porto e intermediario fra Mediterraneo e retroterra gallico, poi città romana con mura, bacini portuali, quartieri, necropoli e produzioni anforiche.",
+    "version": "1.0-blocco_31_p3_mediterraneo_europa_5_centri_v1",
+    "warning": "Le narrazioni di fondazione su Protis e Gyptis sono tradizioni letterarie e non cronache verificabili. I rapporti con le popolazioni galliche furono variabili e non riducibili a semplice colonizzazione unidirezionale."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "MAS_MUSEUM",
+      "title": "Musée d’Histoire de Marseille — Ville de Marseille",
+      "url": "https://musee-histoire.marseille.fr/",
+      "use": "porto antico, mura, collezioni e archeologia urbana"
+    },
+    {
+      "id": "MAS_INRAP",
+      "title": "Inrap — Marseille antique",
+      "url": "https://www.inrap.fr/marseille-11764",
+      "use": "scavi urbani e stratigrafia"
+    },
+    {
+      "id": "MAS_CNRS",
+      "title": "CNRS — Centre Camille Jullian",
+      "url": "https://ccj.cnrs.fr/",
+      "use": "ricerche su Massalia, anfore e commercio"
+    }
+  ]
+}

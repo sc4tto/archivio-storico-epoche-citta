@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_46_P4_America_Settentrionale_5_Centri_v1",
+  "macroregion": "America settentrionale precoloniale e coloniale",
+  "centers": [
+    "01_Chaco_Canyon_Pueblo_Bonito",
+    "02_Mesa_Verde_Pueblo_I_II",
+    "03_Snaketown_Hohokam",
+    "04_Ocmulgee_Macon_Plateau",
+    "05_Spiro_Mounds_Iniziale"
+  ],
+  "uses_central_assets": true
+}

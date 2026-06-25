@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Tebe comprende i complessi di Karnak, Luxor e la necropoli occidentale",
+    "theme": "Topografia",
+    "status": "documentato",
+    "source": "THEB_UNESCO"
+  },
+  {
+    "claim": "La città mantenne un ruolo religioso anche dopo la perdita della funzione capitale",
+    "theme": "Religione",
+    "status": "documentato",
+    "source": "THEB_UNESCO"
+  },
+  {
+    "claim": "Templi e iscrizioni furono modificati in età tolemaica e romana",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "THEB_KARNAK"
+  },
+  {
+    "claim": "La necropoli include tombe, templi, villaggi e aree di lavoro",
+    "theme": "Paesaggio",
+    "status": "documentato",
+    "source": "THEB_UNESCO"
+  },
+  {
+    "claim": "La documentazione epigrafica permette di seguire restauri e riusi",
+    "theme": "Metodo",
+    "status": "documentato",
+    "source": "THEB_EPIG"
+  },
+  {
+    "claim": "Tutti i monumenti visibili furono costruiti nel P3",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Molti sono anteriori e furono riutilizzati"
+  },
+  {
+    "claim": "La popolazione antica è nota con precisione per ogni secolo",
+    "theme": "Demografia",
+    "status": "non_documentato",
+    "source": "Stime e documentazione diseguale"
+  },
+  {
+    "claim": "Ogni riuso cristiano cancellò completamente i culti precedenti",
+    "theme": "Religioni",
+    "status": "non_documentato",
+    "source": "Processi graduali e differenziati"
+  }
+]

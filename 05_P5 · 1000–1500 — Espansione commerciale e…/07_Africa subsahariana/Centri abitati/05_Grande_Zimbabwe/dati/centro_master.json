@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Grande Zimbabwe e altopiano meridionale",
+    "site": "Great Zimbabwe National Monument",
+    "modern_location": "Masvingo Province, Zimbabwe",
+    "coordinates": {
+      "lat": -20.2675,
+      "lon": 30.9338
+    },
+    "scope": "Grande Zimbabwe fra 1000 e 1500: formazione del centro, espansione monumentale, autorità politica, allevamento, produzione artigiana e reti dell’oro verso la costa swahili.",
+    "version": "1.0",
+    "warning": "Le ricostruzioni coloniali e le occupazioni successive sono escluse. Le interpretazioni funzionali più incerte sono marcate come sintesi o inferenza."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "GZ1",
+      "title": "UNESCO — Great Zimbabwe National Monument",
+      "use": "Cronologia, mura in pietra a secco e ruolo politico ed economico.",
+      "url": "https://whc.unesco.org/en/list/364/"
+    },
+    {
+      "id": "GZ2",
+      "title": "Encyclopaedia Britannica — Great Zimbabwe",
+      "use": "Storia del sito, architettura e reti commerciali.",
+      "url": "https://www.britannica.com/place/Great-Zimbabwe"
+    },
+    {
+      "id": "GZ3",
+      "title": "Metropolitan Museum — Great Zimbabwe",
+      "use": "Arte, commercio e cultura materiale dell’altopiano.",
+      "url": "https://www.metmuseum.org/toah/hd/zimb/hd_zimb.htm"
+    },
+    {
+      "id": "GZ4",
+      "title": "UNESCO — General History of Africa",
+      "use": "Regni dell’Africa australe e commercio dell’oro.",
+      "url": "https://www.unesco.org/en/general-history-africa"
+    },
+    {
+      "id": "GZ5",
+      "title": "British Museum — Great Zimbabwe collections",
+      "use": "Oggetti, perline, ceramiche e contatti a lunga distanza.",
+      "url": "https://www.britishmuseum.org/collection/term/x23642"
+    }
+  ]
+}

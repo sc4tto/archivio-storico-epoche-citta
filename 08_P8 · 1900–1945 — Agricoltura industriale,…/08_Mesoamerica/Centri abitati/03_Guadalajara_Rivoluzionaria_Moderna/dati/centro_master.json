@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Guadalajara rivoluzionaria e modernizzante",
+    "site": "Guadalajara rivoluzionaria e modernizzante",
+    "modern_location": "Guadalajara, Jalisco, Messico",
+    "coordinates": {
+      "lat": 20.6597,
+      "lon": -103.3496
+    },
+    "scope": "Guadalajara fra 1900 e 1945: tram, ferrovia, rivoluzione, guerra cristera, Università di Guadalajara, ospedali, mercati, industrie leggere e espansione residenziale.",
+    "version": "1.0",
+    "warning": "Sono escluse la grande espansione metropolitana, le autostrade e le trasformazioni industriali successive al 1945."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "GU1",
+      "title": "UNESCO — Hospicio Cabañas, Guadalajara",
+      "use": "Patrimonio, assistenza e storia urbana.",
+      "url": "https://whc.unesco.org/en/list/815/"
+    },
+    {
+      "id": "GU2",
+      "title": "Universidad de Guadalajara — Biblioteca Pública de Jalisco",
+      "use": "Fonti regionali, stampa e cartografia.",
+      "url": "https://bpej.udg.mx/"
+    },
+    {
+      "id": "GU3",
+      "title": "Instituto Nacional de Antropología e Historia — Jalisco",
+      "use": "Monumenti, architettura e conservazione.",
+      "url": "https://www.inah.gob.mx/"
+    },
+    {
+      "id": "GU4",
+      "title": "Gobierno de Jalisco — Archivo Histórico",
+      "use": "Amministrazione e storia regionale.",
+      "url": "https://www.jalisco.gob.mx/"
+    },
+    {
+      "id": "GU5",
+      "title": "Encyclopaedia Britannica — Guadalajara",
+      "use": "Storia e ruolo economico regionale.",
+      "url": "https://www.britannica.com/place/Guadalajara-Mexico"
+    }
+  ]
+}

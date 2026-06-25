@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_100_P9_Ande_Centrali_5_Centri_v1",
+  "macroregion": "Ande centrali",
+  "centers": [
+    "01_Lima_Migrazione_Barriadas_Industrializzazione",
+    "02_Santiago_Vivienda_Pianificazione_Smog",
+    "03_La_Paz_Rivoluzione_Migrazione_El_Alto",
+    "04_Quito_Pianificazione_Segregazione_Modernizzazione",
+    "05_Valparaiso_Porto_Cerros_Terremoto"
+  ],
+  "uses_central_assets": true
+}

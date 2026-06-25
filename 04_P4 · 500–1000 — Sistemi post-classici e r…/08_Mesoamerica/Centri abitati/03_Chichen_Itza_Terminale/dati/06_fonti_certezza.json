@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Chichén Itzá fu uno dei maggiori centri dello Yucatán e continuò a crescere nel X secolo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "C1; C4"
+  },
+  {
+    "claim": "Cenotes e falda carsica condizionarono la localizzazione e l’organizzazione urbana.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "C1; C2"
+  },
+  {
+    "claim": "La città era inserita in reti costiere e interregionali di scambio.",
+    "theme": "commercio",
+    "status": "documentato",
+    "source": "C2; C4"
+  },
+  {
+    "claim": "Colonne, rilievi e grandi spazi assembleari trasformarono l’architettura del centro.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "C1; C3"
+  },
+  {
+    "claim": "Le somiglianze con Tula non dimostrano da sole una conquista diretta.",
+    "theme": "interpretazione",
+    "status": "documentato",
+    "source": "C5"
+  },
+  {
+    "claim": "Mercati e banchetti collegavano produzione alimentare, potere e culto.",
+    "theme": "alimentazione",
+    "status": "sintesi",
+    "source": "C4"
+  },
+  {
+    "claim": "Le etichette “maya” e “tolteco” semplificano una sequenza complessa di innovazioni e contatti.",
+    "theme": "certezza",
+    "status": "sintesi",
+    "source": "C4; C5"
+  },
+  {
+    "claim": "Molti monumenti oggi visibili furono restaurati e devono essere letti insieme alla documentazione di scavo.",
+    "theme": "conservazione",
+    "status": "documentato",
+    "source": "C2; C3"
+  }
+]

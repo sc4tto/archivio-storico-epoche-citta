@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Gheo Shih",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Macinazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Uso dei metati",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Preparazione di semi",
+          "status": "sintesi"
+        },
+        {
+          "id": "k1_3",
+          "label": "Manutenzione degli strumenti",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Paesaggio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Scelta del pianoro",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Risorse estive",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_3",
+          "label": "Accesso al fiume",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Litica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Scheggiatura",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Perforazione di ciottoli",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_3",
+          "label": "Scelta delle rocce",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Aggregazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Riunioni stagionali",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_2",
+          "label": "Cooperazione",
+          "status": "inferito"
+        },
+        {
+          "id": "k4_3",
+          "label": "Spazio rituale",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Allineare pietre",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Sgomberare superfici",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Funzione della piazza",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Mobilità",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Campi stagionali",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_2",
+          "label": "Rete con i ripari",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_3",
+          "label": "Villaggio permanente",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

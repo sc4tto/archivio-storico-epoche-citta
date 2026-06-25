@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Aleppo ottomana",
+    "site": "Aleppo ottomana",
+    "modern_location": "Aleppo, Siria",
+    "coordinates": {
+      "lat": 36.2021,
+      "lon": 37.1343
+    },
+    "scope": "Aleppo fra 1516 e 1800, con attenzione al commercio carovaniero, ai suq e khan, alle comunità mercantili, all’artigianato tessile e alla struttura dei quartieri.",
+    "version": "1.0",
+    "warning": "Il tessuto urbano comprende fasi medievali e ottomane sovrapposte. Il modulo non attribuisce automaticamente al periodo P6 ogni edificio oggi conservato nella città antica."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "AL1",
+      "title": "UNESCO — Ancient City of Aleppo",
+      "use": "Cittadella, suq, khan, moschee, chiese e valore del tessuto urbano storico.",
+      "url": "https://whc.unesco.org/en/list/21/"
+    },
+    {
+      "id": "AL2",
+      "title": "Encyclopaedia Britannica — Aleppo",
+      "use": "Storia della città, commercio e ruolo regionale.",
+      "url": "https://www.britannica.com/place/Aleppo"
+    },
+    {
+      "id": "AL3",
+      "title": "Aga Khan Trust for Culture — Old City of Aleppo",
+      "use": "Conservazione del tessuto urbano, quartieri e spazi commerciali.",
+      "url": "https://www.akdn.org/architecture/project/old-city-aleppo"
+    },
+    {
+      "id": "AL4",
+      "title": "The Metropolitan Museum of Art — Ottoman art",
+      "use": "Cultura materiale, arti decorative e architettura dell’Impero ottomano.",
+      "url": "https://www.metmuseum.org/toah/hd/otto1/hd_otto1.htm"
+    },
+    {
+      "id": "AL5",
+      "title": "UNESCO — Ancient City of Aleppo documents",
+      "use": "Documentazione storica e urbana del sito.",
+      "url": "https://whc.unesco.org/en/list/21/documents/"
+    }
+  ]
+}

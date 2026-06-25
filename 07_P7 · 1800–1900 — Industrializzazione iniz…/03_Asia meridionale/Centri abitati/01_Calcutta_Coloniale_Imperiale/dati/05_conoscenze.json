@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Calcutta coloniale e imperiale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Delta e approvvigionamento",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Navigazione fluviale e mercati",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Risaie, pesca e gestione delle piene",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Amministrazione coloniale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Compagnia, Corona e burocrazia",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Fiscalità fondiaria e diritto",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Industria e porto",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Juta, cantieri e carbone",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Dogane, banche e navigazione a vapore",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Cultura urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Stampa, scuole e associazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Riforme sociali e nazionalismo iniziale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Salute e disuguaglianze",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Epidemie, drenaggi e ospedali",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Segregazione, lavoro e sovraffollamento",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

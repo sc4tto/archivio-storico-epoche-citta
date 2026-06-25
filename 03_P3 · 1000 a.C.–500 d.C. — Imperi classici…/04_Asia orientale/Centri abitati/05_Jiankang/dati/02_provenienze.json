@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Jianye–Jiankang",
+      "lat": 32.06,
+      "lon": 118.79,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "yangtze",
+      "label": "Fiume Yangtze",
+      "lat": 32.1,
+      "lon": 118.68,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "qinhuai",
+      "label": "Fiume Qinhuai",
+      "lat": 32.02,
+      "lon": 118.79,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "wuhu",
+      "label": "Corridoio fluviale verso Wuhu",
+      "lat": 31.33,
+      "lon": 118.38,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "jingzhou",
+      "label": "Jingzhou e medio Yangtze",
+      "lat": 30.35,
+      "lon": 112.19,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "coast",
+      "label": "Costa del Mar Cinese orientale",
+      "lat": 31.5,
+      "lon": 121.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "yangtze",
+      "target": "site",
+      "label": "grano, riso, legname e trasporto imperiale",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "qinhuai",
+      "target": "site",
+      "label": "canali urbani, mercati e approdi",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "wuhu",
+      "target": "site",
+      "label": "ceramica, ferro e derrate regionali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "jingzhou",
+      "target": "site",
+      "label": "funzionari, truppe e commerci interni",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "coast",
+      "target": "site",
+      "label": "sale, pesce e traffici costieri",
+      "status": "sintesi",
+      "food": "sì"
+    }
+  ]
+}

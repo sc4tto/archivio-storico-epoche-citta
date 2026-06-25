@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Il piano municipale 2024–2028 definisce priorità per servizi, ambiente e infrastrutture del cantone.",
+    "theme": "governance",
+    "status": "documentato",
+    "source": "SJ1"
+  },
+  {
+    "claim": "La Grande Area Metropolitana presenta forte dipendenza dal trasporto privato e necessità di integrazione del trasporto pubblico.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "SJ2"
+  },
+  {
+    "claim": "La GAM è esposta a inondazioni, sismi e frane che richiedono prevenzione e pianificazione territoriale.",
+    "theme": "rischio",
+    "status": "documentato",
+    "source": "SJ3"
+  },
+  {
+    "claim": "Il finanziamento del Tren Eléctrico GAM è stato assicurato nel 2026, ma la rete resta un progetto futuro.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "SJ4"
+  },
+  {
+    "claim": "Le fasi del progetto ferroviario successive al 25 giugno 2026 non sono presentate come opere completate.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "SJ4"
+  },
+  {
+    "claim": "San José è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Disuguaglianze abitative, espansione dispersa, ricollocazioni e vulnerabilità climatica non sono presentate come processi neutrali.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

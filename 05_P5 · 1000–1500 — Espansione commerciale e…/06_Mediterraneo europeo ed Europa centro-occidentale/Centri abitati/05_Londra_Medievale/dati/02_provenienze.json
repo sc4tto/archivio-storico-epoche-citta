@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "City of London",
+      "lat": 51.515,
+      "lon": -0.092,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "tha",
+      "label": "Valle del Tamigi",
+      "lat": 51.5,
+      "lon": -0.6,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "ken",
+      "label": "Kent ed Essex",
+      "lat": 51.6,
+      "lon": 0.5,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "nor",
+      "label": "Mare del Nord",
+      "lat": 53.0,
+      "lon": 2.0,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "fln",
+      "label": "Fiandre",
+      "lat": 51.0,
+      "lon": 3.5,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "gas",
+      "label": "Guascogna",
+      "lat": 44.8,
+      "lon": -0.5,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "bal",
+      "label": "Baltico",
+      "lat": 56.0,
+      "lon": 12.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "tha",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "chiatte e strade",
+      "food": "grano, legname e pietra"
+    },
+    {
+      "source": "ken",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e mercati",
+      "food": "ortaggi, bestiame e frutta"
+    },
+    {
+      "source": "nor",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cabotaggio",
+      "food": "pesce, sale e cereali"
+    },
+    {
+      "source": "fln",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte mercantili",
+      "food": "panni, lana e metalli"
+    },
+    {
+      "source": "gas",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte atlantiche",
+      "food": "vino e sale"
+    },
+    {
+      "source": "bal",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Mare del Nord e Lega anseatica",
+      "food": "legname, pece e granaglie"
+    }
+  ]
+}

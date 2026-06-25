@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Paleodune precedenti",
+    "Occupazione Kiffiana",
+    "Interruzione arida",
+    "Occupazione Teneriana",
+    "Aridificazione finale"
+  ],
+  "items": [
+    {
+      "id": "lakeuse",
+      "label": "Uso intensivo delle rive del paleolago",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "camp",
+      "label": "Accampamenti e aree di attività",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "burials",
+      "label": "Cimiteri e sepolture differenziate",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "fish",
+      "label": "Pesca e sfruttamento acquatico",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "pottery",
+      "label": "Ceramica decorata e contenitori",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "dry",
+      "label": "Abbandono durante la fase arida",
+      "lane": "Trasformazione",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "final",
+      "label": "Riduzione dell’occupazione con la desertificazione",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

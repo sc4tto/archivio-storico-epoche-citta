@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Valparaíso, porto del Pacifico",
+    "site": "Valparaíso, porto del Pacifico",
+    "modern_location": "Valparaíso, Cile",
+    "coordinates": {
+      "lat": -33.0472,
+      "lon": -71.6127
+    },
+    "scope": "Valparaíso fra 1800 e 1900: indipendenza, apertura commerciale, navigazione a vapore, ferrovia per Santiago, bombardamento del 1866, espansione portuale, immigrazione, ascensori e crescita sui cerros.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Terremoto del 1906, porto novecentesco, containerizzazione e trasformazioni contemporanee sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "VA1",
+      "title": "UNESCO — Historic Quarter of the Seaport City of Valparaíso",
+      "use": "Paesaggio portuale, cerros e architettura.",
+      "url": "https://whc.unesco.org/en/list/959/"
+    },
+    {
+      "id": "VA2",
+      "title": "Encyclopaedia Britannica — Valparaíso",
+      "use": "Storia del porto e ruolo commerciale.",
+      "url": "https://www.britannica.com/place/Valparaiso-Chile"
+    },
+    {
+      "id": "VA3",
+      "title": "Servicio Nacional del Patrimonio Cultural de Chile",
+      "use": "Patrimonio urbano e portuale.",
+      "url": "https://www.patrimoniocultural.gob.cl/"
+    },
+    {
+      "id": "VA4",
+      "title": "Memoria Chilena — Valparaíso",
+      "use": "Cartografia, commercio e vita sociale.",
+      "url": "https://www.memoriachilena.gob.cl/"
+    },
+    {
+      "id": "VA5",
+      "title": "Museo Marítimo Nacional de Chile",
+      "use": "Navigazione, porto e storia navale.",
+      "url": "https://www.museomaritimo.cl/"
+    }
+  ]
+}

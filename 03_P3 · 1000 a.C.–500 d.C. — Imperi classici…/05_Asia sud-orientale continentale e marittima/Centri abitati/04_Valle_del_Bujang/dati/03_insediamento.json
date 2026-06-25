@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Prime frequentazioni costiere",
+    "Sviluppo di attività metallurgiche",
+    "Crescita degli approdi",
+    "Formazione di complessi rituali",
+    "Espansioni post-500 d.C."
+  ],
+  "items": [
+    {
+      "id": "river",
+      "label": "Approdi e vie fluviali",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "iron",
+      "label": "Produzione e lavorazione del ferro",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "warehouses",
+      "label": "Magazzini e depositi",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "settlement",
+      "label": "Aree abitative",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "ritual",
+      "label": "Prime strutture rituali",
+      "lane": "Rituali",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "temples",
+      "label": "Templi in mattoni e pietra",
+      "lane": "Rituali",
+      "start": 4,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "routes",
+      "label": "Rotte della Baia del Bengala",
+      "lane": "Territorio",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

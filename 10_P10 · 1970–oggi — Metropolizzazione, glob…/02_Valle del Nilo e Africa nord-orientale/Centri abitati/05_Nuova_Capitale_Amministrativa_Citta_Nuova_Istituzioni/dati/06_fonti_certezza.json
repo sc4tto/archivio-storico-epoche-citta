@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Il progetto della Nuova Capitale è stato avviato nel decennio 2010 a est del Cairo.",
+    "theme": "fondazione",
+    "status": "documentato",
+    "source": "NC1"
+  },
+  {
+    "claim": "Il distretto governativo comprende sedi per ministeri e altre istituzioni statali.",
+    "theme": "istituzioni",
+    "status": "documentato",
+    "source": "NC1"
+  },
+  {
+    "claim": "Il trasferimento graduale dei ministeri è iniziato nel 2023.",
+    "theme": "governo",
+    "status": "documentato",
+    "source": "NC2"
+  },
+  {
+    "claim": "Nel gennaio 2026 il governo seguiva ancora attività e gestione di ACUD nella nuova città.",
+    "theme": "stato del progetto",
+    "status": "documentato",
+    "source": "NC3"
+  },
+  {
+    "claim": "La Banca Mondiale osserva che le nuove città egiziane non hanno ancora dimostrato di risolvere in modo inclusivo gli stress delle città esistenti.",
+    "theme": "valutazione",
+    "status": "documentato",
+    "source": "NC4"
+  },
+  {
+    "claim": "Nuova Capitale Amministrativa, nuova città e trasferimento istituzionale è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "L’acquisizione e concessione del suolo, l’eventuale espropriazione, la segregazione per reddito e il trasferimento centralizzato delle funzioni statali non sono presentati come processi neutrali; il modulo distingue propaganda di progetto, opere costruite, uso effettivo e accessibilità sociale.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

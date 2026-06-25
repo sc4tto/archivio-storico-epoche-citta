@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Heian-kyō / Kyoto",
+      "lat": 35.0116,
+      "lon": 135.7681,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "kamo",
+      "label": "Fiumi Kamo e Katsura",
+      "lat": 35.02,
+      "lon": 135.75,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "nara",
+      "label": "Nara / Heijō-kyō",
+      "lat": 34.69,
+      "lon": 135.8,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "otsu",
+      "label": "Ōtsu e lago Biwa",
+      "lat": 35.02,
+      "lon": 135.86,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "osaka",
+      "label": "Naniwa e baia di Osaka",
+      "lat": 34.69,
+      "lon": 135.5,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "changan",
+      "label": "Chang’an e Luoyang",
+      "lat": 34.5,
+      "lon": 110.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "kamo",
+      "target": "site",
+      "label": "acqua, legname, trasporto e rischio di piena",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "nara",
+      "target": "site",
+      "label": "trasferimento di istituzioni e comunità",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "otsu",
+      "target": "site",
+      "label": "vie orientali e traffici lacustri",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "osaka",
+      "target": "site",
+      "label": "sale, pesce e merci marittime",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "changan",
+      "target": "site",
+      "label": "modelli urbanistici, testi e buddhismo",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

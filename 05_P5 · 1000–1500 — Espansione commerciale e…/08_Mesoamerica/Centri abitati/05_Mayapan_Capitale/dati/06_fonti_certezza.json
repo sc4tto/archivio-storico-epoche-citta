@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Mayapán fu una grande città murata del Postclassico tardo.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "MA1; MA2"
+  },
+  {
+    "claim": "La città raggiunse il massimo sviluppo fra XIII e XV secolo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "MA1; MA3"
+  },
+  {
+    "claim": "Abitazioni e laboratori occupavano gran parte dello spazio entro le mura.",
+    "theme": "insediamento",
+    "status": "documentato",
+    "source": "MA2; MA3"
+  },
+  {
+    "claim": "Mercati e scambi costieri portarono sale, pesce, cacao e altri beni.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "MA3; MA4"
+  },
+  {
+    "claim": "Cenotes e raccolta dell’acqua erano essenziali.",
+    "theme": "ambiente",
+    "status": "documentato",
+    "source": "MA2; MA3"
+  },
+  {
+    "claim": "La dissoluzione politica avvenne verso la metà del XV secolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "MA1; MA3"
+  },
+  {
+    "claim": "La Lega di Mayapán non è ricostruita come istituzione perfettamente nota.",
+    "theme": "metodo",
+    "status": "sintesi",
+    "source": "MA1; MA3"
+  },
+  {
+    "claim": "Somiglianze con Chichén Itzá non implicano identità politica o cronologica.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "MA2; MA5"
+  }
+]

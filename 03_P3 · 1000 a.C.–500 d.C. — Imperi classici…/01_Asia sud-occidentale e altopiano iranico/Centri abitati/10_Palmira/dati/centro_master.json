@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Palmira — modulo multi-grafo",
+    "short_name": "Palmira",
+    "site": "Palmira / Tadmor",
+    "modern_location": "Governatorato di Homs, Siria",
+    "coordinates": {
+      "lat": 34.55,
+      "lon": 38.27
+    },
+    "scope": "Oasi e città carovaniera della Siria interna, cresciuta come nodo fra Mediterraneo, Mesopotamia e Golfo, con templi, colonnati, agorà, quartieri, tombe monumentali e un forte sviluppo in età romana.",
+    "version": "1.0-blocco_26_p3_asia_so_completamento_v1",
+    "warning": "Il modulo ricostruisce il sito antico e distingue i dati archeologici dalle condizioni di conservazione contemporanee. Molti edifici furono trasformati, restaurati o danneggiati in epoche recenti."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "PAL_UNESCO",
+      "title": "UNESCO — Site of Palmyra",
+      "url": "https://whc.unesco.org/en/list/23/",
+      "use": "urbanistica, monumenti e valore patrimoniale"
+    },
+    {
+      "id": "PAL_MET",
+      "title": "The Metropolitan Museum of Art — Palmyra",
+      "url": "https://www.metmuseum.org/essays/palmyra",
+      "use": "commercio, società e arte funeraria"
+    },
+    {
+      "id": "PAL_TARIFF",
+      "title": "University of Oxford — Palmyra Portrait Project",
+      "url": "https://www.palmyraportrait.com/",
+      "use": "ritratti funerari e società urbana"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Zanzibar Stone Town omanita",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Navigazione monsonica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Venti, stagioni e pilotaggio",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Dhow, ancoraggi e rifornimenti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Architettura swahili",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Pietra corallina e calce",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Travi di mangrovia e cortili",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Avorio, tessili e cereali",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Dogane, bazar e credito",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Islam e società",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Moschee, waqf e studiosi",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Quartieri e reti familiari",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Sistemi coercitivi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Carovane e schiavitù",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Mercati e trasporto marittimo",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

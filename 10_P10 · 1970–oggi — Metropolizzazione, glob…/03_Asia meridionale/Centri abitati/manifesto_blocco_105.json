@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_105_P10_Asia_Meridionale_5_Centri_v1",
+  "macroregion": "Asia meridionale",
+  "centers": [
+    "01_Delhi_Megacitta_Metro_Aria_Disuguaglianze",
+    "02_Mumbai_Finanza_Trasporti_Informalita_Rischio_Costiero",
+    "03_Dhaka_Industria_Tessile_Metro_Acqua_Alluvioni",
+    "04_Karachi_Porto_Industria_Acqua_Mobilita_Clima",
+    "05_Bengaluru_Tecnologia_Metro_Acqua_Espansione"
+  ],
+  "uses_central_assets": true
+}

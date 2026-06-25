@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Aswan fra diga, irrigazione e turismo",
+    "site": "Aswan fra diga, irrigazione e turismo",
+    "modern_location": "Aswan, Egitto",
+    "coordinates": {
+      "lat": 24.0889,
+      "lon": 32.8998
+    },
+    "scope": "Aswan fra 1900 e 1945: completamento della diga bassa nel 1902, sopraelevazioni successive, controllo delle piene, irrigazione, ferrovia, navigazione, cava e turismo, presenza militare e impatti sulle comunità nubiane e sui siti antichi.",
+    "version": "1.0",
+    "warning": "Il modulo riguarda la diga bassa. La Grande Diga di Assuan, costruita dal 1960, il Lago Nasser e le campagne UNESCO di salvataggio monumentale sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "AS1",
+      "title": "Encyclopaedia Britannica — Aswan High Dam / Aswan",
+      "use": "Diga bassa, geografia e trasformazioni del Nilo.",
+      "url": "https://www.britannica.com/topic/Aswan-High-Dam"
+    },
+    {
+      "id": "AS2",
+      "title": "Egyptian Ministry of Water Resources and Irrigation",
+      "use": "Storia dell’irrigazione e delle opere sul Nilo.",
+      "url": "https://www.mwri.gov.eg/"
+    },
+    {
+      "id": "AS3",
+      "title": "UNESCO — Nubian Monuments from Abu Simbel to Philae",
+      "use": "Paesaggio nubiano e patrimonio archeologico.",
+      "url": "https://whc.unesco.org/en/list/88/"
+    },
+    {
+      "id": "AS4",
+      "title": "Egyptian Railways Museum / ENR",
+      "use": "Ferrovia dell’Alto Egitto e mobilità.",
+      "url": "https://enr.gov.eg/"
+    },
+    {
+      "id": "AS5",
+      "title": "Griffith Institute — Nubian and Aswan archives",
+      "use": "Fotografie e documentazione archeologica.",
+      "url": "https://www.griffith.ox.ac.uk/"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Melaka",
+      "lat": 2.19,
+      "lon": 102.25,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "riv",
+      "label": "Fiume Melaka",
+      "lat": 2.21,
+      "lon": 102.25,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "str",
+      "label": "Stretto di Malacca",
+      "lat": 2.0,
+      "lon": 101.8,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "min",
+      "label": "Entroterra della penisola",
+      "lat": 3.5,
+      "lon": 102.0,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "sum",
+      "label": "Sumatra e Pasai",
+      "lat": 5.0,
+      "lon": 97.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "ind",
+      "label": "India e Coromandel",
+      "lat": 13.0,
+      "lon": 80.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "chi",
+      "label": "Cina meridionale",
+      "lat": 22.5,
+      "lon": 113.5,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "riv",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "approdo e collegamento interno",
+      "food": "acqua, legname e derrate"
+    },
+    {
+      "source": "str",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotta dello stretto",
+      "food": "pesce, sale e merci"
+    },
+    {
+      "source": "min",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiumi e sentieri",
+      "food": "riso, stagno e prodotti forestali"
+    },
+    {
+      "source": "sum",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte islamiche regionali",
+      "food": "pepe, oro e mercanti"
+    },
+    {
+      "source": "ind",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Oceano Indiano",
+      "food": "tessili, cavalli e spezie"
+    },
+    {
+      "source": "chi",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "missioni e giunche",
+      "food": "ceramiche, seta e moneta"
+    }
+  ]
+}

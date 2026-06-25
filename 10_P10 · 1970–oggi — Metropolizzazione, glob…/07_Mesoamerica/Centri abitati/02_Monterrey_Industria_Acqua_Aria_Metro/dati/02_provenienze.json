@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Monterrey",
+      "lat": 25.6866,
+      "lon": -100.3161,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "val",
+      "label": "Valle di Monterrey e Santa Catarina",
+      "lat": 25.68,
+      "lon": -100.45,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "cad",
+      "label": "Cadereyta, Pesquería e hinterland industriale",
+      "lat": 25.75,
+      "lon": -100.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "nl",
+      "label": "Nuevo León rurale",
+      "lat": 25.9,
+      "lon": -99.7,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "coa",
+      "label": "Coahuila e altopiano settentrionale",
+      "lat": 27.0,
+      "lon": -101.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "tam",
+      "label": "Tamaulipas e Golfo del Messico",
+      "lat": 24.5,
+      "lon": -98.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "usa",
+      "label": "Texas e reti nordamericane",
+      "lat": 29.5,
+      "lon": -99.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "val",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "mercati locali e distribuzione urbana",
+      "food": "ortaggi, pane, latticini e pendolari"
+    },
+    {
+      "source": "cad",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "autostrade e catene industriali",
+      "food": "carne, cereali, mangimi e prodotti trasformati"
+    },
+    {
+      "source": "nl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti regionali e celle frigorifere",
+      "food": "agrumi, caprini, mais e latte"
+    },
+    {
+      "source": "coa",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoi stradali del nord",
+      "food": "carne, grano, birra e merci"
+    },
+    {
+      "source": "tam",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "asse verso il Golfo e frontiera",
+      "food": "sorgo, agrumi, pesce e prodotti industriali"
+    },
+    {
+      "source": "usa",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "commercio transfrontaliero e logistica",
+      "food": "ingredienti, macchinari e alimenti confezionati"
+    }
+  ]
+}

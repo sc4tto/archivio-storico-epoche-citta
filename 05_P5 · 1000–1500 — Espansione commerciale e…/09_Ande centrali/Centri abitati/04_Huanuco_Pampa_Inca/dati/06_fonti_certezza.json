@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Huánuco Pampa fu un centro amministrativo inca del Chinchaysuyu.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "HU1; HU2"
+  },
+  {
+    "claim": "Il sito fu costruito soprattutto nel tardo XV secolo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "HU1; HU3"
+  },
+  {
+    "claim": "La grande plaza e l’ushnu avevano funzioni cerimoniali e politiche.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "HU1; HU4"
+  },
+  {
+    "claim": "Numerose qollqa sostenevano la redistribuzione statale.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "HU1; HU4"
+  },
+  {
+    "claim": "Il Qhapaq Ñan collegava il centro a Cusco e alle province settentrionali.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "HU1; HU2"
+  },
+  {
+    "claim": "Le risorse provenivano da più fasce ecologiche.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "HU1; HU3"
+  },
+  {
+    "claim": "Le stime sul numero di edifici variano fra gli studi.",
+    "theme": "metodo",
+    "status": "sintesi",
+    "source": "HU1; HU2"
+  },
+  {
+    "claim": "Le fondazioni coloniali successive sono escluse.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "HU2"
+  }
+]

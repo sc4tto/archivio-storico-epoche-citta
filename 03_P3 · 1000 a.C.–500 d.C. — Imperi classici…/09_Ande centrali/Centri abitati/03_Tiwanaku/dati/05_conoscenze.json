@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Tiwanaku",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Lavorazione della pietra",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Arenaria",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Andesite",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Tecnologie extraterrestri",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Campi rialzati",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Irrigazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Rendimento costante in ogni clima",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Akapana",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Kalasasaya",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Ricostruzione moderna identica all’originale",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Iconografia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Divinità con bastoni",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Monoliti",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Calendario completamente decifrato",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Politica",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Centro cerimoniale",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Reti multi-etniche",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_3",
+          "label": "Impero territoriale maturo prima del 500",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Relazioni",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Valli orientali",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Costa",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Confini amministrativi fissi",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

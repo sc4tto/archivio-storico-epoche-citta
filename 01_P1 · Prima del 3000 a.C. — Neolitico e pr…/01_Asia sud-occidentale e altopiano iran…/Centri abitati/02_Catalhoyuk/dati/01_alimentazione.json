@@ -1,0 +1,222 @@
+{
+  "nodes": [
+    {
+      "id": "plain",
+      "label": "Piana di Konya e suoli alluvionali",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "river",
+      "label": "Canale antico del Çarşamba",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "steppe",
+      "label": "Steppe e zone umide circostanti",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "cereals",
+      "label": "Frumenti e orzo",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "pulses",
+      "label": "Piselli, lenticchie e altri legumi",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "sheepgoat",
+      "label": "Ovicaprini domestici",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "cattle",
+      "label": "Bovini: caccia e gestione variabile nel tempo",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "wild",
+      "label": "Piante spontanee e selvaggina",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "cultivation",
+      "label": "Coltivazione e raccolta",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "herding",
+      "label": "Allevamento",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "hunting",
+      "label": "Caccia e raccolta",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "grind",
+      "label": "Macinazione e pestatura",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "oven",
+      "label": "Cottura in focolari e forni",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "storage",
+      "label": "Deposito in vani laterali",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "butchery",
+      "label": "Macellazione e trattamento delle carcasse",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "meals",
+      "label": "Pappe, impasti e pasti cotti",
+      "layer": 4,
+      "status": "inferito"
+    },
+    {
+      "id": "bones",
+      "label": "Resti faunistici e botanici",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "middens",
+      "label": "Rifiuti e cenere in aree esterne",
+      "layer": 4,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "plain",
+      "target": "cereals",
+      "label": "ambiente agricolo locale",
+      "status": "sintesi"
+    },
+    {
+      "source": "plain",
+      "target": "pulses",
+      "label": "ambiente agricolo locale",
+      "status": "sintesi"
+    },
+    {
+      "source": "steppe",
+      "target": "sheepgoat",
+      "label": "pascolo regionale",
+      "status": "inferito"
+    },
+    {
+      "source": "steppe",
+      "target": "cattle",
+      "label": "caccia e gestione",
+      "status": "sintesi"
+    },
+    {
+      "source": "river",
+      "target": "wild",
+      "label": "risorse ripariali e umide",
+      "status": "sintesi"
+    },
+    {
+      "source": "cereals",
+      "target": "cultivation",
+      "label": "produzione agricola",
+      "status": "documentato"
+    },
+    {
+      "source": "pulses",
+      "target": "cultivation",
+      "label": "produzione agricola",
+      "status": "sintesi"
+    },
+    {
+      "source": "sheepgoat",
+      "target": "herding",
+      "label": "gestione animale",
+      "status": "documentato"
+    },
+    {
+      "source": "cattle",
+      "target": "hunting",
+      "label": "strategie variabili",
+      "status": "sintesi"
+    },
+    {
+      "source": "wild",
+      "target": "hunting",
+      "label": "raccolta e caccia",
+      "status": "documentato"
+    },
+    {
+      "source": "cultivation",
+      "target": "grind",
+      "label": "trasformazione dei cereali",
+      "status": "documentato"
+    },
+    {
+      "source": "cultivation",
+      "target": "storage",
+      "label": "conservazione",
+      "status": "documentato"
+    },
+    {
+      "source": "grind",
+      "target": "meals",
+      "label": "preparazione",
+      "status": "inferito"
+    },
+    {
+      "source": "oven",
+      "target": "meals",
+      "label": "cottura",
+      "status": "inferito"
+    },
+    {
+      "source": "herding",
+      "target": "butchery",
+      "label": "carne e prodotti animali",
+      "status": "sintesi"
+    },
+    {
+      "source": "hunting",
+      "target": "butchery",
+      "label": "carne selvatica",
+      "status": "sintesi"
+    },
+    {
+      "source": "butchery",
+      "target": "bones",
+      "label": "evidenza archeozoologica",
+      "status": "documentato"
+    },
+    {
+      "source": "oven",
+      "target": "middens",
+      "label": "cenere e residui",
+      "status": "documentato"
+    }
+  ]
+}

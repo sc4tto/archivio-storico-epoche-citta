@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Trowulan, capitale di Majapahit",
+    "site": "Trowulan–Majapahit",
+    "modern_location": "Mojokerto, Giava orientale, Indonesia",
+    "coordinates": {
+      "lat": -7.545,
+      "lon": 112.386
+    },
+    "scope": "Trowulan fra 1293 e 1500: fondazione di Majapahit, apogeo del XIV secolo, conflitti dinastici e trasformazione della capitale nel tardo XV secolo.",
+    "version": "1.0",
+    "warning": "L’identificazione di Trowulan con la capitale di Majapahit è fortemente sostenuta ma la pianta completa del palazzo e della città resta ricostruita in modo parziale."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "TR1",
+      "title": "UNESCO Tentative List — Trowulan",
+      "use": "Archeologia urbana, canali, bacini, insediamenti e capitale Majapahit.",
+      "url": "https://whc.unesco.org/en/tentativelists/5466/"
+    },
+    {
+      "id": "TR2",
+      "title": "Encyclopaedia Britannica — Majapahit empire",
+      "use": "Cronologia politica e ruolo regionale di Majapahit.",
+      "url": "https://www.britannica.com/place/Majapahit-empire"
+    },
+    {
+      "id": "TR3",
+      "title": "Ministry of Education and Culture Indonesia — Trowulan",
+      "use": "Patrimonio archeologico e museale di Trowulan.",
+      "url": "https://kebudayaan.kemdikbud.go.id/"
+    },
+    {
+      "id": "TR4",
+      "title": "National Museum of Indonesia — Majapahit collections",
+      "use": "Terracotte, metalli, ceramiche e cultura materiale.",
+      "url": "https://www.museumnasional.or.id/"
+    },
+    {
+      "id": "TR5",
+      "title": "UNESCO — Trowulan hydraulic system",
+      "use": "Canali, bacini, irrigazione e organizzazione urbana.",
+      "url": "https://whc.unesco.org/en/tentativelists/5466/"
+    }
+  ]
+}

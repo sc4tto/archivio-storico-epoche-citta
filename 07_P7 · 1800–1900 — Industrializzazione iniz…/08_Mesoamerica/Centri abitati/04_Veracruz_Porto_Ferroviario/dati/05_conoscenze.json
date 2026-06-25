@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Veracruz, porto ferroviario del Golfo",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Porto e dogane",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Pilotaggio, ancoraggio e registri",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Magazzini, tariffe e quarantene",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Ferrovie",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Salita verso Orizaba",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Stazioni, officine e integrazione nazionale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Sanità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Febbre gialla, drenaggio e quarantena",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Ospedali, acqua e igiene portuale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Corallo, calce e portici",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Ferro, moli e opere marittime",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Conflitto",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Bombardamenti e occupazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Militarizzazione della rada e della dogana",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

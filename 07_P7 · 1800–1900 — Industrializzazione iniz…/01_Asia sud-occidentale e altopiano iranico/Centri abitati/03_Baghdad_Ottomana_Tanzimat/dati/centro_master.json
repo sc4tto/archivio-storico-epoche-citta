@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Baghdad ottomana nell’età del Tanzimat",
+    "site": "Baghdad ottomana nell’età del Tanzimat",
+    "modern_location": "Baghdad, Iraq",
+    "coordinates": {
+      "lat": 33.3152,
+      "lon": 44.3661
+    },
+    "scope": "Baghdad fra 1800 e 1900: fine del governo mamluk, ritorno al controllo diretto ottomano, riforme del Tanzimat, commercio fluviale e reti agricole della Mesopotamia.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Ferrovia di Baghdad completata nel XX secolo, occupazione britannica del 1917 e trasformazioni dello Stato iracheno sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "BG1",
+      "title": "Encyclopaedia Britannica — Baghdad",
+      "use": "Storia urbana e ruolo amministrativo.",
+      "url": "https://www.britannica.com/place/Baghdad"
+    },
+    {
+      "id": "BG2",
+      "title": "Qatar Digital Library — Baghdad and Ottoman Iraq",
+      "use": "Mappe, rapporti e documenti sul commercio e la navigazione.",
+      "url": "https://www.qdl.qa/en"
+    },
+    {
+      "id": "BG3",
+      "title": "Library of Congress — Iraq Country Studies",
+      "use": "Contesto ottomano e trasformazioni regionali.",
+      "url": "https://www.loc.gov/item/92006226/"
+    },
+    {
+      "id": "BG4",
+      "title": "Aga Khan Documentation Center — Baghdad",
+      "use": "Architettura, quartieri e patrimonio urbano.",
+      "url": "https://www.archnet.org/"
+    },
+    {
+      "id": "BG5",
+      "title": "Encyclopaedia of Islam — Baghdad",
+      "use": "Amministrazione, società e istituzioni urbane.",
+      "url": "https://referenceworks.brillonline.com/"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Monterrey",
+      "lat": 25.6866,
+      "lon": -100.3161,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "sant",
+      "label": "Valle e Río Santa Catarina",
+      "lat": 25.67,
+      "lon": -100.38,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "salt",
+      "label": "Saltillo e Coahuila",
+      "lat": 25.42,
+      "lon": -101.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "lina",
+      "label": "Linares e pianure agricole",
+      "lat": 24.86,
+      "lon": -99.57,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "tam",
+      "label": "Tampico e Golfo",
+      "lat": 22.25,
+      "lon": -97.87,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "tex",
+      "label": "Texas e confine statunitense",
+      "lat": 27.5,
+      "lon": -99.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "mex",
+      "label": "Città del Messico e altopiano",
+      "lat": 19.43,
+      "lon": -99.13,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "sant",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiume, acquedotti e strade",
+      "food": "acqua, sabbia, pietra e manodopera"
+    },
+    {
+      "source": "salt",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie del nord",
+      "food": "carbone, minerali, bestiame e farina"
+    },
+    {
+      "source": "lina",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e ferrovia",
+      "food": "agrumi, mais, carne e legname"
+    },
+    {
+      "source": "tam",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia verso il Golfo",
+      "food": "petrolio, merci oceaniche e macchinari"
+    },
+    {
+      "source": "tex",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie transfrontaliere",
+      "food": "capitali, tecnici, rottami e attrezzature"
+    },
+    {
+      "source": "mex",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete ferroviaria",
+      "food": "mercati, istituzioni e domanda nazionale"
+    }
+  ]
+}

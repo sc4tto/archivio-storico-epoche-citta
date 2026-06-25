@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Wari",
+      "lat": -13.0614,
+      "lon": -74.2046,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "con",
+      "label": "Conchopata",
+      "lat": -13.163,
+      "lon": -74.199,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "ayu",
+      "label": "Valle di Ayacucho",
+      "lat": -13.15,
+      "lon": -74.25,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "qui",
+      "label": "Quinua",
+      "lat": -13.05,
+      "lon": -74.14,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "piki",
+      "label": "Pikillacta",
+      "lat": -13.617,
+      "lon": -71.714,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "pach",
+      "label": "Pachacamac",
+      "lat": -12.255,
+      "lon": -76.9,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "cerro",
+      "label": "Cerro Baúl",
+      "lat": -17.106,
+      "lon": -70.849,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "con",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "produzione ceramica e rituale",
+      "food": "vasellame e offerte"
+    },
+    {
+      "source": "ayu",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "approvvigionamento agricolo",
+      "food": "mais e tuberi"
+    },
+    {
+      "source": "qui",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "accesso locale e manodopera",
+      "food": "derrate e materiali"
+    },
+    {
+      "source": "piki",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "rete di centri provinciali",
+      "food": "beni e funzionari"
+    },
+    {
+      "source": "pach",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "connessioni costiere",
+      "food": "conchiglie, cotone e beni rituali"
+    },
+    {
+      "source": "cerro",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoio meridionale",
+      "food": "ceramiche, tessili e prodotti di valle"
+    }
+  ]
+}

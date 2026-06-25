@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Mesa Verde conserva un paesaggio Pueblo ancestrale durato fino al 1300.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "MV1; MV5"
+  },
+  {
+    "claim": "Le abitazioni rupestri più note appartengono soprattutto al XII–XIII secolo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "MV1; MV3"
+  },
+  {
+    "claim": "Cliff Palace e altri complessi comprendono molte stanze e kiva.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "MV1; MV3"
+  },
+  {
+    "claim": "L’agricoltura richiedeva gestione attenta dell’acqua e del suolo.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "MV1; MV4"
+  },
+  {
+    "claim": "Le case impiegavano arenaria, malta di fango e travi lignee.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "MV1; MV5"
+  },
+  {
+    "claim": "La migrazione finale non equivale a scomparsa culturale.",
+    "theme": "continuità",
+    "status": "documentato",
+    "source": "MV2"
+  },
+  {
+    "claim": "Siccità, risorse e tensioni sono considerate fattori multipli, non una causa unica.",
+    "theme": "metodo",
+    "status": "sintesi",
+    "source": "MV2; MV4"
+  },
+  {
+    "claim": "Il modulo termina al 1300, prima delle storie Pueblo successive.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "MV1"
+  }
+]

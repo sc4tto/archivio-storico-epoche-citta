@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Ivane Valley",
+      "lat": -8.45,
+      "lon": 147.05,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "kosipe",
+      "label": "Passo di Kosipe",
+      "lat": -8.48,
+      "lon": 147.02,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "forest",
+      "label": "Foreste montane",
+      "lat": -8.4,
+      "lon": 147.1,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "lowlands",
+      "label": "Bassopiani meridionali",
+      "lat": -8.8,
+      "lon": 146.9,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "stone",
+      "label": "Fonti litiche d’altopiano",
+      "lat": -8.3,
+      "lon": 146.9,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "sahul",
+      "label": "Reti di mobilità nella Nuova Guinea pleistocenica",
+      "lat": -7.5,
+      "lon": 145.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "kosipe",
+      "target": "site",
+      "label": "corridoi di passo e campi",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "forest",
+      "target": "site",
+      "label": "piante, selvaggina e combustibile",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "lowlands",
+      "target": "site",
+      "label": "mobilità stagionale e risorse complementari",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "stone",
+      "target": "site",
+      "label": "materie prime litiche",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "sahul",
+      "target": "site",
+      "label": "trasmissione di tecniche e popolamento",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

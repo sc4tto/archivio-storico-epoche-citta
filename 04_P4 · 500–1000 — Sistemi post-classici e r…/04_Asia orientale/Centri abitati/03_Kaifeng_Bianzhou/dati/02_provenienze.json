@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Kaifeng / Bianzhou",
+      "lat": 34.7973,
+      "lon": 114.3076,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "yellow",
+      "label": "Fiume Giallo e canali locali",
+      "lat": 34.9,
+      "lon": 114.3,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "canal",
+      "label": "Grande Canale",
+      "lat": 33.7,
+      "lon": 116.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "luoyang",
+      "label": "Luoyang",
+      "lat": 34.62,
+      "lon": 112.45,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "shandong",
+      "label": "Shandong occidentale",
+      "lat": 35.3,
+      "lon": 116.5,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "yangzi",
+      "label": "Basso Yangzi e granai meridionali",
+      "lat": 31.5,
+      "lon": 119.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "yellow",
+      "target": "site",
+      "label": "acqua, pesca, sedimenti e rischio di piena",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "canal",
+      "target": "site",
+      "label": "cereali, sale e traffici",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "luoyang",
+      "target": "site",
+      "label": "corte, artigiani e rivalità politica",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "shandong",
+      "target": "site",
+      "label": "merci regionali e collegamenti terrestri",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "yangzi",
+      "target": "site",
+      "label": "riso, tributi e beni di lusso",
+      "status": "documentato",
+      "food": "sì"
+    }
+  ]
+}

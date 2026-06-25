@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Massalia fu fondata da coloni focei intorno al 600 a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "MAS_MUSEUM"
+  },
+  {
+    "claim": "Il porto antico e parti delle mura sono documentati archeologicamente",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "MAS_MUSEUM"
+  },
+  {
+    "claim": "Le anfore massaliote testimoniano produzione e commercio del vino",
+    "theme": "Economia",
+    "status": "documentato",
+    "source": "MAS_CNRS"
+  },
+  {
+    "claim": "Il racconto di Gyptis e Protis è una cronaca contemporanea verificata",
+    "theme": "Fonti",
+    "status": "non_documentato",
+    "source": "Tradizione letteraria tarda"
+  },
+  {
+    "claim": "Massalia mediava scambi con la valle del Rodano e la Gallia",
+    "theme": "Reti",
+    "status": "documentato",
+    "source": "MAS_INRAP"
+  },
+  {
+    "claim": "La città rimase politicamente immutata dopo la conquista romana",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Trasformazioni istituzionali e urbane"
+  },
+  {
+    "claim": "Gli scavi urbani sono condizionati dalla città moderna",
+    "theme": "Metodo",
+    "status": "documentato",
+    "source": "MAS_INRAP"
+  },
+  {
+    "claim": "La comunità cristiana è attestata nella tarda antichità",
+    "theme": "Religione",
+    "status": "documentato",
+    "source": "MAS_MUSEUM"
+  }
+]

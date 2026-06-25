@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Poverty Point",
+      "lat": 32.6375,
+      "lon": -91.4072,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "bayou",
+      "label": "Bayou Macon",
+      "lat": 32.64,
+      "lon": -91.39,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "ouachita",
+      "label": "Bacino Ouachita",
+      "lat": 32.5,
+      "lon": -92.1,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "ozarks",
+      "label": "Ozarks e Ouachita Mountains",
+      "lat": 35.5,
+      "lon": -93.2,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "greatlakes",
+      "label": "Regione dei Grandi Laghi",
+      "lat": 44.0,
+      "lon": -86.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "appalachians",
+      "label": "Appalachi meridionali",
+      "lat": 35.5,
+      "lon": -83.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "bayou",
+      "target": "site",
+      "label": "pesce, molluschi e mobilità",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "ouachita",
+      "target": "site",
+      "label": "reti regionali e legname",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "ozarks",
+      "target": "site",
+      "label": "novaculite e selce",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "greatlakes",
+      "target": "site",
+      "label": "rame nativo",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "appalachians",
+      "target": "site",
+      "label": "steatite e altre pietre",
+      "status": "documentato",
+      "food": "no"
+    }
+  ]
+}

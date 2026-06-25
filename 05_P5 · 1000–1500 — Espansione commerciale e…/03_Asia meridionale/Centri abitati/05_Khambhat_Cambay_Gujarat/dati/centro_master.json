@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Khambhat–Cambay e i porti del Gujarat",
+    "site": "Khambhat–Cambay",
+    "modern_location": "Gujarat, India",
+    "coordinates": {
+      "lat": 22.3137,
+      "lon": 72.6194
+    },
+    "scope": "Khambhat fra 1000 e 1500: porto del golfo di Cambay, città mercantile sotto regni regionali e Sultanato del Gujarat, produzione tessile e di perle in pietra, moschee, mercati e collegamenti oceanici.",
+    "version": "1.0",
+    "warning": "Il modulo tratta l’emporio medievale. Il progressivo interramento del porto e le trasformazioni moghul e coloniali sono posteriori o solo richiamati come limite."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "KH1",
+      "title": "Encyclopaedia Britannica — Khambhat",
+      "use": "Geografia e storia del porto di Cambay.",
+      "url": "https://www.britannica.com/place/Khambhat"
+    },
+    {
+      "id": "KH2",
+      "title": "Encyclopaedia Iranica — Cambay",
+      "use": "Commercio persiano e reti dell’Oceano Indiano.",
+      "url": "https://iranicaonline.org/articles/cambay-khambhat"
+    },
+    {
+      "id": "KH3",
+      "title": "The Metropolitan Museum of Art — Indian trade textiles",
+      "use": "Tessili, tinture e circolazione delle manifatture indiane.",
+      "url": "https://www.metmuseum.org/toah/hd/intx/hd_intx.htm"
+    },
+    {
+      "id": "KH4",
+      "title": "Gujarat Tourism — Khambhat",
+      "use": "Patrimonio urbano, artigianato e geografia del golfo.",
+      "url": "https://www.gujarattourism.com/central-zone/anand/khambhat.html"
+    },
+    {
+      "id": "KH5",
+      "title": "Fordham Sourcebook — Ibn Battuta",
+      "use": "Descrizioni di città e mercanti dell’India medievale.",
+      "url": "https://sourcebooks.fordham.edu/source/1354-ibnbattuta.asp"
+    }
+  ]
+}

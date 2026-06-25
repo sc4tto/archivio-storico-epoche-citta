@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Il sito fu occupato per circa cinque secoli nel II millennio a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "KPD_WORLDARCH"
+  },
+  {
+    "claim": "Il tumulo conserva una sequenza ambientale e funeraria eccezionale",
+    "theme": "Stratigrafia",
+    "status": "documentato",
+    "source": "KPD_WORLDARCH"
+  },
+  {
+    "claim": "Sono documentate 154 sepolture",
+    "theme": "Funerario",
+    "status": "documentato",
+    "source": "KPD_OXFORD"
+  },
+  {
+    "claim": "La produzione ceramica e gli ornamenti di conchiglia ebbero grande importanza",
+    "theme": "Artigianato",
+    "status": "documentato",
+    "source": "KPD_WORLDARCH"
+  },
+  {
+    "claim": "Alcune donne provenivano da ambienti differenti",
+    "theme": "Mobilità",
+    "status": "sintesi",
+    "source": "KPD_CURRENT"
+  },
+  {
+    "claim": "La coltivazione del riso fu costante in ogni fase",
+    "theme": "Agricoltura",
+    "status": "non_documentato",
+    "source": "Uso variabile nel tempo"
+  },
+  {
+    "claim": "Le differenze funerarie provano una monarchia",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Disuguaglianze senza Stato dimostrato"
+  },
+  {
+    "claim": "Il sito rimase sempre sulla stessa linea di costa",
+    "theme": "Ambiente",
+    "status": "non_documentato",
+    "source": "Forte cambiamento estuarino"
+  }
+]

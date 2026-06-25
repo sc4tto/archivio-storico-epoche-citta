@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Roma fu centro della Repubblica, dell’Impero e poi del cristianesimo latino",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "ROM_UNESCO"
+  },
+  {
+    "claim": "Fori, Pantheon, mausolei e colonne testimoniano più fasi imperiali",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "ROM_UNESCO"
+  },
+  {
+    "claim": "Ostia e Portus sostenevano l’approvvigionamento della capitale",
+    "theme": "Reti",
+    "status": "documentato",
+    "source": "ROM_OSTIA"
+  },
+  {
+    "claim": "L’intera popolazione urbana viveva in domus aristocratiche",
+    "theme": "Società",
+    "status": "non_documentato",
+    "source": "Insulae e alloggi differenziati"
+  },
+  {
+    "claim": "Gli acquedotti alimentavano terme, fontane e utenze pubbliche e private",
+    "theme": "Infrastrutture",
+    "status": "documentato",
+    "source": "ROM_UNESCO"
+  },
+  {
+    "claim": "Ogni monumento visibile appartiene a una sola fase edilizia",
+    "theme": "Metodo",
+    "status": "non_documentato",
+    "source": "Stratigrafia e restauri successivi"
+  },
+  {
+    "claim": "La città dipendeva da importazioni mediterranee di grano e olio",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "ROM_OSTIA"
+  },
+  {
+    "claim": "Le basiliche cristiane divennero centrali nel IV–V secolo",
+    "theme": "Religione",
+    "status": "documentato",
+    "source": "ROM_UNESCO"
+  }
+]

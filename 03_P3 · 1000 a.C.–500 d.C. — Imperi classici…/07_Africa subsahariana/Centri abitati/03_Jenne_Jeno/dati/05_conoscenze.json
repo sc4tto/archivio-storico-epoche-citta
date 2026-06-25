@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Jenne-jeno",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Urbanismo",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Quartieri multipli",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Insediamenti satelliti",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Stato centralizzato",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Metallurgia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Scorie",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Ferro",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Organizzazione delle officine",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Riso africano",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_2",
+          "label": "Miglio e sorgo",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_3",
+          "label": "Gestione delle piene",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Ceramica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Vasi domestici",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Figurine",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Cronologie stilistiche",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Commercio",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Niger",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Rame e sale",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_3",
+          "label": "Oro transahariano nel P3",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Paesaggio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Toguere",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Zone umide",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Confini urbani rigidi",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

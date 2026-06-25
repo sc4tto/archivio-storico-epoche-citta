@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Gondar imperiale",
+    "site": "Gondar imperiale",
+    "modern_location": "Gondar, Etiopia",
+    "coordinates": {
+      "lat": 12.603,
+      "lon": 37.4521
+    },
+    "scope": "Gondar fra 1636 e 1800: fondazione di Fasilides, complessi reali, chiese, mercati, artigianato, reti carovaniere e cultura della corte gondarina.",
+    "version": "1.0",
+    "warning": "Il modulo distingue la fondazione seicentesca e l’apogeo del XVII–XVIII secolo dalle trasformazioni politiche e militari dell’Ottocento."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "GO1",
+      "title": "UNESCO — Fasil Ghebbi, Gondar Region",
+      "use": "Recinto reale, architettura e storia della capitale gondarina.",
+      "url": "https://whc.unesco.org/en/list/19/"
+    },
+    {
+      "id": "GO2",
+      "title": "Encyclopaedia Britannica — Gondar",
+      "use": "Fondazione, capitale imperiale e storia urbana.",
+      "url": "https://www.britannica.com/place/Gonder"
+    },
+    {
+      "id": "GO3",
+      "title": "UNESCO — Fasil Ghebbi documents",
+      "use": "Documentazione sul complesso reale e sulla conservazione.",
+      "url": "https://whc.unesco.org/en/list/19/documents/"
+    },
+    {
+      "id": "GO4",
+      "title": "The Metropolitan Museum of Art — Ethiopian art",
+      "use": "Contesto artistico, religioso e materiale dell’Etiopia cristiana.",
+      "url": "https://www.metmuseum.org/toah/hd/ethc/hd_ethc.htm"
+    },
+    {
+      "id": "GO5",
+      "title": "British Museum — Ethiopia collections",
+      "use": "Oggetti, manoscritti e cultura materiale etiopica.",
+      "url": "https://www.britishmuseum.org/collection/galleries/ethiopia-and-coptic-egypt"
+    }
+  ]
+}

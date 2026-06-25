@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Shanghai, trasformazione socialista e città industriale",
+    "site": "Shanghai, trasformazione socialista e città industriale",
+    "modern_location": "Shanghai, Cina",
+    "coordinates": {
+      "lat": 31.2304,
+      "lon": 121.4737
+    },
+    "scope": "Shanghai fra 1945 e 1970: guerra civile, instaurazione della Repubblica Popolare, trasformazione socialista di imprese e proprietà, industrializzazione pianificata, controllo delle migrazioni, Grande balzo, crisi alimentari e Rivoluzione culturale.",
+    "version": "1.0",
+    "warning": "Sono esclusi riforme e apertura dal 1978, sviluppo di Pudong dal 1990 e tutte le trasformazioni economiche e portuali successive al 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SH1",
+      "title": "Shanghai Municipal Government — Shanghai Basic Facts 2024",
+      "use": "Cronologia istituzionale dal 1949 e ruolo economico della città.",
+      "url": "https://english.shanghai.gov.cn/cmsres/b2/b28c98aa466c4e0a9c1ec572ff6e51f0/4870ef4d844b264c050bc9ad4be6bf71.pdf"
+    },
+    {
+      "id": "SH2",
+      "title": "Cambridge University Press — The Maoist Period (1949–1976)",
+      "use": "Industrializzazione urbana, reti nazionali e controllo della migrazione.",
+      "url": "https://www.cambridge.org/core/books/an-urban-history-of-china/maoist-period-19491976/68BBFDFC39AB21CCF49EA01322BE45C4"
+    },
+    {
+      "id": "SH3",
+      "title": "Modern Asian Studies — Communist Takeovers of British Companies in Shanghai, 1949–1954",
+      "use": "Trasformazione delle imprese e costruzione dello Stato socialista.",
+      "url": "https://www.cambridge.org/core/journals/modern-asian-studies/article/british-boss-is-gone-and-will-never-return-communist-takeovers-of-british-companies-in-shanghai-19491954/5C2108C4D25543DFDE5688AD3321C2E9"
+    },
+    {
+      "id": "SH4",
+      "title": "Urban History — Shanghai Flora: the Politics of Urban Greening in Maoist China",
+      "use": "Pianificazione, ambiente e vita quotidiana nella Shanghai maoista.",
+      "url": "https://www.cambridge.org/core/journals/urban-history/article/shanghai-flora-the-politics-of-urban-greening-in-maoist-china/403810F170AC0955D7D84934707F10D3"
+    }
+  ]
+}

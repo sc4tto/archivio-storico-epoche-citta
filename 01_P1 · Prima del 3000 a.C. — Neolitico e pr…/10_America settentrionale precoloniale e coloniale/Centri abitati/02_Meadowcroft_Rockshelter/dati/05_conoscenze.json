@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Meadowcroft Rockshelter",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Cronologia",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Radiocarbonio",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Contaminazione da carbone",
+          "status": "sintesi"
+        },
+        {
+          "id": "k1_3",
+          "label": "Correlazione stratigrafica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Litica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Scheggiatura",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Ritocco",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Materie prime non locali",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Piante",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Noci e semi",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Frutti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Conservazione",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Fauna",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Cervo e piccola selvaggina",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Molluschi",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Stagionalità",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Focolari",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Accensione",
+          "status": "inferito"
+        },
+        {
+          "id": "k5_2",
+          "label": "Cottura",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Riuso dello spazio",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Mobilità",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Bacino dell’Ohio",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Scambi lontani",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_3",
+          "label": "Residenza permanente",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

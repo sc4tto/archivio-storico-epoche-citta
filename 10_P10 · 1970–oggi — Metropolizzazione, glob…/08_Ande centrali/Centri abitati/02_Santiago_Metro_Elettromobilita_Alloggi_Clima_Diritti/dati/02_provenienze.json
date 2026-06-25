@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Santiago metropolitana",
+      "lat": -33.4489,
+      "lon": -70.6693,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "mai",
+      "label": "Valle del Maipo",
+      "lat": -33.75,
+      "lon": -70.65,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "cor",
+      "label": "Cordillera e precordillera",
+      "lat": -33.4,
+      "lon": -70.35,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "val",
+      "label": "Valparaíso e costa centrale",
+      "lat": -33.05,
+      "lon": -71.6,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "cen",
+      "label": "Valli del Cile centrale",
+      "lat": -34.5,
+      "lon": -71.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "sur",
+      "label": "Cile meridionale",
+      "lat": -39.5,
+      "lon": -72.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "glob",
+      "label": "Pacifico e reti globali",
+      "lat": -30.0,
+      "lon": -76.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "mai",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "agricoltura periurbana e ferias",
+      "food": "verdure, frutta, uva, vino e latticini"
+    },
+    {
+      "source": "cor",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "bacini montani e distribuzione",
+      "food": "acqua, prodotti di montagna e servizi ecosistemici"
+    },
+    {
+      "source": "val",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "autostrada, porto e catena del freddo",
+      "food": "pesce, merci e alimenti importati"
+    },
+    {
+      "source": "cen",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoi stradali e grossisti",
+      "food": "cereali, carne, frutta e ortaggi"
+    },
+    {
+      "source": "sur",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia, autostrade e logistica",
+      "food": "latte, carne, patate e prodotti forestali"
+    },
+    {
+      "source": "glob",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porti e commercio internazionale",
+      "food": "grano, oli, ingredienti e prodotti confezionati"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Lake Mungo",
+      "lat": -33.75,
+      "lon": 143.12,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "lunette",
+      "label": "Walls of China / lunette",
+      "lat": -33.77,
+      "lon": 143.15,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "willandra",
+      "label": "Sistema dei laghi Willandra",
+      "lat": -33.5,
+      "lon": 143.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "creeks",
+      "label": "Willandra Creek",
+      "lat": -33.2,
+      "lon": 143.3,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "stone",
+      "label": "Fonti litiche regionali",
+      "lat": -34.0,
+      "lon": 142.6,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "southeast",
+      "label": "Reti del sud-est australiano",
+      "lat": -35.0,
+      "lon": 145.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "lunette",
+      "target": "site",
+      "label": "ripari, focolari e sepolture",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "willandra",
+      "target": "site",
+      "label": "acqua, pesci e molluschi",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "creeks",
+      "target": "site",
+      "label": "corridoi ecologici",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "stone",
+      "target": "site",
+      "label": "rocce per strumenti",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "southeast",
+      "target": "site",
+      "label": "mobilità e trasmissione culturale",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

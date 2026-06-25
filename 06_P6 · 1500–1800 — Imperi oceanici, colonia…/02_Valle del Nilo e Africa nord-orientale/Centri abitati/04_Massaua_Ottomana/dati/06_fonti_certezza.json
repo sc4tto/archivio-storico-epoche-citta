@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Massaua fu occupata dagli Ottomani nel 1557.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "MA1; MA2"
+  },
+  {
+    "claim": "Il porto fu collegato all’amministrazione dell’eyalet di Habesh.",
+    "theme": "amministrazione",
+    "status": "documentato",
+    "source": "MA2"
+  },
+  {
+    "claim": "Naib locali mediarono il controllo fra potere ottomano e hinterland.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "MA2"
+  },
+  {
+    "claim": "Arkiko e le carovane collegavano il porto all’altopiano etiopico.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "MA1; MA5"
+  },
+  {
+    "claim": "Pietra corallina, calce e legno erano materiali fondamentali dell’edilizia portuale.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "MA2"
+  },
+  {
+    "claim": "Dogane, magazzini e mercati sostenevano il commercio del Mar Rosso.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "MA1; MA4"
+  },
+  {
+    "claim": "Pesca, sale e derrate d’altopiano sostenevano l’approvvigionamento.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "MA1"
+  },
+  {
+    "claim": "Le principali ricostruzioni ottocentesche sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "MA1"
+  }
+]

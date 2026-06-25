@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Calcutta–Kolkata capitale e industriale",
+    "site": "Calcutta–Kolkata capitale e industriale",
+    "modern_location": "Kolkata, India",
+    "coordinates": {
+      "lat": 22.5726,
+      "lon": 88.3639
+    },
+    "scope": "Calcutta fra 1900 e 1945: capitale imperiale fino al trasferimento a Delhi, porto e industria della juta, municipalità, epidemie, università, movimento swadeshi, carestia del Bengala e guerra mondiale.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1945. Partizione del Bengala del 1947, grandi flussi di rifugiati e crescita postcoloniale sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "KO1",
+      "title": "Victoria Memorial Hall — Kolkata",
+      "use": "Storia urbana e politica del periodo coloniale.",
+      "url": "https://victoriamemorial-cal.org/"
+    },
+    {
+      "id": "KO2",
+      "title": "Encyclopaedia Britannica — Kolkata",
+      "use": "Storia della capitale, porto e industria.",
+      "url": "https://www.britannica.com/place/Kolkata"
+    },
+    {
+      "id": "KO3",
+      "title": "Kolkata Port Trust / Syama Prasad Mookerjee Port",
+      "use": "Porto dell’Hooghly e infrastrutture.",
+      "url": "https://smportkolkata.shipping.gov.in/"
+    },
+    {
+      "id": "KO4",
+      "title": "National Archives of India",
+      "use": "Fonti sul Raj, movimento nazionale e amministrazione.",
+      "url": "https://nationalarchives.nic.in/"
+    },
+    {
+      "id": "KO5",
+      "title": "Indian Museum Kolkata",
+      "use": "Cultura materiale, scienza e istituzioni.",
+      "url": "https://indianmuseumkolkata.org/"
+    }
+  ]
+}

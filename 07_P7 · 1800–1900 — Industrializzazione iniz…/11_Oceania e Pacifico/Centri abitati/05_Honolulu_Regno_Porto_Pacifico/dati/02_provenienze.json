@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Honolulu",
+      "lat": 21.3069,
+      "lon": -157.8583,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "oah",
+      "label": "Oʻahu ahupuaʻa",
+      "lat": 21.45,
+      "lon": -157.95,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "har",
+      "label": "Honolulu Harbor e reefs",
+      "lat": 21.31,
+      "lon": -157.87,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "ewa",
+      "label": "ʻEwa e piantagioni",
+      "lat": 21.34,
+      "lon": -158.02,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "mau",
+      "label": "Maui, Hawaiʻi e altre isole",
+      "lat": 20.8,
+      "lon": -156.3,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "usa",
+      "label": "San Francisco e costa pacifica USA",
+      "lat": 37.77,
+      "lon": -122.42,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "asia",
+      "label": "Cina, Giappone e Pacifico occidentale",
+      "lat": 25.0,
+      "lon": 130.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "oah",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sentieri e costa",
+      "food": "kalo, acqua, legname e prodotti degli ahupuaʻa"
+    },
+    {
+      "source": "har",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto e reefs",
+      "food": "pesce, sale e servizi portuali"
+    },
+    {
+      "source": "ewa",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e ferrovie leggere",
+      "food": "zucchero, manodopera e prodotti agricoli"
+    },
+    {
+      "source": "mau",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione interinsulare",
+      "food": "bestiame, zucchero, pesce e merci interinsulari"
+    },
+    {
+      "source": "usa",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte a vapore del Pacifico",
+      "food": "capitale, manufatti, missionari e mercati"
+    },
+    {
+      "source": "asia",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte transpacifiche",
+      "food": "lavoratori migranti, riso e merci"
+    }
+  ]
+}

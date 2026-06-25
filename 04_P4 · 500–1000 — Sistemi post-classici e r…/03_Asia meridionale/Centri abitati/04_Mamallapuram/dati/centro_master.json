@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Mamallapuram — modulo multi-grafo",
+    "short_name": "Mamallapuram",
+    "site": "Porto pallava e complesso monumentale di Mamallapuram",
+    "modern_location": "Mamallapuram, Tamil Nadu, India",
+    "coordinates": {
+      "lat": 12.6208,
+      "lon": 80.1945
+    },
+    "scope": "Porto e centro monumentale pallava dei secoli VII–VIII, con grotte rupestri, ratha monolitici, grandi rilievi, santuari strutturali, attività di scultura e collegamenti marittimi nel Golfo del Bengala.",
+    "version": "1.0-blocco_39_p4_asia_meridionale_5_centri_v1",
+    "warning": "I monumenti conservati non restituiscono da soli la pianta completa del porto e dell’abitato. Le denominazioni “Pancha Rathas” e “Penitenza di Arjuna” sono convenzionali; la leggenda delle “Sette Pagode” e l’idea di una vasta città sommersa non costituiscono prova archeologica sufficiente."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "MAM_UNESCO",
+      "title": "UNESCO — Group of Monuments at Mahabalipuram",
+      "url": "https://whc.unesco.org/en/list/249/",
+      "use": "cronologia, monumenti e valore architettonico"
+    },
+    {
+      "id": "MAM_ASI",
+      "title": "Archaeological Survey of India — Mahabalipuram",
+      "url": "https://asi.nic.in/",
+      "use": "conservazione, rilievi e monumenti"
+    },
+    {
+      "id": "MAM_MARR",
+      "title": "John R. Marr — New excavations at the Shore Temple",
+      "url": "https://doi.org/10.1017/S0041977X00000926",
+      "use": "scavi costieri e fasi architettoniche"
+    }
+  ]
+}

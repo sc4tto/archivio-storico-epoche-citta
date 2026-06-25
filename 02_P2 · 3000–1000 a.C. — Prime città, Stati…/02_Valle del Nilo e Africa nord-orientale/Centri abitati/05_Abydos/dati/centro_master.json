@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Abydos — modulo multi-grafo",
+    "short_name": "Abydos",
+    "site": "Abydos / Umm el-Qaab e Kom el-Sultan",
+    "modern_location": "Governatorato di Sohag, Egitto",
+    "coordinates": {
+      "lat": 26.185,
+      "lon": 31.919
+    },
+    "scope": "Centro sacro dell’Alto Egitto con cimiteri reali protodinastici, recinti monumentali, insediamento, tempio di Osiride e, nel Medio e Nuovo Regno, cappelle, processioni e complessi funerari.",
+    "version": "1.0-blocco_15_p2_valle_nilo_5_centri_v1",
+    "warning": "Abydos raccoglie aree e monumenti di epoche molto diverse. Le tombe protodinastiche, i recinti della II dinastia, i complessi del Medio Regno e i templi ramessidi non furono contemporanei."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "ABYDOS_UCL",
+      "title": "UCL Digital Egypt — Abydos",
+      "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/abydos/index.html",
+      "use": "topografia, tombe reali, città e culto"
+    },
+    {
+      "id": "ABYDOS_DAI",
+      "title": "German Archaeological Institute — Abydos",
+      "url": "https://www.dainst.org/en/project/abydos",
+      "use": "scavi della necropoli reale e cronologia"
+    },
+    {
+      "id": "ABYDOS_PENN",
+      "title": "Penn Museum — Abydos archaeological research",
+      "url": "https://www.penn.museum/research/archaeology/abydos",
+      "use": "insediamenti, monumenti e ricerche sul Medio Regno"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Alessandria portuale e cosmopolita",
+    "site": "Alessandria portuale e cosmopolita",
+    "modern_location": "Alessandria, Egitto",
+    "coordinates": {
+      "lat": 31.2001,
+      "lon": 29.9187
+    },
+    "scope": "Alessandria fra 1900 e 1945: porto cotoniero, comunità greche, italiane, ebraiche, armene e levantine, sviluppo industriale, municipalità, epidemie, nazionalismo egiziano e funzione militare nel Mediterraneo.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1945. Nazionalizzazioni, esodi delle comunità straniere e trasformazioni urbane dell’epoca nasseriana sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "AL1",
+      "title": "Bibliotheca Alexandrina — Alexandria and Mediterranean Research Center",
+      "use": "Storia urbana, mappe e patrimonio moderno.",
+      "url": "https://www.bibalex.org/alexmed/"
+    },
+    {
+      "id": "AL2",
+      "title": "Encyclopaedia Britannica — Alexandria",
+      "use": "Storia portuale e sviluppo moderno.",
+      "url": "https://www.britannica.com/place/Alexandria-Egypt"
+    },
+    {
+      "id": "AL3",
+      "title": "Egyptian National Archives",
+      "use": "Amministrazione portuale e municipale.",
+      "url": "https://www.nationalarchives.gov.eg/"
+    },
+    {
+      "id": "AL4",
+      "title": "Corderie and Maritime Museum collections",
+      "use": "Porto, navigazione e comunità mercantili.",
+      "url": "https://www.bibalex.org/"
+    },
+    {
+      "id": "AL5",
+      "title": "UNESCO — Underwater Cultural Heritage in Alexandria",
+      "use": "Paesaggio costiero e memoria portuale.",
+      "url": "https://www.unesco.org/en/underwater-cultural-heritage"
+    }
+  ]
+}

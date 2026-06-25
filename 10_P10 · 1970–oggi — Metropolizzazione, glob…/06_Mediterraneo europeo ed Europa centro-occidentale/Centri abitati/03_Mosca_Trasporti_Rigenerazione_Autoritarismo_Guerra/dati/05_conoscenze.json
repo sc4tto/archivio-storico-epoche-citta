@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Mosca, trasporti, rigenerazione, autoritarismo e guerra",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Governance centralizzata",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Governo cittadino, distretti e coordinamento federale",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Bilanci, programmi mirati e limitata partecipazione pubblica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mobilità metropolitana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Metro, MCC, MCD, bus, tram e interscambi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Tariffe integrate, digitalizzazione e sorveglianza",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Alloggi e rinnovo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Khrushchëvki, torri, ricollocazioni e nuovi quartieri",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Demolizione, compensazione e conflitti sui diritti abitativi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Economia post-socialista",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Finanza, servizi, costruzioni e piattaforme",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Disuguaglianze, lavoro migrante e dipendenza dallo Stato",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Autoritarismo e guerra",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Controllo dello spazio pubblico e propaganda",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Repressione del dissenso, mobilitazione e impatti della guerra",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

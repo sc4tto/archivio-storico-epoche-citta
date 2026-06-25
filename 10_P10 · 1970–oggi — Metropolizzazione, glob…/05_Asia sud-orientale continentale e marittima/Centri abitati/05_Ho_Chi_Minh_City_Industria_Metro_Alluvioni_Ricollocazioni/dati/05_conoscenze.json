@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Ho Chi Minh City, industria, metro, alluvioni e ricollocazioni",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Industrializzazione e logistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Zone industriali, porto, export e catene globali",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Servizi, finanza, startup e manifattura avanzata",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mobilità urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Motocicli, autobus, strade e Metro Line 1",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Interscambi, TOD e ulteriori linee pianificate",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Acqua e territorio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Fiume Saigon, canali, maree e drenaggio",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Subsidenza, riempimenti, alluvioni e verde-blu",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Migrazione e alloggi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Migranti interni, lavoratori industriali e affitti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Autocostruzione, appartamenti e ricollocazioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Governance e diritti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Comitato popolare, pianificazione e amministrazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Acquisizioni fondiarie, libertà di espressione e partecipazione",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

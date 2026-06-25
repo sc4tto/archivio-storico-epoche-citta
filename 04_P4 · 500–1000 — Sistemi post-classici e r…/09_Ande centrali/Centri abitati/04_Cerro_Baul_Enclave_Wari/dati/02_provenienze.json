@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Cerro Baúl",
+      "lat": -17.106,
+      "lon": -70.849,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "mejia",
+      "label": "Cerro Mejía",
+      "lat": -17.11,
+      "lon": -70.86,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "moq",
+      "label": "Valle di Moquegua",
+      "lat": -17.19,
+      "lon": -70.93,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "ocean",
+      "label": "Costa di Ilo",
+      "lat": -17.64,
+      "lon": -71.34,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "wari",
+      "label": "Wari-Ayacucho",
+      "lat": -13.06,
+      "lon": -74.2,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "tiwa",
+      "label": "Tiwanaku",
+      "lat": -16.55,
+      "lon": -68.67,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "coch",
+      "label": "Valli orientali",
+      "lat": -17.4,
+      "lon": -66.2,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "mejia",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "insediamento associato",
+      "food": "manodopera e derrate"
+    },
+    {
+      "source": "moq",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "agricoltura valliva",
+      "food": "mais e molle"
+    },
+    {
+      "source": "ocean",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "corridoio verso la costa",
+      "food": "pesce e cotone"
+    },
+    {
+      "source": "wari",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "connessione politica e stilistica",
+      "food": "ceramiche, tessili e funzionari"
+    },
+    {
+      "source": "tiwa",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "frontiera e interazione",
+      "food": "vasellame e beni di scambio"
+    },
+    {
+      "source": "coch",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "reti vallive",
+      "food": "coca e prodotti tropicali"
+    }
+  ]
+}

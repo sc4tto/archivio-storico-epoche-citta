@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Honolulu, statehood, turismo, motorizzazione e terra",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Economia insulare",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Porto, basi militari, piantagioni, turismo e commercio",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Dipendenza dalle importazioni e costi della distanza",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Edilizia postbellica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Quonset huts, housing, hotels e shopping centres",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Carenza di materiali, prefabbricazione e sviluppo immobiliare",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Motorizzazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Highways, ponti, aeroporto e suburbanizzazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Congestione, consumo di suolo e trasformazione dei corridoi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Statehood e governo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Transizione territoriale, nuove istituzioni e investimenti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Rapporto diseguale con il potere federale e militare",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Terra e diritti Native Hawaiian",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Alienazione, Hawaiian Home Lands e perdita di accesso",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Organizzazione comunitaria, cultura, lavoro e rivendicazioni",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

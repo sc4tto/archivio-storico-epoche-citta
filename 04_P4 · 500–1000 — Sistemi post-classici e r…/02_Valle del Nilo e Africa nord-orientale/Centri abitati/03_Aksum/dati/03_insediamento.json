@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Apogeo del VI secolo",
+    "Campagne in Arabia e reti del Mar Rosso",
+    "Consolidamento cristiano",
+    "Contrazione dei traffici e della monetazione",
+    "Declino politico e continuità sacra"
+  ],
+  "items": [
+    {
+      "id": "palaces",
+      "label": "Palazzi e residenze d’élite",
+      "lane": "Politiche",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "churches",
+      "label": "Chiese e monasteri",
+      "lane": "Religiose",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "tombs",
+      "label": "Tombe e campi di stele",
+      "lane": "Funerarie",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "coins",
+      "label": "Monetazione aksumita",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "markets",
+      "label": "Mercati e magazzini",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "roads",
+      "label": "Strade verso Adulis",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "decline",
+      "label": "Riduzione della centralità politica",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

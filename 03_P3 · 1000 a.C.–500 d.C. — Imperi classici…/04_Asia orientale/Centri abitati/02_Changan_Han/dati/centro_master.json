@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Chang’an Han — modulo multi-grafo",
+    "short_name": "Chang’an Han",
+    "site": "Città Han di Chang’an e palazzi di Weiyang e Changle",
+    "modern_location": "Xi’an, Shaanxi, Cina",
+    "coordinates": {
+      "lat": 34.292,
+      "lon": 108.897
+    },
+    "scope": "Capitale degli Han occidentali e del regime Xin, grande centro amministrativo, palaziale, artigianale e commerciale collegato alle vie verso l’Asia centrale e alle reti interne dell’impero.",
+    "version": "1.0-blocco_29_p3_asia_orientale_5_centri_v1",
+    "warning": "La città Han non coincide con la Chang’an Tang più tarda. Molte strutture sono note in forma archeologica frammentaria; la ricostruzione di quartieri e popolazione dipende anche da fonti testuali."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "CHA_UNESCO",
+      "title": "UNESCO — Silk Roads: Chang’an-Tianshan Corridor",
+      "url": "https://whc.unesco.org/en/list/1442/",
+      "use": "Weiyang Palace, capitali Han e reti della Via della Seta"
+    },
+    {
+      "id": "CHA_MET",
+      "title": "Metropolitan Museum — Han Dynasty",
+      "url": "https://www.metmuseum.org/essays/han-dynasty-206-b-c-220-a-d",
+      "use": "burocrazia, commerci, tecnologie e cultura Han"
+    },
+    {
+      "id": "CHA_BOOK",
+      "title": "Michael Loewe — The Government of the Qin and Han Empires",
+      "url": "https://search.worldcat.org/search?q=The+Government+of+the+Qin+and+Han+Empires",
+      "use": "amministrazione e istituzioni della capitale"
+    }
+  ]
+}

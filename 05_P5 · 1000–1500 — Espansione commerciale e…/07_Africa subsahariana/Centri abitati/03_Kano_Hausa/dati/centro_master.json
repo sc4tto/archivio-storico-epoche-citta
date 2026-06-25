@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Kano hausa e città murata",
+    "site": "Città antica di Kano",
+    "modern_location": "Kano, Nigeria",
+    "coordinates": {
+      "lat": 12.0022,
+      "lon": 8.592
+    },
+    "scope": "Kano fra 1000 e 1500: formazione della capitale hausa, avvio e ampliamento delle mura, mercati, produzione tessile e metallurgica, islamizzazione e riforme di Muhammad Rumfa.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1500. L’emirato ottocentesco e le trasformazioni coloniali non appartengono al periodo P5."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "KA1",
+      "title": "Encyclopaedia Britannica — Kano",
+      "use": "Fondazione tradizionale, mura, mercati e attività artigiane.",
+      "url": "https://www.britannica.com/place/Kano-Nigeria"
+    },
+    {
+      "id": "KA2",
+      "title": "Encyclopaedia Britannica — Hausa states",
+      "use": "Contesto politico e commerciale delle città-stato hausa.",
+      "url": "https://www.britannica.com/place/Hausa-states"
+    },
+    {
+      "id": "KA3",
+      "title": "UNESCO — General History of Africa",
+      "use": "Storia dei regni hausa e delle reti del Sudan occidentale.",
+      "url": "https://www.unesco.org/en/general-history-africa"
+    },
+    {
+      "id": "KA4",
+      "title": "Metropolitan Museum — Art of the Sahel and Savanna",
+      "use": "Cultura materiale, tessuti, metalli e reti regionali.",
+      "url": "https://www.metmuseum.org/toah/hd/sahe/hd_sahe.htm"
+    },
+    {
+      "id": "KA5",
+      "title": "Smithsonian National Museum of African Art",
+      "use": "Arte e cultura materiale dell’Africa occidentale.",
+      "url": "https://africa.si.edu/"
+    }
+  ]
+}

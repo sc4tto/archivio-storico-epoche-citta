@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Fondazione focea e primo porto",
+    "Sviluppo arcaico e commercio del vino",
+    "Massalia classica ed ellenistica",
+    "Conquista romana e Massilia",
+    "Città romana e cristiana tardoantica"
+  ],
+  "items": [
+    {
+      "id": "port",
+      "label": "Porto, moli e cantieri",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "walls",
+      "label": "Mura e porte",
+      "lane": "Difensive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "housing",
+      "label": "Quartieri e case",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "amphora",
+      "label": "Produzione di anfore e vino",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "roads",
+      "label": "Vie verso Rodano e Gallia",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "necrop",
+      "label": "Necropoli",
+      "lane": "Rituali",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "roman",
+      "label": "Edifici e infrastrutture romane",
+      "lane": "Monumentali",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

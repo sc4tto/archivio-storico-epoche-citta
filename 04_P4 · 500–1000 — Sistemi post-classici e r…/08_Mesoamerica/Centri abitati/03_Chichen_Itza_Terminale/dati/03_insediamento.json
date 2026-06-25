@@ -1,0 +1,74 @@
+{
+  "phases": [
+    "650–750",
+    "750–850",
+    "850–925",
+    "925–1000"
+  ],
+  "items": [
+    {
+      "id": "ch1",
+      "label": "Sviluppo dei gruppi antichi e della rete di sacbeob",
+      "lane": "Urbanistica",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ch2",
+      "label": "Crescita attorno ai cenotes e ai gruppi residenziali",
+      "lane": "Abitato",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ch3",
+      "label": "Espansione di mercati e scambi interregionali",
+      "lane": "Commercio",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ch4",
+      "label": "Costruzione di templi, colonnati e grandi piazze",
+      "lane": "Monumentalità",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ch5",
+      "label": "Ampliamento del grande gioco della palla",
+      "lane": "Rituale",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ch6",
+      "label": "Diffusione di iconografie militari e serpentine",
+      "lane": "Arte e politica",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ch7",
+      "label": "Riorganizzazione del potere nel X secolo",
+      "lane": "Politica",
+      "start": 3,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "ch8",
+      "label": "Continuità del centro oltre il 1000",
+      "lane": "Abitato",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "La prima linea della metropolitana del Cairo entrò in servizio nel 1987.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "CA1"
+  },
+  {
+    "claim": "La crescita informale ha assorbito una quota rilevante della domanda abitativa della Grande Cairo.",
+    "theme": "abitazione",
+    "status": "documentato",
+    "source": "CA1; CA3"
+  },
+  {
+    "claim": "Il progetto della Banca Mondiale affronta rifiuti solidi, emissioni dei veicoli e qualità dell’aria.",
+    "theme": "ambiente",
+    "status": "documentato",
+    "source": "CA2"
+  },
+  {
+    "claim": "Le politiche di upgrading mirano a migliorare servizi e sicurezza senza ridurre l’abitazione a un problema tecnico.",
+    "theme": "politiche urbane",
+    "status": "documentato",
+    "source": "CA3"
+  },
+  {
+    "claim": "Il Cairo ha ospitato il World Urban Forum 12 nel novembre 2024.",
+    "theme": "governance",
+    "status": "documentato",
+    "source": "CA4"
+  },
+  {
+    "claim": "Cairo, megacittà, informalità, metro e inquinamento è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Gli sgomberi, le ricollocazioni forzate, la repressione politica e la stigmatizzazione degli insediamenti informali non sono trattati come normali strumenti di modernizzazione; residenti, raccoglitori di rifiuti e lavoratori precari sono rappresentati come soggetti urbani e politici.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

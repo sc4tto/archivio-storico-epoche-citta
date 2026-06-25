@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Alessandria",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Topografia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Kom el-Dikka",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Porti antichi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Pianta completa del P4",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Istruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Auditoria tardoantichi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Uso scolastico",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_3",
+          "label": "Continuità identica dopo la conquista",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Acqua",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Cisterne",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Canali e acquedotti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Portate esatte",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Religione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Chiese",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Comunità cristiane",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Uniformità confessionale",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Commercio",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Porto mediterraneo",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Reti con il Delta",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Declino commerciale totale nel VII secolo",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Metodo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Scavi stratigrafici",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Archeologia subacquea",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Tutti i settori accessibili",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Il Metro di Quito opera con quindici stazioni e costituisce l’asse ferroviario principale della città.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "QU1"
+  },
+  {
+    "claim": "Nel 2026 l’estensione a La Ofelia era ancora nella fase di studi definitivi.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "QU2"
+  },
+  {
+    "claim": "Il Piano climatico 2025 include un orizzonte futuro al 2050.",
+    "theme": "clima",
+    "status": "documentato",
+    "source": "QU3"
+  },
+  {
+    "claim": "Le politiche di sviluppo urbano resiliente affrontano crescita informale, alloggio e servizi di quartiere.",
+    "theme": "alloggi",
+    "status": "documentato",
+    "source": "QU4"
+  },
+  {
+    "claim": "Estensione ferroviaria e obiettivi 2050 sono qualificati come progetto e piano futuri.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "QU2"
+  },
+  {
+    "claim": "Quito è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Informalità, ricollocazioni, disuguaglianze e pressioni sul patrimonio non sono presentate come processi neutrali.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

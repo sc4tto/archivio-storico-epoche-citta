@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Karachi fu uno dei principali porti di esportazione di grano e cotone del Raj.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "KA1; KA3"
+  },
+  {
+    "claim": "Il porto venne ampliato con nuovi moli e infrastrutture prima del 1945.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "KA1"
+  },
+  {
+    "claim": "Ferrovie e tram sostennero la crescita urbana e portuale.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "KA2; KA3"
+  },
+  {
+    "claim": "Karachi divenne un nodo dell’aviazione imperiale.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "KA3; KA4"
+  },
+  {
+    "claim": "La città ospitava comunità religiose e linguistiche diverse.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "KA2; KA3"
+  },
+  {
+    "claim": "Nel 1936 Karachi divenne capitale della nuova provincia del Sindh.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "KA2; KA3"
+  },
+  {
+    "claim": "Colonialismo, scarsità idrica e disuguaglianze condizionarono la crescita.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "KA2; KA3"
+  },
+  {
+    "claim": "Partizione e capitale del Pakistan dal 1947 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "KA3"
+  }
+]

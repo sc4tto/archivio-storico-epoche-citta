@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Londra",
+      "lat": 51.5074,
+      "lon": -0.1278,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "thm",
+      "label": "Tamigi ed estuario",
+      "lat": 51.48,
+      "lon": 0.35,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "ken",
+      "label": "Kent, Essex e cintura agricola",
+      "lat": 51.3,
+      "lon": 0.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "mid",
+      "label": "Midlands e Inghilterra settentrionale",
+      "lat": 53.0,
+      "lon": -1.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "liv",
+      "label": "Liverpool e porti atlantici",
+      "lat": 53.41,
+      "lon": -2.99,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "eur",
+      "label": "Europa continentale e Baltico",
+      "lat": 54.0,
+      "lon": 10.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "emp",
+      "label": "Americhe, India e impero",
+      "lat": 20.0,
+      "lon": 20.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "thm",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Tamigi, chiatte e docks",
+      "food": "pesce, carbone, legname e merci portuali"
+    },
+    {
+      "source": "ken",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e ferrovie suburbane",
+      "food": "ortaggi, frutta, luppolo e latte"
+    },
+    {
+      "source": "mid",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali e rete ferroviaria",
+      "food": "carbone, carne, grano e manufatti"
+    },
+    {
+      "source": "liv",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e cabotaggio",
+      "food": "cotone, zucchero e merci atlantiche"
+    },
+    {
+      "source": "eur",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Baltico, Mare del Nord e ferrovia",
+      "food": "grano, legname, burro e prodotti continentali"
+    },
+    {
+      "source": "emp",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "piroscafi e reti imperiali",
+      "food": "tè, caffè, cacao, spezie e materie prime"
+    }
+  ]
+}

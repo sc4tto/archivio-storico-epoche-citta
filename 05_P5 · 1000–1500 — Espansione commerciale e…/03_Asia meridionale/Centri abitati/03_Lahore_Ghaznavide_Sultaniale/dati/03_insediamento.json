@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "l1",
+      "label": "Capitale ghaznavide orientale",
+      "lane": "Politica",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "l2",
+      "label": "Forte e città murata medievale",
+      "lane": "Difesa",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "l3",
+      "label": "Conquiste ghuridi e passaggio al Sultanato",
+      "lane": "Politica",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "l4",
+      "label": "Mercati e sarai del Punjab",
+      "lane": "Economia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "l5",
+      "label": "Moschee, khanqah e tombe sufi",
+      "lane": "Religione",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "l6",
+      "label": "Ricostruzioni dopo conflitti e invasioni",
+      "lane": "Crisi",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "l7",
+      "label": "Canali, giardini e approvvigionamento",
+      "lane": "Infrastrutture",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "l8",
+      "label": "Fase lodi e soglia del periodo moghul",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

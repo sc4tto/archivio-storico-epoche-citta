@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Lisbona marittima e pombalina",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Cartografia, pilotaggio e arsenali",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Convogli, dogane e approvvigionamento",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Impero e finanza",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Casa da Índia e monopolî",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Oro brasiliano, credito e fiscalità",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Ricostruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Urbanistica a griglia e piazze",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Gaiola pombalina e norme antisismiche",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Lioz, calce e azulejos",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Manuelino, barocco e pombalino",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Rischi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Terremoto, incendio e tsunami",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Soccorso, demolizioni e pianificazione",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

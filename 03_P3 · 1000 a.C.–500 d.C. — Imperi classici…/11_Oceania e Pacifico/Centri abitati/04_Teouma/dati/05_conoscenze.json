@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Teouma",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Sepolture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Inumazioni multiple",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Trattamento secondario dei crani",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Rito identico per tutti",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Ceramica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Vasi Lapita decorati",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Contesti funerari",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Produzione tutta locale",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Mobilità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Isotopi di stronzio",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Individui non locali",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Luogo esatto di origine",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Genetica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "DNA antico",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Affinità austronesiane",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Popolazione completa rappresentata",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Dieta",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Risorse marine",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Piante coltivate",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_3",
+          "label": "Dieta uniforme",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Cronologia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "X–IX secolo a.C. circa",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Datazioni dirette",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Uso prolungato per secoli",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

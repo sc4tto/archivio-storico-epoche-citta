@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Boston coloniale e rivoluzionaria",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Porto e mare",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Pesca del merluzzo e cantieri",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Moli, dogane e navigazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Governo locale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Town meeting e congregazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Stampa, istruzione e protesta",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Commercio atlantico",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Rum, melassa e credito",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Schiavitù e reti coloniali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Legno, mattoni e granito",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Incendi, banchine e riempimenti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Territori indigeni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Massachusett e Wampanoag",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Epidemie, guerra ed espropriazione",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Shanghai industriale e delle concessioni",
+    "site": "Shanghai industriale e delle concessioni",
+    "modern_location": "Shanghai, Cina",
+    "coordinates": {
+      "lat": 31.2304,
+      "lon": 121.4737
+    },
+    "scope": "Shanghai fra 1900 e 1945: porto e dogane, concessioni, manifatture, elettricità, tram, lilong, movimenti politici, battaglia del 1937, occupazione e crisi bellica.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1945. Guerra civile finale, vittoria comunista del 1949 e trasformazioni della Repubblica Popolare sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SH1",
+      "title": "Shanghai History Museum",
+      "use": "Storia urbana, porto, società e cultura materiale.",
+      "url": "https://www.shh-shrhmuseum.org.cn/"
+    },
+    {
+      "id": "SH2",
+      "title": "Shanghai Municipal Archives",
+      "use": "Fonti municipali, economiche e sociali.",
+      "url": "https://www.archives.sh.cn/"
+    },
+    {
+      "id": "SH3",
+      "title": "Encyclopaedia Britannica — Shanghai",
+      "use": "Storia portuale e industriale.",
+      "url": "https://www.britannica.com/place/Shanghai"
+    },
+    {
+      "id": "SH4",
+      "title": "Harvard University — Virtual Shanghai",
+      "use": "Cartografia e ricerca sulla città moderna.",
+      "url": "https://www.virtualshanghai.net/"
+    },
+    {
+      "id": "SH5",
+      "title": "UNESCO Memory of the World — Chinese historical archives",
+      "use": "Contesto documentario e amministrativo.",
+      "url": "https://www.unesco.org/en/memory-world"
+    }
+  ]
+}

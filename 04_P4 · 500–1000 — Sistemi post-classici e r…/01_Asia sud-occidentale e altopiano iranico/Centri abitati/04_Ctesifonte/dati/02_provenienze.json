@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Ctesifonte",
+      "lat": 33.0956,
+      "lon": 44.5808,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "tigris",
+      "label": "Tigri e sobborghi",
+      "lat": 33.1,
+      "lon": 44.57,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "seleucia",
+      "label": "Seleucia",
+      "lat": 33.09,
+      "lon": 44.52,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "baghdad",
+      "label": "Baghdad",
+      "lat": 33.315,
+      "lon": 44.366,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "khuzistan",
+      "label": "Khuzistan",
+      "lat": 31.32,
+      "lon": 48.68,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "gulf",
+      "label": "Golfo Persico",
+      "lat": 29.5,
+      "lon": 49.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "tigris",
+      "target": "site",
+      "label": "trasporto, acqua e derrate",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "seleucia",
+      "target": "site",
+      "label": "continuità urbana e scambi",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "baghdad",
+      "target": "site",
+      "label": "trasferimento di popolazione e materiali",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "khuzistan",
+      "target": "site",
+      "label": "tessili, cereali e vie iraniche",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "gulf",
+      "target": "site",
+      "label": "commercio a lunga distanza",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

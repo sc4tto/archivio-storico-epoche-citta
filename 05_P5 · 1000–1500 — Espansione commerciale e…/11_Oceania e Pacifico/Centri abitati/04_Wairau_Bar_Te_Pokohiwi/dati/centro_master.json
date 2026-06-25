@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Wairau Bar–Te Pokohiwi",
+    "site": "Wairau Bar — Te Pokohiwi",
+    "modern_location": "Cloudy Bay, Marlborough, Nuova Zelanda",
+    "coordinates": {
+      "lat": -41.51,
+      "lon": 174.09
+    },
+    "scope": "Wairau Bar fra circa 1280 e 1320, come insediamento dei primi coloni provenienti dalla Polinesia orientale e nodo di esplorazione, produzione e scambio nella Nuova Zelanda meridionale.",
+    "version": "1.0",
+    "warning": "L’occupazione fu relativamente breve e il sito non va rappresentato come città permanente. Le stime cronologiche dipendono da campioni e modelli radiocarbonici; la relazione con iwi contemporanei è trattata con rispetto delle autorità culturali."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "WB1",
+      "title": "Antiquity — Dating the First New Zealanders: the chronology of Wairau Bar",
+      "use": "Datazioni e ruolo del sito nella prima colonizzazione.",
+      "url": "https://doi.org/10.1017/S0003598X00065422"
+    },
+    {
+      "id": "WB2",
+      "title": "Te Ara — When was New Zealand first settled?",
+      "use": "Cronologia della colonizzazione e contesto archeologico.",
+      "url": "https://teara.govt.nz/en/when-was-new-zealand-first-settled"
+    },
+    {
+      "id": "WB3",
+      "title": "Canterbury Museum — Wairau Bar collections",
+      "use": "Manufatti, sepolture e storia delle ricerche.",
+      "url": "https://www.canterburymuseum.com/"
+    },
+    {
+      "id": "WB4",
+      "title": "University of Otago — Wairau Bar research",
+      "use": "Bioarcheologia, mobilità e provenienza dei primi coloni.",
+      "url": "https://www.otago.ac.nz/archaeology"
+    },
+    {
+      "id": "WB5",
+      "title": "Rangitāne o Wairau — Te Pokohiwi",
+      "use": "Valore culturale, restituzione e relazione con il paesaggio.",
+      "url": "https://www.rangitane.org.nz/"
+    }
+  ]
+}

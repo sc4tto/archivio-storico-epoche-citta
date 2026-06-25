@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Mán Bạc è datato circa 1850–1650 a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "MB_ANU"
+  },
+  {
+    "claim": "Il sito comprende abitato e cimitero",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "MB_ANU"
+  },
+  {
+    "claim": "La dieta includeva molti pesci marini e salmastri",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "MB_ANU"
+  },
+  {
+    "claim": "La popolazione mostra una notevole eterogeneità biologica",
+    "theme": "Popolazione",
+    "status": "sintesi",
+    "source": "MB_SCIENCE"
+  },
+  {
+    "claim": "Non sono documentati oggetti di bronzo nel sito",
+    "theme": "Metallurgia",
+    "status": "documentato",
+    "source": "MB_ANU"
+  },
+  {
+    "claim": "La coltivazione diretta del riso è provata da campi scavati",
+    "theme": "Agricoltura",
+    "status": "non_documentato",
+    "source": "Evidenza diretta limitata"
+  },
+  {
+    "claim": "Ogni individuo apparteneva allo stesso gruppo di origine",
+    "theme": "Popolazione",
+    "status": "non_documentato",
+    "source": "Eterogeneità documentata"
+  },
+  {
+    "claim": "Il sito era un porto urbano",
+    "theme": "Urbanizzazione",
+    "status": "non_documentato",
+    "source": "Villaggio costiero, non città"
+  }
+]

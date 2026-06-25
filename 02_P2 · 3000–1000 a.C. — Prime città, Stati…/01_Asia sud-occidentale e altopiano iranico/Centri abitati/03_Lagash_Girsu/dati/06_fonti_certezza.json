@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Girsu era uno dei principali centri del sistema politico di Lagash",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "BM_GIRSU"
+  },
+  {
+    "claim": "Il sito conserva il santuario di Ningirsu e un importante centro amministrativo",
+    "theme": "Culto",
+    "status": "documentato",
+    "source": "BM_GIRSU"
+  },
+  {
+    "claim": "Canali e un grande ponte documentano la gestione del paesaggio urbano",
+    "theme": "Acqua",
+    "status": "documentato",
+    "source": "BM_GIRSU"
+  },
+  {
+    "claim": "Gli archivi cuneiformi illuminano la formazione dello Stato e la contabilità",
+    "theme": "Scrittura",
+    "status": "documentato",
+    "source": "BM_GIRSU"
+  },
+  {
+    "claim": "Lagash e Girsu erano un’unica città fisicamente continua",
+    "theme": "Geografia",
+    "status": "non_documentato",
+    "source": "Siti distinti nello stesso sistema urbano"
+  },
+  {
+    "claim": "Tutti i testi di Lagash provengono da Tell al-Hiba",
+    "theme": "Provenienza",
+    "status": "non_documentato",
+    "source": "Grande parte proviene da Girsu/Tello"
+  },
+  {
+    "claim": "Il territorio dipendeva da una fitta rete di canali",
+    "theme": "Agricoltura",
+    "status": "documentato",
+    "source": "BM_GIRSU"
+  },
+  {
+    "claim": "Il conflitto con Umma fu continuo e immutabile",
+    "theme": "Conflitto",
+    "status": "non_documentato",
+    "source": "Rapporti variabili nel tempo"
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Quito, pianificazione, segregazione e modernizzazione",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Pianificazione moderna",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Piano Odriozola, zonizzazione funzionale e assi viari",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Piano Director 1967 e gestione municipale della crescita",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Topografia e rischio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Pichincha, quebradas, pendii, drenaggio e sismicità",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Muri di sostegno, adattamento stradale e vulnerabilità",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Comunità e territorio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Comunas indigene, proprietà collettiva e pratiche agricole",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Negoziazione, resistenza ed espropriazione ai bordi urbani",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Industria e servizi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Fabbriche meridionali, mercati, ferrovia e autobus",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Accesso diseguale a acqua, scuola, salute e trasporti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Patrimonio e modernizzazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Centro storico, San Blas, chiese e tessuto coloniale",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Demolizioni, nuove arterie e conflitti sulla conservazione",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

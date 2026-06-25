@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Nagsabaran fu un villaggio neolitico nella valle del Cagayan",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "NAG_EXC"
+  },
+  {
+    "claim": "Sono documentate buche di palo e ceramiche neolitiche",
+    "theme": "Archeologia",
+    "status": "documentato",
+    "source": "NAG_EXC"
+  },
+  {
+    "claim": "Il sito partecipò a reti fra Luzon, Batanes e Taiwan",
+    "theme": "Scambi",
+    "status": "sintesi",
+    "source": "NAG_AUSTRO"
+  },
+  {
+    "claim": "Gli ornamenti di giada collegano diverse regioni insulari",
+    "theme": "Scambi",
+    "status": "documentato",
+    "source": "NAG_JADE"
+  },
+  {
+    "claim": "Riso, suini e cani facevano parte dell’economia del villaggio",
+    "theme": "Alimentazione",
+    "status": "sintesi",
+    "source": "NAG_EXC"
+  },
+  {
+    "claim": "Ogni elemento materiale identifica direttamente una lingua austronesiana",
+    "theme": "Lingua",
+    "status": "non_documentato",
+    "source": "Archeologia e lingua non coincidono automaticamente"
+  },
+  {
+    "claim": "Nagsabaran controllava politicamente le Batanes",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Rete di contatti senza dominio provato"
+  },
+  {
+    "claim": "Tutta la giada fu lavorata nel villaggio",
+    "theme": "Artigianato",
+    "status": "non_documentato",
+    "source": "Produzione e importazione da distinguere"
+  }
+]

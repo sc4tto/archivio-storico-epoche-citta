@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Wari fu uno dei maggiori centri urbani dell’orizzonte medio.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "W1; W2; W4"
+  },
+  {
+    "claim": "La città era suddivisa in quartieri e recinti con funzioni differenziate.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "W1; W4"
+  },
+  {
+    "claim": "I templi a pianta D sono un tratto ricorrente dell’architettura Wari.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "W3; W4"
+  },
+  {
+    "claim": "La produzione e il consumo di chicha avevano un ruolo politico e rituale.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "W3; W5"
+  },
+  {
+    "claim": "La rete Wari collegava capitale e centri provinciali mediante infrastrutture e stili condivisi.",
+    "theme": "politica",
+    "status": "sintesi",
+    "source": "W4; W5"
+  },
+  {
+    "claim": "Il controllo diretto di tutte le regioni attribuite ai Wari non è dimostrato allo stesso modo.",
+    "theme": "certezza",
+    "status": "documentato",
+    "source": "W4; W5"
+  },
+  {
+    "claim": "Pietra, terra, legno e intonaco convergevano negli stessi complessi edilizi.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "W1; W4"
+  },
+  {
+    "claim": "Il declino intorno al 1000 fu progressivo e probabilmente multicausale.",
+    "theme": "cronologia",
+    "status": "sintesi",
+    "source": "W2; W5"
+  }
+]

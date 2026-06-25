@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Kalibangan — modulo multi-grafo",
+    "short_name": "Kalibangan",
+    "site": "Kalibangan: città pre-harappana e harappana",
+    "modern_location": "Distretto di Hanumangarh, Rajasthan, India",
+    "coordinates": {
+      "lat": 29.475,
+      "lon": 74.13
+    },
+    "scope": "Centro sulla paleovalle Ghaggar con due grandi fasi urbane, fortificazioni in mattoni crudi, città bassa pianificata, cimitero, aree produttive e un campo con solchi incrociati conservato fuori dalle mura.",
+    "version": "1.0-blocco_16_p2_asia_meridionale_5_centri_v1",
+    "warning": "L’interpretazione di alcune piattaforme come altari del fuoco è discussa e non dimostra da sola un culto uniforme. Il campo arato attesta una pratica agricola, non l’intero sistema produttivo della città."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "KALIBANGAN_ASI",
+      "title": "Archaeological Survey of India — Excavations at Kalibangan",
+      "url": "https://asi.nic.in/",
+      "use": "scavi, cronologia, fortificazioni e campo arato"
+    },
+    {
+      "id": "KALIBANGAN_REPORT",
+      "title": "Lal et al. — Excavations at Kalibangan: The Early Harappans",
+      "url": "https://archive.org/search?query=Excavations+at+Kalibangan",
+      "use": "sequenza pre-harappana e harappana"
+    },
+    {
+      "id": "KALIBANGAN_MUSEUM",
+      "title": "Archaeological Museum, Kalibangan",
+      "url": "https://www.museumsrajasthan.gov.in/",
+      "use": "reperti, ceramiche e storia degli scavi"
+    }
+  ]
+}

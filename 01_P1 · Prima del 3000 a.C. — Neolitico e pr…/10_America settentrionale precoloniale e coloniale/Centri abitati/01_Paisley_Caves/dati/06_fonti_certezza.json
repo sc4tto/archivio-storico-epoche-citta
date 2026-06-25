@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Le Paisley Caves conservano coproliti umani direttamente datati",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "PAISLEY_SCIENCE_2008"
+  },
+  {
+    "claim": "Sono presenti punte della Western Stemmed Tradition di età comparabile a Clovis",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "PAISLEY_SCIENCE_2012"
+  },
+  {
+    "claim": "Il complesso fu usato ripetutamente e non come villaggio urbano",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "PAISLEY_BLM"
+  },
+  {
+    "claim": "La conservazione arida ha preservato fibre e resti organici",
+    "theme": "Tafonomia",
+    "status": "documentato",
+    "source": "PAISLEY_SCIENCE_2012"
+  },
+  {
+    "claim": "La sussistenza combinava piante, caccia e risorse lacustri",
+    "theme": "Alimentazione",
+    "status": "sintesi",
+    "source": "PAISLEY_SCIENCE_2012"
+  },
+  {
+    "claim": "Ogni coprolite attribuito inizialmente all’uomo è privo di problemi di contaminazione",
+    "theme": "Metodo",
+    "status": "non_documentato",
+    "source": "Dibattito su morfologia e contaminazione"
+  },
+  {
+    "claim": "Le grotte furono occupate permanentemente tutto l’anno",
+    "theme": "Sedentarietà",
+    "status": "non_documentato",
+    "source": "Occupazioni probabilmente episodiche"
+  },
+  {
+    "claim": "La Western Stemmed Tradition deriva certamente da Clovis",
+    "theme": "Tecnologia",
+    "status": "non_documentato",
+    "source": "Relazioni culturali discusse"
+  }
+]

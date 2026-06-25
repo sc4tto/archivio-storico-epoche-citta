@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Arikamedu — modulo multi-grafo",
+    "short_name": "Arikamedu",
+    "site": "Porto e centro artigiano di Arikamedu",
+    "modern_location": "Ariyankuppam, Puducherry, India",
+    "coordinates": {
+      "lat": 11.904,
+      "lon": 79.82
+    },
+    "scope": "Insediamento portuale e artigiano sull’estuario dell’Ariyankuppam, attivo soprattutto fra il II secolo a.C. e i primi secoli d.C., con ceramiche locali e mediterranee, anfore, perle di vetro e pietra, tessili e reti marittime dell’Oceano Indiano.",
+    "version": "1.0-blocco_28_p3_asia_meridionale_5_centri_v1",
+    "warning": "L’identificazione con Poduke del Periplus è ampiamente accettata ma resta una correlazione storico-archeologica. Le strutture interpretate come magazzino o vasche di tintura non hanno funzione assolutamente certa e la sequenza del sito è più lunga del solo commercio romano."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "ARI_UNESCO",
+      "title": "UNESCO Tentative List — Silk Road Sites in India: Arikamedu",
+      "url": "https://whc.unesco.org/en/tentativelists/5492/",
+      "use": "porto, strutture, ceramiche e commercio indo-romano"
+    },
+    {
+      "id": "ARI_BEGLEY",
+      "title": "Begley et al. — The Ancient Port of Arikamedu",
+      "url": "https://search.worldcat.org/search?q=The+Ancient+Port+of+Arikamedu",
+      "use": "scavi, cronologia e produzioni artigiane"
+    },
+    {
+      "id": "ARI_MUSEUM",
+      "title": "Government of Puducherry — Puducherry Museum, Archaeology Section",
+      "url": "https://art.py.gov.in/puducherry-museum",
+      "use": "conservazione e presentazione dei reperti archeologici regionali"
+    }
+  ]
+}

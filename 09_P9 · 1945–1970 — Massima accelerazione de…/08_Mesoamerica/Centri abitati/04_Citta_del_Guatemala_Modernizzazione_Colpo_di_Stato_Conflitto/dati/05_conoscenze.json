@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Città del Guatemala, modernizzazione, colpo di Stato e conflitto",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Pianificazione e topografia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Nomenclatura, zonizzazione, assi viari e ponti",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Adattamento ai barrancos, drenaggio e rischio sismico",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Economia e mercati",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Amministrazione, commercio, industria leggera e servizi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Reti con fincas, altopiani e corridoi centroamericani",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Abitazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Colonias pianificate, edilizia pubblica e affitto",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Asentamientos, occupazioni, autocostruzione e servizi incompleti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Politica e conflitto",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Riforme del 1944–1954, partiti e organizzazioni sociali",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Colpo di Stato, governi militari, controinsurrezione e repressione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Società plurale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Migrazioni indigene e ladine, mercati e associazionismo",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Discriminazione etnica, classe, cattolicesimo e pluralismo crescente",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

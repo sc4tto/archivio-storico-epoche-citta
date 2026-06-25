@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Ravenna bizantina e altomedievale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0_mosaic",
+      "label": "Arti monumentali",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0_glass",
+          "label": "Produzione e posa di tessere",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1_icon",
+          "label": "Programmi iconografici complessi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1_brick",
+      "label": "Edilizia in laterizio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0_vault",
+          "label": "Volte, cupole e strutture centrali",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1_repair",
+          "label": "Manutenzione di basiliche e tetti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2_lagoon",
+      "label": "Ambiente lagunare",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0_channels",
+          "label": "Canali, drenaggio e navigazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1_fishing",
+          "label": "Pesca e gestione delle zone umide",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3_church",
+      "label": "Istituzioni ecclesiastiche",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0_bishop",
+          "label": "Amministrazione arcivescovile",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1_monastery",
+          "label": "Monasteri, reliquie e liturgia",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4_networks",
+      "label": "Reti mediterranee",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0_imperial",
+          "label": "Rapporti con Costantinopoli",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1_adriatic",
+          "label": "Navigazione e scambi adriatici",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Gao-Saney",
+      "lat": 16.26,
+      "lon": -0.01,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "ancien",
+      "label": "Gao antico",
+      "lat": 16.29,
+      "lon": -0.05,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "niger",
+      "label": "Fiume Niger",
+      "lat": 16.27,
+      "lon": -0.08,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "bentia",
+      "label": "Bentia / Kukiya",
+      "lat": 15.33,
+      "lon": 0.66,
+      "status": "sintesi",
+      "kind": "locale"
+    },
+    {
+      "id": "timb",
+      "label": "Corridoio verso Timbuctù",
+      "lat": 16.77,
+      "lon": -3.01,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "tad",
+      "label": "Tadmekka e Sahara centrale",
+      "lat": 18.45,
+      "lon": 1.4,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "north",
+      "label": "Nord Africa e Mediterraneo",
+      "lat": 31.0,
+      "lon": 5.0,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "niger",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "trasporto fluviale e sussistenza",
+      "food": "pesce, cereali e ceramica"
+    },
+    {
+      "source": "ancien",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "poli urbani complementari",
+      "food": "autorità, mercati e popolazione"
+    },
+    {
+      "source": "bentia",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "corridoio del Niger",
+      "food": "derrate e persone"
+    },
+    {
+      "source": "timb",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete del Medio Niger",
+      "food": "sale, cereali e manufatti"
+    },
+    {
+      "source": "tad",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane sahariane",
+      "food": "rame, vetro e sale"
+    },
+    {
+      "source": "north",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "scambio indiretto",
+      "food": "vetro, metalli e beni di prestigio"
+    }
+  ]
+}

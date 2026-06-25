@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Fine del Pleistocene",
+    "Inizio dell’Olocene umido",
+    "Ceramica precoce",
+    "Fasi oloceniche successive",
+    "Interruzioni e nuove occupazioni"
+  ],
+  "items": [
+    {
+      "id": "valley",
+      "label": "Occupazioni distribuite lungo la valle",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "camps",
+      "label": "Accampamenti e aree di lavorazione",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "pottery",
+      "label": "Comparsa di ceramiche impresse",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "grinding",
+      "label": "Macine e pestelli per vegetali",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "lithic",
+      "label": "Industrie litiche e punte bifacciali",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "erosion",
+      "label": "Erosione e sedimentazione della valle",
+      "lane": "Ambiente",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "gaps",
+      "label": "Lacune e discontinuità della sequenza",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

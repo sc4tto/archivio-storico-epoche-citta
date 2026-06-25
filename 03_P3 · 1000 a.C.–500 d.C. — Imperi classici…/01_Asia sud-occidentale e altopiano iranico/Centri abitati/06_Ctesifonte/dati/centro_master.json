@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Ctesifonte — modulo multi-grafo",
+    "short_name": "Ctesifonte",
+    "site": "Ctesifonte / Seleucia-Ctesifonte",
+    "modern_location": "Al-Mada’in e Salman Pak, governatorato di Baghdad, Iraq",
+    "coordinates": {
+      "lat": 33.09,
+      "lon": 44.58
+    },
+    "scope": "Capitale invernale arsacide e poi centro imperiale sasanide sul Tigri, sviluppata di fronte a Seleucia come parte di una vasta metropoli policentrica, commerciale e religiosa.",
+    "version": "1.0-blocco_26_p3_asia_so_completamento_v1",
+    "warning": "Il modulo P3 privilegia le fasi partica e sasanide iniziale fino al 500 d.C. Il grande Taq Kasra è una struttura sasanide più tarda e viene mostrato come sviluppo successivo, non come elemento certo delle prime fasi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "CTE_MET",
+      "title": "The Metropolitan Museum of Art — Ctesiphon",
+      "url": "https://www.metmuseum.org/essays/ctesiphon",
+      "use": "storia urbana, scavi, commercio e decorazione sasanide"
+    },
+    {
+      "id": "CTE_IRANICA",
+      "title": "Encyclopaedia Iranica — Ctesiphon",
+      "url": "https://www.iranicaonline.org/articles/ctesiphon/",
+      "use": "topografia, fasi partica e sasanide e problemi archeologici"
+    },
+    {
+      "id": "CTE_ARCHNET",
+      "title": "Archnet — Taq-i Kisra",
+      "url": "https://www.archnet.org/sites/5282",
+      "use": "architettura del complesso palaziale tardo"
+    }
+  ]
+}

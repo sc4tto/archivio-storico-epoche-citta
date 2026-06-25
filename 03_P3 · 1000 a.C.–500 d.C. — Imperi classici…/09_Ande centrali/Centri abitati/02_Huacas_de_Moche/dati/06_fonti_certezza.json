@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Il complesso comprende due grandi huacas e un nucleo urbano intermedio",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "MOCHE_PROJECT"
+  },
+  {
+    "claim": "Le strutture furono costruite soprattutto in adobe",
+    "theme": "Costruzione",
+    "status": "documentato",
+    "source": "MOCHE_PROJECT"
+  },
+  {
+    "claim": "Pitture murali e rilievi conservano iconografie rituali",
+    "theme": "Arte",
+    "status": "documentato",
+    "source": "MOCHE_PROJECT"
+  },
+  {
+    "claim": "La società moche formò necessariamente un unico impero centralizzato",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "MOCHE_QUILTER"
+  },
+  {
+    "claim": "Canali irrigui sostennero un’agricoltura intensiva di valle",
+    "theme": "Economia",
+    "status": "documentato",
+    "source": "MOCHE_QUILTER"
+  },
+  {
+    "claim": "Quartieri e officine documentano produzioni specializzate",
+    "theme": "Abitato",
+    "status": "documentato",
+    "source": "MOCHE_PROJECT"
+  },
+  {
+    "claim": "Le scene ceramiche possono essere lette come fotografie di eventi specifici",
+    "theme": "Metodo",
+    "status": "non_documentato",
+    "source": "Iconografia simbolica e convenzionale"
+  },
+  {
+    "claim": "El Niño e mutamenti fluviali costituivano vincoli ambientali",
+    "theme": "Ambiente",
+    "status": "sintesi",
+    "source": "MOCHE_QUILTER"
+  }
+]

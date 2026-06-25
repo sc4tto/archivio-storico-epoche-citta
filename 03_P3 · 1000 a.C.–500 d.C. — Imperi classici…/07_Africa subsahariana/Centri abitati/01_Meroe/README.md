@@ -1,7 +1,9 @@
 # Meroe
 
-- **Epoca:** P3 · 1000 a.C.–500 d.C. — Imperi classici e reti continentali
-- **Macroregione:** Africa subsahariana
-- **Voce di origine:** Meroe, Aksum, Jenne-jeno e prime città regionali.
+Modulo del Blocco 32, generato da sette JSON nella cartella `dati`.
 
-Questa cartella può contenere mappe, immagini, testi, fonti e appunti relativi al centro abitato o sistema d'insediamento indicato.
+- `APRI_CENTRO.bat`: apre il modulo.
+- `RIGENERA_CENTRO.bat`: rigenera le pagine.
+- `VERIFICA_CENTRO.bat`: controlla JSON, collegamenti e grafi.
+
+Descrizione: Capitale e città reale kushita fra il Nilo e l’Atbara, con palazzi, templi, quartieri, officine metallurgiche, bacini idrici e necropoli piramidali collegate a Naqa e Musawwarat es-Sufra..

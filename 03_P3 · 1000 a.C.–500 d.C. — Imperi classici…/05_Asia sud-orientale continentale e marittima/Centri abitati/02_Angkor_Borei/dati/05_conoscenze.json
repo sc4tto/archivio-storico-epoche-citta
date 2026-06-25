@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Angkor Borei",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Mura",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Fossato",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Canali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Ceramica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Impasti locali",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Ceramica al tornio",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Cronologie comparative",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Ambiente",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Delta",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Idrologia",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Risaie",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Scrittura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Iscrizioni khmer antiche",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Sanscrito",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Alfabetizzazione diffusa",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Religioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Induismo",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Buddhismo",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Culti locali",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Politica",
+      "status": "inferito",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Centro di Funan",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_2",
+          "label": "Élite regionali",
+          "status": "inferito"
+        },
+        {
+          "id": "k6_3",
+          "label": "Capitale unica certa",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

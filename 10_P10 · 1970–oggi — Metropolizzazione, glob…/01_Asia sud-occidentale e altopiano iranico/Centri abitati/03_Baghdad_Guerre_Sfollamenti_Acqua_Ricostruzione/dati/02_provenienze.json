@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Baghdad",
+      "lat": 33.3152,
+      "lon": 44.3661,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "diy",
+      "label": "Diyala",
+      "lat": 33.75,
+      "lon": 44.65,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "tig",
+      "label": "Corridoio del Tigri",
+      "lat": 33.3,
+      "lon": 44.35,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "bab",
+      "label": "Babil e Mesopotamia centrale",
+      "lat": 32.5,
+      "lon": 44.4,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "sou",
+      "label": "Iraq meridionale",
+      "lat": 31.0,
+      "lon": 47.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "nor",
+      "label": "Iraq settentrionale",
+      "lat": 35.0,
+      "lon": 44.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "glo",
+      "label": "Frontiere e rotte internazionali",
+      "lat": 32.0,
+      "lon": 40.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "diy",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e canali",
+      "food": "frutta, ortaggi, latte e sfollati"
+    },
+    {
+      "source": "tig",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione locale, ponti e condotte",
+      "food": "acqua, pesce, merci e servizi"
+    },
+    {
+      "source": "bab",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e ferrovie",
+      "food": "grano, riso, carne e lavoratori"
+    },
+    {
+      "source": "sou",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e reti petrolifere",
+      "food": "datteri, riso, combustibili e migranti"
+    },
+    {
+      "source": "nor",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "autostrade e corridoi interni",
+      "food": "cereali, latticini, sfollati e ritorni"
+    },
+    {
+      "source": "glo",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "camion, cargo aereo e aiuti",
+      "food": "farine, oli, medicinali e beni importati"
+    }
+  ]
+}

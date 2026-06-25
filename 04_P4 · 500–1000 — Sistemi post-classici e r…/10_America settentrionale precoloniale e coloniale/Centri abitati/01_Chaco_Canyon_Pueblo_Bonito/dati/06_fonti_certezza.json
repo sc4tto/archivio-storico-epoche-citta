@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "La fioritura chacoana iniziò nella metà del IX secolo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "CH1; CH2"
+  },
+  {
+    "claim": "Pueblo Bonito e altre grandi case furono pianificate e costruite in più fasi.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "CH2; CH3"
+  },
+  {
+    "claim": "Il canyon fu un centro cerimoniale, commerciale e politico regionale.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "CH1; CH2"
+  },
+  {
+    "claim": "L’agricoltura richiese gestione del runoff e adattamento all’aridità.",
+    "theme": "ambiente",
+    "status": "documentato",
+    "source": "CH2; CH5"
+  },
+  {
+    "claim": "Le grandi case non erano necessariamente villaggi densamente abitati in modo permanente.",
+    "theme": "certezza",
+    "status": "sintesi",
+    "source": "CH2; CH4"
+  },
+  {
+    "claim": "Legname, turchese e conchiglie mostrano reti a lunga distanza.",
+    "theme": "commercio",
+    "status": "documentato",
+    "source": "CH1; CH2; CH4"
+  },
+  {
+    "claim": "I collegamenti diretti con Mesoamerica restano oggetto di interpretazione.",
+    "theme": "certezza",
+    "status": "sintesi",
+    "source": "CH2; CH4"
+  },
+  {
+    "claim": "L’apogeo dopo il 1000 non viene proiettato automaticamente sul periodo P4.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "CH1; CH2"
+  }
+]

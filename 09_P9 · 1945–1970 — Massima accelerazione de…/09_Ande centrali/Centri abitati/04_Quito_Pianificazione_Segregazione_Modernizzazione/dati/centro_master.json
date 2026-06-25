@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Quito, pianificazione, segregazione e modernizzazione",
+    "site": "Quito, pianificazione, segregazione e modernizzazione",
+    "modern_location": "Quito, Ecuador",
+    "coordinates": {
+      "lat": -0.1807,
+      "lon": -78.4678
+    },
+    "scope": "Quito fra 1945 e 1970: applicazione e revisione del piano Odriozola, crescita lineare nord–centro–sud, migrazione, industria meridionale, modernizzazione stradale, trasformazione di San Blas e dei bordi urbani, giunta militare dal 1963 e nuovo Piano Director del 1967.",
+    "version": "1.0",
+    "warning": "Sono esclusi il boom petrolifero urbano degli anni settanta, la dichiarazione UNESCO del 1978, la metropolizzazione successiva e gli eventi posteriori al 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "QU1",
+      "title": "FLACSO Ecuador — Planificación, modernización y segregación urbana en Quito",
+      "use": "Piano Odriozola del 1945, zonizzazione e formazione della città nord–centro–sud.",
+      "url": "https://repositorio.flacsoandes.edu.ec/bitstreams/10942005-eab3-4c62-9f12-a5d4e1f6ecc5/download"
+    },
+    {
+      "id": "QU2",
+      "title": "Universidad Andina Simón Bolívar — San Blas y la modernización urbana, 1967–1973",
+      "use": "Trasformazioni viarie, demolizioni e conflitti nel centro storico alla fine del periodo.",
+      "url": "https://repositorio.uasb.edu.ec/bitstream/10644/5755/1/03-ES-Cifuentes.pdf"
+    },
+    {
+      "id": "QU3",
+      "title": "Instituto de la Ciudad de Quito — Cuestiones Urbanas: historia de la planificación",
+      "use": "Piano Director del 1967, crescita demografica e politiche municipali.",
+      "url": "https://virtual.quito.gob.ec/pluginfile.php/24095/mod_page/content/41/03_Revista%20Cuestiones%20Urbanas%20V6%20N2.pdf"
+    },
+    {
+      "id": "QU4",
+      "title": "Universidad Andina Simón Bolívar — Comunas indígenas y expansión urbana de Quito",
+      "use": "Agenzia delle comunità, territorio, espropriazioni e urbanizzazione periferica.",
+      "url": "https://repositorio.uasb.edu.ec/bitstreams/de5bf8a0-cb60-44ca-9c2e-d07fd89f84d6/download"
+    }
+  ]
+}

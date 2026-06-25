@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Fase iniziale circa 3300 a.C.",
+    "Sviluppo early Harappan",
+    "Consolidamento della pianta",
+    "Fase tarda",
+    "Abbandono"
+  ],
+  "items": [
+    {
+      "id": "wall",
+      "label": "Recinto o muro perimetrale",
+      "lane": "Difese",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "grid",
+      "label": "Rete di strade e isolati regolari",
+      "lane": "Impianto",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Edifici in blocchi d’argilla",
+      "lane": "Abitazioni",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "kilns",
+      "label": "Fornaci e aree industriali",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "storage",
+      "label": "Ambienti di deposito",
+      "lane": "Conservazione",
+      "start": 0,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "craft",
+      "label": "Perle, ceramica, metallo e sigilli",
+      "lane": "Artigianato",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "abandon",
+      "label": "Abbandono prima della piena fase urbana matura",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

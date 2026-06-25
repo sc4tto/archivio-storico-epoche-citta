@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Aksum fu una grande potenza fra Africa, Arabia e mondo romano",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "AKSUM_UNESCO"
+  },
+  {
+    "claim": "Il sito comprende stele monolitiche, tombe e resti palaziali",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "AKSUM_UNESCO"
+  },
+  {
+    "claim": "Il regno controllava importanti rotte del Mar Rosso tramite Adulis",
+    "theme": "Commercio",
+    "status": "documentato",
+    "source": "AKSUM_UNESCO"
+  },
+  {
+    "claim": "Le iscrizioni includono testi in ge’ez, sabeo e greco",
+    "theme": "Scrittura",
+    "status": "documentato",
+    "source": "AKSUM_UNESCO"
+  },
+  {
+    "claim": "Il cristianesimo regale è attestato nel IV secolo",
+    "theme": "Religione",
+    "status": "documentato",
+    "source": "AKSUM_UNESCO"
+  },
+  {
+    "claim": "Tutte le stele furono erette nello stesso momento",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Campo monumentale sviluppato in più fasi"
+  },
+  {
+    "claim": "Ogni palazzo noto apparteneva a un singolo re identificato",
+    "theme": "Architettura",
+    "status": "non_documentato",
+    "source": "Datazioni e attribuzioni complesse"
+  },
+  {
+    "claim": "Aksum controllava direttamente ogni regione fino al Mediterraneo",
+    "theme": "Impero",
+    "status": "non_documentato",
+    "source": "Influenza e reti non equivalgono a controllo uniforme"
+  }
+]

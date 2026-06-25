@@ -1,0 +1,26 @@
+{
+  "block": "Blocco_49_P5_Valle_Nilo_Africa_Nord_Orientale_5_Centri_v1",
+  "center": "Alessandria fatimide, ayyubide e mamelucca",
+  "folder": "02_Alessandria_Fatimide_Ayyubide_Mamelucca",
+  "source_json": [
+    "01_alimentazione.json",
+    "02_provenienze.json",
+    "03_insediamento.json",
+    "04_costruzione.json",
+    "05_conoscenze.json",
+    "06_fonti_certezza.json",
+    "centro_master.json"
+  ],
+  "generated_pages": [
+    "index.html",
+    "documenti\\01_alimentazione.html",
+    "documenti\\02_provenienze.html",
+    "documenti\\03_insediamento.html",
+    "documenti\\04_costruzione.html",
+    "documenti\\05_conoscenze.html",
+    "documenti\\06_fonti_certezza.html"
+  ],
+  "central_css": "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\assets\\style.css",
+  "central_js": "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\assets\\interactions.js",
+  "installed_at": "2026-06-24T07:23:11"
+}

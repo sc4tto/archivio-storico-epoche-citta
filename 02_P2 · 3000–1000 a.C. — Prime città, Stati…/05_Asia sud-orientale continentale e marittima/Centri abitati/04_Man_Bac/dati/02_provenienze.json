@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Mán Bạc",
+      "lat": 20.206,
+      "lon": 105.965,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "coast",
+      "label": "Antica costa del golfo del Tonchino",
+      "lat": 20.1,
+      "lon": 106.1,
+      "status": "sintesi",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "karst",
+      "label": "Paesaggio carsico di Ninh Bình",
+      "lat": 20.25,
+      "lon": 105.9,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "redriver",
+      "label": "Delta del Fiume Rosso",
+      "lat": 20.6,
+      "lon": 106.0,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "phungnguyen",
+      "label": "Reti Phùng Nguyên",
+      "lat": 21.2,
+      "lon": 105.3,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "southchina",
+      "label": "Cina meridionale",
+      "lat": 22.5,
+      "lon": 106.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "coast",
+      "target": "site",
+      "label": "pesce e molluschi",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "karst",
+      "target": "site",
+      "label": "pietra e risorse locali",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "redriver",
+      "target": "site",
+      "label": "mobilità e colture",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "phungnguyen",
+      "target": "site",
+      "label": "ceramica e asce",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "southchina",
+      "target": "site",
+      "label": "persone e tradizioni neolitiche",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

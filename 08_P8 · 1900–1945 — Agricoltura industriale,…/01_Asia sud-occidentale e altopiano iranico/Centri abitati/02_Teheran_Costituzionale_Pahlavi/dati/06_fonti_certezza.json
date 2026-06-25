@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Teheran fu il centro della Rivoluzione costituzionale iraniana.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "TE2; TE3"
+  },
+  {
+    "claim": "La dinastia Pahlavi sostituì i Qajar nel 1925.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "TE3; TE4"
+  },
+  {
+    "claim": "Le mura e parti del tessuto storico furono demolite per nuovi viali.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "TE3; TE4"
+  },
+  {
+    "claim": "La ferrovia transiraniana rafforzò il ruolo della capitale.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "TE2; TE4"
+  },
+  {
+    "claim": "Il Golestan Palace conserva la stratificazione qajar della capitale.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "TE1; TE5"
+  },
+  {
+    "claim": "L’occupazione anglo-sovietica iniziò nel 1941.",
+    "theme": "conflitti",
+    "status": "documentato",
+    "source": "TE2; TE4"
+  },
+  {
+    "claim": "La Conferenza di Teheran si svolse nel 1943.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "TE2; TE4"
+  },
+  {
+    "claim": "Le espansioni metropolitane del dopoguerra sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "TE3"
+  }
+]

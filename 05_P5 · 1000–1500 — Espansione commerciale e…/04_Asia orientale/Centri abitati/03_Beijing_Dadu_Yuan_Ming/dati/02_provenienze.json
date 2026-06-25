@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Dadu-Beijing",
+      "lat": 39.904,
+      "lon": 116.407,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "yon",
+      "label": "Yongding e canali urbani",
+      "lat": 39.88,
+      "lon": 116.3,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "ton",
+      "label": "Tongzhou",
+      "lat": 39.91,
+      "lon": 116.66,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "zho",
+      "label": "Zhongdu Jin",
+      "lat": 39.87,
+      "lon": 116.32,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "heb",
+      "label": "Piana di Hebei",
+      "lat": 38.5,
+      "lon": 115.5,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "mon",
+      "label": "Steppe mongole",
+      "lat": 43.0,
+      "lon": 112.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "jia",
+      "label": "Jiangnan",
+      "lat": 31.0,
+      "lon": 120.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "yon",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "acqua e difesa urbana",
+      "food": "acqua e materiali"
+    },
+    {
+      "source": "ton",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "terminale del Grande Canale",
+      "food": "grano e merci"
+    },
+    {
+      "source": "zho",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "precedente capitale Jin",
+      "food": "maestranze e tracciati"
+    },
+    {
+      "source": "heb",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "entroterra agricolo",
+      "food": "grano, miglio e ortaggi"
+    },
+    {
+      "source": "mon",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete imperiale mongola",
+      "food": "cavalli, montoni e latticini"
+    },
+    {
+      "source": "jia",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "trasporto fiscale meridionale",
+      "food": "riso, seta, tè e zucchero"
+    }
+  ]
+}

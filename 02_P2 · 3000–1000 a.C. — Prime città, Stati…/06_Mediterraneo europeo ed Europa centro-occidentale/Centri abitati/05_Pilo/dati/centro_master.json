@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Pilo — modulo multi-grafo",
+    "short_name": "Pilo",
+    "site": "Palazzo di Nestore ad Ano Englianos",
+    "modern_location": "Messenia occidentale, Peloponneso, Grecia",
+    "coordinates": {
+      "lat": 37.0282,
+      "lon": 21.6953
+    },
+    "scope": "Centro palaziale miceneo con megaron, archivi in Lineare B, magazzini, laboratori, affreschi, sistemi di drenaggio e controllo amministrativo di un ampio territorio messenico.",
+    "version": "1.0-blocco_19_p2_mediterraneo_europa_5_centri_v1",
+    "warning": "Il nome “Palazzo di Nestore” deriva dalla tradizione omerica. L’identificazione con il personaggio epico non è dimostrata; le tavolette documentano invece un’amministrazione palaziale reale."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "PYLOS_UC",
+      "title": "University of Cincinnati — Palace of Nestor and Pylos research",
+      "url": "https://classics.uc.edu/",
+      "use": "storia degli scavi, archivi e ricerche recenti"
+    },
+    {
+      "id": "PYLOS_ASCSA",
+      "title": "ASCSA — A Guide to the Palace of Nestor, Mycenaean Sites in its Environs and the Chora Museum",
+      "url": "https://www.ascsa.edu.gr/publications",
+      "use": "architettura, reperti e territorio"
+    },
+    {
+      "id": "PYLOS_PRAP",
+      "title": "Pylos Regional Archaeological Project",
+      "url": "https://classics.uc.edu/prap/",
+      "use": "paesaggio insediativo e territorio palaziale"
+    }
+  ]
+}

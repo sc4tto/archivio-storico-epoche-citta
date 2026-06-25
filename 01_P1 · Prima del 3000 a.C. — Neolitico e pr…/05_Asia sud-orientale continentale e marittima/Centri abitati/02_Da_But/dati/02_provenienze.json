@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Đa Bút",
+      "lat": 20.09,
+      "lon": 105.62,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "mariver",
+      "label": "Valle del fiume Mã",
+      "lat": 20.12,
+      "lon": 105.6,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": -20,
+      "anchor": "end"
+    },
+    {
+      "id": "wetlands",
+      "label": "Paludi e corsi minori",
+      "lat": 20.05,
+      "lon": 105.7,
+      "status": "sintesi",
+      "kind": "locale",
+      "dx": 10,
+      "dy": 25,
+      "anchor": "start"
+    },
+    {
+      "id": "karst",
+      "label": "Colline calcaree",
+      "lat": 20.22,
+      "lon": 105.5,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 28,
+      "anchor": "middle"
+    },
+    {
+      "id": "coast",
+      "label": "Piana costiera di Thanh Hóa",
+      "lat": 19.9,
+      "lon": 105.85,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "hoabinh",
+      "label": "Siti hoabinhiani del Vietnam settentrionale",
+      "lat": 20.7,
+      "lon": 105.35,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "mariver",
+      "target": "site",
+      "label": "pesce, molluschi, acqua e mobilità",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "wetlands",
+      "target": "site",
+      "label": "risorse acquatiche e vegetali",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "karst",
+      "target": "site",
+      "label": "selvaggina, pietra e piante",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "coast",
+      "target": "site",
+      "label": "scambi ecologici con il litorale",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "hoabinh",
+      "target": "site",
+      "label": "continuità e trasformazioni tecnologiche",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

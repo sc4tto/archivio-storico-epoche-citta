@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Delhi sultaniale: Mehrauli, Siri, Tughlaqabad e Firozabad",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Idraulica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Hauz, pozzi e canali",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Gestione dello Yamuna",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Difesa",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Cittadelle e bastioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Reti fra capitali successive",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Archi, cupole e minareti",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Reimpiego e taglio della pietra",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Amministrazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Mercati, fiscalità e sarai",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Madrase e waqf",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Pluralità culturale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Tradizioni indo-islamiche",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Sufi, corte e comunità urbane",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

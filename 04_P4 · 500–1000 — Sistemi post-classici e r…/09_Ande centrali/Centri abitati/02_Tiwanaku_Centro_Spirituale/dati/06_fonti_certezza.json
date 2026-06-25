@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Tiwanaku raggiunse il proprio apogeo fra 500 e 900.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "T1; T3"
+  },
+  {
+    "claim": "La città combinava edifici monumentali in pietra con quartieri prevalentemente in adobe.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "T1; T3; T4"
+  },
+  {
+    "claim": "I campi rialzati sostenevano una base agricola adattata al clima dell’altopiano.",
+    "theme": "agricoltura",
+    "status": "documentato",
+    "source": "T1; T3; T5"
+  },
+  {
+    "claim": "I drenaggi erano parte integrante dell’architettura civico-cerimoniale.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "T1"
+  },
+  {
+    "claim": "La sfera Tiwanaku comprendeva colonie o comunità collegate nelle valli meridionali.",
+    "theme": "politica",
+    "status": "sintesi",
+    "source": "T3; T4; T5"
+  },
+  {
+    "claim": "L’uso politico dell’iconografia religiosa è attestato ma non equivale a un’amministrazione uniforme.",
+    "theme": "certezza",
+    "status": "sintesi",
+    "source": "T2; T4"
+  },
+  {
+    "claim": "Arenaria, andesite, adobe e materiali vegetali convergevano negli stessi complessi.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "T1; T3"
+  },
+  {
+    "claim": "Il declino dopo il 900 non fu immediato né identico in tutte le regioni.",
+    "theme": "cronologia",
+    "status": "sintesi",
+    "source": "T3; T4"
+  }
+]

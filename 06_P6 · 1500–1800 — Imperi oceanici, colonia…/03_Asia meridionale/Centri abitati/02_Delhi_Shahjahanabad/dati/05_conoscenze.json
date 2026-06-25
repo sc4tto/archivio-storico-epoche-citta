@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Delhi–Shahjahanabad moghul",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Yamuna e acqua",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Canali, fossati e pozzi",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Giardini, hammam e fontane",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mercati",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Chandni Chowk, katra e sarai",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Dazi, pesi e distribuzione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Arenaria, marmo e cupole",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Jali, inlay e decorazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Corte",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Cerimoniale del Forte Rosso",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Amministrazione e mansabdari",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Mobilità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Strade per Agra e Lahore",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Carovane verso Kabul e Kashmir",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

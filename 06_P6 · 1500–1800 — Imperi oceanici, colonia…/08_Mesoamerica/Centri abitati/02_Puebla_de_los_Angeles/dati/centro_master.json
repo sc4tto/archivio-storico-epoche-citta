@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Puebla de los Ángeles vicereale",
+    "site": "Puebla de los Ángeles vicereale",
+    "modern_location": "Puebla, Messico",
+    "coordinates": {
+      "lat": 19.0414,
+      "lon": -98.2063
+    },
+    "scope": "Puebla fra 1531 e 1800: nodo del camino real, centro episcopale e manifatturiero, con piazza, cattedrale, conventi, obrajes, mulini e quartieri indigeni e artigiani.",
+    "version": "1.0",
+    "warning": "Il modulo esclude industrializzazione ottocentesca, trasformazioni ferroviarie e ampliamenti urbani moderni."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "PU1",
+      "title": "UNESCO — Historic Centre of Puebla",
+      "use": "Fondazione, griglia urbana e patrimonio architettonico.",
+      "url": "https://whc.unesco.org/en/list/416/"
+    },
+    {
+      "id": "PU2",
+      "title": "INAH Puebla",
+      "use": "Patrimonio storico e monumenti della città.",
+      "url": "https://www.inah.gob.mx/zonas/54-museo-regional-de-puebla"
+    },
+    {
+      "id": "PU3",
+      "title": "Encyclopaedia Britannica — Puebla",
+      "use": "Storia urbana ed economia regionale.",
+      "url": "https://www.britannica.com/place/Puebla-Mexico"
+    },
+    {
+      "id": "PU4",
+      "title": "Biblioteca Palafoxiana",
+      "use": "Cultura libraria e istituzioni ecclesiastiche.",
+      "url": "https://bibliotecapalafoxiana.puebla.gob.mx/"
+    },
+    {
+      "id": "PU5",
+      "title": "Gobierno del Estado de Puebla — Cultura",
+      "use": "Patrimonio e storia regionale.",
+      "url": "https://cultura.puebla.gob.mx/"
+    }
+  ]
+}

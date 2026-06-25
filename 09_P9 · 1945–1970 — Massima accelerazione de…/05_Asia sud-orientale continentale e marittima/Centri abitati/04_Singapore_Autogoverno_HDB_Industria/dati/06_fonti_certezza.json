@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Singapore ottenne l’autogoverno interno nel 1959 e divenne indipendente nel 1965.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "SI4"
+  },
+  {
+    "claim": "L’HDB fu istituito nel 1960 durante una grave crisi abitativa.",
+    "theme": "abitazione",
+    "status": "documentato",
+    "source": "SI1; SI3"
+  },
+  {
+    "claim": "Nei primi anni l’HDB costruì rapidamente decine di migliaia di appartamenti.",
+    "theme": "abitazione",
+    "status": "documentato",
+    "source": "SI1"
+  },
+  {
+    "claim": "Urban renewal e nuove infrastrutture comportarono demolizioni e trasferimenti di residenti.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "SI2"
+  },
+  {
+    "claim": "Industrializzazione e porto furono centrali nella strategia economica degli anni Sessanta.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Singapore, autogoverno, edilizia pubblica e industrializzazione è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "L’occupazione coloniale, le demolizioni, i trasferimenti forzati o fortemente vincolati, la repressione politica, i conflitti del lavoro e le rivolte intercomunitarie sono descritti come processi conflittuali e non neutrali.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

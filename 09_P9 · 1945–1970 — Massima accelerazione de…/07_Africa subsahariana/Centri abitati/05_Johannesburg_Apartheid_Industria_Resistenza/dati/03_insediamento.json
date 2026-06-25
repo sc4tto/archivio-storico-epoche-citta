@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1945–1949",
+    "1950–1954",
+    "1955–1959",
+    "1960–1964",
+    "1965–1970"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Vittoria del National Party nel 1948 e istituzionalizzazione dell’apartheid",
+      "lane": "Politica",
+      "start": 0,
+      "end": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Group Areas Act del 1950 e rafforzamento della segregazione urbana",
+      "lane": "Legislazione",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Espansione industriale e del sistema di lavoro migrante",
+      "lane": "Economia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Rimozione forzata degli abitanti di Sophiatown dal 1955",
+      "lane": "Sgomberi",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Freedom Charter adottata a Kliptown nel 1955",
+      "lane": "Resistenza",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Consolidamento di Soweto e township separate a sud-ovest",
+      "lane": "Urbanistica",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Stato d’emergenza e repressione dopo Sharpeville nel 1960",
+      "lane": "Repressione",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Arresti di Rivonia nel 1963 e processo contro dirigenti anti-apartheid",
+      "lane": "Repressione",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

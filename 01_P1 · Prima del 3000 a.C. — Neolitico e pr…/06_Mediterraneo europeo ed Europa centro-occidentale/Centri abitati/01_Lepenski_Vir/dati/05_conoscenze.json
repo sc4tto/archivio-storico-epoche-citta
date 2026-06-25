@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Lepenski Vir",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Fiume",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Lettura delle correnti",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Pesca stagionale",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Navigazione o attraversamento",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Fauna acquatica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Cattura di grandi pesci",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Trattamento delle carcasse",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Conservazione del pescato",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Geometria edilizia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Tracciamento dei trapezi",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_2",
+          "label": "Preparazione dei pavimenti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Orientamento degli edifici",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Pietra",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Percussione e levigatura",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Scolpitura di massi",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Scelta dei ciottoli",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Fuoco e alimenti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Gestione dei focolari",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Cottura",
+          "status": "inferito"
+        },
+        {
+          "id": "k5_3",
+          "label": "Pulizia degli spazi",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Organizzazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Coordinamento edilizio",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_2",
+          "label": "Rituali funerari",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Agricoltura cerealicola stabile sul sito",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

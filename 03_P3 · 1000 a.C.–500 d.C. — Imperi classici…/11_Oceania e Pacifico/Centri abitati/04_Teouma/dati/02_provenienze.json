@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Teouma",
+      "lat": -17.76,
+      "lon": 168.358,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "bay",
+      "label": "Baia di Teouma",
+      "lat": -17.77,
+      "lon": 168.35,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "efate",
+      "label": "Efate centrale",
+      "lat": -17.7,
+      "lon": 168.3,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "santo",
+      "label": "Espiritu Santo",
+      "lat": -15.3,
+      "lon": 167.1,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "newcaledonia",
+      "label": "Nuova Caledonia",
+      "lat": -21.3,
+      "lon": 165.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "tonga",
+      "label": "Tonga",
+      "lat": -21.15,
+      "lon": -175.2,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "bay",
+      "target": "site",
+      "label": "pesca, molluschi e approdo",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "efate",
+      "target": "site",
+      "label": "orticoltura, pietra e legname",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "santo",
+      "target": "site",
+      "label": "contatti interinsulari",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "newcaledonia",
+      "target": "site",
+      "label": "tradizioni Lapita regionali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "tonga",
+      "target": "site",
+      "label": "espansione successiva verso est",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

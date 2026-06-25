@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1970–1979",
+    "1980–1989",
+    "1990–1999",
+    "2000–2009",
+    "2010–25 giugno 2026"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Espansione metropolitana e crescita degli insediamenti informali",
+      "lane": "Abitazione",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Apertura della prima linea della metropolitana nel 1987",
+      "lane": "Mobilità",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Nuove città nel deserto e grandi assi stradali",
+      "lane": "Pianificazione",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Terremoto del 1992 e crisi del patrimonio edilizio",
+      "lane": "Rischio",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Rivoluzione del 2011 e repressioni successive",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Espansione della rete metro e dei trasporti di massa",
+      "lane": "Mobilità",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Programma per aria, rifiuti ed emissioni",
+      "lane": "Ambiente",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "WUF12 ospitato al Cairo nel 2024",
+      "lane": "Governance",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Wari",
+      "lat": -13.061,
+      "lon": -74.224,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "ayacucho",
+      "label": "Bacino di Ayacucho",
+      "lat": -13.16,
+      "lon": -74.22,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "conchopata",
+      "label": "Conchopata",
+      "lat": -13.16,
+      "lon": -74.2,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "nazca",
+      "label": "Valli di Nasca",
+      "lat": -14.83,
+      "lon": -74.94,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "tiwanaku",
+      "label": "Tiwanaku e Titicaca",
+      "lat": -16.55,
+      "lon": -68.67,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "coast",
+      "label": "Costa centrale e meridionale",
+      "lat": -12.5,
+      "lon": -76.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "ayacucho",
+      "target": "site",
+      "label": "mais, tuberi, persone e lavoro",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "conchopata",
+      "target": "site",
+      "label": "ceramiche, rituali e innovazioni iconografiche",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "nazca",
+      "target": "site",
+      "label": "ceramiche, tessili e relazioni meridionali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "tiwanaku",
+      "target": "site",
+      "label": "iconografie religiose e interazioni d’altopiano",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "coast",
+      "target": "site",
+      "label": "cotone, pesce secco, conchiglie e scambi",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

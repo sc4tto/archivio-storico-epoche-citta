@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "m1",
+      "label": "Insediamento locale e santuario di Tsurugaoka",
+      "lane": "Religione",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "m2",
+      "label": "Yoritomo stabilisce il governo guerriero",
+      "lane": "Politica",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "m3",
+      "label": "Shogunato e reggenza Hōjō",
+      "lane": "Politica",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "m4",
+      "label": "Templi Zen e nuove istituzioni religiose",
+      "lane": "Religione",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "m5",
+      "label": "Porto di Wakae e mercati",
+      "lane": "Economia",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "m6",
+      "label": "Invasioni mongole e mobilitazione",
+      "lane": "Conflitto",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "m7",
+      "label": "Caduta dello shogunato nel 1333",
+      "lane": "Conflitto",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "m8",
+      "label": "Kamakura-fu e declino nel XV secolo",
+      "lane": "Politica",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

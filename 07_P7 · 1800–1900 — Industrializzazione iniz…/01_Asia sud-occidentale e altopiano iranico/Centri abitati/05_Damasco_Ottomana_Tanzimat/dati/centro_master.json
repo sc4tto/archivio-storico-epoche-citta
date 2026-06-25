@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Damasco ottomana nell’età del Tanzimat",
+    "site": "Damasco ottomana nell’età del Tanzimat",
+    "modern_location": "Damasco, Siria",
+    "coordinates": {
+      "lat": 33.5138,
+      "lon": 36.2765
+    },
+    "scope": "Damasco fra 1800 e 1900: città ottomana di quartieri, corti e mercati, nodo fra Mediterraneo, Hauran, Arabia e Mesopotamia, segnata da Tanzimat e conflitti del 1860.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Ferrovia dell’Hegiaz, mandato francese, espansione automobilistica e trasformazioni del XX secolo sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "DA1",
+      "title": "UNESCO — Ancient City of Damascus",
+      "use": "Tessuto storico, monumenti e continuità urbana.",
+      "url": "https://whc.unesco.org/en/list/20/"
+    },
+    {
+      "id": "DA2",
+      "title": "Encyclopaedia Britannica — Damascus",
+      "use": "Storia politica, commerciale e urbana.",
+      "url": "https://www.britannica.com/place/Damascus"
+    },
+    {
+      "id": "DA3",
+      "title": "Aga Khan Historic Cities Programme — Damascus",
+      "use": "Case, suq e conservazione del tessuto storico.",
+      "url": "https://www.akdn.org/our-agencies/aga-khan-trust-culture/aga-khan-historic-cities-programme"
+    },
+    {
+      "id": "DA4",
+      "title": "Archnet — Damascus",
+      "use": "Architettura domestica, religiosa e commerciale.",
+      "url": "https://www.archnet.org/"
+    },
+    {
+      "id": "DA5",
+      "title": "Library of Congress — Damascus photographs and maps",
+      "use": "Documentazione visiva tardo-ottomana.",
+      "url": "https://www.loc.gov/pictures/"
+    }
+  ]
+}

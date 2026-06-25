@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Gobero",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Ambiente lacustre",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Cicli delle acque",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Pesca stagionale",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Lettura delle fasi aride",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Tecnologia litica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Scheggiatura",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Levigatura",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Macine e pestelli",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Ceramica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Formatura dei recipienti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Decorazioni impresse",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Cottura",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Sussistenza",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Pesca",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Caccia",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Raccolta vegetale",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Mobilità",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Uso stagionale del lago",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_2",
+          "label": "Spostamenti regionali",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_3",
+          "label": "Rotte sahariane",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Ritualità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Preparazione delle tombe",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Deposizione dei defunti",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Significato sociale dei corredi",
+          "status": "inferito"
+        }
+      ]
+    }
+  ]
+}

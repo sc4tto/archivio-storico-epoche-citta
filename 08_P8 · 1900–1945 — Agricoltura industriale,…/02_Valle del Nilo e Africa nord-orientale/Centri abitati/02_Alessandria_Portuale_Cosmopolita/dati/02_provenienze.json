@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Alessandria",
+      "lat": 31.2001,
+      "lon": 29.9187,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "del",
+      "label": "Delta occidentale",
+      "lat": 31.0,
+      "lon": 30.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "mar",
+      "label": "Lago Mariout",
+      "lat": 31.05,
+      "lon": 29.85,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "beh",
+      "label": "Beheira",
+      "lat": 30.8,
+      "lon": 30.3,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "cai",
+      "label": "Cairo",
+      "lat": 30.04,
+      "lon": 31.24,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "lev",
+      "label": "Levant",
+      "lat": 34.0,
+      "lon": 35.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "eur",
+      "label": "Marsiglia e Mediterraneo europeo",
+      "lat": 43.3,
+      "lon": 5.37,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "del",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e canali",
+      "food": "cotone, riso e ortaggi"
+    },
+    {
+      "source": "mar",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e canali",
+      "food": "pesce, sale e prodotti agricoli"
+    },
+    {
+      "source": "beh",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia",
+      "food": "cereali, bestiame e latticini"
+    },
+    {
+      "source": "cai",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia",
+      "food": "capitale, manufatti e domanda urbana"
+    },
+    {
+      "source": "lev",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione levantina",
+      "food": "frutta secca, saponi e mercanti"
+    },
+    {
+      "source": "eur",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "linee a vapore",
+      "food": "macchinari, farina e beni di consumo"
+    }
+  ]
+}

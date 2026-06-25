@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Skara Brae — modulo multi-grafo",
+    "short_name": "Skara Brae",
+    "site": "Skara Brae",
+    "modern_location": "Baia di Skaill, Mainland, Orcadi, Scozia",
+    "coordinates": {
+      "lat": 59.0487,
+      "lon": -3.3417
+    },
+    "scope": "Villaggio neolitico in pietra delle Orcadi, occupato soprattutto fra la fine del IV e il III millennio a.C.; il modulo considera case, passaggi, arredi litici, economia agricola e risorse marine.",
+    "version": "1.0-blocco_07_p1_mediterraneo_europa_5_centri_v1",
+    "warning": "Skara Brae appartiene alla parte finale del P1 e prosegue nel III millennio a.C. L’eccellente conservazione non significa che tutte le case siano contemporanee né che ogni oggetto abbia funzione certa."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "HES_SKARA",
+      "title": "Historic Environment Scotland — Skara Brae",
+      "url": "https://www.historicenvironment.scot/visit/all/skara-brae/",
+      "use": "case, arredi in pietra, conservazione, villaggio e visita"
+    },
+    {
+      "id": "UNESCO_ORKNEY",
+      "title": "UNESCO — Heart of Neolithic Orkney",
+      "url": "https://whc.unesco.org/en/list/514/",
+      "use": "paesaggio culturale, insediamento e valore archeologico"
+    },
+    {
+      "id": "CANMORE_SKARA",
+      "title": "Canmore — Skara Brae archaeological record",
+      "url": "https://canmore.org.uk/site/1663/skara-brae",
+      "use": "record monumentale, strutture, scavi e bibliografia"
+    }
+  ]
+}

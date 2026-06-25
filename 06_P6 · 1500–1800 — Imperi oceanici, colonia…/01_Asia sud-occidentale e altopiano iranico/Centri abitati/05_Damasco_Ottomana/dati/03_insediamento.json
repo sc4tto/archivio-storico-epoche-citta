@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1500–1560",
+    "1560–1620",
+    "1620–1680",
+    "1680–1740",
+    "1740–1800"
+  ],
+  "items": [
+    {
+      "id": "dm1",
+      "label": "Incorporazione nell’Impero ottomano",
+      "lane": "Politica",
+      "start": 0,
+      "end": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "dm2",
+      "label": "Consolidamento come capitale provinciale",
+      "lane": "Amministrazione",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "dm3",
+      "label": "Organizzazione annuale della carovana del hajj",
+      "lane": "Religione",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "dm4",
+      "label": "Espansione di khan, suq e manifatture",
+      "lane": "Economia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "dm5",
+      "label": "Sviluppo delle case a corte ottomane",
+      "lane": "Costruzione",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "dm6",
+      "label": "Manutenzione dei canali della Ghouta",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "dm7",
+      "label": "Fondazioni di moschee, madrase e tekke",
+      "lane": "Religione",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "dm8",
+      "label": "Terremoti, epidemie e crisi annonarie",
+      "lane": "Rischi",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

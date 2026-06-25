@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Daima",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Stratigrafia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Daima I",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Daima II",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Limiti cronologici assoluti",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Sussistenza",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Sorgo",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Pesca",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Pastorizia",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Ceramica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Decorazione a pettine",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Impressioni di stuoia",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Cronologia uniforme",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Figurine",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Bovini",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Figure umane",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Funzione religiosa certa",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Metallurgia",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Ferro in Daima II",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Sostituzione di osso e pietra",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_3",
+          "label": "Introduzione in un unico evento",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Ambiente",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Argille firki",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Zone umide",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Lago stabile nel tempo",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

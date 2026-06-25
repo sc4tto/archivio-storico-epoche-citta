@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "h1",
+      "label": "Capoluogo regionale e sistemazione del Lago dell’Ovest",
+      "lane": "Paesaggio",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "h2",
+      "label": "Insediamento della corte dei Song meridionali",
+      "lane": "Politica",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "h3",
+      "label": "Palazzo, uffici e quartieri della capitale",
+      "lane": "Urbanistica",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "h4",
+      "label": "Espansione dei mercati e dei sobborghi",
+      "lane": "Economia",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "h5",
+      "label": "Incendi urbani e ricostruzioni",
+      "lane": "Rischi",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "h6",
+      "label": "Conquista Yuan del 1276",
+      "lane": "Conflitto",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "h7",
+      "label": "Continuità commerciale sotto gli Yuan",
+      "lane": "Economia",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "h8",
+      "label": "Centro provinciale e paesaggio culturale Ming",
+      "lane": "Amministrazione",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

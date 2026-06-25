@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Primo Harappano",
+    "Transizione e ricostruzione",
+    "Harappano Maturo",
+    "Riorganizzazione urbana",
+    "Abbandono"
+  ],
+  "items": [
+    {
+      "id": "citadel",
+      "label": "Cittadella fortificata",
+      "lane": "Monumentali",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "lower",
+      "label": "Città bassa a griglia",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "field",
+      "label": "Campo con solchi incrociati",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "drains",
+      "label": "Pozzi, strade e drenaggi",
+      "lane": "Infrastrutture",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "platforms",
+      "label": "Piattaforme e focolari",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "cemetery",
+      "label": "Cimitero con pratiche diverse",
+      "lane": "Funerarie",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "end",
+      "label": "Abbandono e trasformazione regionale",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

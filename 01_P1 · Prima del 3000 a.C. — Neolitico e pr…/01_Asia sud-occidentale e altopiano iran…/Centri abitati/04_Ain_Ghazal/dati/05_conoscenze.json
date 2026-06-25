@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di ‘Ain Ghazal",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "env",
+      "label": "Ambiente",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "ecotone",
+          "label": "Uso di ecotono altopiano-steppa",
+          "status": "documentato"
+        },
+        {
+          "id": "water",
+          "label": "Gestione di sorgenti e wadi",
+          "status": "sintesi"
+        },
+        {
+          "id": "wood",
+          "label": "Pressione sulle risorse legnose",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "agri",
+      "label": "Agricoltura",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "crops",
+          "label": "Colture cerealicole e leguminose",
+          "status": "sintesi"
+        },
+        {
+          "id": "herding",
+          "label": "Allevamento ovicaprino",
+          "status": "sintesi"
+        },
+        {
+          "id": "storage",
+          "label": "Gestione dei depositi",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "foodk",
+      "label": "Tecnologie alimentari",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "grindk",
+          "label": "Macinazione",
+          "status": "documentato"
+        },
+        {
+          "id": "cookk",
+          "label": "Cottura",
+          "status": "sintesi"
+        },
+        {
+          "id": "butchk",
+          "label": "Macellazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "buildk",
+      "label": "Edilizia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "brickk",
+          "label": "Mattoni crudi",
+          "status": "documentato"
+        },
+        {
+          "id": "limek",
+          "label": "Tecnologia della calce",
+          "status": "documentato"
+        },
+        {
+          "id": "roomk",
+          "label": "Organizzazione di case rettangolari",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "art",
+      "label": "Tecnologia rituale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "corek",
+          "label": "Armature vegetali",
+          "status": "documentato"
+        },
+        {
+          "id": "statuek",
+          "label": "Modellazione in calce",
+          "status": "documentato"
+        },
+        {
+          "id": "pigment",
+          "label": "Occhi e dettagli pigmentati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "social",
+      "label": "Organizzazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "labour",
+          "label": "Lavoro collettivo",
+          "status": "inferito"
+        },
+        {
+          "id": "ritual",
+          "label": "Deposizione rituale",
+          "status": "sintesi"
+        },
+        {
+          "id": "dead",
+          "label": "Trattamento dei defunti",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

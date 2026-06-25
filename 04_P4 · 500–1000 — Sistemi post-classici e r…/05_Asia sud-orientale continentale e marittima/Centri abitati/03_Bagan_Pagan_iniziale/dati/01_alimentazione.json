@@ -1,0 +1,198 @@
+{
+  "nodes": [
+    {
+      "id": "bt_fiume",
+      "label": "Ayeyarwady e rive",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "bt_secco",
+      "label": "Piana arida di Bagan",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "bt_kyaukse",
+      "label": "Aree irrigue regionali",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "bt_bosco",
+      "label": "Colline e pascoli",
+      "layer": 0,
+      "status": "inferito"
+    },
+    {
+      "id": "br_riso",
+      "label": "Riso",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "br_miglio",
+      "label": "Miglio, sesamo e legumi",
+      "layer": 1,
+      "status": "inferito"
+    },
+    {
+      "id": "br_pesce",
+      "label": "Pesce di fiume",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "br_bestiame",
+      "label": "Bovini e animali domestici",
+      "layer": 1,
+      "status": "inferito"
+    },
+    {
+      "id": "ba_irrig",
+      "label": "Coltivazione irrigua",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "ba_secco",
+      "label": "Agricoltura asciutta",
+      "layer": 2,
+      "status": "inferito"
+    },
+    {
+      "id": "ba_pesca",
+      "label": "Pesca fluviale",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "ba_allev",
+      "label": "Allevamento e trasporto animale",
+      "layer": 2,
+      "status": "inferito"
+    },
+    {
+      "id": "bx_pest",
+      "label": "Pestatura e bollitura",
+      "layer": 3,
+      "status": "inferito"
+    },
+    {
+      "id": "bx_olio",
+      "label": "Pressatura dell’olio",
+      "layer": 3,
+      "status": "inferito"
+    },
+    {
+      "id": "bx_secco",
+      "label": "Essiccazione e conservazione",
+      "layer": 3,
+      "status": "inferito"
+    },
+    {
+      "id": "bp_cereali",
+      "label": "Preparazioni di cereali e legumi",
+      "layer": 4,
+      "status": "inferito"
+    },
+    {
+      "id": "bp_olio",
+      "label": "Olio di sesamo",
+      "layer": 4,
+      "status": "inferito"
+    },
+    {
+      "id": "bp_pesce",
+      "label": "Pesce fresco o secco",
+      "layer": 4,
+      "status": "inferito"
+    }
+  ],
+  "edges": [
+    {
+      "source": "bt_kyaukse",
+      "target": "br_riso",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "bt_secco",
+      "target": "br_miglio",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "bt_fiume",
+      "target": "br_pesce",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "bt_bosco",
+      "target": "br_bestiame",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "br_riso",
+      "target": "ba_irrig",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "br_miglio",
+      "target": "ba_secco",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "br_pesce",
+      "target": "ba_pesca",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "br_bestiame",
+      "target": "ba_allev",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "ba_irrig",
+      "target": "bx_pest",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "ba_secco",
+      "target": "bx_olio",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "ba_pesca",
+      "target": "bx_secco",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "bx_pest",
+      "target": "bp_cereali",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "bx_olio",
+      "target": "bp_olio",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "bx_secco",
+      "target": "bp_pesce",
+      "status": "inferito",
+      "label": ""
+    }
+  ]
+}

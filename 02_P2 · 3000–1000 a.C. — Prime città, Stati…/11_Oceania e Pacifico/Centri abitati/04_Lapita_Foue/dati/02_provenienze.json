@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Lapita–Foué",
+      "lat": -21.05,
+      "lon": 164.83,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "kone",
+      "label": "Koné e costa occidentale",
+      "lat": -21.06,
+      "lon": 164.86,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "lagoon",
+      "label": "Laguna neocaledoniana",
+      "lat": -21.1,
+      "lon": 164.7,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "vanuatu",
+      "label": "Vanuatu",
+      "lat": -16.0,
+      "lon": 167.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "loyalty",
+      "label": "Isole della Lealtà",
+      "lat": -21.0,
+      "lon": 167.2,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "fiji",
+      "label": "Figi",
+      "lat": -17.8,
+      "lon": 178.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "kone",
+      "target": "site",
+      "label": "legname, suoli e acque dolci",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "lagoon",
+      "target": "site",
+      "label": "pesce, molluschi e tartarughe",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "vanuatu",
+      "target": "site",
+      "label": "stili e rotte occidentali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "loyalty",
+      "target": "site",
+      "label": "mobilità interinsulare",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "fiji",
+      "target": "site",
+      "label": "espansione verso est",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

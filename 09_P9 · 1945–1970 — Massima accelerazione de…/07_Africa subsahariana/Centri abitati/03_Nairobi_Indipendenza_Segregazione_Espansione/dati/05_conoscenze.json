@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Nairobi, indipendenza, segregazione ed espansione",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Pianificazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Piano del 1948, zonizzazione, estates e standard edilizi",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Urban Study Group, crescita, trasporti e servizi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Ferrovia e logistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Kenya–Uganda Railway, stazioni, Mombasa e reti stradali",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Mercati, magazzini, pendolarismo e approvvigionamento",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Alloggio e servizi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Edilizia municipale, case aziendali, acqua e sanità",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Autocostruzione, affitti, sovraffollamento e quartieri informali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società e istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Lavoratori africani, comunità asiatiche ed europee, migranti rurali",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Indipendenza, africanizzazione, sindacati, chiese e associazioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Coercizione e disuguaglianze",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Segregazione coloniale, pass laws, emergenza e detenzione",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Persistenza delle gerarchie spaziali e accesso diseguale al suolo",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

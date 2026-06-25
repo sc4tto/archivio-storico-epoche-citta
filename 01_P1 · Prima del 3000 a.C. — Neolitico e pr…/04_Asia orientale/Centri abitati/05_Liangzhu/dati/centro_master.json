@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Liangzhu — modulo multi-grafo",
+    "short_name": "Liangzhu",
+    "site": "Liangzhu",
+    "modern_location": "Yuhang, Hangzhou, provincia di Zhejiang, Cina",
+    "coordinates": {
+      "lat": 30.39,
+      "lon": 119.98
+    },
+    "scope": "Archaeological Ruins of Liangzhu City, circa 3300–2300 a.C.; nel P1 si considera l’emergere del sistema alla fine del periodo",
+    "version": "1.0-blocco_05_p1_asia_orientale_5_centri_v1",
+    "warning": "Molte opere monumentali e la piena configurazione urbana proseguono nel III millennio; la pagina segnala la sovrapposizione con il periodo successivo."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "UNESCO_LIANGZHU",
+      "title": "UNESCO World Heritage Centre — Archaeological Ruins of Liangzhu City",
+      "url": "https://whc.unesco.org/en/list/1592/",
+      "use": "cronologia, città, piattaforma palaziale, sistema idraulico e società del riso"
+    },
+    {
+      "id": "LIANGZHU_OFFICIAL",
+      "title": "Liangzhu Archaeological Site official portal",
+      "url": "https://www.lzsite.cn/",
+      "use": "parco archeologico, reperti e ricerca"
+    },
+    {
+      "id": "LIANGZHU_HYDRO",
+      "title": "Liu et al. — Earliest hydraulic enterprise in China",
+      "url": "https://doi.org/10.1073/pnas.1710516114",
+      "use": "dighe, gestione dell’acqua e cronologia"
+    }
+  ]
+}

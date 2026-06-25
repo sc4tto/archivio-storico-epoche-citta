@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Comunità Woodland iniziali",
+    "Preparazione dell’area funeraria",
+    "Prima fase del tumulo",
+    "Accrescimento e sepolture successive",
+    "Scavi ottocenteschi e tutela moderna"
+  ],
+  "items": [
+    {
+      "id": "ditch",
+      "label": "Fossato e accesso al tumulo",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "lower",
+      "label": "Camera funeraria inferiore",
+      "lane": "Funerarie",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "upper",
+      "label": "Camera funeraria superiore",
+      "lane": "Funerarie",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "mound",
+      "label": "Accrescimento del tumulo in ceste",
+      "lane": "Monumentali",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "offerings",
+      "label": "Corredi in rame, mica e pietra",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "settlements",
+      "label": "Abitati e tumuli circostanti",
+      "lane": "Paesaggio",
+      "start": 0,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "museum",
+      "label": "Scavi, museo e conservazione",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Baghdad",
+      "lat": 33.3152,
+      "lon": 44.3661,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "sam",
+      "label": "Samarra",
+      "lat": 34.198,
+      "lon": 43.875,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "was",
+      "label": "Wasit",
+      "lat": 32.5,
+      "lon": 45.83,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "bas",
+      "label": "Bassora",
+      "lat": 30.5,
+      "lon": 47.81,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "mos",
+      "label": "Mosul",
+      "lat": 36.34,
+      "lon": 43.13,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "tab",
+      "label": "Tabriz",
+      "lat": 38.08,
+      "lon": 46.29,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "dam",
+      "label": "Damasco",
+      "lat": 33.51,
+      "lon": 36.28,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "sam",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "asse del Tigri",
+      "food": "grano, ceramiche e persone"
+    },
+    {
+      "source": "was",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali e strada meridionale",
+      "food": "cereali e tessili"
+    },
+    {
+      "source": "bas",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione fluviale",
+      "food": "spezie, zucchero e beni oceanici"
+    },
+    {
+      "source": "mos",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotta settentrionale",
+      "food": "metalli, bestiame e tessili"
+    },
+    {
+      "source": "tab",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "rete ilkhanide",
+      "food": "seta, cavalli e funzionari"
+    },
+    {
+      "source": "dam",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "collegamento siro-iracheno",
+      "food": "manufatti e pellegrini"
+    }
+  ]
+}

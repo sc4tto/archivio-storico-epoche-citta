@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_67_P6_Ande_Centrali_5_Centri_v1",
+  "macroregion": "Ande centrali",
+  "centers": [
+    "01_Lima_Vicereale",
+    "02_Cusco_Coloniale",
+    "03_Potosi_Mineraria",
+    "04_Quito_Coloniale",
+    "05_La_Paz_Coloniale"
+  ],
+  "uses_central_assets": true
+}

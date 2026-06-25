@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Ninive — modulo multi-grafo",
+    "short_name": "Ninive",
+    "site": "Ninive / Kuyunjik e Nebi Yunus",
+    "modern_location": "Mosul, governatorato di Ninive, Iraq",
+    "coordinates": {
+      "lat": 36.366,
+      "lon": 43.152
+    },
+    "scope": "Grande insediamento sul Tigri con occupazioni preistoriche e dell’età del Bronzo, culto di Ishtar, templi, quartieri e rapporti con Assur e l’Alta Mesopotamia; la trasformazione in capitale imperiale appartiene soprattutto al periodo successivo.",
+    "version": "1.0-blocco_14_p2_asia_so_completamento_5_centri_v1",
+    "warning": "Le celebri mura, il palazzo di Sennacherib e la biblioteca di Assurbanipal sono posteriori al 1000 a.C. Nel P2 Ninive è trattata come centro religioso e urbano dell’Assiria antica e media, spesso coperto dalle costruzioni neo-assire."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "NINEVEH_BM",
+      "title": "British Museum — Assyria: Nineveh",
+      "url": "https://www.britishmuseum.org/collection/galleries/assyria-nineveh",
+      "use": "topografia e monumenti della fase capitale, usati come confronto posteriore"
+    },
+    {
+      "id": "NINEVEH_CAMBRIDGE",
+      "title": "Cambridge Ancient History — Assyria and Nineveh",
+      "url": "https://www.cambridge.org/core/books/cambridge-ancient-history/",
+      "use": "quadro storico delle fasi antica e media assira"
+    },
+    {
+      "id": "NINEVEH_ARCHIVE",
+      "title": "British Museum Collection — objects from Nineveh",
+      "url": "https://www.britishmuseum.org/collection/term/x32715",
+      "use": "cultura materiale, iscrizioni e storia degli scavi"
+    }
+  ]
+}

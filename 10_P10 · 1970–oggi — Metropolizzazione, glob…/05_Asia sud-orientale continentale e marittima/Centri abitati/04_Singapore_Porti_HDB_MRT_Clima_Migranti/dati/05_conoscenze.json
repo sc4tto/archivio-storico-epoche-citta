@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Singapore, porto globale, HDB, MRT, clima e lavoro migrante",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Edilizia pubblica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "HDB, new towns, upgrading e integrazione sociale",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Affordability, proprietà, rental housing e invecchiamento",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mobilità integrata",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "MRT, autobus, pedonalità e ciclabilità",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Tariffe, accessibilità e gestione della domanda automobilistica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Porto e logistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Container, aviazione e catene globali",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Automazione, energia e sicurezza delle forniture",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Acqua e clima",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "NEWater, bacini, drenaggio e gestione della domanda",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Innalzamento del mare, calore e difese costiere",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Lavoro e pluralismo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Migranti nei cantieri, servizi e lavoro domestico",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Regolazione, dormitori, diritti e convivenza multiculturale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

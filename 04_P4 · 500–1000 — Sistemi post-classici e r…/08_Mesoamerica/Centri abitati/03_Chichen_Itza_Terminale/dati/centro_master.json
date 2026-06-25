@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Chichén Itzá terminale",
+    "site": "Chichén Itzá",
+    "modern_location": "Stato dello Yucatán, Messico",
+    "coordinates": {
+      "lat": 20.6843,
+      "lon": -88.5678
+    },
+    "scope": "Chichén Itzá fra 650 e 1000, con attenzione alla crescita terminal-classica, ai cenotes, alle reti commerciali, alle trasformazioni architettoniche e ai rapporti con il Messico centrale.",
+    "version": "1.0",
+    "warning": "La cronologia dei complessi “maya” e “toltechi” e il rapporto diretto con Tula sono temi discussi. Le somiglianze artistiche non vengono trattate come prova automatica di conquista."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "C1",
+      "title": "UNESCO World Heritage Centre — Pre-Hispanic City of Chichen-Itza",
+      "use": "Importanza del centro, architettura e tradizioni maya-centromessicane.",
+      "url": "https://whc.unesco.org/en/list/483/"
+    },
+    {
+      "id": "C2",
+      "title": "INAH — Zona arqueológica de Chichén Itzá",
+      "use": "Edifici, cenote, sacbeob e gestione del sito.",
+      "url": "https://www.inah.gob.mx/zonas/146-zona-arqueologica-de-chichen-itza"
+    },
+    {
+      "id": "C3",
+      "title": "Carnegie Institution — Chichen Itza research archive",
+      "use": "Scavi, restauri e documentazione dei complessi.",
+      "url": "https://www.mesoweb.com/publications/CIW/"
+    },
+    {
+      "id": "C4",
+      "title": "Geoffrey Braswell — The Ancient Maya of Mexico",
+      "use": "Cronologia e interpretazioni della transizione terminal-classica.",
+      "url": "https://www.routledge.com/The-Ancient-Maya-of-Mexico-Reinterpreting-the-Past-of-the-Northern-Maya-Lowlands/Braswell/p/book/9781845535363"
+    },
+    {
+      "id": "C5",
+      "title": "Michael E. Smith — Tula and Chichen Itza: Are We Asking the Right Questions?",
+      "use": "Analisi critica delle relazioni fra i due centri.",
+      "url": "https://www.public.asu.edu/~mesmith9/1-CompleteSet/MES-05-TulaEncyc.pdf"
+    }
+  ]
+}

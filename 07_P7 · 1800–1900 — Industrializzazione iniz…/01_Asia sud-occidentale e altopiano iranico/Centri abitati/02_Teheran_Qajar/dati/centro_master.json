@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Teheran qajar",
+    "site": "Teheran qajar",
+    "modern_location": "Teheran, Iran",
+    "coordinates": {
+      "lat": 35.6892,
+      "lon": 51.389
+    },
+    "scope": "Teheran fra 1800 e 1900: capitale della monarchia qajar, sede del Golestan, centro amministrativo e militare, mercato dell’altopiano e spazio di riforma e influenza russo-britannica.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Rivoluzione costituzionale, dinastia Pahlavi e grandi demolizioni e rettifiche novecentesche sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "TE1",
+      "title": "UNESCO — Golestan Palace",
+      "use": "Complesso reale qajar e sintesi architettonica.",
+      "url": "https://whc.unesco.org/en/list/1422/"
+    },
+    {
+      "id": "TE2",
+      "title": "Encyclopaedia Iranica — Tehran",
+      "use": "Sviluppo storico e urbano della capitale.",
+      "url": "https://www.iranicaonline.org/articles/tehran-i-a-persian-city-at-the-foot-of-the-alborz"
+    },
+    {
+      "id": "TE3",
+      "title": "Encyclopaedia Britannica — Tehran",
+      "use": "Storia politica e crescita della città.",
+      "url": "https://www.britannica.com/place/Tehran"
+    },
+    {
+      "id": "TE4",
+      "title": "Golestan Palace — Official Museum",
+      "use": "Palazzi, collezioni e interventi qajar.",
+      "url": "https://www.golestanpalace.ir/"
+    },
+    {
+      "id": "TE5",
+      "title": "Encyclopaedia Iranica — Dar al-Fonun",
+      "use": "Istruzione tecnica e riforme qajar.",
+      "url": "https://www.iranicaonline.org/articles/dar-al-fonun-lit"
+    }
+  ]
+}

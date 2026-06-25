@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Nel dopoguerra Montréal superò il milione di abitanti e si estese rapidamente nei quartieri periferici e nei sobborghi.",
+    "theme": "demografia",
+    "status": "documentato",
+    "source": "MT2"
+  },
+  {
+    "claim": "Il métro, inaugurato nel 1966, fu concepito come rete moderna con stazioni architettonicamente differenziate.",
+    "theme": "trasporto",
+    "status": "documentato",
+    "source": "MT1"
+  },
+  {
+    "claim": "Expo 67 fu il principale evento del centenario canadese e accelerò infrastrutture e architetture moderne.",
+    "theme": "evento globale",
+    "status": "documentato",
+    "source": "MT3"
+  },
+  {
+    "claim": "La preparazione di Expo comportò anche autostrade, grandi lavori e demolizioni di quartieri.",
+    "theme": "pianificazione",
+    "status": "documentato",
+    "source": "MT3; MT4"
+  },
+  {
+    "claim": "Goose Village fu demolito nel 1964, con centinaia di edifici rasi e circa 1.500 persone espropriate.",
+    "theme": "sgomberi",
+    "status": "documentato",
+    "source": "MT4"
+  },
+  {
+    "claim": "Montréal, Révolution tranquille, métro ed Expo 67 è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "La demolizione di Goose Village e di altri tessuti operai per urban renewal, autoroutes ed Expo 67 è descritta come espropriazione e sgombero, non come semplice modernizzazione; le comunità francofone, anglofone e immigrate sono rappresentate come soggetti sociali e politici.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Antica Dongola, capitale di Makuria",
+    "site": "Antica Dongola",
+    "modern_location": "Northern State, Sudan",
+    "coordinates": {
+      "lat": 18.2167,
+      "lon": 30.75
+    },
+    "scope": "Antica Dongola fra 1000 e 1500: capitale di Makuria, complessi ecclesiastici e palatini, monasteri, commercio nilotico, conflitti del XIII–XIV secolo e progressiva islamizzazione.",
+    "version": "1.0",
+    "warning": "Le date delle trasformazioni urbane e della conversione di edifici sono talvolta discusse. Il modulo distingue la capitale cristiana dalle fasi islamiche e post-makuriane."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "DO1",
+      "title": "Polish Centre of Mediterranean Archaeology — Old Dongola",
+      "use": "Scavi, architettura, pitture e trasformazioni urbane.",
+      "url": "https://pcma.uw.edu.pl/en/2019/01/24/old-dongola/"
+    },
+    {
+      "id": "DO2",
+      "title": "UMMA Project — Urban Metamorphosis of Old Dongola",
+      "use": "Quartieri, società urbana e fasi tarde della capitale.",
+      "url": "https://umma.uw.edu.pl/"
+    },
+    {
+      "id": "DO3",
+      "title": "The Metropolitan Museum of Art — Medieval Nubia",
+      "use": "Contesto culturale, cristianesimo e arti nubiane.",
+      "url": "https://www.metmuseum.org/essays/nubia"
+    },
+    {
+      "id": "DO4",
+      "title": "British Museum — Medieval Nubia",
+      "use": "Archeologia, commercio e regni cristiani del Nilo medio.",
+      "url": "https://www.britishmuseum.org/collection/galleries/egyptian-sudan"
+    },
+    {
+      "id": "DO5",
+      "title": "UNESCO — Nubian monuments and archaeology",
+      "use": "Quadro regionale e patrimonio nubiano.",
+      "url": "https://whc.unesco.org/en/list/88/"
+    }
+  ]
+}

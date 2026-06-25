@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Parigi, grands ensembles, bidonvilles e decolonizzazione",
+    "site": "Parigi, grands ensembles, bidonvilles e decolonizzazione",
+    "modern_location": "Parigi e petite couronne, Francia",
+    "coordinates": {
+      "lat": 48.8566,
+      "lon": 2.3522
+    },
+    "scope": "Parigi e la petite couronne fra 1945 e 1970: crisi degli alloggi, ricostruzione e modernizzazione, crescita industriale periferica, grands ensembles, immigrazione dalle campagne e dall’impero coloniale, bidonvilles, guerra d’Algeria, repressione del 17 ottobre 1961 e mobilitazioni del 1968.",
+    "version": "1.0",
+    "warning": "Sono esclusi il completamento del boulevard périphérique nel 1973, le villes nouvelles mature, la crisi petrolifera e le politiche urbane successive al 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "PA1",
+      "title": "Atelier parisien d’urbanisme — Cassini / Grand Paris historique",
+      "use": "Evoluzione demografica e urbanizzazione della petite couronne.",
+      "url": "https://www.apur.org/dataviz/cassini-grand-paris/"
+    },
+    {
+      "id": "PA2",
+      "title": "Études photographiques — The Grands Ensembles",
+      "use": "Politiche statali e rappresentazione dei grandi complessi residenziali del dopoguerra.",
+      "url": "https://journals.openedition.org/etudesphotographiques/3409"
+    },
+    {
+      "id": "PA3",
+      "title": "Métropolitiques — Cités de transit and the urban treatment of poverty during decolonisation",
+      "use": "Bidonvilles, famiglie algerine, sgomberi e cités de transit.",
+      "url": "https://metropolitiques.eu/Cites-de-transit-the-urban-treatment-of-poverty-during-decolonisation.html"
+    },
+    {
+      "id": "PA4",
+      "title": "FranceArchives — Manifestations du 17 octobre 1961",
+      "use": "Archivi pubblici sulla manifestazione algerina e sulla repressione di polizia.",
+      "url": "https://francearchives.gouv.fr/fr/subject/214466376"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Sesklo",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Agricoltura",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Cereali e legumi",
+          "status": "sintesi"
+        },
+        {
+          "id": "k1_2",
+          "label": "Semina e raccolta",
+          "status": "inferito"
+        },
+        {
+          "id": "k1_3",
+          "label": "Stoccaggio",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Allevamento",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Ovicaprini e bovini",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_2",
+          "label": "Pascolo",
+          "status": "inferito"
+        },
+        {
+          "id": "k2_3",
+          "label": "Macellazione",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Edilizia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Fondazioni in pietra",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Mattoni crudi",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Coperture lignee",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Ceramica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Impasto e cottura",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_2",
+          "label": "Superfici rosse",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Decorazione dipinta",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Paesaggio",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Scelta della collina",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Uso della pianura",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_3",
+          "label": "Gestione delle acque",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Organizzazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Coordinamento edilizio",
+          "status": "inferito"
+        },
+        {
+          "id": "k6_2",
+          "label": "Spazi domestici differenziati",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_3",
+          "label": "Amministrazione urbana centralizzata",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

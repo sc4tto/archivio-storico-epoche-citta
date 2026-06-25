@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Baghdad",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Fondazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Anno 762",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Nome Madinat al-Salam",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Pianta circolare",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Tigri",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Trasporto fluviale",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Canali irrigui",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Assetto idraulico invariato",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Mercati",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Karkh commerciale",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Importazioni oceaniche",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Controllo statale completo",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Sapere",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Traduzioni scientifiche",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Carta e libri",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Un solo edificio chiamato Casa della Sapienza",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Politica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Capitale abbaside",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Corte a Samarra 836–892",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Unità politica stabile fino al 1000",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Archeologia",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Pochi resti della Città Rotonda",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Topografia da testi",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Ricostruzione completa certa",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

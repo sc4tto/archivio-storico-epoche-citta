@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Khao Sam Kaeo — modulo multi-grafo",
+    "short_name": "Khao Sam Kaeo",
+    "site": "Porto e centro artigianale di Khao Sam Kaeo nell’istmo di Kra",
+    "modern_location": "Chumphon, Thailandia",
+    "coordinates": {
+      "lat": 10.52,
+      "lon": 99.18
+    },
+    "scope": "Insediamento portuale e artigianale del IV–I secolo a.C., disposto su colline e terrazze presso il fiume Tha Tapao, con terrapieni, aree produttive, lavorazione di vetro, pietra e metalli e connessioni transasiatiche.",
+    "version": "1.0-blocco_30_p3_asia_sud_orientale_5_centri_v1",
+    "warning": "Il termine città-portuale è una sintesi funzionale e non implica un organismo urbano paragonabile alle città mediterranee. Le origini etniche degli artigiani e la natura politica del sito non sono ricostruibili con certezza."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "KSK_BELLINA",
+      "title": "Bérénice Bellina ed. — Khao Sam Kaeo: An Early Port-City between the Indian Ocean and the South China Sea",
+      "url": "https://search.worldcat.org/search?q=Khao+Sam+Kaeo+Early+Port-City",
+      "use": "scavi, produzioni e reti del sito"
+    },
+    {
+      "id": "KSK_BEFEO",
+      "title": "Bellina e Silapanth — Weaving cultural identities on trans-Asiatic networks",
+      "url": "https://www.persee.fr/doc/befeo_0336-1519_2006_num_93_1_6032",
+      "use": "reti transasiatiche e paesaggio socio-politico"
+    },
+    {
+      "id": "KSK_METAL",
+      "title": "Murillo-Barroso et al. — Khao Sam Kaeo, an archaeometallurgical crossroads",
+      "url": "https://doi.org/10.1016/j.jas.2010.01.004",
+      "use": "metallurgia e trasferimenti tecnologici"
+    }
+  ]
+}

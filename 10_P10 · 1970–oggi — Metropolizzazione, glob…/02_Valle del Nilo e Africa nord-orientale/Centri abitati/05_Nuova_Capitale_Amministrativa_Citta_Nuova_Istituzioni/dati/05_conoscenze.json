@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Nuova Capitale Amministrativa, nuova città e trasferimento istituzionale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Pianificazione di nuova città",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Fasi, lotti, densità e mix funzionale",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Distinzione fra progetto, costruito e realmente abitato",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Infrastrutture intelligenti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Dati, telecomunicazioni, sicurezza e gestione",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Privacy, manutenzione e interoperabilità",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Acqua ed energia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Desalinizzazione indiretta, trasferimenti e centrale elettrica",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Efficienza, calore e dipendenza dalle reti regionali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Mobilità regionale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Treno elettrico, strade, autobus e pendolarismo",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Accessibilità economica e dipendenza dall’automobile",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Governance e inclusione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "ACUD, ministeri e gestione immobiliare",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Trasparenza, accesso alla casa e distribuzione dei costi",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

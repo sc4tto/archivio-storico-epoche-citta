@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Nuova Capitale Amministrativa, nuova città e trasferimento istituzionale",
+    "site": "Nuova Capitale Amministrativa, nuova città e trasferimento istituzionale",
+    "modern_location": "Nuova Capitale Amministrativa, Egitto",
+    "coordinates": {
+      "lat": 30.0131,
+      "lon": 31.7375
+    },
+    "scope": "Nuova Capitale Amministrativa dal 2015 al 25 giugno 2026, inserita nel quadro P10 dal 1970: fondazione nel deserto a est del Cairo, distretto governativo, torri, infrastrutture digitali ed energetiche, collegamenti ferroviari e stradali, trasferimento graduale di ministeri e dibattito su costi, inclusione, accessibilità e capacità delle nuove città di ridurre le pressioni sulla Grande Cairo.",
+    "version": "1.0",
+    "warning": "Le fasi future, i quartieri non completati e le capacità demografiche di progetto sono registrati come obiettivi; non sono presentati come popolazione o funzioni già pienamente realizzate entro il 25 giugno 2026."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "NC1",
+      "title": "Presidency of Egypt — New Administrative Capital",
+      "use": "Avvio, distretto governativo e infrastrutture del progetto.",
+      "url": "https://www.presidency.eg/en/%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A%D8%A9/%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%85%D8%A9-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9/"
+    },
+    {
+      "id": "NC2",
+      "title": "Presidency of Egypt — Gradual Relocation of Ministries, 2023",
+      "use": "Trasferimento graduale delle istituzioni nel distretto governativo.",
+      "url": "https://www.presidency.eg/en/%D9%82%D8%B3%D9%85-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A%D8%A9/news2732023-1/"
+    },
+    {
+      "id": "NC3",
+      "title": "Egypt State Information Service — PM Follows Up ACUD Work, 2026",
+      "use": "Stato operativo e gestionale del progetto al gennaio 2026.",
+      "url": "https://sis.gov.eg/en/media-center/news/pm-follows-up-acud-work-in-new-administrative-capital/"
+    },
+    {
+      "id": "NC4",
+      "title": "World Bank — Egypt Country Climate and Development Report",
+      "use": "Valutazione critica della capacità delle nuove città di alleggerire gli stress urbani in modo inclusivo.",
+      "url": "https://documents1.worldbank.org/curated/en/099222003142332554/pdf/P177292-4ccb29b7-6de6-4999-8a63-fe5734e59a99.pdf"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Hōnaunau e paesaggio reale di Kona",
+    "site": "Puʻuhonua o Hōnaunau e Royal Grounds",
+    "modern_location": "Kona meridionale, Hawaiʻi, Stati Uniti",
+    "coordinates": {
+      "lat": 19.421,
+      "lon": -155.9103
+    },
+    "scope": "Hōnaunau e il distretto di Kona fra 1400 e 1500, con attenzione alla formazione di centri politico-rituali, alla gestione dell’ahupuaʻa e alle economie integrate fra costa e altopiani.",
+    "version": "1.0",
+    "warning": "Molte strutture visibili, compresi elementi del puʻuhonua e il successivo Hale o Keawe, appartengono in parte ai secoli XVI–XVII. Il modulo usa soltanto la fase formativa tardo-quattrocentesca e segnala come sintesi le attribuzioni non precisamente datate."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "HO1",
+      "title": "National Park Service — Puʻuhonua o Hōnaunau, History & Culture",
+      "use": "Royal Grounds, Great Wall, puʻuhonua e ruolo politico-religioso di Kona.",
+      "url": "https://www.nps.gov/puho/learn/historyculture/index.htm"
+    },
+    {
+      "id": "HO2",
+      "title": "National Park Service — Royal Grounds",
+      "use": "Residenze degli aliʻi, baia e paesaggio cerimoniale.",
+      "url": "https://www.nps.gov/puho/learn/historyculture/royal-grounds.htm"
+    },
+    {
+      "id": "HO3",
+      "title": "National Park Service — Archeology and Cultural Landscapes",
+      "use": "Siti archeologici, villaggi, agricoltura e pesca.",
+      "url": "https://www.nps.gov/puho/learn/historyculture/places.htm"
+    },
+    {
+      "id": "HO4",
+      "title": "Patrick V. Kirch — How Chiefs Became Kings",
+      "use": "Formazione degli stati arcaici hawaiani e intensificazione agricola.",
+      "url": "https://www.ucpress.edu/book/9780520267251/how-chiefs-became-kings"
+    },
+    {
+      "id": "HO5",
+      "title": "Ala Kahakai National Historic Trail — Cultural Landscape",
+      "use": "Ahupuaʻa, sentieri costieri e insediamenti di Kona.",
+      "url": "https://www.nps.gov/alka/learn/historyculture/index.htm"
+    }
+  ]
+}

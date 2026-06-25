@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Dubai, porto, aviazione, migrazione e urbanismo globale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Logistica globale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Porto, free zones, aeroporti e supply chain",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Dogane, cold chain, intermodalità e resilienza",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Costruzione ad alta intensità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Fondazioni, torri, facciate e climatizzazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Programmi accelerati, sicurezza e manutenzione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Acqua ed energia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Desalinizzazione, reti, cooling e riuso",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Calore estremo, consumi e decarbonizzazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Piano futuro Dubai 2040",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Centralità, densità, trasporto pubblico e spazio aperto",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Distinzione fra obiettivi, cantieri e risultati verificati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Lavoro migrante",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Reclutamento, competenze e rimesse",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Sponsorizzazione, alloggi, sicurezza e accesso ai diritti",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

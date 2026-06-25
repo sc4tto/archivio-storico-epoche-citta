@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Baghdad ottomana e safavide",
+    "site": "Baghdad ottomana e safavide",
+    "modern_location": "Baghdad, Iraq",
+    "coordinates": {
+      "lat": 33.3152,
+      "lon": 44.3661
+    },
+    "scope": "Baghdad fra 1508 e 1800, con attenzione alle alternanze safavide e ottomana, al ruolo di frontiera, ai mercati del Tigri, ai santuari e alla ripresa sotto i governatori mamelucchi del XVIII secolo.",
+    "version": "1.0",
+    "warning": "Gran parte del tessuto antico è stata trasformata. Il modulo distingue dati storici generali da ricostruzioni topografiche non sempre verificabili edificio per edificio."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "BG1",
+      "title": "Encyclopaedia Britannica — Baghdad",
+      "use": "Storia della città, conquista ottomana, alternanze con i Safavidi e ruolo regionale.",
+      "url": "https://www.britannica.com/place/Baghdad"
+    },
+    {
+      "id": "BG2",
+      "title": "Encyclopaedia Iranica — Iraq in the Safavid period",
+      "use": "Rapporti fra Safavidi e Iraq, campagne e controllo di Baghdad.",
+      "url": "https://iranicaonline.org/articles/iraq-iv-relations-in-the-safavid-period"
+    },
+    {
+      "id": "BG3",
+      "title": "The Metropolitan Museum of Art — Ottoman art",
+      "use": "Contesto artistico e materiale dell’Impero ottomano.",
+      "url": "https://www.metmuseum.org/toah/hd/otto1/hd_otto1.htm"
+    },
+    {
+      "id": "BG4",
+      "title": "Library of Congress — Iraq: A Country Study",
+      "use": "Quadro storico di Iraq ottomano, amministrazione e società.",
+      "url": "https://www.loc.gov/item/89013936/"
+    },
+    {
+      "id": "BG5",
+      "title": "Encyclopaedia Britannica — Iraq, Ottoman period",
+      "use": "Contesto politico e amministrativo dell’Iraq fra Ottomani e poteri locali.",
+      "url": "https://www.britannica.com/place/Iraq/The-Ottomans-1534-1918"
+    }
+  ]
+}

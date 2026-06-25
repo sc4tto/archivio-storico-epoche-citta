@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Tenochtitlan",
+      "lat": 19.4326,
+      "lon": -99.1332,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "xoc",
+      "label": "Xochimilco-Chalco",
+      "lat": 19.26,
+      "lon": -99.1,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "tex",
+      "label": "Rive orientali del lago",
+      "lat": 19.51,
+      "lon": -98.88,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "tol",
+      "label": "Valle di Toluca",
+      "lat": 19.28,
+      "lon": -99.66,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "cue",
+      "label": "Cuernavaca e Morelos",
+      "lat": 18.92,
+      "lon": -99.24,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "gulf",
+      "label": "Costa del Golfo",
+      "lat": 19.2,
+      "lon": -96.14,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "soc",
+      "label": "Soconusco",
+      "lat": 15.32,
+      "lon": -92.72,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "xoc",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali e calzadas",
+      "food": "mais, ortaggi e fiori"
+    },
+    {
+      "source": "tex",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione lacustre",
+      "food": "pesce, sale e prodotti agricoli"
+    },
+    {
+      "source": "tol",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade dell’altopiano",
+      "food": "mais, legname e tessuti"
+    },
+    {
+      "source": "cue",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "tributo meridionale",
+      "food": "cotone, frutta e peperoncini"
+    },
+    {
+      "source": "gulf",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "tributo e pochteca",
+      "food": "vaniglia, piume e gomma"
+    },
+    {
+      "source": "soc",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti a lunga distanza",
+      "food": "cacao e piume pregiate"
+    }
+  ]
+}

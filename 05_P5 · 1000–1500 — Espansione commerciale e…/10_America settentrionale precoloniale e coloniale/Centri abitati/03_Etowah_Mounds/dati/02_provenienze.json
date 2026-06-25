@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Etowah Mounds",
+      "lat": 34.1278,
+      "lon": -84.8066,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "val",
+      "label": "Valle dell’Etowah",
+      "lat": 34.15,
+      "lon": -84.75,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "app",
+      "label": "Piedemonte appalachiano",
+      "lat": 34.3,
+      "lon": -84.5,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "coo",
+      "label": "Bacino Coosa",
+      "lat": 34.0,
+      "lon": -85.3,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "gulf",
+      "label": "Costa del Golfo",
+      "lat": 30.4,
+      "lon": -87.2,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "cumb",
+      "label": "Altopiano Cumberland",
+      "lat": 35.5,
+      "lon": -85.5,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "miss",
+      "label": "Valle del Mississippi",
+      "lat": 35.1,
+      "lon": -90.2,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "val",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiume e sentieri",
+      "food": "mais, pesce e argilla"
+    },
+    {
+      "source": "app",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti locali",
+      "food": "selvaggina, legno e pietra"
+    },
+    {
+      "source": "coo",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "vie fluviali",
+      "food": "derrate e ceramiche"
+    },
+    {
+      "source": "gulf",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti sud-orientali",
+      "food": "conchiglia marina"
+    },
+    {
+      "source": "cumb",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "scambi regionali",
+      "food": "rame e minerali"
+    },
+    {
+      "source": "miss",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "reti mississippiane",
+      "food": "beni rituali e modelli iconografici"
+    }
+  ]
+}

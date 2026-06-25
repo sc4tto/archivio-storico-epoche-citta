@@ -1,0 +1,192 @@
+{
+  "nodes": [
+    {
+      "id": "earth",
+      "label": "Terra e argilla",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "stone",
+      "label": "Pietra locale",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "lime",
+      "label": "Calcare per calce",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "reeds",
+      "label": "Canne e ramoscelli",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "brickmake",
+      "label": "Produzione di mattoni crudi",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "foundation",
+      "label": "Preparazione di fondazioni",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "limeburn",
+      "label": "Cottura e preparazione della calce",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "bundle",
+      "label": "Assemblaggio di armature vegetali",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "walls",
+      "label": "Murature in mattoni crudi",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "floors",
+      "label": "Pavimenti e intonaci di calce",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "cores",
+      "label": "Anime di canne per statue",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "plasterbody",
+      "label": "Rivestimento plastico in calce",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Case rettangolari",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "special",
+      "label": "Edifici speciali",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "statues",
+      "label": "Statue antropomorfe",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "maintenance",
+      "label": "Rinnovo di intonaci e superfici",
+      "layer": 3,
+      "status": "inferito"
+    }
+  ],
+  "edges": [
+    {
+      "source": "earth",
+      "target": "brickmake",
+      "label": "materia prima",
+      "status": "documentato"
+    },
+    {
+      "source": "stone",
+      "target": "foundation",
+      "label": "materia prima",
+      "status": "sintesi"
+    },
+    {
+      "source": "lime",
+      "target": "limeburn",
+      "label": "materia prima",
+      "status": "documentato"
+    },
+    {
+      "source": "reeds",
+      "target": "bundle",
+      "label": "materia prima",
+      "status": "documentato"
+    },
+    {
+      "source": "brickmake",
+      "target": "walls",
+      "label": "produce",
+      "status": "documentato"
+    },
+    {
+      "source": "foundation",
+      "target": "houses",
+      "label": "sostiene",
+      "status": "sintesi"
+    },
+    {
+      "source": "limeburn",
+      "target": "floors",
+      "label": "produce",
+      "status": "documentato"
+    },
+    {
+      "source": "bundle",
+      "target": "cores",
+      "label": "produce",
+      "status": "documentato"
+    },
+    {
+      "source": "cores",
+      "target": "plasterbody",
+      "label": "supportano",
+      "status": "documentato"
+    },
+    {
+      "source": "limeburn",
+      "target": "plasterbody",
+      "label": "riveste",
+      "status": "documentato"
+    },
+    {
+      "source": "walls",
+      "target": "houses",
+      "label": "costituiscono",
+      "status": "documentato"
+    },
+    {
+      "source": "walls",
+      "target": "special",
+      "label": "costituiscono",
+      "status": "documentato"
+    },
+    {
+      "source": "floors",
+      "target": "houses",
+      "label": "completano",
+      "status": "documentato"
+    },
+    {
+      "source": "plasterbody",
+      "target": "statues",
+      "label": "genera",
+      "status": "documentato"
+    },
+    {
+      "source": "floors",
+      "target": "maintenance",
+      "label": "richiede",
+      "status": "inferito"
+    }
+  ]
+}

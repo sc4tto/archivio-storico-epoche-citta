@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Agra divenne una delle principali capitali dell’Impero moghul dal 1526.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "AG1; AG3"
+  },
+  {
+    "claim": "Akbar ricostruì il forte in arenaria rossa nella seconda metà del XVI secolo.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "AG1"
+  },
+  {
+    "claim": "Il paesaggio urbano era strettamente legato allo Yamuna e ai giardini.",
+    "theme": "ambiente",
+    "status": "documentato",
+    "source": "AG2; AG3"
+  },
+  {
+    "claim": "La corte sosteneva artigiani, mercati e reti di approvvigionamento a lunga distanza.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "AG3; AG4"
+  },
+  {
+    "claim": "Shah Jahan promosse l’uso esteso del marmo e dell’intarsio di pietre dure.",
+    "theme": "tecniche",
+    "status": "documentato",
+    "source": "AG1; AG2; AG4"
+  },
+  {
+    "claim": "La capitale fu trasferita a Shahjahanabad nel XVII secolo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "AG3"
+  },
+  {
+    "claim": "Agra mantenne importanza religiosa, commerciale e monumentale dopo il trasferimento della corte.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "AG1; AG2; AG3"
+  },
+  {
+    "claim": "Le trasformazioni britanniche dell’Ottocento sono fuori dal limite del modulo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "AG3"
+  }
+]

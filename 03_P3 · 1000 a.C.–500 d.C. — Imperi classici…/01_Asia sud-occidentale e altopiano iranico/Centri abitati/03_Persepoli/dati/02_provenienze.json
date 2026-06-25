@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Persepoli",
+      "lat": 29.94,
+      "lon": 52.89,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "marvdasht",
+      "label": "Piana di Marvdasht",
+      "lat": 29.88,
+      "lon": 52.8,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "pasargadae",
+      "label": "Pasargade",
+      "lat": 30.2,
+      "lon": 53.18,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "susa",
+      "label": "Susa",
+      "lat": 32.19,
+      "lon": 48.26,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "babylon",
+      "label": "Babilonia",
+      "lat": 32.54,
+      "lon": 44.42,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "royalroad",
+      "label": "Strada reale verso Anatolia",
+      "lat": 34.0,
+      "lon": 45.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "marvdasht",
+      "target": "site",
+      "label": "cereali, vino, bestiame e lavoro",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "pasargadae",
+      "target": "site",
+      "label": "corte, tradizioni dinastiche e personale",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "susa",
+      "target": "site",
+      "label": "amministrazione, artigiani e materiali",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "babylon",
+      "target": "site",
+      "label": "modelli, tecnici e prodotti",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "royalroad",
+      "target": "site",
+      "label": "delegazioni, messaggeri e tributi",
+      "status": "documentato",
+      "food": "parziale"
+    }
+  ]
+}

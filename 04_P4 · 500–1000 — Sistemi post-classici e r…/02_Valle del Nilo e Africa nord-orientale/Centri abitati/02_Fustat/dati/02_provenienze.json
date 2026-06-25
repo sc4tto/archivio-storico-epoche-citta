@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Fustat",
+      "lat": 30.005,
+      "lon": 31.23,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "nile",
+      "label": "Nilo e porto fluviale",
+      "lat": 30.01,
+      "lon": 31.22,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "alex",
+      "label": "Alessandria",
+      "lat": 31.2,
+      "lon": 29.92,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "redsea",
+      "label": "Mar Rosso e Qulzum",
+      "lat": 29.97,
+      "lon": 32.55,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "damascus",
+      "label": "Damasco",
+      "lat": 33.51,
+      "lon": 36.28,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "india",
+      "label": "Oceano Indiano",
+      "lat": 20.0,
+      "lon": 65.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "nile",
+      "target": "site",
+      "label": "acqua, cereali, passeggeri e merci",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "alex",
+      "target": "site",
+      "label": "traffici mediterranei e amministrazione",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "redsea",
+      "target": "site",
+      "label": "spezie, tessili e collegamenti marittimi",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "damascus",
+      "target": "site",
+      "label": "governo omayyade e circolazione monetaria",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "india",
+      "target": "site",
+      "label": "beni di lusso e materie prime via Mar Rosso",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

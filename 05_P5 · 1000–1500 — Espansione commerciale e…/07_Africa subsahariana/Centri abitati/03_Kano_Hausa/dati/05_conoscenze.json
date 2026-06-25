@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Kano hausa e città murata",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Fortificazioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Mura in terra e porte",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Fossati e controllo degli accessi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Tessili",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Filatura e tessitura",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Tintura all’indaco",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Metalli",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Ferro e utensili",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Lavorazione del rame e ornamenti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Carovane sahariane",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Mercati regionali hausa",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Governo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Palazzo e amministrazione regia",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Tributi e controllo dei quartieri",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

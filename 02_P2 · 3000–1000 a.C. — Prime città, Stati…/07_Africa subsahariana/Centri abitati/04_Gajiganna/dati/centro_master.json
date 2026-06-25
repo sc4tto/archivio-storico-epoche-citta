@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Gajiganna — modulo multi-grafo",
+    "short_name": "Gajiganna",
+    "site": "Complesso di insediamenti Gajiganna",
+    "modern_location": "Bacino sud-occidentale del lago Ciad, Nigeria",
+    "coordinates": {
+      "lat": 11.7,
+      "lon": 13.1
+    },
+    "scope": "Sequenza di comunità pastorali e poi più sedentarie nel bacino del lago Ciad, con ceramica decorata, figurine, bestiame, coltivazione del miglio, monticoli d’abitato e sistemi di deposito.",
+    "version": "1.0-blocco_20_p2_africa_subsahariana_5_centri_v1",
+    "warning": "Gajiganna indica una tradizione e una sequenza regionale. Il grande sito fortificato di Zilum appartiene soprattutto ai secoli successivi al limite P2 e viene richiamato soltanto come sviluppo finale."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "GAJ_BREUNIG",
+      "title": "Breunig, Franke e Nüsse — Early sculptural traditions in West Africa: new evidence from the Chad Basin",
+      "url": "https://www.cambridge.org/core/journals/antiquity",
+      "use": "figurine e sequenza culturale del bacino del Ciad"
+    },
+    {
+      "id": "GAJ_MAGNAVITA",
+      "title": "Magnavita e Schleifer — A Look into the Earth: Magnetic Survey in African Archaeology",
+      "url": "https://www.jstor.org/journal/jafriarch",
+      "use": "strutture, fosse e prospezione degli insediamenti"
+    },
+    {
+      "id": "GAJ_OBRIEN",
+      "title": "O’Brien, Lin e MacEachern — Pottery distributions from Lake Chad Basin archaeological sites",
+      "url": "https://arxiv.org/abs/1511.05185",
+      "use": "ceramica, successioni e relazioni regionali"
+    }
+  ]
+}

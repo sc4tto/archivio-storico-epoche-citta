@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Città del Guatemala, modernizzazione, colpo di Stato e conflitto",
+    "site": "Città del Guatemala, modernizzazione, colpo di Stato e conflitto",
+    "modern_location": "Città del Guatemala, Guatemala",
+    "coordinates": {
+      "lat": 14.6349,
+      "lon": -90.5069
+    },
+    "scope": "Città del Guatemala fra 1945 e 1970: eredità della Rivoluzione del 1944, riforme sociali e infrastrutturali, pianificazione e nomenclatura di Raúl Aguilar Batres, colpo di Stato del 1954, espansione lungo nuovi assi viari, migrazione interna, crescita degli asentamientos e avvio del conflitto armato dal 1960 sotto governi militari.",
+    "version": "1.0",
+    "warning": "Sono esclusi il terremoto del 1976, le fasi più distruttive della guerra interna, le grandi espansioni metropolitane tarde e gli eventi successivi al 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "GT1",
+      "title": "USAC–CEUR — Raúl Aguilar Batres y el desarrollo urbano, 1944–1964",
+      "use": "Pianificazione, nomenclatura, assi viari e trasformazioni della capitale.",
+      "url": "https://ceur.usac.edu.gt/eventos/Aguilar-Batres/RAB-y-el-desarrollo-urbano-de-la-C-de-Guatemala-1944-1964.pdf"
+    },
+    {
+      "id": "GT2",
+      "title": "USAC–CEUR — Movimenti sociali urbani, urbanizzazione e guerra interna 1944–1979",
+      "use": "Urbanizzazione, organizzazioni sociali e contesto del conflitto.",
+      "url": "https://ceur.usac.edu.gt/publicaciones/investigaciones-realizadas.html"
+    },
+    {
+      "id": "GT3",
+      "title": "USAC–CEUR — La memoria collettiva e la storia urbana di Guatemala",
+      "use": "Evoluzione della struttura spaziale e memoria cittadina.",
+      "url": "https://ceur.usac.edu.gt/pdf/Boletin/Boletin_CEUR_12.pdf"
+    },
+    {
+      "id": "GT4",
+      "title": "United Nations — Guatemala: Memory of Silence",
+      "use": "Colpo di Stato, conflitto armato, repressione e violazioni dei diritti umani.",
+      "url": "https://www.undp.org/sites/g/files/zskgke326/files/migration/gt/memoria-del-silencio.pdf"
+    }
+  ]
+}

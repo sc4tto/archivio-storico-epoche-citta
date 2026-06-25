@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Chicago, trasporto, segregazione, clima e industria",
+    "site": "Chicago, trasporto, segregazione, clima e industria",
+    "modern_location": "Chicago, Illinois, Stati Uniti",
+    "coordinates": {
+      "lat": 41.8781,
+      "lon": -87.6298
+    },
+    "scope": "Chicago dal 1970 al 25 giugno 2026: perdita di occupazione industriale e crescita di servizi, logistica e università, persistenza della segregazione razziale, trasformazioni del waterfront e dei quartieri, rete CTA, avvio dei lavori della Red Line Extension nel 2026, crisi degli alloggi, ondate di calore, inondazioni e infrastrutture obsolete.",
+    "version": "1.0",
+    "warning": "L’entrata in servizio della Red Line Extension prevista per il 2030 è un obiettivo futuro del progetto; non è presentata come infrastruttura già operativa."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "CH1",
+      "title": "Chicago Transit Authority — Red Line Extension",
+      "use": "Progetto verso il Far South Side, quattro stazioni accessibili e avvio dei lavori nel 2026.",
+      "url": "https://www.transitchicago.com/rle/"
+    },
+    {
+      "id": "CH2",
+      "title": "Chicago Transit Authority — Red Line Extension groundbreaking 2026",
+      "use": "Cerimonia di avvio dei lavori il 24 aprile 2026 e cronologia del progetto.",
+      "url": "https://www.transitchicago.com/cta-celebrates-start-of-the-historic-red-line-extension-project-by-breaking-ground-at-the-future-michigan-avenue-station/"
+    },
+    {
+      "id": "CH3",
+      "title": "City of Chicago — We Will Chicago Framework Plan",
+      "use": "Crescita inclusiva, quartieri, trasporto, clima e disuguaglianze territoriali.",
+      "url": "https://www.chicago.gov/content/dam/city/depts/dcd/we_will/we_will_documents/cpc/WWC_Final_CPC.pdf"
+    },
+    {
+      "id": "CH4",
+      "title": "City of Chicago — Racial Equity Action Plans",
+      "use": "Segregazione, accesso ai servizi, alloggi vicino al trasporto e giustizia razziale.",
+      "url": "https://www.chicago.gov/city/en/sites/office-of-equity-and-racial-justice/home/racial-equity-action-plans.html"
+    }
+  ]
+}

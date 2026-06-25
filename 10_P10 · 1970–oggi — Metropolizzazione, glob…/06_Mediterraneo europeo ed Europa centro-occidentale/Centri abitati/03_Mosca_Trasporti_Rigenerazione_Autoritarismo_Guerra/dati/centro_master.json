@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Mosca, trasporti, rigenerazione, autoritarismo e guerra",
+    "site": "Mosca, trasporti, rigenerazione, autoritarismo e guerra",
+    "modern_location": "Mosca, Federazione Russa",
+    "coordinates": {
+      "lat": 55.7558,
+      "lon": 37.6173
+    },
+    "scope": "Mosca dal 1970 al 25 giugno 2026: tardo socialismo e grandi complessi abitativi, crisi dell’Unione Sovietica, privatizzazioni e disuguaglianze degli anni Novanta, concentrazione finanziaria e amministrativa, ampliamento del 2012 con Nuova Mosca, espansione di Metro e diametri centrali, programmi di demolizione e ricollocazione delle khrushchëvki, digitalizzazione urbana, lavoro migrante, guerra contro l’Ucraina e intensificazione della repressione del dissenso.",
+    "version": "1.0",
+    "warning": "Gli obiettivi di trasporto e rinnovo edilizio successivi al 25 giugno 2026 sono registrati come piani. Le fonti governative sulla costruzione sono distinte dalle valutazioni indipendenti delle Nazioni Unite su guerra e repressione."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MO1",
+      "title": "Moscow Government — Moscow Metro goals for 2026",
+      "use": "Rinnovo del materiale rotabile e priorità recenti della rete metropolitana.",
+      "url": "https://www.mos.ru/en/mayor/themes/14272050/"
+    },
+    {
+      "id": "MO2",
+      "title": "Moscow Government — Renovation programme progress",
+      "use": "Edifici costruiti, ricollocazioni e scala del programma di rinnovamento abitativo.",
+      "url": "https://www.mos.ru/en/mayor/themes/13196050/"
+    },
+    {
+      "id": "MO3",
+      "title": "OHCHR — A/HRC/60/59, Situation of human rights in the Russian Federation",
+      "use": "Repressione del dissenso, legislazione securitaria, guerra e restrizione dello spazio civico.",
+      "url": "https://www.ohchr.org/en/documents/country-reports/ahrc6059-situation-human-rights-russian-federation-advance-edited-version"
+    },
+    {
+      "id": "MO4",
+      "title": "Moscow Transport Portal",
+      "use": "Rete integrata, servizi, mappe e informazioni sul trasporto metropolitano.",
+      "url": "https://transport.mos.ru/en"
+    }
+  ]
+}

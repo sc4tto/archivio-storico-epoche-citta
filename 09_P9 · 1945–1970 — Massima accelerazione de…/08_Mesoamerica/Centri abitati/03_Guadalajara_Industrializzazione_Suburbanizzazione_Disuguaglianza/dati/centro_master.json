@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Guadalajara, industrializzazione e suburbanizzazione diseguale",
+    "site": "Guadalajara, industrializzazione e suburbanizzazione diseguale",
+    "modern_location": "Guadalajara, Jalisco, Messico",
+    "coordinates": {
+      "lat": 20.6597,
+      "lon": -103.3496
+    },
+    "scope": "Guadalajara fra 1945 e 1970: crescita industriale e commerciale, migrazione regionale, espansione verso Zapopan, Tlaquepaque e Tonalá, nuove strade e colonias, mercati moderni, edilizia pubblica e privata, terremoto del 1957 e consolidamento di una metropoli socialmente divisa fra ovest e oriente.",
+    "version": "1.0",
+    "warning": "Sono esclusi l’esplosione demografica tarda, il sistema ferroviario urbano contemporaneo, le esplosioni del 1992 e gli sviluppi posteriori al 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "GD1",
+      "title": "Universidad de Guadalajara — Ciclo de vida de la ciudad de Guadalajara",
+      "use": "Fasi di urbanizzazione, suburbanizzazione e frammentazione territoriale.",
+      "url": "https://espiral.cucsh.udg.mx/index.php/EEES/article/download/7455/6853/25499"
+    },
+    {
+      "id": "GD2",
+      "title": "Universidad de Guadalajara — Jalisco desde la Revolución",
+      "use": "Sviluppo urbano, demografia, industria e infrastrutture nel Novecento.",
+      "url": "https://dcts.cuaad.udg.mx/images/publicaciones/ebook/2022_Jalisco_desde_la_revolucion.pdf"
+    },
+    {
+      "id": "GD3",
+      "title": "Universidad de Guadalajara — Industrializzazione e crescita urbana di Guadalajara",
+      "use": "Formazione di distretti produttivi e trasformazioni della città.",
+      "url": "https://riudg.udg.mx/bitstream/20.500.12104/82434/1/MCUCSH10180FT.pdf"
+    },
+    {
+      "id": "GD4",
+      "title": "CEPAL — La urbanización en el México contemporáneo",
+      "use": "Ruolo di Guadalajara nel sistema urbano nazionale e crescita metropolitana.",
+      "url": "https://www.cepal.org/sites/default/files/events/files/jaime_sobrino.pdf"
+    }
+  ]
+}

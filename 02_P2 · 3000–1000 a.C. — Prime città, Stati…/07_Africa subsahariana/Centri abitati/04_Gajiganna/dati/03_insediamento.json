@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Pastori mobili",
+    "Primi piccoli abitati",
+    "Sedentarizzazione crescente",
+    "Agricoltura e stoccaggio",
+    "Verso grandi siti fortificati"
+  ],
+  "items": [
+    {
+      "id": "camps",
+      "label": "Campi pastorali",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "mounds",
+      "label": "Monticoli d’abitato",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "herds",
+      "label": "Gestione del bestiame",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "millet",
+      "label": "Coltivazione del miglio",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "pits",
+      "label": "Fosse di deposito",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "figurines",
+      "label": "Figurine antropomorfe e zoomorfe",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "ditches",
+      "label": "Fossati e terrapieni finali",
+      "lane": "Difensive",
+      "start": 4,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

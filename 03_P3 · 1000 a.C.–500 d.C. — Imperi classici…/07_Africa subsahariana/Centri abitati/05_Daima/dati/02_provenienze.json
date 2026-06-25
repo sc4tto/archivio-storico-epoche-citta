@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Daima",
+      "lat": 12.19,
+      "lon": 14.66,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "lake",
+      "label": "Lago Ciad",
+      "lat": 13.0,
+      "lon": 14.0,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "mandara",
+      "label": "Monti Mandara",
+      "lat": 11.0,
+      "lon": 13.8,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "hadjer",
+      "label": "Hadjer el Hamis",
+      "lat": 12.9,
+      "lon": 15.2,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "sahel",
+      "label": "Sahel centrale",
+      "lat": 14.0,
+      "lon": 13.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "benue",
+      "label": "Bacino del Benue",
+      "lat": 9.0,
+      "lon": 13.0,
+      "status": "inferito",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "lake",
+      "target": "site",
+      "label": "pesca, acqua e zone umide",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "mandara",
+      "target": "site",
+      "label": "pietra, pascoli e reti regionali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "hadjer",
+      "target": "site",
+      "label": "materie litiche",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "sahel",
+      "target": "site",
+      "label": "bestiame, cereali e mobilità",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "benue",
+      "target": "site",
+      "label": "contatti meridionali ipotizzati",
+      "status": "inferito",
+      "food": "parziale"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Chang’an fu capitale centrale dei Sui e dei Tang",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "CHA_UNESCO"
+  },
+  {
+    "claim": "La città era organizzata con assi, quartieri e mercati regolati",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "CHA_UNESCO"
+  },
+  {
+    "claim": "Il corridoio collegava Chang’an e Luoyang all’Asia centrale",
+    "theme": "Reti",
+    "status": "documentato",
+    "source": "CHA_UNESCO"
+  },
+  {
+    "claim": "Nella capitale erano presenti molte tradizioni religiose",
+    "theme": "Religioni",
+    "status": "documentato",
+    "source": "CHA_UNESCO"
+  },
+  {
+    "claim": "Ogni residente straniero è identificabile archeologicamente",
+    "theme": "Società",
+    "status": "non_documentato",
+    "source": "Identità e provenienza degli oggetti non coincidono"
+  },
+  {
+    "claim": "Le ricostruzioni moderne sono edifici Tang integri",
+    "theme": "Conservazione",
+    "status": "non_documentato",
+    "source": "Interventi moderni su basi archeologiche"
+  },
+  {
+    "claim": "La popolazione esatta è nota da un censimento unico",
+    "theme": "Demografia",
+    "status": "non_documentato",
+    "source": "Stime e registri non equivalenti"
+  },
+  {
+    "claim": "Palazzi, mercati e vie di comunicazione strutturavano la capitale",
+    "theme": "Sintesi",
+    "status": "documentato",
+    "source": "CHA_UNESCO"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Le Rock Islands conservano una sequenza di insediamento lunga oltre tremila anni.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "RI1; RI2"
+  },
+  {
+    "claim": "Villaggi, grotte e approdi documentano l’adattamento a piccole isole calcaree.",
+    "theme": "insediamento",
+    "status": "documentato",
+    "source": "RI1; RI2"
+  },
+  {
+    "claim": "La sussistenza dipendeva fortemente da reef, laguna e navigazione.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "RI1; RI4"
+  },
+  {
+    "claim": "Babeldaob e le isole meridionali facevano parte di reti complementari.",
+    "theme": "commercio",
+    "status": "sintesi",
+    "source": "RI2; RI3"
+  },
+  {
+    "claim": "Le strutture visibili non appartengono tutte al periodo 500–1000.",
+    "theme": "certezza",
+    "status": "documentato",
+    "source": "RI2; RI3"
+  },
+  {
+    "claim": "Terrazze e muri organizzavano spazi domestici e produttivi.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "RI2"
+  },
+  {
+    "claim": "Le grotte ebbero usi domestici, funerari e simbolici in fasi diverse.",
+    "theme": "ritualità",
+    "status": "sintesi",
+    "source": "RI1; RI2"
+  },
+  {
+    "claim": "Il paesaggio mantiene significati culturali per le comunità palauane.",
+    "theme": "continuità",
+    "status": "documentato",
+    "source": "RI1; RI5"
+  }
+]

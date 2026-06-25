@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Il primo approdo è datato a 2838±8 BP da un abrasore in corallo",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "NUK_PLOS"
+  },
+  {
+    "claim": "Nukuleka è il più antico sito Lapita noto di Tonga",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "NUK_PLOS"
+  },
+  {
+    "claim": "Il sito si estese su circa venti ettari durante la fase Lapita",
+    "theme": "Spazio",
+    "status": "documentato",
+    "source": "NUK_PLOS"
+  },
+  {
+    "claim": "Sono presenti ceramiche con impasti estranei a Tonga",
+    "theme": "Scambi",
+    "status": "documentato",
+    "source": "NUK_PLOS"
+  },
+  {
+    "claim": "L’accesso alla laguna favoriva pesca e mobilità",
+    "theme": "Ambiente",
+    "status": "documentato",
+    "source": "NUK_PLOS"
+  },
+  {
+    "claim": "Nukuleka era una capitale monarchica",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "La centralità archeologica non prova una monarchia"
+  },
+  {
+    "claim": "Tutta la popolazione proveniva da una sola isola",
+    "theme": "Origini",
+    "status": "non_documentato",
+    "source": "Origine precisa non identificata"
+  },
+  {
+    "claim": "La linea di costa cambiò durante l’occupazione",
+    "theme": "Paesaggio",
+    "status": "documentato",
+    "source": "NUK_PLOS"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Mesa Verde, Pueblo I–II",
+    "site": "Mesa Verde — fasi Basketmaker III, Pueblo I e Pueblo II",
+    "modern_location": "Montezuma County, Colorado, Stati Uniti",
+    "coordinates": {
+      "lat": 37.2309,
+      "lon": -108.4618
+    },
+    "scope": "Mesa Verde fra circa 550 e 1000: villaggi sulle sommità delle mesa, case seminterrate, transizione alla muratura, agricoltura del mais e strutture cerimoniali.",
+    "version": "1.0",
+    "warning": "Le celebri abitazioni rupestri di Cliff Palace e Balcony House sono soprattutto del XII–XIII secolo e non appartengono a questo modulo."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MV1",
+      "title": "UNESCO World Heritage Centre — Mesa Verde National Park",
+      "use": "Paesaggio insediativo, cronologia e tecniche costruttive.",
+      "url": "https://whc.unesco.org/en/list/27/"
+    },
+    {
+      "id": "MV2",
+      "title": "National Park Service — History & Culture, Mesa Verde",
+      "use": "Popolazioni ancestrali, siti sulle mesa e conservazione.",
+      "url": "https://www.nps.gov/meve/learn/historyculture/index.htm"
+    },
+    {
+      "id": "MV3",
+      "title": "National Park Service — Mesa Verde Timeline",
+      "use": "Fasi Basketmaker e Pueblo.",
+      "url": "https://www.nps.gov/meve/learn/historyculture/mesa-verde-timeline.htm"
+    },
+    {
+      "id": "MV4",
+      "title": "Crow Canyon Archaeological Center — Pueblo History",
+      "use": "Cronologia e vita agricola degli Ancestral Pueblo.",
+      "url": "https://crowcanyon.org/education/archaeology/pueblo-history/"
+    },
+    {
+      "id": "MV5",
+      "title": "Mesa Verde National Park — Farming",
+      "use": "Agricoltura, acqua e tecniche di conservazione del suolo.",
+      "url": "https://www.nps.gov/meve/learn/historyculture/farming.htm"
+    }
+  ]
+}

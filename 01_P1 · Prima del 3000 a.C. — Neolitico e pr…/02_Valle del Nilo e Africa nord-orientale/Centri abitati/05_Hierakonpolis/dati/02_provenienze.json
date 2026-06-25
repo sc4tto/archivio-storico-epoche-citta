@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Hierakonpolis/Nekhen",
+      "lat": 25.1,
+      "lon": 32.78,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "nile",
+      "label": "Fascia del Nilo",
+      "lat": 25.1,
+      "lon": 32.7,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": -20,
+      "anchor": "end"
+    },
+    {
+      "id": "wadi",
+      "label": "Wadi Abu Suffian e margini desertici",
+      "lat": 25.15,
+      "lon": 32.95,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 10,
+      "dy": 25,
+      "anchor": "start"
+    },
+    {
+      "id": "quarries",
+      "label": "Cave e risorse del deserto orientale",
+      "lat": 25.0,
+      "lon": 33.5,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 28,
+      "anchor": "middle"
+    },
+    {
+      "id": "nubia",
+      "label": "Bassa Nubia",
+      "lat": 23.5,
+      "lon": 32.8,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "levant",
+      "label": "Levant meridionale",
+      "lat": 31.5,
+      "lon": 35.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "nile",
+      "target": "site",
+      "label": "colture, acqua, pesce e trasporto",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "wadi",
+      "target": "site",
+      "label": "pascoli, caccia e accesso al deserto",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "quarries",
+      "target": "site",
+      "label": "pietre, minerali e pigmenti",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "nubia",
+      "target": "site",
+      "label": "avorio, pietre e reti meridionali",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "levant",
+      "target": "site",
+      "label": "materiali e contatti indiretti",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

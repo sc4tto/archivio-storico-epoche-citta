@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Bengaluru, tecnologia, metro, acqua ed espansione",
+    "site": "Bengaluru, tecnologia, metro, acqua ed espansione",
+    "modern_location": "Bengaluru, India",
+    "coordinates": {
+      "lat": 12.9716,
+      "lon": 77.5946
+    },
+    "scope": "Bengaluru dal 1970 al 25 giugno 2026: industrie pubbliche ed elettronica, crescita dei servizi informatici, espansione comunale e periurbana, immigrazione, disuguaglianze abitative, congestione, metropolitana, crisi idrica, perdita e recupero dei laghi, alluvioni e piano climatico.",
+    "version": "1.0",
+    "warning": "Le linee metro in prova o con apertura successiva al 25 giugno 2026 e gli obiettivi dei piani climatici sono indicati come progetti futuri."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "BE1",
+      "title": "Bangalore Metro Rail Corporation — Namma Metro",
+      "use": "Profilo ufficiale della rete, fasi e infrastrutture.",
+      "url": "https://www.bmrc.co.in/"
+    },
+    {
+      "id": "BE2",
+      "title": "World Bank — Karnataka Water Security and Resilience Program ESSA",
+      "use": "Acqua, laghi, drenaggio, rischio climatico e coordinamento istituzionale.",
+      "url": "https://documents1.worldbank.org/curated/en/099052725120011568/pdf/P506272-cb80605f-d4d0-40be-af6e-40c57fddc414.pdf"
+    },
+    {
+      "id": "BE3",
+      "title": "Greater Bengaluru Authority — Bengaluru Climate Action Cell",
+      "use": "Governance municipale, clima, uso del suolo e iniziative urbane.",
+      "url": "https://bbmp.gov.in/"
+    },
+    {
+      "id": "BE4",
+      "title": "World Bank — Towards Resilient and Prosperous Cities in India",
+      "use": "Alluvioni urbane, calore, infrastrutture resilienti e finanziamento.",
+      "url": "https://thedocs.worldbank.org/en/doc/d67ef885fc1c5b4ca43cf4465b3e7241-0310012025/original/Urban-Resilience-India.pdf"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Manila, megaregione, trasporti, alluvioni e disuguaglianze",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Governance frammentata",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "MMDA, città componenti e governo nazionale",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Coordinamento di trasporti, rifiuti e gestione delle alluvioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mobilità metropolitana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Jeepney, autobus, LRT, MRT e ferrovia pendolare",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Congestione, accessibilità e progetti sotterranei",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Alluvioni e rifiuti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Pompaggio, canali, estuari e bacini",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Rifiuti solidi, drenaggio e manutenzione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Informalità abitativa",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Insediamenti lungo corsi d’acqua e terreni marginali",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Sicurezza fondiaria, servizi e ricollocazioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Diritti e partecipazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Organizzazioni comunitarie, media e società civile",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Legge marziale, violenza di Stato e accountability",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

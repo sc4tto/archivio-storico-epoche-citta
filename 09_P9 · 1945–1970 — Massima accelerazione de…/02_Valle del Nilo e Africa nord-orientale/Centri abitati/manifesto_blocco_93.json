@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_93_P9_Valle_Nilo_Africa_Nord_Orientale_5_Centri_v1",
+  "macroregion": "Valle del Nilo e Africa nord-orientale",
+  "centers": [
+    "01_Cairo_Nasseriano_Metropolitano",
+    "02_Alessandria_Portuale_Postcoloniale",
+    "03_Khartoum_Indipendente_Conurbazione",
+    "04_Addis_Abeba_Imperiale_Africana",
+    "05_Aswan_Grande_Diga_Nubia"
+  ],
+  "uses_central_assets": true
+}

@@ -1,0 +1,288 @@
+{
+  "nodes": [
+    {
+      "id": "t_valleys",
+      "label": "Valli fluviali e suoli umidi",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_hills",
+      "label": "Pendii e terrazze collinari",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_forest",
+      "label": "Foresta tropicale e fauna",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_gulf",
+      "label": "Corridoi verso la costa del Golfo",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "r_maize",
+      "label": "Mais, fagioli, zucca e peperoncino",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_fruit",
+      "label": "Frutti tropicali, cacao e vaniglia",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "r_game",
+      "label": "Cervi, tacchini e piccola fauna",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_fish",
+      "label": "Pesce, molluschi e sale",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "a_farm",
+      "label": "Coltivazione in valli e pendii",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_garden",
+      "label": "Orti e gestione di piante tropicali",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "a_hunt",
+      "label": "Caccia e raccolta",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_trade",
+      "label": "Tributo e scambio lungo il Golfo",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "x_grind",
+      "label": "Macinazione e impasti",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x_cook",
+      "label": "Cottura e arrostitura",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x_dry",
+      "label": "Essiccazione, affumicatura e salatura",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "x_store",
+      "label": "Stoccaggio e servizio in ceramica",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "p_staples",
+      "label": "Pasti a base di mais",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_flavour",
+      "label": "Condimenti, cacao e bevande",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_preserved",
+      "label": "Pesce e carne conservati",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_ritual",
+      "label": "Rifornimento urbano e rituale",
+      "layer": 4,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "t_valleys",
+      "target": "r_maize",
+      "status": "documentato",
+      "label": "campi fertili"
+    },
+    {
+      "source": "t_hills",
+      "target": "r_maize",
+      "status": "documentato",
+      "label": "terrazze e coltivazione"
+    },
+    {
+      "source": "t_forest",
+      "target": "r_fruit",
+      "status": "sintesi",
+      "label": "piante tropicali"
+    },
+    {
+      "source": "t_forest",
+      "target": "r_game",
+      "status": "documentato",
+      "label": "caccia"
+    },
+    {
+      "source": "t_gulf",
+      "target": "r_fish",
+      "status": "sintesi",
+      "label": "scambi costieri"
+    },
+    {
+      "source": "t_gulf",
+      "target": "r_fruit",
+      "status": "sintesi",
+      "label": "prodotti tropicali"
+    },
+    {
+      "source": "r_maize",
+      "target": "a_farm",
+      "status": "documentato",
+      "label": "produzione locale"
+    },
+    {
+      "source": "r_maize",
+      "target": "a_trade",
+      "status": "sintesi",
+      "label": "tributi"
+    },
+    {
+      "source": "r_fruit",
+      "target": "a_garden",
+      "status": "sintesi",
+      "label": "orti e colture"
+    },
+    {
+      "source": "r_fruit",
+      "target": "a_trade",
+      "status": "sintesi",
+      "label": "beni di pregio"
+    },
+    {
+      "source": "r_game",
+      "target": "a_hunt",
+      "status": "documentato",
+      "label": "caccia"
+    },
+    {
+      "source": "r_fish",
+      "target": "a_trade",
+      "status": "sintesi",
+      "label": "scambio costiero"
+    },
+    {
+      "source": "a_farm",
+      "target": "x_grind",
+      "status": "documentato",
+      "label": "lavorazione del mais"
+    },
+    {
+      "source": "a_farm",
+      "target": "x_store",
+      "status": "documentato",
+      "label": "surplus"
+    },
+    {
+      "source": "a_garden",
+      "target": "x_cook",
+      "status": "sintesi",
+      "label": "condimenti e frutti"
+    },
+    {
+      "source": "a_garden",
+      "target": "x_store",
+      "status": "sintesi",
+      "label": "conservazione"
+    },
+    {
+      "source": "a_hunt",
+      "target": "x_cook",
+      "status": "documentato",
+      "label": "carne"
+    },
+    {
+      "source": "a_hunt",
+      "target": "x_dry",
+      "status": "sintesi",
+      "label": "affumicatura"
+    },
+    {
+      "source": "a_trade",
+      "target": "x_dry",
+      "status": "sintesi",
+      "label": "sale e pesce"
+    },
+    {
+      "source": "a_trade",
+      "target": "x_store",
+      "status": "documentato",
+      "label": "beni redistribuiti"
+    },
+    {
+      "source": "a_trade",
+      "target": "x_cook",
+      "status": "sintesi",
+      "label": "pasti pubblici"
+    },
+    {
+      "source": "x_grind",
+      "target": "p_staples",
+      "status": "documentato",
+      "label": "alimenti di base"
+    },
+    {
+      "source": "x_cook",
+      "target": "p_staples",
+      "status": "documentato",
+      "label": "pasti domestici"
+    },
+    {
+      "source": "x_cook",
+      "target": "p_flavour",
+      "status": "sintesi",
+      "label": "cacao e condimenti"
+    },
+    {
+      "source": "x_dry",
+      "target": "p_preserved",
+      "status": "sintesi",
+      "label": "conservazione"
+    },
+    {
+      "source": "x_store",
+      "target": "p_ritual",
+      "status": "sintesi",
+      "label": "approvvigionamento di cerimonie"
+    },
+    {
+      "source": "x_store",
+      "target": "p_flavour",
+      "status": "sintesi",
+      "label": "servizio di bevande"
+    }
+  ]
+}

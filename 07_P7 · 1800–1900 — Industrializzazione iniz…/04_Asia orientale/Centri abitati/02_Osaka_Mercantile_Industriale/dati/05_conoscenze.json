@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Osaka mercantile e industriale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Commercio del riso",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Dōjima, contratti e credito",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Magazzini, prezzi e distribuzione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Canali e porto",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Navigazione, ponti e banchine",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Bonifiche e opere portuali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Industria Meiji",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Filature, macchine e carbone",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Zecca, officine e cantieri",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Lavoro urbano",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Migrazione e lavoro femminile",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Quartieri operai e mutualismo",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Machiya, kura e carpenteria",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Mattoni, ferro e fabbriche",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

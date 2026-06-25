@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "L’Acropoli conserva il grande programma monumentale del V secolo a.C.",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "ATH_UNESCO"
+  },
+  {
+    "claim": "L’Agorà era un centro civico, giudiziario e commerciale",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "ATH_AGORA"
+  },
+  {
+    "claim": "Il Pireo collegava Atene alle rotte dell’Egeo e del Mediterraneo",
+    "theme": "Reti",
+    "status": "documentato",
+    "source": "ATH_PIRAEUS"
+  },
+  {
+    "claim": "La democrazia ateniese comprendeva donne, schiavi e residenti stranieri",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Cittadinanza limitata"
+  },
+  {
+    "claim": "Le Lunghe Mura collegavano la città ai porti",
+    "theme": "Difese",
+    "status": "documentato",
+    "source": "ATH_PIRAEUS"
+  },
+  {
+    "claim": "Ogni edificio dell’Acropoli è rimasto immutato dall’antichità",
+    "theme": "Conservazione",
+    "status": "non_documentato",
+    "source": "Danni, riusi e restauri"
+  },
+  {
+    "claim": "La polis dipendeva anche da importazioni cerealicole",
+    "theme": "Alimentazione",
+    "status": "sintesi",
+    "source": "Reti egee e pontiche"
+  },
+  {
+    "claim": "Atene mantenne importanza culturale in età romana",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "ATH_AGORA"
+  }
+]

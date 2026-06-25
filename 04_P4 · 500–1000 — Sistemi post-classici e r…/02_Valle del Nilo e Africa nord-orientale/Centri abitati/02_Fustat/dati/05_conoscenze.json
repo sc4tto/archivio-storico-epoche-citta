@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Fustat",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Quartieri progressivi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Moschea centrale",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Piano unitario geometrico",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Abitazioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Case a corte",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Edifici multipiano nelle fonti",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_3",
+          "label": "Altezze uniformi",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Ceramica",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Vetro e metalli",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Ogni manufatto prodotto localmente",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Porto fluviale",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Reti mediterranee e del Mar Rosso",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Monopolio statale totale",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Religione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Moschea di ʿAmr",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Comunità cristiane ed ebraiche",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Omogeneità confessionale",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Metodo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Scavi stratigrafici",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Fonti geografiche medievali",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Pianta completa conservata",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

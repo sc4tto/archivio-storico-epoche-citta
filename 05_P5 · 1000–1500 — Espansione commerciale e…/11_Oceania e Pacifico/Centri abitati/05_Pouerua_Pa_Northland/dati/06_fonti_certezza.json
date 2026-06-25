@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Pouērua è un importante paesaggio archeologico e tradizionale di Northland.",
+    "theme": "paesaggio",
+    "status": "documentato",
+    "source": "PO1; PO2"
+  },
+  {
+    "claim": "Il cono conserva terrazze, fossati, aree abitative e depositi.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "PO1; PO3"
+  },
+  {
+    "claim": "L’orticoltura del kūmara era centrale per gli insediamenti māori del nord.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "PO3; PO4"
+  },
+  {
+    "claim": "I pā proteggevano anche scorte e risorse, non soltanto abitazioni.",
+    "theme": "funzione",
+    "status": "documentato",
+    "source": "PO4"
+  },
+  {
+    "claim": "La cronologia delle singole opere difensive non è uniforme.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "PO3"
+  },
+  {
+    "claim": "Le fasi pienamente fortificate possono proseguire oltre il 1500.",
+    "theme": "cronologia",
+    "status": "sintesi",
+    "source": "PO3"
+  },
+  {
+    "claim": "Il paesaggio va letto come rete di siti stagionali e non come città compatta.",
+    "theme": "metodo",
+    "status": "sintesi",
+    "source": "PO3; PO4"
+  },
+  {
+    "claim": "Il valore tradizionale per Ngāpuhi è parte integrante dell’interpretazione.",
+    "theme": "continuità",
+    "status": "documentato",
+    "source": "PO1; PO2"
+  }
+]

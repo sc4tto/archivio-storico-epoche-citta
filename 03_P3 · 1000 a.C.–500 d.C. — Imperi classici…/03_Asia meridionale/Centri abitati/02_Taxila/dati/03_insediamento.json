@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Bhir Mound achemenide e maurya",
+    "Incontro con Alessandro e regni successivi",
+    "Sirkap indo-greca",
+    "Fasi indo-partiche",
+    "Sirsukh kushana e centri buddhisti"
+  ],
+  "items": [
+    {
+      "id": "bhir",
+      "label": "Bhir Mound e prime forme urbane",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "sirkap",
+      "label": "Sirkap fortificata e pianificata",
+      "lane": "Monumentali",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "sirsukh",
+      "label": "Sirsukh e bastioni arrotondati",
+      "lane": "Difensive",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "stupas",
+      "label": "Stupa e monasteri della valle",
+      "lane": "Religiose",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "markets",
+      "label": "Mercati e botteghe",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "coins",
+      "label": "Monete e circolazione interregionale",
+      "lane": "Amministrative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "roads",
+      "label": "Vie verso Indo, Kabul e Gange",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

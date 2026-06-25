@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Mound City Group",
+      "lat": 39.376,
+      "lon": -83.003,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "scioto",
+      "label": "Fiume Scioto",
+      "lat": 39.38,
+      "lon": -82.99,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "hopewell",
+      "label": "Hopewell Mound Group",
+      "lat": 39.36,
+      "lon": -83.09,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "newark",
+      "label": "Newark Earthworks",
+      "lat": 40.06,
+      "lon": -82.43,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "greatlakes",
+      "label": "Grandi Laghi",
+      "lat": 44.0,
+      "lon": -86.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "gulf",
+      "label": "Golfo del Messico e Florida",
+      "lat": 29.5,
+      "lon": -84.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "scioto",
+      "target": "site",
+      "label": "pesce, mobilità e risorse della valle",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "hopewell",
+      "target": "site",
+      "label": "cerimonie e tradizioni costruttive",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "newark",
+      "target": "site",
+      "label": "geometrie e reti rituali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "greatlakes",
+      "target": "site",
+      "label": "rame e minerali",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "gulf",
+      "target": "site",
+      "label": "conchiglie e denti di squalo",
+      "status": "documentato",
+      "food": "no"
+    }
+  ]
+}

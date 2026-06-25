@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Hampi-Vijayanagara",
+      "lat": 15.335,
+      "lon": 76.46,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "tun",
+      "label": "Tungabhadra",
+      "lat": 15.34,
+      "lon": 76.47,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "ane",
+      "label": "Anegundi",
+      "lat": 15.35,
+      "lon": 76.49,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "hos",
+      "label": "Hospet e bacini",
+      "lat": 15.27,
+      "lon": 76.39,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "goa",
+      "label": "Costa di Goa",
+      "lat": 15.4,
+      "lon": 73.8,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "mal",
+      "label": "Costa del Malabar",
+      "lat": 11.25,
+      "lon": 75.78,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "dek",
+      "label": "Deccan orientale",
+      "lat": 16.0,
+      "lon": 79.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "tun",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali e campi irrigui",
+      "food": "riso, canna da zucchero e acqua"
+    },
+    {
+      "source": "ane",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "insediamenti e guadi",
+      "food": "granaglie e pellegrini"
+    },
+    {
+      "source": "hos",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "serbatoi e campi",
+      "food": "riso, ortaggi e bestiame"
+    },
+    {
+      "source": "goa",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoio verso la costa occidentale",
+      "food": "cavalli, metalli e merci oceaniche"
+    },
+    {
+      "source": "mal",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "rete del Malabar",
+      "food": "spezie e prodotti costieri"
+    },
+    {
+      "source": "dek",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte del Deccan",
+      "food": "tessili, ferro e derrate"
+    }
+  ]
+}

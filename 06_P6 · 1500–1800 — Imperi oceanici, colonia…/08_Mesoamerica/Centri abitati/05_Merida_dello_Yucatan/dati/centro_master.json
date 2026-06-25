@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Mérida dello Yucatán coloniale",
+    "site": "Mérida dello Yucatán coloniale",
+    "modern_location": "Mérida, Yucatán, Messico",
+    "coordinates": {
+      "lat": 20.9674,
+      "lon": -89.5926
+    },
+    "scope": "Mérida fra 1542 e 1800: capitale provinciale, cabildo, cattedrale, conventi, mercati, barrios e reti di mais, sale, bestiame, tessili e legni della penisola.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1800. Il boom ottocentesco dell’henequén, il Paseo de Montejo e l’espansione moderna sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "ME1",
+      "title": "INAH Yucatán",
+      "use": "Patrimonio archeologico e storico della penisola.",
+      "url": "https://www.inah.gob.mx/"
+    },
+    {
+      "id": "ME2",
+      "title": "Encyclopaedia Britannica — Mérida",
+      "use": "Fondazione coloniale e storia urbana.",
+      "url": "https://www.britannica.com/place/Merida-Mexico"
+    },
+    {
+      "id": "ME3",
+      "title": "Ayuntamiento de Mérida — Centro Histórico",
+      "use": "Monumenti e storia della città.",
+      "url": "https://www.merida.gob.mx/centrohistorico/"
+    },
+    {
+      "id": "ME4",
+      "title": "UNAM — Estudios de Cultura Maya",
+      "use": "Storia e società maya coloniale.",
+      "url": "https://revistas-filologicas.unam.mx/estudios-cultura-maya/"
+    },
+    {
+      "id": "ME5",
+      "title": "Archivo General del Estado de Yucatán",
+      "use": "Fonti amministrative e sociali della provincia.",
+      "url": "https://agey.yucatan.gob.mx/"
+    }
+  ]
+}

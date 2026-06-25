@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_87_P8_Africa_Subsahariana_5_Centri_v1",
+  "macroregion": "Africa subsahariana",
+  "centers": [
+    "01_Johannesburg_Miniere_Segregazione",
+    "02_Lagos_Portuale_Coloniale",
+    "03_Nairobi_Ferroviaria_Coloniale",
+    "04_Dakar_Portuale_AOF",
+    "05_Accra_Capitale_Coloniale"
+  ],
+  "uses_central_assets": true
+}

@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_111_P10_Ande_Centrali_5_Centri_v1",
+  "macroregion": "Ande centrali",
+  "centers": [
+    "01_Lima_Trasporto_Acqua_Informalita_Rischio_Costiero",
+    "02_Santiago_Metro_Elettromobilita_Alloggi_Clima_Diritti",
+    "03_Bogota_Corridoio_TransMilenio_Metro_Clima_Disuguaglianze",
+    "04_Quito_Metro_Pendii_Alloggi_Clima_Patrimonio",
+    "05_La_Paz_El_Alto_Teleferico_Acqua_Pendii_Indigeni"
+  ],
+  "uses_central_assets": true
+}

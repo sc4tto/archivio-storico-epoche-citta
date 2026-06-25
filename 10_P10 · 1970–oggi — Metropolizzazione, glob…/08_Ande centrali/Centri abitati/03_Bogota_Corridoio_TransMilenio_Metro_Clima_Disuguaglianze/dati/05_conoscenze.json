@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Bogotá, corridoio connesso, TransMilenio, metro, clima e disuguaglianze",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Governance del corridoio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Distretto, Regione Metropolitana e comuni della Sabana",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "POT, coordinamento, dati e partecipazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mobilità multimodale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "TransMilenio, SITP, Metro, Regiotram e ciclabilità",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Integrazione, elettrificazione, sicurezza e accessibilità",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Alloggi e migrazioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Urbanizzazione informale, sfollati e mercato immobiliare",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Regolarizzazione, servizi, diritti e non discriminazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Clima e ecosistemi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Aria, piogge, humedales, cerros e fiume Bogotá",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Mitigazione, adattamento, drenaggio e tutela ecologica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Economia regionale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Servizi, università, logistica, industria e agricoltura",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Corridoi connessi, lavoro e distribuzione diseguale dei benefici",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

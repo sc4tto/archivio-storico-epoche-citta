@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Petra fu capitale dei Nabatei e nodo delle rotte carovaniere",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "PET_UNESCO"
+  },
+  {
+    "claim": "Il sistema idraulico comprendeva canali, cisterne e dighe",
+    "theme": "Acqua",
+    "status": "documentato",
+    "source": "PET_UNESCO"
+  },
+  {
+    "claim": "La città combina architettura rupestre e costruzioni in elevato",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "PET_UNESCO"
+  },
+  {
+    "claim": "Il Grande Tempio ha restituito una complessa sequenza edilizia",
+    "theme": "Archeologia",
+    "status": "documentato",
+    "source": "PET_BROWN"
+  },
+  {
+    "claim": "La città continuò a vivere in età romana e tardoantica",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "PET_UNESCO"
+  },
+  {
+    "claim": "Al-Khazneh era certamente un tesoro monetario",
+    "theme": "Funzione",
+    "status": "non_documentato",
+    "source": "Nome moderno e funzione antica discussa"
+  },
+  {
+    "claim": "Tutte le facciate furono scolpite nello stesso secolo",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Sequenza pluricentenaria"
+  },
+  {
+    "claim": "Petra dipendeva solo dal commercio e non dall’agricoltura",
+    "theme": "Economia",
+    "status": "non_documentato",
+    "source": "Agricoltura e pastorizia documentate"
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Berlino prussiana e imperiale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Industria",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Meccanica, elettricità e chimica",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Fabbriche, brevetti e formazione tecnica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Trasporti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Ferrovie radiali e Ringbahn",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Tram, canali e logistica urbana",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Piano Hobrecht e lottizzazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Mietskasernen e cortili densi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Servizi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Fognature, gas ed elettricità",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Scuole, ospedali e amministrazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Politica e società",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Prussia, impero e burocrazia",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Movimento operaio e conflitto sociale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

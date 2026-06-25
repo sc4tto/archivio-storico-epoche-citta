@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Quito coloniale",
+    "site": "Quito coloniale",
+    "modern_location": "Quito, Ecuador",
+    "coordinates": {
+      "lat": -0.1807,
+      "lon": -78.4678
+    },
+    "scope": "Quito fra 1534 e 1800: audiencia, cabildo, cattedrale, conventi, parrocchie indigene, mercati, botteghe artistiche, obrajes e collegamenti regionali.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1800. Indipendenza, riforme repubblicane, ferrovie e crescita metropolitana sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "QU1",
+      "title": "UNESCO — City of Quito",
+      "use": "Fondazione, centro storico e architettura religiosa.",
+      "url": "https://whc.unesco.org/en/list/2/"
+    },
+    {
+      "id": "QU2",
+      "title": "Encyclopaedia Britannica — Quito",
+      "use": "Storia urbana, audiencia e geografia.",
+      "url": "https://www.britannica.com/place/Quito-Ecuador"
+    },
+    {
+      "id": "QU3",
+      "title": "Instituto Metropolitano de Patrimonio de Quito",
+      "use": "Monumenti, restauri e documentazione del centro storico.",
+      "url": "https://patrimonio.quito.gob.ec/"
+    },
+    {
+      "id": "QU4",
+      "title": "Archivo Nacional del Ecuador",
+      "use": "Fonti amministrative e sociali coloniali.",
+      "url": "https://www.culturaypatrimonio.gob.ec/archivo-nacional-del-ecuador/"
+    },
+    {
+      "id": "QU5",
+      "title": "UNESCO — Qhapaq Ñan",
+      "use": "Connessioni stradali andine e reti regionali.",
+      "url": "https://whc.unesco.org/en/list/1459/"
+    }
+  ]
+}

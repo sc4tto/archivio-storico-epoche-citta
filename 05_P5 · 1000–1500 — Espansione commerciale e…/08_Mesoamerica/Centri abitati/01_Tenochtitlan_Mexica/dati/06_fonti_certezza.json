@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Tenochtitlan fu fondata tradizionalmente intorno al 1325.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "TE2"
+  },
+  {
+    "claim": "La città si espanse mediante isole artificiali, canali e calzadas.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "TE1; TE2"
+  },
+  {
+    "claim": "Le chinampas sostenevano una produzione agricola intensiva.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "TE1; TE3"
+  },
+  {
+    "claim": "Il Templo Mayor era il fulcro del recinto sacro.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "TE3; TE5"
+  },
+  {
+    "claim": "Tributo e commercio portarono beni da gran parte della Mesoamerica.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "TE3; TE4"
+  },
+  {
+    "claim": "Dighe e acquedotti mitigavano salinità, alluvioni e approvvigionamento idrico.",
+    "theme": "idraulica",
+    "status": "documentato",
+    "source": "TE1; TE2"
+  },
+  {
+    "claim": "La stima precisa della popolazione resta discussa.",
+    "theme": "metodo",
+    "status": "sintesi",
+    "source": "TE2"
+  },
+  {
+    "claim": "Gli eventi della conquista sono esclusi dal limite cronologico del blocco.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "TE2; TE3"
+  }
+]

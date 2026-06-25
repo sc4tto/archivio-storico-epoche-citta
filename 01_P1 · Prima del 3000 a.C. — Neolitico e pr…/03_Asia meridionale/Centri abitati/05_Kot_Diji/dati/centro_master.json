@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Kot Diji — modulo multi-grafo",
+    "short_name": "Kot Diji",
+    "site": "Kot Diji",
+    "modern_location": "Khairpur, Sindh, Pakistan",
+    "coordinates": {
+      "lat": 27.35,
+      "lon": 68.72
+    },
+    "scope": "Occupazione early Harappan/Kot Dijian a partire circa dal 3300 a.C.; il modulo P1 riguarda l’emergere del centro",
+    "version": "1.0-blocco_04_p1_asia_meridionale_5_centri_v1",
+    "warning": "Le evidenze della fase Kot Diji precedono la città matura; strutture e interpretazioni devono essere separate dalle occupazioni successive e dal forte moderno."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "KOTDIJI_HARAPPA",
+      "title": "Harappa.com — Ravi and Kot Diji Phase Developments",
+      "url": "https://www.harappa.com/indus4/e2.html",
+      "use": "cronologia, ceramica, fortificazioni e sviluppo early Harappan"
+    },
+    {
+      "id": "KOTDIJI_BRITANNICA",
+      "title": "Encyclopaedia Britannica — Kot Diji",
+      "url": "https://www.britannica.com/place/Kot-Diji",
+      "use": "quadro del sito e della cultura eponima"
+    },
+    {
+      "id": "SOUTH_ASIA_CAMBRIDGE",
+      "title": "Coningham & Young — The Archaeology of South Asia",
+      "url": "https://www.cambridge.org/core/books/archaeology-of-south-asia/",
+      "use": "confronto regionale"
+    }
+  ]
+}

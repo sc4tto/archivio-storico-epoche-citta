@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Alessandria",
+      "lat": 31.2001,
+      "lon": 29.9187,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "ros",
+      "label": "Rosetta",
+      "lat": 31.4,
+      "lon": 30.42,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "mar",
+      "label": "Lago Mareotis",
+      "lat": 31.05,
+      "lon": 29.82,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "abu",
+      "label": "Abukir",
+      "lat": 31.32,
+      "lon": 30.06,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "cai",
+      "label": "Cairo",
+      "lat": 30.04,
+      "lon": 31.24,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "ist",
+      "label": "Istanbul",
+      "lat": 41.01,
+      "lon": 28.98,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "ven",
+      "label": "Venezia e Livorno",
+      "lat": 43.55,
+      "lon": 11.95,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "ros",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ramo occidentale del Nilo",
+      "food": "grano, lino e riso"
+    },
+    {
+      "source": "mar",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali e strade locali",
+      "food": "sale, frutta, ortaggi e vino"
+    },
+    {
+      "source": "abu",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cabotaggio costiero",
+      "food": "pesce e prodotti marini"
+    },
+    {
+      "source": "cai",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "asse del Delta",
+      "food": "merci interne, pellegrini e fiscalità"
+    },
+    {
+      "source": "ist",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte ottomane",
+      "food": "funzionari, tessili e beni imperiali"
+    },
+    {
+      "source": "ven",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "commercio mediterraneo",
+      "food": "metalli, legname, tessili e moneta"
+    }
+  ]
+}

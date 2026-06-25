@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "d1",
+      "label": "Lal Kot e Qila Rai Pithora",
+      "lane": "Difesa",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "d2",
+      "label": "Fondazione del Sultanato e complesso del Qutb",
+      "lane": "Politica",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "d3",
+      "label": "Siri e ampliamenti khalji",
+      "lane": "Urbanistica",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "d4",
+      "label": "Tughlaqabad e Jahanpanah",
+      "lane": "Difesa",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "d5",
+      "label": "Firozabad, canali e opere pubbliche",
+      "lane": "Infrastrutture",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "d6",
+      "label": "Moschee, madrase e khanqah",
+      "lane": "Religione",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "d7",
+      "label": "Mercati, sarai e quartieri artigiani",
+      "lane": "Economia",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "d8",
+      "label": "Dinastie Sayyid e Lodi",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

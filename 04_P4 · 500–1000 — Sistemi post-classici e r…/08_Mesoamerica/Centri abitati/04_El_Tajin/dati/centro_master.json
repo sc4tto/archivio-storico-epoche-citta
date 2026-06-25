@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "El Tajín",
+    "site": "El Tajín",
+    "modern_location": "Stato di Veracruz, Messico",
+    "coordinates": {
+      "lat": 20.4477,
+      "lon": -97.3783
+    },
+    "scope": "El Tajín fra 800 e 1000, con attenzione alla crescita urbana, ai giochi della palla, alla Piramide delle Nicchie, ai rilievi, al paesaggio collinare e alle reti del Golfo.",
+    "version": "1.0",
+    "warning": "L’attribuzione etnica del sito non è certa e non deve essere retroproiettata automaticamente dalle popolazioni moderne. La cronologia recente concentra l’occupazione principale fra 800 e 1200."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "E1",
+      "title": "UNESCO World Heritage Centre — El Tajin, Pre-Hispanic City",
+      "use": "Cronologia, urbanistica, architettura a nicchie e campi da gioco.",
+      "url": "https://whc.unesco.org/en/list/631/"
+    },
+    {
+      "id": "E2",
+      "title": "INAH — Zona arqueológica El Tajín",
+      "use": "Descrizione dei complessi, rilievi e conservazione.",
+      "url": "https://www.inah.gob.mx/zonas/178-zona-arqueologica-el-tajin"
+    },
+    {
+      "id": "E3",
+      "title": "S. Jeffrey K. Wilkerson — El Tajín: A Guide for Visitors",
+      "use": "Sequenza urbana, architettura e interpretazione del sito.",
+      "url": "https://www.worldcat.org/title/10964535"
+    },
+    {
+      "id": "E4",
+      "title": "Clemency Coggins — The Ballgame and El Tajín",
+      "use": "Giochi della palla, rilievi e rituale.",
+      "url": "https://www.jstor.org/stable/280862"
+    },
+    {
+      "id": "E5",
+      "title": "Patricia Castillo Peña — El Tajín: estudios recientes",
+      "use": "Ricerche archeologiche e cronologia del centro.",
+      "url": "https://mediateca.inah.gob.mx/"
+    }
+  ]
+}

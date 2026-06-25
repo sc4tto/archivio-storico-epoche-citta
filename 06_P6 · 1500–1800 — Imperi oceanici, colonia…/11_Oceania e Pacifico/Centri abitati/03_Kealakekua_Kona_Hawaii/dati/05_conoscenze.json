@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Kealakekua–Kona, paesaggio reale hawaiano",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Ahupuaʻa",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Gestione verticale da montagna a mare",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Tributo, lavoro e redistribuzione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Campi aridi, pacciamatura e quote",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Taro, ʻuala e arboricoltura",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Mare",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Pesca costiera e pelagica",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Canoe, sentieri e approdi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Rituale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Makahiki, kapu e offerte",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Heiau, puʻuhonua e genealogie aliʻi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Cultura materiale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Kapa, piume e cordami",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Muratura a secco e carpenteria",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

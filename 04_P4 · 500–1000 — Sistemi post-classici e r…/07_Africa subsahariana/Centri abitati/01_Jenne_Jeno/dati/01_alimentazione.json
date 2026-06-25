@@ -1,0 +1,216 @@
+{
+  "nodes": [
+    {
+      "id": "t_flood",
+      "label": "Piane alluvionali del Bani e Niger",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_levees",
+      "label": "Dossi asciutti e campi stagionali",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_pasture",
+      "label": "Pascoli e savane circostanti",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "r_rice",
+      "label": "Riso africano e cereali",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_fish",
+      "label": "Pesce e risorse acquatiche",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_cattle",
+      "label": "Bovini, ovicaprini e latte",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_plants",
+      "label": "Legumi e piante raccolte",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "a_farming",
+      "label": "Coltivazione regolata dalle piene",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_fishing",
+      "label": "Pesca fluviale e stagionale",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_herding",
+      "label": "Allevamento e scambio pastorale",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_market",
+      "label": "Scambio fra mestieri e insediamenti",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "x_pound",
+      "label": "Battitura, macinazione e cottura",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x_smoke",
+      "label": "Essiccazione e affumicatura",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "x_store",
+      "label": "Granai e contenitori ceramici",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "p_meals",
+      "label": "Pasti a base di cereali e pesce",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_surplus",
+      "label": "Surplus stagionali scambiabili",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_provision",
+      "label": "Rifornimento della popolazione urbana",
+      "layer": 4,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "t_flood",
+      "target": "r_rice",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "t_levees",
+      "target": "r_fish",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "t_pasture",
+      "target": "r_cattle",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "t_flood",
+      "target": "r_plants",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "r_rice",
+      "target": "a_farming",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_fish",
+      "target": "a_fishing",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_cattle",
+      "target": "a_herding",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_plants",
+      "target": "a_market",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "a_farming",
+      "target": "x_pound",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "a_fishing",
+      "target": "x_smoke",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "a_herding",
+      "target": "x_store",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "a_market",
+      "target": "x_pound",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "x_pound",
+      "target": "p_meals",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "x_smoke",
+      "target": "p_surplus",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "x_store",
+      "target": "p_provision",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_plants",
+      "target": "a_farming",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "a_market",
+      "target": "x_store",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "x_store",
+      "target": "p_provision",
+      "status": "sintesi",
+      "label": ""
+    }
+  ]
+}

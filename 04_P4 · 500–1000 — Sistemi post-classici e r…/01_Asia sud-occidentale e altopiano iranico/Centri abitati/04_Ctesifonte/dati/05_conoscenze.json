@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Ctesifonte",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Palazzo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Grande iwan",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Volta in mattoni",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Intero complesso conservato",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Città",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Sistema policentrico",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Sobborghi su entrambe le rive",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Confine urbano unico noto",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Comunità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Zoroastriani",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Cristiani ed ebrei",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Separazione rigida",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Mercato internazionale",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Vie del Golfo",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Volumi esatti",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Conquista",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Anno 637",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Fuga della corte",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Abbandono immediato totale",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Scavi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Stucchi sasanidi",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Case a corte",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Topografia completa",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

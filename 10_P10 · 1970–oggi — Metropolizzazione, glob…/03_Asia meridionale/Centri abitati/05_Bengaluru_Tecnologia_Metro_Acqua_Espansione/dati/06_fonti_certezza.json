@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "BMRCL gestisce il sistema Namma Metro della città di Bengaluru.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "BE1"
+  },
+  {
+    "claim": "Il programma World Bank collega acqua, drenaggio, laghi e resilienza climatica.",
+    "theme": "acqua",
+    "status": "documentato",
+    "source": "BE2"
+  },
+  {
+    "claim": "Il programma richiama il Climate Action Plan for Bangalore lanciato nel 2023.",
+    "theme": "clima",
+    "status": "documentato",
+    "source": "BE2"
+  },
+  {
+    "claim": "BBMP mantiene una Climate Action Cell e strumenti di pianificazione urbana.",
+    "theme": "governance",
+    "status": "documentato",
+    "source": "BE3"
+  },
+  {
+    "claim": "Il rapporto sulle città indiane raccomanda investimenti integrati contro alluvioni e calore estremi.",
+    "theme": "resilienza",
+    "status": "documentato",
+    "source": "BE4"
+  },
+  {
+    "claim": "Bengaluru, tecnologia, metro, acqua ed espansione è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Acquisizioni per infrastrutture, sgomberi di insediamenti, ricollocazioni attorno a laghi e drenaggi, discriminazioni di casta o religiose e precarietà del lavoro migrante non sono trattate come effetti neutri della crescita tecnologica; residenti informali, lavoratori dei servizi e comunità periurbane sono soggetti storici e politici.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

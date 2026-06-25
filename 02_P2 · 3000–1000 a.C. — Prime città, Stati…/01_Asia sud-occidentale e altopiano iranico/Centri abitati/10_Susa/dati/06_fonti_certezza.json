@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Susa conserva una successione urbana dal tardo V millennio a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "SUSA_UNESCO"
+  },
+  {
+    "claim": "Il sito comprende strutture amministrative, religiose, residenziali e palatine",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "SUSA_UNESCO"
+  },
+  {
+    "claim": "Susa fu un punto d’incontro fra civiltà mesopotamiche e altopiano iranico",
+    "theme": "Scambi",
+    "status": "documentato",
+    "source": "SUSA_UNESCO"
+  },
+  {
+    "claim": "Le fasi P2 comprendono importanti tradizioni proto-elamite ed elamite",
+    "theme": "Cultura",
+    "status": "documentato",
+    "source": "SUSA_IRANICA"
+  },
+  {
+    "claim": "Scrittura, sigilli e amministrazione sono documentati nel sito",
+    "theme": "Scrittura",
+    "status": "documentato",
+    "source": "SUSA_LOUVRE"
+  },
+  {
+    "claim": "Il palazzo di Dario appartiene al periodo P2",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Fase achemenide posteriore"
+  },
+  {
+    "claim": "Susa dipese sempre politicamente dalla Mesopotamia",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Lunga autonomia e alternanza di poteri"
+  },
+  {
+    "claim": "Tutti gli strati urbani furono continui senza crisi o abbandoni parziali",
+    "theme": "Stratigrafia",
+    "status": "non_documentato",
+    "source": "Successione lunga con trasformazioni e discontinuità"
+  }
+]

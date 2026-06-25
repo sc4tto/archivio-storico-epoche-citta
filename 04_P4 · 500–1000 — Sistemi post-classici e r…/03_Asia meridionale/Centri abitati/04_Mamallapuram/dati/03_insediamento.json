@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Porto pallava iniziale",
+    "Grotte rupestri",
+    "Ratha e grandi rilievi",
+    "Templi strutturali",
+    "Uso e trasformazioni del IX–X secolo"
+  ],
+  "items": [
+    {
+      "id": "caves",
+      "label": "Mandapa rupestri",
+      "lane": "Religiose",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "rathas",
+      "label": "Ratha monolitici",
+      "lane": "Monumentali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "relief",
+      "label": "Grande rilievo rupestre",
+      "lane": "Monumentali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "shore",
+      "label": "Shore Temple",
+      "lane": "Religiose",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "workshops",
+      "label": "Cave e laboratori di scultura",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "harbor",
+      "label": "Porto e approdi",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "erosion",
+      "label": "Erosione marina e restauri",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

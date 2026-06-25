@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Monterrey, industria pesante e metropoli dei lavoratori",
+    "site": "Monterrey, industria pesante e metropoli dei lavoratori",
+    "modern_location": "Monterrey, Nuevo León, Messico",
+    "coordinates": {
+      "lat": 25.6866,
+      "lon": -100.3161
+    },
+    "scope": "Monterrey fra 1945 e 1970: espansione dell’acciaio, vetro, birra, cemento e manifattura, crescita demografica, conurbazione con San Nicolás, Guadalupe e Santa Catarina, nuovi quartieri operai, università, autostrade, scarsità idrica e persistente abitazione precaria nei tejabanes.",
+    "version": "1.0",
+    "warning": "Sono esclusi la chiusura della Fundidora, la grande ristrutturazione industriale tarda, il sistema metropolitano contemporaneo e gli eventi successivi al 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MT1",
+      "title": "UANL — Crecimiento y diversificación de la gran industria en Monterrey",
+      "use": "Crescita manifatturiera e confronto industriale 1940–1970.",
+      "url": "https://cd.dgb.uanl.mx/bitstream/handle/201504211/3663/17232.pdf?isAllowed=y&sequence=1"
+    },
+    {
+      "id": "MT2",
+      "title": "UANL Sillares — Tejabanes en la colonia Terminal, 1950–1970",
+      "use": "Domanda abitativa operaia, autocostruzione e infrastrutture insufficienti.",
+      "url": "https://sillares.uanl.mx/index.php/s/article/download/26/89/524"
+    },
+    {
+      "id": "MT3",
+      "title": "CEPAL — La urbanización en el México contemporáneo",
+      "use": "Posizione di Monterrey nel sistema urbano nazionale e metropolizzazione.",
+      "url": "https://www.cepal.org/sites/default/files/events/files/jaime_sobrino.pdf"
+    },
+    {
+      "id": "MT4",
+      "title": "UANL — Expansión demográfica del Área Metropolitana de Monterrey",
+      "use": "Crescita verso San Nicolás, Guadalupe e altri comuni dal 1940.",
+      "url": "https://eprints.uanl.mx/20316/1/1020156067.pdf"
+    }
+  ]
+}

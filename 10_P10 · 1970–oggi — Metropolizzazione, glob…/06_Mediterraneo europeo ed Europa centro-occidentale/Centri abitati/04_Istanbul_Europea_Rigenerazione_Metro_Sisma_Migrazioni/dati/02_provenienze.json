@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Istanbul europea",
+      "lat": 41.0082,
+      "lon": 28.9784,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "thr",
+      "label": "Tracia orientale",
+      "lat": 41.2,
+      "lon": 27.5,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "mar",
+      "label": "Regione di Marmara",
+      "lat": 40.5,
+      "lon": 29.5,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "ana",
+      "label": "Anatolia centrale",
+      "lat": 39.0,
+      "lon": 33.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "bla",
+      "label": "Mar Nero",
+      "lat": 42.2,
+      "lon": 31.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "med",
+      "label": "Mediterraneo orientale",
+      "lat": 36.5,
+      "lon": 32.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "glo",
+      "label": "Rotte globali e aeroporti",
+      "lat": 43.0,
+      "lon": 25.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "thr",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "autostrade e camion",
+      "food": "ortaggi, latticini, cereali e pendolari"
+    },
+    {
+      "source": "mar",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "traghetti, strade e ferrovie",
+      "food": "pesce, industria alimentare e manufatti"
+    },
+    {
+      "source": "ana",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e autocarri",
+      "food": "frumento, carne, legumi e migranti interni"
+    },
+    {
+      "source": "bla",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "pesca, cabotaggio e strade",
+      "food": "pesce, tè, nocciole e carbone"
+    },
+    {
+      "source": "med",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navi e autostrade",
+      "food": "agrumi, olio, ortaggi e importazioni"
+    },
+    {
+      "source": "glo",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto, cargo aereo e logistica",
+      "food": "caffè, spezie, alimenti e flussi migratori"
+    }
+  ]
+}

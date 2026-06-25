@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Meadowcroft",
+      "lat": 40.29,
+      "lon": -80.5,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "cross",
+      "label": "Cross Creek",
+      "lat": 40.28,
+      "lon": -80.48,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "ohio",
+      "label": "Bacino dell’Ohio",
+      "lat": 40.3,
+      "lon": -80.7,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "flint",
+      "label": "Fonti di selce dell’Ohio",
+      "lat": 40.1,
+      "lon": -82.2,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "jasper",
+      "label": "Fonti di diaspro della Pennsylvania",
+      "lat": 40.5,
+      "lon": -76.5,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "atlantic",
+      "label": "Costa atlantica",
+      "lat": 39.5,
+      "lon": -74.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "cross",
+      "target": "site",
+      "label": "acqua, molluschi e corridoio locale",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "ohio",
+      "target": "site",
+      "label": "mobilità e risorse regionali",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "flint",
+      "target": "site",
+      "label": "selce e manufatti",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "jasper",
+      "target": "site",
+      "label": "diaspro e strumenti",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "atlantic",
+      "target": "site",
+      "label": "conchiglie marine",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

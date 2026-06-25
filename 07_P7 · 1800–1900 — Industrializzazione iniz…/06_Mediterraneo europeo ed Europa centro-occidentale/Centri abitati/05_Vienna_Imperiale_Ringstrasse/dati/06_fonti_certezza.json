@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Vienna fu capitale dell’Impero asburgico e importante centro politico europeo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "VI1; VI2; VI5"
+  },
+  {
+    "claim": "La demolizione delle mura aprì la costruzione della Ringstrasse.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "VI1; VI3; VI4"
+  },
+  {
+    "claim": "Ferrovie e immigrazione ampliarono rapidamente la popolazione urbana.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "VI2; VI3"
+  },
+  {
+    "claim": "La regolazione del Danubio ridisegnò il rapporto fra città e fiume.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "VI3; VI4"
+  },
+  {
+    "claim": "Nuovi acquedotti e servizi municipali migliorarono l’approvvigionamento idrico.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "VI2; VI3"
+  },
+  {
+    "claim": "La crescita produsse case d’affitto dense e forti disuguaglianze.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "VI2; VI4"
+  },
+  {
+    "claim": "Il centro storico conserva importanti edifici ottocenteschi della Ringstrasse.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "VI1"
+  },
+  {
+    "claim": "Le trasformazioni successive al 1900 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "VI2"
+  }
+]

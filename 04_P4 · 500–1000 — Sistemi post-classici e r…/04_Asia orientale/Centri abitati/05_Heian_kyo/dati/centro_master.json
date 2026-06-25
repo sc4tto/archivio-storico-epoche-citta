@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Heian-kyō — modulo multi-grafo",
+    "short_name": "Heian-kyō",
+    "site": "Prima Kyoto imperiale, 794–1000",
+    "modern_location": "Kyoto, Giappone",
+    "coordinates": {
+      "lat": 35.0116,
+      "lon": 135.7681
+    },
+    "scope": "Nuova capitale imperiale fondata nel 794, progettata secondo modelli di capitali dell’Asia orientale, sede della corte Heian, di ministeri, mercati, templi periferici e quartieri aristocratici.",
+    "version": "1.0-blocco_40_p4_asia_orientale_5_centri_v1",
+    "warning": "La Kyoto visibile è in gran parte il risultato di ricostruzioni e trasformazioni posteriori. Molti monumenti celebri — inclusi Byōdō-in del 1053 e gran parte dei templi medievali — sono fuori P4. La metà occidentale della griglia declinò progressivamente e la città reale non restò simmetrica."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "HEI_UNESCO",
+      "title": "UNESCO — Historic Monuments of Ancient Kyoto",
+      "url": "https://whc.unesco.org/en/list/688/",
+      "use": "fondazione del 794, capitale, architettura e trasformazioni"
+    },
+    {
+      "id": "HEI_KYOTO",
+      "title": "Kyoto City Archaeological Research Institute",
+      "url": "https://www.kyoto-arc.or.jp/",
+      "use": "scavi di Heian-kyō e topografia urbana"
+    },
+    {
+      "id": "HEI_BUNKA",
+      "title": "Agency for Cultural Affairs, Japan — Kyoto heritage",
+      "url": "https://www.bunka.go.jp/english/",
+      "use": "tutela, restauro e cronologia dei monumenti"
+    }
+  ]
+}

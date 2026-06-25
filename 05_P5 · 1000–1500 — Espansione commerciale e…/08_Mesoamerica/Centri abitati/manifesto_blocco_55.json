@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_55_P5_Mesoamerica_5_Centri_v1",
+  "macroregion": "Mesoamerica",
+  "centers": [
+    "01_Tenochtitlan_Mexica",
+    "02_Texcoco_Acolhua",
+    "03_Tlatelolco_Mercato",
+    "04_Chichen_Itza_Tarda",
+    "05_Mayapan_Capitale"
+  ],
+  "uses_central_assets": true
+}

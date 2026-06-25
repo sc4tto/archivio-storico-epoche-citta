@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "mo1",
+      "label": "Formazione del centro mississippiano",
+      "lane": "Insediamento",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "mo2",
+      "label": "Costruzione della piazza e dei tumuli",
+      "lane": "Urbanistica",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "mo3",
+      "label": "Palizzata e controllo degli accessi",
+      "lane": "Difesa",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "mo4",
+      "label": "Quartieri residenziali attorno alla piazza",
+      "lane": "Società",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "mo5",
+      "label": "Apogeo politico e cerimoniale",
+      "lane": "Politica",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "mo6",
+      "label": "Produzione di oggetti rituali e di prestigio",
+      "lane": "Artigianato",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "mo7",
+      "label": "Riduzione della popolazione residente",
+      "lane": "Insediamento",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "mo8",
+      "label": "Persistenza come luogo funerario e rituale",
+      "lane": "Religione",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Mumbai, finanza, trasporti, informalità e rischio costiero",
+    "site": "Mumbai, finanza, trasporti, informalità e rischio costiero",
+    "modern_location": "Mumbai, India",
+    "coordinates": {
+      "lat": 19.076,
+      "lon": 72.8777
+    },
+    "scope": "Mumbai dal 1970 al 25 giugno 2026: deindustrializzazione tessile e servizi finanziari, sciopero del 1982, crescita della regione metropolitana, edilizia informale e riqualificazione, violenza comunitaria, rete ferroviaria e metro, grandi collegamenti, alluvioni, calore e rischio costiero.",
+    "version": "1.0",
+    "warning": "Obiettivi climatici al 2050 e infrastrutture con completamento successivo al 25 giugno 2026 sono indicati come piani o progetti futuri."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MU1",
+      "title": "Brihanmumbai Municipal Corporation — Mumbai Climate Action Plan",
+      "use": "Rischi costieri, calore, alluvioni, emissioni e inclusione.",
+      "url": "https://www.mcgm.gov.in/irj/go/km/docs/documents/Environment/Climate/MCAP%20Summary%20for%20Policymakers.pdf"
+    },
+    {
+      "id": "MU2",
+      "title": "BMC — Climate Budget Report FY 2025–26",
+      "use": "Attuazione e integrazione delle azioni climatiche nel bilancio urbano.",
+      "url": "https://mcap.mcgm.gov.in/wp-content/uploads/2025/06/English_CB-Report-2025-26_digital.pdf"
+    },
+    {
+      "id": "MU3",
+      "title": "World Bank — Exposure and Vulnerability of Poor Households to Floods in Mumbai",
+      "use": "Alluvioni ricorrenti, povertà urbana e capacità di risposta.",
+      "url": "https://openknowledge.worldbank.org/server/api/core/bitstreams/8cda88be-b80d-5e55-ac49-8bfbf30c5425/content"
+    },
+    {
+      "id": "MU4",
+      "title": "MMRDA — Mumbai Trans Harbour Link Project Report",
+      "use": "Collegamento metropolitano, infrastrutture e valutazioni ambientali.",
+      "url": "https://mmrda.maharashtra.gov.in/sites/default/files/2021-12/Report%20%281%29.pdf"
+    }
+  ]
+}

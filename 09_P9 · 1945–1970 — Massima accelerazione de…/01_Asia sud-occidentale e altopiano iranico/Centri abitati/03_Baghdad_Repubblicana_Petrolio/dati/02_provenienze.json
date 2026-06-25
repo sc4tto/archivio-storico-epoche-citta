@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Baghdad",
+      "lat": 33.3152,
+      "lon": 44.3661,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "diy",
+      "label": "Diyala e cintura irrigua",
+      "lat": 33.4,
+      "lon": 45.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "sam",
+      "label": "Samarra e medio Tigri",
+      "lat": 34.2,
+      "lon": 43.9,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "hil",
+      "label": "Hilla e Babilonia",
+      "lat": 32.47,
+      "lon": 44.43,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "bas",
+      "label": "Bassora e Golfo",
+      "lat": 30.5,
+      "lon": 47.8,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "mos",
+      "label": "Mosul e nord Iraq",
+      "lat": 36.34,
+      "lon": 43.13,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "oil",
+      "label": "Kirkuk e campi petroliferi",
+      "lat": 35.47,
+      "lon": 44.39,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "diy",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali e strade",
+      "food": "grano, ortaggi, frutta e acqua"
+    },
+    {
+      "source": "sam",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e Tigri",
+      "food": "cereali, bestiame e prodotti fluviali"
+    },
+    {
+      "source": "hil",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e fiume",
+      "food": "datteri, riso e prodotti agricoli"
+    },
+    {
+      "source": "bas",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e navigazione",
+      "food": "merci portuali, pesce e importazioni"
+    },
+    {
+      "source": "mos",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e strade",
+      "food": "grano, lana e manufatti"
+    },
+    {
+      "source": "oil",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "oleodotti e bilancio statale",
+      "food": "entrate petrolifere, carburanti e investimenti"
+    }
+  ]
+}

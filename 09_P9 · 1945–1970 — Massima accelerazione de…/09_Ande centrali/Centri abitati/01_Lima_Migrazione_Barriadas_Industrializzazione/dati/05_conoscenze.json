@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Lima, migrazione, barriadas e metropoli industriale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Migrazione e reti sociali",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Catene familiari, associazioni regionali, lavoro e commercio",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Identità andine e costiere rielaborate nella capitale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Barriadas e cittadinanza",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Occupazione, tracciamento, comitati, autocostruzione e servizi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Negoziazione con Stato e municipalità per riconoscimento e titoli",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Industria e approvvigionamento",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Fabbriche, porto, mercati, camion e ferrovie",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Dipendenza da reti nazionali e distribuzione diseguale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Rischio e infrastrutture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Terremoti, deserti, pendii, acqua e drenaggio",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Consolidamento progressivo e vulnerabilità dei quartieri poveri",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Politica e riforme",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Municipalità, governi civili, legge 13517 e regime militare",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Organizzazione popolare, sindacati e conflitti sulla terra urbana",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

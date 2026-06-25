@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Xihuatoxtla",
+      "lat": 18.3,
+      "lon": -99.52,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "balsas",
+      "label": "Valle centrale del Balsas",
+      "lat": 18.25,
+      "lon": -99.55,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "teosinte",
+      "label": "Habitat del teosinte del Balsas",
+      "lat": 18.1,
+      "lon": -99.6,
+      "status": "sintesi",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "iguala",
+      "label": "Bacino di Iguala",
+      "lat": 18.35,
+      "lon": -99.54,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "guerrero",
+      "label": "Montagne del Guerrero",
+      "lat": 17.8,
+      "lon": -99.8,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "mexico",
+      "label": "Reti dell’altopiano e del Pacifico",
+      "lat": 18.5,
+      "lon": -100.5,
+      "status": "inferito",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "balsas",
+      "target": "site",
+      "label": "acqua, terreni e mobilità",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "teosinte",
+      "target": "site",
+      "label": "teosinte e raccolte vegetali",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "iguala",
+      "target": "site",
+      "label": "pietra e risorse regionali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "guerrero",
+      "target": "site",
+      "label": "caccia e materie prime",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "mexico",
+      "target": "site",
+      "label": "diffusione di piante e saperi",
+      "status": "inferito",
+      "food": "parziale"
+    }
+  ]
+}

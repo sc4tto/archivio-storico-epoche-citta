@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Pueblo Bonito",
+      "lat": 36.0606,
+      "lon": -107.9617,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "vida",
+      "label": "Una Vida",
+      "lat": 36.064,
+      "lon": -107.934,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "blanco",
+      "label": "Peñasco Blanco",
+      "lat": 36.071,
+      "lon": -108.012,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "alto",
+      "label": "Pueblo Alto",
+      "lat": 36.076,
+      "lon": -107.958,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "sanjuan",
+      "label": "Bacino del San Juan",
+      "lat": 36.75,
+      "lon": -108.2,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "chuska",
+      "label": "Monti Chuska",
+      "lat": 36.35,
+      "lon": -109.1,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "meso",
+      "label": "Mesoamerica settentrionale",
+      "lat": 28.5,
+      "lon": -107.5,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "vida",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete interna del canyon",
+      "food": "derrate e partecipanti"
+    },
+    {
+      "source": "blanco",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "connessioni fra grandi case",
+      "food": "beni e cerimonie"
+    },
+    {
+      "source": "alto",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "scambi e produzione artigianale",
+      "food": "turchese e selce"
+    },
+    {
+      "source": "sanjuan",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete regionale",
+      "food": "mais, ceramica e legname"
+    },
+    {
+      "source": "chuska",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "approvvigionamento montano",
+      "food": "travi e risorse forestali"
+    },
+    {
+      "source": "meso",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "scambio a lunga distanza",
+      "food": "cacao, rame e ara"
+    }
+  ]
+}

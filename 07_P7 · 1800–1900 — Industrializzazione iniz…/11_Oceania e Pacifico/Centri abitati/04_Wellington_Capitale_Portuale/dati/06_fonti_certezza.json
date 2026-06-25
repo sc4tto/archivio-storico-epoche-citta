@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Wellington divenne capitale della Nuova Zelanda nel 1865.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "WE1; WE4"
+  },
+  {
+    "claim": "L’insediamento coloniale fu legato a controversie fondiarie con Māori.",
+    "theme": "indigeni",
+    "status": "documentato",
+    "source": "WE3; WE5"
+  },
+  {
+    "claim": "Porto e bonifiche trasformarono Te Whanganui-a-Tara.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "WE2; WE3"
+  },
+  {
+    "claim": "Terremoti e rialzi costieri condizionarono il paesaggio urbano.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "WE2; WE3"
+  },
+  {
+    "claim": "Government Buildings rappresenta l’amministrazione coloniale ottocentesca.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "WE2; WE4"
+  },
+  {
+    "claim": "Ferrovie e linee di cabotaggio integrarono la regione.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "WE2; WE4"
+  },
+  {
+    "claim": "La crescita portuale produsse anche marginalizzazione e disuguaglianze.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "WE3; WE5"
+  },
+  {
+    "claim": "Le infrastrutture parlamentari novecentesche sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "WE1; WE2"
+  }
+]

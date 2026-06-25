@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Ban Non Wat conserva una lunga sequenza neolitica e bronzea",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "BNW_FAD"
+  },
+  {
+    "claim": "Il sito comprende centinaia di sepolture",
+    "theme": "Funerario",
+    "status": "documentato",
+    "source": "BNW_CAJ"
+  },
+  {
+    "claim": "I corredi bronzei mostrano differenze sociali",
+    "theme": "Società",
+    "status": "sintesi",
+    "source": "BNW_CAJ"
+  },
+  {
+    "claim": "La cronologia è stata modellata con numerose date radiocarboniche",
+    "theme": "Metodo",
+    "status": "documentato",
+    "source": "BNW_ANTIQUITY"
+  },
+  {
+    "claim": "Il bronzo fu introdotto senza trasformazioni sociali",
+    "theme": "Metallurgia",
+    "status": "non_documentato",
+    "source": "Cambiamenti funerari documentati"
+  },
+  {
+    "claim": "Ogni gruppo di tombe coincide con un clan noto",
+    "theme": "Parentela",
+    "status": "non_documentato",
+    "source": "Interpretazione non dimostrata"
+  },
+  {
+    "claim": "Il villaggio fu sempre densamente occupato",
+    "theme": "Insediamento",
+    "status": "non_documentato",
+    "source": "Intensità variabile"
+  },
+  {
+    "claim": "Le datazioni sono prive di discussione",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Dibattito metodologico"
+  }
+]

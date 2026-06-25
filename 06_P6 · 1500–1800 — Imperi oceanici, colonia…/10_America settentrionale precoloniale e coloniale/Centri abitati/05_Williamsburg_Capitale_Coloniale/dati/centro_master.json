@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Williamsburg, capitale coloniale della Virginia",
+    "site": "Williamsburg, capitale coloniale della Virginia",
+    "modern_location": "Williamsburg, Virginia, Stati Uniti",
+    "coordinates": {
+      "lat": 37.2707,
+      "lon": -76.7075
+    },
+    "scope": "Williamsburg fra 1699 e 1800: Duke of Gloucester Street, Capitol, Governor’s Palace, college, chiesa, tribunali, botteghe, taverne e relazioni con piantagioni e Tidewater.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1800. Restauro novecentesco di Colonial Williamsburg e ricostruzioni moderne sono distinti dalle strutture storiche e non retrodatati."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "WI1",
+      "title": "Colonial Williamsburg — History",
+      "use": "Capitale, edifici pubblici e società coloniale.",
+      "url": "https://www.colonialwilliamsburg.org/learn/"
+    },
+    {
+      "id": "WI2",
+      "title": "National Park Service — Colonial National Historical Park",
+      "use": "Contesto di Jamestown, Yorktown e Virginia coloniale.",
+      "url": "https://www.nps.gov/colo/"
+    },
+    {
+      "id": "WI3",
+      "title": "Encyclopaedia Britannica — Williamsburg",
+      "use": "Storia della capitale coloniale.",
+      "url": "https://www.britannica.com/place/Williamsburg-Virginia"
+    },
+    {
+      "id": "WI4",
+      "title": "Library of Virginia",
+      "use": "Fonti amministrative e sociali della Virginia.",
+      "url": "https://www.lva.virginia.gov/"
+    },
+    {
+      "id": "WI5",
+      "title": "William & Mary — Special Collections",
+      "use": "Istruzione, cartografia e storia locale.",
+      "url": "https://libraries.wm.edu/research/special-collections"
+    }
+  ]
+}

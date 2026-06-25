@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Bisanzio greca e romana",
+    "Rifondazione di Costantino",
+    "Costruzione di fori e palazzi",
+    "Espansione teodosiana",
+    "Capitale cristiana del V secolo"
+  ],
+  "items": [
+    {
+      "id": "palace",
+      "label": "Grande Palazzo e spazi di corte",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "hippo",
+      "label": "Ippodromo",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "forums",
+      "label": "Fori e assi cerimoniali",
+      "lane": "Amministrative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "ports",
+      "label": "Porti e horrea",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "walls",
+      "label": "Mura costantiniane e teodosiane",
+      "lane": "Difensive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "water",
+      "label": "Acquedotti e cisterne",
+      "lane": "Territorio",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "churches",
+      "label": "Chiese costantiniane e teodosiane",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

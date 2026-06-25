@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Cahuachi–Nasca — modulo multi-grafo",
+    "short_name": "Cahuachi–Nasca",
+    "site": "Centro cerimoniale di Cahuachi e paesaggio di Nasca",
+    "modern_location": "Valle di Nasca, regione di Ica, Perù",
+    "coordinates": {
+      "lat": -14.82,
+      "lon": -75.13
+    },
+    "scope": "Grande centro cerimoniale della tradizione Nasca, attivo soprattutto nei primi secoli d.C., inserito in un paesaggio arido di valli irrigate, geoglifi, necropoli, percorsi rituali e reti fra costa e altopiani.",
+    "version": "1.0-blocco_34_p3_ande_centrali_5_centri_v1",
+    "warning": "Cahuachi non va presentata automaticamente come capitale densamente abitata: molte interpretazioni la descrivono come centro cerimoniale e di pellegrinaggio con popolazione permanente limitata. La funzione precisa dei geoglifi resta discussa."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "NASCA_UNESCO",
+      "title": "UNESCO — Lines and Geoglyphs of Nasca and Palpa",
+      "url": "https://whc.unesco.org/en/list/700/",
+      "use": "cronologia, paesaggio rituale, tecnica e conservazione"
+    },
+    {
+      "id": "CAHUACHI_SILVERMAN",
+      "title": "Helaine Silverman — Cahuachi in the Ancient Nasca World",
+      "url": "https://search.worldcat.org/search?q=Cahuachi+Ancient+Nasca+World+Silverman",
+      "use": "funzione cerimoniale, insediamento e società"
+    },
+    {
+      "id": "NASCA_OREFICI",
+      "title": "Giuseppe Orefici — Cahuachi e il mondo Nasca",
+      "url": "https://search.worldcat.org/search?q=Giuseppe+Orefici+Cahuachi",
+      "use": "architettura, scavi e conservazione"
+    }
+  ]
+}

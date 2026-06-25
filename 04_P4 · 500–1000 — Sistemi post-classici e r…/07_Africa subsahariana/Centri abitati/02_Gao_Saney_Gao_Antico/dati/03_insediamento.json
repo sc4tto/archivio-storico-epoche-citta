@@ -1,0 +1,74 @@
+{
+  "phases": [
+    "500–700",
+    "700–800",
+    "800–900",
+    "900–1000"
+  ],
+  "items": [
+    {
+      "id": "gg1",
+      "label": "Precedenti insediativi lungo il Niger",
+      "lane": "Abitato",
+      "start": 0,
+      "end": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "gg2",
+      "label": "Crescita di Gao-Saney come centro produttivo",
+      "lane": "Abitato",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "gg3",
+      "label": "Metallurgia del ferro, rame e lavorazione del vetro",
+      "lane": "Produzione",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "gg4",
+      "label": "Intensificazione degli scambi transahariani",
+      "lane": "Commercio",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "gg5",
+      "label": "Prime attestazioni scritte arabe di Kawkaw",
+      "lane": "Testi",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "gg6",
+      "label": "Presenza di mercanti musulmani e nuovi beni",
+      "lane": "Religione e scambi",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "gg7",
+      "label": "Consolidamento di Gao antico come polo regale",
+      "lane": "Politica",
+      "start": 3,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "gg8",
+      "label": "Sistema urbano a più nuclei sul Niger",
+      "lane": "Urbanistica",
+      "start": 2,
+      "end": 3,
+      "status": "sintesi"
+    }
+  ]
+}

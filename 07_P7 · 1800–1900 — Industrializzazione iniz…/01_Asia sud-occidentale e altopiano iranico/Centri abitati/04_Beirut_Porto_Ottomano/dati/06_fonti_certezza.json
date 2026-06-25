@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Beirut crebbe rapidamente come porto commerciale nel XIX secolo.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "BE1; BE3"
+  },
+  {
+    "claim": "Il commercio della seta collegò Monte Libano, Beirut ed Europa.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "BE1; BE2"
+  },
+  {
+    "claim": "La strada per Damasco rafforzò il ruolo regionale della città.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "BE1; BE3"
+  },
+  {
+    "claim": "Scuole, università e tipografie fecero di Beirut un centro culturale.",
+    "theme": "istruzione",
+    "status": "documentato",
+    "source": "BE1; BE2"
+  },
+  {
+    "claim": "La violenza del 1860 provocò morti, profughi e mutamenti sociali.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "BE1; BE2"
+  },
+  {
+    "claim": "La municipalità e il porto moderno riorganizzarono lo spazio urbano.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "BE1; BE5"
+  },
+  {
+    "claim": "La dipendenza dai mercati europei rese fragile l’economia della seta.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "BE1; BE3"
+  },
+  {
+    "claim": "Il mandato francese successivo al 1900 è escluso.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "BE1"
+  }
+]

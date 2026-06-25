@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Madras",
+      "lat": 13.0827,
+      "lon": 80.2707,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "cor",
+      "label": "Costa del Coromandel",
+      "lat": 12.5,
+      "lon": 80.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "che",
+      "label": "Chengalpattu e hinterland",
+      "lat": 12.7,
+      "lon": 79.98,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "arc",
+      "label": "Arcot e distretti interni",
+      "lat": 12.9,
+      "lon": 79.1,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "dec",
+      "label": "Deccan meridionale",
+      "lat": 14.0,
+      "lon": 77.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "cyl",
+      "label": "Ceylon e stretto di Palk",
+      "lat": 9.5,
+      "lon": 80.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "bay",
+      "label": "Baia del Bengala, Birmania e Europa",
+      "lat": 12.0,
+      "lon": 88.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "cor",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e catamarani",
+      "food": "riso, pesce, sale e prodotti costieri"
+    },
+    {
+      "source": "che",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e ferrovia suburbana",
+      "food": "verdure, latte, legna e materiali"
+    },
+    {
+      "source": "arc",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carri, canali e ferrovia",
+      "food": "riso, cotone, cuoio e bestiame"
+    },
+    {
+      "source": "dec",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Southern Railway",
+      "food": "miglio, arachidi, cotone e minerali"
+    },
+    {
+      "source": "cyl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione costiera",
+      "food": "caffè, tè, cocco e lavoratori migranti"
+    },
+    {
+      "source": "bay",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto e navigazione a vapore",
+      "food": "riso birmano, macchinari, tessili e merci globali"
+    }
+  ]
+}

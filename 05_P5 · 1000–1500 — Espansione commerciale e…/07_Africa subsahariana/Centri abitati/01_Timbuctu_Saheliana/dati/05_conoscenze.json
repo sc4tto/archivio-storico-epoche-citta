@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Timbuctù saheliana e intellettuale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Terra cruda",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Mattoni e murature massive",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Manutenzione comunitaria degli intonaci",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Carovane transahariane",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Mercati di oro, sale e manoscritti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Religione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Moschee e scuole coraniche",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Diritto e insegnamento islamico",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Acqua",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Pozzi e cisterne",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Trasporto dal Niger e da Kabara",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Scrittura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Copiatura e conservazione di manoscritti",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Reti di studiosi e biblioteche",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

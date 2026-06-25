@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Calcutta",
+      "lat": 22.5726,
+      "lon": 88.3639,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "del",
+      "label": "Delta del Bengala",
+      "lat": 22.2,
+      "lon": 89.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "hug",
+      "label": "Valle del Hooghly",
+      "lat": 23.0,
+      "lon": 88.3,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "bur",
+      "label": "Burdwan e Raniganj",
+      "lat": 23.55,
+      "lon": 87.3,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "bih",
+      "label": "Bihar e valle del Gange",
+      "lat": 25.6,
+      "lon": 85.1,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "ass",
+      "label": "Assam e Bengala orientale",
+      "lat": 25.5,
+      "lon": 91.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "sea",
+      "label": "Baia del Bengala, Europa e Cina",
+      "lat": 15.0,
+      "lon": 90.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "del",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiumi, canali e battelli",
+      "food": "riso, pesce, juta e prodotti del delta"
+    },
+    {
+      "source": "hug",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade, ferrovia e Hooghly",
+      "food": "ortaggi, frutta, latte e manodopera"
+    },
+    {
+      "source": "bur",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "East Indian Railway",
+      "food": "carbone, riso e materiali da costruzione"
+    },
+    {
+      "source": "bih",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Gange e ferrovia, entro regimi coloniali diseguali",
+      "food": "grano, oppio, bestiame e lavoratori migranti"
+    },
+    {
+      "source": "ass",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiume, ferrovia e porto",
+      "food": "tè, legname e prodotti delle piantagioni"
+    },
+    {
+      "source": "sea",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto e navigazione a vapore",
+      "food": "macchinari, tessili, argento e merci oceaniche"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Insediamento iniziale sulle colline",
+    "Costruzione di terrapieni e terrazze",
+    "Sviluppo delle officine",
+    "Apogeo delle reti transasiatiche",
+    "Declino e abbandono"
+  ],
+  "items": [
+    {
+      "id": "terraces",
+      "label": "Terrazze e terrapieni",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Strutture lignee e percorsi",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "glass",
+      "label": "Officine di vetro",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "stone",
+      "label": "Produzione di ornamenti in pietra",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "metal",
+      "label": "Metallurgia del rame e del ferro",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "port",
+      "label": "Approdi e magazzini",
+      "lane": "Territorio",
+      "start": 2,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "burial",
+      "label": "Sepolture e urne",
+      "lane": "Rituali",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

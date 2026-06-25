@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Uso mesolitico",
+    "Edifici trapezoidali",
+    "Fase di trasformazione",
+    "Lepenski Vir III",
+    "Fine dell’occupazione principale"
+  ],
+  "items": [
+    {
+      "id": "river",
+      "label": "Frequentazione della terrazza fluviale",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "floors",
+      "label": "Edifici con pavimenti calcarei trapezoidali",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "hearths",
+      "label": "Focolari assiali e zone interne organizzate",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "sculpt",
+      "label": "Sculture e ciottoli lavorati",
+      "lane": "Comunitarie",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "burial",
+      "label": "Sepolture dentro e fra gli edifici",
+      "lane": "Funerarie",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ceramic",
+      "label": "Ceramica e animali domestici nelle fasi tarde",
+      "lane": "Trasformazione",
+      "start": 2,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "planning",
+      "label": "Disposizione ordinata verso il Danubio",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    }
+  ]
+}

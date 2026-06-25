@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "rn1",
+      "label": "Espansione degli insediamenti e dei lignaggi",
+      "lane": "Insediamento",
+      "start": 0,
+      "end": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "rn2",
+      "label": "Costruzione e ampliamento degli ahu",
+      "lane": "Costruzione",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "rn3",
+      "label": "Produzione intensiva dei moai a Rano Raraku",
+      "lane": "Scultura",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "rn4",
+      "label": "Trasporto ed erezione delle statue",
+      "lane": "Infrastrutture",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "rn5",
+      "label": "Sviluppo di giardini litici e manavai",
+      "lane": "Agricoltura",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "rn6",
+      "label": "Villaggi, case-boat e spazi produttivi",
+      "lane": "Urbanistica",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "rn7",
+      "label": "Crescita della competizione fra lignaggi",
+      "lane": "Politica",
+      "start": 2,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "rn8",
+      "label": "Trasformazioni rituali verso il XVI secolo",
+      "lane": "Religione",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

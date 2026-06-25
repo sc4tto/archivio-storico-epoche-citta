@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Lalibela",
+      "lat": 12.0317,
+      "lon": 39.0476,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "las",
+      "label": "Lasta",
+      "lat": 12.15,
+      "lon": 39.05,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "mek",
+      "label": "Meket",
+      "lat": 11.75,
+      "lon": 38.75,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "aks",
+      "label": "Aksum",
+      "lat": 14.13,
+      "lon": 38.72,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "tan",
+      "label": "Lago Tana",
+      "lat": 12.02,
+      "lon": 37.3,
+      "status": "sintesi",
+      "kind": "locale"
+    },
+    {
+      "id": "mas",
+      "label": "Massaua",
+      "lat": 15.61,
+      "lon": 39.45,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "jer",
+      "label": "Gerusalemme",
+      "lat": 31.78,
+      "lon": 35.22,
+      "status": "non_documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "las",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "campi e pascoli locali",
+      "food": "cereali, miele e bestiame"
+    },
+    {
+      "source": "mek",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete degli altopiani",
+      "food": "legumi e animali"
+    },
+    {
+      "source": "aks",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "asse ecclesiastico settentrionale",
+      "food": "clero, manoscritti e beni liturgici"
+    },
+    {
+      "source": "tan",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "rete monastica e regale",
+      "food": "manoscritti e pellegrini"
+    },
+    {
+      "source": "mas",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "collegamenti verso il Mar Rosso",
+      "food": "sale e beni importati"
+    },
+    {
+      "source": "jer",
+      "target": "ctr",
+      "status": "non_documentato",
+      "label": "relazione simbolica, non approvvigionamento diretto",
+      "food": "modello della Terra Santa"
+    }
+  ]
+}

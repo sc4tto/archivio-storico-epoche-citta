@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Pachacamac è un santuario archeologico di lunga durata",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "PACHA_MUSEUM"
+  },
+  {
+    "claim": "Le prime fasi monumentali comprendono edifici in adobe",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "PACHA_EECKHOUT"
+  },
+  {
+    "claim": "Il sito era collegato alla valle di Lurín e alle risorse costiere",
+    "theme": "Paesaggio",
+    "status": "documentato",
+    "source": "PACHA_MUSEUM"
+  },
+  {
+    "claim": "Tutti gli edifici oggi visitabili appartengono al periodo precedente al 500",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Molti sono Wari, Ychsma o inca"
+  },
+  {
+    "claim": "Offerte e sepolture documentano una funzione rituale",
+    "theme": "Rituali",
+    "status": "documentato",
+    "source": "PACHA_SHIMADA"
+  },
+  {
+    "claim": "Il santuario aveva già una rete panandina pienamente sviluppata nel P3",
+    "theme": "Relazioni",
+    "status": "non_documentato",
+    "source": "Crescita soprattutto successiva"
+  },
+  {
+    "claim": "Il museo e il progetto di ricerca conservano e studiano collezioni del sito",
+    "theme": "Metodo",
+    "status": "documentato",
+    "source": "PACHA_MUSEUM"
+  },
+  {
+    "claim": "Le funzioni degli edifici cambiarono nel corso dei secoli",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "PACHA_EECKHOUT"
+  }
+]

@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Persepoli",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Terrazza",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Colonne slanciate",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Scale monumentali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Amministrazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Razioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Viaggiatori",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Sigilli",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Lingue",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Elamita",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Aramaico",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Antico persiano",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Arte",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Rilievi di delegazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Capitelli animali",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Policromia",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Logistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Strade imperiali",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Magazzini",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Distribuzione di viveri",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Funzione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Centro cerimoniale",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Sede amministrativa",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Capitale unica permanente",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

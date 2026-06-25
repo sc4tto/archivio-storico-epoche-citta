@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Timbuctù divenne un importante centro commerciale e spirituale del Sahel.",
+    "theme": "urbanizzazione",
+    "status": "documentato",
+    "source": "TI1; TI2"
+  },
+  {
+    "claim": "Le moschee monumentali sono esempi di architettura in terra cruda.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "TI1; TI3"
+  },
+  {
+    "claim": "Il commercio collegava il Niger, il Sahara e il Maghreb.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "TI2; TI4"
+  },
+  {
+    "claim": "Sankore e altre scuole sostennero la cultura manoscritta.",
+    "theme": "conoscenza",
+    "status": "documentato",
+    "source": "TI1; TI5"
+  },
+  {
+    "claim": "Djingareyber risale al patronato del XIV secolo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "TI1"
+  },
+  {
+    "claim": "L’approvvigionamento dipendeva da vie fluviali e carovaniere.",
+    "theme": "alimentazione",
+    "status": "sintesi",
+    "source": "TI2; TI4"
+  },
+  {
+    "claim": "La manutenzione degli edifici in terra richiedeva interventi periodici.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "TI1; TI3"
+  },
+  {
+    "claim": "Il pieno apogeo del XVI secolo è fuori dal periodo P5.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "TI1"
+  }
+]

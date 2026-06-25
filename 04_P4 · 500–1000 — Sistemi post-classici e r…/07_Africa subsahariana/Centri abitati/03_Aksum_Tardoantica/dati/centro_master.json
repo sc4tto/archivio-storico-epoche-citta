@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Aksum tardoantica",
+    "site": "Aksum e altopiano tigrino",
+    "modern_location": "Aksum, Tigray, Etiopia",
+    "coordinates": {
+      "lat": 14.1307,
+      "lon": 38.7223
+    },
+    "scope": "Aksum fra 500 e 1000: tarda fase regale, reti del Mar Rosso, agricoltura degli altopiani, chiese, palazzi e progressivo ridimensionamento politico.",
+    "version": "1.0",
+    "warning": "Molti monumenti principali iniziano prima del 500; nel modulo sono inclusi come infrastrutture e tradizioni ancora attive, distinguendo continuità, trasformazioni e declino."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "A1",
+      "title": "UNESCO World Heritage Centre — Aksum",
+      "use": "Monumenti, cronologia e ruolo del regno aksumita.",
+      "url": "https://whc.unesco.org/en/list/15/"
+    },
+    {
+      "id": "A2",
+      "title": "The Metropolitan Museum of Art — Aksum",
+      "use": "Commercio, cristianesimo, moneta e cultura materiale aksumita.",
+      "url": "https://www.metmuseum.org/toah/hd/aksu/hd_aksu.htm"
+    },
+    {
+      "id": "A3",
+      "title": "Stuart Munro-Hay — Aksum: An African Civilisation of Late Antiquity",
+      "use": "Sintesi storica, archeologica e numismatica.",
+      "url": "https://archive.org/details/aksumafricancivi0000munr"
+    },
+    {
+      "id": "A4",
+      "title": "British Museum — Ancient Ethiopia and Aksum",
+      "use": "Archeologia degli altopiani e connessioni del Mar Rosso.",
+      "url": "https://www.britishmuseum.org/collection/galleries/africa"
+    },
+    {
+      "id": "A5",
+      "title": "UNESCO — Aksum nomination documents",
+      "use": "Descrizione dei complessi archeologici e del paesaggio monumentale.",
+      "url": "https://whc.unesco.org/en/list/15/documents/"
+    }
+  ]
+}

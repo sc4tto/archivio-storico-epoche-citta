@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Antica Dongola fu capitale del regno di Makuria",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "DON_PCMA"
+  },
+  {
+    "claim": "La città comprendeva cittadella, palazzi, chiese e quartieri",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "DON_PCMA"
+  },
+  {
+    "claim": "La Sala del Trono fu costruita nel IX secolo",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "DON_GUIDE"
+  },
+  {
+    "claim": "Il Nilo sosteneva agricoltura e trasporto",
+    "theme": "Ambiente",
+    "status": "sintesi",
+    "source": "DON_PCMA"
+  },
+  {
+    "claim": "La Sala del Trono era già una moschea nel P4",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Conversione nel 1317"
+  },
+  {
+    "claim": "Il Baqt funzionò in modo immutato per tutto il periodo",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Pratiche e interpretazioni variarono"
+  },
+  {
+    "claim": "Tutte le pitture oggi note appartengono al 500–1000",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Molte sono posteriori"
+  },
+  {
+    "claim": "La città collegava valle del Nilo e rotte verso l’interno africano",
+    "theme": "Reti",
+    "status": "sintesi",
+    "source": "DON_UMMA"
+  }
+]

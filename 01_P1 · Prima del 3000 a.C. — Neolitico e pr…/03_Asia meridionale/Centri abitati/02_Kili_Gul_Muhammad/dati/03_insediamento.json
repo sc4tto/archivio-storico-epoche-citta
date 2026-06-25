@@ -1,0 +1,59 @@
+{
+  "phases": [
+    "Neolitico iniziale",
+    "Neolitico ceramico",
+    "Calcolitico iniziale",
+    "Calcolitico sviluppato",
+    "Transizione regionale"
+  ],
+  "items": [
+    {
+      "id": "huts",
+      "label": "Capanne e strutture leggere nelle fasi iniziali",
+      "lane": "Abitazioni",
+      "start": 0,
+      "end": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "mud",
+      "label": "Crescita dell’uso di fango e mattoni crudi",
+      "lane": "Costruzione",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "storage",
+      "label": "Fosse e contenitori di deposito",
+      "lane": "Conservazione",
+      "start": 0,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "pottery",
+      "label": "Produzione ceramica crescente",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "herding",
+      "label": "Aree collegate all’allevamento",
+      "lane": "Economia",
+      "start": 0,
+      "end": 4,
+      "status": "inferito"
+    },
+    {
+      "id": "renew",
+      "label": "Ricostruzioni e sovrapposizioni",
+      "lane": "Manutenzione",
+      "start": 0,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Sydney",
+      "lat": -33.8688,
+      "lon": 151.2093,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "haw",
+      "label": "Hawkesbury e orti periurbani",
+      "lat": -33.55,
+      "lon": 150.85,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "ill",
+      "label": "Illawarra",
+      "lat": -34.43,
+      "lon": 150.89,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "riv",
+      "label": "Riverina",
+      "lat": -34.9,
+      "lon": 146.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "hun",
+      "label": "Hunter Valley",
+      "lat": -32.73,
+      "lon": 151.56,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "pac",
+      "label": "Pacifico meridionale",
+      "lat": -34.0,
+      "lon": 154.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "mel",
+      "label": "Melbourne e corridoio costiero",
+      "lat": -37.81,
+      "lon": 144.96,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "haw",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e ferrovie",
+      "food": "latte, ortaggi, frutta e pollame"
+    },
+    {
+      "source": "ill",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e camion",
+      "food": "carbone, acciaio, latticini e lavoratori"
+    },
+    {
+      "source": "riv",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e autocarri refrigerati",
+      "food": "grano, carne, lana e frutta"
+    },
+    {
+      "source": "hun",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e strade",
+      "food": "carbone, vino, latte e ortaggi"
+    },
+    {
+      "source": "pac",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navi e pesca costiera",
+      "food": "pesce, zucchero, caffè e importazioni"
+    },
+    {
+      "source": "mel",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione costiera, ferrovia e strada",
+      "food": "manufatti, alimenti e migranti"
+    }
+  ]
+}

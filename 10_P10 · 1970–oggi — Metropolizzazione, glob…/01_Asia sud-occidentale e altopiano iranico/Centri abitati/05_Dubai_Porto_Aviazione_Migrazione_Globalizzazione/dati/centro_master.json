@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Dubai, porto, aviazione, migrazione e urbanismo globale",
+    "site": "Dubai, porto, aviazione, migrazione e urbanismo globale",
+    "modern_location": "Dubai, Emirati Arabi Uniti",
+    "coordinates": {
+      "lat": 25.2048,
+      "lon": 55.2708
+    },
+    "scope": "Dubai dal 1970 al 25 giugno 2026: federazione degli Emirati, porto di Jebel Ali, aviazione e logistica, zone franche, edilizia ad alta intensità, turismo, finanza, metro, consumo di acqua ed energia, piano futuro Dubai 2040 e forte dipendenza dal lavoro migrante nella costruzione e nei servizi.",
+    "version": "1.0",
+    "warning": "Dubai 2040 e la Blue Line sono descritti come piani o cantieri quando non completati al 25 giugno 2026. Nessun obiettivo futuro viene registrato come risultato acquisito."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "DU1",
+      "title": "Government of Dubai — Dubai 2040 Urban Master Plan",
+      "use": "Pianificazione policentrica, qualità della vita e uso del suolo.",
+      "url": "https://www.protocol.dubai.ae/en/media-listing/news-events/mohammed-bin-rashid-launches-dubai-2040-urban-master-plan/"
+    },
+    {
+      "id": "DU2",
+      "title": "Dubai Statistics Center — Population and Vital Statistics",
+      "use": "Serie censuarie e trasformazione demografica dal 1975.",
+      "url": "https://www.dsc.gov.ae/Publication/%D8%A7%D9%84%D8%A8%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A3%D9%88%D9%84-%D8%A7%D9%84%D8%B3%D9%83%D8%A7%D9%86%20%D9%88%D8%A7%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1%D8%A7%20%D8%A7%D9%84%D8%AD%D9%8A%D9%88%D9%8A%D8%A9.pdf"
+    },
+    {
+      "id": "DU3",
+      "title": "ILO — United Arab Emirates",
+      "use": "Peso del lavoro migrante, diritto del lavoro e composizione della forza lavoro.",
+      "url": "https://www.ilo.org/regions-and-countries/arab-states/united-arab-emirates"
+    },
+    {
+      "id": "DU4",
+      "title": "Government of Dubai — Tunnelling Works for Dubai Metro Blue Line",
+      "use": "Stato del progetto Blue Line al 3 maggio 2026 e relazione con il piano 2040.",
+      "url": "https://www.protocol.dubai.ae/en/media-listing/news-events/mohammed-bin-rashid-launches-tunnelling-works-for-dubai-metro-blue-line-reviews-design-concepts-for-upcoming-stations/"
+    }
+  ]
+}

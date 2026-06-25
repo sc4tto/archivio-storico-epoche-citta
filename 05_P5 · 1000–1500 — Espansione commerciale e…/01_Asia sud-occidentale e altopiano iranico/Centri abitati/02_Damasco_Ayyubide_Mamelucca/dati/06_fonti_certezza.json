@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Damasco fu un importante centro artigianale e commerciale nel Medioevo.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "DA1; DA3"
+  },
+  {
+    "claim": "Mura, cittadella, madrase e mausolei conservano importanti fasi medievali.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "DA1; DA2"
+  },
+  {
+    "claim": "La Ghouta e i canali del Barada sostenevano l’approvvigionamento urbano.",
+    "theme": "ambiente",
+    "status": "documentato",
+    "source": "DA3; DA5"
+  },
+  {
+    "claim": "La città fu più volte capitale di rami ayyubidi.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "DA3; DA4"
+  },
+  {
+    "claim": "Il sistema mamelucco integrò Damasco con Cairo e le rotte del pellegrinaggio.",
+    "theme": "commercio",
+    "status": "documentato",
+    "source": "DA3; DA5"
+  },
+  {
+    "claim": "Molte residenze oggi visibili furono trasformate in età ottomana.",
+    "theme": "certezza",
+    "status": "documentato",
+    "source": "DA1; DA2"
+  },
+  {
+    "claim": "La Grande Moschea rimase il fulcro urbano nonostante la sua fondazione anteriore.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "DA1"
+  },
+  {
+    "claim": "Le ricostruzioni di singoli mestieri e quartieri variano nel tempo.",
+    "theme": "certezza",
+    "status": "sintesi",
+    "source": "DA1; DA2"
+  }
+]

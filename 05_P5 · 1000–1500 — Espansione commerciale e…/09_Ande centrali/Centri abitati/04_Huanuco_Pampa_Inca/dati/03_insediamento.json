@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "hu1",
+      "label": "Paesaggi e insediamenti regionali pre-inca",
+      "lane": "Insediamento",
+      "start": 0,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "hu2",
+      "label": "Incorporazione della regione nel Chinchaysuyu",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "hu3",
+      "label": "Fondazione del centro amministrativo",
+      "lane": "Urbanistica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "hu4",
+      "label": "Grande plaza, ushnu e kallanka",
+      "lane": "Costruzione",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "hu5",
+      "label": "Costruzione dei quartieri residenziali",
+      "lane": "Società",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "hu6",
+      "label": "Sistema esteso di qollqa",
+      "lane": "Economia",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "hu7",
+      "label": "Collegamento diretto al Qhapaq Ñan",
+      "lane": "Infrastrutture",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "hu8",
+      "label": "Uso cerimoniale e redistributivo prima del 1500",
+      "lane": "Amministrazione",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

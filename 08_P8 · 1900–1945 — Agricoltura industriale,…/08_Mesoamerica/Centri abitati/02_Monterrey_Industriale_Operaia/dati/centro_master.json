@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Monterrey industriale e operaia",
+    "site": "Monterrey industriale e operaia",
+    "modern_location": "Monterrey, Nuevo León, Messico",
+    "coordinates": {
+      "lat": 25.6866,
+      "lon": -100.3161
+    },
+    "scope": "Monterrey fra 1900 e 1945: Fundidora, Cervecería Cuauhtémoc, vetro, cemento, rivoluzione, piena del 1909, sindacati, istruzione tecnica e produzione bellica.",
+    "version": "1.0",
+    "warning": "Sono escluse la metropolizzazione postbellica, le grandi autostrade e la riconversione di Fundidora in parco urbano."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MO1",
+      "title": "Encyclopaedia Britannica — Monterrey",
+      "use": "Storia, industria e ruolo regionale.",
+      "url": "https://www.britannica.com/place/Monterrey-Mexico"
+    },
+    {
+      "id": "MO2",
+      "title": "Museo del Acero Horno 3",
+      "use": "Siderurgia, lavoro e patrimonio industriale.",
+      "url": "https://www.horno3.org/"
+    },
+    {
+      "id": "MO3",
+      "title": "Archivo General del Estado de Nuevo León",
+      "use": "Fonti su governo, città e imprese.",
+      "url": "https://www.nl.gob.mx/archivo-general-del-estado"
+    },
+    {
+      "id": "MO4",
+      "title": "Tecnológico de Monterrey — Patrimonio Cultural",
+      "use": "Archivi e storia economica regionale.",
+      "url": "https://patrimoniocultural.tec.mx/"
+    },
+    {
+      "id": "MO5",
+      "title": "Parque Fundidora",
+      "use": "Storia della Fundidora de Fierro y Acero.",
+      "url": "https://www.parquefundidora.org/"
+    }
+  ]
+}

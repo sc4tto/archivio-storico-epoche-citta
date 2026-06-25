@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Luoyang Sui–Tang — modulo multi-grafo",
+    "short_name": "Luoyang Sui–Tang",
+    "site": "Capitale orientale Sui e Tang",
+    "modern_location": "Luoyang, Henan, Cina",
+    "coordinates": {
+      "lat": 34.6197,
+      "lon": 112.454
+    },
+    "scope": "Capitale orientale ricostruita da Yangdi nel 605, nodo fra Luo e Grande Canale, sede di corte sotto i Sui e i Tang e capitale principale di Wu Zetian, con palazzi, mercati, granai e grandi complessi rituali.",
+    "version": "1.0-blocco_40_p4_asia_orientale_5_centri_v1",
+    "warning": "La città Sui–Tang non coincide con la precedente Luoyang Han–Wei situata più a est. Molti monumenti oggi associati a Luoyang appartengono a fasi diverse; la topografia è ricostruita da scavi, testi e resti frammentari."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "LUO_UNESCO",
+      "title": "UNESCO — Silk Roads: Chang’an–Tianshan Corridor",
+      "url": "https://whc.unesco.org/en/list/1442/",
+      "use": "ruolo di Luoyang nel corridoio, capitali e trasmissioni religiose"
+    },
+    {
+      "id": "LUO_LONGMEN",
+      "title": "UNESCO — Longmen Grottoes",
+      "url": "https://whc.unesco.org/en/list/1003/",
+      "use": "patronato buddhista e paesaggio di Luoyang"
+    },
+    {
+      "id": "LUO_ACADEMY",
+      "title": "Chinese Academy of Social Sciences — Sui-Tang Luoyang archaeology",
+      "url": "http://english.cssn.cn/",
+      "use": "ricerca archeologica urbana e cronologia"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Antigua fu capitale del Regno di Guatemala nella valle di Panchoy.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "AG1; AG3"
+  },
+  {
+    "claim": "La città fu pianificata secondo una griglia centrata sulla piazza maggiore.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "AG1"
+  },
+  {
+    "claim": "Conventi, chiese e palazzi formarono un importante complesso monumentale.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "AG1; AG4"
+  },
+  {
+    "claim": "Terremoti ricorrenti influenzarono tecniche edilizie e ricostruzioni.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "AG1; AG3"
+  },
+  {
+    "claim": "Il sisma del 1773 portò al trasferimento della capitale.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "AG1; AG3"
+  },
+  {
+    "claim": "Mercati e strade collegavano la città agli altipiani e al Pacifico.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "AG2; AG5"
+  },
+  {
+    "claim": "Tributi e lavoro coercitivo pesarono sulle comunità indigene.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "AG2; AG5"
+  },
+  {
+    "claim": "Restauri e trasformazioni moderne sono esclusi.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "AG1"
+  }
+]

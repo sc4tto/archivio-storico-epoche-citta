@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_103_P10_Asia_Sudoccidentale_Altopiano_Iranico_5_Centri_v1",
+  "macroregion": "Asia sud-occidentale e altopiano iranico",
+  "centers": [
+    "01_Istanbul_Metropoli_Ponti_Metro_Rischio_Sismico",
+    "02_Teheran_Rivoluzione_Guerra_Metro_Inquinamento",
+    "03_Baghdad_Guerre_Sfollamenti_Acqua_Ricostruzione",
+    "04_Riyadh_Petrolio_Automobile_Mega_Progetti_Metro",
+    "05_Dubai_Porto_Aviazione_Migrazione_Globalizzazione"
+  ],
+  "uses_central_assets": true
+}

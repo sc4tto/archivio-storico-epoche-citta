@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Montréal, Révolution tranquille, métro ed Expo 67",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Métro e ingegneria",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Gallerie, stazioni distinte, materiale MR-63 e pneumatici",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Coordinamento fra trasporto, architettura e arte pubblica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Expo 67",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Isole, padiglioni, ponti, Habitat 67 e servizi ai visitatori",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Diplomazia culturale, turismo e modernismo internazionale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Révolution tranquille",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Riforma statale, istruzione, sanità e secolarizzazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Nuovo ruolo del Québec francofono nella metropoli",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Urban renewal",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Autoroutes, clearance, torri e grandi progetti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Espropri, demolizioni e perdita di quartieri operai",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Pluralismo urbano",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Comunità francofone, anglofone, ebraiche, italiane e caraibiche",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Lingua, lavoro, religione, mercati e associazionismo",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

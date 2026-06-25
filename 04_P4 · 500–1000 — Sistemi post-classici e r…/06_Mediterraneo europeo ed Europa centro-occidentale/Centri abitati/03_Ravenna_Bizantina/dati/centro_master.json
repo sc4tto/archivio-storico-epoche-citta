@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Ravenna bizantina e altomedievale",
+    "site": "Ravenna e porto di Classe",
+    "modern_location": "Ravenna, Emilia-Romagna, Italia",
+    "coordinates": {
+      "lat": 44.4184,
+      "lon": 12.2035
+    },
+    "scope": "Ravenna fra 500 e 1000: corte ostrogota, esarcato bizantino, arcivescovado, porto, monumenti e trasformazioni dopo il 751.",
+    "version": "1.0",
+    "warning": "Il modulo distingue i monumenti del V–VI secolo, eccezionalmente conservati, dalle strutture domestiche e portuali più frammentarie."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "V1",
+      "title": "UNESCO World Heritage Centre — Early Christian Monuments of Ravenna",
+      "use": "Otto monumenti, mosaici e ruolo di Ravenna fra V e VIII secolo.",
+      "url": "https://whc.unesco.org/en/list/788/"
+    },
+    {
+      "id": "V2",
+      "title": "Ravenna Turismo — Monumenti UNESCO",
+      "use": "Descrizioni ufficiali dei monumenti e del contesto urbano.",
+      "url": "https://www.turismo.ra.it/cultura-e-storia/siti-unesco/"
+    },
+    {
+      "id": "V3",
+      "title": "Encyclopaedia Britannica — Ravenna",
+      "use": "Storia politica, porto e ruolo di capitale.",
+      "url": "https://www.britannica.com/place/Ravenna-Italy"
+    },
+    {
+      "id": "V4",
+      "title": "Judith Herrin, Ravenna: Capital of Empire, Crucible of Europe",
+      "use": "Sintesi storica e culturale dal V all’VIII secolo.",
+      "url": "https://press.princeton.edu/books/hardcover/9780691153438/ravenna"
+    },
+    {
+      "id": "V5",
+      "title": "Parco Archeologico di Classe",
+      "use": "Porto, basilica e archeologia del sistema Ravenna–Classe.",
+      "url": "https://www.ravennantica.it/classis-ravenna/"
+    }
+  ]
+}

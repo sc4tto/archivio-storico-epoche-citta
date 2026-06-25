@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Gao-Saney e Gao antico",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0_river",
+      "label": "Ambiente fluviale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0_flood",
+          "label": "Uso di piane e stagioni del Niger",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1_boats",
+          "label": "Navigazione e pesca",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1_metals",
+      "label": "Metallurgia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0_iron",
+          "label": "Riduzione e forgiatura del ferro",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1_copper",
+          "label": "Lavorazione di rame e leghe",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2_trade",
+      "label": "Commercio a lunga distanza",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0_caravans",
+          "label": "Logistica carovaniera e oasi",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_1_weights",
+          "label": "Valutazione di beni e scambi",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k3_craft",
+      "label": "Produzione artigianale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0_glass",
+          "label": "Lavorazione e riciclo del vetro",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1_pottery",
+          "label": "Ceramica regionale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4_politics",
+      "label": "Coordinamento politico",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0_tribute",
+          "label": "Tributi e controllo dei mercati",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_1_diplomacy",
+          "label": "Rapporti con mercanti e comunità islamiche",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

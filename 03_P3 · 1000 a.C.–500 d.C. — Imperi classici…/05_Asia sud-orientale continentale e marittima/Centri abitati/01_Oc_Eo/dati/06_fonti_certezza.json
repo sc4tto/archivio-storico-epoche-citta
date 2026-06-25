@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Óc Eo fu un grande centro del delta attivo nei primi secoli d.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "OCE_HIGHAM"
+  },
+  {
+    "claim": "Il sito comprende canali, officine e strutture rituali",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "OCE_MANGUIN"
+  },
+  {
+    "claim": "Sono documentati contatti con India e mondo cinese",
+    "theme": "Reti",
+    "status": "documentato",
+    "source": "OCE_HIGHAM"
+  },
+  {
+    "claim": "Oggetti mediterranei provano viaggi diretti fra Roma e Óc Eo",
+    "theme": "Reti",
+    "status": "non_documentato",
+    "source": "Scambi verosimilmente mediati"
+  },
+  {
+    "claim": "Funan coincide con un’unica cultura archeologica perfettamente delimitata",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Termine storico e quadro archeologico complesso"
+  },
+  {
+    "claim": "Ogni canale aveva funzione commerciale certa",
+    "theme": "Idraulica",
+    "status": "non_documentato",
+    "source": "Funzioni multiple e cronologie discusse"
+  },
+  {
+    "claim": "La produzione di perle e ornamenti è attestata",
+    "theme": "Produzione",
+    "status": "documentato",
+    "source": "OCE_VIET"
+  },
+  {
+    "claim": "Tutti gli edifici in mattoni sono templi",
+    "theme": "Architettura",
+    "status": "non_documentato",
+    "source": "Identificazioni funzionali parziali"
+  }
+]

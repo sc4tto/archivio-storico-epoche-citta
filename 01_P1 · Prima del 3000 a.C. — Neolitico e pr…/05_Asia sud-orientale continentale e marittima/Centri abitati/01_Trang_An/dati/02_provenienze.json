@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Grotte di Tràng An",
+      "lat": 20.2567,
+      "lon": 105.8964,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "karst",
+      "label": "Massiccio carsico",
+      "lat": 20.28,
+      "lon": 105.9,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": -20,
+      "anchor": "end"
+    },
+    {
+      "id": "wetlands",
+      "label": "Valli umide e corsi interni",
+      "lat": 20.23,
+      "lon": 105.88,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 10,
+      "dy": 25,
+      "anchor": "start"
+    },
+    {
+      "id": "coast",
+      "label": "Antiche linee di costa",
+      "lat": 20.15,
+      "lon": 105.98,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 28,
+      "anchor": "middle"
+    },
+    {
+      "id": "redriver",
+      "label": "Delta del Fiume Rosso",
+      "lat": 20.45,
+      "lon": 106.1,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "hoabinh",
+      "label": "Regioni hoabinhiane del Vietnam settentrionale",
+      "lat": 20.75,
+      "lon": 105.3,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "karst",
+      "target": "site",
+      "label": "ripari, pietra e habitat forestali",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "wetlands",
+      "target": "site",
+      "label": "pesce, molluschi e acqua",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "coast",
+      "target": "site",
+      "label": "risorse marine nelle fasi di maggiore ingressione",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "redriver",
+      "target": "site",
+      "label": "connessioni con pianure e valli esterne",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "hoabinh",
+      "target": "site",
+      "label": "confronti tecnologici e insediativi",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

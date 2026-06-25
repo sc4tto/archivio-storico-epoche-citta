@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Cusco",
+      "lat": -13.5319,
+      "lon": -71.9675,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "sac",
+      "label": "Valle Sacra",
+      "lat": -13.31,
+      "lon": -72.12,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "ant",
+      "label": "Anta e altopiani occidentali",
+      "lat": -13.46,
+      "lon": -72.15,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "pau",
+      "label": "Puna di Paruro",
+      "lat": -13.77,
+      "lon": -71.85,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "col",
+      "label": "Collao",
+      "lat": -15.5,
+      "lon": -70.1,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "coast",
+      "label": "Costa centro-meridionale",
+      "lat": -14.07,
+      "lon": -75.73,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "anti",
+      "label": "Antisuyu orientale",
+      "lat": -12.85,
+      "lon": -72.9,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "sac",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e fiume",
+      "food": "mais, frutta e prodotti irrigui"
+    },
+    {
+      "source": "ant",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade regionali",
+      "food": "tuberi, quinoa e manodopera"
+    },
+    {
+      "source": "pau",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane",
+      "food": "camelidi, lana e carne"
+    },
+    {
+      "source": "col",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Qhapaq Ñan meridionale",
+      "food": "camelidi, metalli e derrate"
+    },
+    {
+      "source": "coast",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti imperiali",
+      "food": "pesce secco, cotone e conchiglie"
+    },
+    {
+      "source": "anti",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte orientali",
+      "food": "coca, piume e prodotti tropicali"
+    }
+  ]
+}

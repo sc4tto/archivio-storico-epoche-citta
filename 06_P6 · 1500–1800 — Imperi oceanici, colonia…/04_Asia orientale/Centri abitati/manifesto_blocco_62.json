@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_62_P6_Asia_Orientale_5_Centri_v1",
+  "macroregion": "Asia orientale",
+  "centers": [
+    "01_Pechino_Ming_Qing",
+    "02_Nanchino_Ming_Qing",
+    "03_Suzhou_Ming_Qing",
+    "04_Edo_Tokugawa",
+    "05_Seoul_Hanyang_Joseon"
+  ],
+  "uses_central_assets": true
+}

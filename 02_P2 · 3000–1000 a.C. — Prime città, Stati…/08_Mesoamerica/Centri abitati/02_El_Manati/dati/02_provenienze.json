@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "El Manatí",
+      "lat": 17.65,
+      "lon": -94.67,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "cerro",
+      "label": "Cerro Manatí",
+      "lat": 17.66,
+      "lon": -94.67,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "spring",
+      "label": "Sorgente e area umida",
+      "lat": 17.65,
+      "lon": -94.66,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "sanlorenzo",
+      "label": "San Lorenzo",
+      "lat": 17.95,
+      "lon": -94.79,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "coatz",
+      "label": "Bacino del Coatzacoalcos",
+      "lat": 18.1,
+      "lon": -94.45,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "tuxtlas",
+      "label": "Sierra de los Tuxtlas",
+      "lat": 18.5,
+      "lon": -95.2,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "cerro",
+      "target": "site",
+      "label": "paesaggio sacro e pigmenti",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "spring",
+      "target": "site",
+      "label": "conservazione anaerobica",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "sanlorenzo",
+      "target": "site",
+      "label": "rete rituale e materiali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "coatz",
+      "target": "site",
+      "label": "lattice, fibre e prodotti regionali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "tuxtlas",
+      "target": "site",
+      "label": "pietra e connessioni regionali",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Valparaíso, porto, cerros e ricostruzione sismica",
+    "site": "Valparaíso, porto, cerros e ricostruzione sismica",
+    "modern_location": "Valparaíso, Cile",
+    "coordinates": {
+      "lat": -33.0472,
+      "lon": -71.6127
+    },
+    "scope": "Valparaíso fra 1945 e 1970: porto nazionale e nodo minerario-commerciale, trasporto fra plan e cerros, filobus dal 1952, edilizia e servizi sulle colline, espansione periferica, terremoto del 1965, ricostruzione e mobilitazione di lavoratori portuali e abitanti.",
+    "version": "1.0",
+    "warning": "Sono esclusi la containerizzazione avanzata, la crisi portuale tarda, la dichiarazione UNESCO del 2003, l’incendio del 2014 e gli sviluppi successivi al 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "VA1",
+      "title": "UNESCO World Heritage Centre — Historic Quarter of the Seaport City of Valparaíso, nomination dossier",
+      "use": "Morfologia del porto, anfiteatro dei cerros, infrastrutture e sviluppo storico urbano.",
+      "url": "https://whc.unesco.org/document/154696"
+    },
+    {
+      "id": "VA2",
+      "title": "Universidad de Chile — Urbanización periférica y gobernanza urbana en Valparaíso",
+      "use": "Crescita dei cerros, campamentos, servizi e produzione popolare dello spazio.",
+      "url": "https://repositorio.uchile.cl/bitstream/2250/186704/1/urbanizacion-periferica-y-gobernanza-urbana.pdf"
+    },
+    {
+      "id": "VA3",
+      "title": "United Nations Photo — Earthquake damage in Valparaíso, 1965",
+      "use": "Documentazione contemporanea dei danni sismici e dell’emergenza.",
+      "url": "https://media.un.org/photo/en/asset/oun7/oun7494677"
+    },
+    {
+      "id": "VA4",
+      "title": "Memoria Chilena — Corporación de Fomento de la Producción, 1939–1970",
+      "use": "Industrializzazione, elettrificazione, infrastrutture e ruolo dello Stato cileno.",
+      "url": "https://www.memoriachilena.gob.cl/602/w3-article-3508.html"
+    }
+  ]
+}

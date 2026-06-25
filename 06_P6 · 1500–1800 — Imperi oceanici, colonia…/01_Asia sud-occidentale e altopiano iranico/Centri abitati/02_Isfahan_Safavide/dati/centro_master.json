@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Isfahan safavide",
+    "site": "Isfahan safavide",
+    "modern_location": "Isfahan, Iran",
+    "coordinates": {
+      "lat": 32.6546,
+      "lon": 51.668
+    },
+    "scope": "Isfahan fra 1590 e 1800, con attenzione alla capitale safavide, al Maydan, ai giardini, ai ponti, al bazar e all’integrazione fra corte, commercio e quartieri artigiani.",
+    "version": "1.0",
+    "warning": "Il modulo distingue il nucleo safavide dalle fasi selgiuchidi precedenti e dalle trasformazioni qajar posteriori. Le ricostruzioni della popolazione e dei quartieri sono trattate con cautela."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "IF1",
+      "title": "UNESCO — Meidan Emam, Esfahan",
+      "use": "Piazza, moschee, palazzo Ali Qapu, bazar e pianificazione safavide.",
+      "url": "https://whc.unesco.org/en/list/115/"
+    },
+    {
+      "id": "IF2",
+      "title": "Encyclopaedia Britannica — Esfahan",
+      "use": "Storia della capitale safavide e sviluppo urbano.",
+      "url": "https://www.britannica.com/place/Esfahan-Iran"
+    },
+    {
+      "id": "IF3",
+      "title": "The Metropolitan Museum of Art — The Safavid Period",
+      "use": "Arte, architettura, tessili, ceramiche e cultura di corte safavide.",
+      "url": "https://www.metmuseum.org/toah/hd/safa/hd_safa.htm"
+    },
+    {
+      "id": "IF4",
+      "title": "Encyclopaedia Iranica — Isfahan",
+      "use": "Storia urbana, quartieri, commercio e ruolo politico.",
+      "url": "https://iranicaonline.org/articles/isfahan-x-history-1-general"
+    },
+    {
+      "id": "IF5",
+      "title": "UNESCO — Meidan Emam documents",
+      "use": "Documentazione del complesso urbano e dei suoi monumenti.",
+      "url": "https://whc.unesco.org/en/list/115/documents/"
+    }
+  ]
+}

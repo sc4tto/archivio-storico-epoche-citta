@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Stallings Island — modulo multi-grafo",
+    "short_name": "Stallings Island",
+    "site": "Sito archeologico di Stallings Island",
+    "modern_location": "Fiume Savannah presso Augusta, Georgia, Stati Uniti",
+    "coordinates": {
+      "lat": 33.532,
+      "lon": -82.039
+    },
+    "scope": "Isola fluviale con grandi accumuli di conchiglie d’acqua dolce, occupazioni del Tardo Arcaico e ceramica a tempera di fibre; documenta comunità relativamente stabili, pesca fluviale e innovazioni nella cottura.",
+    "version": "1.0-blocco_23_p2_america_settentrionale_5_centri_v1",
+    "warning": "Le occupazioni sono discontinue e appartengono a più fasi. La ceramica Stallings più antica della regione non compare necessariamente nelle prime occupazioni dell’isola stessa."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "STALLINGS_AA",
+      "title": "Sassaman, Blessing e Randall — Stallings Island Revisited",
+      "url": "https://www.cambridge.org/core/journals/american-antiquity",
+      "use": "storia occupazionale, comunità e sussistenza"
+    },
+    {
+      "id": "STALLINGS_TAC",
+      "title": "The Archaeological Conservancy — Stallings Island",
+      "url": "https://www.archaeologicalconservancy.org/",
+      "use": "conservazione e importanza del sito"
+    },
+    {
+      "id": "STALLINGS_JAA",
+      "title": "Sassaman e Gilmore — Ceramic social geography of early pottery communities",
+      "url": "https://doi.org/10.1016/j.jaa.2020.101253",
+      "use": "ceramica e reti sociali nel Sud-Est"
+    }
+  ]
+}

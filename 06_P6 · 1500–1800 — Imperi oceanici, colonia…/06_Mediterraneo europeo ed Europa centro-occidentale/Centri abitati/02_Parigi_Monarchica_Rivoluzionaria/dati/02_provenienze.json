@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Parigi",
+      "lat": 48.8566,
+      "lon": 2.3522,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "bas",
+      "label": "Bacino parigino",
+      "lat": 49.0,
+      "lon": 2.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "nor",
+      "label": "Normandia e bassa Senna",
+      "lat": 49.3,
+      "lon": 0.7,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "bur",
+      "label": "Borgogna e valle della Loira",
+      "lat": 47.5,
+      "lon": 3.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "atl",
+      "label": "Porti atlantici e colonie",
+      "lat": 30.0,
+      "lon": -40.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "med",
+      "label": "Mediterraneo e Provenza",
+      "lat": 43.5,
+      "lon": 5.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "eur",
+      "label": "Fiandre e Germania",
+      "lat": 51.0,
+      "lon": 5.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "bas",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e vie fluviali",
+      "food": "grano, legumi, bestiame e legna"
+    },
+    {
+      "source": "nor",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Senna e trasporto terrestre",
+      "food": "burro, formaggi, pesce e sidro"
+    },
+    {
+      "source": "bur",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Loira, Yonne e strade",
+      "food": "vino, cereali e prodotti artigiani"
+    },
+    {
+      "source": "atl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porti atlantici",
+      "food": "zucchero, caffè, cacao e merci coloniali"
+    },
+    {
+      "source": "med",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Rodano e rotte mediterranee",
+      "food": "olio, agrumi, vino e spezie"
+    },
+    {
+      "source": "eur",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti continentali",
+      "food": "tessili, metalli e libri"
+    }
+  ]
+}

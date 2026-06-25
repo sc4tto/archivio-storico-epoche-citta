@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Alessandria portuale e cotoniera",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Porto e navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Moli, frangiflutti e pilotaggio",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Vapore, dogane e magazzini",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Cotone e finanza",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Classificazione, esportazione e credito",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Boom, dipendenza e speculazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Quartieri consolari e mercantili",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Ferrovie, strade e servizi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Pietra, muratura e legname",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Ferro, gru e infrastrutture portuali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Società",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Comunità arabe e mediterranee",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Lavoro portuale, disuguaglianze ed epidemie",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

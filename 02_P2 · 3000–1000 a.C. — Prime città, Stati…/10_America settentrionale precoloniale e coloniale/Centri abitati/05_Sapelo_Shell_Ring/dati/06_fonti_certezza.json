@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Sapelo conserva un complesso di anelli di conchiglie del Tardo Arcaico",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "SAPELO_FORMATION"
+  },
+  {
+    "claim": "Gli anelli circondano spazi centrali relativamente aperti",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "SAPELO_GEO"
+  },
+  {
+    "claim": "Geofisica e scavi distinguono diverse aree di attività",
+    "theme": "Metodo",
+    "status": "documentato",
+    "source": "SAPELO_GEO"
+  },
+  {
+    "claim": "Ostriche e altre risorse estuarine erano centrali",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "SAPELO_FORMATION"
+  },
+  {
+    "claim": "La ceramica a tempera di fibre appartiene alle attività del complesso",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "SAPELO_FORMATION"
+  },
+  {
+    "claim": "Gli anelli erano esclusivamente villaggi permanenti",
+    "theme": "Insediamento",
+    "status": "non_documentato",
+    "source": "Funzione e durata discusse"
+  },
+  {
+    "claim": "Tutti gli anelli furono costruiti contemporaneamente",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Fasi multiple"
+  },
+  {
+    "claim": "Lo spazio centrale era certamente un tempio",
+    "theme": "Rituali",
+    "status": "non_documentato",
+    "source": "Uso non univoco"
+  }
+]

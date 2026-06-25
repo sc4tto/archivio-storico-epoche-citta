@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Kumasi",
+      "lat": 6.689,
+      "lon": -1.624,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "ash",
+      "label": "Campagne Ashanti",
+      "lat": 6.9,
+      "lon": -1.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "pra",
+      "label": "Bacino del Pra e Offin",
+      "lat": 6.4,
+      "lon": -1.7,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "bon",
+      "label": "Bono e aree settentrionali",
+      "lat": 7.7,
+      "lon": -2.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "coast",
+      "label": "Elmina, Cape Coast e costa",
+      "lat": 5.1,
+      "lon": -1.3,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "sah",
+      "label": "Rotte della kola verso il Sahel",
+      "lat": 10.0,
+      "lon": -2.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "east",
+      "label": "Akwamu e regioni orientali",
+      "lat": 6.3,
+      "lon": -0.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "ash",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sentieri e mercati",
+      "food": "igname, plantain, legna e olio di palma"
+    },
+    {
+      "source": "pra",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiumi e vie terrestri",
+      "food": "oro, pesce e prodotti forestali"
+    },
+    {
+      "source": "bon",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane settentrionali",
+      "food": "kola, cereali e bestiame"
+    },
+    {
+      "source": "coast",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte verso i forti costieri",
+      "food": "sale, armi, tessuti e beni europei"
+    },
+    {
+      "source": "sah",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti transregionali",
+      "food": "sale, tessuti e cavalli"
+    },
+    {
+      "source": "east",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e alleanze",
+      "food": "cereali, tessili e tributi"
+    }
+  ]
+}

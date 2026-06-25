@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Angkor Thom",
+      "lat": 13.442,
+      "lon": 103.859,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "bar",
+      "label": "Baray occidentale",
+      "lat": 13.437,
+      "lon": 103.812,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "sap",
+      "label": "Tonle Sap",
+      "lat": 12.95,
+      "lon": 104.05,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "kul",
+      "label": "Phnom Kulen",
+      "lat": 13.6,
+      "lon": 104.1,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "mek",
+      "label": "Mekong e basso bacino",
+      "lat": 12.0,
+      "lon": 105.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "cha",
+      "label": "Champa",
+      "lat": 15.9,
+      "lon": 108.3,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "sia",
+      "label": "Piana del Chao Phraya",
+      "lat": 14.3,
+      "lon": 100.6,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "bar",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali, serbatoi e campi",
+      "food": "acqua e riso"
+    },
+    {
+      "source": "sap",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "pesca e vie d’acqua",
+      "food": "pesce e prodotti acquatici"
+    },
+    {
+      "source": "kul",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sorgenti, pietra e foreste",
+      "food": "acqua, arenaria e legname"
+    },
+    {
+      "source": "mek",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte fluviali e tributarie",
+      "food": "sale, ceramiche e derrate"
+    },
+    {
+      "source": "cha",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "guerra e scambio",
+      "food": "beni costieri e artigiani"
+    },
+    {
+      "source": "sia",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "frontiere occidentali",
+      "food": "bestiame e merci regionali"
+    }
+  ]
+}

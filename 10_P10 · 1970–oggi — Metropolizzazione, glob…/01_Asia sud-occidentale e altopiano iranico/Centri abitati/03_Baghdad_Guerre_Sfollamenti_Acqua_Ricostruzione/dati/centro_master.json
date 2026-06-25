@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Baghdad, guerre, sfollamenti e ricostruzione dei servizi",
+    "site": "Baghdad, guerre, sfollamenti e ricostruzione dei servizi",
+    "modern_location": "Baghdad, Iraq",
+    "coordinates": {
+      "lat": 33.3152,
+      "lon": 44.3661
+    },
+    "scope": "Baghdad dal 1970 al 25 giugno 2026: espansione petrolifera e pianificazione statale, guerra Iran–Iraq, sanzioni, invasione del 2003, occupazione e violenza settaria, attentati, sfollamenti, crescita informale, crisi idrica e fognaria, ricostruzione e continuità del patrimonio urbano lungo il Tigri.",
+    "version": "1.0",
+    "warning": "Il modulo non attribuisce alla città eventi futuri o risultati di progetti non ancora verificati al 25 giugno 2026. Le cifre di sfollamento sono contestualizzate per data e fonte."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "BA1",
+      "title": "World Bank — Baghdad Water Supply and Sewerage Improvement Project",
+      "use": "Acqua potabile, fognature, crescita demografica e servizi.",
+      "url": "https://www.worldbank.org/en/news/press-release/2018/01/31/iraq-5-million-residents-in-baghdad-to-benefit-from-improved-water-supply-and-wastewater-services"
+    },
+    {
+      "id": "BA2",
+      "title": "UN-Habitat — Urbanization in Iraq",
+      "use": "Ricostruzione, housing, servizi e città inclusive.",
+      "url": "https://unhabitat.org/iraq"
+    },
+    {
+      "id": "BA3",
+      "title": "IOM DTM Iraq — Protracted Urban Displacement",
+      "use": "Sfollati interni, insediamento urbano e soluzioni durevoli.",
+      "url": "https://iraqdtm.iom.int/durablesolutions/ProtractedDisplacement"
+    },
+    {
+      "id": "BA4",
+      "title": "UNESCO World Heritage Centre — Historical Features of the Tigris River in Baghdad Rusafa",
+      "use": "Patrimonio urbano, paesaggio del Tigri e continuità storica.",
+      "url": "https://whc.unesco.org/en/tentativelists/5880/"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Chan Chan iniziale e valle di Moche",
+    "site": "Chan Chan — fase iniziale",
+    "modern_location": "Huanchaco e Trujillo, regione La Libertad, Perù",
+    "coordinates": {
+      "lat": -8.1107,
+      "lon": -79.0747
+    },
+    "scope": "La formazione di Chan Chan fra IX e X secolo, distinguendola chiaramente dalla massima espansione dei secoli XII–XV.",
+    "version": "1.0",
+    "warning": "Gran parte delle strutture più note di Chan Chan è posteriore al 1000. Il modulo tratta soltanto le fasi iniziali del sistema Chimú e della valle di Moche, con prudenza sulle attribuzioni cronologiche."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "C1",
+      "title": "UNESCO World Heritage Centre — Chan Chan",
+      "use": "Urbanistica gerarchica, architettura in terra, irrigazione e artigianato.",
+      "url": "https://whc.unesco.org/en/list/366/"
+    },
+    {
+      "id": "C2",
+      "title": "Ministerio de Cultura — Complejo Arqueológico Chan Chan",
+      "use": "Conservazione, settori monumentali e cronologia generale.",
+      "url": "https://chanchan.gob.pe/"
+    },
+    {
+      "id": "C3",
+      "title": "Moseley & Day, Chan Chan: Andean Desert City",
+      "use": "Urbanistica, acqua, economia e sviluppo della capitale.",
+      "url": "https://www.jstor.org/stable/j.ctv1n3x1mp"
+    },
+    {
+      "id": "C4",
+      "title": "Topic, The Early Intermediate Period and Middle Horizon in the Moche Valley",
+      "use": "Transizione post-Moche e formazione Chimú.",
+      "url": "https://doi.org/10.1017/CBO9780511574856"
+    },
+    {
+      "id": "C5",
+      "title": "Keatinge, Chan Chan and the Chimú state",
+      "use": "Cronologia, palazzi e organizzazione politica.",
+      "url": "https://www.jstor.org/stable/279942"
+    }
+  ]
+}

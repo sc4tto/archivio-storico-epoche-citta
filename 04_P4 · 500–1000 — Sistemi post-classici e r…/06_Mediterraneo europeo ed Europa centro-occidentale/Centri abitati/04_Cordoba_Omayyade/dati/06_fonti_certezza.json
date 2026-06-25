@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Il periodo di maggiore splendore di Córdoba iniziò nell’VIII secolo sotto il dominio islamico.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "Q1; Q3"
+  },
+  {
+    "claim": "La città divenne capitale dell’emirato omayyade nel 756 e del califfato nel 929.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "Q3"
+  },
+  {
+    "claim": "La Grande Moschea fu ampliata in più fasi fra VIII e X secolo.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "Q1; Q4"
+  },
+  {
+    "claim": "Madinat al-Zahra fu costruita nel X secolo come città palatina califfale.",
+    "theme": "corte",
+    "status": "documentato",
+    "source": "Q2"
+  },
+  {
+    "claim": "La valle del Guadalquivir e i sistemi irrigui sostennero un’agricoltura diversificata.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "Q1; Q5"
+  },
+  {
+    "claim": "Mercati, bagni e quartieri artigiani indicano un’economia urbana complessa.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "Q1; Q3"
+  },
+  {
+    "claim": "Nel X secolo Córdoba fu un importante centro di cultura scritta, medicina e arti.",
+    "theme": "cultura",
+    "status": "documentato",
+    "source": "Q3; Q4"
+  },
+  {
+    "claim": "Le stime molto elevate sulla popolazione e sul numero di moschee devono essere considerate con cautela.",
+    "theme": "certezza",
+    "status": "sintesi",
+    "source": "Q1; confronto storiografico"
+  }
+]

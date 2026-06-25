@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Kot Diji",
+      "lat": 27.35,
+      "lon": 68.72,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "indus",
+      "label": "Piana e canali dell’Indo",
+      "lat": 27.4,
+      "lon": 68.6,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": -20,
+      "anchor": "end"
+    },
+    {
+      "id": "rohri",
+      "label": "Rohri Hills",
+      "lat": 27.65,
+      "lon": 68.9,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 10,
+      "dy": 25,
+      "anchor": "start"
+    },
+    {
+      "id": "desert",
+      "label": "Margini del deserto di Thar",
+      "lat": 27.2,
+      "lon": 69.5,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 28,
+      "anchor": "middle"
+    },
+    {
+      "id": "baloch",
+      "label": "Belucistan",
+      "lat": 29.5,
+      "lon": 67.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "punjab",
+      "label": "Punjab e Harappa",
+      "lat": 30.6,
+      "lon": 72.9,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "indus",
+      "target": "site",
+      "label": "acqua, colture e pesca",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "rohri",
+      "target": "site",
+      "label": "selce e pietra",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "desert",
+      "target": "site",
+      "label": "pascoli e percorsi terrestri",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "baloch",
+      "target": "site",
+      "label": "tradizioni ceramiche e reti formative",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "punjab",
+      "target": "site",
+      "label": "orizzonte Kot Dijian / early Harappan",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

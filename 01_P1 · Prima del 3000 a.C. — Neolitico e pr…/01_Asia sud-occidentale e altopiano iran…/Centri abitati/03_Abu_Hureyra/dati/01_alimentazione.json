@@ -1,0 +1,240 @@
+{
+  "nodes": [
+    {
+      "id": "euphrates",
+      "label": "Terrazza dell’Alto Eufrate",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "steppe",
+      "label": "Steppe e praterie",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "riparian",
+      "label": "Boschi e ambienti ripariali",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "wildcereal",
+      "label": "Cereali selvatici",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "seeds",
+      "label": "Semi di piante spontanee e legumi",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "fruit",
+      "label": "Frutti e noci selvatici",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "gazelle",
+      "label": "Gazzella e altra selvaggina",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "domcereal",
+      "label": "Cereali coltivati e poi domestici",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "livestock",
+      "label": "Ovicaprini gestiti e allevati",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "gather",
+      "label": "Raccolta intensiva",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "hunt",
+      "label": "Caccia",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "cult",
+      "label": "Coltivazione",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "tend",
+      "label": "Custodia e allevamento",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "grind",
+      "label": "Macinazione con macine",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "store",
+      "label": "Deposito in fosse e vani",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "cook",
+      "label": "Cottura",
+      "layer": 3,
+      "status": "inferito"
+    },
+    {
+      "id": "butch",
+      "label": "Macellazione",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "plantrem",
+      "label": "Semi carbonizzati e residui vegetali",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "dung",
+      "label": "Sferuliti di letame",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "fauna",
+      "label": "Resti faunistici",
+      "layer": 4,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "euphrates",
+      "target": "wildcereal",
+      "label": "habitat locale",
+      "status": "documentato"
+    },
+    {
+      "source": "steppe",
+      "target": "gazelle",
+      "label": "territorio di caccia",
+      "status": "documentato"
+    },
+    {
+      "source": "riparian",
+      "target": "fruit",
+      "label": "raccolta ripariale",
+      "status": "sintesi"
+    },
+    {
+      "source": "euphrates",
+      "target": "domcereal",
+      "label": "campi e suoli",
+      "status": "sintesi"
+    },
+    {
+      "source": "steppe",
+      "target": "livestock",
+      "label": "pascolo",
+      "status": "inferito"
+    },
+    {
+      "source": "wildcereal",
+      "target": "gather",
+      "label": "raccolta",
+      "status": "documentato"
+    },
+    {
+      "source": "seeds",
+      "target": "gather",
+      "label": "raccolta",
+      "status": "documentato"
+    },
+    {
+      "source": "fruit",
+      "target": "gather",
+      "label": "raccolta",
+      "status": "documentato"
+    },
+    {
+      "source": "gazelle",
+      "target": "hunt",
+      "label": "caccia",
+      "status": "documentato"
+    },
+    {
+      "source": "domcereal",
+      "target": "cult",
+      "label": "produzione",
+      "status": "sintesi"
+    },
+    {
+      "source": "livestock",
+      "target": "tend",
+      "label": "gestione",
+      "status": "sintesi"
+    },
+    {
+      "source": "gather",
+      "target": "grind",
+      "label": "trasformazione",
+      "status": "documentato"
+    },
+    {
+      "source": "cult",
+      "target": "grind",
+      "label": "trasformazione",
+      "status": "documentato"
+    },
+    {
+      "source": "gather",
+      "target": "store",
+      "label": "conservazione",
+      "status": "documentato"
+    },
+    {
+      "source": "cult",
+      "target": "store",
+      "label": "conservazione",
+      "status": "documentato"
+    },
+    {
+      "source": "grind",
+      "target": "plantrem",
+      "label": "evidenze",
+      "status": "documentato"
+    },
+    {
+      "source": "tend",
+      "target": "dung",
+      "label": "evidenze",
+      "status": "documentato"
+    },
+    {
+      "source": "hunt",
+      "target": "fauna",
+      "label": "evidenze",
+      "status": "documentato"
+    },
+    {
+      "source": "tend",
+      "target": "fauna",
+      "label": "evidenze",
+      "status": "sintesi"
+    }
+  ]
+}

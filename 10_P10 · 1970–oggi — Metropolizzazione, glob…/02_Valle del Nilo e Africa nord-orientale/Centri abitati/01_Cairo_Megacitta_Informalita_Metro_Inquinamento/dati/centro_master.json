@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Cairo, megacittà, informalità, metro e inquinamento",
+    "site": "Cairo, megacittà, informalità, metro e inquinamento",
+    "modern_location": "Cairo, Egitto",
+    "coordinates": {
+      "lat": 30.0444,
+      "lon": 31.2357
+    },
+    "scope": "Cairo dal 1970 al 25 giugno 2026: crescita della Grande Cairo, densificazione dei quartieri informali, nuove città nel deserto, rete metropolitana, rivolte e repressione, crisi dell’abitazione, gestione dei rifiuti, inquinamento atmosferico e politiche climatiche.",
+    "version": "1.0",
+    "warning": "Le nuove linee di trasporto e i programmi annunciati con conclusione successiva al 25 giugno 2026 sono indicati soltanto come progetti o obiettivi futuri."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "CA1",
+      "title": "UN-Habitat — Cairo, a City in Transition",
+      "use": "Crescita metropolitana, densità e insediamenti informali.",
+      "url": "https://unhabitat.org/sites/default/files/download-manager-files/1502716316wpdm_Cairo%20-%20a%20City%20in%20Transition.pdf"
+    },
+    {
+      "id": "CA2",
+      "title": "World Bank — Greater Cairo Air Pollution Management and Climate Change Project",
+      "use": "Qualità dell’aria, rifiuti, emissioni dei trasporti e salute pubblica.",
+      "url": "https://documents1.worldbank.org/curated/en/788691601776867710/txt/Egypt-Greater-Cairo-Air-Pollution-Management-and-Climate-Change-Project.txt"
+    },
+    {
+      "id": "CA3",
+      "title": "UN-Habitat Egypt — Housing and Slum Upgrading",
+      "use": "Abitazione adeguata, servizi e riqualificazione degli insediamenti informali.",
+      "url": "https://unhabitat.org/housing-and-slum-upgrading-3"
+    },
+    {
+      "id": "CA4",
+      "title": "UN-Habitat — World Urban Forum 12, Cairo 2024",
+      "use": "Centralità contemporanea delle politiche urbane e della localizzazione degli SDG.",
+      "url": "https://wuf.unhabitat.org/wuf12"
+    }
+  ]
+}

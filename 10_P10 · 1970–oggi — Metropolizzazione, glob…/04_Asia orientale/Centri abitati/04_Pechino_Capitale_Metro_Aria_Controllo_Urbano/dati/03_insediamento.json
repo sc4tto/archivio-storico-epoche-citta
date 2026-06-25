@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1970–1979",
+    "1980–1989",
+    "1990–1999",
+    "2000–2009",
+    "2010–25 giugno 2026"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Riforme economiche e crescita della capitale",
+      "lane": "Economia",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Proteste e repressione militare del 1989",
+      "lane": "Politica",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Espansione della metropolitana e delle tangenziali",
+      "lane": "Mobilità",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Olimpiadi 2008 e grandi trasformazioni urbane",
+      "lane": "Evento",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Campagne per la qualità dell’aria e trasporto verde",
+      "lane": "Ambiente",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Piano urbanistico 2016–2035 e sviluppo di Tongzhou",
+      "lane": "Pianificazione",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Olimpiadi invernali 2022 e infrastrutture regionali",
+      "lane": "Evento",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Programmi 2026 per reti e condotte invecchiate",
+      "lane": "Infrastrutture",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

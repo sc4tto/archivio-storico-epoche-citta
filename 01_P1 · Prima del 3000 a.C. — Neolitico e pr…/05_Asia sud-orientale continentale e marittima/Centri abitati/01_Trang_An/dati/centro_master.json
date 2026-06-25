@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Tràng An — modulo multi-grafo",
+    "short_name": "Tràng An",
+    "site": "Tràng An",
+    "modern_location": "Provincia di Ninh Bình, Vietnam",
+    "coordinates": {
+      "lat": 20.2567,
+      "lon": 105.8964
+    },
+    "scope": "Sequenza di frequentazione nelle grotte del massiccio di Tràng An, dal Pleistocene superiore al Neolitico; nel P1 si considerano soprattutto le occupazioni dell’Olocene antico e medio",
+    "version": "1.0-blocco_06_p1_asia_sud_orientale_5_centri_v1",
+    "warning": "Tràng An è un paesaggio archeologico composto da molte grotte, non una città. Le fasi sono schematiche e le pratiche agricole pienamente sviluppate appartengono in gran parte a periodi successivi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "UNESCO_TRANG_AN",
+      "title": "UNESCO World Heritage Centre — Trang An Landscape Complex",
+      "url": "https://whc.unesco.org/en/list/1438/",
+      "use": "sequenza di oltre 30.000 anni, adattamento ambientale, grotte, conchiglieri e paesaggio carsico"
+    },
+    {
+      "id": "UNESCO_TRANG_AN_DOCS",
+      "title": "UNESCO — Nomination and evaluation documents for Trang An",
+      "url": "https://whc.unesco.org/en/list/1438/documents/",
+      "use": "documentazione di candidatura, mappe e sintesi archeologica"
+    },
+    {
+      "id": "RABETT_ASIA",
+      "title": "Ryan J. Rabett — Human Adaptation in the Asian Palaeolithic",
+      "url": "https://www.cambridge.org/core/books/human-adaptation-in-the-asian-palaeolithic/",
+      "use": "quadro regionale sull’adattamento umano e sulle economie di foraggiamento"
+    }
+  ]
+}

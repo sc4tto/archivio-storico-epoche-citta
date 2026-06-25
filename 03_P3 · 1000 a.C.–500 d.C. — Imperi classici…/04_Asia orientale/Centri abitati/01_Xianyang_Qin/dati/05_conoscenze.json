@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Xianyang Qin",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Amministrazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Comandi e contee",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Sigilli e archivi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Standard legali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Standardizzazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Pesi e misure",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Moneta",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Scrittura",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Ingegneria",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Terra battuta",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Canali",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Strade",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Produzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Bronzo e ferro",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Ceramica",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Officine statali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Militare",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Arsenali",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Carri e cavalleria",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Fortificazioni territoriali",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Cosmologia",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Paesaggio imperiale",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_2",
+          "label": "Culto dinastico",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Pianta celeste completa",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

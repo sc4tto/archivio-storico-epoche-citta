@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Mumbai, finanza, trasporti, informalità e rischio costiero",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Economia metropolitana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Finanza, cinema, porto e servizi",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Lavoro industriale, informale e piattaforme",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Abitazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Chawl, cooperative, slum e torri",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Riqualificazione, tenure e diritto alla permanenza",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Mobilità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Suburban rail, metro, bus e ponti",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Affollamento, sicurezza e accessibilità",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Rischio costiero",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Drenaggio, mangrovie, maree e piogge estreme",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Allerta, adattamento e giustizia climatica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Governance",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "BMC, MMRDA e agenzie settoriali",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Trasparenza, consultazione e coordinamento",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

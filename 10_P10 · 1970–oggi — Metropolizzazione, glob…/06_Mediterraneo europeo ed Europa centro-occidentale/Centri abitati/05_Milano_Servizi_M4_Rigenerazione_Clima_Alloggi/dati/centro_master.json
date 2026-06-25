@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Milano, servizi avanzati, M4, rigenerazione, clima e alloggi",
+    "site": "Milano, servizi avanzati, M4, rigenerazione, clima e alloggi",
+    "modern_location": "Milano, Italia",
+    "coordinates": {
+      "lat": 45.4642,
+      "lon": 9.19
+    },
+    "scope": "Milano dal 1970 al 25 giugno 2026: deindustrializzazione e riconversione verso finanza, moda, design, università e servizi, immigrazione internazionale, espansione metropolitana, nuove linee della metropolitana, trasformazione delle aree industriali e ferroviarie, Expo 2015 e sviluppo di MIND, apertura completa della M4 nel 2024, rigenerazione degli scali, crisi dell’accessibilità abitativa, gentrificazione, qualità dell’aria, calore e Piano Aria e Clima.",
+    "version": "1.0",
+    "warning": "Le trasformazioni degli scali ferroviari, gli interventi di Milano 2030 e gli obiettivi climatici futuri sono registrati come piani o cantieri, non come risultati interamente conclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MI1",
+      "title": "Comune di Milano — Piano di Governo del Territorio Milano 2030",
+      "use": "Rigenerazione, housing sociale, consumo di suolo e strategia territoriale.",
+      "url": "https://www.comune.milano.it/en/w/consiglio-comunale.-approvato-il-piano-di-governo-del-territorio-per-milano-2030"
+    },
+    {
+      "id": "MI2",
+      "title": "Comune di Milano — Apertura completa della linea M4",
+      "use": "Entrata in servizio dell’intera linea blu San Cristoforo–Linate il 12 ottobre 2024.",
+      "url": "https://www.comune.milano.it/en/w/m4.-da-oggi-la-blu-attraversa-milano-in-trenta-minuti-da-san-cristoforo-a-linate"
+    },
+    {
+      "id": "MI3",
+      "title": "Comune di Milano — Accordo di programma degli scali ferroviari",
+      "use": "Rigenerazione delle aree dismesse, verde, housing e potenziamento ferroviario.",
+      "url": "https://www.comune.milano.it/en/argomenti/rigenerazione-urbana/mappa-dei-progetti-di-rigenerazione-urbana/scali-ferroviari-accordo-di-programma-adp-per-la-trasformazione-urbanistica-delle-aree-ferroviarie-dismesse-e-in-dismissione-e-il-potenziamento-del-sistema-ferroviario-milanese"
+    },
+    {
+      "id": "MI4",
+      "title": "Comune di Milano — Piano Aria e Clima",
+      "use": "Qualità dell’aria, adattamento, energia, mobilità e obiettivi climatici.",
+      "url": "https://partecipazione.comune.milano.it/uploads/decidim/attachment/file/333/Delibera_79_del_21-12-2021_Adozione_del_Piano_Aria_e_Clima.pdf"
+    }
+  ]
+}

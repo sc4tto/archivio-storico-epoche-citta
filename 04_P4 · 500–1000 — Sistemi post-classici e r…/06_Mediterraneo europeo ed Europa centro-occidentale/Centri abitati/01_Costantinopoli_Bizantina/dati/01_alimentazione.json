@@ -1,0 +1,216 @@
+{
+  "nodes": [
+    {
+      "id": "t_thr",
+      "label": "Tracia e hinterland europeo",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_bith",
+      "label": "Bitinia e sponde asiatiche",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_seas",
+      "label": "Bosphoro, Propontide e Mar Nero",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "r_grain",
+      "label": "Frumento e orzo",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_wine",
+      "label": "Vino, olio e ortaggi",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "r_fish",
+      "label": "Pesce e prodotti marini",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_meat",
+      "label": "Carne, latticini e pollame",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "a_tax",
+      "label": "Prelievo fiscale e acquisti statali",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_market",
+      "label": "Mercati e commercio privato",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_fishery",
+      "label": "Pesca costiera e nello stretto",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_estate",
+      "label": "Produzione di tenute e villaggi",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "x_mill",
+      "label": "Molitura, panificazione e cottura",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x_salt",
+      "label": "Salagione, essiccazione e conserve",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "x_store",
+      "label": "Granai, magazzini e cisterne",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "p_bread",
+      "label": "Pane e distribuzioni cerealicole",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "p_daily",
+      "label": "Pasti urbani e monastici",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_reserve",
+      "label": "Scorte per assedi e corte",
+      "layer": 4,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "t_thr",
+      "target": "r_grain",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "t_bith",
+      "target": "r_wine",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "t_seas",
+      "target": "r_fish",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "t_thr",
+      "target": "r_meat",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "r_grain",
+      "target": "a_tax",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_wine",
+      "target": "a_market",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_fish",
+      "target": "a_fishery",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_meat",
+      "target": "a_estate",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "a_tax",
+      "target": "x_mill",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "a_market",
+      "target": "x_salt",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "a_fishery",
+      "target": "x_store",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "a_estate",
+      "target": "x_mill",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "x_mill",
+      "target": "p_bread",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "x_salt",
+      "target": "p_daily",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "x_store",
+      "target": "p_reserve",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_meat",
+      "target": "a_tax",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "a_estate",
+      "target": "x_store",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "x_store",
+      "target": "p_reserve",
+      "status": "sintesi",
+      "label": ""
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Città tardoantica bizantina",
+    "Crisi e riassetti del VI secolo",
+    "Conquista araba e continuità portuale",
+    "Età omayyade e abbaside",
+    "Riorganizzazione nel X secolo"
+  ],
+  "items": [
+    {
+      "id": "auditoria",
+      "label": "Auditoria di Kom el-Dikka",
+      "lane": "Civiche",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "baths",
+      "label": "Complesso termale",
+      "lane": "Civiche",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Abitazioni e botteghe",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "churches",
+      "label": "Chiese e comunità cristiane",
+      "lane": "Religiose",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "harbor",
+      "label": "Porti e magazzini",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "cisterns",
+      "label": "Cisterne e acquedotti",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "shift",
+      "label": "Riduzione di alcune funzioni pubbliche",
+      "lane": "Trasformazione",
+      "start": 2,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

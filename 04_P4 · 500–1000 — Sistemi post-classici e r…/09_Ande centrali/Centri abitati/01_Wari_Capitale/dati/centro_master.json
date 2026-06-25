@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Wari–Huari capitale",
+    "site": "Wari / Huari",
+    "modern_location": "Quinua, regione di Ayacucho, Perù",
+    "coordinates": {
+      "lat": -13.0614,
+      "lon": -74.2046
+    },
+    "scope": "La città di Wari fra circa 550 e 1000, con attenzione all’urbanistica compartimentata, ai templi a D, alla produzione artigianale, alla redistribuzione e alle reti politiche dell’orizzonte medio.",
+    "version": "1.0",
+    "warning": "L’estensione del controllo politico Wari e la natura “imperiale” del sistema restano dibattute. Le stime demografiche e la funzione di alcuni quartieri sono ricostruzioni archeologiche."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "W1",
+      "title": "Museo de Sitio Wari — Ministerio de Cultura",
+      "use": "Collezioni, settori urbani e materiali archeologici.",
+      "url": "https://museos.cultura.pe/museos/museo-de-sitio-wari"
+    },
+    {
+      "id": "W2",
+      "title": "Encyclopaedia Britannica — Huari",
+      "use": "Cronologia e quadro generale della cultura Wari.",
+      "url": "https://www.britannica.com/topic/Huari"
+    },
+    {
+      "id": "W3",
+      "title": "Susan E. Bergh, Wari: Lords of the Ancient Andes",
+      "use": "Arte, ideologia, tessili e organizzazione del mondo Wari.",
+      "url": "https://www.metmuseum.org/art/metpublications/Wari_Lords_of_the_Ancient_Andes"
+    },
+    {
+      "id": "W4",
+      "title": "Isbell & McEwan, Huari Administrative Structure",
+      "use": "Urbanistica, architettura amministrativa e dibattito sullo Stato Wari.",
+      "url": "https://www.jstor.org/stable/280439"
+    },
+    {
+      "id": "W5",
+      "title": "Schreiber, Wari Imperialism in Middle Horizon Peru",
+      "use": "Reti provinciali, strade e amministrazione territoriale.",
+      "url": "https://www.jstor.org/stable/j.ctv1n3x1mw"
+    }
+  ]
+}

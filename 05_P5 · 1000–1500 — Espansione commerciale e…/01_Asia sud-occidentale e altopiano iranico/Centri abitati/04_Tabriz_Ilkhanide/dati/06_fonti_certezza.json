@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Tabriz fu uno dei principali centri commerciali della Via della Seta.",
+    "theme": "commercio",
+    "status": "documentato",
+    "source": "TA1; TA5"
+  },
+  {
+    "claim": "La città e il bazar erano prosperi e famosi già nel XIII secolo.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "TA1"
+  },
+  {
+    "claim": "Tabriz ebbe un ruolo centrale sotto gli Ilkhanidi.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "TA2; TA4"
+  },
+  {
+    "claim": "Rabʿ-e Rashidi fu un importante complesso educativo e di patronato.",
+    "theme": "conoscenza",
+    "status": "documentato",
+    "source": "TA3"
+  },
+  {
+    "claim": "Terremoti ripetuti imposero ricostruzioni e complicano la datazione delle strutture.",
+    "theme": "certezza",
+    "status": "documentato",
+    "source": "TA2"
+  },
+  {
+    "claim": "Le piastrelle policrome divennero una componente distintiva dell’architettura regionale.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "TA4"
+  },
+  {
+    "claim": "La continuità del bazar non implica che ogni edificio attuale sia medievale.",
+    "theme": "certezza",
+    "status": "documentato",
+    "source": "TA1; TA2"
+  },
+  {
+    "claim": "La città rimase importante sotto Qara Qoyunlu e Aq Qoyunlu.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "TA2"
+  }
+]

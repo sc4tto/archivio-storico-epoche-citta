@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Uso iniziale della terrazza",
+    "Prime elevazioni",
+    "Costruzione delle creste",
+    "Rimodellamenti del complesso",
+    "Riduzione e abbandono"
+  ],
+  "items": [
+    {
+      "id": "camp",
+      "label": "Aree di attività e accampamento",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "mounds",
+      "label": "Costruzione di undici rialzi",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "ridges",
+      "label": "Creste di collegamento",
+      "lane": "Monumentali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "food",
+      "label": "Caccia, raccolta e pesca",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "hearth",
+      "label": "Focolari e fosse",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "gather",
+      "label": "Riunioni periodiche",
+      "lane": "Organizzazione",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "remodel",
+      "label": "Aggiunte e rimodellamenti",
+      "lane": "Trasformazione",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

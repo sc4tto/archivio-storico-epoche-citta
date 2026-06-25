@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Luoyang Han–Wei",
+      "lat": 34.735,
+      "lon": 112.625,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "luo",
+      "label": "Fiume Luo",
+      "lat": 34.69,
+      "lon": 112.62,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "hangu",
+      "label": "Passo Hangu",
+      "lat": 34.638,
+      "lon": 110.927,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "changan",
+      "label": "Chang’an",
+      "lat": 34.292,
+      "lon": 108.897,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "hexicorridor",
+      "label": "Corridoio di Hexi",
+      "lat": 39.0,
+      "lon": 98.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "south",
+      "label": "Bacino dello Yangtze",
+      "lat": 31.2,
+      "lon": 112.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "luo",
+      "target": "site",
+      "label": "acqua, canali e trasporto locale",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "hangu",
+      "target": "site",
+      "label": "controllo della via verso Guanzhong",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "changan",
+      "target": "site",
+      "label": "asse fra capitali e trasferimenti di corte",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "hexicorridor",
+      "target": "site",
+      "label": "carovane, ambascerie e merci di lusso",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "south",
+      "target": "site",
+      "label": "riso, tessili e collegamenti meridionali",
+      "status": "sintesi",
+      "food": "sì"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Ban Chiang — modulo multi-grafo",
+    "short_name": "Ban Chiang",
+    "site": "Tumulo abitativo e funerario di Ban Chiang",
+    "modern_location": "Provincia di Udon Thani, Thailandia",
+    "coordinates": {
+      "lat": 17.4078,
+      "lon": 103.2376
+    },
+    "scope": "Grande tumulo preistorico della Thailandia nord-orientale con abitazioni, campi umidi, ceramica, sepolture e produzione di bronzo nel tardo II millennio a.C.",
+    "version": "1.0-blocco_18_p2_asia_sud_orientale_5_centri_v1",
+    "warning": "La cronologia di Ban Chiang è stata più volte rivista. Il modulo usa la sequenza UNESCO intorno al 1495–900 a.C. e segnala le discussioni sulle datazioni più antiche."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "BC_UNESCO",
+      "title": "UNESCO — Ban Chiang Archaeological Site",
+      "url": "https://whc.unesco.org/en/list/575/",
+      "use": "cronologia, agricoltura, ceramica e metallurgia"
+    },
+    {
+      "id": "BC_PENN",
+      "title": "Penn Museum — Ban Chiang Project",
+      "url": "https://www.penn.museum/sites/banchiang/",
+      "use": "storia delle ricerche e collezioni"
+    },
+    {
+      "id": "BC_METAL",
+      "title": "White e Hamilton — The Transmission of Early Bronze Technology to Thailand",
+      "url": "https://doi.org/10.1007/s10963-009-9022-z",
+      "use": "tecnologia e dibattito cronologico"
+    }
+  ]
+}

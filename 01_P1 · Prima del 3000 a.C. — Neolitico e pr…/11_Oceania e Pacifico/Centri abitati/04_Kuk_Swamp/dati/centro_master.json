@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Kuk Swamp — modulo multi-grafo",
+    "short_name": "Kuk Swamp",
+    "site": "Kuk Early Agricultural Site",
+    "modern_location": "Valle del Wahgi, Western Highlands, Papua Nuova Guinea",
+    "coordinates": {
+      "lat": -5.78,
+      "lon": 144.33
+    },
+    "scope": "Paesaggio umido d’altopiano con evidenze di manipolazione del suolo, drenaggio, coltivazione, fossati e trasformazione progressiva verso sistemi agricoli indipendenti.",
+    "version": "1.0-blocco_12_p1_oceania_pacifico_5_centri_v1",
+    "warning": "Le prime tracce indicano gestione e coltivazione, ma non sempre identificano una singola coltura o un villaggio stabile. Le espansioni austronesiane sono molto posteriori e non vengono attribuite alle fasi P1."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "KUK_UNESCO",
+      "title": "UNESCO — Kuk Early Agricultural Site",
+      "url": "https://whc.unesco.org/en/list/887/",
+      "use": "valore universale, paesaggio e sviluppo indipendente dell’agricoltura"
+    },
+    {
+      "id": "KUK_SCIENCE_2003",
+      "title": "Denham et al. — Origins of Agriculture at Kuk Swamp in the Highlands of New Guinea",
+      "url": "https://doi.org/10.1126/science.1085255",
+      "use": "fitoliti, fossati e interpretazione delle prime coltivazioni"
+    },
+    {
+      "id": "KUK_ANU_2017",
+      "title": "Golson et al. — Ten Thousand Years of Cultivation at Kuk Swamp",
+      "url": "https://press.anu.edu.au/publications/series/terra-australis/ten-thousand-years-cultivation-kuk-swamp-highlands-papua-new",
+      "use": "sequenza completa di coltivazione, drenaggio e abitazioni"
+    }
+  ]
+}

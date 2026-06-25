@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Londra, ricostruzione, welfare e Grande Smog",
+    "site": "Londra, ricostruzione, welfare e Grande Smog",
+    "modern_location": "Londra, Regno Unito",
+    "coordinates": {
+      "lat": 51.5074,
+      "lon": -0.1278
+    },
+    "scope": "Londra fra 1945 e 1970: ricostruzione dei danni bellici, espansione dell’edilizia pubblica, applicazione dei piani di decentramento, welfare e NHS, motorizzazione, trasformazione dei docks e crisi ambientale culminata nel Grande Smog del 1952.",
+    "version": "1.0",
+    "warning": "Sono esclusi la riorganizzazione dei Docklands dal 1981, il completamento della Jubilee line, la congestion charge e gli interventi urbani successivi al 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "LO1",
+      "title": "The London Archives — London County Council housing records",
+      "use": "Edilizia pubblica, ricostruzione dopo il Blitz e amministrazione abitativa.",
+      "url": "https://www.thelondonarchives.org/your-research/lcc-housing-records"
+    },
+    {
+      "id": "LO2",
+      "title": "Birmingham City University — The post-war reconstruction planning of London",
+      "use": "County of London Plan, Greater London Plan, decentramento e ricostruzione.",
+      "url": "https://www.open-access.bcu.ac.uk/14316/1/The%20post%20war%20reconstruction%20planning%20of%20London.pdf"
+    },
+    {
+      "id": "LO3",
+      "title": "Greater London Authority — 70 years since the Great London Smog",
+      "use": "Inquinamento da carbone, Grande Smog del 1952 e politiche dell’aria pulita.",
+      "url": "https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-publications/70-years-great-london-smog"
+    },
+    {
+      "id": "LO4",
+      "title": "NHS England — NHS history",
+      "use": "Creazione del National Health Service e trasformazione dell’assistenza sanitaria dal 1948.",
+      "url": "https://www.england.nhs.uk/nhsbirthday/about-the-nhs-birthday/nhs-history/"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Antica Dongola",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Cittadella",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Chiese",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Pianta completa della città",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Regno",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Capitale di Makuria",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Corte reale",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Amministrazione identica in ogni secolo",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Cristianesimo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Chiese e vescovi",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Monasteri",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Uniformità liturgica",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Diplomazia",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Baqt con l’Egitto",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Scambi e tributi",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Applicazione invariata",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Produzione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Ceramica",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Pittura e decorazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Officine localizzate tutte",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Metodo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Scavi polacchi dal 1964",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Conservazione architettonica",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Ogni edificio datato con precisione",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

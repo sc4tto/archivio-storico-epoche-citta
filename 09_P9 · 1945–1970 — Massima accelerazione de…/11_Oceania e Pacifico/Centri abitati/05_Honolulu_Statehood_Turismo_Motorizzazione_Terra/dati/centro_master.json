@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Honolulu, statehood, turismo, motorizzazione e terra",
+    "site": "Honolulu, statehood, turismo, motorizzazione e terra",
+    "modern_location": "Honolulu, Oʻahu, Hawaiʻi, Stati Uniti",
+    "coordinates": {
+      "lat": 21.3099,
+      "lon": -157.8581
+    },
+    "scope": "Honolulu fra 1945 e 1970: smobilitazione militare e persistente presenza strategica, crisi abitativa, statehood del 1959, jet tourism, trasformazione di Waikīkī, Ala Moana Center, suburbanizzazione di Oʻahu, autostrade e crescita portuale; il modulo esplicita colonialismo statunitense, alienazione della terra e disuguaglianze per Native Hawaiians.",
+    "version": "1.0",
+    "warning": "Sono esclusi il Hawaiian Renaissance pienamente sviluppato degli anni settanta, la costruzione tarda delle grandi torri, le crisi turistiche successive e gli sviluppi oltre il 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "HO1",
+      "title": "Hawaiʻi Legislative Reference Bureau — Public Housing in Hawaii, Volume 2",
+      "use": "Carenza abitativa, crescita di popolazione, occupazione e alloggi a Oʻahu.",
+      "url": "https://lrb.hawaii.gov/wp-content/uploads/1967_PublicHousingInHawaii_Volume2.pdf"
+    },
+    {
+      "id": "HO2",
+      "title": "Hawaiʻi DLNR — Matson Line Warehouse Quonset Huts",
+      "use": "Riuso civile delle strutture militari e crisi abitativa postbellica.",
+      "url": "https://dlnr.hawaii.gov/shpd/files/2020/08/Matson-Line-Warehouse.pdf"
+    },
+    {
+      "id": "HO3",
+      "title": "Hawaiʻi Department of Transportation — State Historic Bridge Inventory 2024 Update",
+      "use": "Statehood, turismo, autostrade, motorizzazione e urbanizzazione postbellica.",
+      "url": "https://hidot.hawaii.gov/highways/files/2025/02/SHBIE-2024-Update-Report-20241224.pdf"
+    },
+    {
+      "id": "HO4",
+      "title": "Hawaiʻi DLNR — Henry J. and Alyce Kaiser Estate",
+      "use": "Sviluppo immobiliare, edilizia e trasformazione di Honolulu nel dopoguerra.",
+      "url": "https://dlnr.hawaii.gov/shpd/files/2020/08/Henry-J.-and-Alyce-Kaiser-Estate.pdf"
+    }
+  ]
+}

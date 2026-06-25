@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Cairo, megacittà, informalità, metro e inquinamento",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Gestione metropolitana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Coordinamento fra governatorati, servizi e dati",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Partecipazione locale e responsabilità istituzionale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Abitazione informale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Autocostruzione, reti di vicinato e microeconomie",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Upgrading, titolarità, sgomberi e diritto alla casa",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Mobilità di massa",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Metro, autobus, ferrovia e interscambi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Accessibilità, congestione ed emissioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Aria e rifiuti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Monitoraggio, raccolta e trattamento",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Salute pubblica, lavoro dei raccoglitori e giustizia ambientale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Patrimonio e rischio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Edifici storici, manutenzione e sisma",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Calore estremo, alluvioni improvvise e resilienza",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

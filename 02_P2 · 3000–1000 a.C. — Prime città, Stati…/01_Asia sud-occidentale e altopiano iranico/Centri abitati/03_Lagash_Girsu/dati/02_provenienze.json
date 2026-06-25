@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Lagash / Tell al-Hiba",
+      "lat": 31.4167,
+      "lon": 46.4167,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "girsu",
+      "label": "Girsu / Tello",
+      "lat": 31.561,
+      "lon": 46.174,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "canals",
+      "label": "Canali del territorio di Lagash",
+      "lat": 31.48,
+      "lon": 46.3,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "umma",
+      "label": "Umma",
+      "lat": 31.65,
+      "lon": 45.87,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "ur",
+      "label": "Ur",
+      "lat": 30.9625,
+      "lon": 46.1031,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "elam",
+      "label": "Elam e altopiano iranico",
+      "lat": 32.19,
+      "lon": 48.25,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "girsu",
+      "target": "site",
+      "label": "testi, culto e amministrazione",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "canals",
+      "target": "site",
+      "label": "acqua, pesci e irrigazione",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "umma",
+      "target": "site",
+      "label": "confini agricoli, guerra e scambio",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "ur",
+      "target": "site",
+      "label": "lana, cereali e personale",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "elam",
+      "target": "site",
+      "label": "pietre, metalli e contatti politici",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

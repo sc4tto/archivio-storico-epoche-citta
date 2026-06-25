@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "c",
+      "label": "Bagan–Pagan",
+      "lat": 21.17,
+      "lon": 94.86,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "ayey",
+      "label": "Ayeyarwady",
+      "lat": 21.18,
+      "lon": 94.86,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "popa",
+      "label": "Monte Popa",
+      "lat": 20.92,
+      "lon": 95.25,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "kyaukse",
+      "label": "Kyaukse",
+      "lat": 21.61,
+      "lon": 96.13,
+      "status": "sintesi",
+      "kind": "locale"
+    },
+    {
+      "id": "pyu",
+      "label": "Corridoio delle città Pyu",
+      "lat": 20.0,
+      "lon": 95.2,
+      "status": "sintesi",
+      "kind": "locale"
+    },
+    {
+      "id": "yunnan",
+      "label": "Yunnan / Nanzhao",
+      "lat": 25.0,
+      "lon": 102.7,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "bengala",
+      "label": "Bengala e India orientale",
+      "lat": 23.5,
+      "lon": 88.3,
+      "status": "inferito",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "ayey",
+      "target": "c",
+      "status": "documentato",
+      "label": "trasporto e approvvigionamento",
+      "food": "pesce, persone e merci"
+    },
+    {
+      "source": "popa",
+      "target": "c",
+      "status": "documentato",
+      "label": "paesaggio rituale e risorse",
+      "food": "legname e prodotti collinari"
+    },
+    {
+      "source": "kyaukse",
+      "target": "c",
+      "status": "sintesi",
+      "label": "connessione con aree irrigue",
+      "food": "riso"
+    },
+    {
+      "source": "pyu",
+      "target": "c",
+      "status": "sintesi",
+      "label": "continuità e competizione regionale",
+      "food": "tecniche e popolazioni"
+    },
+    {
+      "source": "yunnan",
+      "target": "c",
+      "status": "sintesi",
+      "label": "movimenti e contatti settentrionali",
+      "food": "persone e cavalli"
+    },
+    {
+      "source": "bengala",
+      "target": "c",
+      "status": "inferito",
+      "label": "circuiti buddhisti e commerciali",
+      "food": "testi e beni"
+    }
+  ]
+}

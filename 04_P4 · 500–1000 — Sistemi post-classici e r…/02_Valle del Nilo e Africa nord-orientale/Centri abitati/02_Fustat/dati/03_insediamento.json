@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Fondazione nel 641",
+    "Quartieri e moschea originaria",
+    "Crescita omayyade",
+    "Riorganizzazioni abbasidi e tulunidi",
+    "Fustat accanto al Cairo fatimide"
+  ],
+  "items": [
+    {
+      "id": "mosque",
+      "label": "Moschea di ʿAmr",
+      "lane": "Religiose",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "khitat",
+      "label": "Quartieri tribali e strade",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Case a corte e abitazioni multipiano",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "markets",
+      "label": "Mercati e caravanserragli",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "kilns",
+      "label": "Fornaci e officine",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "port",
+      "label": "Approdi sul Nilo",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "cairo",
+      "label": "Fondazione di al-Qahira",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

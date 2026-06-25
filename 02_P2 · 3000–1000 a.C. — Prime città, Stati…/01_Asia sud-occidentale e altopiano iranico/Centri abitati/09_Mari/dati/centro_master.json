@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Mari — modulo multi-grafo",
+    "short_name": "Mari",
+    "site": "Mari / Tell Hariri",
+    "modern_location": "Governatorato di Deir ez-Zor, Siria",
+    "coordinates": {
+      "lat": 34.551,
+      "lon": 40.888
+    },
+    "scope": "Città pianificata sul medio Eufrate, con canali di collegamento e irrigazione, templi, palazzi, quartieri artigiani e grandi archivi; nodo fra Mesopotamia, Siria e Anatolia nel III e II millennio a.C.",
+    "version": "1.0-blocco_14_p2_asia_so_completamento_5_centri_v1",
+    "warning": "Il grande palazzo raggiunse la forma nota nel Bronzo medio e fu distrutto da Hammurabi nel XVIII secolo a.C. Le diverse città sovrapposte e i loro canali non furono tutte contemporanee."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "MARI_LOUVRE",
+      "title": "Musée du Louvre — Peinture de l’Investiture, palazzo di Zimri-Lim",
+      "url": "https://collections.louvre.fr/en/ark:/53355/cl010144553",
+      "use": "palazzo, pittura, regalità e cronologia amorrea"
+    },
+    {
+      "id": "MARI_ARCHIVES",
+      "title": "Collège de France — Archives royales de Mari",
+      "url": "https://www.college-de-france.fr/fr/chaire/dominique-charpin-civilisation-mesopotamienne-chaire-statutaire",
+      "use": "testi amministrativi, lettere e diplomazia"
+    },
+    {
+      "id": "MARI_MARGUERON",
+      "title": "Jean-Claude Margueron — Mari, métropole de l’Euphrate",
+      "url": "https://www.editions-picard.com/ouvrage/mari-metropole-de-leuphrate",
+      "use": "urbanistica, canali, palazzi e storia degli scavi"
+    }
+  ]
+}

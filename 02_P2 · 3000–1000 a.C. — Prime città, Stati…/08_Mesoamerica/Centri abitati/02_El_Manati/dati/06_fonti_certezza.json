@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "El Manatí fu un luogo di deposizione rituale e non una città",
+    "theme": "Funzione",
+    "status": "documentato",
+    "source": "EM_ORTIZ"
+  },
+  {
+    "claim": "Sono state recuperate palle di gomma in contesti del Formativo iniziale",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "EM_HOSLER"
+  },
+  {
+    "claim": "La gomma poteva essere modificata mescolando lattice e sostanze vegetali",
+    "theme": "Materiali",
+    "status": "documentato",
+    "source": "EM_TARKANIAN"
+  },
+  {
+    "claim": "Le condizioni umide hanno preservato numerosi oggetti lignei",
+    "theme": "Conservazione",
+    "status": "documentato",
+    "source": "EM_ORTIZ"
+  },
+  {
+    "claim": "Le deposizioni mostrano ordinamento e selezione intenzionale",
+    "theme": "Rituali",
+    "status": "documentato",
+    "source": "EM_ORTIZ"
+  },
+  {
+    "claim": "Ogni palla di gomma fu usata certamente nel gioco formale",
+    "theme": "Gioco della palla",
+    "status": "non_documentato",
+    "source": "Uso preciso non dimostrabile"
+  },
+  {
+    "claim": "I busti raffigurano sovrani storicamente identificati",
+    "theme": "Iconografia",
+    "status": "non_documentato",
+    "source": "Identità sconosciute"
+  },
+  {
+    "claim": "Il sito dipendeva amministrativamente da San Lorenzo",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Relazione regionale non equivalente a subordinazione"
+  }
+]

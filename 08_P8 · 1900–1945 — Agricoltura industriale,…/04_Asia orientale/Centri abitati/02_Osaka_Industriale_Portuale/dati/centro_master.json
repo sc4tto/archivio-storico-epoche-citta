@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Osaka industriale e portuale",
+    "site": "Osaka industriale e portuale",
+    "modern_location": "Osaka, Giappone",
+    "coordinates": {
+      "lat": 34.6937,
+      "lon": 135.5023
+    },
+    "scope": "Osaka fra 1900 e 1945: porto e canali, cotone, metallurgia, chimica e cantieri, espansioni municipali, metropolitana, edilizia popolare, conflitti del lavoro e mobilitazione bellica.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1945. Ricostruzione postbellica, boom industriale e trasformazioni della baia successive sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "OS1",
+      "title": "Osaka City — History",
+      "use": "Storia civica, crescita municipale e infrastrutture.",
+      "url": "https://www.city.osaka.lg.jp/contents/wdu020/enjoy/en/overview/history.html"
+    },
+    {
+      "id": "OS2",
+      "title": "Osaka Museum of History",
+      "use": "Cultura urbana e sviluppo della città.",
+      "url": "https://www.osakamushis.jp/eng/"
+    },
+    {
+      "id": "OS3",
+      "title": "Osaka Port and Harbor Bureau",
+      "use": "Storia del porto e delle infrastrutture marittime.",
+      "url": "https://www.city.osaka.lg.jp/port/"
+    },
+    {
+      "id": "OS4",
+      "title": "National Diet Library",
+      "use": "Fonti su industria, società e pianificazione urbana.",
+      "url": "https://www.ndl.go.jp/"
+    },
+    {
+      "id": "OS5",
+      "title": "Encyclopaedia Britannica — Osaka",
+      "use": "Storia economica e urbana.",
+      "url": "https://www.britannica.com/place/Osaka-Japan"
+    }
+  ]
+}

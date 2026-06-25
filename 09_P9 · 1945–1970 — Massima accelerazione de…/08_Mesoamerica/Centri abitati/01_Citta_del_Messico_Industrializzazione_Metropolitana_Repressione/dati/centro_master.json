@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Città del Messico, industrializzazione e metropoli autoritaria",
+    "site": "Città del Messico, industrializzazione e metropoli autoritaria",
+    "modern_location": "Città del Messico, Messico",
+    "coordinates": {
+      "lat": 19.4326,
+      "lon": -99.1332
+    },
+    "scope": "Città del Messico fra 1945 e 1970: concentrazione industriale e amministrativa, forte immigrazione interna, espansione oltre il Distrito Federal, grandi complessi abitativi, vie rapide, Ciudad Universitaria, Giochi olimpici, apertura del Metro nel 1969 e repressione del movimento studentesco nel 1968.",
+    "version": "1.0",
+    "warning": "Sono esclusi il terremoto del 1985, l’espansione metropolitana tarda, le riforme amministrative successive e le trasformazioni urbane posteriori al 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MX1",
+      "title": "UNAM — Uruchurtu, El Regente de Hierro",
+      "use": "Governo urbano, opere pubbliche, controllo politico e crescita della capitale fra 1952 e 1966.",
+      "url": "https://ru.iis.sociales.unam.mx/bitstream/IIS/6084/2/uruchurtu_tomo_I_rep.pdf"
+    },
+    {
+      "id": "MX2",
+      "title": "UNAM — Industrializzazione e terziarizzazione nella Città del Messico, 1940–1970",
+      "use": "Concentrazione produttiva, occupazione, migrazione e formazione metropolitana.",
+      "url": "https://ru.dgb.unam.mx/server/api/core/bitstreams/fe9e9640-2640-4ddf-be47-e0bccdd14707/content"
+    },
+    {
+      "id": "MX3",
+      "title": "Sistema de Transporte Colectivo — Cronología del Metro",
+      "use": "Costruzione e inaugurazione delle prime linee nel 1969–1970.",
+      "url": "https://www.metro.cdmx.gob.mx/cronologia-del-metro"
+    },
+    {
+      "id": "MX4",
+      "title": "Archivo Histórico UNAM — México 1968",
+      "use": "Movimento studentesco, detenzioni, violazioni dei diritti e repressione a Tlatelolco.",
+      "url": "https://www.ahunam.unam.mx/68/index.html"
+    }
+  ]
+}

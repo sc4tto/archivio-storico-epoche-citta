@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Stallings Island conserva occupazioni del Tardo Arcaico",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "STALLINGS_AA"
+  },
+  {
+    "claim": "Il sito contiene grandi accumuli di molluschi d’acqua dolce",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "STALLINGS_AA"
+  },
+  {
+    "claim": "Le fasi tarde comprendono ceramica a tempera di fibre",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "STALLINGS_JAA"
+  },
+  {
+    "claim": "Le occupazioni dell’isola furono discontinue",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "STALLINGS_AA"
+  },
+  {
+    "claim": "Il sito è importante per comprendere reti sociali ceramiche del Sud-Est",
+    "theme": "Reti",
+    "status": "sintesi",
+    "source": "STALLINGS_JAA"
+  },
+  {
+    "claim": "La prima ceramica della regione fu inventata necessariamente sull’isola",
+    "theme": "Tecnologia",
+    "status": "non_documentato",
+    "source": "Comparsa regionale complessa"
+  },
+  {
+    "claim": "Gli accumuli di conchiglie erano tumuli funerari",
+    "theme": "Funzione",
+    "status": "non_documentato",
+    "source": "Prevalenza di residui domestici"
+  },
+  {
+    "claim": "La società era uno Stato agricolo",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Economia di caccia, raccolta e pesca"
+  }
+]

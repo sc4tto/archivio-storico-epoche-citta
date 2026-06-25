@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Primo insediamento urbano",
+    "Harappano Maturo iniziale",
+    "Massima espansione",
+    "Rimodellamenti e inondazioni",
+    "Trasformazione tardo-harappana"
+  ],
+  "items": [
+    {
+      "id": "lower",
+      "label": "Città bassa a isolati",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "greatbath",
+      "label": "Grande Bagno e piattaforma occidentale",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "wells",
+      "label": "Pozzi e drenaggi capillari",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Case a corte e piani superiori",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "crafts",
+      "label": "Laboratori e botteghe",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "streets",
+      "label": "Strade, vicoli e scarichi",
+      "lane": "Infrastrutture",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "floods",
+      "label": "Rialzi e ricostruzioni",
+      "lane": "Trasformazione",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Puebla industriale e liberale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Tessili",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Filatura, tessitura e forza idraulica",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Fabbriche, salari e disciplina del lavoro",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Ceramica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Talavera, smalti e forni",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Mercati regionali e decorazione architettonica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Mattoni, azulejos e cortili",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Chiese, fabbriche e stazioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Trasporti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Strada per Veracruz e Messico",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Ferrovie, depositi e mercati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Conflitto sociale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Assedi, requisizioni e lavoro operaio",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Proprietà concentrata e quartieri diseguali",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

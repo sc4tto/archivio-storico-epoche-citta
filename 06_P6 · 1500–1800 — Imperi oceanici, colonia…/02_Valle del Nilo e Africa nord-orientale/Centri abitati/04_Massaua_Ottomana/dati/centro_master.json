@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Massaua ottomana",
+    "site": "Massaua ottomana",
+    "modern_location": "Massaua, Eritrea",
+    "coordinates": {
+      "lat": 15.6097,
+      "lon": 39.4746
+    },
+    "scope": "Massaua fra 1557 e 1800: porto ottomano del Mar Rosso, isole portuali, dogane, commercio con l’altopiano, comunità mercantili e amministrazione dei naib.",
+    "version": "1.0",
+    "warning": "Il modulo esclude la ricostruzione egiziana e italiana dell’Ottocento. Molti edifici oggi visibili appartengono a fasi successive o sono stati profondamente restaurati."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MA1",
+      "title": "Encyclopaedia Britannica — Massawa",
+      "use": "Storia del porto e posizione sul Mar Rosso.",
+      "url": "https://www.britannica.com/place/Massawa"
+    },
+    {
+      "id": "MA2",
+      "title": "Massawa — historical overview",
+      "use": "Occupazione ottomana, naib e relazioni con l’altopiano.",
+      "url": "https://en.wikipedia.org/wiki/Massawa"
+    },
+    {
+      "id": "MA3",
+      "title": "The Metropolitan Museum of Art — Ottoman art",
+      "use": "Contesto dell’espansione ottomana e della cultura materiale.",
+      "url": "https://www.metmuseum.org/toah/hd/otto1/hd_otto1.htm"
+    },
+    {
+      "id": "MA4",
+      "title": "UNESCO Silk Roads — Maritime routes",
+      "use": "Quadro delle reti commerciali dell’Oceano Indiano e Mar Rosso.",
+      "url": "https://en.unesco.org/silkroad/about-silk-roads"
+    },
+    {
+      "id": "MA5",
+      "title": "Encyclopaedia Britannica — Eritrea",
+      "use": "Contesto storico regionale e rapporti fra costa e altopiano.",
+      "url": "https://www.britannica.com/place/Eritrea"
+    }
+  ]
+}

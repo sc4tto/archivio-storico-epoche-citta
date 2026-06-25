@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Istanbul postbellica, industrializzata e migrante",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Infrastrutture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Strade, ferrovie, autobus, porti, aeroporti, elettricità e telecomunicazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Acqua, fognature, ospedali, mercati, scuole e sanità urbana",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Economia urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "porto, tessili, alimentari, cantieri, metalmeccanica, commercio e turismo",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Industria, commercio, credito, petrolio, logistica e approvvigionamento",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Politica e istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "repubblica parlamentare, municipalità e interventi militari",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Municipalità, ministeri, eserciti, partiti e servizi pubblici",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "migranti anatolici, operai, mercanti, minoranze greche, armene ed ebraiche, studenti e impiegati",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Migrazioni, università, sindacati, associazioni, comunità religiose e stampa",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Crisi e disuguaglianze",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "pogrom, repressione, sfratti, sovraffollamento, inquinamento e rischio sismico",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Sgomberi, lavoro precario, repressione e servizi distribuiti in modo diseguale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Taputapuātea–ʻŌpoʻa, centro māʻohi",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Marae e rituale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Ahu, corti e pietre erette",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Genealogie, antenati e culto di ʻOro",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Canoe a bilanciere e d’altura",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Stelle, onde, uccelli e passaggi nel reef",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Potere",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Ariʻi, sacerdoti e guerrieri",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Alleanze, assemblee e doni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Paesaggio produttivo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Terrazze, taro e arboricoltura",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Laguna, barriera e pesca oceanica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Cultura materiale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Tapa, stuoie e cordami",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Scultura, ornamenti e offerte",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Tiwanaku centro spirituale e politico",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Pietra monumentale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Taglio standardizzato di andesite",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Incastri e portali monolitici",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Acqua e agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Sukakollos e canali",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Drenaggi urbani",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Reti ecologiche",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Colonizzazione di valli",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Carovane e scambio verticale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Rituale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Iconografia del dio dei bastoni",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Processioni e consumo di bevande",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Organizzazione sociale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Quartieri comunitari",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Coordinamento di lavoro monumentale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

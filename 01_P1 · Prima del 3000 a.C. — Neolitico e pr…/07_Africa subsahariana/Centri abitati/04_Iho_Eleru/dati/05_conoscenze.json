@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Ihò Eléérú",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Tecnologia litica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Scheggiatura",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Ritocco",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Selezione delle materie prime",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Ambiente tropicale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Piante forestali",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Fauna di foresta-savana",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Cicli stagionali",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Alimentazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Raccolta di frutti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Caccia",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Cottura",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Fuoco",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Gestione dei focolari",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Accumuli di cenere",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Manutenzione degli spazi",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Ritualità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Scavo della fossa",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Deposizione",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Significato sociale",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Biologia umana",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Datazione del cranio",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Morfologia comparata",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Specie distinta",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

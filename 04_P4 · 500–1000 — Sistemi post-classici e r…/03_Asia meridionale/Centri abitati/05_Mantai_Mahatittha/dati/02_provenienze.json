@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Mantai / Mahatittha",
+      "lat": 8.967,
+      "lon": 79.995,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "river",
+      "label": "Malvathu Oya",
+      "lat": 8.75,
+      "lon": 80.15,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "anu",
+      "label": "Anuradhapura",
+      "lat": 8.311,
+      "lon": 80.404,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "tamil",
+      "label": "Costa del Tamil Nadu",
+      "lat": 9.5,
+      "lon": 79.3,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "gulf",
+      "label": "Golfo Persico e Mar Rosso",
+      "lat": 22.0,
+      "lon": 55.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "sea",
+      "label": "Oceano Indiano e Sud-est asiatico",
+      "lat": 7.0,
+      "lon": 90.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "river",
+      "target": "site",
+      "label": "riso, acqua e accesso all’interno",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "anu",
+      "target": "site",
+      "label": "tributi, pellegrini e domanda urbana",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "tamil",
+      "target": "site",
+      "label": "ceramiche, tessili, mercanti e idee",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "gulf",
+      "target": "site",
+      "label": "vetro, monete e merci occidentali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "sea",
+      "target": "site",
+      "label": "spezie, perle e traffici oceanici",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

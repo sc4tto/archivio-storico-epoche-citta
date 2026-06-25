@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Persepoli — modulo multi-grafo",
+    "short_name": "Persepoli",
+    "site": "Complesso reale achemenide di Persepoli",
+    "modern_location": "Fars, Iran",
+    "coordinates": {
+      "lat": 29.94,
+      "lon": 52.89
+    },
+    "scope": "Complesso reale achemenide fondato da Dario I intorno al 518 a.C. su una grande terrazza, con Apadana, Porta di tutte le Nazioni, Palazzo di Dario, Sala delle Cento Colonne, rilievi, archivi e infrastrutture di servizio.",
+    "version": "1.0-blocco_25_p3_asia_so_5_centri_v1",
+    "warning": "Persepoli fu soprattutto sede cerimoniale e amministrativa reale, non una città ordinaria comparabile a Babilonia. Le interpretazioni delle processioni e delle delegazioni devono restare separate dai dati epigrafici."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "PER_UNESCO",
+      "title": "UNESCO — Persepolis",
+      "url": "https://whc.unesco.org/en/list/114/",
+      "use": "terrazza, palazzi, rilievi e valore archeologico"
+    },
+    {
+      "id": "PER_PFA",
+      "title": "Institute for the Study of Ancient Cultures — Persepolis Fortification Archive",
+      "url": "https://isac.uchicago.edu/research/projects/persepolis-fortification-archive-project",
+      "use": "amministrazione, razioni, viaggiatori e sigilli"
+    },
+    {
+      "id": "PER_OI",
+      "title": "University of Chicago — Persepolis and Ancient Iran",
+      "url": "https://isac.uchicago.edu/research/publications/misc/persepolis-and-ancient-iran",
+      "use": "scavi, fotografie e documentazione architettonica"
+    }
+  ]
+}

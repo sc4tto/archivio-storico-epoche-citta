@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Menfi — modulo multi-grafo",
+    "short_name": "Menfi",
+    "site": "Menfi / Mit Rahina e necropoli menfita",
+    "modern_location": "Governatorato di Giza, Egitto",
+    "coordinates": {
+      "lat": 29.849,
+      "lon": 31.254
+    },
+    "scope": "Capitale e centro amministrativo dell’Egitto faraonico presso l’ingresso del Delta, con tempio di Ptah, palazzi, laboratori, approdi e un vasto sistema funerario da Saqqara a Giza e Dahshur.",
+    "version": "1.0-blocco_15_p2_valle_nilo_5_centri_v1",
+    "warning": "Il modulo distingue la città di Menfi dalla più ampia necropoli menfita. Monumenti di Giza, Saqqara e Dahshur appartengono a fasi e complessi differenti e non costituiscono un unico quartiere urbano."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "MEMPHIS_UNESCO",
+      "title": "UNESCO — Memphis and its Necropolis",
+      "url": "https://whc.unesco.org/en/list/86/",
+      "use": "capitale, templi, palazzi, laboratori e necropoli"
+    },
+    {
+      "id": "DIGITAL_MEMPHIS",
+      "title": "UCL Digital Egypt — Memphis",
+      "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/memphis/index.html",
+      "use": "topografia, storia e monumenti della città"
+    },
+    {
+      "id": "AERA_GIZA",
+      "title": "AERA — Ancient Egypt Research Associates",
+      "url": "https://aeraweb.org/",
+      "use": "insediamenti, cantieri e organizzazione del lavoro nella regione menfita"
+    }
+  ]
+}

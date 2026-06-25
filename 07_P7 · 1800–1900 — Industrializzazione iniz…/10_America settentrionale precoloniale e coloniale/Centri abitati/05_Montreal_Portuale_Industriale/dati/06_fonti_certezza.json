@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Montréal divenne il principale centro commerciale e industriale del Canada ottocentesco.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "MO2; MO5"
+  },
+  {
+    "claim": "Il canale di Lachine favorì navigazione, energia e localizzazione industriale.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "MO2"
+  },
+  {
+    "claim": "Porto e ferrovie collegarono Great Lakes, Atlantico e mercati continentali.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "MO2; MO5"
+  },
+  {
+    "claim": "L’immigrazione irlandese e le epidemie trasformarono la società urbana.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "MO3; MO4"
+  },
+  {
+    "claim": "Quartieri operai crebbero vicino a canale, fabbriche e ferrovie.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "MO2; MO3"
+  },
+  {
+    "claim": "Divisioni linguistiche, religiose e di classe segnarono la politica cittadina.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "MO3; MO5"
+  },
+  {
+    "claim": "La crescita avvenne su territori Kanien’kehá:ka inseriti in un processo coloniale.",
+    "theme": "indigeni",
+    "status": "documentato",
+    "source": "MO1; MO4"
+  },
+  {
+    "claim": "Le infrastrutture novecentesche sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "MO1; MO5"
+  }
+]

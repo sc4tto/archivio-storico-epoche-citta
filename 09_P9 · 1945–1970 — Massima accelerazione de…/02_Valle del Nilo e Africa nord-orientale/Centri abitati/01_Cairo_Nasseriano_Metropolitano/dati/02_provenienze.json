@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Cairo",
+      "lat": 30.0444,
+      "lon": 31.2357,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "del",
+      "label": "Delta del Nilo",
+      "lat": 30.8,
+      "lon": 31.1,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "giz",
+      "label": "Giza e cintura occidentale",
+      "lat": 30.01,
+      "lon": 31.21,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "hel",
+      "label": "Helwan e zona industriale",
+      "lat": 29.85,
+      "lon": 31.33,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "ale",
+      "label": "Alessandria e Mediterraneo",
+      "lat": 31.2,
+      "lon": 29.92,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "asy",
+      "label": "Medio e Alto Egitto",
+      "lat": 27.18,
+      "lon": 31.18,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "suez",
+      "label": "Suez e Mar Rosso",
+      "lat": 29.97,
+      "lon": 32.55,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "del",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie, canali e camion",
+      "food": "grano, riso, ortaggi e latte"
+    },
+    {
+      "source": "giz",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ponti e strade metropolitane",
+      "food": "ortaggi, frutta, pietra e lavoratori"
+    },
+    {
+      "source": "hel",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e strade",
+      "food": "prodotti industriali e forza lavoro"
+    },
+    {
+      "source": "ale",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia Cairo–Alessandria",
+      "food": "merci importate, cotone e prodotti portuali"
+    },
+    {
+      "source": "asy",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia della valle del Nilo",
+      "food": "cereali, bestiame e migranti"
+    },
+    {
+      "source": "suez",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e ferrovia",
+      "food": "combustibili, merci e traffici marittimi"
+    }
+  ]
+}

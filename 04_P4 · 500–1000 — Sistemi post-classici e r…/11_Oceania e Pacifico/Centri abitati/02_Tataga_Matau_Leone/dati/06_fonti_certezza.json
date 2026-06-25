@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Tataga-Matau fu una grande cava di basalto utilizzata per un lungo arco cronologico.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "TM1; TM2"
+  },
+  {
+    "claim": "L’estrazione e la sbozzatura producevano asce e preforme.",
+    "theme": "artigianato",
+    "status": "documentato",
+    "source": "TM1; TM3"
+  },
+  {
+    "claim": "Il complesso comprende fosse, terrazze e grandi accumuli di schegge.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "TM1; TM2"
+  },
+  {
+    "claim": "Alcune opere sono state interpretate come difensive.",
+    "theme": "difesa",
+    "status": "sintesi",
+    "source": "TM1; TM2"
+  },
+  {
+    "claim": "Utensili e preforme circolavano oltre la cava.",
+    "theme": "commercio",
+    "status": "documentato",
+    "source": "TM3; TM4"
+  },
+  {
+    "claim": "La cronologia delle singole fortificazioni non è uniforme.",
+    "theme": "certezza",
+    "status": "documentato",
+    "source": "TM1"
+  },
+  {
+    "claim": "Il sostegno alimentare proveniva verosimilmente dai villaggi costieri.",
+    "theme": "alimentazione",
+    "status": "inferito",
+    "source": "TM3; TM5"
+  },
+  {
+    "claim": "Il sito è parte del patrimonio vivente di Leone e Tutuila.",
+    "theme": "continuità",
+    "status": "documentato",
+    "source": "TM1; TM5"
+  }
+]

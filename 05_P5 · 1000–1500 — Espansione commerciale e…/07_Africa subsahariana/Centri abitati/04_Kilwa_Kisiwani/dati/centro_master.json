@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Kilwa Kisiwani, città-portuale swahili",
+    "site": "Rovine di Kilwa Kisiwani",
+    "modern_location": "Lindi Region, Tanzania",
+    "coordinates": {
+      "lat": -8.957,
+      "lon": 39.522
+    },
+    "scope": "Kilwa Kisiwani fra 1000 e 1500: crescita portuale, sultanato swahili, commercio oceanico, architettura in pietra corallina e apogeo tra XIII e XIV secolo.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1500. L’occupazione portoghese iniziata nel 1505 è esclusa."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "KI1",
+      "title": "UNESCO — Ruins of Kilwa Kisiwani and Songo Mnara",
+      "use": "Città swahili, commercio oceanico, moschee e palazzi.",
+      "url": "https://whc.unesco.org/en/list/144/"
+    },
+    {
+      "id": "KI2",
+      "title": "Encyclopaedia Britannica — Kilwa",
+      "use": "Storia del sultanato e commercio dell’Oceano Indiano.",
+      "url": "https://www.britannica.com/place/Kilwa-Tanzania"
+    },
+    {
+      "id": "KI3",
+      "title": "Metropolitan Museum — The Swahili Coast",
+      "use": "Cultura materiale e reti commerciali swahili.",
+      "url": "https://www.metmuseum.org/toah/hd/swah/hd_swah.htm"
+    },
+    {
+      "id": "KI4",
+      "title": "British Museum — Swahili Coast collections",
+      "use": "Ceramiche, monete e oggetti delle reti oceaniche.",
+      "url": "https://www.britishmuseum.org/collection/term/x109263"
+    },
+    {
+      "id": "KI5",
+      "title": "UNESCO — General History of Africa",
+      "use": "Contesto delle città portuali dell’Africa orientale.",
+      "url": "https://www.unesco.org/en/general-history-africa"
+    }
+  ]
+}

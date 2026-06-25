@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Cahokia mississippiana",
+    "site": "Cahokia Mounds",
+    "modern_location": "Collinsville, Illinois, Stati Uniti",
+    "coordinates": {
+      "lat": 38.6551,
+      "lon": -90.0618
+    },
+    "scope": "Cahokia fra 1000 e 1400, con particolare attenzione al rapido sviluppo urbano del XI secolo, al picco fra 1050 e 1150 e alla successiva contrazione.",
+    "version": "1.0",
+    "warning": "Le stime demografiche e le interpretazioni politiche sono presentate come intervalli e modelli. Le ricostruzioni etniche dirette con popoli storici non vengono date per automatiche."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "CA1",
+      "title": "UNESCO — Cahokia Mounds State Historic Site",
+      "use": "Cronologia, scala urbana, tumuli e ruolo economico-religioso.",
+      "url": "https://whc.unesco.org/en/list/198/"
+    },
+    {
+      "id": "CA2",
+      "title": "Cahokia Mounds State Historic Site",
+      "use": "Storia del sito, aree monumentali e interpretazione pubblica.",
+      "url": "https://cahokiamounds.org/"
+    },
+    {
+      "id": "CA3",
+      "title": "Illinois State Museum — Mississippian Culture",
+      "use": "Economia agricola, cultura materiale e reti del Mississippi.",
+      "url": "https://www.museum.state.il.us/muslink/nat_amer/pre/htmls/miss.html"
+    },
+    {
+      "id": "CA4",
+      "title": "National Park Service — Mississippian and Late Prehistoric Period",
+      "use": "Quadro regionale delle società mississippiane.",
+      "url": "https://www.nps.gov/articles/000/southeastern-prehistory-mississippian-and-late-prehistoric-period.htm"
+    },
+    {
+      "id": "CA5",
+      "title": "Encyclopaedia Britannica — Cahokia",
+      "use": "Sintesi storica e archeologica.",
+      "url": "https://www.britannica.com/place/Cahokia-Mounds"
+    }
+  ]
+}

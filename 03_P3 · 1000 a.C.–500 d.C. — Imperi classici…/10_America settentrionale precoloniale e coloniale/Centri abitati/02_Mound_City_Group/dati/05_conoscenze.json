@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Mound City Group",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Geometria",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Recinto",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Accessi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Unità di misura",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Funerario",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Tumuli",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Cremazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Gerarchia politica certa",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Materiali esotici",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Rame",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Mica",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Conchiglie marine",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Reti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Grandi Laghi",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Appalachi",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Golfo",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Insediamento",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Raduni periodici",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_2",
+          "label": "Gruppi dispersi",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Grande città permanente",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Conservazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Camp Sherman",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Ricostruzioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Ogni tumulo intatto",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

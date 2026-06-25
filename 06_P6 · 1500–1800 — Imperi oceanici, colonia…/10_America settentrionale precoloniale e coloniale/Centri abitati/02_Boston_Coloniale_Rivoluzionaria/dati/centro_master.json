@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Boston coloniale e rivoluzionaria",
+    "site": "Boston coloniale e rivoluzionaria",
+    "modern_location": "Boston, Massachusetts, Stati Uniti",
+    "coordinates": {
+      "lat": 42.3601,
+      "lon": -71.0589
+    },
+    "scope": "Boston fra 1630 e 1800: porto, moli, mercati, case di riunione, cantieri, fortificazioni, quartieri e trasformazioni della guerra d’indipendenza e della prima repubblica.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1800. Riempimenti ottocenteschi di Back Bay, ferrovie, immigrazione industriale e trasformazioni metropolitane sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "BO1",
+      "title": "National Park Service — Boston National Historical Park",
+      "use": "Siti coloniali e rivoluzionari.",
+      "url": "https://www.nps.gov/bost/learn/historyculture/index.htm"
+    },
+    {
+      "id": "BO2",
+      "title": "Encyclopaedia Britannica — Boston",
+      "use": "Fondazione, porto e rivoluzione.",
+      "url": "https://www.britannica.com/place/Boston"
+    },
+    {
+      "id": "BO3",
+      "title": "Massachusetts Historical Society",
+      "use": "Fonti coloniali, commerciali e rivoluzionarie.",
+      "url": "https://www.masshist.org/"
+    },
+    {
+      "id": "BO4",
+      "title": "National Park Service — Boston African American National Historic Site",
+      "use": "Schiavitù, libertà e comunità afroamericana.",
+      "url": "https://www.nps.gov/boaf/"
+    },
+    {
+      "id": "BO5",
+      "title": "Massachusetts Archives",
+      "use": "Documenti di governo e cartografia.",
+      "url": "https://www.sec.state.ma.us/divisions/archives/archives.htm"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Saigon coloniale, industriale e occupata",
+    "site": "Saigon coloniale, industriale e occupata",
+    "modern_location": "Ho Chi Minh City, Vietnam",
+    "coordinates": {
+      "lat": 10.7769,
+      "lon": 106.7009
+    },
+    "scope": "Saigon–Cholon fra 1900 e 1945: porto coloniale, riso e gomma, ferrovia e tram, municipio e servizi, quartieri operai e mercantili, nazionalismo, occupazione giapponese e crisi del 1945.",
+    "version": "1.0",
+    "warning": "Il modulo termina nell’agosto 1945. Prima guerra d’Indocina, Repubblica del Vietnam, guerra americana e trasformazioni di Ho Chi Minh City sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SA1",
+      "title": "Archives nationales d’outre-mer",
+      "use": "Amministrazione, urbanistica e economia dell’Indocina francese.",
+      "url": "https://anom.archivesnationales.culture.gouv.fr/"
+    },
+    {
+      "id": "SA2",
+      "title": "National Archives of Vietnam",
+      "use": "Fonti amministrative e storiche su Saigon e Cocincina.",
+      "url": "https://www.archives.org.vn/"
+    },
+    {
+      "id": "SA3",
+      "title": "Ho Chi Minh City Museum",
+      "use": "Storia urbana, coloniale e rivoluzionaria.",
+      "url": "https://hcmc-museum.edu.vn/"
+    },
+    {
+      "id": "SA4",
+      "title": "Bibliothèque nationale de France — Gallica",
+      "use": "Carte, fotografie e pubblicazioni coloniali.",
+      "url": "https://gallica.bnf.fr/"
+    },
+    {
+      "id": "SA5",
+      "title": "Encyclopaedia Britannica — Ho Chi Minh City",
+      "use": "Storia di Saigon e ruolo portuale.",
+      "url": "https://www.britannica.com/place/Ho-Chi-Minh-City"
+    }
+  ]
+}

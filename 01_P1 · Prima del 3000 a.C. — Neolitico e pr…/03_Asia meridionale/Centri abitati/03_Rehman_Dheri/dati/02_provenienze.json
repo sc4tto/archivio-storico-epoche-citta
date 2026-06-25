@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Rehman Dheri",
+      "lat": 31.5,
+      "lon": 70.09,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "gomal",
+      "label": "Piana e fiume Gomal",
+      "lat": 31.65,
+      "lon": 70.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": -20,
+      "anchor": "end"
+    },
+    {
+      "id": "zhob",
+      "label": "Corridoio dello Zhob",
+      "lat": 31.4,
+      "lon": 69.5,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 10,
+      "dy": 25,
+      "anchor": "start"
+    },
+    {
+      "id": "hills",
+      "label": "Margini collinari",
+      "lat": 31.8,
+      "lon": 70.5,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 28,
+      "anchor": "middle"
+    },
+    {
+      "id": "baloch",
+      "label": "Belucistan e Mehrgarh",
+      "lat": 29.4,
+      "lon": 67.6,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "indus",
+      "label": "Pianure dell’Indo",
+      "lat": 30.5,
+      "lon": 71.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "gomal",
+      "target": "site",
+      "label": "suoli, acqua e colture",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "zhob",
+      "target": "site",
+      "label": "mobilità e materiali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "hills",
+      "target": "site",
+      "label": "pascoli e pietra",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "baloch",
+      "target": "site",
+      "label": "confronti di figurine, ceramica e perle",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "indus",
+      "target": "site",
+      "label": "reti formative dell’early Harappan",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

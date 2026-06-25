@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_59_P6_Asia_Sud_Occidentale_5_Centri_v1",
+  "macroregion": "Asia sud-occidentale e altopiano iranico",
+  "centers": [
+    "01_Istanbul_Ottomana",
+    "02_Isfahan_Safavide",
+    "03_Aleppo_Ottomana",
+    "04_Baghdad_Ottomana_Safavide",
+    "05_Damasco_Ottomana"
+  ],
+  "uses_central_assets": true
+}

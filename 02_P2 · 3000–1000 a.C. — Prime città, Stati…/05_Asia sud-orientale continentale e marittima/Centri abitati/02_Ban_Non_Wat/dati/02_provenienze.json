@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Ban Non Wat",
+      "lat": 15.174,
+      "lon": 102.307,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "mun",
+      "label": "Bacino del fiume Mun",
+      "lat": 15.2,
+      "lon": 102.45,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "phimai",
+      "label": "Piana di Phimai",
+      "lat": 15.22,
+      "lon": 102.49,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "nonmuang",
+      "label": "Non Muang Kao",
+      "lat": 15.25,
+      "lon": 102.35,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "copper",
+      "label": "Aree cuprifere di Khao Wong Prachan",
+      "lat": 14.85,
+      "lon": 100.75,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "mekong",
+      "label": "Reti del Mekong",
+      "lat": 15.7,
+      "lon": 104.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "mun",
+      "target": "site",
+      "label": "acqua, pesci e mobilità",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "phimai",
+      "target": "site",
+      "label": "riso e suoli",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "nonmuang",
+      "target": "site",
+      "label": "ceramica e pratiche funerarie",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "copper",
+      "target": "site",
+      "label": "rame e bronzo",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "mekong",
+      "target": "site",
+      "label": "contatti regionali",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

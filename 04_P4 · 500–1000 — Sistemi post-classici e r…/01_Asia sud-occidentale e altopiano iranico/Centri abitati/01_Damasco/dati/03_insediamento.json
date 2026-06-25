@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Città tardoantica bizantina",
+    "Conquista araba e primo islam",
+    "Capitale omayyade",
+    "Grande moschea e riorganizzazione urbana",
+    "Età abbaside e autonomie regionali"
+  ],
+  "items": [
+    {
+      "id": "street",
+      "label": "Via Recta e griglia romana",
+      "lane": "Urbane",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "mosque",
+      "label": "Moschea degli Omayyadi",
+      "lane": "Religiose",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "markets",
+      "label": "Suq e quartieri artigiani",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "walls",
+      "label": "Mura e porte",
+      "lane": "Difensive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "water",
+      "label": "Canali della Ghouta",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "churches",
+      "label": "Chiese e comunità cristiane",
+      "lane": "Religiose",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "shift",
+      "label": "Perdita del ruolo di capitale",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Città del Messico rivoluzionaria e postrivoluzionaria",
+    "site": "Città del Messico rivoluzionaria e postrivoluzionaria",
+    "modern_location": "Città del Messico, Messico",
+    "coordinates": {
+      "lat": 19.4326,
+      "lon": -99.1332
+    },
+    "scope": "Città del Messico fra 1900 e 1945: celebrazioni del 1910, Rivoluzione messicana, Decena Trágica, crisi alimentari, ricostruzione istituzionale, sanità, edilizia moderna e industrializzazione di guerra.",
+    "version": "1.0",
+    "warning": "Sono escluse la crescita metropolitana successiva al 1945, la metropolitana, le grandi autostrade urbane e l’espansione periferica della seconda metà del Novecento."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MX1",
+      "title": "UNESCO — Historic Centre of Mexico City and Xochimilco",
+      "use": "Palinsesto urbano, edifici pubblici e paesaggio chinampero.",
+      "url": "https://whc.unesco.org/en/list/412/"
+    },
+    {
+      "id": "MX2",
+      "title": "Instituto Nacional de Estudios Históricos de las Revoluciones de México",
+      "use": "Rivoluzione, costituzione e Stato postrivoluzionario.",
+      "url": "https://www.inehrm.gob.mx/"
+    },
+    {
+      "id": "MX3",
+      "title": "Instituto Nacional de Antropología e Historia — Fototeca Nacional",
+      "use": "Archivio Casasola, città e rivoluzione.",
+      "url": "https://fototeca.inah.gob.mx/"
+    },
+    {
+      "id": "MX4",
+      "title": "Archivo General de la Nación de México",
+      "use": "Amministrazione, sanità, trasporti e società urbana.",
+      "url": "https://www.gob.mx/agn"
+    },
+    {
+      "id": "MX5",
+      "title": "Museo Nacional de la Revolución",
+      "use": "Memoria urbana e politica della Rivoluzione.",
+      "url": "https://www.cultura.cdmx.gob.mx/recintos/mnr"
+    }
+  ]
+}

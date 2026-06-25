@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Kinshasa, indipendenza, crisi e crescita urbana",
+    "site": "Kinshasa, indipendenza, crisi e crescita urbana",
+    "modern_location": "Kinshasa, Repubblica Democratica del Congo",
+    "coordinates": {
+      "lat": -4.4419,
+      "lon": 15.2663
+    },
+    "scope": "Léopoldville–Kinshasa fra 1945 e 1970: forte crescita demografica, città coloniale segregata e cités africaines, rivolte del gennaio 1959, indipendenza del Congo nel 1960, crisi politica e militare, governo Mobutu dal 1965, ridenominazione Kinshasa nel 1966 ed espansione verso est.",
+    "version": "1.0",
+    "warning": "Sono esclusi la zairianizzazione del 1971, le politiche di autenticità successive, la crisi economica tarda e l’espansione urbana oltre il 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "KI1",
+      "title": "World Bank — Democratic Republic of Congo Urbanization Review",
+      "use": "Crescita urbana, struttura economica, infrastrutture e ruolo di Kinshasa.",
+      "url": "https://openknowledge.worldbank.org/entities/publication/b0039fe1-bf47-52c5-8403-bee976f059f3"
+    },
+    {
+      "id": "KI2",
+      "title": "Royal Museum for Central Africa — Geological constraints on urban sustainability, Kinshasa",
+      "use": "Fasi di crescita, espansione spaziale e vulnerabilità ambientali.",
+      "url": "https://www.africamuseum.be/publication_docs/2010_Lateef-Kinshasa-PDF.pdf"
+    },
+    {
+      "id": "KI3",
+      "title": "JICA — Urban Rehabilitation Plan of Kinshasa",
+      "use": "Storia delle reti, uso del suolo, Boulevard Lumumba, N’djili e infrastrutture.",
+      "url": "https://openjicareport.jica.go.jp/pdf/12008611_01.pdf"
+    },
+    {
+      "id": "KI4",
+      "title": "EISA — Democratic Republic of Congo: Road to Political Transition",
+      "use": "Rivolte del 1959, indipendenza del 1960 e crisi politica congolese.",
+      "url": "https://www.eisa.org/pdf/drc2006background.pdf"
+    }
+  ]
+}

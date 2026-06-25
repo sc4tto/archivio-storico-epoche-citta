@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Ujjain fu una città fortificata e un centro principale del Malwa",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "UJJ_ALLCHIN"
+  },
+  {
+    "claim": "La città era protetta da terrapieno e fossato",
+    "theme": "Difese",
+    "status": "documentato",
+    "source": "UJJ_SCHLINGLOFF"
+  },
+  {
+    "claim": "Ujjain era collegata alle vie verso Bharuch e il Deccan",
+    "theme": "Commercio",
+    "status": "documentato",
+    "source": "UJJ_BASANT"
+  },
+  {
+    "claim": "Monete e reperti mostrano una lunga continuità urbana",
+    "theme": "Cronologia",
+    "status": "sintesi",
+    "source": "UJJ_ALLCHIN"
+  },
+  {
+    "claim": "La posizione sul Kshipra aveva funzioni economiche e rituali",
+    "theme": "Paesaggio",
+    "status": "sintesi",
+    "source": "UJJ_BASANT"
+  },
+  {
+    "claim": "L’intera pianta antica è ricostruibile con precisione",
+    "theme": "Topografia",
+    "status": "non_documentato",
+    "source": "Città moderna sovrapposta"
+  },
+  {
+    "claim": "Ogni tradizione astronomica attribuita a Ujjain è già documentata nel primo periodo urbano",
+    "theme": "Astronomia",
+    "status": "non_documentato",
+    "source": "Tradizioni di cronologie diverse"
+  },
+  {
+    "claim": "Le fortificazioni ebbero una sola fase costruttiva",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Rifacimenti e datazioni discusse"
+  }
+]

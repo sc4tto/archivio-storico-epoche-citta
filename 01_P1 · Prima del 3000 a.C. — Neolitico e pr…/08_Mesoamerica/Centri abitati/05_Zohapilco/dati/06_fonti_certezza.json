@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Zohapilco fu frequentato per millenni sul margine del lago Chalco",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "NIEDERBERGER_ZOHAPILCO"
+  },
+  {
+    "claim": "La sussistenza sfruttava intensamente risorse lacustri",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "NIEDERBERGER_ZOHAPILCO"
+  },
+  {
+    "claim": "Il sito era all’aperto, non un riparo in grotta",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "NIEDERBERGER_ZOHAPILCO"
+  },
+  {
+    "claim": "Le fasi tarde includono ceramica iniziale",
+    "theme": "Ceramica",
+    "status": "sintesi",
+    "source": "NIEDERBERGER_ZOHAPILCO"
+  },
+  {
+    "claim": "L’occupazione diventò progressivamente più stabile",
+    "theme": "Sedentarietà",
+    "status": "sintesi",
+    "source": "MESOAMERICA_HANDBOOK"
+  },
+  {
+    "claim": "Il mais era già l’unico alimento fondamentale",
+    "theme": "Agricoltura",
+    "status": "non_documentato",
+    "source": "Economia lacustre e mista"
+  },
+  {
+    "claim": "Il sito fu continuamente abitato senza interruzioni",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Sequenza lunga ma articolata"
+  },
+  {
+    "claim": "Le figurine e ceramiche più tarde descrivono le fasi iniziali del sito",
+    "theme": "Metodo",
+    "status": "non_documentato",
+    "source": "Necessaria distinzione cronologica"
+  }
+]

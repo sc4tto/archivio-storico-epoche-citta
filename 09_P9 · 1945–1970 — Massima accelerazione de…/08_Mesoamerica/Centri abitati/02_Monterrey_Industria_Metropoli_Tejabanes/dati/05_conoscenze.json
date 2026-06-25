@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Monterrey, industria pesante e metropoli dei lavoratori",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Industria pesante",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Acciaio, vetro, cemento, birra, chimica e meccanica",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Gestione d’impresa, energia, ferrovie e mercati nazionali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Lavoro e quartieri",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Operai specializzati, sindacati, colonias e servizi aziendali",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Tejabanes, affitto, pendolarismo e disuguaglianza abitativa",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Acqua e ambiente",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Bacini, pozzi, condotte e controllo delle piene",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Scarsità, contaminazione e inquinamento atmosferico industriale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Metropolizzazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Conurbazione intermunicipale, autostrade e trasporto operaio",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Dispersione, zonizzazione e differenze fiscali fra comuni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Formazione e cultura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "UANL, istituti tecnici, stampa e associazionismo",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Riproduzione di competenze industriali e identità regiomontana",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

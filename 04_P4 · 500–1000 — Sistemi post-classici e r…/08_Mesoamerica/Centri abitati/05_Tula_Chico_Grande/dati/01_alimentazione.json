@@ -1,0 +1,294 @@
+{
+  "nodes": [
+    {
+      "id": "t_river",
+      "label": "Valle e fiume Tula",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_fields",
+      "label": "Campi semiaridi e terrazze",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_maguey",
+      "label": "Zone di maguey e vegetazione xerica",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_routes",
+      "label": "Corridoi verso Bacino del Messico e Bajío",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "r_maize",
+      "label": "Mais, fagioli e amaranto",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_agave",
+      "label": "Maguey e prodotti vegetali",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_game",
+      "label": "Conigli, cervi, tacchini e cani",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_imports",
+      "label": "Sale, cacao, peperoncino e beni importati",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "a_farm",
+      "label": "Coltivazione irrigua e di asciutto",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_agaveproc",
+      "label": "Raccolta e lavorazione del maguey",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_hunt",
+      "label": "Caccia e allevamento domestico",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_market",
+      "label": "Mercato, tributo e scambio",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "x_grind",
+      "label": "Macinazione e preparazione del mais",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x_roast",
+      "label": "Arrostitura e cottura",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x_ferment",
+      "label": "Fermentazione e bevande di maguey",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "x_store",
+      "label": "Essiccazione, salatura e stoccaggio",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_staples",
+      "label": "Tortillas, tamales e stufati",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_agavedrink",
+      "label": "Prodotti di agave e bevande",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_meat",
+      "label": "Carni e alimenti conservati",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_urban",
+      "label": "Rifornimento di quartieri, mercati e corte",
+      "layer": 4,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "t_river",
+      "target": "r_maize",
+      "status": "documentato",
+      "label": "campi e acqua"
+    },
+    {
+      "source": "t_fields",
+      "target": "r_maize",
+      "status": "documentato",
+      "label": "agricoltura di asciutto"
+    },
+    {
+      "source": "t_maguey",
+      "target": "r_agave",
+      "status": "documentato",
+      "label": "raccolta e coltivazione"
+    },
+    {
+      "source": "t_fields",
+      "target": "r_game",
+      "status": "documentato",
+      "label": "fauna e allevamento"
+    },
+    {
+      "source": "t_routes",
+      "target": "r_imports",
+      "status": "sintesi",
+      "label": "beni interregionali"
+    },
+    {
+      "source": "t_routes",
+      "target": "r_game",
+      "status": "sintesi",
+      "label": "animali e prodotti da aree vicine"
+    },
+    {
+      "source": "r_maize",
+      "target": "a_farm",
+      "status": "documentato",
+      "label": "produzione locale"
+    },
+    {
+      "source": "r_maize",
+      "target": "a_market",
+      "status": "sintesi",
+      "label": "surplus"
+    },
+    {
+      "source": "r_agave",
+      "target": "a_agaveproc",
+      "status": "documentato",
+      "label": "fibre, cibo e bevande"
+    },
+    {
+      "source": "r_agave",
+      "target": "a_market",
+      "status": "sintesi",
+      "label": "prodotti scambiabili"
+    },
+    {
+      "source": "r_game",
+      "target": "a_hunt",
+      "status": "documentato",
+      "label": "caccia e animali domestici"
+    },
+    {
+      "source": "r_imports",
+      "target": "a_market",
+      "status": "sintesi",
+      "label": "scambio"
+    },
+    {
+      "source": "a_farm",
+      "target": "x_grind",
+      "status": "documentato",
+      "label": "mais e amaranto"
+    },
+    {
+      "source": "a_farm",
+      "target": "x_store",
+      "status": "documentato",
+      "label": "scorte"
+    },
+    {
+      "source": "a_agaveproc",
+      "target": "x_roast",
+      "status": "documentato",
+      "label": "cottura di cuori di agave"
+    },
+    {
+      "source": "a_agaveproc",
+      "target": "x_ferment",
+      "status": "sintesi",
+      "label": "bevande"
+    },
+    {
+      "source": "a_hunt",
+      "target": "x_roast",
+      "status": "documentato",
+      "label": "carne"
+    },
+    {
+      "source": "a_hunt",
+      "target": "x_store",
+      "status": "sintesi",
+      "label": "essiccazione"
+    },
+    {
+      "source": "a_market",
+      "target": "x_store",
+      "status": "sintesi",
+      "label": "depositi e redistribuzione"
+    },
+    {
+      "source": "a_market",
+      "target": "x_roast",
+      "status": "sintesi",
+      "label": "pasti pubblici"
+    },
+    {
+      "source": "a_market",
+      "target": "x_ferment",
+      "status": "sintesi",
+      "label": "bevande e beni di prestigio"
+    },
+    {
+      "source": "x_grind",
+      "target": "p_staples",
+      "status": "documentato",
+      "label": "pasti di base"
+    },
+    {
+      "source": "x_roast",
+      "target": "p_staples",
+      "status": "documentato",
+      "label": "cottura"
+    },
+    {
+      "source": "x_roast",
+      "target": "p_meat",
+      "status": "documentato",
+      "label": "carni"
+    },
+    {
+      "source": "x_ferment",
+      "target": "p_agavedrink",
+      "status": "sintesi",
+      "label": "bevande"
+    },
+    {
+      "source": "x_store",
+      "target": "p_meat",
+      "status": "sintesi",
+      "label": "conservazione"
+    },
+    {
+      "source": "x_store",
+      "target": "p_urban",
+      "status": "sintesi",
+      "label": "rifornimento urbano"
+    },
+    {
+      "source": "x_roast",
+      "target": "p_urban",
+      "status": "sintesi",
+      "label": "mercati e corte"
+    }
+  ]
+}

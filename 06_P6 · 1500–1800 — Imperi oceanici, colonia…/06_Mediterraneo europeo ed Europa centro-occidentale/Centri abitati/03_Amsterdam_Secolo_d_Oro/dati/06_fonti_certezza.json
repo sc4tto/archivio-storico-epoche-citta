@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "La cintura dei canali fu un grande progetto pianificato del XVII secolo.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "AM1; AM2"
+  },
+  {
+    "claim": "Fondazioni su pali e controllo delle acque erano essenziali.",
+    "theme": "tecniche",
+    "status": "documentato",
+    "source": "AM1; AM2"
+  },
+  {
+    "claim": "VOC e WIC collegarono Amsterdam a reti oceaniche.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "AM3; AM4"
+  },
+  {
+    "claim": "Magazzini, cantieri e borsa sostennero il ruolo mercantile.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "AM2; AM4"
+  },
+  {
+    "claim": "La città accolse comunità immigrate e confessioni diverse.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "AM5"
+  },
+  {
+    "claim": "Il commercio del Baltico forniva grano e materiali navali.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "AM4"
+  },
+  {
+    "claim": "Case strette e frontoni caratterizzavano il Grachtengordel.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "AM1; AM5"
+  },
+  {
+    "claim": "Le trasformazioni industriali ottocentesche sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "AM2"
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Chaco Canyon nel periodo maturo",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Muratura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Muri a nucleo e rivestimento",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Geometria delle grandi case",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Legname",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Selezione di essenze lontane",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Trasporto su lunghe distanze",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Idrologia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Gestione del runoff",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Campi e dighe di controllo",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Astronomia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Orientamenti architettonici",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Cicli solari e lunari",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Reti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Strade chacoane",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Scambi interregionali",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

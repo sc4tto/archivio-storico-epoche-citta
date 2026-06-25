@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Fondazione e crescita nel VI–VII secolo",
+    "Consolidamento della capitale",
+    "Chiese e quartieri monumentali",
+    "Metropoli del IX–X secolo",
+    "Espansione e specializzazione urbana"
+  ],
+  "items": [
+    {
+      "id": "churches",
+      "label": "Chiese monumentali",
+      "lane": "Religiose",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "royal",
+      "label": "Area reale ipotizzata",
+      "lane": "Politiche",
+      "start": 2,
+      "end": 5,
+      "status": "inferito"
+    },
+    {
+      "id": "houses",
+      "label": "Quartieri residenziali",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "workshops",
+      "label": "Officine ceramiche e metallurgiche",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "roads",
+      "label": "Strade e spazi aperti",
+      "lane": "Infrastrutture",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "cemeteries",
+      "label": "Cimiteri e stele",
+      "lane": "Funerarie",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "gardens",
+      "label": "Giardini e campi irrigui",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

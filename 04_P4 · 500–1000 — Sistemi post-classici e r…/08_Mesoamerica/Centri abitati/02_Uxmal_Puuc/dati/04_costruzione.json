@@ -1,0 +1,252 @@
+{
+  "nodes": [
+    {
+      "id": "m_stone",
+      "label": "Calcare tenero per blocchi e mosaici",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_lime",
+      "label": "Calce, stucco e malta",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_rubble",
+      "label": "Pietrame e riempimenti interni",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_wood",
+      "label": "Legno per architravi e ponteggi",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "o_dress",
+      "label": "Taglio modulare e finitura della pietra",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_plaster",
+      "label": "Cottura della calce e intonacatura",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_core",
+      "label": "Costruzione di nuclei e volte a mensola",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_carpentry",
+      "label": "Carpenteria, coperture e ponteggi",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "c_veneer",
+      "label": "Rivestimenti lisci e mosaici di facciata",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_vaults",
+      "label": "Volte, architravi e ambienti coperti",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_platforms",
+      "label": "Piattaforme, scale e cortili",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_waterparts",
+      "label": "Bocche di chultun e opere idriche",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "s_palaces",
+      "label": "Palazzi e quadrilateri monumentali",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_temples",
+      "label": "Piramidi e santuari",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_houses",
+      "label": "Residenze e gruppi a corte",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_network",
+      "label": "Sacbeob, cisterne e spazi pubblici",
+      "layer": 3,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m_stone",
+      "target": "o_dress",
+      "status": "documentato",
+      "label": "blocchi di rivestimento"
+    },
+    {
+      "source": "m_stone",
+      "target": "o_plaster",
+      "status": "documentato",
+      "label": "calcare per la calce"
+    },
+    {
+      "source": "m_lime",
+      "target": "o_plaster",
+      "status": "documentato",
+      "label": "malta e stucco"
+    },
+    {
+      "source": "m_rubble",
+      "target": "o_core",
+      "status": "documentato",
+      "label": "nuclei murari"
+    },
+    {
+      "source": "m_rubble",
+      "target": "o_dress",
+      "status": "sintesi",
+      "label": "pietrame per piattaforme"
+    },
+    {
+      "source": "m_wood",
+      "target": "o_carpentry",
+      "status": "documentato",
+      "label": "architravi e ponteggi"
+    },
+    {
+      "source": "m_wood",
+      "target": "o_plaster",
+      "status": "documentato",
+      "label": "combustibile per la calce"
+    },
+    {
+      "source": "o_dress",
+      "target": "c_veneer",
+      "status": "documentato",
+      "label": "mosaici e maschere"
+    },
+    {
+      "source": "o_dress",
+      "target": "c_platforms",
+      "status": "documentato",
+      "label": "gradini e cordoli"
+    },
+    {
+      "source": "o_plaster",
+      "target": "c_veneer",
+      "status": "documentato",
+      "label": "intonaci e finiture"
+    },
+    {
+      "source": "o_plaster",
+      "target": "c_waterparts",
+      "status": "documentato",
+      "label": "impermeabilizzazione"
+    },
+    {
+      "source": "o_core",
+      "target": "c_vaults",
+      "status": "documentato",
+      "label": "volte a mensola"
+    },
+    {
+      "source": "o_core",
+      "target": "c_platforms",
+      "status": "documentato",
+      "label": "basamenti"
+    },
+    {
+      "source": "o_core",
+      "target": "c_waterparts",
+      "status": "documentato",
+      "label": "cisterne"
+    },
+    {
+      "source": "o_carpentry",
+      "target": "c_vaults",
+      "status": "documentato",
+      "label": "architravi e coperture"
+    },
+    {
+      "source": "o_carpentry",
+      "target": "c_veneer",
+      "status": "sintesi",
+      "label": "ponteggi per facciate"
+    },
+    {
+      "source": "c_veneer",
+      "target": "s_palaces",
+      "status": "documentato",
+      "label": "facciate Puuc"
+    },
+    {
+      "source": "c_veneer",
+      "target": "s_temples",
+      "status": "documentato",
+      "label": "decorazione rituale"
+    },
+    {
+      "source": "c_vaults",
+      "target": "s_palaces",
+      "status": "documentato",
+      "label": "sale e gallerie"
+    },
+    {
+      "source": "c_vaults",
+      "target": "s_houses",
+      "status": "documentato",
+      "label": "ambienti residenziali"
+    },
+    {
+      "source": "c_platforms",
+      "target": "s_palaces",
+      "status": "documentato",
+      "label": "cortili sopraelevati"
+    },
+    {
+      "source": "c_platforms",
+      "target": "s_temples",
+      "status": "documentato",
+      "label": "basamenti piramidali"
+    },
+    {
+      "source": "c_platforms",
+      "target": "s_network",
+      "status": "documentato",
+      "label": "piazze e sacbeob"
+    },
+    {
+      "source": "c_waterparts",
+      "target": "s_network",
+      "status": "documentato",
+      "label": "chultunes e aguadas"
+    },
+    {
+      "source": "c_waterparts",
+      "target": "s_houses",
+      "status": "documentato",
+      "label": "approvvigionamento domestico"
+    }
+  ]
+}

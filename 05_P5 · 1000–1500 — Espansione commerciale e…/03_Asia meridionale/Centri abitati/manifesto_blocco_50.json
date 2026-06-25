@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_50_P5_Asia_Meridionale_5_Centri_v1",
+  "macroregion": "Asia meridionale",
+  "centers": [
+    "01_Delhi_Sultaniale",
+    "02_Vijayanagara_Hampi",
+    "03_Lahore_Ghaznavide_Sultaniale",
+    "04_Calicut_Kozhikode_Zamorin",
+    "05_Khambhat_Cambay_Gujarat"
+  ],
+  "uses_central_assets": true
+}

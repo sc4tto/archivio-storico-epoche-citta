@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Quito, metro, pendii, alloggi, clima e patrimonio",
+    "site": "Quito, metro, pendii, alloggi, clima e patrimonio",
+    "modern_location": "Quito, Ecuador",
+    "coordinates": {
+      "lat": -0.1807,
+      "lon": -78.4678
+    },
+    "scope": "Quito dal 1970 al 25 giugno 2026: crescita lineare nella valle interandina, espansione verso nord e sud, trasformazioni del centro storico, urbanizzazione informale dei pendii, terremoti e attività vulcanica, frane e alluvioni, apertura del Metro, politiche per alloggi resilienti, mobilità e azione climatica.",
+    "version": "1.0",
+    "warning": "L’estensione del Metro verso La Ofelia era in fase di studi definitivi nel 2026; il Piano climatico con orizzonte 2050 è un piano futuro."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "QU1",
+      "title": "Empresa Pública Metropolitana Metro de Quito — Metro en cifras",
+      "use": "Rete operativa, quindici stazioni, domanda e ruolo del sistema metropolitano.",
+      "url": "https://metrodequito.gob.ec/"
+    },
+    {
+      "id": "QU2",
+      "title": "Metro de Quito — studi per l’estensione a La Ofelia",
+      "use": "Estensione settentrionale come progetto in studio e non come infrastruttura già completata.",
+      "url": "https://metrodequito.gob.ec/etiqueta/extension/"
+    },
+    {
+      "id": "QU3",
+      "title": "Municipio del Distrito Metropolitano de Quito — Piano di azione climatica 2025",
+      "use": "Rischio climatico, acqua, frane, mobilità e orizzonte di neutralità al 2050.",
+      "url": "https://ambiente.quito.gob.ec/wp-content/uploads/2026/01/PLAN-DE-ACCION-DE-CAMBIO-CLIMATICO-DMQ-2025_Sep.pdf"
+    },
+    {
+      "id": "QU4",
+      "title": "World Bank — Ecuador Inclusive and Resilient Housing and Urban Development",
+      "use": "Crescita informale, diritto all’alloggio, servizi, drenaggio e resilienza dei quartieri.",
+      "url": "https://documents1.worldbank.org/curated/en/099091823125532356/txt/BOSIB1bdd164a11e49514fce1995416b32e51dac59.txt"
+    }
+  ]
+}

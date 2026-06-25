@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Parigi industriale e haussmanniana",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Boulevard, espropri e lottizzazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Parchi, piazze e prospettive monumentali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Acqua e salute",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Acquedotti e fognature",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Colera, densità e igiene pubblica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Trasporti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Stazioni radiali, omnibus e tram",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Senna, canali e ponti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Industria e commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Officine, editoria e moda",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Les Halles e grandi magazzini",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Politica e società",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Rivoluzioni, barricate e Comune",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Espulsione sociale e periferizzazione",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

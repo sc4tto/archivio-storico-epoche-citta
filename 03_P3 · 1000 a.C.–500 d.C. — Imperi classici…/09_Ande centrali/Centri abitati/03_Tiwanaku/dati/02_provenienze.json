@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Tiwanaku",
+      "lat": -16.5547,
+      "lon": -68.6733,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "lake",
+      "label": "Lago Titicaca",
+      "lat": -16.1,
+      "lon": -69.0,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "fields",
+      "label": "Campi rialzati del Katari",
+      "lat": -16.45,
+      "lon": -68.8,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "cochabamba",
+      "label": "Valli di Cochabamba",
+      "lat": -17.39,
+      "lon": -66.16,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "moquegua",
+      "label": "Valle di Moquegua",
+      "lat": -17.19,
+      "lon": -70.94,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "coast",
+      "label": "Costa del Pacifico meridionale",
+      "lat": -18.5,
+      "lon": -70.3,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "lake",
+      "target": "site",
+      "label": "pesce, trasporto e risorse lacustri",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "fields",
+      "target": "site",
+      "label": "tuberi, quinoa e lavoro agricolo",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "cochabamba",
+      "target": "site",
+      "label": "mais, coca e prodotti di valle",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "moquegua",
+      "target": "site",
+      "label": "colonie, ceramiche e relazioni politiche",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "coast",
+      "target": "site",
+      "label": "conchiglie, pesce secco e beni marini",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

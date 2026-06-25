@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Shanghai fu aperta al commercio estero nel 1843 dopo il trattato di Nanchino.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "SH1; SH3"
+  },
+  {
+    "claim": "Le concessioni straniere introdussero regimi extraterritoriali e municipi separati.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "SH1; SH2"
+  },
+  {
+    "claim": "Il porto collegò il delta dello Yangzi ai mercati globali di seta, tè e cotone.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "SH1; SH4"
+  },
+  {
+    "claim": "La crescita fu accelerata da migrazioni e rifugiati durante la rivolta dei Taiping.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "SH1; SH3"
+  },
+  {
+    "claim": "Il Bund concentrò banche, consolati e compagnie marittime.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "SH2; SH3"
+  },
+  {
+    "claim": "I trattati ineguali produssero subordinazione politica e segregazione giuridica.",
+    "theme": "coercizione",
+    "status": "documentato",
+    "source": "SH1; SH4"
+  },
+  {
+    "claim": "Filature e cantieri avviarono un’importante industrializzazione urbana.",
+    "theme": "industria",
+    "status": "documentato",
+    "source": "SH1; SH2"
+  },
+  {
+    "claim": "Il boom repubblicano del XX secolo è escluso.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "SH1"
+  }
+]

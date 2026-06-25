@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Copán — modulo multi-grafo",
+    "short_name": "Copán",
+    "site": "Sito maya di Copán",
+    "modern_location": "Copán Ruinas, Honduras",
+    "coordinates": {
+      "lat": 14.84,
+      "lon": -89.14
+    },
+    "scope": "Centro politico, civile e religioso della valle del Copán, con occupazioni antiche e una dinastia fondata nel 427 d.C.; il modulo P3 segue le origini della capitale classica e i primi programmi monumentali del V secolo.",
+    "version": "1.0-blocco_33_p3_mesoamerica_5_centri_v1",
+    "warning": "La celebre Scalinata Geroglifica, molte stele e gran parte dell’Acropoli visibile sono posteriori al 500 d.C. I legami del fondatore Yax K’uk’ Mo’ con Tikal e Teotihuacan sono discussi e non equivalgono a un’origine etnica certa."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "COPAN_UNESCO",
+      "title": "UNESCO — Maya Site of Copan",
+      "url": "https://whc.unesco.org/en/list/129/",
+      "use": "cronologia, dinastia, architettura e iscrizioni"
+    },
+    {
+      "id": "COPAN_HONDURAS",
+      "title": "IHAH — Parque Arqueológico Copán",
+      "url": "https://ihah.hn/",
+      "use": "ricerca e tutela honduregna"
+    },
+    {
+      "id": "COPAN_FASH",
+      "title": "William Fash — Scribes, Warriors and Kings",
+      "url": "https://search.worldcat.org/search?q=Scribes+Warriors+Kings+Copan",
+      "use": "storia urbana e società di Copán"
+    }
+  ]
+}

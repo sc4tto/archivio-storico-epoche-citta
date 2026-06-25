@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Parigi, Grand Paris, alloggi, clima e disuguaglianze",
+    "site": "Parigi, Grand Paris, alloggi, clima e disuguaglianze",
+    "modern_location": "Parigi e Métropole du Grand Paris, Francia",
+    "coordinates": {
+      "lat": 48.8566,
+      "lon": 2.3522
+    },
+    "scope": "Parigi e la Métropole du Grand Paris dal 1970 al 25 giugno 2026: deindustrializzazione e terziarizzazione, trasformazione di Les Halles e dell’est parigino, immigrazione postcoloniale, RER e TGV, politiche di edilizia sociale, crisi delle banlieues, Grand Paris e Grand Paris Express, riduzione dello spazio automobilistico, ciclabilità, rigenerazione olimpica, povertà metropolitana, calore estremo e piano climatico 2024–2030.",
+    "version": "1.0",
+    "warning": "Le linee del Grand Paris Express non ancora aperte e le misure del Piano climatico 2024–2030 sono registrate come progetti o obiettivi futuri; non vengono presentate come opere già concluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "PA1",
+      "title": "Ville de Paris — Paris Climate Action Plan 2024–2030",
+      "use": "Adattamento, decarbonizzazione, edilizia, mobilità e protezione dei gruppi vulnerabili.",
+      "url": "https://cdn.paris.fr/paris/2025/06/25/plan-climat-en-9E8O.pdf"
+    },
+    {
+      "id": "PA2",
+      "title": "Société des grands projets — The Grand Paris Express",
+      "use": "Rete automatica, linee, fasi di apertura e trasformazione dei territori suburbani.",
+      "url": "https://www.societedesgrandsprojets.fr/the-grand-paris-express"
+    },
+    {
+      "id": "PA3",
+      "title": "APUR — How has poverty developed in the Greater Paris?",
+      "use": "Povertà, disuguaglianze territoriali e profili sociali della metropoli.",
+      "url": "https://www.apur.org/en/population-society/social-inclusion/how-has-poverty-developed-greater-paris-grand-paris-metropolis"
+    },
+    {
+      "id": "PA4",
+      "title": "APUR — Paris Projet: A game changer",
+      "use": "Eredità territoriale e abitativa delle Olimpiadi e Paralimpiadi 2024.",
+      "url": "https://www.apur.org/en/urban-planning/olympics-and-paralympics-games/paris-projet-47-rythme-jeux-game-changer"
+    }
+  ]
+}

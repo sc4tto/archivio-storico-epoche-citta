@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Khartoum fu capitale amministrativa del Sudan anglo-egiziano.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "KH1; KH2"
+  },
+  {
+    "claim": "La città fu ricostruita e pianificata dopo la riconquista del 1898.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "KH1; KH2"
+  },
+  {
+    "claim": "Ferrovie e ponti integrarono Khartoum, Omdurman e Khartoum North.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "KH1; KH3"
+  },
+  {
+    "claim": "Il Gordon Memorial College divenne un’importante istituzione educativa.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "KH4"
+  },
+  {
+    "claim": "Il piano urbano rifletteva gerarchie coloniali e segregazione.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "KH1; KH3"
+  },
+  {
+    "claim": "La crisi del 1924 espresse il nazionalismo sudanese.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "KH1; KH2"
+  },
+  {
+    "claim": "La città ebbe funzioni logistiche durante la Seconda guerra mondiale.",
+    "theme": "conflitti",
+    "status": "documentato",
+    "source": "KH5"
+  },
+  {
+    "claim": "L’indipendenza del 1956 è esclusa.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "KH2"
+  }
+]

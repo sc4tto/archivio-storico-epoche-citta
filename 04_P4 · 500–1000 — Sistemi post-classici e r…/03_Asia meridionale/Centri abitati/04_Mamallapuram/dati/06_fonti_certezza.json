@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "I monumenti principali risalgono ai secoli VII e VIII",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "MAM_UNESCO"
+  },
+  {
+    "claim": "Il complesso comprende grotte, ratha, rilievi e templi strutturali",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "MAM_UNESCO"
+  },
+  {
+    "claim": "Mamallapuram fu collegata alla corte pallava di Kanchipuram",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "MAM_UNESCO"
+  },
+  {
+    "claim": "Il sito ebbe un ruolo portuale e marittimo",
+    "theme": "Reti",
+    "status": "sintesi",
+    "source": "MAM_ASI"
+  },
+  {
+    "claim": "Tutti i ratha furono completati e consacrati",
+    "theme": "Architettura",
+    "status": "non_documentato",
+    "source": "Alcuni restarono incompiuti"
+  },
+  {
+    "claim": "La leggenda delle Sette Pagode prova sette templi sommersi",
+    "theme": "Fonti",
+    "status": "non_documentato",
+    "source": "Tradizione non equivalente a prova archeologica"
+  },
+  {
+    "claim": "La funzione del grande rilievo è interpretata in modo univoco",
+    "theme": "Iconografia",
+    "status": "non_documentato",
+    "source": "Esistono letture differenti"
+  },
+  {
+    "claim": "L’erosione marina condiziona la conservazione",
+    "theme": "Conservazione",
+    "status": "documentato",
+    "source": "MAM_UNESCO"
+  }
+]

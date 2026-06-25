@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Shum Laka",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Tecnologia litica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Quarzo",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Microliti",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Strategie di riduzione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Ambiente",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Ecotono foresta-savana",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_2",
+          "label": "Fauna forestale",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Cicli delle piogge",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Alimentazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Caccia",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Raccolta",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_3",
+          "label": "Cottura",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Ceramica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Foggiatura",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_2",
+          "label": "Decorazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Cronologia delle fasi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Ritualità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Scavo delle tombe",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Deposizione",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Significati sociali",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Storia delle popolazioni",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "DNA antico",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Continuità locale complessa",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_3",
+          "label": "Antenati diretti bantu",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

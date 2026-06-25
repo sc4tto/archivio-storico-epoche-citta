@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Gondar",
+      "lat": 12.603,
+      "lon": 37.452,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "dem",
+      "label": "Dembiya e Lago Tana",
+      "lat": 12.2,
+      "lon": 37.3,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "beg",
+      "label": "Begemder e altopiani",
+      "lat": 12.85,
+      "lon": 38.0,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "sem",
+      "label": "Semien",
+      "lat": 13.25,
+      "lon": 38.1,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "mas",
+      "label": "Massaua",
+      "lat": 15.61,
+      "lon": 39.47,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "sen",
+      "label": "Sennar e Sudan",
+      "lat": 13.55,
+      "lon": 33.6,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "aks",
+      "label": "Aksum e Tigray",
+      "lat": 14.13,
+      "lon": 38.72,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "dem",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade locali e lago",
+      "food": "cereali, pesce, miele e legname"
+    },
+    {
+      "source": "beg",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "vie degli altopiani",
+      "food": "teff, orzo, bestiame e tessili"
+    },
+    {
+      "source": "sem",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "passi montani",
+      "food": "bestiame, pelli e prodotti forestali"
+    },
+    {
+      "source": "mas",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane verso il Mar Rosso",
+      "food": "sale, tessili, metalli e beni importati"
+    },
+    {
+      "source": "sen",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte occidentali",
+      "food": "oro, cavalli, tessili e merci sudanesi"
+    },
+    {
+      "source": "aks",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete settentrionale",
+      "food": "manoscritti, artigiani e prodotti del Tigray"
+    }
+  ]
+}

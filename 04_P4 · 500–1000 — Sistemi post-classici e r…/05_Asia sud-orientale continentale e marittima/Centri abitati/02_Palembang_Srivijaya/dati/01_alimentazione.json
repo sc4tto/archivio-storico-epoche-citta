@@ -1,0 +1,216 @@
+{
+  "nodes": [
+    {
+      "id": "t_musi",
+      "label": "Fiume Musi e canali",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_palude",
+      "label": "Paludi e pianure alluvionali",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_foresta",
+      "label": "Foreste e hinterland di Sumatra",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "t_mare",
+      "label": "Estuario e rotte marittime",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "r_pesce",
+      "label": "Pesce e molluschi",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "r_riso",
+      "label": "Riso",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "r_sago",
+      "label": "Sago e altre fecole",
+      "layer": 1,
+      "status": "inferito"
+    },
+    {
+      "id": "r_frutta",
+      "label": "Cocco, frutta e ortaggi",
+      "layer": 1,
+      "status": "inferito"
+    },
+    {
+      "id": "r_aromi",
+      "label": "Aromi, resine e spezie",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "a_pesca",
+      "label": "Pesca fluviale ed estuarina",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "a_colt",
+      "label": "Coltivazione e tributo rurale",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "a_racc",
+      "label": "Raccolta forestale",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "a_scambio",
+      "label": "Scambio portuale",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "x_essicc",
+      "label": "Essiccazione e affumicatura",
+      "layer": 3,
+      "status": "inferito"
+    },
+    {
+      "id": "x_pestatura",
+      "label": "Pestatura e cottura",
+      "layer": 3,
+      "status": "inferito"
+    },
+    {
+      "id": "x_stocc",
+      "label": "Stoccaggio e trasbordo",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_pasto",
+      "label": "Pasti a base di cereali e pesce",
+      "layer": 4,
+      "status": "inferito"
+    },
+    {
+      "id": "p_scorte",
+      "label": "Scorte per equipaggi e mercanti",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_prestigio",
+      "label": "Beni aromatici e di prestigio",
+      "layer": 4,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "t_musi",
+      "target": "r_pesce",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "t_palude",
+      "target": "r_riso",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "t_palude",
+      "target": "r_sago",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "t_foresta",
+      "target": "r_aromi",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "t_mare",
+      "target": "r_aromi",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_pesce",
+      "target": "a_pesca",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "r_riso",
+      "target": "a_colt",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "r_sago",
+      "target": "a_racc",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "r_aromi",
+      "target": "a_scambio",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "a_pesca",
+      "target": "x_essicc",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "a_colt",
+      "target": "x_pestatura",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "a_scambio",
+      "target": "x_stocc",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "x_essicc",
+      "target": "p_pasto",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "x_pestatura",
+      "target": "p_pasto",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "x_stocc",
+      "target": "p_scorte",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "x_stocc",
+      "target": "p_prestigio",
+      "status": "documentato",
+      "label": ""
+    }
+  ]
+}

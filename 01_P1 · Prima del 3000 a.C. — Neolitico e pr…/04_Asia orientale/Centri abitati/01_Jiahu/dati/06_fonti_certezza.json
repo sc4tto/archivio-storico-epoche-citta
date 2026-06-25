@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Jiahu è un villaggio della cultura Peiligang del VII–VI millennio a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "JIAHU_NATURE"
+  },
+  {
+    "claim": "Sono stati rinvenuti flauti ossei suonabili",
+    "theme": "Musica",
+    "status": "documentato",
+    "source": "JIAHU_NATURE"
+  },
+  {
+    "claim": "Residui chimici indicano bevande fermentate",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "JIAHU_PNAS"
+  },
+  {
+    "claim": "La sussistenza combinava coltivazione, raccolta, pesca e caccia",
+    "theme": "Economia",
+    "status": "sintesi",
+    "source": "JIAHU_PNAS"
+  },
+  {
+    "claim": "Sono presenti segni incisi su gusci e ossa",
+    "theme": "Segni",
+    "status": "documentato",
+    "source": "JIAHU_SIGNS"
+  },
+  {
+    "claim": "I segni di Jiahu sono una scrittura decifrata",
+    "theme": "Scrittura",
+    "status": "non_documentato",
+    "source": "La natura dei segni resta discussa"
+  },
+  {
+    "claim": "I flauti erano usati soltanto in rituali",
+    "theme": "Simbolico",
+    "status": "non_documentato",
+    "source": "Il contesto non definisce ogni uso"
+  },
+  {
+    "claim": "Il riso era già completamente domesticato in tutte le fasi",
+    "theme": "Agricoltura",
+    "status": "non_documentato",
+    "source": "Il processo di domesticazione richiede analisi morfologiche e cronologiche"
+  }
+]

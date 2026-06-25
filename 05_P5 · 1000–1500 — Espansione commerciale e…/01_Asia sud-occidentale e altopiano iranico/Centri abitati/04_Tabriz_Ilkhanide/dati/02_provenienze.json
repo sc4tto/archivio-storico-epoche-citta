@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Tabriz",
+      "lat": 38.08,
+      "lon": 46.292,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "mar",
+      "label": "Maragha",
+      "lat": 37.39,
+      "lon": 46.24,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "ard",
+      "label": "Ardabil",
+      "lat": 38.25,
+      "lon": 48.29,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "urm",
+      "label": "Lago Urmia",
+      "lat": 37.7,
+      "lon": 45.3,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "erz",
+      "label": "Erzurum",
+      "lat": 39.9,
+      "lon": 41.27,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "bag",
+      "label": "Baghdad",
+      "lat": 33.315,
+      "lon": 44.366,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "sam",
+      "label": "Samarcanda",
+      "lat": 39.65,
+      "lon": 66.96,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "mar",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete ilkhanide",
+      "food": "studiosi, metalli e derrate"
+    },
+    {
+      "source": "ard",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotta caspica",
+      "food": "lana e prodotti agricoli"
+    },
+    {
+      "source": "urm",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoio lacustre",
+      "food": "sale, pesce e cereali"
+    },
+    {
+      "source": "erz",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotta anatolica",
+      "food": "tessili e cavalli"
+    },
+    {
+      "source": "bag",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "asse mesopotamico",
+      "food": "libri, spezie e funzionari"
+    },
+    {
+      "source": "sam",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "Via della Seta",
+      "food": "seta, carta e artigiani"
+    }
+  ]
+}

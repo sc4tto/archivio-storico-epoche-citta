@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Kerma",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Scrittura e amministrazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Geroglifici e ieratico",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Contabilità e sigilli",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Archivi e decreti",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Acqua e agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Ciclo delle piene",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Canali e bacini",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_3",
+          "label": "Granai e razioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Metallurgia",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Tessili e faience",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Ceramica e pietra",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Edilizia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Mattone crudo",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Pietra monumentale",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Organizzazione dei cantieri",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Navigazione e scambi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Trasporto sul Nilo",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Rotte desertiche",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_3",
+          "label": "Materie prime importate",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Regalità nubiana e rituali funerari",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Coordinamento del lavoro",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_2",
+          "label": "Rituali pubblici",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Autorità centralizzata",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

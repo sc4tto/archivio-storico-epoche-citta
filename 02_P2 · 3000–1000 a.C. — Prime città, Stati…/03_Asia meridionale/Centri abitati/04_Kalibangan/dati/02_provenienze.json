@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Kalibangan",
+      "lat": 29.475,
+      "lon": 74.13,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "ghaggar",
+      "label": "Paleocorso Ghaggar",
+      "lat": 29.5,
+      "lon": 74.15,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "field",
+      "label": "Campo arato esterno",
+      "lat": 29.47,
+      "lon": 74.14,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "banawali",
+      "label": "Banawali",
+      "lat": 29.37,
+      "lon": 75.39,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "harappa",
+      "label": "Harappa",
+      "lat": 30.628,
+      "lon": 72.864,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "aravalli",
+      "label": "Aravalli e miniere di rame",
+      "lat": 27.5,
+      "lon": 75.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "ghaggar",
+      "target": "site",
+      "label": "acqua e sedimenti agricoli",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "field",
+      "target": "site",
+      "label": "cereali e colture a file incrociate",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "banawali",
+      "target": "site",
+      "label": "ceramica e reti della paleovalle",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "harappa",
+      "target": "site",
+      "label": "standard urbani e sigilli",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "aravalli",
+      "target": "site",
+      "label": "rame e pietre",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

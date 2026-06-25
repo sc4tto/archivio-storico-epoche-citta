@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Baghdad fu fondata nel 762 come Città della Pace",
+    "theme": "Fondazione",
+    "status": "documentato",
+    "source": "BAG_MET"
+  },
+  {
+    "claim": "Il nucleo originario aveva un impianto circolare",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "BAG_LESTRANGE"
+  },
+  {
+    "claim": "Baghdad divenne capitale culturale e commerciale del mondo abbaside",
+    "theme": "Reti",
+    "status": "documentato",
+    "source": "BAG_MET"
+  },
+  {
+    "claim": "Il Tigri e i canali sostenevano trasporto e approvvigionamento",
+    "theme": "Infrastrutture",
+    "status": "documentato",
+    "source": "BAG_LESTRANGE"
+  },
+  {
+    "claim": "La corte fu trasferita temporaneamente a Samarra",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "BAG_MET"
+  },
+  {
+    "claim": "La Bayt al-Hikma era certamente un singolo edificio monumentale identificato archeologicamente",
+    "theme": "Sapere",
+    "status": "non_documentato",
+    "source": "Istituzione e ambienti restano discussi"
+  },
+  {
+    "claim": "La Città Rotonda è conservata integralmente",
+    "theme": "Conservazione",
+    "status": "non_documentato",
+    "source": "Quasi nulla resta in elevato"
+  },
+  {
+    "claim": "Quartieri diversi ospitavano gruppi professionali e confessionali",
+    "theme": "Società",
+    "status": "sintesi",
+    "source": "BAG_KENNEDY"
+  }
+]

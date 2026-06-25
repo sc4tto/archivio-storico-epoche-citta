@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Insediamento iniziale",
+    "Prime piattaforme",
+    "Consolidamento urbano",
+    "Rimodellamenti monumentali",
+    "Abbandono"
+  ],
+  "items": [
+    {
+      "id": "residences",
+      "label": "Residenze differenziate",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "platforms",
+      "label": "Grandi edifici a piattaforma",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "courts",
+      "label": "Corti circolari incassate",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "agri",
+      "label": "Agricoltura irrigua nella valle",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "exchange",
+      "label": "Scambi con costa e altre valli",
+      "lane": "Organizzazione",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "ceremony",
+      "label": "Cerimonie e riunioni collettive",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "remodel",
+      "label": "Rimodellamenti e chiusure rituali",
+      "lane": "Trasformazione",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Ugarit fu una capitale costiera fiorente nel II millennio a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "UGARIT_UNESCO"
+  },
+  {
+    "claim": "Il sito comprende palazzo reale, templi, fortificazioni e quartieri residenziali",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "UGARIT_UNESCO"
+  },
+  {
+    "claim": "Gli archivi contengono testi in ugaritico, accadico e altre lingue",
+    "theme": "Scrittura",
+    "status": "documentato",
+    "source": "UGARIT_UNESCO"
+  },
+  {
+    "claim": "L’alfabeto ugaritico impiega segni cuneiformi alfabetici",
+    "theme": "Scrittura",
+    "status": "documentato",
+    "source": "UGARIT_RSTI"
+  },
+  {
+    "claim": "Il commercio collegava Ugarit con Egeo, Cipro, Levante ed Egitto",
+    "theme": "Scambi",
+    "status": "documentato",
+    "source": "UGARIT_UNESCO"
+  },
+  {
+    "claim": "La città aveva una griglia stradale regolare",
+    "theme": "Urbanistica",
+    "status": "non_documentato",
+    "source": "Crescita stratificata e strade irregolari"
+  },
+  {
+    "claim": "La distruzione fu causata da un solo evento identificato con certezza",
+    "theme": "Fine della città",
+    "status": "non_documentato",
+    "source": "Cause complesse e discusse"
+  },
+  {
+    "claim": "Tutti gli archivi appartenevano al palazzo",
+    "theme": "Archivi",
+    "status": "non_documentato",
+    "source": "Sono documentati anche archivi templari e privati"
+  }
+]

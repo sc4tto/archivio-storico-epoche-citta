@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Bagan",
+      "lat": 21.172,
+      "lon": 94.859,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "aye",
+      "label": "Ayeyarwady",
+      "lat": 21.2,
+      "lon": 94.9,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "kyu",
+      "label": "Kyaukse irrigua",
+      "lat": 21.6,
+      "lon": 96.1,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "pop",
+      "label": "Monte Popa",
+      "lat": 20.92,
+      "lon": 95.25,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "shan",
+      "label": "Altopiani Shan",
+      "lat": 21.5,
+      "lon": 97.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "mon",
+      "label": "Basso Myanmar e Mon",
+      "lat": 17.0,
+      "lon": 96.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "ben",
+      "label": "Golfo del Bengala",
+      "lat": 16.0,
+      "lon": 92.5,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "aye",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione e pesca",
+      "food": "pesce, riso e merci"
+    },
+    {
+      "source": "kyu",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sistema irriguo e tributo",
+      "food": "riso e cereali"
+    },
+    {
+      "source": "pop",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "villaggi e culto regionale",
+      "food": "zucchero, legname e prodotti rurali"
+    },
+    {
+      "source": "shan",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane montane",
+      "food": "cavalli, tè e metalli"
+    },
+    {
+      "source": "mon",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte meridionali",
+      "food": "artigiani, testi e prodotti costieri"
+    },
+    {
+      "source": "ben",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "scambi marittimi indiretti",
+      "food": "beni dell’Oceano Indiano"
+    }
+  ]
+}

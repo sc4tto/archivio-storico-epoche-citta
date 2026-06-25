@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Mochong — fasi pre-Latte — modulo multi-grafo",
+    "short_name": "Mochong — fasi pre-Latte",
+    "site": "Insediamento costiero di Mochong nelle fasi anteriori ai latte",
+    "modern_location": "Rota, Isole Marianne Settentrionali",
+    "coordinates": {
+      "lat": 14.183,
+      "lon": 145.245
+    },
+    "scope": "Insediamento costiero delle Marianne con una lunga sequenza, avviata almeno nel I millennio a.C., caratterizzata nelle fasi pre-Latte da ceramiche rosse e comuni, pesca, raccolta marina, strumenti di conchiglia e pietra e abitazioni leggere; il sito continuò molto oltre il P3.",
+    "version": "1.0-blocco_36_p3_oceania_pacifico_5_centri_v1",
+    "warning": "Le celebri file di pietre latte visibili a Mochong appartengono soprattutto al periodo Latte, iniziato molti secoli dopo il limite del P3. Il modulo usa Mochong per le occupazioni pre-Latte e segnala separatamente le strutture monumentali posteriori."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "MOC_ANTIQUITY",
+      "title": "Hung et al. — The first settlement of Remote Oceania: the Philippines to the Marianas",
+      "url": "https://doi.org/10.15184/aqy.2015.178",
+      "use": "origine, ceramiche e prima colonizzazione delle Marianne"
+    },
+    {
+      "id": "MOC_MICRO",
+      "title": "Peterson — Latte villages in Guam and the Marianas",
+      "url": "https://micronesica.org/volumes/42",
+      "use": "sequenza pre-Latte e Latte e interpretazione dei villaggi"
+    },
+    {
+      "id": "MOC_NPS",
+      "title": "National Park Service — reconnaissance resources of Rota",
+      "url": "https://irma.nps.gov/DataStore/Reference/Profile/2183400",
+      "use": "tutela e caratteristiche del complesso di Mochong"
+    }
+  ]
+}

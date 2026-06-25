@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Il tumulo fu costruito da comunità Adena",
+    "theme": "Identificazione",
+    "status": "documentato",
+    "source": "GRAVE_WV"
+  },
+  {
+    "claim": "La costruzione principale risale circa al 250–150 a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "GRAVE_WV"
+  },
+  {
+    "claim": "Il tumulo incorporava sepolture a livelli differenti",
+    "theme": "Funerario",
+    "status": "documentato",
+    "source": "GRAVE_WV"
+  },
+  {
+    "claim": "Un fossato circondava originariamente il monumento",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "GRAVE_WV"
+  },
+  {
+    "claim": "La terra fu trasportata in carichi successivi, probabilmente in ceste",
+    "theme": "Costruzione",
+    "status": "documentato",
+    "source": "GRAVE_WV"
+  },
+  {
+    "claim": "Grave Creek era una capitale urbana Adena",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Monumento funerario, non città"
+  },
+  {
+    "claim": "Il Grave Creek Stone prova una scrittura antica locale",
+    "theme": "Metodo",
+    "status": "non_documentato",
+    "source": "Considerato un falso moderno"
+  },
+  {
+    "claim": "Il paesaggio circostante comprendeva altri tumuli e abitati",
+    "theme": "Paesaggio",
+    "status": "documentato",
+    "source": "GRAVE_WV"
+  }
+]

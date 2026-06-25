@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "Uruk — modulo multi-grafo",
+    "short_name": "Uruk",
+    "site": "Uruk / Warka",
+    "modern_location": "Governatorato di al-Muthanna, Iraq",
+    "coordinates": {
+      "lat": 31.3222,
+      "lon": 45.6361
+    },
+    "scope": "Ubaid tardo, periodo di Uruk e Jemdet Nasr; focus sulla crescita urbana del IV millennio a.C.",
+    "version": "1.0-blocco-02",
+    "warning": "Uruk emerge alla fine del periodo P1. Il modulo separa le fasi iniziali dalle strutture urbane mature e non retrodata la scrittura."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "UNESCO_1481",
+      "title": "UNESCO World Heritage Centre — The Ahwar of Southern Iraq, componente Uruk",
+      "url": "https://whc.unesco.org/en/list/1481/",
+      "use": "paesaggio deltizio, urbanizzazione, architettura monumentale, scrittura, opere idrauliche e organizzazione urbana"
+    },
+    {
+      "id": "MET_URUK",
+      "title": "The Metropolitan Museum of Art — Uruk: The First City",
+      "url": "https://www.metmuseum.org/toah/hd/uruk/hd_uruk.htm",
+      "use": "sviluppo urbano, amministrazione, arte e cultura materiale del periodo di Uruk"
+    },
+    {
+      "id": "BRITISH_URUK",
+      "title": "British Museum — Uruk and the origins of writing",
+      "url": "https://www.britishmuseum.org/blog/how-writing-changed-world",
+      "use": "contabilità, tavolette e sviluppo della scrittura"
+    },
+    {
+      "id": "CDLI",
+      "title": "Cuneiform Digital Library Initiative",
+      "url": "https://cdli.earth/",
+      "use": "repertorio di tavolette proto-cuneiformi e documentazione amministrativa"
+    }
+  ]
+}

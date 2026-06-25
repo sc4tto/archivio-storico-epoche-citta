@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Milano, miracolo economico, migrazione e crisi degli alloggi",
+    "site": "Milano, miracolo economico, migrazione e crisi degli alloggi",
+    "modern_location": "Milano, Italia",
+    "coordinates": {
+      "lat": 45.4642,
+      "lon": 9.19
+    },
+    "scope": "Milano fra 1945 e 1970: ricostruzione dei bombardamenti, Piano regolatore del 1953, industrializzazione del miracolo economico, immigrazione dal Mezzogiorno e dal Veneto, edilizia INA-Casa e IACP, crescita periferica, metropolitana, conflitti operai e studenteschi e strage di Piazza Fontana del 1969.",
+    "version": "1.0",
+    "warning": "Sono esclusi il decentramento industriale maturo, la deindustrializzazione, la metropolitana oltre le prime linee e le trasformazioni urbane successive al 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MI1",
+      "title": "Politecnico di Milano — Milan 1945, the Reconstruction",
+      "use": "Danni bellici, ricostruzione, continuità e modernità architettonica.",
+      "url": "https://re.public.polimi.it/handle/11311/1124459"
+    },
+    {
+      "id": "MI2",
+      "title": "Comune di Milano — Cartografie storiche, censimento urbanistico 1946",
+      "use": "Censimento dei danni e preparazione del PRG adottato nel 1948 e approvato nel 1953.",
+      "url": "https://www.comune.milano.it/servizi/rigenerazione-urbana/cartografie-storiche-di-milano-censimento-urbanistico-1946"
+    },
+    {
+      "id": "MI3",
+      "title": "ISTAT — Popolazione residente e presente dei comuni, censimenti 1861–1971",
+      "use": "Crescita demografica e migrazioni nel periodo del miracolo economico.",
+      "url": "https://ebiblio.istat.it/digibib/Censimenti%20popolazione/Censimentipopolazioneresidentedal1861/PUV0027177Pop_res_pres_cens_1861_1971_Tomo1.pdf"
+    },
+    {
+      "id": "MI4",
+      "title": "Urban History — Political mobilization in Milan’s working-class neighbourhoods, 1945–1967",
+      "use": "Quartieri operai, partecipazione, conflitti sociali e organizzazioni popolari.",
+      "url": "https://www.cambridge.org/core/journals/urban-history/article/experiences-of-political-mobilization-and-popular-participation-in-milans-workingclass-neighbourhoods-19451967/7287620C6A8A406815EDAE088F7D9AE5"
+    }
+  ]
+}

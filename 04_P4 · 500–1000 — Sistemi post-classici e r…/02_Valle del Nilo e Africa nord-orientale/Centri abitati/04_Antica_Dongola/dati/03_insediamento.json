@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Fortezza del V–VI secolo",
+    "Capitale cristiana di Makuria",
+    "Espansione oltre la cittadella",
+    "Edificio rappresentativo del IX secolo",
+    "Consolidamento urbano nel X secolo"
+  ],
+  "items": [
+    {
+      "id": "citadel",
+      "label": "Cittadella e palazzi",
+      "lane": "Politiche",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "churches",
+      "label": "Chiese monumentali",
+      "lane": "Religiose",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "throne",
+      "label": "Sala del Trono",
+      "lane": "Politiche",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Quartieri e case",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "monastery",
+      "label": "Monasteri suburbani",
+      "lane": "Religiose",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "cemeteries",
+      "label": "Necropoli",
+      "lane": "Funerarie",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "trade",
+      "label": "Approdi e carovane",
+      "lane": "Infrastrutture",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

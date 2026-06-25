@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Protodinastico e I dinastia",
+    "II–VI dinastia",
+    "Primo Periodo Intermedio",
+    "Medio Regno e culto di Osiride",
+    "Nuovo Regno e fine P2"
+  ],
+  "items": [
+    {
+      "id": "royal",
+      "label": "Cimitero reale di Umm el-Qaab",
+      "lane": "Funerarie",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "enclosures",
+      "label": "Recinti monumentali reali",
+      "lane": "Monumentali",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "town",
+      "label": "Insediamento e Kom el-Sultan",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "osiris",
+      "label": "Tempio e culto di Osiride",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "processions",
+      "label": "Via processionale e cappelle",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "middle",
+      "label": "Complessi funerari del Medio Regno",
+      "lane": "Funerarie",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "workshops",
+      "label": "Laboratori e depositi votivi",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Huacas de Moche",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Adobe",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Mattoni marcati",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Fasi sovrapposte",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Un solo progetto edilizio",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Iconografia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Murali",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Ceramica narrativa",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Lettura storica univoca",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Metallurgia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Rame",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Doratura",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Produzione industriale uniforme",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Irrigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Canali",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Campi di valle",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Controllo centralizzato totale",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Rituali",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Sacrifici",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Processioni",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_3",
+          "label": "Ogni scena rappresenta un evento reale",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Politica",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Élite locali",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Reti tra valli",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Impero unitario moche",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

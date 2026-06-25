@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di México-Tenochtitlan, capitale mexica",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Idraulica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Canali, chiuse e calzadas",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Dighe e separazione delle acque",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Costruzione e manutenzione delle chinampas",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Calendari agricoli e fertilità dei suoli",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Ampliamento delle isole",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Organizzazione dei calpulli",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Tributo e mercati",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Registrazione dei tributi",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Reti dei pochteca",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Costruzione rituale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Piramidi a fasi sovrapposte",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Scultura e pittura monumentale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

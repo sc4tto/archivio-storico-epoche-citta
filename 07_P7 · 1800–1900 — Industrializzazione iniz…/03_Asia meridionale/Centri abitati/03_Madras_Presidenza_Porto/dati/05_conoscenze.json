@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Madras della Presidenza e del porto",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Costa e porto",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Roadstead, catamarani e pilotaggio",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Frangiflutti, moli e dogane",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Amministrazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Presidenza, tribunali e catasto",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Municipalità e servizi pubblici",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Ferrovie e commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Arcot e reti del Deccan",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Cotone, cuoio e riso birmano",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Cultura urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Stampa, collegi e medicina",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Tamil, telugu e inglese nello spazio pubblico",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Carestie e salute",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Crisi agrarie e prezzi",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Acqua, drenaggi ed epidemie",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

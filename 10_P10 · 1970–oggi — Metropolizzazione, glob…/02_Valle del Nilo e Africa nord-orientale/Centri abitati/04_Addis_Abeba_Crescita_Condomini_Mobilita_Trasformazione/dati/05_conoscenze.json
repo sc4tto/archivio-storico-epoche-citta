@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Addis Abeba, crescita, condomini, mobilità e trasformazione",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Suolo e abitazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Catasto, concessioni, condomini e kebele",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Compensazione, ricollocazione e accessibilità economica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mobilità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Light rail, autobus, cammino e corridoi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Manutenzione, sicurezza e integrazione tariffaria",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Acqua e drenaggio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Bacini, fiumi urbani, reti e scarichi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Alluvioni, inquinamento e riqualificazione ecologica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Economia urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Mercati, diplomazia, servizi e manifattura",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Lavoro informale, giovani e protezione sociale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Territorio Oromo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Storia fondiaria e crescita periurbana",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Consultazione, diritti, conflitto e memoria",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

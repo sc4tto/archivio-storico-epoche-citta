@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Bogotá, corridoio connesso, TransMilenio, metro, clima e disuguaglianze",
+    "site": "Bogotá, corridoio connesso, TransMilenio, metro, clima e disuguaglianze",
+    "modern_location": "Bogotá e Sabana, Colombia",
+    "coordinates": {
+      "lat": 4.711,
+      "lon": -74.0721
+    },
+    "scope": "Bogotá e la Sabana come corridoio connesso dal 1970 al 25 giugno 2026: crescita metropolitana verso Soacha, Chía e comuni limitrofi, urbanizzazione informale, conflitto armato e sfollamenti interni, TransMilenio dal 2000, elettrificazione degli autobus, cantieri della Prima Linea Metro, logistica regionale, qualità dell’aria, rischio di alluvione e politica climatica.",
+    "version": "1.0",
+    "warning": "La Prima Linea Metro era ancora in costruzione al 25 giugno 2026; la Politica climatica 2020–2050, il POT e ulteriori linee sono piani o progetti futuri."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "BO1",
+      "title": "Empresa Metro de Bogotá — avanzamento della Prima Linea",
+      "use": "Stato del cantiere della prima metropolitana e trasformazione del corridoio urbano.",
+      "url": "https://www.metrodebogota.gov.co/"
+    },
+    {
+      "id": "BO2",
+      "title": "Bogotá.gov.co — flotta elettrica di TransMilenio",
+      "use": "Transizione energetica del trasporto pubblico e digitalizzazione del sistema.",
+      "url": "https://bogota.gov.co/en/international/new-era-transmilenio-transmiapp-and-largest-electric-fleet"
+    },
+    {
+      "id": "BO3",
+      "title": "Secretaría Distrital de Ambiente — piano della Politica di Azione Climatica 2020–2050",
+      "use": "Mitigazione, adattamento, neutralità climatica e resilienza urbana.",
+      "url": "https://www.ambientebogota.gov.co/plan-de-accion-climatica-pac"
+    },
+    {
+      "id": "BO4",
+      "title": "World Bank — Bogotá Green Corridors and Sustainable Transport",
+      "use": "POT, contenimento della dispersione, qualità dell’aria e sviluppo orientato al trasporto.",
+      "url": "https://documents1.worldbank.org/curated/en/099041423114075744/pdf/P179822035785d0f0b75f07fdf225d22ca.pdf"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Anuradhapura fu capitale politica e religiosa per circa tredici secoli",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "ANU_UNESCO"
+  },
+  {
+    "claim": "La città comprende palazzi, monasteri e grandi monumenti",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "ANU_UNESCO"
+  },
+  {
+    "claim": "Il sistema di serbatoi sosteneva agricoltura e popolazione",
+    "theme": "Acqua",
+    "status": "documentato",
+    "source": "ANU_CONINGHAM"
+  },
+  {
+    "claim": "Mantai collegava la capitale al commercio marittimo",
+    "theme": "Reti",
+    "status": "documentato",
+    "source": "ANU_CONINGHAM"
+  },
+  {
+    "claim": "La città fu abbandonata dopo l’invasione del 993",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "ANU_UNESCO"
+  },
+  {
+    "claim": "Tutti gli stupa conservano forma e altezza originarie",
+    "theme": "Restauro",
+    "status": "non_documentato",
+    "source": "Molti furono restaurati"
+  },
+  {
+    "claim": "Le cronache forniscono una pianta urbana completa",
+    "theme": "Fonti",
+    "status": "non_documentato",
+    "source": "Devono essere integrate con l’archeologia"
+  },
+  {
+    "claim": "Ogni quartiere era esclusivamente monastico",
+    "theme": "Società",
+    "status": "non_documentato",
+    "source": "Sono documentate funzioni diverse"
+  }
+]

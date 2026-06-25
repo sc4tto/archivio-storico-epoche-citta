@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Addis Abeba, crescita, condomini, mobilità e trasformazione",
+    "site": "Addis Abeba, crescita, condomini, mobilità e trasformazione",
+    "modern_location": "Addis Abeba, Etiopia",
+    "coordinates": {
+      "lat": 8.9806,
+      "lon": 38.7578
+    },
+    "scope": "Addis Abeba dal 1970 al 25 giugno 2026: capitale federale e diplomatica, crescita periurbana, abitazioni kebele e informali, programma dei condomini, espansione stradale, light rail, trasformazioni del centro, espropri e ricollocazioni, servizi digitali e agenda di resilienza urbana.",
+    "version": "1.0",
+    "warning": "Piani, corridoi BRT e interventi annunciati con completamento successivo al 25 giugno 2026 sono indicati come progetti futuri."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "AD1",
+      "title": "UN-Habitat — Addis Ababa Urban Profile",
+      "use": "Abitazione, informalità, servizi e governance urbana.",
+      "url": "https://unhabitat.org/sites/default/files/download-manager-files/Ethiopia%20Addis%20Ababa%20Urban%20Profile.pdf"
+    },
+    {
+      "id": "AD2",
+      "title": "World Bank — Addis Ababa: Enhancing Urban Resilience, Livability and Competitiveness",
+      "use": "Strategia di inclusività, connessione e resilienza.",
+      "url": "https://openknowledge.worldbank.org/entities/publication/0fbb29ea-2b96-513d-95a4-d118792513f5"
+    },
+    {
+      "id": "AD3",
+      "title": "World Bank — Addis Ababa Strategic Development Framework",
+      "use": "Crescita, suolo, abitazione, economia e mobilità.",
+      "url": "https://documents1.worldbank.org/curated/en/841961623399992742/pdf/Future-of-Addis-Ababa-2021-Addis-Ababa-s-Strategic-Development-Framework.pdf"
+    },
+    {
+      "id": "AD4",
+      "title": "World Bank — Transport Systems Improvement Project, Resettlement Action Plan",
+      "use": "Espropri, valutazione, ricollocazione e diritti delle persone colpite.",
+      "url": "https://documents1.worldbank.org/curated/en/099020824080025706/pdf/P1518191ce0be30d11843712bd64d4aa052.pdf"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Pechino",
+      "lat": 39.9042,
+      "lon": 116.4074,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "heb",
+      "label": "Hebei e pianura settentrionale",
+      "lat": 39.0,
+      "lon": 116.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "tun",
+      "label": "Tongzhou e terminale del Grand Canal",
+      "lat": 39.9,
+      "lon": 116.65,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "mon",
+      "label": "Mongolia Interna e steppe",
+      "lat": 42.0,
+      "lon": 112.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "sha",
+      "label": "Shandong e basso Huang He",
+      "lat": 36.5,
+      "lon": 117.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "sou",
+      "label": "Jiangnan e Cina meridionale",
+      "lat": 31.0,
+      "lon": 120.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "tia",
+      "label": "Tianjin e porto di Bohai",
+      "lat": 39.12,
+      "lon": 117.2,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "heb",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e carri",
+      "food": "grano, verdure, legname e manodopera"
+    },
+    {
+      "source": "tun",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canale e magazzini",
+      "food": "riso tributario e merci del Grand Canal"
+    },
+    {
+      "source": "mon",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane e mercati di frontiera",
+      "food": "montoni, cavalli, pelli e latticini"
+    },
+    {
+      "source": "sha",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e canalizzazione",
+      "food": "cereali, cotone, sale e prodotti artigiani"
+    },
+    {
+      "source": "sou",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Grand Canal e reti mercantili",
+      "food": "riso, tè, seta, carta e beni di lusso"
+    },
+    {
+      "source": "tia",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto, strada e ferrovia tarda",
+      "food": "merci importate, carbone e collegamenti ferroviari"
+    }
+  ]
+}

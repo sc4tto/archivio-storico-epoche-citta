@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Cahuachi–Nasca",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Paesaggio rituale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Geoglifi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Percorsi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Funzione astronomica unica",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Adobe",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Piattaforme",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Città densamente abitata",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Acqua",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Canali",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Puquios",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Cronologia uniforme",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Tessili e ceramica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Iconografia",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Offerte",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Significati completamente decifrati",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Società",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Pellegrinaggi",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_2",
+          "label": "Élite rituali",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_3",
+          "label": "Stato territoriale centralizzato",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Relazioni",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Costa",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Altopiani",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_3",
+          "label": "Confini politici fissi",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

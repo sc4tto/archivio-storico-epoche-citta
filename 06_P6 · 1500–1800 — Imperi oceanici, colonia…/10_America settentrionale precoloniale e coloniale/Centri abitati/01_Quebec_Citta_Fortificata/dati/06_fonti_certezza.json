@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Québec fu fondata nel 1608 e divenne capitale della Nuova Francia.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "QC1; QC3"
+  },
+  {
+    "claim": "La città alta concentrava funzioni religiose e amministrative.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "QC1"
+  },
+  {
+    "claim": "La città bassa si sviluppò intorno al porto e ai commerci.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "QC1; QC3"
+  },
+  {
+    "claim": "Fortificazioni, bastioni e porte strutturarono il paesaggio urbano.",
+    "theme": "difesa",
+    "status": "documentato",
+    "source": "QC1; QC2"
+  },
+  {
+    "claim": "Il commercio delle pellicce dipendeva da relazioni e conoscenze indigene.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "QC3; QC5"
+  },
+  {
+    "claim": "La conquista britannica trasformò il governo senza cancellare il tessuto urbano francese.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "QC1; QC3"
+  },
+  {
+    "claim": "Il sistema coloniale implicò conflitti, epidemie e pressione territoriale sulle popolazioni indigene.",
+    "theme": "coercizione",
+    "status": "documentato",
+    "source": "QC3; QC5"
+  },
+  {
+    "claim": "Le opere ottocentesche sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "QC1; QC2"
+  }
+]

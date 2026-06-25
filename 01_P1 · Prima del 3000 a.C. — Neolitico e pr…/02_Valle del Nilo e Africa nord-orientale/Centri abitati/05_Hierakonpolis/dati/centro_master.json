@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Hierakonpolis — modulo multi-grafo",
+    "short_name": "Hierakonpolis",
+    "site": "Hierakonpolis",
+    "modern_location": "Nekhen/Hierakonpolis, governatorato di Assuan, Egitto",
+    "coordinates": {
+      "lat": 25.1,
+      "lon": 32.78
+    },
+    "scope": "Centro predinastico di Nekhen, soprattutto Naqada I–III, circa 4000–3000 a.C.",
+    "version": "1.0-blocco_03_p1_valle_nilo_5_centri_v1",
+    "warning": "Il sito comprende località molto diverse per cronologia e funzione; la pagina è una sintesi orientativa e non sostituisce i rapporti di scavo."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "HK_OFFICIAL",
+      "title": "Hierakonpolis Expedition — sito ufficiale",
+      "url": "https://www.hierakonpolis-online.org/",
+      "use": "mappe, località, insediamento, necropoli e storia degli scavi"
+    },
+    {
+      "id": "HK_BIB",
+      "title": "Hierakonpolis Online Bibliography",
+      "url": "https://hierakonpolis-online.info/",
+      "use": "pubblicazioni specialistiche del progetto"
+    },
+    {
+      "id": "UCL_NAQADA",
+      "title": "UCL Digital Egypt — Naqada Period",
+      "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/naqadan/index.html",
+      "use": "cronologia comparativa e cultura materiale"
+    }
+  ]
+}

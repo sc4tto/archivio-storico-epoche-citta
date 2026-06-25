@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Ninive",
+      "lat": 36.36,
+      "lon": 43.15,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "tigris",
+      "label": "Fiume Tigri",
+      "lat": 36.34,
+      "lon": 43.16,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "khosr",
+      "label": "Fiume Khosr e canali",
+      "lat": 36.38,
+      "lon": 43.12,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "khorsabad",
+      "label": "Dur-Sharrukin",
+      "lat": 36.51,
+      "lon": 43.23,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "nimrud",
+      "label": "Kalhu/Nimrud",
+      "lat": 36.1,
+      "lon": 43.33,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "levant",
+      "label": "Levante e Anatolia",
+      "lat": 35.0,
+      "lon": 38.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "tigris",
+      "target": "site",
+      "label": "trasporto, acqua e pesca",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "khosr",
+      "target": "site",
+      "label": "acqua urbana e irrigazione",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "khorsabad",
+      "target": "site",
+      "label": "artigiani, funzionari e modelli palatini",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "nimrud",
+      "target": "site",
+      "label": "archivi, culti e personale di corte",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "levant",
+      "target": "site",
+      "label": "tributi, metalli e legname",
+      "status": "documentato",
+      "food": "parziale"
+    }
+  ]
+}

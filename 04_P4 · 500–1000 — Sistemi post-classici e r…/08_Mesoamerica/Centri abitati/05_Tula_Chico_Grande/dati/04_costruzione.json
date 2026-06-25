@@ -1,0 +1,270 @@
+{
+  "nodes": [
+    {
+      "id": "m_volcanic",
+      "label": "Pietra vulcanica, basalto e tufo",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_lime",
+      "label": "Calce, stucco e malte",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_adobe",
+      "label": "Adobe, terra e riempimenti",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "m_wood",
+      "label": "Legno e fibre per coperture",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "o_carve",
+      "label": "Estrazione, taglio e scultura",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_masonry",
+      "label": "Muratura, colonne e rivestimenti",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_plaster",
+      "label": "Stuccatura, pittura e finitura",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "o_roof",
+      "label": "Riempimento, carpenteria e coperture",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "c_columns",
+      "label": "Colonne, atlanti e pilastri",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_reliefs",
+      "label": "Fregi, banconi e pannelli scolpiti",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_walls",
+      "label": "Muri, pavimenti e piattaforme",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "c_roofs",
+      "label": "Tetti, portici e sale coperte",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "s_chico",
+      "label": "Piattaforme e complessi di Tula Chico",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_pyramid",
+      "label": "Piramide B e complessi monumentali iniziali",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_palaces",
+      "label": "Palazzi, colonnati e spazi assembleari",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s_residences",
+      "label": "Quartieri residenziali e artigianali",
+      "layer": 3,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "m_volcanic",
+      "target": "o_carve",
+      "status": "documentato",
+      "label": "sculture e blocchi"
+    },
+    {
+      "source": "m_volcanic",
+      "target": "o_masonry",
+      "status": "documentato",
+      "label": "murature e colonne"
+    },
+    {
+      "source": "m_lime",
+      "target": "o_plaster",
+      "status": "documentato",
+      "label": "stucco e pittura"
+    },
+    {
+      "source": "m_lime",
+      "target": "o_masonry",
+      "status": "documentato",
+      "label": "malta"
+    },
+    {
+      "source": "m_adobe",
+      "target": "o_roof",
+      "status": "documentato",
+      "label": "riempimenti e nuclei"
+    },
+    {
+      "source": "m_adobe",
+      "target": "o_masonry",
+      "status": "documentato",
+      "label": "pareti e piattaforme"
+    },
+    {
+      "source": "m_wood",
+      "target": "o_roof",
+      "status": "documentato",
+      "label": "travi e coperture"
+    },
+    {
+      "source": "m_wood",
+      "target": "o_plaster",
+      "status": "documentato",
+      "label": "combustibile"
+    },
+    {
+      "source": "o_carve",
+      "target": "c_columns",
+      "status": "documentato",
+      "label": "atlanti e pilastri"
+    },
+    {
+      "source": "o_carve",
+      "target": "c_reliefs",
+      "status": "documentato",
+      "label": "fregi e banconi"
+    },
+    {
+      "source": "o_carve",
+      "target": "c_walls",
+      "status": "documentato",
+      "label": "gradini e rivestimenti"
+    },
+    {
+      "source": "o_masonry",
+      "target": "c_columns",
+      "status": "documentato",
+      "label": "portici"
+    },
+    {
+      "source": "o_masonry",
+      "target": "c_walls",
+      "status": "documentato",
+      "label": "piattaforme e ambienti"
+    },
+    {
+      "source": "o_masonry",
+      "target": "c_roofs",
+      "status": "sintesi",
+      "label": "sostegni di sale"
+    },
+    {
+      "source": "o_plaster",
+      "target": "c_reliefs",
+      "status": "documentato",
+      "label": "superfici dipinte"
+    },
+    {
+      "source": "o_plaster",
+      "target": "c_walls",
+      "status": "documentato",
+      "label": "pavimenti e pareti"
+    },
+    {
+      "source": "o_roof",
+      "target": "c_roofs",
+      "status": "documentato",
+      "label": "tetti e portici"
+    },
+    {
+      "source": "o_roof",
+      "target": "c_walls",
+      "status": "documentato",
+      "label": "nuclei e terrazze"
+    },
+    {
+      "source": "c_columns",
+      "target": "s_pyramid",
+      "status": "documentato",
+      "label": "sommità monumentali"
+    },
+    {
+      "source": "c_columns",
+      "target": "s_palaces",
+      "status": "documentato",
+      "label": "sale colonnate"
+    },
+    {
+      "source": "c_reliefs",
+      "target": "s_pyramid",
+      "status": "documentato",
+      "label": "iconografia guerriera"
+    },
+    {
+      "source": "c_reliefs",
+      "target": "s_palaces",
+      "status": "documentato",
+      "label": "banconi e processioni"
+    },
+    {
+      "source": "c_walls",
+      "target": "s_chico",
+      "status": "documentato",
+      "label": "piattaforme antiche"
+    },
+    {
+      "source": "c_walls",
+      "target": "s_pyramid",
+      "status": "documentato",
+      "label": "basamenti"
+    },
+    {
+      "source": "c_walls",
+      "target": "s_residences",
+      "status": "documentato",
+      "label": "case e laboratori"
+    },
+    {
+      "source": "c_roofs",
+      "target": "s_palaces",
+      "status": "documentato",
+      "label": "sale coperte"
+    },
+    {
+      "source": "c_roofs",
+      "target": "s_residences",
+      "status": "documentato",
+      "label": "abitazioni"
+    },
+    {
+      "source": "c_roofs",
+      "target": "s_chico",
+      "status": "sintesi",
+      "label": "edifici della fase antica"
+    }
+  ]
+}

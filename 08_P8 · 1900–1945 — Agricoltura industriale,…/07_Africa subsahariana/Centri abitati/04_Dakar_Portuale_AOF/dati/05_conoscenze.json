@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Dakar portuale e capitale dell’AOF",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Infrastrutture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Ferrovie, porti, strade, elettricità e telecomunicazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Acqua, drenaggi, ospedali, mercati e sanità urbana",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Economia urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "porto, arachidi, ferrovia, amministrazione federale e servizi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Miniere, esportazioni, commercio, officine e logistica di guerra",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Politica e istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "governo dell’AOF, communes, cittadinanza limitata e apparati militari",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Municipalità coloniali, polizia, tribunali e amministrazioni indirette",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "comunità Lebou, tirailleurs, funzionari, mercanti, lavoratori portuali e migranti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Migrazioni, associazioni, scuole, sindacati, chiese e moschee",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Crisi e violenza",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "peste, febbre gialla, segregazione, requisizioni, lavoro forzato e crisi alimentari",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Colonialismo, segregazione, lavoro coercitivo e infrastrutture insufficienti",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

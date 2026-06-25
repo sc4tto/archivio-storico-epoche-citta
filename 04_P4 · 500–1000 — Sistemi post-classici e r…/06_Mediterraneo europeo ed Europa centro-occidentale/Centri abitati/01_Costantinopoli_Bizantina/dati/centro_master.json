@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Costantinopoli bizantina",
+    "site": "Costantinopoli / penisola storica",
+    "modern_location": "Istanbul, Turchia",
+    "coordinates": {
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "scope": "Capitale imperiale bizantina fra 500 e 1000, con attenzione a difesa, approvvigionamento, infrastrutture, culto e amministrazione.",
+    "version": "1.0",
+    "warning": "Le fonti descrivono soprattutto istituzioni, monumenti ed eventi eccezionali; popolazione, dieta quotidiana e quartieri in materiali deperibili sono ricostruiti con prudenza."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "C1",
+      "title": "UNESCO World Heritage Centre — Historic Areas of Istanbul",
+      "use": "Mura, Hagia Sophia, cisterne e stratificazione della penisola storica.",
+      "url": "https://whc.unesco.org/en/list/356/"
+    },
+    {
+      "id": "C2",
+      "title": "Encyclopaedia Britannica — Constantinople",
+      "use": "Quadro storico della capitale romana e bizantina.",
+      "url": "https://www.britannica.com/place/Constantinople"
+    },
+    {
+      "id": "C3",
+      "title": "Dumbarton Oaks — Byzantine Constantinople",
+      "use": "Ricerca su topografia, istituzioni e cultura materiale della capitale.",
+      "url": "https://www.doaks.org/research/byzantine"
+    },
+    {
+      "id": "C4",
+      "title": "Cyril Mango, The Byzantine City Centre",
+      "use": "Topografia monumentale e trasformazioni urbane.",
+      "url": "https://archive.org/details/byzantinecitycen0000mang"
+    },
+    {
+      "id": "C5",
+      "title": "The Metropolitan Museum of Art — Byzantium",
+      "use": "Contesto artistico, religioso e materiale bizantino.",
+      "url": "https://www.metmuseum.org/toah/hd/byza/hd_byza.htm"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Parigi si sviluppò sulle isole e sulle due rive della Senna.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "PA1; PA5"
+  },
+  {
+    "claim": "Le mura di Filippo Augusto accompagnarono l’espansione del XII–XIII secolo.",
+    "theme": "fortificazioni",
+    "status": "documentato",
+    "source": "PA2; PA5"
+  },
+  {
+    "claim": "Notre-Dame rappresenta uno dei maggiori cantieri gotici della città.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "PA3"
+  },
+  {
+    "claim": "L’università consolidò il Quartiere Latino come polo europeo di studio.",
+    "theme": "istruzione",
+    "status": "documentato",
+    "source": "PA5"
+  },
+  {
+    "claim": "Il Louvre nacque come fortezza medievale.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "PA4"
+  },
+  {
+    "claim": "La Senna era essenziale per merci, pietra, legname e derrate.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "PA1; PA2"
+  },
+  {
+    "claim": "L’approvvigionamento combinava bacino agricolo, mercati e rotte lontane.",
+    "theme": "alimentazione",
+    "status": "sintesi",
+    "source": "PA1; PA5"
+  },
+  {
+    "claim": "Le trasformazioni urbanistiche moderne sono escluse dal modulo.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "PA1"
+  }
+]

@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "y1",
+      "label": "Insediamenti preesistenti nell’area fluviale",
+      "lane": "Insediamento",
+      "start": 0,
+      "end": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "y2",
+      "label": "Fondazione della capitale circa 1350",
+      "lane": "Politica",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "y3",
+      "label": "Costruzione del palazzo e dei primi monasteri",
+      "lane": "Urbanistica",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "y4",
+      "label": "Consolidamento dinastico e campagne regionali",
+      "lane": "Politica",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "y5",
+      "label": "Sviluppo di canali, fossati e quartieri",
+      "lane": "Infrastrutture",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "y6",
+      "label": "Crescita del commercio con Cina e penisola",
+      "lane": "Economia",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "y7",
+      "label": "Wat Mahathat e grandi istituzioni buddhiste",
+      "lane": "Religione",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "y8",
+      "label": "Espansione cosmopolita alla fine del XV secolo",
+      "lane": "Società",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

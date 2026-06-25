@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Montréal, Révolution tranquille, métro ed Expo 67",
+    "site": "Montréal, Révolution tranquille, métro ed Expo 67",
+    "modern_location": "Montréal, Québec, Canada",
+    "coordinates": {
+      "lat": 45.5017,
+      "lon": -73.5673
+    },
+    "scope": "Montréal fra 1945 e 1970: prosperità e immigrazione del dopoguerra, suburbanizzazione, trasformazione del centro, Révolution tranquille e riforma delle istituzioni, costruzione del métro inaugurato nel 1966, autostrade e grandi progetti per Expo 67, edilizia moderna, urban renewal e demolizione di quartieri operai come Goose Village.",
+    "version": "1.0",
+    "warning": "Sono esclusi la crisi d’ottobre del 1970 come sviluppo conclusivo non approfondito, le Olimpiadi del 1976, il declino industriale successivo e le trasformazioni posteriori al 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MT1",
+      "title": "Société de transport de Montréal — Histoire du métro",
+      "use": "Progetti, costruzione e apertura della rete nel 1966.",
+      "url": "https://www.stm.info/fr/a-propos/decouvrez-la-STM-et-son-histoire/histoire/histoire-du-metro"
+    },
+    {
+      "id": "MT2",
+      "title": "Ville de Montréal — Mont-Royal, 1946–1980",
+      "use": "Prosperità, crescita demografica, immigrazione, motorizzazione e trasformazione del centro.",
+      "url": "https://montroyal.montreal.ca/histoire/1946-1980"
+    },
+    {
+      "id": "MT3",
+      "title": "The Canadian Encyclopedia — Expo 67",
+      "use": "Esposizione universale del 1967, infrastrutture, architettura e apertura internazionale.",
+      "url": "https://thecanadianencyclopedia.ca/en/article/expo-67"
+    },
+    {
+      "id": "MT4",
+      "title": "Ville de Montréal — Goose Village, Marisa Portolese",
+      "use": "Demolizione del quartiere nel 1964, esproprio di 1.500 persone e costruzione dell’Autostade.",
+      "url": "https://montreal.ca/evenements/goose-village-marisa-portolese-67546"
+    }
+  ]
+}

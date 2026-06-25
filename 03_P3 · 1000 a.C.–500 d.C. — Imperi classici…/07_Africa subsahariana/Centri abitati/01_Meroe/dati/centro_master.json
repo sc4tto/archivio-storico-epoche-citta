@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Meroe — modulo multi-grafo",
+    "short_name": "Meroe",
+    "site": "Città reale e necropoli di Meroe",
+    "modern_location": "Bagrawiya, Sudan",
+    "coordinates": {
+      "lat": 16.938,
+      "lon": 33.748
+    },
+    "scope": "Capitale e città reale kushita fra il Nilo e l’Atbara, con palazzi, templi, quartieri, officine metallurgiche, bacini idrici e necropoli piramidali collegate a Naqa e Musawwarat es-Sufra.",
+    "version": "1.0-blocco_32_p3_africa_subsahariana_5_centri_v1",
+    "warning": "“Isola di Meroe” indica una regione e un sito seriale. La scala della produzione del ferro e la funzione di alcune grandi strutture restano discusse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "MEROE_UNESCO",
+      "title": "UNESCO — Archaeological Sites of the Island of Meroe",
+      "url": "https://whc.unesco.org/en/list/1336/",
+      "use": "città, necropoli, templi e gestione dell’acqua"
+    },
+    {
+      "id": "MEROE_UCL",
+      "title": "UCL Digital Egypt — Meroe",
+      "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/nubia/meroe.html",
+      "use": "cronologia e cultura materiale"
+    },
+    {
+      "id": "MEROE_MUS",
+      "title": "Musawwarat es-Sufra Project",
+      "url": "https://www.musawwarat.com/",
+      "use": "paesaggio religioso meroitico"
+    }
+  ]
+}

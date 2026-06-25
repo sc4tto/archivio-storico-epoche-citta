@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Alessandria passò sotto il controllo ottomano con l’Egitto nel 1517.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "AL1"
+  },
+  {
+    "claim": "La cittadella di Qaitbay continuò a sorvegliare l’ingresso del porto.",
+    "theme": "difesa",
+    "status": "documentato",
+    "source": "AL3"
+  },
+  {
+    "claim": "Il porto mantenne funzioni doganali e commerciali nonostante il declino relativo.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "AL1; AL2"
+  },
+  {
+    "claim": "Rosetta acquisì parte del traffico del Delta durante l’età ottomana.",
+    "theme": "economia",
+    "status": "sintesi",
+    "source": "AL1"
+  },
+  {
+    "claim": "Pesca, saline e cereali rimasero essenziali per la città.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "AL1"
+  },
+  {
+    "claim": "Fondachi e magazzini servivano mercanti locali e stranieri.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "AL2; AL3"
+  },
+  {
+    "claim": "Le strutture antiche furono spesso riutilizzate come materiali o fondazioni.",
+    "theme": "costruzione",
+    "status": "sintesi",
+    "source": "AL2"
+  },
+  {
+    "claim": "La grande espansione moderna appartiene soprattutto al XIX secolo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "AL1"
+  }
+]

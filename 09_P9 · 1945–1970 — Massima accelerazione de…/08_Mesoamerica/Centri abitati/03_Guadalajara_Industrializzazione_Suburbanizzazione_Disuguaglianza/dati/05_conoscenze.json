@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Guadalajara, industrializzazione e suburbanizzazione diseguale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Industria e commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Alimentare, tessile, calzature, meccanica leggera e mercati",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Distribuzione regionale, credito, ferrovie e autotrasporto",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Avenidas, colonias, fraccionamientos e servizi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Espansione intermunicipale e consumo di suolo agricolo",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Abitazione e classe",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Case unifamiliari, appartamenti ed edilizia pubblica",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Segregazione est–ovest, affitto e autocostruzione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Rischio e infrastrutture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Ricostruzione sismica, drenaggio, acqua ed elettricità",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Vulnerabilità degli edifici e servizi periferici incompleti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Cultura e istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Università, stampa, mercati e associazioni professionali",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Identità regionale, cattolicesimo influente e pluralismo urbano",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

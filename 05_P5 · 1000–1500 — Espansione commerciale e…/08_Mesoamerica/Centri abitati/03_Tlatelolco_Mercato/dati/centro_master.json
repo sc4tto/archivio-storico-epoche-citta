@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Tlatelolco, città gemella e grande mercato",
+    "site": "Mexico-Tlatelolco",
+    "modern_location": "Plaza de las Tres Culturas, Città del Messico",
+    "coordinates": {
+      "lat": 19.451,
+      "lon": -99.137
+    },
+    "scope": "Tlatelolco fra la fondazione nel XIV secolo e il 1500: città gemella di Tenochtitlan, centro cerimoniale, mercato internazionale e nodo della navigazione lacustre.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1500. La conquista, il Colegio de Santa Cruz e la Plaza de las Tres Culturas appartengono a fasi successive e non sono inclusi nel modello preispanico."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "TL1",
+      "title": "INAH — Zona Arqueológica de Tlatelolco",
+      "use": "Archeologia della città, fasi templari e contesto urbano.",
+      "url": "https://www.inah.gob.mx/zonas/96-zona-arqueologica-de-tlatelolco"
+    },
+    {
+      "id": "TL2",
+      "title": "Encyclopaedia Britannica — Tlatelolco",
+      "use": "Città gemella, mercato e storia politica.",
+      "url": "https://www.britannica.com/place/Tlatelolco"
+    },
+    {
+      "id": "TL3",
+      "title": "INAH — Museo del Templo Mayor",
+      "use": "Tributo, commercio e agricoltura nella capitale mexica.",
+      "url": "https://www.templomayor.inah.gob.mx/"
+    },
+    {
+      "id": "TL4",
+      "title": "Metropolitan Museum — The Aztec World",
+      "use": "Mercati, arte e reti della Valle del Messico.",
+      "url": "https://www.metmuseum.org/toah/hd/azte/hd_azte.htm"
+    },
+    {
+      "id": "TL5",
+      "title": "UNESCO — Historic Centre of Mexico City and Xochimilco",
+      "use": "Paesaggio lacustre e continuità urbana.",
+      "url": "https://whc.unesco.org/en/list/412/"
+    }
+  ]
+}

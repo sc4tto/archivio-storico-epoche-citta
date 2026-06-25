@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Johannesburg, apartheid, industria e resistenza",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Industria e miniere",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Oro, manifattura, ferrovie, energia e logistica",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Reclutamento, compound, salari e lavoro migrante",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Pianificazione razziale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Group Areas Act, township, buffer zones e controlli residenziali",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Sophiatown, Soweto, Lenasia e separazione funzionale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Servizi e infrastrutture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Acqua dal Vaal, elettricità, strade, ospedali e trasporti",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Distribuzione diseguale, pendolarismo lungo e servizi inferiori nelle township",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società e resistenza",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "ANC, Congress Alliance, sindacati, chiese e associazioni civiche",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Freedom Charter, reti clandestine, cultura urbana e stampa",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Coercizione e violenza",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Pass laws, polizia, sgomberi, detenzione e censura",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Espropriazione, lavoro controllato e repressione anti-apartheid",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

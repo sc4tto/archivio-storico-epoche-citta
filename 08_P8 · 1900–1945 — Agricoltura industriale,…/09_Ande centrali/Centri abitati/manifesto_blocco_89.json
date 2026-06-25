@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_89_P8_Ande_Centrali_5_Centri_v1",
+  "macroregion": "Ande centrali",
+  "centers": [
+    "01_Lima_Modernizzazione_Terremoto",
+    "02_Santiago_Industriale_Popolare",
+    "03_La_Paz_Stagno_Chaco",
+    "04_Quito_Ferrovia_Rivoluzioni",
+    "05_Valparaiso_Porto_Terremoto_Crisi"
+  ],
+  "uses_central_assets": true
+}

@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Áspero",
+      "lat": -10.81,
+      "lon": -77.74,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "ocean",
+      "label": "Pacifico e foce del Supe",
+      "lat": -10.82,
+      "lon": -77.77,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "valley",
+      "label": "Bassa valle del Supe",
+      "lat": -10.8,
+      "lon": -77.65,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "caral",
+      "label": "Caral",
+      "lat": -10.89,
+      "lon": -77.52,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "pativilca",
+      "label": "Valli di Pativilca e Fortaleza",
+      "lat": -10.7,
+      "lon": -77.45,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "highlands",
+      "label": "Altopiani e versante orientale",
+      "lat": -10.6,
+      "lon": -76.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "ocean",
+      "target": "site",
+      "label": "pesca, molluschi e sale",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "valley",
+      "target": "site",
+      "label": "cotone, ortaggi e legname",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "caral",
+      "target": "site",
+      "label": "beni, persone e pratiche cerimoniali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "pativilca",
+      "target": "site",
+      "label": "rete regionale di scambio",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "highlands",
+      "target": "site",
+      "label": "beni esotici e connessioni interregionali",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

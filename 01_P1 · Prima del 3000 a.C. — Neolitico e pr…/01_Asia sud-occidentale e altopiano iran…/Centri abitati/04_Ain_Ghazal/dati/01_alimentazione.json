@@ -1,0 +1,228 @@
+{
+  "nodes": [
+    {
+      "id": "wadi",
+      "label": "Valle dello Zarqa e sorgenti locali",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "highland",
+      "label": "Altopiano della Giordania centrale",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "steppe",
+      "label": "Margine della steppa orientale",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "cereals",
+      "label": "Frumenti e orzo",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "pulses",
+      "label": "Legumi",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "goat",
+      "label": "Capre e pecore",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "gazelle",
+      "label": "Gazzelle e altra selvaggina",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "wild",
+      "label": "Piante spontanee",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "cult",
+      "label": "Coltivazione",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "herd",
+      "label": "Allevamento",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "hunt",
+      "label": "Caccia",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "gather",
+      "label": "Raccolta",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "grind",
+      "label": "Macinazione",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "cook",
+      "label": "Cottura in focolari",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "store",
+      "label": "Conservazione domestica",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "butch",
+      "label": "Macellazione",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "food",
+      "label": "Preparazioni vegetali e carnee",
+      "layer": 4,
+      "status": "inferito"
+    },
+    {
+      "id": "botany",
+      "label": "Resti botanici",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "fauna",
+      "label": "Resti faunistici",
+      "layer": 4,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "wadi",
+      "target": "cereals",
+      "label": "campi e acqua",
+      "status": "sintesi"
+    },
+    {
+      "source": "highland",
+      "target": "pulses",
+      "label": "coltivazione",
+      "status": "sintesi"
+    },
+    {
+      "source": "steppe",
+      "target": "gazelle",
+      "label": "territorio di caccia",
+      "status": "documentato"
+    },
+    {
+      "source": "steppe",
+      "target": "goat",
+      "label": "pascolo",
+      "status": "sintesi"
+    },
+    {
+      "source": "wadi",
+      "target": "wild",
+      "label": "risorse ripariali",
+      "status": "sintesi"
+    },
+    {
+      "source": "cereals",
+      "target": "cult",
+      "label": "produzione",
+      "status": "sintesi"
+    },
+    {
+      "source": "pulses",
+      "target": "cult",
+      "label": "produzione",
+      "status": "sintesi"
+    },
+    {
+      "source": "goat",
+      "target": "herd",
+      "label": "gestione",
+      "status": "sintesi"
+    },
+    {
+      "source": "gazelle",
+      "target": "hunt",
+      "label": "caccia",
+      "status": "documentato"
+    },
+    {
+      "source": "wild",
+      "target": "gather",
+      "label": "raccolta",
+      "status": "sintesi"
+    },
+    {
+      "source": "cult",
+      "target": "grind",
+      "label": "trasformazione",
+      "status": "documentato"
+    },
+    {
+      "source": "cult",
+      "target": "store",
+      "label": "conservazione",
+      "status": "sintesi"
+    },
+    {
+      "source": "grind",
+      "target": "food",
+      "label": "preparazione",
+      "status": "inferito"
+    },
+    {
+      "source": "cook",
+      "target": "food",
+      "label": "cottura",
+      "status": "inferito"
+    },
+    {
+      "source": "hunt",
+      "target": "butch",
+      "label": "trattamento",
+      "status": "documentato"
+    },
+    {
+      "source": "herd",
+      "target": "butch",
+      "label": "trattamento",
+      "status": "sintesi"
+    },
+    {
+      "source": "cult",
+      "target": "botany",
+      "label": "evidenze",
+      "status": "sintesi"
+    },
+    {
+      "source": "butch",
+      "target": "fauna",
+      "label": "evidenze",
+      "status": "documentato"
+    }
+  ]
+}

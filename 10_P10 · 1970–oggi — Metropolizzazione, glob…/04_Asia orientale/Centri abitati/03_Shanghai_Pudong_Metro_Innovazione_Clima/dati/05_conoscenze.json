@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Shanghai, Pudong, metropolitana, innovazione e clima",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Pianificazione metropolitana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Piano Shanghai 2035, nuove città e corridoi",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Monitoraggio, densità e uso del suolo",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Porto e logistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Yangshan, fiume, container e dogane",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Catena del freddo e reti globali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Mobilità di massa",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Metro, alta velocità, autobus e biciclette",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Accessibilità, interscambi e dati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Innovazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Manifattura avanzata, finanza e ricerca",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "AI, biomedicina e servizi digitali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Acqua e clima",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Argini, drenaggio e sponge city",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Tifoni, subsidenza e resilienza costiera",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

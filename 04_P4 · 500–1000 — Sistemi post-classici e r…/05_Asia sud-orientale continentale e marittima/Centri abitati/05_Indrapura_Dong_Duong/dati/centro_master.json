@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Indrapura–Đồng Dương",
+    "site": "Indrapura / complesso di Đồng Dương",
+    "modern_location": "Distretto di Thăng Bình, Quảng Nam, Vietnam",
+    "coordinates": {
+      "lat": 15.66,
+      "lon": 108.37
+    },
+    "scope": "Capitale settentrionale di Champa e grande complesso buddhista fra 875 e il tardo X secolo.",
+    "version": "1.0",
+    "warning": "Il sito è fortemente danneggiato e molte ricostruzioni dipendono da iscrizioni, fotografie storiche e frammenti scultorei. Le componenti domestiche e alimentari sono soprattutto inferenze territoriali."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "D1",
+      "title": "Encyclopaedia Britannica — Champa",
+      "use": "Indravarman II, trasferimento della capitale e costruzione di palazzi e templi.",
+      "url": "https://www.britannica.com/place/Champa-ancient-kingdom-Indochina"
+    },
+    {
+      "id": "D2",
+      "title": "Corpus of the Inscriptions of Campā — EFEO/NYU",
+      "use": "Epigrafia della dinastia di Indrapura.",
+      "url": "https://isaw.nyu.edu/publications/inscriptions/campa"
+    },
+    {
+      "id": "D3",
+      "title": "Champa and the Archaeology of Mỹ Sơn",
+      "use": "Contesto archeologico di Quảng Nam e reti fra centri Cham.",
+      "url": "https://nuspress.nus.edu.sg/products/champa-and-the-archaeology-of-my-son-vietnam"
+    },
+    {
+      "id": "D4",
+      "title": "Ngô Minh Hưng, William B. Noseworthy, Quảng Văn Sơn — Discovery & Perceptions of Champa: the Đồng Dương Complex",
+      "use": "Storia delle ricerche e ricostruzione del complesso.",
+      "url": "https://doi.org/10.37534/bp.jhssr.2021.v3.nS.id1090.p1"
+    },
+    {
+      "id": "D5",
+      "title": "Museum of Cham Sculpture, Da Nang",
+      "use": "Sculture e materiali provenienti da Đồng Dương.",
+      "url": "https://chammuseum.danang.vn/"
+    }
+  ]
+}

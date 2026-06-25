@@ -1,0 +1,74 @@
+{
+  "phases": [
+    "500–600",
+    "600–750",
+    "750–850",
+    "850–1000"
+  ],
+  "items": [
+    {
+      "id": "rt1",
+      "label": "Guerre gotiche, assedi e contrazione urbana",
+      "lane": "Crisi",
+      "start": 0,
+      "end": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "rt2",
+      "label": "Basiliche e poli ecclesiastici organizzano la città",
+      "lane": "Culto",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "rt3",
+      "label": "Diaconie, monasteri e ospizi assistenziali",
+      "lane": "Istituzioni",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "rt4",
+      "label": "Patrimoni papali e reti rurali",
+      "lane": "Economia",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "rt5",
+      "label": "Rapporti con Longobardi, Bizanzio e Franchi",
+      "lane": "Politica",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "rt6",
+      "label": "Coronazione imperiale di Carlo Magno nel 800",
+      "lane": "Politica",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "rt7",
+      "label": "Mura leonine e difesa del polo vaticano",
+      "lane": "Infrastrutture",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "rt8",
+      "label": "Quartieri sparsi, orti e riuso delle rovine",
+      "lane": "Abitato",
+      "start": 0,
+      "end": 3,
+      "status": "sintesi"
+    }
+  ]
+}

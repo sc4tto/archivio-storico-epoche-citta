@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "ol1",
+      "label": "Occupazioni locali pre-inca",
+      "lane": "Insediamento",
+      "start": 0,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "ol2",
+      "label": "Incorporazione della Valle Sacra",
+      "lane": "Politica",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ol3",
+      "label": "Pianificazione dei quartieri a kancha",
+      "lane": "Urbanistica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ol4",
+      "label": "Costruzione delle terrazze monumentali",
+      "lane": "Infrastrutture",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ol5",
+      "label": "Trasporto di megaliti da Kachiqhata",
+      "lane": "Costruzione",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ol6",
+      "label": "Tempio del Sole e opere incompiute",
+      "lane": "Religione",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ol7",
+      "label": "Canali, fontane e strade",
+      "lane": "Idraulica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ol8",
+      "label": "Funzione di tenuta reale e nodo regionale",
+      "lane": "Amministrazione",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

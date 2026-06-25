@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Huacas de Moche",
+      "lat": -8.135,
+      "lon": -78.995,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "valley",
+      "label": "Valle e fiume Moche",
+      "lat": -8.1,
+      "lon": -79.0,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "coast",
+      "label": "Costa e Pacifico",
+      "lat": -8.15,
+      "lon": -79.12,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "chicama",
+      "label": "Valle di Chicama ed El Brujo",
+      "lat": -7.92,
+      "lon": -79.3,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "viru",
+      "label": "Valli di Virú e Chao",
+      "lat": -8.42,
+      "lon": -78.75,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "highlands",
+      "label": "Sierra di Cajamarca",
+      "lat": -7.16,
+      "lon": -78.51,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "valley",
+      "target": "site",
+      "label": "mais, cotone, acqua e lavoro",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "coast",
+      "target": "site",
+      "label": "pesce, molluschi e sale",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "chicama",
+      "target": "site",
+      "label": "ceramiche, iconografie e relazioni regionali",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "viru",
+      "target": "site",
+      "label": "beni, persone e canali inter-vallivi",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "highlands",
+      "target": "site",
+      "label": "camelidi, metalli e prodotti di quota",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

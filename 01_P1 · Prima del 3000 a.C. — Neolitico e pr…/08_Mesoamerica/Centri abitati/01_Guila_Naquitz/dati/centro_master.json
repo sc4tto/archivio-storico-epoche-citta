@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Guilá Naquitz — modulo multi-grafo",
+    "short_name": "Guilá Naquitz",
+    "site": "Grotta di Guilá Naquitz",
+    "modern_location": "Valle di Tlacolula, Oaxaca, Messico",
+    "coordinates": {
+      "lat": 16.92,
+      "lon": -96.42
+    },
+    "scope": "Riparo stagionale dell’Arcaico antico, noto per resti botanici eccezionalmente conservati e per le prime fasi della gestione e domesticazione di zucca, zucca-bottiglia e mais.",
+    "version": "1.0-blocco_09_p1_mesoamerica_5_centri_v1",
+    "warning": "Le occupazioni erano stagionali e non equivalgono a un villaggio permanente. La domesticazione fu un processo plurimillenario: singoli reperti non dimostrano da soli agricoltura intensiva o piena sedentarietà."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "UNESCO_YAGUL",
+      "title": "UNESCO — Prehistoric Caves of Yagul and Mitla in the Central Valley of Oaxaca",
+      "url": "https://whc.unesco.org/en/list/1352/",
+      "use": "quadro del paesaggio culturale, transizione verso agricoltura e resti botanici"
+    },
+    {
+      "id": "PIPERNO_FLANNERY_2001",
+      "title": "Piperno e Flannery — The earliest archaeological maize from highland Mexico",
+      "url": "https://doi.org/10.1073/pnas.98.4.2101",
+      "use": "datazioni AMS e interpretazione dei resti di mais"
+    },
+    {
+      "id": "SMITH_1997",
+      "title": "Smith — The Initial Domestication of Cucurbita pepo in the Americas",
+      "url": "https://doi.org/10.1126/science.276.5314.932",
+      "use": "domesticazione precoce della zucca"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Il porto britannico di Singapore fu fondato nel 1819.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "SG1; SG2"
+  },
+  {
+    "claim": "Il porto franco favorì una rapida crescita del commercio di transito.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "SG1; SG2"
+  },
+  {
+    "claim": "La popolazione urbana fu composta da comunità asiatiche ed europee differenti.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "SG1; SG3"
+  },
+  {
+    "claim": "Il fiume Singapore concentrò moli, magazzini e attività commerciali.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "SG3; SG4"
+  },
+  {
+    "claim": "Gambier, pepe e stagno furono merci importanti delle reti regionali.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "SG1; SG5"
+  },
+  {
+    "claim": "Sovraffollamento, incendi ed epidemie accompagnarono la crescita urbana.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "SG1; SG4"
+  },
+  {
+    "claim": "Dal 1867 Singapore fece parte di una colonia della Corona.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "SG1; SG2"
+  },
+  {
+    "claim": "Le trasformazioni novecentesche sono fuori dal limite del modulo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "SG2"
+  }
+]

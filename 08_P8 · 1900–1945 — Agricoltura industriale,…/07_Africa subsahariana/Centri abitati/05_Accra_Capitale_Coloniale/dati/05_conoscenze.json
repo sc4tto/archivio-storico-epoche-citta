@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Accra capitale coloniale e commerciale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Infrastrutture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Ferrovie, porti, strade, elettricità e telecomunicazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Acqua, drenaggi, ospedali, mercati e sanità urbana",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Economia urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "cacao, commercio, mercati, ferrovie, porto e servizi coloniali",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Miniere, esportazioni, commercio, officine e logistica di guerra",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Politica e istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "governo della Gold Coast, consigli coloniali e associazioni nazionaliste",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Municipalità coloniali, polizia, tribunali e amministrazioni indirette",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "comunità Ga, mercanti, lavoratori portuali, migranti akan, funzionari e studenti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Migrazioni, associazioni, scuole, sindacati, chiese e moschee",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Crisi e violenza",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "terremoto, influenza, malaria, disoccupazione, segregazione e carenza abitativa",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Colonialismo, segregazione, lavoro coercitivo e infrastrutture insufficienti",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

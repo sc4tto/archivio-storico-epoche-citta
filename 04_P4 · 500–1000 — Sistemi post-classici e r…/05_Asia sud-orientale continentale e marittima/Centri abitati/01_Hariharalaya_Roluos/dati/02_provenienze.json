@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "c",
+      "label": "Hariharalaya–Roluos",
+      "lat": 13.35,
+      "lon": 103.97,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "indratataka",
+      "label": "Indratataka e Lolei",
+      "lat": 13.36,
+      "lon": 103.96,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "tonle",
+      "label": "Margine del Tonlé Sap",
+      "lat": 13.22,
+      "lon": 103.83,
+      "status": "sintesi",
+      "kind": "locale"
+    },
+    {
+      "id": "kulen",
+      "label": "Phnom Kulen",
+      "lat": 13.57,
+      "lon": 104.12,
+      "status": "sintesi",
+      "kind": "locale"
+    },
+    {
+      "id": "siem",
+      "label": "Piana di Siem Reap",
+      "lat": 13.42,
+      "lon": 103.88,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "mekong",
+      "label": "Corridoi del Mekong",
+      "lat": 13.6,
+      "lon": 105.0,
+      "status": "inferito",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "oceano",
+      "label": "Reti dell’Oceano Indiano",
+      "lat": 10.0,
+      "lon": 95.0,
+      "status": "inferito",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "indratataka",
+      "target": "c",
+      "status": "documentato",
+      "label": "sistema idraulico e rituale",
+      "food": "acqua e riso"
+    },
+    {
+      "source": "tonle",
+      "target": "c",
+      "status": "sintesi",
+      "label": "risorse della pianura lacustre",
+      "food": "pesce"
+    },
+    {
+      "source": "kulen",
+      "target": "c",
+      "status": "sintesi",
+      "label": "materiali e bacino idrografico",
+      "food": "pietra e acqua"
+    },
+    {
+      "source": "siem",
+      "target": "c",
+      "status": "documentato",
+      "label": "paesaggio insediativo",
+      "food": "riso e lavoro"
+    },
+    {
+      "source": "mekong",
+      "target": "c",
+      "status": "inferito",
+      "label": "contatti regionali",
+      "food": "beni e idee"
+    },
+    {
+      "source": "oceano",
+      "target": "c",
+      "status": "inferito",
+      "label": "mediazioni commerciali",
+      "food": "beni di prestigio"
+    }
+  ]
+}

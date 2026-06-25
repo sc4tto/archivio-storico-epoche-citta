@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Jaketown",
+      "lat": 33.089,
+      "lon": -90.526,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "yazoo",
+      "label": "Basso bacino dello Yazoo",
+      "lat": 33.2,
+      "lon": -90.7,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "poverty",
+      "label": "Poverty Point",
+      "lat": 32.637,
+      "lon": -91.407,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "ozarks",
+      "label": "Ozarks",
+      "lat": 35.5,
+      "lon": -93.2,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "tennessee",
+      "label": "Valle del Tennessee",
+      "lat": 35.5,
+      "lon": -86.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "gulf",
+      "label": "Costa del Golfo",
+      "lat": 30.3,
+      "lon": -89.2,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "yazoo",
+      "target": "site",
+      "label": "pesce, legname e vie d’acqua",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "poverty",
+      "target": "site",
+      "label": "forme artefattuali e reti regionali",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "ozarks",
+      "target": "site",
+      "label": "pietre silicee",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "tennessee",
+      "target": "site",
+      "label": "selce e beni lavorati",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "gulf",
+      "target": "site",
+      "label": "conchiglie e contatti costieri",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

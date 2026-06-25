@@ -1,0 +1,222 @@
+{
+  "nodes": [
+    {
+      "id": "alluvium",
+      "label": "Piana alluvionale del basso Eufrate",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "canals",
+      "label": "Canali e campi irrigui",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "marsh",
+      "label": "Margini di paludi e corsi d’acqua",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "barley",
+      "label": "Orzo e altri cereali",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "dates",
+      "label": "Datteri e frutti: cronologia da precisare",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "sheep",
+      "label": "Pecore, capre e bovini",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "fish",
+      "label": "Pesce e risorse acquatiche",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "reeds",
+      "label": "Canne e piante palustri",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "irrigate",
+      "label": "Agricoltura irrigua",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "herd",
+      "label": "Allevamento",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "fishery",
+      "label": "Pesca e raccolta palustre",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "thresh",
+      "label": "Mietitura, trebbiatura e macinazione",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "store",
+      "label": "Deposito e redistribuzione",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "brew",
+      "label": "Trasformazioni cerealicole",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "dry",
+      "label": "Essiccazione e conservazione",
+      "layer": 3,
+      "status": "inferito"
+    },
+    {
+      "id": "rations",
+      "label": "Razioni e registrazioni amministrative",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "tablets",
+      "label": "Tavolette e sigilli",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "residues",
+      "label": "Resti botanici e faunistici",
+      "layer": 4,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "alluvium",
+      "target": "barley",
+      "label": "campi alluvionali",
+      "status": "documentato"
+    },
+    {
+      "source": "canals",
+      "target": "barley",
+      "label": "irrigazione",
+      "status": "documentato"
+    },
+    {
+      "source": "alluvium",
+      "target": "dates",
+      "label": "frutticoltura",
+      "status": "sintesi"
+    },
+    {
+      "source": "marsh",
+      "target": "fish",
+      "label": "risorse acquatiche",
+      "status": "sintesi"
+    },
+    {
+      "source": "marsh",
+      "target": "reeds",
+      "label": "raccolta",
+      "status": "documentato"
+    },
+    {
+      "source": "alluvium",
+      "target": "sheep",
+      "label": "pascolo e allevamento",
+      "status": "sintesi"
+    },
+    {
+      "source": "barley",
+      "target": "irrigate",
+      "label": "produzione",
+      "status": "documentato"
+    },
+    {
+      "source": "dates",
+      "target": "irrigate",
+      "label": "gestione agricola",
+      "status": "sintesi"
+    },
+    {
+      "source": "sheep",
+      "target": "herd",
+      "label": "gestione",
+      "status": "sintesi"
+    },
+    {
+      "source": "fish",
+      "target": "fishery",
+      "label": "acquisizione",
+      "status": "sintesi"
+    },
+    {
+      "source": "reeds",
+      "target": "fishery",
+      "label": "raccolta palustre",
+      "status": "sintesi"
+    },
+    {
+      "source": "irrigate",
+      "target": "thresh",
+      "label": "trasformazione",
+      "status": "sintesi"
+    },
+    {
+      "source": "irrigate",
+      "target": "store",
+      "label": "surplus",
+      "status": "documentato"
+    },
+    {
+      "source": "thresh",
+      "target": "brew",
+      "label": "preparazioni",
+      "status": "sintesi"
+    },
+    {
+      "source": "store",
+      "target": "rations",
+      "label": "redistribuzione",
+      "status": "documentato"
+    },
+    {
+      "source": "store",
+      "target": "tablets",
+      "label": "controllo amministrativo",
+      "status": "documentato"
+    },
+    {
+      "source": "herd",
+      "target": "residues",
+      "label": "evidenze",
+      "status": "sintesi"
+    },
+    {
+      "source": "fishery",
+      "target": "residues",
+      "label": "evidenze",
+      "status": "sintesi"
+    }
+  ]
+}

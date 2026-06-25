@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Niah Caves",
+      "lat": 3.8043,
+      "lon": 113.7808,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "forest",
+      "label": "Foresta di Gunung Subis",
+      "lat": 3.82,
+      "lon": 113.77,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": -20,
+      "anchor": "end"
+    },
+    {
+      "id": "rivers",
+      "label": "Fiumi e paludi locali",
+      "lat": 3.76,
+      "lon": 113.82,
+      "status": "sintesi",
+      "kind": "locale",
+      "dx": 10,
+      "dy": 25,
+      "anchor": "start"
+    },
+    {
+      "id": "coast",
+      "label": "Costa del Mar Cinese Meridionale",
+      "lat": 3.65,
+      "lon": 113.9,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 28,
+      "anchor": "middle"
+    },
+    {
+      "id": "borneo",
+      "label": "Reti interne del Borneo",
+      "lat": 2.8,
+      "lon": 113.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "sundaland",
+      "label": "Sundaland e regioni insulari vicine",
+      "lat": 1.5,
+      "lon": 110.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "forest",
+      "target": "site",
+      "label": "piante, fauna, legno e fibre",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "rivers",
+      "target": "site",
+      "label": "pesce, molluschi e mobilità",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "coast",
+      "target": "site",
+      "label": "risorse estuarine e cambi del livello marino",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "borneo",
+      "target": "site",
+      "label": "corridoi di mobilità e materie prime",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "sundaland",
+      "target": "site",
+      "label": "confronti di popolamento e tecnologia",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

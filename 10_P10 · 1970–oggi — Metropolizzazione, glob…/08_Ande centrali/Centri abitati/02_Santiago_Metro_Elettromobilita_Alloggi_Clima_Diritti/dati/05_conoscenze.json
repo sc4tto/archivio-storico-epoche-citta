@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Santiago, metro, elettromobilità, alloggi, clima e diritti",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Governance metropolitana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Ministeri, Governo regionale, comuni, Metro e DTPM",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Coordinamento, concessioni, tariffe e dati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Trasporto integrato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Metro, Red, treno suburbano, ciclabilità e pedonalità",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Integrazione, elettromobilità, accessibilità e sicurezza",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Alloggi e segregazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Vivienda social, mercato immobiliare e periferie",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Affordability, localizzazione, servizi e diritto alla città",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Clima e bacino",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Smog, calore, siccità, acqua e montagne",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Inventari, allerta, adattamento e riduzione delle emissioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Memoria e diritti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Dittatura, proteste, istituzioni e società civile",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Repressione, accountability, partecipazione e non discriminazione",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

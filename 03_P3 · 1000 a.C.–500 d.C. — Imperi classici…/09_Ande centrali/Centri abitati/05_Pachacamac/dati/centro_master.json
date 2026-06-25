@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Pachacamac — fasi iniziali — modulo multi-grafo",
+    "short_name": "Pachacamac — fasi iniziali",
+    "site": "Santuario archeologico di Pachacamac",
+    "modern_location": "Valle di Lurín, Lima, Perù",
+    "coordinates": {
+      "lat": -12.257,
+      "lon": -76.9
+    },
+    "scope": "Santuario costiero di lunga durata, sviluppato nelle fasi Lima e successive con templi in adobe, piazze, strade, depositi e reti di pellegrinaggio; nel P3 si formano i primi grandi complessi monumentali e rituali.",
+    "version": "1.0-blocco_34_p3_ande_centrali_5_centri_v1",
+    "warning": "Il celebre oracolo, l’ampia rete di pellegrinaggio e molti edifici oggi visibili appartengono soprattutto a fasi posteriori. Il modulo distingue il Pachacamac del P3 dalle trasformazioni Wari, Ychsma e inca."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "PACHA_MUSEUM",
+      "title": "Ministerio de Cultura — Museo Pachacamac",
+      "url": "https://pachacamac.cultura.pe/",
+      "use": "santuario, collezioni, ricerca e conservazione"
+    },
+    {
+      "id": "PACHA_SHIMADA",
+      "title": "Izumi Shimada — Pachacamac Archaeological Project",
+      "url": "https://search.worldcat.org/search?q=Pachacamac+Shimada",
+      "use": "cronologia, pellegrinaggi e paesaggio rituale"
+    },
+    {
+      "id": "PACHA_EECKHOUT",
+      "title": "Peter Eeckhout — Pachacamac",
+      "url": "https://search.worldcat.org/search?q=Pachacamac+Eeckhout",
+      "use": "architettura, società e sequenze occupazionali"
+    }
+  ]
+}

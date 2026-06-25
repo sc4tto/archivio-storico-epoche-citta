@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Gebel Barkal / Napata",
+      "lat": 18.537,
+      "lon": 31.838,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "kurru",
+      "label": "El-Kurru",
+      "lat": 18.41,
+      "lon": 31.77,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "nuri",
+      "label": "Nuri",
+      "lat": 18.55,
+      "lon": 31.93,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "sanam",
+      "label": "Sanam",
+      "lat": 18.47,
+      "lon": 31.83,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "meroe",
+      "label": "Meroe",
+      "lat": 16.94,
+      "lon": 33.75,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "thebes",
+      "label": "Tebe e Karnak",
+      "lat": 25.72,
+      "lon": 32.66,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "kurru",
+      "target": "site",
+      "label": "sepolture regali e memoria dinastica",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "nuri",
+      "target": "site",
+      "label": "necropoli reale e culti funerari",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "sanam",
+      "target": "site",
+      "label": "abitati, templi e amministrazione locale",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "meroe",
+      "target": "site",
+      "label": "spostamento del baricentro politico e reti kushite",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "thebes",
+      "target": "site",
+      "label": "tradizioni di Amon, artigiani e modelli rituali",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

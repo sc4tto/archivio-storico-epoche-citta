@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Gobero conserva occupazioni separate da una fase arida dell’Olocene",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "PLOS_GOBERO"
+  },
+  {
+    "claim": "Il paleolago sostenne pesca, caccia e raccolta",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "PLOS_GOBERO"
+  },
+  {
+    "claim": "Le sepolture documentano pratiche funerarie differenziate",
+    "theme": "Ritualità",
+    "status": "documentato",
+    "source": "PLOS_GOBERO"
+  },
+  {
+    "claim": "Ceramiche e utensili litici appartengono a più fasi",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "GOBERO_BOOK"
+  },
+  {
+    "claim": "Le occupazioni risposero ai cambiamenti del Sahara verde",
+    "theme": "Ambiente",
+    "status": "documentato",
+    "source": "PLOS_GOBERO"
+  },
+  {
+    "claim": "Kiffiani e Teneriani corrispondono a etnie linguisticamente note",
+    "theme": "Identità",
+    "status": "non_documentato",
+    "source": "Le etichette sono archeologiche"
+  },
+  {
+    "claim": "Il sito fu una città permanente",
+    "theme": "Insediamento",
+    "status": "non_documentato",
+    "source": "Evidenza di accampamenti e cimiteri"
+  },
+  {
+    "claim": "Ogni sepoltura indica lo stesso sistema sociale",
+    "theme": "Società",
+    "status": "non_documentato",
+    "source": "Variabilità cronologica e rituale"
+  }
+]

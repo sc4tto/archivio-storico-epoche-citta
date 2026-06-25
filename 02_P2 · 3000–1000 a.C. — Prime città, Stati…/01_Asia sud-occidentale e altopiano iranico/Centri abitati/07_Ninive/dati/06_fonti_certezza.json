@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Ninive occupava una posizione strategica sul Tigri presso la piana di Mosul",
+    "theme": "Geografia",
+    "status": "documentato",
+    "source": "NINEVEH_BM"
+  },
+  {
+    "claim": "Il sito ebbe una lunga occupazione anteriore alla capitale neo-assira",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "NINEVEH_CAMBRIDGE"
+  },
+  {
+    "claim": "Il culto di Ishtar ebbe un ruolo importante nella città",
+    "theme": "Culto",
+    "status": "documentato",
+    "source": "NINEVEH_ARCHIVE"
+  },
+  {
+    "claim": "Le fasi P2 sono in parte coperte da costruzioni posteriori",
+    "theme": "Archeologia",
+    "status": "sintesi",
+    "source": "NINEVEH_CAMBRIDGE"
+  },
+  {
+    "claim": "I collegamenti con Assur e l’Alta Mesopotamia erano strutturali",
+    "theme": "Reti",
+    "status": "sintesi",
+    "source": "NINEVEH_CAMBRIDGE"
+  },
+  {
+    "claim": "Ninive era già capitale dell’impero assiro per tutto il II millennio a.C.",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Capitale soprattutto dal regno di Sennacherib"
+  },
+  {
+    "claim": "Il palazzo sud-occidentale appartiene al periodo P2",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Costruzione neo-assira posteriore"
+  },
+  {
+    "claim": "La biblioteca di Assurbanipal documenta direttamente il II millennio a.C.",
+    "theme": "Archivi",
+    "status": "non_documentato",
+    "source": "Biblioteca del VII secolo a.C. con copie di testi più antichi"
+  }
+]

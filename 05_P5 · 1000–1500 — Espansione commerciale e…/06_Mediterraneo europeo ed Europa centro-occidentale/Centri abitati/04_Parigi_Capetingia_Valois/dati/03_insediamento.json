@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "p1",
+      "label": "Consolidamento capetingio e crescita delle rive",
+      "lane": "Politica",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "p2",
+      "label": "Mura di Filippo Augusto",
+      "lane": "Fortificazioni",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "p3",
+      "label": "Notre-Dame e cantieri gotici",
+      "lane": "Religione",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "p4",
+      "label": "Università e quartiere latino",
+      "lane": "Istruzione",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "p5",
+      "label": "Louvre medievale e palazzi regi",
+      "lane": "Politica",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "p6",
+      "label": "Peste e guerra dei Cent’anni",
+      "lane": "Società",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "p7",
+      "label": "Mura di Carlo V e nuove difese",
+      "lane": "Fortificazioni",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "p8",
+      "label": "Ripresa urbana sotto i Valois",
+      "lane": "Urbanistica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

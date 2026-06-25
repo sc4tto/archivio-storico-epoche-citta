@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Insediamento formativo",
+    "Prime architetture cerimoniali",
+    "Crescita del centro tra I e III secolo",
+    "Città pianificata dal IV secolo",
+    "Soglia dell’apogeo dopo il 500"
+  ],
+  "items": [
+    {
+      "id": "semi",
+      "label": "Tempio semisotterraneo",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "kalasasaya",
+      "label": "Kalasasaya e monoliti",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "akapana",
+      "label": "Piramide di Akapana",
+      "lane": "Monumentali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "pumapunku",
+      "label": "Prime fasi di Pumapunku",
+      "lane": "Monumentali",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "drainage",
+      "label": "Drenaggi sotterranei",
+      "lane": "Territorio",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "fields",
+      "label": "Sukakollos e paesaggio agricolo",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "residences",
+      "label": "Quartieri in adobe e aree produttive",
+      "lane": "Abitative",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Gondar imperiale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Architettura di corte",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Palazzi fortificati e torri",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Cortili, bagni e sale cerimoniali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Teff e cereali d’altopiano",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Bestiame e mercati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Arte religiosa",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Pittura murale e icone",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Manoscritti e liturgia",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Carovane del Sudan",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Rotte verso Massaua",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Governance",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Corte imperiale",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Quartieri e comunità specializzate",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

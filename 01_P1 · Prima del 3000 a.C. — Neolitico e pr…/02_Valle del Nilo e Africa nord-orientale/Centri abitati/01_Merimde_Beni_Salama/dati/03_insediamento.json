@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Fase iniziale",
+    "Interruzione e ripresa",
+    "Fase media",
+    "Fase tarda",
+    "Abbandono"
+  ],
+  "items": [
+    {
+      "id": "huts",
+      "label": "Ripari in canne, legno e argilla",
+      "lane": "Abitazioni",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "compact",
+      "label": "Aumento della densità insediativa",
+      "lane": "Impianto",
+      "start": 1,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "pits",
+      "label": "Fosse di deposito e silos",
+      "lane": "Conservazione",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "hearths",
+      "label": "Focolari e aree di cottura",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "burials",
+      "label": "Sepolture entro o presso l’abitato",
+      "lane": "Funerarie",
+      "start": 0,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "middens",
+      "label": "Accumuli di rifiuti domestici",
+      "lane": "Gestione scarti",
+      "start": 1,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "renew",
+      "label": "Rifacimento di capanne e superfici",
+      "lane": "Manutenzione",
+      "start": 0,
+      "end": 3,
+      "status": "inferito"
+    }
+  ]
+}

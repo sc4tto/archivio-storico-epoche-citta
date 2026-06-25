@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Gao",
+      "lat": 16.272,
+      "lon": -0.045,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "nig",
+      "label": "Niger medio",
+      "lat": 16.1,
+      "lon": -0.5,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "san",
+      "label": "Gao-Saney",
+      "lat": 16.5,
+      "lon": 0.04,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "tes",
+      "label": "Tessalit e Sahara",
+      "lat": 20.2,
+      "lon": 1.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "tim",
+      "label": "Timbuctù",
+      "lat": 16.77,
+      "lon": -3.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "kan",
+      "label": "Paesi Hausa",
+      "lat": 12.0,
+      "lon": 8.5,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "man",
+      "label": "Mandé e alto Niger",
+      "lat": 12.0,
+      "lon": -8.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "nig",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione fluviale",
+      "food": "riso, pesce e cereali"
+    },
+    {
+      "source": "san",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "insediamenti gemelli e mercati",
+      "food": "ceramiche, vetro e derrate"
+    },
+    {
+      "source": "tes",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane sahariane",
+      "food": "sale e datteri"
+    },
+    {
+      "source": "tim",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "asse del Niger",
+      "food": "oro, libri e merci"
+    },
+    {
+      "source": "kan",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "piste orientali",
+      "food": "tessuti, cuoio e bestiame"
+    },
+    {
+      "source": "man",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte occidentali",
+      "food": "oro, cola e derrate"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Valparaíso divenne il principale porto cileno del XIX secolo.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "VA1; VA2"
+  },
+  {
+    "claim": "La città si sviluppò fra il plan costiero e i cerros dell’anfiteatro naturale.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "VA1; VA3"
+  },
+  {
+    "claim": "La ferrovia con Santiago fu completata nel 1863.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "VA2; VA4"
+  },
+  {
+    "claim": "Compagnie straniere e comunità immigrate contribuirono al carattere cosmopolita del porto.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "VA1; VA4"
+  },
+  {
+    "claim": "Il bombardamento del 1866 danneggiò edifici e infrastrutture portuali.",
+    "theme": "conflitto",
+    "status": "documentato",
+    "source": "VA2; VA5"
+  },
+  {
+    "claim": "Ascensori, scale e muri di contenimento facilitarono l’espansione sui pendii.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "VA1; VA3"
+  },
+  {
+    "claim": "Lavoro portuale precario, conventillos e disuguaglianza accompagnarono la crescita commerciale.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "VA3; VA4"
+  },
+  {
+    "claim": "Il terremoto del 1906 è escluso.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "VA1; VA2"
+  }
+]

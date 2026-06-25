@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Nanchoc",
+      "lat": -6.96,
+      "lon": -79.24,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "river",
+      "label": "Fiume Nanchoc",
+      "lat": -6.95,
+      "lon": -79.22,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "zana",
+      "label": "Alta valle dello Zaña",
+      "lat": -6.9,
+      "lon": -79.15,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "pircas",
+      "label": "Siti della fase Las Pircas",
+      "lat": -6.98,
+      "lon": -79.27,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "coast",
+      "label": "Costa di Lambayeque",
+      "lat": -6.85,
+      "lon": -79.95,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "highlands",
+      "label": "Altopiani di Cajamarca",
+      "lat": -7.1,
+      "lon": -78.6,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "river",
+      "target": "site",
+      "label": "acqua e irrigazione",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "zana",
+      "target": "site",
+      "label": "corridoio ecologico e terreni",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "pircas",
+      "target": "site",
+      "label": "rete di abitazioni e aree produttive",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "coast",
+      "target": "site",
+      "label": "conchiglie e scambi",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "highlands",
+      "target": "site",
+      "label": "materie prime e piante",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

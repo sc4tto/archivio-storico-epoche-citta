@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Ban Chiang",
+      "lat": 17.4078,
+      "lon": 103.2376,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "fields",
+      "label": "Risaie circostanti",
+      "lat": 17.4,
+      "lon": 103.23,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "mekong",
+      "label": "Bacino del Mekong",
+      "lat": 17.55,
+      "lon": 103.5,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "nadi",
+      "label": "Ban Na Di",
+      "lat": 17.34,
+      "lon": 103.18,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "laos",
+      "label": "Altopiano del Laos",
+      "lat": 18.2,
+      "lon": 103.8,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "copper",
+      "label": "Aree cuprifere regionali",
+      "lat": 16.5,
+      "lon": 101.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "fields",
+      "target": "site",
+      "label": "riso, acqua e suoli",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "mekong",
+      "target": "site",
+      "label": "pesce e mobilità fluviale",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "nadi",
+      "target": "site",
+      "label": "ceramiche e pratiche funerarie",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "laos",
+      "target": "site",
+      "label": "contatti interni",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "copper",
+      "target": "site",
+      "label": "rame e conoscenze metallurgiche",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

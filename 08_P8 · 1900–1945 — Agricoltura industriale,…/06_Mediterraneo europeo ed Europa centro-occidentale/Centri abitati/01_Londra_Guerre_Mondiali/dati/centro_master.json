@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Londra metropolitana e delle guerre mondiali",
+    "site": "Londra metropolitana e delle guerre mondiali",
+    "modern_location": "Londra, Regno Unito",
+    "coordinates": {
+      "lat": 51.5072,
+      "lon": -0.1276
+    },
+    "scope": "Londra fra 1900 e 1945: capitale imperiale, metropolitana elettrica, porto, welfare municipale, guerra totale, rifugi, evacuazioni, Blitz e razionamento.",
+    "version": "1.0",
+    "warning": "Sono escluse ricostruzione post-1945, New Towns e welfare state pienamente postbellico."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "LO1",
+      "title": "Museum of London",
+      "use": "Storia urbana, Blitz e vita quotidiana.",
+      "url": "https://www.museumoflondon.org.uk/"
+    },
+    {
+      "id": "LO2",
+      "title": "Imperial War Museums",
+      "use": "Guerre mondiali, bombardamenti e società civile.",
+      "url": "https://www.iwm.org.uk/"
+    },
+    {
+      "id": "LO3",
+      "title": "Transport for London Museum",
+      "use": "Metropolitana, tram e mobilità urbana.",
+      "url": "https://www.ltmuseum.co.uk/"
+    },
+    {
+      "id": "LO4",
+      "title": "Historic England",
+      "use": "Edilizia pubblica e patrimonio urbano.",
+      "url": "https://historicengland.org.uk/"
+    },
+    {
+      "id": "LO5",
+      "title": "Encyclopaedia Britannica — London",
+      "use": "Sintesi storica della capitale.",
+      "url": "https://www.britannica.com/place/London"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Taputapuātea–ʻŌpoʻa",
+      "lat": -16.8369,
+      "lon": -151.3596,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "opo",
+      "label": "Valli di ʻŌpoʻa e Hotopuʻu",
+      "lat": -16.83,
+      "lon": -151.365,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "lag",
+      "label": "Laguna e Te Ava Moʻa",
+      "lat": -16.845,
+      "lon": -151.345,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "rai",
+      "label": "Raiatea e Tahaa",
+      "lat": -16.7,
+      "lon": -151.45,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "tah",
+      "label": "Tahiti e Moorea",
+      "lat": -17.55,
+      "lon": -149.6,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "hua",
+      "label": "Huahine e Bora Bora",
+      "lat": -16.6,
+      "lon": -151.75,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "pol",
+      "label": "Arcipelaghi della Polinesia",
+      "lat": -12.0,
+      "lon": -160.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "opo",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sentieri vallivi",
+      "food": "taro, frutta, legname e fibre"
+    },
+    {
+      "source": "lag",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canoe e passaggio nel reef",
+      "food": "pesce, molluschi e accesso cerimoniale"
+    },
+    {
+      "source": "rai",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "circuiti insulari",
+      "food": "derrate, maiali e specialisti"
+    },
+    {
+      "source": "tah",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canoe d’altura",
+      "food": "capi, sacerdoti, guerrieri e doni"
+    },
+    {
+      "source": "hua",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte interinsulari",
+      "food": "prodotti agricoli, conchiglie e alleanze"
+    },
+    {
+      "source": "pol",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete simbolica e oceanica",
+      "food": "pietre fondatrici, genealogie e conoscenze nautiche"
+    }
+  ]
+}

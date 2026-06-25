@@ -1,0 +1,216 @@
+{
+  "nodes": [
+    {
+      "id": "mt_valle",
+      "label": "Valle del Thu Bồn",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "mt_fiume",
+      "label": "Fiume ed estuario",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "mt_collina",
+      "label": "Colline e foreste di Mỹ Sơn",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "mt_mare",
+      "label": "Costa e Mar Cinese Meridionale",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "mr_riso",
+      "label": "Riso",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "mr_pesce",
+      "label": "Pesce e molluschi",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "mr_frutta",
+      "label": "Frutta, cocco e ortaggi",
+      "layer": 1,
+      "status": "inferito"
+    },
+    {
+      "id": "mr_foresta",
+      "label": "Legname, resine e prodotti forestali",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "mr_import",
+      "label": "Beni alimentari e di prestigio importati",
+      "layer": 1,
+      "status": "inferito"
+    },
+    {
+      "id": "ma_risaia",
+      "label": "Coltivazione irrigua",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "ma_pesca",
+      "label": "Pesca fluviale e costiera",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "ma_racc",
+      "label": "Raccolta e orticoltura",
+      "layer": 2,
+      "status": "inferito"
+    },
+    {
+      "id": "ma_scambio",
+      "label": "Commercio fluviale-marittimo",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "mx_riso",
+      "label": "Pestatura e cottura",
+      "layer": 3,
+      "status": "inferito"
+    },
+    {
+      "id": "mx_pesce",
+      "label": "Essiccazione e salagione",
+      "layer": 3,
+      "status": "inferito"
+    },
+    {
+      "id": "mx_mag",
+      "label": "Stoccaggio e redistribuzione",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "mp_pasti",
+      "label": "Pasti di riso, pesce e vegetali",
+      "layer": 4,
+      "status": "inferito"
+    },
+    {
+      "id": "mp_offerte",
+      "label": "Offerte rituali",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "mp_scorte",
+      "label": "Scorte per corte, santuario e naviganti",
+      "layer": 4,
+      "status": "inferito"
+    }
+  ],
+  "edges": [
+    {
+      "source": "mt_valle",
+      "target": "mr_riso",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "mt_fiume",
+      "target": "mr_pesce",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "mt_collina",
+      "target": "mr_foresta",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "mt_mare",
+      "target": "mr_import",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "mr_riso",
+      "target": "ma_risaia",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "mr_pesce",
+      "target": "ma_pesca",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "mr_frutta",
+      "target": "ma_racc",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "mr_foresta",
+      "target": "ma_scambio",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "mr_import",
+      "target": "ma_scambio",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "ma_risaia",
+      "target": "mx_riso",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "ma_pesca",
+      "target": "mx_pesce",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "ma_scambio",
+      "target": "mx_mag",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "mx_riso",
+      "target": "mp_pasti",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "mx_pesce",
+      "target": "mp_pasti",
+      "status": "inferito",
+      "label": ""
+    },
+    {
+      "source": "mx_mag",
+      "target": "mp_offerte",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "mx_mag",
+      "target": "mp_scorte",
+      "status": "inferito",
+      "label": ""
+    }
+  ]
+}

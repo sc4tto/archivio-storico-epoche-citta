@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Istanbul",
+      "lat": 41.0082,
+      "lon": 28.9784,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "thr",
+      "label": "Tracia e Adrianopoli",
+      "lat": 41.67,
+      "lon": 26.56,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "bur",
+      "label": "Bursa e Marmara meridionale",
+      "lat": 40.19,
+      "lon": 29.06,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "bla",
+      "label": "Porti del Mar Nero",
+      "lat": 41.45,
+      "lon": 31.8,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "egy",
+      "label": "Alessandria e Delta del Nilo",
+      "lat": 31.2,
+      "lon": 29.92,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "cri",
+      "label": "Creta e Egeo",
+      "lat": 35.24,
+      "lon": 24.81,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "syr",
+      "label": "Aleppo e Siria",
+      "lat": 36.2,
+      "lon": 37.16,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "thr",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade imperiali e cabotaggio",
+      "food": "grano, bestiame e vino"
+    },
+    {
+      "source": "bur",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Marmara e vie terrestri",
+      "food": "frutta, ortaggi, seta e latticini"
+    },
+    {
+      "source": "bla",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione del Mar Nero",
+      "food": "grano, legname e pesce"
+    },
+    {
+      "source": "egy",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte mediterranee",
+      "food": "riso, zucchero e cereali"
+    },
+    {
+      "source": "cri",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cabotaggio egeo",
+      "food": "olio, vino e frutta secca"
+    },
+    {
+      "source": "syr",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane e mare",
+      "food": "spezie, sapone, tessili e derrate"
+    }
+  ]
+}

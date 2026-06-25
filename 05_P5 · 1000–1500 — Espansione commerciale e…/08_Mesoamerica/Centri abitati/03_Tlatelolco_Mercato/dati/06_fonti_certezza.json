@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Tlatelolco fu una città gemella di Tenochtitlan.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "TL1; TL2"
+  },
+  {
+    "claim": "Il grande mercato era un nodo centrale degli scambi mesoamericani.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "TL2; TL3"
+  },
+  {
+    "claim": "Il recinto cerimoniale ebbe più fasi costruttive.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "TL1"
+  },
+  {
+    "claim": "Canoe e canali collegavano il mercato al sistema lacustre.",
+    "theme": "trasporti",
+    "status": "documentato",
+    "source": "TL2; TL5"
+  },
+  {
+    "claim": "Il mercato trattava alimenti, tessuti, ceramiche e beni di lusso.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "TL2; TL4"
+  },
+  {
+    "claim": "Tlatelolco fu subordinata politicamente a Tenochtitlan nel XV secolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "TL2"
+  },
+  {
+    "claim": "La forma precisa delle strutture mercantili è ricostruita solo in parte.",
+    "theme": "metodo",
+    "status": "sintesi",
+    "source": "TL1; TL2"
+  },
+  {
+    "claim": "Le fasi coloniali della piazza sono escluse.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "TL1"
+  }
+]

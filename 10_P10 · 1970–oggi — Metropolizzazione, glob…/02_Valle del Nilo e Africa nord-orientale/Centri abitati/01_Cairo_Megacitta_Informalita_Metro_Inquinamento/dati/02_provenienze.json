@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Cairo",
+      "lat": 30.0444,
+      "lon": 31.2357,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "del",
+      "label": "Delta del Nilo",
+      "lat": 30.8,
+      "lon": 31.0,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "upp",
+      "label": "Alto Egitto",
+      "lat": 26.5,
+      "lon": 31.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "sue",
+      "label": "Suez e Mar Rosso",
+      "lat": 29.9,
+      "lon": 32.5,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "ale",
+      "label": "Alessandria e Mediterraneo",
+      "lat": 31.2,
+      "lon": 29.9,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "des",
+      "label": "Nuove città del deserto",
+      "lat": 30.1,
+      "lon": 31.8,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "glo",
+      "label": "Rotte globali",
+      "lat": 33.0,
+      "lon": 28.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "del",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade, ferrovie e canali",
+      "food": "riso, ortaggi, frutta e latticini"
+    },
+    {
+      "source": "upp",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie, strade e migrazione",
+      "food": "cereali, bestiame, lavoratori e famiglie"
+    },
+    {
+      "source": "sue",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto, autostrade e oleodotti",
+      "food": "pesce, merci, carburanti e importazioni"
+    },
+    {
+      "source": "ale",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto e ferrovia",
+      "food": "frumento, oli, container e prodotti refrigerati"
+    },
+    {
+      "source": "des",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "tangenziali e nuovi assi",
+      "food": "residenti, materiali, servizi e serre"
+    },
+    {
+      "source": "glo",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navi e cargo aereo",
+      "food": "caffè, tè, ingredienti e alimenti confezionati"
+    }
+  ]
+}

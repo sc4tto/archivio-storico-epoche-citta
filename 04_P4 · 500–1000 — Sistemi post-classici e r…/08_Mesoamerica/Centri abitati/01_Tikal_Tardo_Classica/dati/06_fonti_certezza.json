@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Tikal rimase uno dei maggiori centri politici ed economici maya fino al IX secolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "T1; T5"
+  },
+  {
+    "claim": "Il nucleo monumentale comprendeva templi, palazzi, piazze, strade e quartieri residenziali.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "T1; T2"
+  },
+  {
+    "claim": "Bacini e aguadas erano essenziali per una città priva di corsi d’acqua permanenti.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "T1; T4"
+  },
+  {
+    "claim": "La produzione alimentare combinava campi, margini forestali e zone umide stagionali.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "T3; T4"
+  },
+  {
+    "claim": "Calcare, calce, legname e grandi riempimenti erano integrati nelle stesse opere edilizie.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "T1; T2"
+  },
+  {
+    "claim": "Le ultime iscrizioni datate precedono la forte contrazione urbana del X secolo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "T1; T5"
+  },
+  {
+    "claim": "Siccità, conflitto e pressione ecologica furono fattori interagenti, non una causa unica.",
+    "theme": "interpretazione",
+    "status": "sintesi",
+    "source": "T3; T4"
+  },
+  {
+    "claim": "Le stime della popolazione dipendono dalla definizione del territorio urbano e periurbano.",
+    "theme": "certezza",
+    "status": "sintesi",
+    "source": "T1; T3"
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Insediamento dell’età del Ferro",
+    "Crescita delle difese e dei canali",
+    "Fase urbana associata a Funan",
+    "Sviluppo rituale di Phnom Da",
+    "Trasformazioni del VI–VII secolo"
+  ],
+  "items": [
+    {
+      "id": "walls",
+      "label": "Mura e fossato",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "canals",
+      "label": "Canali e vie d’acqua",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Aree abitative e posthole",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "craft",
+      "label": "Ceramica, metallo e artigianato",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "brick",
+      "label": "Strutture in mattoni",
+      "lane": "Monumentali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "phnomda",
+      "label": "Santuari di Phnom Da",
+      "lane": "Rituali",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "inscriptions",
+      "label": "Iscrizioni e immagini religiose",
+      "lane": "Amministrative",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

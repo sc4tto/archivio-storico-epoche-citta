@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Parigi",
+      "lat": 48.8566,
+      "lon": 2.3522,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "idf",
+      "label": "Île-de-France e cintura orticola",
+      "lat": 48.8,
+      "lon": 2.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "sei",
+      "label": "Senna, Marna e canali",
+      "lat": 48.9,
+      "lon": 2.7,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "nor",
+      "label": "Normandia, Beauce e Champagne",
+      "lat": 49.0,
+      "lon": 1.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "med",
+      "label": "Mediterraneo e Algeria",
+      "lat": 36.7,
+      "lon": 3.1,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "atl",
+      "label": "Atlantico e porti francesi",
+      "lat": 47.2,
+      "lon": -2.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "eur",
+      "label": "Europa e mercati mondiali",
+      "lat": 48.0,
+      "lon": 8.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "idf",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e ferrovie suburbane",
+      "food": "ortaggi, latte, frutta e materiali edilizi"
+    },
+    {
+      "source": "sei",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Senna, Marna e canali",
+      "food": "grano, legname, vino e merci pesanti"
+    },
+    {
+      "source": "nor",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie radiali",
+      "food": "grano, carne, burro e champagne"
+    },
+    {
+      "source": "med",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porti mediterranei e ferrovia",
+      "food": "vino, cereali e prodotti coloniali"
+    },
+    {
+      "source": "atl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porti atlantici e ferrovia",
+      "food": "pesce, zucchero, caffè e merci oceaniche"
+    },
+    {
+      "source": "eur",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete ferroviaria europea",
+      "food": "carbone, macchinari e derrate"
+    }
+  ]
+}

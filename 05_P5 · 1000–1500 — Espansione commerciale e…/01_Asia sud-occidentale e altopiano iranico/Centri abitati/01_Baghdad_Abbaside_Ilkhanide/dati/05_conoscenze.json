@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Baghdad abbaside e ilkhanide",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Gestione idraulica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Canali, argini e irrigazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Navigazione sul Tigri",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mercati",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Controllo dei suq e pesi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Commercio interregionale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Volte e cupole in laterizio",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Stucco e decorazione epigrafica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Madrase e biblioteche",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Amministrazione califfale e mongola",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Resilienza urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Ricostruzione post-1258",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_1",
+          "label": "Adattamento a guerre e piene",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

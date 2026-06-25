@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Amarna",
+      "lat": 27.646,
+      "lon": 30.899,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "central",
+      "label": "Città centrale",
+      "lat": 27.65,
+      "lon": 30.9,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "maincity",
+      "label": "Main City e sobborghi",
+      "lat": 27.63,
+      "lon": 30.91,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "workmen",
+      "label": "Workmen’s Village",
+      "lat": 27.62,
+      "lon": 30.93,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "thebes",
+      "label": "Tebe",
+      "lat": 25.72,
+      "lon": 32.66,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "levant",
+      "label": "Levant e corti del Bronzo recente",
+      "lat": 33.0,
+      "lon": 35.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "central",
+      "target": "site",
+      "label": "amministrazione, culto e distribuzione",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "maincity",
+      "target": "site",
+      "label": "abitanti, laboratori e mercati",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "workmen",
+      "target": "site",
+      "label": "artigiani e attività funerarie",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "thebes",
+      "target": "site",
+      "label": "personale, tradizioni e risorse",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "levant",
+      "target": "site",
+      "label": "diplomazia e beni importati",
+      "status": "documentato",
+      "food": "parziale"
+    }
+  ]
+}

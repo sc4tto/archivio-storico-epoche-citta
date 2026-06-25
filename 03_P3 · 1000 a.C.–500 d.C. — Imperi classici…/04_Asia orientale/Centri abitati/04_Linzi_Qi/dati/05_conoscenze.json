@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Linzi",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Città interna",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Città esterna",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Mura di terra battuta",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Produzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Ferro",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Bronzo",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Ceramica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Economia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Sale",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Moneta",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Mercati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Politica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Stato di Qi",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Amministrazione Qin-Han",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Consigli di corte",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Pensiero",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Jixia",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_2",
+          "label": "Confuciani",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Correnti diverse",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Demografia",
+      "status": "inferito",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Grande popolazione urbana",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_2",
+          "label": "Quartieri specializzati",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_3",
+          "label": "Censimento certo",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

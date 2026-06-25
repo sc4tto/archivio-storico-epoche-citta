@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Luoyang fu la capitale degli Han orientali dal 25 d.C.",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "LUO_MET"
+  },
+  {
+    "claim": "La città era organizzata su un asse nord-sud con grandi complessi palaziali",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "LUO_MET"
+  },
+  {
+    "claim": "Carovane e ambascerie collegavano Luoyang all’Asia centrale",
+    "theme": "Reti",
+    "status": "documentato",
+    "source": "LUO_MET"
+  },
+  {
+    "claim": "Luoyang è una componente del corridoio UNESCO della Via della Seta",
+    "theme": "Patrimonio",
+    "status": "documentato",
+    "source": "LUO_UNESCO"
+  },
+  {
+    "claim": "Il sito conserva fasi Han, Wei, Jin e Wei settentrionali",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "LUO_BOOK"
+  },
+  {
+    "claim": "Tutte le strutture appartengono alla stessa fase urbana",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Sovrapposizione di fasi differenti"
+  },
+  {
+    "claim": "Ogni ambasceria indicava commercio diretto con Roma",
+    "theme": "Reti",
+    "status": "non_documentato",
+    "source": "Scambi spesso mediati"
+  },
+  {
+    "claim": "Nara era già una capitale contemporanea della Luoyang Han",
+    "theme": "Confronti",
+    "status": "non_documentato",
+    "source": "Nara emerge dopo il periodo"
+  }
+]

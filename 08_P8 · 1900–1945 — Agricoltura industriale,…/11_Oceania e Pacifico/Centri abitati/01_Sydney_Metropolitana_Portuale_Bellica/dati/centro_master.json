@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Sydney metropolitana, portuale e bellica",
+    "site": "Sydney metropolitana, portuale e bellica",
+    "modern_location": "Sydney, Australia",
+    "coordinates": {
+      "lat": -33.8688,
+      "lon": 151.2093
+    },
+    "scope": "Sydney fra 1900 e 1945: porto e docks, tram elettrici, epidemia di peste del 1900, crescita suburbana, Harbour Bridge, depressione, edilizia pubblica e difesa del Pacifico.",
+    "version": "1.0",
+    "warning": "Sono escluse la Sydney Opera House, l’espansione autostradale del dopoguerra e la suburbanizzazione automobilistica successiva al 1945."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SY1",
+      "title": "City of Sydney Archives",
+      "use": "Mappe, fotografie, amministrazione municipale e opere pubbliche.",
+      "url": "https://archives.cityofsydney.nsw.gov.au/"
+    },
+    {
+      "id": "SY2",
+      "title": "Dictionary of Sydney",
+      "use": "Storia urbana, quartieri, porto, lavoro e società.",
+      "url": "https://dictionaryofsydney.org/"
+    },
+    {
+      "id": "SY3",
+      "title": "State Library of New South Wales",
+      "use": "Collezioni fotografiche, cartografiche e documentarie.",
+      "url": "https://www.sl.nsw.gov.au/"
+    },
+    {
+      "id": "SY4",
+      "title": "Australian War Memorial",
+      "use": "Mobilitazione, difesa portuale e vita urbana durante le guerre.",
+      "url": "https://www.awm.gov.au/"
+    },
+    {
+      "id": "SY5",
+      "title": "National Archives of Australia",
+      "use": "Amministrazione federale, migrazioni e infrastrutture.",
+      "url": "https://www.naa.gov.au/"
+    }
+  ]
+}

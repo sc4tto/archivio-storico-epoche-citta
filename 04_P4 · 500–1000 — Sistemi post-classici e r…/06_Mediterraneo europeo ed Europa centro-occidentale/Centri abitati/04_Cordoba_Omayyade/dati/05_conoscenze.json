@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Córdoba omayyade",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0_water",
+      "label": "Acqua e agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0_irrig",
+          "label": "Canali, norie e distribuzione irrigua",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1_agronomy",
+          "label": "Calendari agricoli e colture diversificate",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k1_craft",
+      "label": "Arti e costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0_stonecut",
+          "label": "Taglio della pietra e archi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1_decor",
+          "label": "Mosaico, stucco e intaglio",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2_admin",
+      "label": "Amministrazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0_tax",
+          "label": "Fiscalità, moneta e registrazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1_court",
+          "label": "Cerimoniale e gestione califfale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3_science",
+      "label": "Cultura scritta",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0_books",
+          "label": "Copiatura, biblioteche e traduzione",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1_medicine",
+          "label": "Medicina, astronomia e calcolo",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4_trade",
+      "label": "Scambio urbano",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0_markets",
+          "label": "Regolazione di mercati e mestieri",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1_routes",
+          "label": "Navigazione e reti mediterranee",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

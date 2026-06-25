@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "La Paz dello stagno e della guerra del Chaco",
+    "site": "La Paz dello stagno e della guerra del Chaco",
+    "modern_location": "La Paz, Bolivia",
+    "coordinates": {
+      "lat": -16.4897,
+      "lon": -68.1193
+    },
+    "scope": "La Paz fra 1900 e 1945: ferrovie, tram, miniere dello stagno, mercati, crescita di El Alto, guerra del Chaco, crisi oligarchica, rivoluzione del 1943 e Congresso Indigenale del 1945.",
+    "version": "1.0",
+    "warning": "Sono escluse la rivoluzione nazionale del 1952, la grande urbanizzazione di El Alto e le trasformazioni successive al 1945."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "LP1",
+      "title": "Encyclopaedia Britannica — La Paz",
+      "use": "Storia, geografia e ruolo politico della città.",
+      "url": "https://www.britannica.com/place/La-Paz-Bolivia"
+    },
+    {
+      "id": "LP2",
+      "title": "Archivo y Biblioteca Nacionales de Bolivia",
+      "use": "Fonti politiche, minerarie e sociali.",
+      "url": "https://www.archivoybibliotecanacionales.org.bo/"
+    },
+    {
+      "id": "LP3",
+      "title": "Museo Nacional de Etnografía y Folklore",
+      "use": "Storia culturale, comunità aymara e vita urbana.",
+      "url": "https://www.musef.org.bo/"
+    },
+    {
+      "id": "LP4",
+      "title": "Universidad Mayor de San Andrés — Repositorio",
+      "use": "Studi su La Paz, miniere e guerra del Chaco.",
+      "url": "https://repositorio.umsa.bo/"
+    },
+    {
+      "id": "LP5",
+      "title": "Biblioteca del Bicentenario de Bolivia",
+      "use": "Studi storici e sociali sul Novecento boliviano.",
+      "url": "https://www.bbb.gob.bo/"
+    }
+  ]
+}

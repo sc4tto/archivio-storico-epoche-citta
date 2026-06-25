@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Bagan–Pagan iniziale",
+    "site": "Bagan / Pagan",
+    "modern_location": "Regione di Mandalay, Myanmar",
+    "coordinates": {
+      "lat": 21.17,
+      "lon": 94.86
+    },
+    "scope": "Formazione del centro fortificato di Bagan fra IX e X secolo, prima del grande sviluppo monumentale dell’XI–XIII secolo.",
+    "version": "1.0",
+    "warning": "La fase più celebre di Bagan è successiva al 1000. Questo modulo separa le evidenze del nucleo iniziale dalle caratteristiche del paesaggio monumentale più tardo."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "B1",
+      "title": "UNESCO World Heritage Centre — Bagan",
+      "use": "Paesaggio sacro, architettura buddhista e sviluppo della capitale.",
+      "url": "https://whc.unesco.org/en/list/1588/"
+    },
+    {
+      "id": "B2",
+      "title": "Bob Hudson, The Origins of Bagan",
+      "use": "Archeologia della formazione urbana e cronologia iniziale.",
+      "url": "https://ses.library.usyd.edu.au/handle/2123/638"
+    },
+    {
+      "id": "B3",
+      "title": "Victor Lieberman, Strange Parallels, vol. 1",
+      "use": "Contesto politico dell’alta valle dell’Ayeyarwady e formazione di Pagan.",
+      "url": "https://books.google.com/books?id=vQl2AQAACAAJ"
+    },
+    {
+      "id": "B4",
+      "title": "Elizabeth Moore, Early Landscapes of Myanmar",
+      "use": "Insediamenti Pyu, paesaggio e reti fluviali.",
+      "url": "https://books.google.com/books?id=RsyfAAAAMAAJ"
+    },
+    {
+      "id": "B5",
+      "title": "Department of Archaeology and National Museum, Myanmar — Bagan",
+      "use": "Inventari e tutela del sito archeologico.",
+      "url": "https://www.moculture.gov.mm/"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Milano industriale, fascista e bombardata",
+    "site": "Milano industriale, fascista e bombardata",
+    "modern_location": "Milano, Italia",
+    "coordinates": {
+      "lat": 45.4642,
+      "lon": 9.19
+    },
+    "scope": "Milano fra 1900 e 1945: industria meccanica e tessile, stazione centrale, tram, case popolari, sanità urbana, fascismo, scioperi, resistenza e bombardamenti.",
+    "version": "1.0",
+    "warning": "Ricostruzione postbellica, boom economico e metropolitana milanese successiva sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MI1",
+      "title": "Comune di Milano — Storia e patrimonio",
+      "use": "Storia urbana e patrimonio civico.",
+      "url": "https://www.comune.milano.it/"
+    },
+    {
+      "id": "MI2",
+      "title": "Fondazione ISEC",
+      "use": "Fonti su industria, lavoro e movimento operaio.",
+      "url": "https://www.fondazioneisec.it/"
+    },
+    {
+      "id": "MI3",
+      "title": "Museo Nazionale Scienza e Tecnologia Leonardo da Vinci",
+      "use": "Tecnica, industria e infrastrutture.",
+      "url": "https://www.museoscienza.org/"
+    },
+    {
+      "id": "MI4",
+      "title": "ANPI Milano",
+      "use": "Resistenza e memoria della Liberazione.",
+      "url": "https://www.anpi.it/"
+    },
+    {
+      "id": "MI5",
+      "title": "Treccani — Milano",
+      "use": "Sintesi storica e urbana.",
+      "url": "https://www.treccani.it/"
+    }
+  ]
+}

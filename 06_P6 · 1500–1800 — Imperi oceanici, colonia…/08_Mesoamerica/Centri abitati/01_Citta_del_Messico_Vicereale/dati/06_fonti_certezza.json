@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "La capitale vicereale fu costruita sul sito di México-Tenochtitlan.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "MX1; MX2"
+  },
+  {
+    "claim": "La piazza maggiore concentrava potere civile e religioso.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "MX1; MX3"
+  },
+  {
+    "claim": "Canali, laghi e chinampas continuarono a sostenere trasporti e alimentazione.",
+    "theme": "territorio",
+    "status": "documentato",
+    "source": "MX1; MX2"
+  },
+  {
+    "claim": "Alluvioni ricorrenti produssero grandi progetti di drenaggio.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "MX3; MX4"
+  },
+  {
+    "claim": "Conventi, collegi e ospedali segnarono il paesaggio urbano.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "MX1; MX5"
+  },
+  {
+    "claim": "La città era il principale nodo amministrativo e commerciale della Nuova Spagna.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "MX3; MX4"
+  },
+  {
+    "claim": "Lavoro forzato, tributi e disuguaglianze coloniali sostennero molte attività urbane.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "MX4; MX5"
+  },
+  {
+    "claim": "Le trasformazioni post-1800 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "MX3"
+  }
+]

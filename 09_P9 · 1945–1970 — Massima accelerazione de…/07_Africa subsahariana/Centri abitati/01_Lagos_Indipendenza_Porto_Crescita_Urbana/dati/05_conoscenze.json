@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Lagos, indipendenza, porto e crescita urbana",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Pianificazione e governo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Lagos Executive Development Board, territorio federale e Stato di Lagos",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Piani, lottizzazioni, bonifiche, regolazione e servizi metropolitani",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Porto e logistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Apapa, ferrovie, camion, traghetti, magazzini e dogane",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Commercio costiero, nazionale e internazionale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Economia e lavoro",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Mercati, industria leggera, amministrazione, edilizia e servizi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Lavoro migrante, reti familiari, commercio informale e sindacati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Ambiente e sanità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Laguna, drenaggio, acqua, rifiuti, malaria e campagne sanitarie",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Alluvioni, sovraffollamento, contaminazione e accesso diseguale ai servizi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Società e conflitti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Comunità yoruba, migranti interni e reti pan-nigeriane",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Decolonizzazione, guerra civile, sfratti e disuguaglianza urbana",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

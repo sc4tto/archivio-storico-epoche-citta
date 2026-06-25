@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Susa I e formazione urbana",
+    "Proto-elamita",
+    "III millennio elamita",
+    "Periodo sukkalmah",
+    "Medio-elamita"
+  ],
+  "items": [
+    {
+      "id": "acropolis",
+      "label": "Acropoli e terrazza alta",
+      "lane": "Monumentali",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "admin",
+      "label": "Edifici amministrativi",
+      "lane": "Amministrative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Quartieri residenziali",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "workshops",
+      "label": "Laboratori ceramici e metallurgici",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "tablets",
+      "label": "Tavolette e sigilli",
+      "lane": "Amministrative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "temples",
+      "label": "Santuari elamiti",
+      "lane": "Monumentali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "water",
+      "label": "Canali e gestione della piana",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Melbourne",
+      "lat": -37.8136,
+      "lon": 144.9631,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "yar",
+      "label": "Yarra Valley e periferie agricole",
+      "lat": -37.7,
+      "lon": 145.3,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "gee",
+      "label": "Geelong e Port Phillip",
+      "lat": -38.15,
+      "lon": 144.36,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "vic",
+      "label": "Victoria rurale e Murray",
+      "lat": -36.5,
+      "lon": 144.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "tas",
+      "label": "Tasmania",
+      "lat": -42.0,
+      "lon": 147.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "syd",
+      "label": "Sydney e New South Wales",
+      "lat": -33.87,
+      "lon": 151.21,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "imp",
+      "label": "Rotte imperiali e Pacifico",
+      "lat": -30.0,
+      "lon": 165.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "yar",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e strade",
+      "food": "latte, frutta, verdure e acqua"
+    },
+    {
+      "source": "gee",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e baia",
+      "food": "lana, carne, manufatti e porto"
+    },
+    {
+      "source": "vic",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie regionali",
+      "food": "grano, latticini, bestiame e legname"
+    },
+    {
+      "source": "tas",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione dello stretto",
+      "food": "mele, patate, legname e minerali"
+    },
+    {
+      "source": "syd",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e cabotaggio",
+      "food": "capitale, manufatti e traffici interstatali"
+    },
+    {
+      "source": "imp",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto oceanico",
+      "food": "tè, caffè, gomma, migranti e merci"
+    }
+  ]
+}

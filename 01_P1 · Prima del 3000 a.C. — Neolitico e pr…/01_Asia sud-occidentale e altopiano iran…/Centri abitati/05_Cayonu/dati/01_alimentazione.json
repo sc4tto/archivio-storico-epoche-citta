@@ -1,0 +1,216 @@
+{
+  "nodes": [
+    {
+      "id": "tigris",
+      "label": "Bacino dell’Alto Tigri",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "foothills",
+      "label": "Piedemonte dei Tauro",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "valley",
+      "label": "Valle del Boğazçay",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "cereals",
+      "label": "Frumenti e orzo",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "pulses",
+      "label": "Legumi",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "pig",
+      "label": "Suini: gestione e domesticazione",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "sheepgoat",
+      "label": "Ovicaprini",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "wild",
+      "label": "Selvaggina e piante spontanee",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "cult",
+      "label": "Coltivazione",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "herd",
+      "label": "Gestione e allevamento",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "hunt",
+      "label": "Caccia e raccolta",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "grind",
+      "label": "Macinazione",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "store",
+      "label": "Conservazione",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "cook",
+      "label": "Cottura",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "butch",
+      "label": "Macellazione",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "plantrem",
+      "label": "Resti vegetali e macine",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "fauna",
+      "label": "Resti faunistici",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "meals",
+      "label": "Preparazioni alimentari",
+      "layer": 4,
+      "status": "inferito"
+    }
+  ],
+  "edges": [
+    {
+      "source": "tigris",
+      "target": "cereals",
+      "label": "ambiente agricolo",
+      "status": "sintesi"
+    },
+    {
+      "source": "valley",
+      "target": "pulses",
+      "label": "ambiente agricolo",
+      "status": "sintesi"
+    },
+    {
+      "source": "foothills",
+      "target": "pig",
+      "label": "boschi e margini",
+      "status": "sintesi"
+    },
+    {
+      "source": "foothills",
+      "target": "sheepgoat",
+      "label": "pascolo",
+      "status": "sintesi"
+    },
+    {
+      "source": "foothills",
+      "target": "wild",
+      "label": "caccia e raccolta",
+      "status": "documentato"
+    },
+    {
+      "source": "cereals",
+      "target": "cult",
+      "label": "produzione",
+      "status": "sintesi"
+    },
+    {
+      "source": "pulses",
+      "target": "cult",
+      "label": "produzione",
+      "status": "sintesi"
+    },
+    {
+      "source": "pig",
+      "target": "herd",
+      "label": "gestione",
+      "status": "sintesi"
+    },
+    {
+      "source": "sheepgoat",
+      "target": "herd",
+      "label": "gestione",
+      "status": "sintesi"
+    },
+    {
+      "source": "wild",
+      "target": "hunt",
+      "label": "acquisizione",
+      "status": "documentato"
+    },
+    {
+      "source": "cult",
+      "target": "grind",
+      "label": "trasformazione",
+      "status": "documentato"
+    },
+    {
+      "source": "cult",
+      "target": "store",
+      "label": "conservazione",
+      "status": "sintesi"
+    },
+    {
+      "source": "grind",
+      "target": "plantrem",
+      "label": "evidenze",
+      "status": "documentato"
+    },
+    {
+      "source": "herd",
+      "target": "butch",
+      "label": "trattamento",
+      "status": "sintesi"
+    },
+    {
+      "source": "hunt",
+      "target": "butch",
+      "label": "trattamento",
+      "status": "documentato"
+    },
+    {
+      "source": "butch",
+      "target": "fauna",
+      "label": "evidenze",
+      "status": "documentato"
+    },
+    {
+      "source": "cook",
+      "target": "meals",
+      "label": "preparazione",
+      "status": "inferito"
+    }
+  ]
+}

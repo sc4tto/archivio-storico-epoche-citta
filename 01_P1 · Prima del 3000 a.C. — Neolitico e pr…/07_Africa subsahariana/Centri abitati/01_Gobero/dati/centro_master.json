@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Gobero — modulo multi-grafo",
+    "short_name": "Gobero",
+    "site": "Complesso archeologico di Gobero",
+    "modern_location": "Deserto del Ténéré, Niger centrale",
+    "coordinates": {
+      "lat": 17.24,
+      "lon": 9.53
+    },
+    "scope": "Complesso lacustre e funerario dell’Olocene antico e medio, con occupazioni Kiffiane e Teneriane legate alle fasi umide del Sahara fra VIII e III millennio a.C.",
+    "version": "1.0-blocco_08_p1_africa_subsahariana_5_centri_v1",
+    "warning": "Le etichette Kiffiano e Teneriano descrivono complessi archeologici, non gruppi etnici direttamente identificabili. Le ricostruzioni sociali e linguistiche restano ipotesi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "PLOS_GOBERO",
+      "title": "Sereno et al. — Lakeside Cemeteries in the Sahara: 5000 Years of Holocene Population and Environmental Change",
+      "url": "https://doi.org/10.1371/journal.pone.0002995",
+      "use": "cronologia, paleolago, sepolture, fauna e alternanza climatica"
+    },
+    {
+      "id": "GOBERO_BOOK",
+      "title": "Garcea (a cura di) — Gobero: The No-Return Frontier",
+      "url": "https://www.africamagna.de/en/publications/gobero-the-no-return-frontier/",
+      "use": "sintesi archeologica del complesso e cultura materiale"
+    },
+    {
+      "id": "UCHICAGO_GOBERO",
+      "title": "University of Chicago — Stone Age cemeteries in the Sahara reveal a green Sahara",
+      "url": "https://news.uchicago.edu/story/stone-age-cemeteries-sahara-reveal-green-sahara",
+      "use": "quadro divulgativo istituzionale del progetto"
+    }
+  ]
+}

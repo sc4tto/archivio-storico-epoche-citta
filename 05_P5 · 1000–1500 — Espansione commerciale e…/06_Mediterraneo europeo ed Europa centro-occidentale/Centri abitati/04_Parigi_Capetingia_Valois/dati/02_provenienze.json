@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Île de la Cité",
+      "lat": 48.853,
+      "lon": 2.349,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "idf",
+      "label": "Île-de-France",
+      "lat": 48.8,
+      "lon": 2.2,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "sei",
+      "label": "Senna e Marna",
+      "lat": 48.7,
+      "lon": 2.6,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "nor",
+      "label": "Normandia",
+      "lat": 49.1,
+      "lon": 0.2,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "cha",
+      "label": "Champagne",
+      "lat": 49.0,
+      "lon": 4.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "fln",
+      "label": "Fiandre",
+      "lat": 50.85,
+      "lon": 3.35,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "atl",
+      "label": "Atlantico e Mediterraneo",
+      "lat": 46.0,
+      "lon": -1.0,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "idf",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e rendite rurali",
+      "food": "grano, vino e bestiame"
+    },
+    {
+      "source": "sei",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "trasporto fluviale",
+      "food": "legname, pietra e derrate"
+    },
+    {
+      "source": "nor",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Senna e strade",
+      "food": "sale, pesce e prodotti agricoli"
+    },
+    {
+      "source": "cha",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiere e strade",
+      "food": "vino, panni e merci"
+    },
+    {
+      "source": "fln",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti mercantili",
+      "food": "panni, lana e metalli"
+    },
+    {
+      "source": "atl",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "rotte commerciali",
+      "food": "sale, spezie e pesce marino"
+    }
+  ]
+}

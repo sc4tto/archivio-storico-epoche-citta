@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Cairo entrò nell’Impero ottomano nel 1517.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "CA1; CA2"
+  },
+  {
+    "claim": "La città rimase il principale centro amministrativo ed economico dell’Egitto.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "CA1; CA2"
+  },
+  {
+    "claim": "Le élite mamelucche conservarono un ruolo importante sotto la sovranità ottomana.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "CA2"
+  },
+  {
+    "claim": "Wakala, suq e corporazioni organizzavano commercio e manifatture.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "CA1; CA4"
+  },
+  {
+    "claim": "Sabil-kuttab e waqf fornivano acqua, istruzione e servizi religiosi.",
+    "theme": "istituzioni",
+    "status": "documentato",
+    "source": "CA4"
+  },
+  {
+    "claim": "Le rotte del pellegrinaggio collegavano Cairo al Mar Rosso e all’Hijaz.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "CA2"
+  },
+  {
+    "claim": "Le crisi delle piene del Nilo influenzavano prezzi e approvvigionamento.",
+    "theme": "ambiente",
+    "status": "documentato",
+    "source": "CA2"
+  },
+  {
+    "claim": "La spedizione francese del 1798 chiude il limite cronologico del modulo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "CA2"
+  }
+]

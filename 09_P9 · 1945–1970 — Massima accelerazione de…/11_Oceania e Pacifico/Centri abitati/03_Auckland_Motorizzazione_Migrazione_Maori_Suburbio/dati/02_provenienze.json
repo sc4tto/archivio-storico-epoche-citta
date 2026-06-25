@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Auckland",
+      "lat": -36.8509,
+      "lon": 174.7645,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "wai",
+      "label": "Waikato",
+      "lat": -37.78,
+      "lon": 175.28,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "hau",
+      "label": "Hauraki Plains",
+      "lat": -37.25,
+      "lon": 175.55,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "nor",
+      "label": "Northland",
+      "lat": -35.72,
+      "lon": 174.32,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "gul",
+      "label": "Hauraki Gulf",
+      "lat": -36.65,
+      "lon": 175.15,
+      "status": "documentato",
+      "kind": "regionale",
+      "dy": 24
+    },
+    {
+      "id": "pac",
+      "label": "Isole del Pacifico",
+      "lat": -21.2,
+      "lon": -159.77,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "wel",
+      "label": "Wellington e South Island",
+      "lat": -41.29,
+      "lon": 174.78,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "wai",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e strade",
+      "food": "latte, carne, cereali e lavoratori"
+    },
+    {
+      "source": "hau",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "camion e ferrovia",
+      "food": "latticini, ortaggi e frutta"
+    },
+    {
+      "source": "nor",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e navigazione costiera",
+      "food": "agrumi, legname, pesce e migranti Māori"
+    },
+    {
+      "source": "gul",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "barche e traghetti",
+      "food": "pesce, molluschi e prodotti insulari"
+    },
+    {
+      "source": "pac",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navi e voli",
+      "food": "taro, cocco, frutta, famiglie e lavoratori"
+    },
+    {
+      "source": "wel",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia, strada e navigazione",
+      "food": "manufatti, alimenti e servizi nazionali"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Mesa Verde e le abitazioni rupestri",
+    "site": "Mesa Verde, Cliff Palace e siti connessi",
+    "modern_location": "Colorado sud-occidentale, Stati Uniti",
+    "coordinates": {
+      "lat": 37.2309,
+      "lon": -108.4618
+    },
+    "scope": "Mesa Verde fra 1000 e 1300, con attenzione alla transizione dai villaggi sulla mesa alle grandi abitazioni nelle alcove e alla migrazione finale.",
+    "version": "1.0",
+    "warning": "Le abitazioni rupestri più note appartengono soprattutto alla fine del XII e al XIII secolo. Il termine abbandono non implica scomparsa: le comunità Pueblo mantengono legami culturali con il paesaggio."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MV1",
+      "title": "UNESCO — Mesa Verde National Park",
+      "use": "Cronologia, villaggi, cliff dwellings e paesaggio archeologico.",
+      "url": "https://whc.unesco.org/en/list/27/"
+    },
+    {
+      "id": "MV2",
+      "title": "National Park Service — Mesa Verde History and Culture",
+      "use": "Storia Pueblo ancestrale e continuità culturale.",
+      "url": "https://www.nps.gov/meve/learn/historyculture/index.htm"
+    },
+    {
+      "id": "MV3",
+      "title": "National Park Service — Cliff Dwellings",
+      "use": "Architettura delle alcove e principali complessi.",
+      "url": "https://www.nps.gov/meve/learn/historyculture/cliff_dwellings_home.htm"
+    },
+    {
+      "id": "MV4",
+      "title": "National Park Service — Farming and Food",
+      "use": "Agricoltura, acqua e alimentazione sulla mesa.",
+      "url": "https://www.nps.gov/meve/learn/historyculture/farming.htm"
+    },
+    {
+      "id": "MV5",
+      "title": "UNESCO — Outstanding Universal Value of Mesa Verde",
+      "use": "Paesaggio insediativo 450–1300 e tecniche costruttive.",
+      "url": "https://whc.unesco.org/en/list/27/"
+    }
+  ]
+}

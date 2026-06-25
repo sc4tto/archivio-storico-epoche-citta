@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Skara Brae",
+      "lat": 59.0487,
+      "lon": -3.3417,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "bay",
+      "label": "Baia di Skaill",
+      "lat": 59.055,
+      "lon": -3.35,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": -18,
+      "anchor": "end"
+    },
+    {
+      "id": "fields",
+      "label": "Campi e pascoli di Mainland",
+      "lat": 59.02,
+      "lon": -3.25,
+      "status": "sintesi",
+      "kind": "locale",
+      "dx": 12,
+      "dy": 24,
+      "anchor": "start"
+    },
+    {
+      "id": "flagstone",
+      "label": "Affioramenti di arenaria lastriforme",
+      "lat": 59.1,
+      "lon": -3.2,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 10,
+      "dy": 24,
+      "anchor": "start"
+    },
+    {
+      "id": "orkney",
+      "label": "Rete dei siti neolitici delle Orcadi",
+      "lat": 59.0,
+      "lon": -3.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "britain",
+      "label": "Connessioni marittime con la Gran Bretagna",
+      "lat": 58.0,
+      "lon": -3.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "bay",
+      "target": "site",
+      "label": "pesce, molluschi, alghe e ciottoli",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "fields",
+      "target": "site",
+      "label": "cereali, pascolo e torba",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "flagstone",
+      "target": "site",
+      "label": "lastre per muri, arredi e passaggi",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "orkney",
+      "target": "site",
+      "label": "pratiche monumentali e materiali condivisi",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "britain",
+      "target": "site",
+      "label": "circolazione di idee e oggetti",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

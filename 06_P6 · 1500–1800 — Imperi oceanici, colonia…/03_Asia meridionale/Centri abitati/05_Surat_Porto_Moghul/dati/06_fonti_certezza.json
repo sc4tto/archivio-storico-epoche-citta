@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Surat fu uno dei principali porti dell’Impero moghul.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "SU1; SU5"
+  },
+  {
+    "claim": "Il porto era un punto essenziale per il pellegrinaggio alla Mecca.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "SU1"
+  },
+  {
+    "claim": "Compagnie inglesi, olandesi e altre potenze europee aprirono fabbriche commerciali.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "SU1; SU2"
+  },
+  {
+    "claim": "Il castello proteggeva l’estuario del Tapi e le strutture portuali.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "SU4"
+  },
+  {
+    "claim": "Cantieri e magazzini sostenevano navigazione e commercio oceanico.",
+    "theme": "tecniche",
+    "status": "documentato",
+    "source": "SU1; SU2"
+  },
+  {
+    "claim": "Mercanti musulmani, hindu, jain e armeni partecipavano alla vita economica.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "SU1"
+  },
+  {
+    "claim": "Nel XVIII secolo Bombay ridusse progressivamente il primato di Surat.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "SU1; SU2"
+  },
+  {
+    "claim": "La fase industriale ottocentesca è esclusa dal modulo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "SU1"
+  }
+]

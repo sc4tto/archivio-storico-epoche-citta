@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Manila spagnola e rivoluzionaria",
+    "site": "Manila spagnola e rivoluzionaria",
+    "modern_location": "Manila, Filippine",
+    "coordinates": {
+      "lat": 14.5995,
+      "lon": 120.9842
+    },
+    "scope": "Manila fra 1800 e 1900: fine del galeone, apertura al commercio estero, crescita portuale, monopolio del tabacco, istituzioni coloniali, infrastrutture, rivoluzione filippina e cambio di sovranità del 1898.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Il governo statunitense maturo, la distruzione del 1945 e la metropoli contemporanea sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MN1",
+      "title": "Intramuros Administration — Official site",
+      "use": "Città murata, fortificazioni e patrimonio.",
+      "url": "https://intramuros.gov.ph/"
+    },
+    {
+      "id": "MN2",
+      "title": "Encyclopaedia Britannica — Manila",
+      "use": "Storia urbana e portuale.",
+      "url": "https://www.britannica.com/place/Manila"
+    },
+    {
+      "id": "MN3",
+      "title": "National Historical Commission of the Philippines",
+      "use": "Rivoluzione, istituzioni e siti storici.",
+      "url": "https://nhcp.gov.ph/"
+    },
+    {
+      "id": "MN4",
+      "title": "National Archives of the Philippines",
+      "use": "Documentazione amministrativa e cartografica.",
+      "url": "https://nationalarchives.gov.ph/"
+    },
+    {
+      "id": "MN5",
+      "title": "UNESCO — Baroque Churches of the Philippines",
+      "use": "San Agustín e architettura coloniale.",
+      "url": "https://whc.unesco.org/en/list/677/"
+    }
+  ]
+}

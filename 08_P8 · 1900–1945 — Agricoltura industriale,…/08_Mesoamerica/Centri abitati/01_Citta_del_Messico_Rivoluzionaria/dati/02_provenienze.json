@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Città del Messico",
+      "lat": 19.4326,
+      "lon": -99.1332,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "xoc",
+      "label": "Xochimilco e Milpa Alta",
+      "lat": 19.25,
+      "lon": -99.1,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "tol",
+      "label": "Toluca e valle occidentale",
+      "lat": 19.28,
+      "lon": -99.66,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "pue",
+      "label": "Puebla e altopiano orientale",
+      "lat": 19.04,
+      "lon": -98.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "baj",
+      "label": "Bajío e centro-nord",
+      "lat": 20.7,
+      "lon": -101.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "ver",
+      "label": "Veracruz e Golfo",
+      "lat": 19.18,
+      "lon": -96.14,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "pac",
+      "label": "Pacifico e Stati Uniti",
+      "lat": 25.0,
+      "lon": -108.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "xoc",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali, strade e tram",
+      "food": "ortaggi, mais, fiori e lavoro agricolo"
+    },
+    {
+      "source": "tol",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e camion",
+      "food": "grano, patate, carne e latticini"
+    },
+    {
+      "source": "pue",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia orientale",
+      "food": "farina, tessili, zucchero e frutta"
+    },
+    {
+      "source": "baj",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete ferroviaria nazionale",
+      "food": "cereali, bestiame e prodotti industriali"
+    },
+    {
+      "source": "ver",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e porto del Golfo",
+      "food": "caffè, cacao, riso e importazioni"
+    },
+    {
+      "source": "pac",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e commercio internazionale",
+      "food": "macchinari, combustibili e merci"
+    }
+  ]
+}

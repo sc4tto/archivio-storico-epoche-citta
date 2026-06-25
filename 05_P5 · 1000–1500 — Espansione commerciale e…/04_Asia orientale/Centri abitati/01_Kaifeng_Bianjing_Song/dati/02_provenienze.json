@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Kaifeng-Bianjing",
+      "lat": 34.797,
+      "lon": 114.308,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "yel",
+      "label": "Fiume Giallo",
+      "lat": 34.95,
+      "lon": 114.2,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "can",
+      "label": "Grande Canale e Bian",
+      "lat": 34.75,
+      "lon": 114.35,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "luo",
+      "label": "Luoyang",
+      "lat": 34.62,
+      "lon": 112.45,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "sha",
+      "label": "Shandong",
+      "lat": 36.3,
+      "lon": 117.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "jia",
+      "label": "Jiangnan-Hangzhou",
+      "lat": 30.27,
+      "lon": 120.15,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "nor",
+      "label": "Frontiera settentrionale",
+      "lat": 40.0,
+      "lon": 112.0,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "yel",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "agricoltura e rischio di piena",
+      "food": "cereali e acqua"
+    },
+    {
+      "source": "can",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "trasporto fiscale e commerciale",
+      "food": "riso, grano e merci"
+    },
+    {
+      "source": "luo",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "asse politico della piana centrale",
+      "food": "artigiani e prodotti regionali"
+    },
+    {
+      "source": "sha",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali orientali",
+      "food": "sale, cereali e tessili"
+    },
+    {
+      "source": "jia",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Grande Canale verso il sud",
+      "food": "riso, tè, seta e zucchero"
+    },
+    {
+      "source": "nor",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "rotte di frontiera",
+      "food": "cavalli, montoni e pellicce"
+    }
+  ]
+}

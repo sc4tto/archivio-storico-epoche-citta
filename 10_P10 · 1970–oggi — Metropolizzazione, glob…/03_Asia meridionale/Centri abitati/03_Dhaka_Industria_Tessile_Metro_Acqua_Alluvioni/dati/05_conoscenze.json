@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Dhaka, industria tessile, metro, acqua e alluvioni",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Industria e lavoro",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Catene globali dell’abbigliamento e logistica",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Sicurezza delle fabbriche, salari e organizzazione operaia",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Acqua e drenaggio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Canali, pompe, fognature e bacini di ritenzione",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Inquinamento, manutenzione e diritto all’acqua",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Pianificazione del delta",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Aree umide, densità e uso del suolo",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Adattamento, espansione orientale e rischio",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Mobilità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Metro, bus, ferrovia e vie d’acqua",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Accessibilità, congestione e sicurezza",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Diritti e governance",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "RAJUK, city corporations e servizi",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Repressione, partecipazione e accountability",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

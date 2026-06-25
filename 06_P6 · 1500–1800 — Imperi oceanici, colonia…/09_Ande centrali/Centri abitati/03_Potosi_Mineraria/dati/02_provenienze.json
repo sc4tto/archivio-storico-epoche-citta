@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Potosí",
+      "lat": -19.584,
+      "lon": -65.753,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "chu",
+      "label": "Chuquisaca e valli orientali",
+      "lat": -19.05,
+      "lon": -65.26,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "coch",
+      "label": "Cochabamba",
+      "lat": -17.39,
+      "lon": -66.16,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "alt",
+      "label": "Altiplano e Oruro",
+      "lat": -17.97,
+      "lon": -67.11,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "hua",
+      "label": "Huancavelica",
+      "lat": -12.79,
+      "lon": -74.97,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "ari",
+      "label": "Arica e costa del Pacifico",
+      "lat": -18.48,
+      "lon": -70.31,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "bue",
+      "label": "Buenos Aires e Tucumán",
+      "lat": -25.0,
+      "lon": -64.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "chu",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cammini delle valli",
+      "food": "mais, grano, frutta, legname e vino"
+    },
+    {
+      "source": "coch",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane e strade orientali",
+      "food": "mais, grano e derrate di massa"
+    },
+    {
+      "source": "alt",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane altiplaniche",
+      "food": "lama, charqui, lana, sale e combustibile"
+    },
+    {
+      "source": "hua",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "camino real dal Perù centrale",
+      "food": "mercurio per l’amalgamazione"
+    },
+    {
+      "source": "ari",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "via Arica e porti del Pacifico",
+      "food": "merci oceaniche e uscita dell’argento"
+    },
+    {
+      "source": "bue",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "circuiti del Tucumán e Río de la Plata",
+      "food": "muli, cuoio, tessili e derrate"
+    }
+  ]
+}

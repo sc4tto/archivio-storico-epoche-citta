@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Manila",
+      "lat": 14.5995,
+      "lon": 120.9842,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "cen",
+      "label": "Luzon centrale",
+      "lat": 15.2,
+      "lon": 120.7,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "lag",
+      "label": "Laguna e Cavite",
+      "lat": 14.25,
+      "lon": 121.05,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "bay",
+      "label": "Baia e porto di Manila",
+      "lat": 14.55,
+      "lon": 120.75,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "sou",
+      "label": "Luzon meridionale",
+      "lat": 13.6,
+      "lon": 121.2,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "vis",
+      "label": "Visayas",
+      "lat": 11.0,
+      "lon": 123.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "pac",
+      "label": "Rotte del Pacifico e importazioni",
+      "lat": 14.0,
+      "lon": 127.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "cen",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie, camion e mercati",
+      "food": "riso, zucchero, ortaggi e migranti"
+    },
+    {
+      "source": "lag",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e navigazione costiera",
+      "food": "cocco, frutta, pesce, pollame e pendolari"
+    },
+    {
+      "source": "bay",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "pescherecci, porto e mercati",
+      "food": "pesce, combustibili, grano e merci"
+    },
+    {
+      "source": "sou",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "autobus e camion",
+      "food": "riso, cocco, legname e nuovi residenti"
+    },
+    {
+      "source": "vis",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navi interinsulari",
+      "food": "pesce, mais, zucchero e lavoratori"
+    },
+    {
+      "source": "pac",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto e commercio estero",
+      "food": "grano, latte in polvere, macchinari e fertilizzanti"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Uruk e Ur furono grandi centri urbani sorti ai margini delle antiche paludi meridionali",
+    "theme": "Paesaggio",
+    "status": "documentato",
+    "source": "AHWAR_UNESCO"
+  },
+  {
+    "claim": "A Uruk sono documentate architettura monumentale e amministrazione scritta",
+    "theme": "Urbanizzazione",
+    "status": "documentato",
+    "source": "AHWAR_UNESCO"
+  },
+  {
+    "claim": "La città mantenne funzioni religiose, politiche ed economiche per molti secoli",
+    "theme": "Continuità",
+    "status": "documentato",
+    "source": "AHWAR_UNESCO"
+  },
+  {
+    "claim": "Canali e paludi furono centrali per economia e trasporti",
+    "theme": "Acqua",
+    "status": "documentato",
+    "source": "AHWAR_UNESCO"
+  },
+  {
+    "claim": "La standardizzazione di sigilli, tavolette e recipienti riflette organizzazione istituzionale",
+    "theme": "Amministrazione",
+    "status": "sintesi",
+    "source": "MET_URUK"
+  },
+  {
+    "claim": "Le mura visibili furono costruite personalmente da Gilgamesh",
+    "theme": "Tradizione",
+    "status": "non_documentato",
+    "source": "Tradizione letteraria non prova autografia"
+  },
+  {
+    "claim": "Tutti gli abitanti dipendevano esclusivamente dai templi",
+    "theme": "Società",
+    "status": "non_documentato",
+    "source": "Economia e proprietà erano plurali"
+  },
+  {
+    "claim": "Uruk cessò di esistere dopo il III millennio a.C.",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Lunga continuità successiva"
+  }
+]

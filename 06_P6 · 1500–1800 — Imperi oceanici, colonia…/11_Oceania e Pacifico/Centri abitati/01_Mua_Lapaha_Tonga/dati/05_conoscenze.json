@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Muʻa–Lapaha, capitale tongana",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Canoe doppie, pilotaggio e stelle",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Venti, correnti e rotte interinsulari",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Potere e genealogia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Tuʻi Tonga e linee di rango",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Tributo, cerimoniale e redistribuzione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Costruzione monumentale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Langi e giunti di pietra corallina",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Organizzazione specialistica del lavoro",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Produzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Orticoltura di tuberi e arboricoltura",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Pesca lagunare e oceanica",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Cultura materiale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Stuoie, tapa e cordami",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Kava, doni e rituali funerari",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

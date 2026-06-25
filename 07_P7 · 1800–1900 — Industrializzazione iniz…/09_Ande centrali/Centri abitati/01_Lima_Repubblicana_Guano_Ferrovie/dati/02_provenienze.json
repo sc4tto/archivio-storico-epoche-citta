@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Lima",
+      "lat": -12.0464,
+      "lon": -77.0428,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "rim",
+      "label": "Valle del Rímac",
+      "lat": -12.02,
+      "lon": -76.9,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "cal",
+      "label": "Callao e costa centrale",
+      "lat": -12.06,
+      "lon": -77.15,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "lur",
+      "label": "Lurín e Pachacámac",
+      "lat": -12.25,
+      "lon": -76.88,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "sie",
+      "label": "Sierra centrale e Jauja",
+      "lat": -11.77,
+      "lon": -75.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "ica",
+      "label": "Ica e costa meridionale",
+      "lat": -14.07,
+      "lon": -75.73,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "pac",
+      "label": "Pacifico, Europa e Nord America",
+      "lat": -10.0,
+      "lon": -90.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "rim",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali, strade e ferrovia",
+      "food": "ortaggi, frutta, mais e acqua"
+    },
+    {
+      "source": "cal",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto, strada e ferrovia Lima–Callao",
+      "food": "pesce, sale e merci marittime"
+    },
+    {
+      "source": "lur",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade costiere",
+      "food": "cereali, bestiame e prodotti orticoli"
+    },
+    {
+      "source": "sie",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane e ferrovia andina",
+      "food": "carne, formaggi, lana, coca e cereali"
+    },
+    {
+      "source": "ica",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cabotaggio e strada costiera",
+      "food": "vino, pisco, cotone e frutta"
+    },
+    {
+      "source": "pac",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione a vapore e commercio globale",
+      "food": "farina, riso, macchinari e capitali"
+    }
+  ]
+}

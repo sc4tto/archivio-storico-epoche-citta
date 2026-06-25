@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Kilwa fu una delle principali città portuali swahili.",
+    "theme": "urbanizzazione",
+    "status": "documentato",
+    "source": "KI1; KI2"
+  },
+  {
+    "claim": "La città commerciava oro e avorio con l’entroterra e l’Oceano Indiano.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "KI1; KI3"
+  },
+  {
+    "claim": "Gli edifici monumentali impiegavano pietra corallina e malta di calce.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "KI1"
+  },
+  {
+    "claim": "La Grande Moschea fu ampliata durante il periodo medievale.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "KI1; KI2"
+  },
+  {
+    "claim": "Husuni Kubwa appartiene all’apogeo del XIV secolo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "KI1"
+  },
+  {
+    "claim": "Pozzi e cisterne erano essenziali su un’isola corallina.",
+    "theme": "acqua",
+    "status": "documentato",
+    "source": "KI1"
+  },
+  {
+    "claim": "L’approvvigionamento integrava risorse marine, agricoltura e commercio.",
+    "theme": "alimentazione",
+    "status": "sintesi",
+    "source": "KI1; KI3"
+  },
+  {
+    "claim": "L’occupazione portoghese dopo il 1505 è esclusa.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "KI2"
+  }
+]

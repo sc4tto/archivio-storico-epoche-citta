@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Occupazione preceramica",
+    "Costruzione delle unità",
+    "Rimodellamenti",
+    "Uso cerimoniale tardo",
+    "Abbandono graduale"
+  ],
+  "items": [
+    {
+      "id": "units",
+      "label": "Edifici monumentali multipli",
+      "lane": "Monumentali",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "unit1",
+      "label": "Unità I e ambienti interni",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Aree domestiche",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "fish",
+      "label": "Pesca e trasporto del pescato",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "cotton",
+      "label": "Cotone, reti e tessili",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ritual",
+      "label": "Focolari e depositi rituali",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "abandon",
+      "label": "Abbandono e riusi",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

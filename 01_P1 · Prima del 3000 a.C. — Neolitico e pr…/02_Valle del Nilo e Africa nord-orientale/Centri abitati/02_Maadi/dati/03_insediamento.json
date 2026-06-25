@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Maadi iniziale",
+    "Maadi medio",
+    "Maadi tardo",
+    "Interazione Naqada II",
+    "Fine della tradizione"
+  ],
+  "items": [
+    {
+      "id": "houses",
+      "label": "Case leggere con pali e intreccio",
+      "lane": "Abitazioni",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "subterr",
+      "label": "Strutture seminterrate selezionate",
+      "lane": "Abitazioni",
+      "start": 0,
+      "end": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "storage",
+      "label": "Fosse e giare di deposito",
+      "lane": "Conservazione",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "craft",
+      "label": "Aree artigianali e lavorazione del rame",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "cemetery",
+      "label": "Necropoli separata dall’abitato",
+      "lane": "Funerarie",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "exchange",
+      "label": "Materiali levantini nell’insediamento",
+      "lane": "Scambi",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "transition",
+      "label": "Progressiva presenza di materiali Naqada",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

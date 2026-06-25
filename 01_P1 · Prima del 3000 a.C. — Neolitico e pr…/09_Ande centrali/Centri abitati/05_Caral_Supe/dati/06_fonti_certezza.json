@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Caral-Supe è datata al Tardo Arcaico, circa 3000–1800 a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "CARAL_UNESCO"
+  },
+  {
+    "claim": "Il sito comprende grandi piattaforme e corti circolari incassate",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "CARAL_UNESCO"
+  },
+  {
+    "claim": "Caral faceva parte di una rete regionale di insediamenti monumentali",
+    "theme": "Reti regionali",
+    "status": "documentato",
+    "source": "NORTE_CHICO_NATURE"
+  },
+  {
+    "claim": "Le datazioni radiocarboniche collocano il suo sviluppo nel Tardo Arcaico",
+    "theme": "Metodo",
+    "status": "documentato",
+    "source": "CARAL_SCIENCE"
+  },
+  {
+    "claim": "La città mostra differenziazione fra spazi monumentali e residenziali",
+    "theme": "Società",
+    "status": "documentato",
+    "source": "CARAL_UNESCO"
+  },
+  {
+    "claim": "Il quipu ritrovato prova una scrittura pienamente sviluppata",
+    "theme": "Registrazione",
+    "status": "non_documentato",
+    "source": "Sistema di registrazione, non scrittura dimostrata"
+  },
+  {
+    "claim": "Caral controllava direttamente tutti i centri regionali",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Gerarchia politica discussa"
+  },
+  {
+    "claim": "La guerra fu il principale motore della crescita urbana",
+    "theme": "Conflitto",
+    "status": "non_documentato",
+    "source": "Evidenza insufficiente"
+  }
+]

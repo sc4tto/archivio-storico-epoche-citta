@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Soba fu capitale del regno cristiano di Alodia",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "SOB_UW"
+  },
+  {
+    "claim": "Il sito copre circa 275 ettari",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "SOB_UW"
+  },
+  {
+    "claim": "Sono documentati edifici monumentali e chiese",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "SOB_UW"
+  },
+  {
+    "claim": "Materiali importati indicano contatti a lunga distanza",
+    "theme": "Reti",
+    "status": "documentato",
+    "source": "SOB_UW"
+  },
+  {
+    "claim": "Il palazzo reale è già localizzato senza dubbio",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "È ancora oggetto di ricerca"
+  },
+  {
+    "claim": "La maggior parte della città è stata scavata",
+    "theme": "Metodo",
+    "status": "non_documentato",
+    "source": "Solo una piccola percentuale è stata indagata"
+  },
+  {
+    "claim": "Le descrizioni del X secolo forniscono una pianta completa",
+    "theme": "Fonti",
+    "status": "non_documentato",
+    "source": "Fonti selettive e narrative"
+  },
+  {
+    "claim": "Geofisica e scavi stanno ricostruendo strade e quartieri",
+    "theme": "Metodo",
+    "status": "documentato",
+    "source": "SOB_ANTIQUITY"
+  }
+]

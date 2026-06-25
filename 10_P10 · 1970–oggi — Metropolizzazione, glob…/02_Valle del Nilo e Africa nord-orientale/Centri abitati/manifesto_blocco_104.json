@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_104_P10_Valle_Nilo_Africa_Nordorientale_5_Centri_v1",
+  "macroregion": "Valle del Nilo e Africa nord-orientale",
+  "centers": [
+    "01_Cairo_Megacitta_Informalita_Metro_Inquinamento",
+    "02_Alessandria_Porto_Costa_Industria_Rischio_Climatico",
+    "03_Khartoum_Crescita_Informale_Guerra_Sfollamenti_Ritorni",
+    "04_Addis_Abeba_Crescita_Condomini_Mobilita_Trasformazione",
+    "05_Nuova_Capitale_Amministrativa_Citta_Nuova_Istituzioni"
+  ],
+  "uses_central_assets": true
+}

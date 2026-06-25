@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Fondazione di Akhetaten",
+    "Costruzione accelerata",
+    "Apogeo della capitale",
+    "Crisi finale del regno",
+    "Abbandono e riuso"
+  ],
+  "items": [
+    {
+      "id": "aten",
+      "label": "Grande e Piccolo Tempio dell’Aten",
+      "lane": "Monumentali",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "palaces",
+      "label": "Palazzi e ponte reale",
+      "lane": "Amministrative",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Quartieri residenziali",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "workshops",
+      "label": "Laboratori e produzione artigianale",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "villages",
+      "label": "Villaggi del deserto",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "cemeteries",
+      "label": "Cimiteri e tombe rupestri",
+      "lane": "Funerarie",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "stelae",
+      "label": "Stele di confine e strade",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

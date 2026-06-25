@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Primo insediamento",
+    "Crescita formativa",
+    "Piattaforme e piazze",
+    "Fasi classiche posteriori",
+    "Capitale terminale posteriore"
+  ],
+  "items": [
+    {
+      "id": "village",
+      "label": "Villaggio iniziale",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "platforms",
+      "label": "Piattaforme di terra",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "plazas",
+      "label": "Piazze rettangolari",
+      "lane": "Pianificazione",
+      "start": 2,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "basalt",
+      "label": "Lavorazione e trasporto del basalto",
+      "lane": "Artigianato",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "obsidian",
+      "label": "Circolazione dell’ossidiana",
+      "lane": "Reti",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "expansion",
+      "label": "Espansione nelle fasi classiche",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "capital",
+      "label": "Capitale terminale",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

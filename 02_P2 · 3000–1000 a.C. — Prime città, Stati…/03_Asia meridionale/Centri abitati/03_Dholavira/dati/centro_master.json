@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Dholavira — modulo multi-grafo",
+    "short_name": "Dholavira",
+    "site": "Dholavira: città harappana",
+    "modern_location": "Isola di Khadir, Kutch, Gujarat, India",
+    "coordinates": {
+      "lat": 23.888,
+      "lon": 70.214
+    },
+    "scope": "Centro meridionale della civiltà harappana in ambiente arido, con città fortificata, castello, bailey, città media e bassa, grande area cerimoniale, cimitero e un complesso sistema di raccolta e conservazione dell’acqua.",
+    "version": "1.0-blocco_16_p2_asia_meridionale_5_centri_v1",
+    "warning": "La lunga sequenza comprende fasi precoci, mature e tarde. I cenotafi non contengono necessariamente corpi e la cosiddetta grande iscrizione non costituisce una decifrazione della scrittura."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "DHOLAVIRA_UNESCO",
+      "title": "UNESCO — Dholavira: a Harappan City",
+      "url": "https://whc.unesco.org/en/list/1645/",
+      "use": "urbanistica, riserve idriche, cimitero, artigianato e commercio"
+    },
+    {
+      "id": "DHOLAVIRA_ASI",
+      "title": "Archaeological Survey of India — Dholavira excavations",
+      "url": "https://asi.nic.in/",
+      "use": "scavi, conservazione e cronologia del sito"
+    },
+    {
+      "id": "DHOLAVIRA_BISHT",
+      "title": "Bisht — Excavations at Dholavira",
+      "url": "https://archive.org/search?query=Dholavira+Bisht",
+      "use": "dettaglio delle fasi, fortificazioni e sistemi idrici"
+    }
+  ]
+}

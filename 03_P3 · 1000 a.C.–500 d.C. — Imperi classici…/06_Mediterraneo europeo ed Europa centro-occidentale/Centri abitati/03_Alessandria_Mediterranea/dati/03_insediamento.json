@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Fondazione e piano ellenistico",
+    "Capitale tolemaica",
+    "Conquista e amministrazione romana",
+    "Metropoli imperiale e conflitti urbani",
+    "Cristianizzazione e trasformazioni tardoantiche"
+  ],
+  "items": [
+    {
+      "id": "grid",
+      "label": "Griglia urbana e assi principali",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "royal",
+      "label": "Quartiere reale e palazzi",
+      "lane": "Monumentali",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ports",
+      "label": "Porti, moli e Faro",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "library",
+      "label": "Mouseion e biblioteche",
+      "lane": "Amministrative",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "necrop",
+      "label": "Necropoli e catacombe",
+      "lane": "Rituali",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "serapeum",
+      "label": "Serapeo e altri santuari",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "churches",
+      "label": "Chiese e sedi episcopali",
+      "lane": "Rituali",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

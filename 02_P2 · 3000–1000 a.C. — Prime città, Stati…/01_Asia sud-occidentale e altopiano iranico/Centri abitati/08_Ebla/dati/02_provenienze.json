@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Ebla",
+      "lat": 35.798,
+      "lon": 36.798,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "plain",
+      "label": "Piana di Idlib",
+      "lat": 35.8,
+      "lon": 36.7,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "aleppo",
+      "label": "Aleppo / Yamhad",
+      "lat": 36.2,
+      "lon": 37.16,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "mari",
+      "label": "Mari",
+      "lat": 34.55,
+      "lon": 40.89,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "anatolia",
+      "label": "Anatolia sud-orientale",
+      "lat": 37.5,
+      "lon": 37.5,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "mesopotamia",
+      "label": "Mesopotamia meridionale",
+      "lat": 32.5,
+      "lon": 45.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "plain",
+      "target": "site",
+      "label": "cereali, greggi e acqua",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "aleppo",
+      "target": "site",
+      "label": "reti politiche e commerciali",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "mari",
+      "target": "site",
+      "label": "diplomazia, guerra e scambio",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "anatolia",
+      "target": "site",
+      "label": "metalli, legname e tessili",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "mesopotamia",
+      "target": "site",
+      "label": "scrittura, lapislazzuli e beni di prestigio",
+      "status": "documentato",
+      "food": "parziale"
+    }
+  ]
+}

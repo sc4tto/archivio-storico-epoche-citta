@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Jakarta fu uno dei luoghi centrali della proclamazione dell’indipendenza del 1945.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "JA1"
+  },
+  {
+    "claim": "La popolazione crebbe rapidamente nel dopoguerra per migrazione verso la capitale.",
+    "theme": "demografia",
+    "status": "documentato",
+    "source": "JA2"
+  },
+  {
+    "claim": "I kampung ospitarono una parte maggioritaria della popolazione con servizi spesso insufficienti.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "JA3"
+  },
+  {
+    "claim": "Le grandi opere dei primi anni Sessanta cercarono di rappresentare la nuova capitale nazionale.",
+    "theme": "urbanistica",
+    "status": "sintesi",
+    "source": "JA1; JA3"
+  },
+  {
+    "claim": "La transizione del 1965–1966 comportò uccisioni di massa, purghe e repressione politica.",
+    "theme": "violenza",
+    "status": "documentato",
+    "source": "JA4"
+  },
+  {
+    "claim": "Jakarta, indipendenza, kampung e capitale nazionale è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Il ritorno coloniale, la guerra d’indipendenza, gli sgomberi dei kampung, la violenza di massa del 1965–1966, le purghe e la repressione militare sono descritti esplicitamente come processi coercitivi e diseguali.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

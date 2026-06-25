@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Babilonia — modulo multi-grafo",
+    "short_name": "Babilonia",
+    "site": "Città di Babilonia",
+    "modern_location": "Governatorato di Babil, Iraq",
+    "coordinates": {
+      "lat": 32.542,
+      "lon": 44.42
+    },
+    "scope": "Centro urbano dell’Eufrate attestato dal III millennio a.C. e capitale dell’impero antico-babilonese sotto Hammurabi, con quartieri, templi, archivi, mura, canali e un’importante tradizione scribale.",
+    "version": "1.0-blocco_13_p2_asia_so_5_centri_v1",
+    "warning": "Molti resti monumentali oggi visibili appartengono soprattutto alla fase neobabilonese, successiva al P2. Il modulo distingue la Babilonia di Hammurabi e delle fasi cassite dalle ricostruzioni del I millennio a.C."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "BABYLON_UNESCO",
+      "title": "UNESCO — Babylon",
+      "url": "https://whc.unesco.org/en/list/278/",
+      "use": "cronologia lunga, urbanistica, templi, palazzi, mura e influenza culturale"
+    },
+    {
+      "id": "WMF_BABYLON",
+      "title": "World Monuments Fund — Babylon",
+      "url": "https://www.wmf.org/projects/babylon",
+      "use": "conservazione del sito e storia degli interventi moderni"
+    },
+    {
+      "id": "MET_BABYLON",
+      "title": "The Metropolitan Museum of Art — Babylonian Art and Culture",
+      "url": "https://www.metmuseum.org/toah/hd/anti/hd_anti.htm",
+      "use": "quadro storico e cultura materiale babilonese"
+    }
+  ]
+}

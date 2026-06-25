@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Vinča–Belo Brdo",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Cicli di semina e raccolta",
+          "status": "sintesi"
+        },
+        {
+          "id": "k1_2",
+          "label": "Conservazione dei semi",
+          "status": "sintesi"
+        },
+        {
+          "id": "k1_3",
+          "label": "Gestione dei campi",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Allevamento",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Gestione di bovini e ovicaprini",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Macellazione",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_3",
+          "label": "Uso di prodotti secondari",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Edilizia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Carpenteria",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_2",
+          "label": "Intonaci e pavimenti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Ricostruzione dopo incendi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Ceramica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Preparazione dell’impasto",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Cottura",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Decorazione e forme",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Materiali",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Pietra levigata",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Pigmenti e cinabrite",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_3",
+          "label": "Conchiglie e ossidiana",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Organizzazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Gestione di un grande tell",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_2",
+          "label": "Spazi di circolazione",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_3",
+          "label": "Scrittura formalizzata",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

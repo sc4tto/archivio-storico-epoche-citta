@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Tabon Caves — modulo multi-grafo",
+    "short_name": "Tabon Caves",
+    "site": "Tabon Caves",
+    "modern_location": "Lipuun Point, Quezon, Palawan, Filippine",
+    "coordinates": {
+      "lat": 8.84,
+      "lon": 117.98
+    },
+    "scope": "Occupazioni dal Pleistocene superiore all’Olocene; nel P1 si considerano le fasi di abitazione e lavorazione litica precedenti ai complessi funerari in giara più tardi",
+    "version": "1.0-blocco_06_p1_asia_sud_orientale_5_centri_v1",
+    "warning": "Le famose sepolture in giara e la Manunggul Jar sono posteriori al P1. Le coordinate sono indicative del promontorio di Lipuun e non di una singola cavità."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "UNESCO_TABON",
+      "title": "UNESCO World Heritage Centre — The Tabon Cave Complex and all of Lipuun",
+      "url": "https://whc.unesco.org/en/tentativelists/1860/",
+      "use": "complesso di grotte, cronologia, strumenti litici, fossili umani e fasi funerarie"
+    },
+    {
+      "id": "TABON_FOSSILS",
+      "title": "Dizon et al. — Notes on the Morphology and Age of the Tabon Cave Fossil Homo sapiens",
+      "url": "https://doi.org/10.1086/677055",
+      "use": "resti umani, morfologia e datazioni"
+    },
+    {
+      "id": "TABON_NMP",
+      "title": "National Museum of the Philippines — Tabon Cave Complex",
+      "url": "https://www.nationalmuseum.gov.ph/",
+      "use": "gestione, collezioni e tutela del complesso"
+    }
+  ]
+}

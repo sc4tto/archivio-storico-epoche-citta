@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Nishapur — modulo multi-grafo",
+    "short_name": "Nishapur",
+    "site": "Nishapur islamica antica",
+    "modern_location": "Khorasan Razavi, Iran",
+    "coordinates": {
+      "lat": 36.2141,
+      "lon": 58.7961
+    },
+    "scope": "Grande città del Khorasan e nodo delle rotte fra Iran, Transoxiana, Cina, Iraq ed Egitto. Nel IX–X secolo fu centro amministrativo, commerciale e culturale, noto archeologicamente per quartieri, edifici decorati, ceramiche invetriate, vetro e metallurgia.",
+    "version": "1.0-blocco_37_p4_asia_so_5_centri_v1",
+    "warning": "La città medievale era molto più estesa dei settori scavati. Le categorie ceramiche “di Nishapur” non implicano che ogni pezzo simile sia stato prodotto localmente; il modulo distingue provenienza archeologica, stile e produzione."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "NIS_MET_POT",
+      "title": "Metropolitan Museum — Nishapur: Pottery of the Early Islamic Period",
+      "url": "https://www.metmuseum.org/met-publications/nishapur-pottery-of-the-early-islamic-period",
+      "use": "ceramiche, scavi e ruolo commerciale"
+    },
+    {
+      "id": "NIS_MET_EXC",
+      "title": "Metropolitan Museum — The Metropolitan Museum’s Excavations at Nishapur",
+      "url": "https://www.metmuseum.org/essays/the-metropolitan-museums-excavations-at-nishapur",
+      "use": "quartieri, edifici e storia degli scavi"
+    },
+    {
+      "id": "NIS_MET_BUILD",
+      "title": "Metropolitan Museum — Nishapur: Some Early Islamic Buildings and Their Decoration",
+      "url": "https://www.metmuseum.org/met-publications/nishapur-some-early-islamic-buildings-and-their-decoration",
+      "use": "architettura, stucchi e decorazioni"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "nodes": [
+    {
+      "id": "t_estates",
+      "label": "Tenute regie fra Reno e Mosa",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_ardennes",
+      "label": "Ardenne, boschi e pascoli",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_valleys",
+      "label": "Valli agricole e corsi d’acqua",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "r_grain",
+      "label": "Segale, frumento, avena e legumi",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "r_animals",
+      "label": "Suini, bovini, ovini e latticini",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_fish",
+      "label": "Pesce d’acqua dolce e selvaggina",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "r_drink",
+      "label": "Birra, vino e miele",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "a_demesne",
+      "label": "Produzione delle tenute regie",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_tribute",
+      "label": "Rendite, tributi e doni",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_forest",
+      "label": "Caccia, pascolo e uso dei boschi",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_market",
+      "label": "Mercato e ospitalità di corte",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "x_mill",
+      "label": "Molitura, forni e cucine",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x_brew",
+      "label": "Birrificazione, vinificazione e conserve",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "x_store",
+      "label": "Granai, cantine e dispense",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "p_court",
+      "label": "Pasti di corte e grandi assemblee",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "p_clerical",
+      "label": "Vitto del clero e della scuola",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_reserve",
+      "label": "Scorte per viaggi e campagne",
+      "layer": 4,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "t_estates",
+      "target": "r_grain",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "t_ardennes",
+      "target": "r_animals",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "t_valleys",
+      "target": "r_fish",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "t_estates",
+      "target": "r_drink",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_grain",
+      "target": "a_demesne",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_animals",
+      "target": "a_tribute",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_fish",
+      "target": "a_forest",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_drink",
+      "target": "a_market",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "a_demesne",
+      "target": "x_mill",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "a_tribute",
+      "target": "x_brew",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "a_forest",
+      "target": "x_store",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "a_market",
+      "target": "x_mill",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "x_mill",
+      "target": "p_court",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "x_brew",
+      "target": "p_clerical",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "x_store",
+      "target": "p_reserve",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_drink",
+      "target": "a_demesne",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "a_market",
+      "target": "x_store",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "x_store",
+      "target": "p_reserve",
+      "status": "sintesi",
+      "label": ""
+    }
+  ]
+}

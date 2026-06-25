@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Spirit Cave",
+      "lat": 19.56,
+      "lon": 98.25,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "stream",
+      "label": "Torrente locale",
+      "lat": 19.55,
+      "lon": 98.26,
+      "status": "sintesi",
+      "kind": "locale",
+      "dx": -10,
+      "dy": -20,
+      "anchor": "end"
+    },
+    {
+      "id": "forest",
+      "label": "Foresta di Mae Hong Son",
+      "lat": 19.6,
+      "lon": 98.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 10,
+      "dy": 25,
+      "anchor": "start"
+    },
+    {
+      "id": "karst",
+      "label": "Massicci carsici di Pang Mapha",
+      "lat": 19.65,
+      "lon": 98.3,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 28,
+      "anchor": "middle"
+    },
+    {
+      "id": "banyan",
+      "label": "Banyan Valley e Steep Cliff Cave",
+      "lat": 19.5,
+      "lon": 98.35,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "salween",
+      "label": "Bacino del Salween",
+      "lat": 19.7,
+      "lon": 97.9,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "stream",
+      "target": "site",
+      "label": "acqua, granchi e pesce",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "forest",
+      "target": "site",
+      "label": "piante, fauna e legno",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "karst",
+      "target": "site",
+      "label": "pietra e rete di ripari",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "banyan",
+      "target": "site",
+      "label": "confronti cronologici e tecnologici",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "salween",
+      "target": "site",
+      "label": "corridoi regionali di mobilità",
+      "status": "inferito",
+      "food": "parziale"
+    }
+  ]
+}

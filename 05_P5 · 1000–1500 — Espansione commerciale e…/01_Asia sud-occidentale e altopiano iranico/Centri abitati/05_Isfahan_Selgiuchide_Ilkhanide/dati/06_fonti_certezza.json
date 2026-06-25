@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Isfahan fu capitale dei Grandi Selgiuchidi nell’XI–XII secolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "IS2; IS4"
+  },
+  {
+    "claim": "La moschea del venerdì documenta più di dodici secoli di evoluzione architettonica.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "IS1; IS3"
+  },
+  {
+    "claim": "Il sistema a quattro iwan divenne un modello per l’architettura islamica regionale.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "IS1"
+  },
+  {
+    "claim": "Cupole e decorazione in laterizio rappresentano innovazioni fondamentali.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "IS1; IS4"
+  },
+  {
+    "claim": "Lo Zayandeh Rud sosteneva agricoltura e vita urbana.",
+    "theme": "ambiente",
+    "status": "documentato",
+    "source": "IS2; IS5"
+  },
+  {
+    "claim": "La piazza Naqsh-e Jahan è safavide e non appartiene al periodo del modulo.",
+    "theme": "certezza",
+    "status": "documentato",
+    "source": "IS2"
+  },
+  {
+    "claim": "Il bazar collegava moschea, quartieri produttivi e rotte carovaniere.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "IS3; IS5"
+  },
+  {
+    "claim": "Le fasi ilkhanidi e timuridi modificarono senza cancellare il nucleo selgiuchide.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "IS1; IS3"
+  }
+]

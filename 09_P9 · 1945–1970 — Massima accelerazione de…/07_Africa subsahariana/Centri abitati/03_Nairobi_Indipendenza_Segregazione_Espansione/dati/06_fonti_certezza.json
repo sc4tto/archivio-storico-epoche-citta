@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Il piano del 1948 consolidò una città organizzata per zone razziali e standard edilizi fortemente diseguali.",
+    "theme": "segregazione",
+    "status": "documentato",
+    "source": "NA2"
+  },
+  {
+    "claim": "L’indipendenza del 1963 abolì la segregazione razziale formale ma non eliminò le disuguaglianze spaziali e di classe.",
+    "theme": "postcoloniale",
+    "status": "documentato",
+    "source": "NA2; NA3"
+  },
+  {
+    "claim": "La crescita demografica e la migrazione rurale superarono l’offerta di alloggi e servizi.",
+    "theme": "urbanizzazione",
+    "status": "documentato",
+    "source": "NA1; NA4"
+  },
+  {
+    "claim": "Nel 1967 furono creati gruppi di studio per affrontare pianificazione, trasporto, alloggio e integrazione urbana.",
+    "theme": "pianificazione",
+    "status": "documentato",
+    "source": "NA1"
+  },
+  {
+    "claim": "L’emergenza Mau Mau comportò arresti, detenzione, sorveglianza e repressione che segnarono anche la vita urbana.",
+    "theme": "coercizione",
+    "status": "documentato",
+    "source": "NA3"
+  },
+  {
+    "claim": "Nairobi, indipendenza, segregazione ed espansione è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Segregazione coloniale, pass laws, detenzione e repressione durante l’emergenza Mau Mau sono descritti come sistemi coercitivi; africani, asiatici, lavoratori, donne e migranti non sono ridotti a categorie passive della pianificazione.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Meroe fu il cuore del regno kushita per molti secoli",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "MEROE_UNESCO"
+  },
+  {
+    "claim": "Il sito comprende città reale, templi, quartieri e necropoli piramidali",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "MEROE_UNESCO"
+  },
+  {
+    "claim": "Sono documentate installazioni per la gestione dell’acqua",
+    "theme": "Idraulica",
+    "status": "documentato",
+    "source": "MEROE_UNESCO"
+  },
+  {
+    "claim": "La lavorazione del ferro ebbe un ruolo importante",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "MEROE_UNESCO"
+  },
+  {
+    "claim": "Naqa e Musawwarat erano centri associati",
+    "theme": "Reti",
+    "status": "documentato",
+    "source": "MEROE_UNESCO"
+  },
+  {
+    "claim": "Meroe era esclusivamente una città industriale",
+    "theme": "Funzione",
+    "status": "non_documentato",
+    "source": "Centro politico, religioso e domestico"
+  },
+  {
+    "claim": "La lingua meroitica è completamente compresa",
+    "theme": "Scrittura",
+    "status": "non_documentato",
+    "source": "Interpretazione solo parziale"
+  },
+  {
+    "claim": "Tutte le piramidi appartengono allo stesso secolo",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Necropoli di lunga durata"
+  }
+]

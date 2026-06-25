@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Texcoco",
+      "lat": 19.515,
+      "lon": -98.882,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "tet",
+      "label": "Tetzcotzinco",
+      "lat": 19.486,
+      "lon": -98.817,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "tlal",
+      "label": "Monte Tlaloc",
+      "lat": 19.41,
+      "lon": -98.72,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "ten",
+      "label": "Tenochtitlan",
+      "lat": 19.4326,
+      "lon": -99.1332,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "pue",
+      "label": "Valle di Puebla-Tlaxcala",
+      "lat": 19.05,
+      "lon": -98.2,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "more",
+      "label": "Morelos",
+      "lat": 18.85,
+      "lon": -99.05,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "gulf",
+      "label": "Costa del Golfo",
+      "lat": 19.2,
+      "lon": -96.14,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "tet",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali e strade di corte",
+      "food": "frutta, fiori e acqua"
+    },
+    {
+      "source": "tlal",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "acquedotti e percorsi montani",
+      "food": "acqua, legname e selvaggina"
+    },
+    {
+      "source": "ten",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "alleanza e navigazione lacustre",
+      "food": "tributi e beni di mercato"
+    },
+    {
+      "source": "pue",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte orientali",
+      "food": "ceramiche, mais e tessuti"
+    },
+    {
+      "source": "more",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "tributo meridionale",
+      "food": "cotone e frutta"
+    },
+    {
+      "source": "gulf",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "reti della Triplice Alleanza",
+      "food": "cacao, piume e vaniglia"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Istanbul fu capitale dell’Impero ottomano e nodo fra Mar Nero e Mediterraneo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "IS1; IS2"
+  },
+  {
+    "claim": "Il complesso di Süleymaniye rappresenta l’apogeo dell’architettura ottomana del XVI secolo.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "IS1"
+  },
+  {
+    "claim": "Topkapı concentrava funzioni residenziali, amministrative e cerimoniali.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "IS4"
+  },
+  {
+    "claim": "Bazar, khan e porti sostenevano reti commerciali imperiali.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "IS1; IS2"
+  },
+  {
+    "claim": "Gli imaret distribuivano pasti attraverso fondazioni pie.",
+    "theme": "assistenza",
+    "status": "documentato",
+    "source": "IS3"
+  },
+  {
+    "claim": "Gli incendi imposero ricostruzioni frequenti nei quartieri lignei.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "IS2"
+  },
+  {
+    "claim": "La città era multiconfessionale e articolata in quartieri differenti.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "IS2"
+  },
+  {
+    "claim": "Le trasformazioni ottocentesche sono escluse dal modulo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "IS2"
+  }
+]

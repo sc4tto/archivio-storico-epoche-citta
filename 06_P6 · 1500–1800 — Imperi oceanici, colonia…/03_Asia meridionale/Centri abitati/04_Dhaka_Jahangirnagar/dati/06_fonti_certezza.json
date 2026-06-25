@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Dhaka divenne capitale del Bengala moghul nel 1610.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "DH1; DH2"
+  },
+  {
+    "claim": "La città si sviluppò sulle reti fluviali del delta.",
+    "theme": "ambiente",
+    "status": "documentato",
+    "source": "DH1; DH2"
+  },
+  {
+    "claim": "La mussola fu una delle principali produzioni esportate.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "DH2; DH5"
+  },
+  {
+    "claim": "Katra, moschee e giardini segnarono l’espansione urbana moghul.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "DH2; DH3"
+  },
+  {
+    "claim": "Il Lalbagh Fort rimase incompiuto.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "DH3"
+  },
+  {
+    "claim": "Cantieri e flottiglie erano essenziali per controllo e commercio fluviale.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "DH2"
+  },
+  {
+    "claim": "Il trasferimento della capitale a Murshidabad ridusse il ruolo politico di Dhaka.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "DH1; DH2"
+  },
+  {
+    "claim": "La città coloniale ottocentesca è esclusa dal modulo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "DH1"
+  }
+]

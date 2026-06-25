@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Formazione dinastica",
+    "Antico Regno",
+    "Primo Periodo Intermedio",
+    "Medio Regno",
+    "Nuovo Regno e fine P2"
+  ],
+  "items": [
+    {
+      "id": "ptah",
+      "label": "Tempio di Ptah e aree cultuali",
+      "lane": "Monumentali",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "palaces",
+      "label": "Palazzi e amministrazione",
+      "lane": "Amministrative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Quartieri e laboratori",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "harbors",
+      "label": "Approdi e canali",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "necropolis",
+      "label": "Necropoli menfita",
+      "lane": "Funerarie",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "scribes",
+      "label": "Archivi, sigilli e scuole scribali",
+      "lane": "Amministrative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "workshops",
+      "label": "Cantieri e produzione artigianale",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1945–1949",
+    "1950–1954",
+    "1955–1959",
+    "1960–1964",
+    "1965–1970"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Ricostruzione postbellica e prosecuzione dell’architettura monumentale staliniana",
+      "lane": "Urbanistica",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Completamento delle Sette Sorelle e grandi assi rappresentativi",
+      "lane": "Architettura",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Morte di Stalin nel 1953 e destalinizzazione",
+      "lane": "Politica",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Decreto del 1955 contro gli “eccessi” architettonici e standardizzazione",
+      "lane": "Edilizia",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Avvio della prefabbricazione di massa e diffusione delle khrushchëvki",
+      "lane": "Abitazione",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Espansione del Metro e del trasporto pubblico verso i nuovi quartieri",
+      "lane": "Mobilità",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Allargamento dei confini municipali fino al MKAD nel 1960",
+      "lane": "Metropoli",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Controllo politico, censura e campagne antireligiose nell’epoca chruščëviana",
+      "lane": "Coercizione",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Chicago, trasporto, segregazione, clima e industria",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Governance urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Città, CTA, Metra, contea e comunità",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Investimenti, dati, bilanci e partecipazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Trasporto equo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "L, bus, commuter rail, ciclabilità e pedonalità",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Accessibilità, manutenzione e connessioni al Far South Side",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Industria e logistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Ferrovie, aeroporti, manifattura, università e sanità",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Transizione economica, lavoro e formazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Clima dei Grandi Laghi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Calore, piogge estreme, freddo e infrastrutture verdi",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Allerta, salute pubblica, drenaggio e decarbonizzazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Giustizia razziale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Segregazione, redlining, disinvestimento e violenza",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Alloggi, rappresentanza, riparazione e prevenzione degli spostamenti",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

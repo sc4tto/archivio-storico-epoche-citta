@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Alessandria mediterranea — modulo multi-grafo",
+    "short_name": "Alessandria mediterranea",
+    "site": "Alessandria ellenistica, romana e tardoantica come metropoli mediterranea",
+    "modern_location": "Alessandria d’Egitto, Egitto",
+    "coordinates": {
+      "lat": 31.2001,
+      "lon": 29.9187
+    },
+    "scope": "Città portuale fondata in età ellenistica, capitale tolemaica e grande centro romano, con quartieri regali, porti, necropoli, biblioteche, santuari, reti commerciali e comunità linguistiche e religiose molteplici.",
+    "version": "1.0-blocco_31_p3_mediterraneo_europa_5_centri_v1",
+    "warning": "Gran parte della città antica è coperta dall’abitato moderno o sommersa. L’ubicazione e la forma di edifici celebri come la Biblioteca e il Mouseion sono ricostruite solo parzialmente."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "ALX_CEALEX",
+      "title": "Centre d’Études Alexandrines",
+      "url": "https://www.cealex.org/",
+      "use": "archeologia urbana, portuale e subacquea"
+    },
+    {
+      "id": "ALX_IFAO",
+      "title": "IFAO — Études Alexandrines",
+      "url": "https://www.ifao.egnet.net/publications/catalogue/EtudAlex/",
+      "use": "necropoli, ceramiche e topografia"
+    },
+    {
+      "id": "ALX_MET",
+      "title": "The Metropolitan Museum — Ptolemaic Egypt",
+      "url": "https://www.metmuseum.org/toah/hd/ptol/hd_ptol.htm",
+      "use": "contesto tolemaico e cultura materiale"
+    }
+  ]
+}

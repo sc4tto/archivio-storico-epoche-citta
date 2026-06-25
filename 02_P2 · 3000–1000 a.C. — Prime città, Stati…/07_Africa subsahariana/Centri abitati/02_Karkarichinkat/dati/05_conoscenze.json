@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Karkarichinkat",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Ambiente e sussistenza",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Lettura delle stagioni",
+          "status": "sintesi"
+        },
+        {
+          "id": "k1_2",
+          "label": "Gestione di acqua e pascoli",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Risposta all’aridificazione",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Agricoltura e allevamento",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Miglio perlato e piante locali",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Bovini, ovini e caprini",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Equilibrio fra coltivazione e mobilità",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Ceramica e pietra",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Produzione ceramica",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Macinazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Utensili litici",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Insediamento",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Case e recinti",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Depositi e silos",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Pianificazione comunitaria",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Corpo e rituale",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Sepolture selettive",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Modificazione dentaria",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Significato identitario",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Organizzazione sociale",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Comunità parentali",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_2",
+          "label": "Differenze fra abitazioni e tombe",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Stato centralizzato",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Pechino nel tardo Qing",
+    "site": "Pechino nel tardo Qing",
+    "modern_location": "Pechino, Cina",
+    "coordinates": {
+      "lat": 39.9042,
+      "lon": 116.4074
+    },
+    "scope": "Pechino fra 1800 e 1900: capitale Qing, amministrazione imperiale, approvvigionamento dal Grand Canal, crisi fiscali, guerre dell’oppio, occupazione del 1860, autorrafforzamento e riforme di fine secolo.",
+    "version": "1.0",
+    "warning": "Il modulo termina al 1900. Le conseguenze del protocollo Boxer del 1901, la caduta dei Qing nel 1911 e le trasformazioni repubblicane sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "BE1",
+      "title": "UNESCO — Beijing Central Axis",
+      "use": "Asse urbano, palazzi, porte e continuità della capitale.",
+      "url": "https://whc.unesco.org/en/list/1714/"
+    },
+    {
+      "id": "BE2",
+      "title": "Encyclopaedia Britannica — Beijing",
+      "use": "Storia urbana e politica nel XIX secolo.",
+      "url": "https://www.britannica.com/place/Beijing"
+    },
+    {
+      "id": "BE3",
+      "title": "The Palace Museum",
+      "use": "Città Proibita, collezioni e amministrazione Qing.",
+      "url": "https://intl.dpm.org.cn/"
+    },
+    {
+      "id": "BE4",
+      "title": "National Library of China",
+      "use": "Mappe e fonti storiche della capitale.",
+      "url": "https://www.nlc.cn/"
+    },
+    {
+      "id": "BE5",
+      "title": "MIT Visualizing Cultures — China and the West",
+      "use": "Guerre, diplomazia e rappresentazioni ottocentesche.",
+      "url": "https://visualizingcultures.mit.edu/"
+    }
+  ]
+}

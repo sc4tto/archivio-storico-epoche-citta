@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Khartoum turco-egiziana e mahdista",
+    "site": "Khartoum turco-egiziana e mahdista",
+    "modern_location": "Khartoum, Sudan",
+    "coordinates": {
+      "lat": 15.5007,
+      "lon": 32.5599
+    },
+    "scope": "Khartoum fra 1821 e 1900: fondazione militare, capitale del Sudan turco-egiziano, commercio sul Nilo, tratta schiavistica, assedio del 1884–1885, fase mahdista e ricostruzione anglo-egiziana iniziale.",
+    "version": "1.0",
+    "warning": "La tratta schiavistica e il lavoro coercitivo sono descritti come sistemi violenti. Il piano coloniale pienamente novecentesco e la crescita successiva sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "KH1",
+      "title": "Encyclopaedia Britannica — Khartoum",
+      "use": "Fondazione, assedio e sviluppo urbano.",
+      "url": "https://www.britannica.com/place/Khartoum"
+    },
+    {
+      "id": "KH2",
+      "title": "Sudan Memory",
+      "use": "Mappe, fotografie e documenti del Sudan ottocentesco.",
+      "url": "https://www.sudanmemory.org/"
+    },
+    {
+      "id": "KH3",
+      "title": "Durham University — Sudan Archive",
+      "use": "Documenti amministrativi, diari e immagini storiche.",
+      "url": "https://www.durham.ac.uk/research/institutes-and-centres/sudan-archive/"
+    },
+    {
+      "id": "KH4",
+      "title": "Qatar Digital Library — Sudan and the Nile",
+      "use": "Carte e rapporti britannici sul Nilo e sul Sudan.",
+      "url": "https://www.qdl.qa/en"
+    },
+    {
+      "id": "KH5",
+      "title": "Library of Congress — Sudan Country Study",
+      "use": "Contesto turco-egiziano, mahdista e anglo-egiziano.",
+      "url": "https://www.loc.gov/item/92006226/"
+    }
+  ]
+}

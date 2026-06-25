@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Mohenjo-daro",
+      "lat": 27.329,
+      "lon": 68.138,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "indus",
+      "label": "Fiume Indo",
+      "lat": 27.35,
+      "lon": 68.18,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "fields",
+      "label": "Piana agricola del Sindh",
+      "lat": 27.25,
+      "lon": 68.1,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "chanhu",
+      "label": "Chanhudaro",
+      "lat": 26.17,
+      "lon": 68.32,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "harappa",
+      "label": "Harappa",
+      "lat": 30.628,
+      "lon": 72.864,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "makran",
+      "label": "Makran e costa araba",
+      "lat": 25.3,
+      "lon": 64.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "indus",
+      "target": "site",
+      "label": "acqua, pesca e trasporto",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "fields",
+      "target": "site",
+      "label": "cereali, cotone e bestiame",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "chanhu",
+      "target": "site",
+      "label": "beni artigianali e perle",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "harappa",
+      "target": "site",
+      "label": "standard condivisi e scambi",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "makran",
+      "target": "site",
+      "label": "conchiglie e rotte marittime",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

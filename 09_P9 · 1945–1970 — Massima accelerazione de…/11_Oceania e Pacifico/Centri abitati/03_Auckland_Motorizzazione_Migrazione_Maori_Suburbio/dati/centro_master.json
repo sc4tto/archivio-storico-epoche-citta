@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Auckland, motorizzazione, migrazione Māori e suburbio",
+    "site": "Auckland, motorizzazione, migrazione Māori e suburbio",
+    "modern_location": "Auckland, Aotearoa Nuova Zelanda",
+    "coordinates": {
+      "lat": -36.8509,
+      "lon": 174.7645
+    },
+    "scope": "Auckland fra 1945 e 1970: crescita demografica, immigrazione britannica e del Pacifico, rapida urbanizzazione Māori, fabbriche, porto, edilizia statale, sobborghi di Ōtara, Māngere e Te Atatū, motorways e centralità crescente dell’automobile; il modulo esplicita assimilazione, pepper-potting e disuguaglianze abitative.",
+    "version": "1.0",
+    "warning": "Sono esclusi i dawn raids degli anni settanta, la crisi petrolifera, il multiculturalismo istituzionale tardo, le grandi riforme amministrative e gli sviluppi successivi al 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "AK1",
+      "title": "Te Ara — City planning",
+      "use": "Scelta autostradale del 1955, congestione e pianificazione di Auckland.",
+      "url": "https://teara.govt.nz/en/city-planning/print"
+    },
+    {
+      "id": "AK2",
+      "title": "Te Ara — Ngā tāone nui: Māori and the city",
+      "use": "Migrazione urbana Māori, relocation, pepper-potting e sobborghi degli anni sessanta.",
+      "url": "https://teara.govt.nz/en/nga-taone-nui-maori-and-the-city/print"
+    },
+    {
+      "id": "AK3",
+      "title": "Heritage New Zealand — Te Kāinga Aroha",
+      "use": "Migrazione Māori e insediamento nei quartieri interni di Auckland.",
+      "url": "https://www.heritage.org.nz/list-details/9681/9681"
+    },
+    {
+      "id": "AK4",
+      "title": "Te Ara — History of immigration",
+      "use": "Migrazione delle comunità delle Cook Islands e samoane verso il lavoro urbano.",
+      "url": "https://teara.govt.nz/en/history-of-immigration/print"
+    }
+  ]
+}

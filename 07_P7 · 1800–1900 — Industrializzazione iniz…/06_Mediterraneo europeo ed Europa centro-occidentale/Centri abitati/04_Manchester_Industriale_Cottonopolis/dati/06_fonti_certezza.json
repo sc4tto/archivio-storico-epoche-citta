@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Manchester fu un grande centro mondiale dell’industria cotoniera.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "MA1; MA4; MA5"
+  },
+  {
+    "claim": "La ferrovia Liverpool–Manchester aprì nel 1830 e trasformò la logistica industriale.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "MA1; MA5"
+  },
+  {
+    "claim": "Peterloo divenne un riferimento del radicalismo e della riforma politica.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "MA2; MA3"
+  },
+  {
+    "claim": "Quartieri operai e fabbriche furono segnati da sovraffollamento, fumo e rischi sanitari.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "MA1; MA3"
+  },
+  {
+    "claim": "Il cotone lavorato dipendeva anche dalla schiavitù atlantica e dalle economie coloniali.",
+    "theme": "colonialismo",
+    "status": "documentato",
+    "source": "MA1; MA2"
+  },
+  {
+    "claim": "La municipalità ampliò acqua, gas e servizi pubblici nel corso del secolo.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "MA3"
+  },
+  {
+    "claim": "Il Manchester Ship Canal aprì nel 1894.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "MA1; MA4"
+  },
+  {
+    "claim": "Le trasformazioni successive al 1900 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "MA3"
+  }
+]

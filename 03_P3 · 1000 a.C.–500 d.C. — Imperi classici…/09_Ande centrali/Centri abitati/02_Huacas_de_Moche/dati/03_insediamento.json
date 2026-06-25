@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Prime comunità moche della valle",
+    "Costruzione iniziale delle huacas",
+    "Espansione dei quartieri urbani",
+    "Rinnovi rituali e pitture murali",
+    "Trasformazioni del V secolo"
+  ],
+  "items": [
+    {
+      "id": "moon",
+      "label": "Huaca de la Luna e piazze",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "sun",
+      "label": "Huaca del Sol e piattaforme",
+      "lane": "Monumentali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "urban",
+      "label": "Nucleo urbano fra le huacas",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "workshops",
+      "label": "Officine di ceramica e metallurgia",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "murals",
+      "label": "Pitture e rilievi policromi",
+      "lane": "Culturali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "canals",
+      "label": "Canali e campi della valle",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "burials",
+      "label": "Tombe e depositi rituali",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

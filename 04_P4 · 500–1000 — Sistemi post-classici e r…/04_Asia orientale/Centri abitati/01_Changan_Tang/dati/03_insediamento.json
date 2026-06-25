@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Fondazione di Daxing sotto i Sui",
+    "Capitale Tang iniziale",
+    "Sviluppo del Daming Palace",
+    "Apogeo dell’VIII secolo",
+    "Crisi, saccheggi e fine della capitale Tang"
+  ],
+  "items": [
+    {
+      "id": "walls",
+      "label": "Mura e griglia dei quartieri",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "taiji",
+      "label": "Palazzo Taiji e città imperiale",
+      "lane": "Politiche",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "daming",
+      "label": "Daming Palace",
+      "lane": "Politiche",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "markets",
+      "label": "Mercati orientale e occidentale",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "temples",
+      "label": "Templi buddhisti, daoisti e culti stranieri",
+      "lane": "Religiose",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "canals",
+      "label": "Canali, granai e vie postali",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "wars",
+      "label": "Ribellioni, saccheggi e contrazione",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

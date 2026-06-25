@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Sydney, immigrazione, suburbio ed edilizia pubblica",
+    "site": "Sydney, immigrazione, suburbio ed edilizia pubblica",
+    "modern_location": "Sydney, Nuovo Galles del Sud, Australia",
+    "coordinates": {
+      "lat": -33.8688,
+      "lon": 151.2093
+    },
+    "scope": "Sydney fra 1945 e 1970: immigrazione assistita e profughi europei, porto e industria, baby boom, edilizia pubblica, modernismo, espansione suburbana, motorizzazione e grandi infrastrutture; il modulo include la persistenza della White Australia policy e le lotte aborigene culminate nella Freedom Ride e nel referendum del 1967.",
+    "version": "1.0",
+    "warning": "Sono esclusi l’apertura della Sydney Opera House nel 1973, le trasformazioni della global city dagli anni ottanta, la gentrificazione avanzata e gli sviluppi successivi al 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SY1",
+      "title": "City of Sydney — Modern Movement Architecture in Central Sydney Heritage Study",
+      "use": "Modernismo, edilizia pubblica e costruzioni del centro negli anni cinquanta e sessanta.",
+      "url": "https://www.cityofsydney.nsw.gov.au/-/media/corporate/files/2020-07-migrated/files_m/modern-movement-architecture-in-central-sydney-heritage-study.pdf?download=true"
+    },
+    {
+      "id": "SY2",
+      "title": "City of Sydney Archives — Public housing",
+      "use": "Programmi comunali di edilizia pubblica nel dopoguerra.",
+      "url": "https://archives.cityofsydney.nsw.gov.au/nodes/view/62727"
+    },
+    {
+      "id": "SY3",
+      "title": "National Archives of Australia — Populate or perish",
+      "use": "Programma migratorio postbellico, lavoro e crescita demografica.",
+      "url": "https://www.naa.gov.au/learn/learning-resources/learning-resource-themes/society-and-culture/migration-and-multiculturalism/populate-or-perish-australias-postwar-migration-program"
+    },
+    {
+      "id": "SY4",
+      "title": "AIATSIS — 1965 Freedom Ride e referendum del 1967",
+      "use": "Razzismo, attivismo aborigeno e cambiamento costituzionale.",
+      "url": "https://aiatsis.gov.au/explore/1965-freedom-ride"
+    }
+  ]
+}

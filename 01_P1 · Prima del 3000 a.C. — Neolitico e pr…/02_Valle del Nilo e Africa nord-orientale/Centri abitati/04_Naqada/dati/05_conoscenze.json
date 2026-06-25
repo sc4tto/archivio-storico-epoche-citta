@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Naqada",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Ambiente",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Cicli del Nilo",
+          "status": "inferito"
+        },
+        {
+          "id": "k1_2",
+          "label": "Percorsi dei wadi",
+          "status": "sintesi"
+        },
+        {
+          "id": "k1_3",
+          "label": "Risorse del deserto orientale",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Cereali e lino",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_2",
+          "label": "Allevamento",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_3",
+          "label": "Gestione dei surplus",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Ceramica dipinta",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Lame bifacciali",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Vasi di pietra",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Metallurgia",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Rame",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Oro",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Catene di approvvigionamento",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Trasporto e scambio",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Navigazione sul Nilo",
+          "status": "inferito"
+        },
+        {
+          "id": "k5_2",
+          "label": "Carovane nei wadi",
+          "status": "inferito"
+        },
+        {
+          "id": "k5_3",
+          "label": "Standardizzazione di beni",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Organizzazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Gestione delle necropoli",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Differenziazione sociale",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_3",
+          "label": "Coordinamento regionale",
+          "status": "inferito"
+        }
+      ]
+    }
+  ]
+}

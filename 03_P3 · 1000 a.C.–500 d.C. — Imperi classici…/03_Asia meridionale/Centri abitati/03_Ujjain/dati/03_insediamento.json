@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Formazione urbana di Avanti",
+    "Fase maurya e post-maurya",
+    "Monetazione e commerci regionali",
+    "Saka e Satavahana",
+    "Fase Gupta"
+  ],
+  "items": [
+    {
+      "id": "rampart",
+      "label": "Terrapieno e fossato urbano",
+      "lane": "Difensive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Case in mattoni e quartieri",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "markets",
+      "label": "Mercati e botteghe",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "coins",
+      "label": "Monetazione e circolazione",
+      "lane": "Amministrative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "routes",
+      "label": "Vie verso Bharuch, Vidisha e Deccan",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "shrines",
+      "label": "Santuari e pratiche religiose",
+      "lane": "Religiose",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "astronomy",
+      "label": "Tradizioni calendriche e astronomiche",
+      "lane": "Conoscenze",
+      "start": 2,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Città del Guatemala, Transmetro, informalità, rischio e memoria",
+    "site": "Città del Guatemala, Transmetro, informalità, rischio e memoria",
+    "modern_location": "Città del Guatemala, Guatemala",
+    "coordinates": {
+      "lat": 14.6349,
+      "lon": -90.5069
+    },
+    "scope": "Città del Guatemala dal 1970 al 25 giugno 2026: terremoto del 1976, conflitto armato interno e repressione statale, pace del 1996, espansione della regione metropolitana e della Mancomunidad del Sur, crescita dei servizi, Transmetro dal 2007, insediamenti informali su pendii e barrancos, disuguaglianze, violenza, frane, alluvioni e programmi di resilienza urbana.",
+    "version": "1.0",
+    "warning": "I piani di mobilità e il Guatemala Urban Resilience Project comprendono opere e obiettivi successivi al 25 giugno 2026, registrati come progetti futuri."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "GT1",
+      "title": "Municipalidad de Guatemala — 16 anni di Transmetro",
+      "use": "Avvio del BRT nel 2007, servizio e sviluppo della rete.",
+      "url": "https://www.muniguate.com/blog/2023/02/09/transmetro-llega-a-sus-16-anos-de-servicio/"
+    },
+    {
+      "id": "GT2",
+      "title": "Municipalidad de Guatemala — Plan Maestro de Movilidad",
+      "use": "Storia del trasporto urbano, integrazione modale e pianificazione della mobilità.",
+      "url": "https://www.muniguate.com/archivos/aerometro/documentacion/2020/8_Plan_Maestro_de_Movilidad_Preliminar_octubre2020.pdf"
+    },
+    {
+      "id": "GT3",
+      "title": "World Bank — Guatemala Urban Resilience Project",
+      "use": "Urbanizzazione non pianificata, servizi di base, informalità e rischio climatico.",
+      "url": "https://documents1.worldbank.org/curated/en/099750201112325455/pdf/P179462068bb2c0440876304fb7db765271.pdf"
+    },
+    {
+      "id": "GT4",
+      "title": "United Nations — Guatemala: Memory of Silence",
+      "use": "Conflitto armato interno, violazioni dei diritti umani e memoria storica.",
+      "url": "https://press.un.org/en/1999/19990301.guate.brf.html"
+    }
+  ]
+}

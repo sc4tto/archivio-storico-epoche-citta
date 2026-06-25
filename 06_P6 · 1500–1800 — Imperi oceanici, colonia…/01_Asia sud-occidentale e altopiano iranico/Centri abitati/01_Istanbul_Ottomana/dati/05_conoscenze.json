@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Istanbul ottomana",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Architettura imperiale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Cupole e grandi complessi",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Progettazione sinaniana",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Approvvigionamento",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Politiche annonarie",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Mercati e dogane",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Idraulica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Acquedotti e fontane",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Cisterne e distribuzione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Ceramica, tessili e metalli",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Corporazioni e botteghe",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Governance",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Palazzo e amministrazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Waqf e servizi urbani",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

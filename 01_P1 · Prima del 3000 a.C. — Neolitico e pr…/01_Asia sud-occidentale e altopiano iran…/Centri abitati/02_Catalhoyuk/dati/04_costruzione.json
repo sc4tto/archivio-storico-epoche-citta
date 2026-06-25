@@ -1,0 +1,186 @@
+{
+  "nodes": [
+    {
+      "id": "earth",
+      "label": "Terra e argilla",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "timber",
+      "label": "Legname",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "reeds",
+      "label": "Canne e fibre vegetali",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "lime",
+      "label": "Calce e intonaci",
+      "layer": 0,
+      "status": "sintesi"
+    },
+    {
+      "id": "brickmake",
+      "label": "Preparazione di mattoni crudi",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "carpentry",
+      "label": "Taglio e posa del legname",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "plastering",
+      "label": "Stesura e rinnovo degli intonaci",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "firing",
+      "label": "Costruzione e uso di focolari/forni",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "mudbrick",
+      "label": "Murature in mattoni crudi",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "roof",
+      "label": "Coperture piane e aperture sul tetto",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "platform",
+      "label": "Piattaforme e pavimenti intonacati",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ovencomp",
+      "label": "Focolari e forni",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "cluster",
+      "label": "Case addossate",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "interior",
+      "label": "Interni ordinati per attività",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "rooftop",
+      "label": "Tetti come percorsi e aree di lavoro",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "renewal",
+      "label": "Cicli di ricostruzione del tell",
+      "layer": 3,
+      "status": "documentato"
+    }
+  ],
+  "edges": [
+    {
+      "source": "earth",
+      "target": "brickmake",
+      "label": "materia prima",
+      "status": "documentato"
+    },
+    {
+      "source": "timber",
+      "target": "carpentry",
+      "label": "materia prima",
+      "status": "documentato"
+    },
+    {
+      "source": "lime",
+      "target": "plastering",
+      "label": "materia prima",
+      "status": "documentato"
+    },
+    {
+      "source": "earth",
+      "target": "firing",
+      "label": "terra refrattaria",
+      "status": "sintesi"
+    },
+    {
+      "source": "brickmake",
+      "target": "mudbrick",
+      "label": "produce",
+      "status": "documentato"
+    },
+    {
+      "source": "carpentry",
+      "target": "roof",
+      "label": "produce",
+      "status": "documentato"
+    },
+    {
+      "source": "reeds",
+      "target": "roof",
+      "label": "integra",
+      "status": "sintesi"
+    },
+    {
+      "source": "plastering",
+      "target": "platform",
+      "label": "produce",
+      "status": "documentato"
+    },
+    {
+      "source": "firing",
+      "target": "ovencomp",
+      "label": "produce",
+      "status": "documentato"
+    },
+    {
+      "source": "mudbrick",
+      "target": "cluster",
+      "label": "costituisce",
+      "status": "documentato"
+    },
+    {
+      "source": "roof",
+      "target": "rooftop",
+      "label": "rende praticabile",
+      "status": "documentato"
+    },
+    {
+      "source": "platform",
+      "target": "interior",
+      "label": "organizza",
+      "status": "documentato"
+    },
+    {
+      "source": "ovencomp",
+      "target": "interior",
+      "label": "attività domestiche",
+      "status": "documentato"
+    },
+    {
+      "source": "mudbrick",
+      "target": "renewal",
+      "label": "richiede manutenzione",
+      "status": "inferito"
+    }
+  ]
+}

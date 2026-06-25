@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Micene",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Agricoltura e ambiente",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Cereali, vite e olivo",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Gestione di greggi e mandrie",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Rischi climatici e sismici",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Artigianato e metalli",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Ceramica specializzata",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Bronzo e materie prime importate",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Tessili e profumi",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Sigilli, pesi e registri",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Segni e sigilli",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Registri amministrativi",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Alfabetizzazione diffusa",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Navigazione e scambi",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Rotte egee",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Porti e approdi",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Reti con Levante ed Egitto",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Rituali e morti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Santuari e offerte",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Tombe e memoria dinastica",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Interpretazione delle divinità",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Palazzo, élite e territorio",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Coordinamento palaziale",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Gerarchie sociali",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_3",
+          "label": "Stato territoriale uniforme",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

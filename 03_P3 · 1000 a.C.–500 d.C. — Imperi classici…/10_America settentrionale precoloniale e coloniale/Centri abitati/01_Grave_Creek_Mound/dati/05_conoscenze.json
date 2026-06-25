@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Grave Creek Mound",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Ingegneria della terra",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Trasporto in ceste",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Fossato perimetrale",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Funzione difensiva",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Riti funerari",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Sepolture multiple",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Corredi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Identità dei defunti",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Abitati Adena",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Case circolari",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Coltivazione di piante",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Capitale territoriale",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Materiali",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Rame",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Mica",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Pietra lavorata",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Cronologia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "250–150 a.C. circa",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Fasi successive",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Data esatta di ogni sepoltura",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Conservazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Scavi del 1838",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Indagini professionali",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Grave Creek Stone autentico",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

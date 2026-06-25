@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Baghdad abbaside e ilkhanide",
+    "site": "Baghdad medievale",
+    "modern_location": "Baghdad, Iraq",
+    "coordinates": {
+      "lat": 33.3152,
+      "lon": 44.3661
+    },
+    "scope": "Baghdad fra 1000 e 1500: califfato abbaside sotto tutela buyide e selgiuchide, mercati e madrase, distruzione del 1258, ricostruzione ilkhanide e nuove conquiste timuridi.",
+    "version": "1.0",
+    "warning": "La topografia della Baghdad circolare dell’VIII secolo non coincide con la città medievale pienamente sviluppata sulle due rive. Le perdite dovute alle conquiste e alle trasformazioni del Tigri rendono molte ricostruzioni urbanistiche schematiche."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "BA1",
+      "title": "Encyclopaedia Britannica — Baghdad",
+      "use": "Storia urbana, califfato, conquista mongola e fasi successive.",
+      "url": "https://www.britannica.com/place/Baghdad"
+    },
+    {
+      "id": "BA2",
+      "title": "The Metropolitan Museum of Art — The Art of the Abbasid Period",
+      "use": "Contesto artistico e materiale dell’età abbaside fino al 1258.",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258"
+    },
+    {
+      "id": "BA3",
+      "title": "Encyclopaedia Iranica — Baghdad",
+      "use": "Storia politica e culturale della città nel mondo iranico e islamico.",
+      "url": "https://iranicaonline.org/articles/baghdad-iranian-connection-1-pr-Mongol"
+    },
+    {
+      "id": "BA4",
+      "title": "Archnet — Baghdad",
+      "use": "Architettura islamica, madrase, moschee e patrimonio urbano.",
+      "url": "https://www.archnet.org/collections/11"
+    },
+    {
+      "id": "BA5",
+      "title": "UNESCO — The Abbasid Caliphate",
+      "use": "Quadro storico delle reti culturali e scientifiche abbasidi.",
+      "url": "https://en.unesco.org/silkroad/knowledge-bank/abbasid-caliphate"
+    }
+  ]
+}

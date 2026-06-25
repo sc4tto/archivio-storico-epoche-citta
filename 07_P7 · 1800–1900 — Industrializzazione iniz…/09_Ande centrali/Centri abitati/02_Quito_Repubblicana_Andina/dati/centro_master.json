@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Quito repubblicana e andina",
+    "site": "Quito repubblicana e andina",
+    "modern_location": "Quito, Ecuador",
+    "coordinates": {
+      "lat": -0.1807,
+      "lon": -78.4678
+    },
+    "scope": "Quito fra 1800 e 1900: indipendenza, battaglia di Pichincha, formazione della repubblica, governo conservatore e rivoluzione liberale, mercati, arti, telegrapho, strade e prime opere moderne.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. La ferrovia Quito–Guayaquil completata nel 1908, l’espansione novecentesca e la metropoli contemporanea sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "QU1",
+      "title": "UNESCO — City of Quito",
+      "use": "Centro storico, architettura e paesaggio andino.",
+      "url": "https://whc.unesco.org/en/list/2/"
+    },
+    {
+      "id": "QU2",
+      "title": "Encyclopaedia Britannica — Quito",
+      "use": "Storia politica e geografica della capitale.",
+      "url": "https://www.britannica.com/place/Quito"
+    },
+    {
+      "id": "QU3",
+      "title": "Instituto Metropolitano de Patrimonio de Quito",
+      "use": "Patrimonio urbano e conservazione.",
+      "url": "https://www.patrimonio.quito.gob.ec/"
+    },
+    {
+      "id": "QU4",
+      "title": "Archivo Nacional del Ecuador",
+      "use": "Fonti repubblicane, amministrazione e cartografia.",
+      "url": "https://www.culturaypatrimonio.gob.ec/archivo-nacional-del-ecuador/"
+    },
+    {
+      "id": "QU5",
+      "title": "Biblioteca Nacional Eugenio Espejo",
+      "use": "Stampa, cultura e storia dell’Ecuador.",
+      "url": "https://www.bne.gob.ec/"
+    }
+  ]
+}

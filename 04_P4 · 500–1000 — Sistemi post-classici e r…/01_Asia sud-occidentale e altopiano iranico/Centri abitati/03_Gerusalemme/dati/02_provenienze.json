@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Gerusalemme",
+      "lat": 31.778,
+      "lon": 35.235,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "springs",
+      "label": "Sorgente di Gihon e cisterne",
+      "lat": 31.773,
+      "lon": 35.236,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "jericho",
+      "label": "Gerico e valle del Giordano",
+      "lat": 31.87,
+      "lon": 35.44,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "damascus",
+      "label": "Damasco",
+      "lat": 33.51,
+      "lon": 36.28,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "cairo",
+      "label": "Egitto e Fustat",
+      "lat": 30.0,
+      "lon": 31.23,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "mecca",
+      "label": "Mecca e Hijaz",
+      "lat": 21.42,
+      "lon": 39.83,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "springs",
+      "target": "site",
+      "label": "acqua e approvvigionamento",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "jericho",
+      "target": "site",
+      "label": "prodotti agricoli della valle",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "damascus",
+      "target": "site",
+      "label": "amministrazione, pellegrini e merci",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "cairo",
+      "target": "site",
+      "label": "pellegrinaggi e reti fiscali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "mecca",
+      "target": "site",
+      "label": "pellegrinaggio e connessioni islamiche",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

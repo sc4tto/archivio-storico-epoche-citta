@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Aksum",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Monetazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Oro, argento e rame",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Legende regali",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Circolazione",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Stele",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Estrazione dei monoliti",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Decorazione architettonica",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Tecniche di erezione",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Scritture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Ge’ez",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Greco",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Sabeo",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Adulis",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Mar Rosso",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Avorio",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Religioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Culti precristiani",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Cristianesimo",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Continuità rituali",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Politica",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Titolatura regale",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Diplomazia",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_3",
+          "label": "Confini stabili",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Caral-Supe — modulo multi-grafo",
+    "short_name": "Caral-Supe",
+    "site": "Città sacra di Caral-Supe",
+    "modern_location": "Media valle del Supe, provincia di Barranca, Perù",
+    "coordinates": {
+      "lat": -10.89,
+      "lon": -77.52
+    },
+    "scope": "Centro monumentale del Tardo Arcaico delle Ande centrali, con grandi piattaforme, corti circolari incassate, residenze, piazze e reti economiche fra costa, valle e territori interni.",
+    "version": "1.0-blocco_10_p1_ande_centrali_5_centri_v1",
+    "warning": "Il sito si colloca soprattutto fra circa 3000 e 1800 a.C.; nel periodo P1 rappresenta quindi la transizione finale. Interpretazioni su Stato, quipu e funzioni di singoli edifici richiedono cautela cronologica."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "CARAL_UNESCO",
+      "title": "UNESCO — Sacred City of Caral-Supe",
+      "url": "https://whc.unesco.org/en/list/1269/",
+      "use": "cronologia, urbanistica, architettura e valore del sito"
+    },
+    {
+      "id": "CARAL_SCIENCE",
+      "title": "Shady Solís, Haas e Creamer — Dating Caral, a Preceramic Site in the Supe Valley",
+      "url": "https://doi.org/10.1126/science.1059519",
+      "use": "datazioni e collocazione nel Tardo Arcaico"
+    },
+    {
+      "id": "NORTE_CHICO_NATURE",
+      "title": "Haas, Creamer e Ruiz — Dating the Late Archaic occupation of the Norte Chico region in Peru",
+      "url": "https://doi.org/10.1038/nature03146",
+      "use": "cronologia regionale e rete di insediamenti monumentali"
+    }
+  ]
+}

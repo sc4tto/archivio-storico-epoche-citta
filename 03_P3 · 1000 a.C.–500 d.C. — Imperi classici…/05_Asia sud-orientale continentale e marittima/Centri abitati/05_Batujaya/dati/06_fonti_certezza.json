@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Batujaya comprende numerosi tumuli e strutture in mattoni",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "BATU_BPCB"
+  },
+  {
+    "claim": "Candi Jiwa e Blandongan sono edifici rituali buddhisti",
+    "theme": "Religione",
+    "status": "documentato",
+    "source": "BATU_BPCB"
+  },
+  {
+    "claim": "Il sito occupa una pianura costiera legata a vie d’acqua",
+    "theme": "Ambiente",
+    "status": "documentato",
+    "source": "BATU_MUNJANA"
+  },
+  {
+    "claim": "Ogni edificio è datato con certezza al II secolo d.C.",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Datazioni differenziate e dibattute"
+  },
+  {
+    "claim": "Batujaya fu certamente la capitale di Tarumanagara",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Rapporto regionale non equivale a identificazione della capitale"
+  },
+  {
+    "claim": "Le tavolette votive attestano pratiche buddhiste",
+    "theme": "Religione",
+    "status": "documentato",
+    "source": "BATU_BPCB"
+  },
+  {
+    "claim": "La presenza di stili indiani prova colonizzazione politica",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Adozione religiosa e scambio non equivalgono a colonizzazione"
+  },
+  {
+    "claim": "Il paesaggio antico era una singola città compatta",
+    "theme": "Urbanistica",
+    "status": "non_documentato",
+    "source": "Complesso policentrico di tumuli e aree insediate"
+  }
+]

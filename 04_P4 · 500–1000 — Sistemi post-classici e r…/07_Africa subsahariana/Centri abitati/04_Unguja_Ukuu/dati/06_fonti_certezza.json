@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Unguja Ukuu era occupata almeno dal VI secolo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "U1; U2"
+  },
+  {
+    "claim": "Il sito partecipava a reti costiere e oceaniche prima del 1000.",
+    "theme": "commercio",
+    "status": "documentato",
+    "source": "U1; U3"
+  },
+  {
+    "claim": "Ceramiche, vetro, monete e perline attestano contatti con Golfo Persico, India e Mediterraneo.",
+    "theme": "commercio",
+    "status": "documentato",
+    "source": "U1; U3"
+  },
+  {
+    "claim": "Pesca, allevamento e agricoltura contribuivano insieme alla sussistenza.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "U1"
+  },
+  {
+    "claim": "Le prime abitazioni erano in gran parte costruite con materiali deperibili.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "U1; U2"
+  },
+  {
+    "claim": "Pozzi e accesso al creek erano essenziali alla permanenza del centro.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "U1"
+  },
+  {
+    "claim": "La presenza di oggetti islamici indica contatti e pratiche, non una conversione uniforme immediata.",
+    "theme": "religione",
+    "status": "sintesi",
+    "source": "U1; U2"
+  },
+  {
+    "claim": "Il carattere urbano dell’insediamento si formò gradualmente attraverso densità, scambio e specializzazione.",
+    "theme": "urbanistica",
+    "status": "sintesi",
+    "source": "U1; U2"
+  }
+]

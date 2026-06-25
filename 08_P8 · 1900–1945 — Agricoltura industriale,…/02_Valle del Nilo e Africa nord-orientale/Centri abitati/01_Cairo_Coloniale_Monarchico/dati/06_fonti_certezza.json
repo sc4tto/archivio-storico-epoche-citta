@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Cairo rimase il principale centro politico e amministrativo dell’Egitto.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "CA2; CA3"
+  },
+  {
+    "claim": "L’occupazione britannica proseguì nel primo Novecento.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "CA2; CA3"
+  },
+  {
+    "claim": "La rivoluzione del 1919 ebbe una forte dimensione urbana.",
+    "theme": "conflitti",
+    "status": "documentato",
+    "source": "CA2; CA4"
+  },
+  {
+    "claim": "Tram e ferrovie sostennero l’espansione dei quartieri moderni.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "CA3; CA4"
+  },
+  {
+    "claim": "Il patrimonio islamico continuò a strutturare il centro storico.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "CA1"
+  },
+  {
+    "claim": "Università, stampa e ospedali ampliarono le funzioni metropolitane.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "CA3; CA4"
+  },
+  {
+    "claim": "Epidemie e disuguaglianze segnarono la crescita urbana.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "CA3; CA4"
+  },
+  {
+    "claim": "La rivoluzione del 1952 è esclusa.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "CA3"
+  }
+]

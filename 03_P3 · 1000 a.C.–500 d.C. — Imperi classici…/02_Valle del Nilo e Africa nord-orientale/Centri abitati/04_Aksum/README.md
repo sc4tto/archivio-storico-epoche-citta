@@ -1,7 +1,9 @@
 # Aksum
 
-- **Epoca:** P3 · 1000 a.C.–500 d.C. — Imperi classici e reti continentali
-- **Macroregione:** Valle del Nilo e Africa nord-orientale
-- **Voce di origine:** Alessandria, Tebe, Meroe, Aksum.
+Modulo del Blocco 27, generato da sette JSON nella cartella `dati`.
 
-Questa cartella può contenere mappe, immagini, testi, fonti e appunti relativi al centro abitato o sistema d'insediamento indicato.
+- `APRI_CENTRO.bat`: apre il modulo.
+- `RIGENERA_CENTRO.bat`: rigenera le pagine.
+- `VERIFICA_CENTRO.bat`: controlla JSON, collegamenti e grafi.
+
+Descrizione: Centro politico e monumentale del regno aksumita, con campi di stele, tombe reali, palazzi, iscrizioni plurilingui, monetazione e reti commerciali collegate al porto di Adulis..

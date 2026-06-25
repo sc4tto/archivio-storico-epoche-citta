@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Dal IV secolo Roma divenne il principale centro simbolico del cristianesimo occidentale.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "R1; R4"
+  },
+  {
+    "claim": "Fra VI e X secolo la città riutilizzò estesamente edifici, spazi e materiali antichi.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "R1; R3"
+  },
+  {
+    "claim": "Basiliche, monasteri e diaconie formarono una rete religiosa e assistenziale.",
+    "theme": "istituzioni",
+    "status": "documentato",
+    "source": "R3; R4"
+  },
+  {
+    "claim": "I patrimoni rurali ecclesiastici contribuirono al rifornimento della città.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "R3"
+  },
+  {
+    "claim": "La popolazione si concentrò in poli abitati separati da aree poco dense, orti e rovine.",
+    "theme": "demografia",
+    "status": "sintesi",
+    "source": "R2; R3"
+  },
+  {
+    "claim": "Il Tevere rimase essenziale per trasporto, mulini e collegamenti con la costa.",
+    "theme": "infrastrutture",
+    "status": "sintesi",
+    "source": "R3"
+  },
+  {
+    "claim": "La coronazione di Carlo Magno nell’800 rafforzò il ruolo politico della città.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "R2; R4"
+  },
+  {
+    "claim": "Le mura leonine furono costruite nel IX secolo per proteggere il settore vaticano.",
+    "theme": "difesa",
+    "status": "documentato",
+    "source": "R2; R3"
+  }
+]

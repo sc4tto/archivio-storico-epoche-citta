@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_45_P4_Ande_Centrali_5_Centri_v1",
+  "macroregion": "Ande centrali",
+  "centers": [
+    "01_Wari_Capitale",
+    "02_Tiwanaku_Centro_Spirituale",
+    "03_Pachacamac_Wari",
+    "04_Cerro_Baul_Enclave_Wari",
+    "05_Chan_Chan_Iniziale"
+  ],
+  "uses_central_assets": true
+}

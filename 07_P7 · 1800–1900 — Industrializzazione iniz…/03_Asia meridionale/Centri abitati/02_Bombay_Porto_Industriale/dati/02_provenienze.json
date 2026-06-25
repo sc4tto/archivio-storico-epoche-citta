@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Bombay",
+      "lat": 18.9388,
+      "lon": 72.8354,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "kon",
+      "label": "Konkan e isole costiere",
+      "lat": 18.5,
+      "lon": 73.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "dec",
+      "label": "Deccan occidentale",
+      "lat": 19.0,
+      "lon": 75.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "guj",
+      "label": "Gujarat e Kathiawar",
+      "lat": 22.5,
+      "lon": 72.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "cot",
+      "label": "Berar e distretti cotonieri",
+      "lat": 20.8,
+      "lon": 77.7,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "mal",
+      "label": "Malabar, Arabia e Golfo Persico",
+      "lat": 15.0,
+      "lon": 70.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "eur",
+      "label": "Europa, Africa orientale e Cina",
+      "lat": 5.0,
+      "lon": 50.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "kon",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione costiera e strade",
+      "food": "riso, pesce, cocco, sale e manodopera"
+    },
+    {
+      "source": "dec",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "passi del Ghati e ferrovia",
+      "food": "miglio, grano, bestiame e prodotti agricoli"
+    },
+    {
+      "source": "guj",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e navigazione costiera",
+      "food": "cotone, cereali, mercanti e capitale"
+    },
+    {
+      "source": "cot",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Great Indian Peninsula Railway",
+      "food": "cotone grezzo per esportazione e filature"
+    },
+    {
+      "source": "mal",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte dell’Oceano Indiano",
+      "food": "spezie, caffè, datteri e merci regionali"
+    },
+    {
+      "source": "eur",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "docks e navigazione a vapore",
+      "food": "macchinari, tessili, carbone e merci globali"
+    }
+  ]
+}

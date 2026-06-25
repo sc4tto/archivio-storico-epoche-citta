@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Dholavira fu occupata per circa un millennio e mezzo fra III e II millennio a.C.",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "DHOLAVIRA_UNESCO"
+  },
+  {
+    "claim": "La città comprendeva castello, bailey, città media e città bassa",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "DHOLAVIRA_UNESCO"
+  },
+  {
+    "claim": "Serbatoi e sistemi di drenaggio gestivano acqua stagionale scarsa",
+    "theme": "Acqua",
+    "status": "documentato",
+    "source": "DHOLAVIRA_UNESCO"
+  },
+  {
+    "claim": "Sono documentati laboratori di produzione di perle e scambi interregionali",
+    "theme": "Artigianato",
+    "status": "documentato",
+    "source": "DHOLAVIRA_UNESCO"
+  },
+  {
+    "claim": "Il cimitero comprende diversi tipi di cenotafi",
+    "theme": "Funerario",
+    "status": "documentato",
+    "source": "DHOLAVIRA_UNESCO"
+  },
+  {
+    "claim": "La grande iscrizione permette di leggere la lingua harappana",
+    "theme": "Scrittura",
+    "status": "non_documentato",
+    "source": "Scrittura ancora non decifrata"
+  },
+  {
+    "claim": "Ogni cenotafio conteneva una sepoltura corporea",
+    "theme": "Funerario",
+    "status": "non_documentato",
+    "source": "Molti monumenti erano commemorativi"
+  },
+  {
+    "claim": "Il declino fu causato esclusivamente da una siccità singola",
+    "theme": "Declino",
+    "status": "non_documentato",
+    "source": "Sequenza complessa e pluricausale"
+  }
+]

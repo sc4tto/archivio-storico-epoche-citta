@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Coxcatlán Cave",
+      "lat": 18.21,
+      "lon": -97.15,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "valley",
+      "label": "Valle di Tehuacán",
+      "lat": 18.25,
+      "lon": -97.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "terraces",
+      "label": "Terrazzi e macchia spinosa",
+      "lat": 18.18,
+      "lon": -97.12,
+      "status": "sintesi",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "sanmarcos",
+      "label": "Cueva San Marcos",
+      "lat": 18.3,
+      "lon": -97.25,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "elriego",
+      "label": "El Riego e altre grotte",
+      "lat": 18.4,
+      "lon": -97.3,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "balsas",
+      "label": "Reti fra Tehuacán e Balsas",
+      "lat": 18.0,
+      "lon": -98.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "valley",
+      "target": "site",
+      "label": "piante, acqua e terreni",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "terraces",
+      "target": "site",
+      "label": "caccia e raccolta",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "sanmarcos",
+      "target": "site",
+      "label": "confronti di mais e cronologia",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "elriego",
+      "target": "site",
+      "label": "mobilità stagionale fra ripari",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "balsas",
+      "target": "site",
+      "label": "diffusione di piante domestiche",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

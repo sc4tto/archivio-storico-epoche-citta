@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Mayapán",
+      "lat": 20.629,
+      "lon": -89.46,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "mani",
+      "label": "Maní",
+      "lat": 20.39,
+      "lon": -89.39,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "sot",
+      "label": "Sotuta",
+      "lat": 20.6,
+      "lon": -89.01,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "mer",
+      "label": "Costa di Mérida-Sisal",
+      "lat": 21.16,
+      "lon": -90.03,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "chi",
+      "label": "Chichén Itzá",
+      "lat": 20.684,
+      "lon": -88.568,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "cam",
+      "label": "Campeche",
+      "lat": 19.85,
+      "lon": -90.53,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "tab",
+      "label": "Tabasco e Golfo",
+      "lat": 17.98,
+      "lon": -92.93,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "mani",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade regionali",
+      "food": "mais, ceramiche e tessuti"
+    },
+    {
+      "source": "sot",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti dell’interno",
+      "food": "derrate e manodopera"
+    },
+    {
+      "source": "mer",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte verso la costa",
+      "food": "sale, pesce e cotone"
+    },
+    {
+      "source": "chi",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "continuità e competizione regionale",
+      "food": "pellegrini e tradizioni"
+    },
+    {
+      "source": "cam",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "scambi occidentali",
+      "food": "sale, ceramiche e prodotti marini"
+    },
+    {
+      "source": "tab",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte del Golfo",
+      "food": "cacao, ossidiana e materiali tropicali"
+    }
+  ]
+}

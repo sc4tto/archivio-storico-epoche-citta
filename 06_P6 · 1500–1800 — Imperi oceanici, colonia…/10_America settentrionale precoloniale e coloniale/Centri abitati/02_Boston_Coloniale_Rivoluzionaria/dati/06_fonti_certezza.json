@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Boston fu fondata nel 1630 e divenne un grande porto del New England.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "BO1; BO2"
+  },
+  {
+    "claim": "Pesca, cantieristica e commercio atlantico sostennero l’economia urbana.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "BO2; BO3"
+  },
+  {
+    "claim": "Case di riunione e istituzioni civiche ebbero un ruolo centrale.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "BO1; BO3"
+  },
+  {
+    "claim": "La città fu un centro decisivo della mobilitazione rivoluzionaria.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "BO1; BO2"
+  },
+  {
+    "claim": "Schiavitù e commercio coloniale furono componenti della società e dell’economia.",
+    "theme": "coercizione",
+    "status": "documentato",
+    "source": "BO3; BO4"
+  },
+  {
+    "claim": "La crescita coloniale avvenne sui territori Massachusett e produsse espropriazione e conflitto.",
+    "theme": "coercizione",
+    "status": "documentato",
+    "source": "BO3; BO5"
+  },
+  {
+    "claim": "Incendi e densità edilizia favorirono l’uso crescente del mattone.",
+    "theme": "tecniche",
+    "status": "documentato",
+    "source": "BO1; BO5"
+  },
+  {
+    "claim": "Le grandi trasformazioni ottocentesche sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "BO2"
+  }
+]

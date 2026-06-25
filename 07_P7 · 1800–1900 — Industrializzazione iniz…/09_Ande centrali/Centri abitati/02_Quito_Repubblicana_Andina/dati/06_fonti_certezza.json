@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Quito divenne capitale dell’Ecuador indipendente nel 1830.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "QU1; QU2"
+  },
+  {
+    "claim": "Il centro storico conservò una fitta concentrazione di chiese, conventi e case a patio.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "QU1; QU3"
+  },
+  {
+    "claim": "La geografia andina rese difficili i collegamenti con Guayaquil e la costa.",
+    "theme": "territorio",
+    "status": "documentato",
+    "source": "QU2; QU4"
+  },
+  {
+    "claim": "Terremoti ricorrenti richiesero riparazioni e ricostruzioni.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "QU1; QU3"
+  },
+  {
+    "claim": "Mercati e produzioni indigene sostennero l’approvvigionamento urbano.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "QU3; QU4"
+  },
+  {
+    "claim": "Il lavoro dipendente nelle haciendas e le gerarchie etniche produssero forti disuguaglianze.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "QU4; QU5"
+  },
+  {
+    "claim": "La rivoluzione liberale del 1895 avviò nuove riforme statali.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "QU2; QU5"
+  },
+  {
+    "claim": "La ferrovia completata nel 1908 è esclusa.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "QU2"
+  }
+]

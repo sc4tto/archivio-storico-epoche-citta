@@ -1,0 +1,216 @@
+{
+  "nodes": [
+    {
+      "id": "t_high",
+      "label": "Altopiani coltivati del Tigray",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_valley",
+      "label": "Valli e terrazzi agricoli",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_redsea",
+      "label": "Corridoio verso Adulis e Mar Rosso",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "r_grain",
+      "label": "Teff, frumento, orzo e legumi",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_livestock",
+      "label": "Bovini, ovini e caprini",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_wine",
+      "label": "Vite, birra e miele",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "r_imports",
+      "label": "Sale e prodotti marittimi",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "a_terrace",
+      "label": "Agricoltura pluviale e terrazzata",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_herd",
+      "label": "Allevamento e pascolo",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_estate",
+      "label": "Rendite di tenute e tributi",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "a_trade",
+      "label": "Scambio lungo le vie del Mar Rosso",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "x_grind",
+      "label": "Macinazione, fermentazione e cottura",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x_dairy",
+      "label": "Lavorazione di latte e carne",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "x_store",
+      "label": "Granai, giare e magazzini",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "p_daily",
+      "label": "Pane, focacce e stufati",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_court",
+      "label": "Vitto di corte e comunità religiose",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_reserve",
+      "label": "Scorte per stagioni secche",
+      "layer": 4,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "t_high",
+      "target": "r_grain",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "t_valley",
+      "target": "r_livestock",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "t_redsea",
+      "target": "r_wine",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "t_high",
+      "target": "r_imports",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "r_grain",
+      "target": "a_terrace",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_livestock",
+      "target": "a_herd",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_wine",
+      "target": "a_estate",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "r_imports",
+      "target": "a_trade",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "a_terrace",
+      "target": "x_grind",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "a_herd",
+      "target": "x_dairy",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "a_estate",
+      "target": "x_store",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "a_trade",
+      "target": "x_grind",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "x_grind",
+      "target": "p_daily",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "x_dairy",
+      "target": "p_court",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "x_store",
+      "target": "p_reserve",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_imports",
+      "target": "a_terrace",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "a_trade",
+      "target": "x_store",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "x_store",
+      "target": "p_reserve",
+      "status": "sintesi",
+      "label": ""
+    }
+  ]
+}

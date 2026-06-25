@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Seoul divenne capitale coloniale dopo l’annessione giapponese del 1910.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "SE1; SE2"
+  },
+  {
+    "claim": "Ferrovie e tram trasformarono mobilità e crescita urbana.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "SE1; SE5"
+  },
+  {
+    "claim": "Il Movimento del Primo Marzo del 1919 ebbe una forte dimensione urbana.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "SE2; SE4"
+  },
+  {
+    "claim": "Quartieri coreani e giapponesi ebbero accesso diseguale a servizi e potere.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "SE1; SE2"
+  },
+  {
+    "claim": "Il Governo generale impose controllo amministrativo e culturale.",
+    "theme": "colonialismo",
+    "status": "documentato",
+    "source": "SE2; SE5"
+  },
+  {
+    "claim": "Palazzi e tessuti hanok continuarono a strutturare parti della città.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "SE1; SE3"
+  },
+  {
+    "claim": "Mobilitazione bellica, lavoro coatto e requisizioni intensificarono la coercizione.",
+    "theme": "conflitti",
+    "status": "documentato",
+    "source": "SE2; SE4"
+  },
+  {
+    "claim": "Divisione e guerra di Corea successive al 1945 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "SE5"
+  }
+]

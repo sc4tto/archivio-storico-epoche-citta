@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Teheran qajar",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Acqua e territorio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Qanat, giardini e distribuzione",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Campi periurbani e pascoli",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Corte qajar",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Cerimoniale, palazzi e collezioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Amministrazione e diplomazia",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Riforme",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Dar al-Fonun e formazione tecnica",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Telegrafo, poste e nuove istituzioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Mattoni, volte e cortili",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Piastrelle, specchi e ferro",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Bazar, caravanserragli e moneta",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Concessioni e pressioni straniere",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

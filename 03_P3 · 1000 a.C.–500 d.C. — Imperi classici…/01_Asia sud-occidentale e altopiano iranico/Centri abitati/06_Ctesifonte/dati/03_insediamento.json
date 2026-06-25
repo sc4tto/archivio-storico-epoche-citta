@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Insediamento partico iniziale",
+    "Capitale arsacide",
+    "Conflitti con Roma",
+    "Capitale sasanide iniziale",
+    "Metropoli tardoantica"
+  ],
+  "items": [
+    {
+      "id": "camp",
+      "label": "Accampamento e residenza arsacide",
+      "lane": "Politiche",
+      "start": 0,
+      "end": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "palace",
+      "label": "Palazzi e quartieri di corte",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "markets",
+      "label": "Mercati e magazzini",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "roads",
+      "label": "Strade e approdi sul Tigri",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "houses",
+      "label": "Case a corte e quartieri",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "religions",
+      "label": "Sinagoghe, chiese e luoghi zoroastriani",
+      "lane": "Religiose",
+      "start": 2,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "wars",
+      "label": "Sack romani e ricostruzioni",
+      "lane": "Trasformazione",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

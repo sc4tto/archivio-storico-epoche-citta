@@ -1,0 +1,24 @@
+{
+  "block": "Blocco_26_P3_Asia_SO_Completamento_5_Centri_v1",
+  "center": "Hegmataneh–Ecbatana",
+  "folder": "08_Hegmataneh_Ecbatana",
+  "source_json": [
+    "01_alimentazione.json",
+    "02_provenienze.json",
+    "03_insediamento.json",
+    "04_costruzione.json",
+    "05_conoscenze.json",
+    "06_fonti_certezza.json",
+    "centro_master.json"
+  ],
+  "generated_pages": [
+    "index.html",
+    "documenti\\01_alimentazione.html",
+    "documenti\\02_provenienze.html",
+    "documenti\\03_insediamento.html",
+    "documenti\\04_costruzione.html",
+    "documenti\\05_conoscenze.html",
+    "documenti\\06_fonti_certezza.html"
+  ],
+  "installed_at": "2026-06-24T04:07:47"
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Delhi–Shahjahanabad moghul",
+    "site": "Delhi–Shahjahanabad moghul",
+    "modern_location": "Delhi, India",
+    "coordinates": {
+      "lat": 28.6562,
+      "lon": 77.241
+    },
+    "scope": "Delhi e Shahjahanabad fra 1500 e 1800: città imperiali moghul, Forte Rosso, Jama Masjid, mercati, havelis, giardini, canali e crisi politiche del XVIII secolo.",
+    "version": "1.0",
+    "warning": "Il modulo concentra l’analisi su Shahjahanabad e sulle strutture moghul ancora attive. La Delhi britannica e Nuova Delhi sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "DE1",
+      "title": "UNESCO — Red Fort Complex",
+      "use": "Forte Rosso, palazzi, mura e asse di Shahjahanabad.",
+      "url": "https://whc.unesco.org/en/list/231/"
+    },
+    {
+      "id": "DE2",
+      "title": "Encyclopaedia Britannica — Delhi",
+      "use": "Storia urbana e politica della città.",
+      "url": "https://www.britannica.com/place/Delhi"
+    },
+    {
+      "id": "DE3",
+      "title": "The Metropolitan Museum of Art — The Art of the Mughals",
+      "use": "Contesto dell’arte e dell’architettura moghul.",
+      "url": "https://www.metmuseum.org/toah/hd/mugh/hd_mugh.htm"
+    },
+    {
+      "id": "DE4",
+      "title": "UNESCO — Red Fort documents",
+      "use": "Documentazione patrimoniale del complesso.",
+      "url": "https://whc.unesco.org/en/list/231/documents/"
+    },
+    {
+      "id": "DE5",
+      "title": "Encyclopaedia Britannica — Mughal dynasty",
+      "use": "Quadro politico e amministrativo dell’impero.",
+      "url": "https://www.britannica.com/topic/Mughal-dynasty"
+    }
+  ]
+}

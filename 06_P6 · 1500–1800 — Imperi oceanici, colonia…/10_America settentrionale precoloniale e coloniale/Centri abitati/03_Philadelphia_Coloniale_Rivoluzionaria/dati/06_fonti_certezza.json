@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Philadelphia fu fondata nel 1682 secondo un piano a griglia.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "PH3; PH5"
+  },
+  {
+    "claim": "Il porto e l’esportazione di farina sostennero la crescita urbana.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "PH3; PH5"
+  },
+  {
+    "claim": "Independence Hall ospitò eventi centrali della rivoluzione e della costituzione.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "PH1; PH2"
+  },
+  {
+    "claim": "Stampa, biblioteche e istituzioni scientifiche caratterizzarono la città.",
+    "theme": "conoscenze",
+    "status": "documentato",
+    "source": "PH4; PH5"
+  },
+  {
+    "claim": "L’epidemia di febbre gialla del 1793 provocò una grave crisi urbana.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "PH3; PH5"
+  },
+  {
+    "claim": "Schiavitù e commercio atlantico furono presenti nella società cittadina.",
+    "theme": "coercizione",
+    "status": "documentato",
+    "source": "PH5"
+  },
+  {
+    "claim": "La crescita coloniale implicò espropriazione dei territori Lenape.",
+    "theme": "coercizione",
+    "status": "documentato",
+    "source": "PH3; PH5"
+  },
+  {
+    "claim": "Le trasformazioni industriali successive al 1800 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "PH3"
+  }
+]

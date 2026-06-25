@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Pretoria repubblicana e amministrativa",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Amministrazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Volksraad, presidenza e uffici",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Catasto, fiscalità e diritto repubblicano",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Trasporti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Carri, strade e poste",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Ferrovia Delagoa Bay e collegamento al Rand",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Mattoni, pietra e verande",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Chiese, edifici pubblici e forti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Territorio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Valle dell’Apies e approvvigionamento",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Espansione agraria e conflitti fondiari",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Esclusione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Dispossesso territoriale africano",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Lavoro subordinato e ordine razziale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

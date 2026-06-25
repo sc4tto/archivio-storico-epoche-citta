@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Melaka fu conquistata dai portoghesi nel 1511.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "ME1; ME2"
+  },
+  {
+    "claim": "Gli olandesi conquistarono la città nel 1641.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "ME1; ME2"
+  },
+  {
+    "claim": "La posizione sullo stretto sostenne un commercio internazionale di lunga durata.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "ME1; ME5"
+  },
+  {
+    "claim": "Fortificazioni e edifici civili documentano le fasi portoghese e olandese.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "ME1; ME3"
+  },
+  {
+    "claim": "La città riuniva comunità malesi, cinesi, indiane ed europee.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "ME1; ME4"
+  },
+  {
+    "claim": "Il porto dipendeva in parte dall’importazione di riso e derrate.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "ME2; ME5"
+  },
+  {
+    "claim": "Il paesaggio urbano combinava edifici religiosi e quartieri differenti.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "ME1"
+  },
+  {
+    "claim": "La fase britannica ottocentesca è esclusa.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "ME1; ME2"
+  }
+]

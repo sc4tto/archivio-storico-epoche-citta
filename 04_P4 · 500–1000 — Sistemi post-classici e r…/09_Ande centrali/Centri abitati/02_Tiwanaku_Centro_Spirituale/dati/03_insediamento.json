@@ -1,0 +1,74 @@
+{
+  "phases": [
+    "500–650",
+    "650–750",
+    "750–900",
+    "900–1000"
+  ],
+  "items": [
+    {
+      "id": "t1",
+      "label": "Espansione della città pianificata",
+      "lane": "Urbanistica",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "t2",
+      "label": "Akapana, Kalasasaya e spazi cerimoniali",
+      "lane": "Monumentalità",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "t3",
+      "label": "Sviluppo di drenaggi e campi rialzati",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "t4",
+      "label": "Crescita di quartieri e comunità periferiche",
+      "lane": "Abitato",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "t5",
+      "label": "Diffusione di iconografia e vasellame rituale",
+      "lane": "Rituale",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "t6",
+      "label": "Colonie e reti verso valli e costa",
+      "lane": "Politica",
+      "start": 1,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "t7",
+      "label": "Apogeo fra VIII e IX secolo",
+      "lane": "Politica",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "t8",
+      "label": "Riorganizzazione e declino dopo il 900",
+      "lane": "Abitato",
+      "start": 3,
+      "end": 3,
+      "status": "sintesi"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Lahore moghul",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Acqua e giardini",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Canali del Ravi e pozzi",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Terrazze, fontane e Shalimar",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mercati",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Mandi, bazar e qasbah",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Dazi e carovane regionali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Mattone, cupole e minareti",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Affresco, kashi-kari e pietra dura",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Corte e cultura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Capitale e amministrazione provinciale",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Persiano, scuole e poesia",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Mobilità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Kabul, Kashmir e Multan",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Delhi, Agra e Punjab rurale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

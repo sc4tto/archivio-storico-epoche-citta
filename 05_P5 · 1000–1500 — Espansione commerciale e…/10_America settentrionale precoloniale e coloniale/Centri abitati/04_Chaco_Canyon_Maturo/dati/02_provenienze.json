@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Pueblo Bonito",
+      "lat": 36.0606,
+      "lon": -107.9617,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "chet",
+      "label": "Chetro Ketl",
+      "lat": 36.0615,
+      "lon": -107.954,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "penu",
+      "label": "Pueblo del Arroyo",
+      "lat": 36.059,
+      "lon": -107.9695,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "upl",
+      "label": "Chacra Mesa e altopiani",
+      "lat": 36.0,
+      "lon": -107.9,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "chus",
+      "label": "Monti Chuska",
+      "lat": 36.3,
+      "lon": -108.9,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "sanjuan",
+      "label": "Bacino del San Juan",
+      "lat": 36.8,
+      "lon": -108.0,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "meso",
+      "label": "Mesoamerica",
+      "lat": 19.43,
+      "lon": -99.13,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "chet",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sentieri interni",
+      "food": "persone, derrate e attività rituali"
+    },
+    {
+      "source": "penu",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canyon e vie locali",
+      "food": "ceramiche e beni"
+    },
+    {
+      "source": "upl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sentieri e raccolta",
+      "food": "legname, selvaggina e piante"
+    },
+    {
+      "source": "chus",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade regionali",
+      "food": "legname e ceramiche"
+    },
+    {
+      "source": "sanjuan",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete chacoana",
+      "food": "mais, turchese e comunità collegate"
+    },
+    {
+      "source": "meso",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "reti indirette",
+      "food": "cacao, pappagalli e conchiglie"
+    }
+  ]
+}

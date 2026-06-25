@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Damasco — modulo multi-grafo",
+    "short_name": "Damasco",
+    "site": "Città antica di Damasco e capitale omayyade",
+    "modern_location": "Damasco, Siria",
+    "coordinates": {
+      "lat": 33.5138,
+      "lon": 36.2765
+    },
+    "scope": "Capitale del califfato omayyade dal 661 al 750 e grande centro urbano del Levante nel periodo 500–1000, con tessuto romano-bizantino riusato, moschea degli Omayyadi, mercati, artigianato, giardini irrigui e collegamenti carovanieri verso Arabia, Iraq, Anatolia ed Egitto.",
+    "version": "1.0-blocco_37_p4_asia_so_5_centri_v1",
+    "warning": "Gran parte dell’edilizia oggi visibile è più tarda. Il modulo distingue il tracciato romano, le trasformazioni omayyadi e abbasidi e i restauri successivi; la continuità urbana non rende ogni struttura contemporanea al P4."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "DAM_UNESCO",
+      "title": "UNESCO — Ancient City of Damascus",
+      "url": "https://whc.unesco.org/en/list/20/",
+      "use": "struttura urbana, Moschea degli Omayyadi e continuità storica"
+    },
+    {
+      "id": "DAM_ARCHNET",
+      "title": "Archnet — Umayyad Mosque of Damascus",
+      "url": "https://www.archnet.org/sites/31",
+      "use": "architettura, fasi costruttive e decorazione"
+    },
+    {
+      "id": "DAM_BURNS",
+      "title": "Ross Burns — Damascus: A History",
+      "url": "https://www.routledge.com/Damascus-A-History/Burns/p/book/9780415413176",
+      "use": "storia urbana e reti regionali"
+    }
+  ]
+}

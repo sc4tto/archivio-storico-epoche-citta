@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Pagat e la transizione Latte di Guam",
+    "site": "Pagat Site e costa nord-orientale di Guam",
+    "modern_location": "Yigo, Guam, Isole Marianne",
+    "coordinates": {
+      "lat": 13.59,
+      "lon": 144.89
+    },
+    "scope": "Pagat e costa nord-orientale fra 500 e 1000: abitati pre-Latte, pesca, orticoltura, grotte, ceramica e passaggio verso le prime forme Latte.",
+    "version": "1.0",
+    "warning": "Le strutture latte più visibili del sito sono spesso posteriori al 1000. Il modulo concentra le affermazioni documentate sui depositi pre-Latte e tratta la comparsa delle pietre latte alla fine del periodo come transizione, non come sistema già pienamente sviluppato."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "PG1",
+      "title": "Guam Preservation Trust",
+      "use": "Tutela, documentazione e patrimonio archeologico di Pagat.",
+      "url": "https://guampreservationtrust.org/"
+    },
+    {
+      "id": "PG2",
+      "title": "Guampedia — Latte Stones",
+      "use": "Cronologia, tecnologia e significato delle pietre latte.",
+      "url": "https://www.guampedia.com/latte-stones/"
+    },
+    {
+      "id": "PG3",
+      "title": "University of Guam — Micronesian Area Research Center",
+      "use": "Ricerca e collezioni sulla preistoria delle Marianne.",
+      "url": "https://www.uog.edu/marc/"
+    },
+    {
+      "id": "PG4",
+      "title": "National Register of Historic Places — Database",
+      "use": "Scheda e documentazione del Pagat Site.",
+      "url": "https://www.nps.gov/subjects/nationalregister/database-research.htm"
+    },
+    {
+      "id": "PG5",
+      "title": "Guam Historic Resources Division",
+      "use": "Inventario e gestione dei siti archeologici di Guam.",
+      "url": "https://historicguam.net/"
+    }
+  ]
+}

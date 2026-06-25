@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Alessandria — modulo multi-grafo",
+    "short_name": "Alessandria",
+    "site": "Alessandria tardoantica e altomedievale",
+    "modern_location": "Alessandria d’Egitto, Egitto",
+    "coordinates": {
+      "lat": 31.2001,
+      "lon": 29.9187
+    },
+    "scope": "Grande porto mediterraneo fra VI e X secolo, con continuità tardoantica, quartieri pubblici e residenziali a Kom el-Dikka, chiese, cisterne, attività artigianali e trasformazioni successive alla conquista araba del 641–642.",
+    "version": "1.0-blocco_38_p4_valle_nilo_5_centri_v1",
+    "warning": "Molti settori del periodo sono sotto la città moderna o in aree sommerse. Il Faro, i palazzi tolemaici e numerosi monumenti celebri sono anteriori al P4; ricostruzioni topografiche e datazioni devono restare distinte dai resti direttamente scavati."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "ALE_PCMA",
+      "title": "PCMA University of Warsaw — Alexandria, Kom el-Dikka",
+      "url": "https://pcma.uw.edu.pl/en/2019/04/28/alexandria-kom-el-dikka/",
+      "use": "scavi, terme, auditoria e quartieri tardoantichi"
+    },
+    {
+      "id": "ALE_CEALEX",
+      "title": "Centre d’Études Alexandrines",
+      "url": "https://www.cealex.org/",
+      "use": "topografia, porti, cisterne e archeologia urbana"
+    },
+    {
+      "id": "ALE_BAGNALL",
+      "title": "Bagnall e Davoli — Archaeological Work on Hellenistic and Roman Egypt",
+      "url": "https://www.journals.uchicago.edu/doi/10.3764/aja.115.1.0103",
+      "use": "quadro archeologico e cronologia urbana"
+    }
+  ]
+}

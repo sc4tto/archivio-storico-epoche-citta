@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "La Paz–El Alto",
+      "lat": -16.4897,
+      "lon": -68.1193,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "alt",
+      "label": "Altiplano e comuni aymara",
+      "lat": -16.7,
+      "lon": -68.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "tit",
+      "label": "Lago Titicaca",
+      "lat": -16.0,
+      "lon": -69.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "yun",
+      "label": "Yungas",
+      "lat": -16.2,
+      "lon": -67.7,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "coch",
+      "label": "Cochabamba e valli centrali",
+      "lat": -17.4,
+      "lon": -66.2,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "ori",
+      "label": "Oruro e corridoio minerario",
+      "lat": -17.97,
+      "lon": -67.1,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "glob",
+      "label": "Perù, Cile e reti globali",
+      "lat": -18.0,
+      "lon": -71.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "alt",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferias, camion e reti comunitarie",
+      "food": "patate, chuño, quinoa, carne e tessili"
+    },
+    {
+      "source": "tit",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "trasporto stradale e lacustre",
+      "food": "pesce, patate, cereali e prodotti comunitari"
+    },
+    {
+      "source": "yun",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade vallive e mercati",
+      "food": "frutta, coca, caffè e verdure"
+    },
+    {
+      "source": "coch",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "corridoio nazionale e grossisti",
+      "food": "mais, frutta, pollame e alimenti trasformati"
+    },
+    {
+      "source": "ori",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade dell’altopiano",
+      "food": "carne, quinoa, merci e lavoro minerario"
+    },
+    {
+      "source": "glob",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "dogane, porti cileni e commercio",
+      "food": "grano, oli, macchinari e prodotti confezionati"
+    }
+  ]
+}

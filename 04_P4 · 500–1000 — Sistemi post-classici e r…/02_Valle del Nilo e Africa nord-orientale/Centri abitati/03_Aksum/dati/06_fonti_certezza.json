@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Aksum fu un grande regno fra Africa, Arabia e mondo mediterraneo",
+    "theme": "Reti",
+    "status": "documentato",
+    "source": "AKS_UNESCO"
+  },
+  {
+    "claim": "Le rovine comprendono palazzi, tombe, stele e chiese",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "AKS_UNESCO"
+  },
+  {
+    "claim": "Il porto di Adulis collegava Aksum al Mar Rosso",
+    "theme": "Reti",
+    "status": "documentato",
+    "source": "AKS_UNESCO"
+  },
+  {
+    "claim": "Il cristianesimo fu istituzionalizzato nel regno",
+    "theme": "Religione",
+    "status": "documentato",
+    "source": "AKS_UNESCO"
+  },
+  {
+    "claim": "Le grandi stele furono tutte erette fra 500 e 1000",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Molte sono anteriori"
+  },
+  {
+    "claim": "Il declino politico ebbe una sola causa certa",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Cause multiple e discusse"
+  },
+  {
+    "claim": "La città fu abbandonata completamente nel X secolo",
+    "theme": "Insediamento",
+    "status": "non_documentato",
+    "source": "Continuò il ruolo cerimoniale"
+  },
+  {
+    "claim": "Aksum controllava reti di avorio e commercio del Mar Rosso",
+    "theme": "Economia",
+    "status": "documentato",
+    "source": "AKS_UNESCO"
+  }
+]

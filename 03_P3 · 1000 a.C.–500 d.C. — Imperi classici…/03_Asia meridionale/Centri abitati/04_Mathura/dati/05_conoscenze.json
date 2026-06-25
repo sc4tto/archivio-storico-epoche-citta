@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Mathura",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Scultura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Arenaria rossa",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Yaksha e figure divine",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Immagini buddhiste e jainiste",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Iscrizioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Prakrit",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Sanskrit iniziale",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Donazioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Religioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Buddhismo",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Giainismo",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Culti brahmanici",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Commercio",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Yamuna",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Malwa",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Nord-ovest",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Monetazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Mitra",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Satrapi",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Kushana",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Officine",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Scalpellini",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Organizzazione del lavoro",
+          "status": "inferito"
+        },
+        {
+          "id": "k6_3",
+          "label": "Singola officina centrale",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

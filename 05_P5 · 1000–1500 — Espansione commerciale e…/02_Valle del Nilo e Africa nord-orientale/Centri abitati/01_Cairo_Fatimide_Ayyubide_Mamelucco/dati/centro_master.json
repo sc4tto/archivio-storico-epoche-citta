@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Cairo fatimide, ayyubide e mamelucco",
+    "site": "Cairo storico",
+    "modern_location": "Cairo, Egitto",
+    "coordinates": {
+      "lat": 30.0444,
+      "lon": 31.2357
+    },
+    "scope": "Cairo fra 1000 e 1500: città fatimide, cittadella ayyubide, capitale mamelucca, mercati, madrase, ospedali, quartieri artigiani e sistemi idraulici collegati al Nilo.",
+    "version": "1.0",
+    "warning": "Il modulo distingue la Cairo fatimide, la cittadella ayyubide e l’espansione mamelucca. Le trasformazioni ottomane successive al 1517 non sono incluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "CA1",
+      "title": "UNESCO — Historic Cairo",
+      "use": "Fondazione fatimide, sviluppo ayyubide e mamelucco, monumenti e tessuto urbano.",
+      "url": "https://whc.unesco.org/en/list/89/"
+    },
+    {
+      "id": "CA2",
+      "title": "Encyclopaedia Britannica — Cairo",
+      "use": "Storia politica, geografia del Nilo e crescita urbana.",
+      "url": "https://www.britannica.com/place/Cairo"
+    },
+    {
+      "id": "CA3",
+      "title": "The Metropolitan Museum of Art — Art of the Mamluk Period",
+      "use": "Cultura materiale e architettura mamelucca.",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-mamluk-period-1250-1517"
+    },
+    {
+      "id": "CA4",
+      "title": "Archnet — Cairo",
+      "use": "Moschee, madrase, mausolei, case e infrastrutture urbane.",
+      "url": "https://www.archnet.org/sites/country/EG"
+    },
+    {
+      "id": "CA5",
+      "title": "UNESCO Silk Roads — Cairo and Red Sea trade",
+      "use": "Reti commerciali fra Mediterraneo, Nilo e Mar Rosso.",
+      "url": "https://en.unesco.org/silkroad/content/cairo"
+    }
+  ]
+}

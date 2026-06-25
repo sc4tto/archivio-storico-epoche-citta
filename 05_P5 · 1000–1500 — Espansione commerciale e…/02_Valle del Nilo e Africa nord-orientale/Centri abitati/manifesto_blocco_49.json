@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_49_P5_Valle_Nilo_Africa_Nord_Orientale_5_Centri_v1",
+  "macroregion": "Valle del Nilo e Africa nord-orientale",
+  "centers": [
+    "01_Cairo_Fatimide_Ayyubide_Mamelucco",
+    "02_Alessandria_Fatimide_Ayyubide_Mamelucca",
+    "03_Lalibela_Zagwe",
+    "04_Antica_Dongola_Makuria",
+    "05_Soba_Capitale_Alodia"
+  ],
+  "uses_central_assets": true
+}

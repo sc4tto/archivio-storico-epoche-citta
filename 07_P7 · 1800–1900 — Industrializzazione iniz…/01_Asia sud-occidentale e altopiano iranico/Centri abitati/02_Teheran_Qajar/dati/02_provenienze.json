@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Teheran",
+      "lat": 35.6892,
+      "lon": 51.389,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "ray",
+      "label": "Ray e piana meridionale",
+      "lat": 35.57,
+      "lon": 51.44,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "var",
+      "label": "Varamin e campagne orientali",
+      "lat": 35.32,
+      "lon": 51.65,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "alb",
+      "label": "Elburz e Shemiran",
+      "lat": 35.82,
+      "lon": 51.42,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "cas",
+      "label": "Caspio e Mazandaran",
+      "lat": 36.6,
+      "lon": 52.2,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "tab",
+      "label": "Tabriz, Azerbaigian e Caucaso",
+      "lat": 38.08,
+      "lon": 46.29,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "gul",
+      "label": "Isfahan, Shiraz e Golfo Persico",
+      "lat": 31.0,
+      "lon": 52.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "ray",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e qanat",
+      "food": "grano, ortaggi, mattoni e manodopera"
+    },
+    {
+      "source": "var",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane e mercati",
+      "food": "cereali, cotone, frutta e bestiame"
+    },
+    {
+      "source": "alb",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "qanat e sentieri montani",
+      "food": "acqua, frutta, legname e prodotti pastorali"
+    },
+    {
+      "source": "cas",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "passi dell’Elburz",
+      "food": "riso, pesce, seta e tè"
+    },
+    {
+      "source": "tab",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "via dell’Azerbaigian",
+      "food": "tessili, metalli e merci russe"
+    },
+    {
+      "source": "gul",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane interne",
+      "food": "spezie, zucchero e beni dell’Oceano Indiano"
+    }
+  ]
+}

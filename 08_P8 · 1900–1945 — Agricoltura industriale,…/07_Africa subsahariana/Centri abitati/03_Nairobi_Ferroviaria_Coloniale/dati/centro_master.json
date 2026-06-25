@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Nairobi ferroviaria e coloniale",
+    "site": "Nairobi ferroviaria e coloniale",
+    "modern_location": "Nairobi, Kenya",
+    "coordinates": {
+      "lat": -1.2864,
+      "lon": 36.8172
+    },
+    "scope": "Nairobi fra 1900 e 1945: nodo ferroviario, capitale del Kenya dal 1907, centro amministrativo, commerciale e militare con quartieri europei, asiatici e africani separati.",
+    "version": "1.0",
+    "warning": "Sono escluse l’insurrezione Mau Mau, l’indipendenza del Kenya e la crescita metropolitana successiva al 1945."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "NA1",
+      "title": "National Museums of Kenya",
+      "use": "Storia della città e patrimonio ferroviario.",
+      "url": "https://museums.or.ke/"
+    },
+    {
+      "id": "NA2",
+      "title": "Encyclopaedia Britannica — Nairobi",
+      "use": "Fondazione ferroviaria e crescita coloniale.",
+      "url": "https://www.britannica.com/place/Nairobi"
+    },
+    {
+      "id": "NA3",
+      "title": "Kenya Railways Museum",
+      "use": "Uganda Railway, officine e trasporti.",
+      "url": "https://krc.co.ke/"
+    },
+    {
+      "id": "NA4",
+      "title": "Kenya National Archives",
+      "use": "Amministrazione e storia coloniale.",
+      "url": "https://www.archives.go.ke/"
+    },
+    {
+      "id": "NA5",
+      "title": "University of Nairobi Library",
+      "use": "Studi storici e urbani sul Kenya.",
+      "url": "https://uonlibrary.uonbi.ac.ke/"
+    }
+  ]
+}

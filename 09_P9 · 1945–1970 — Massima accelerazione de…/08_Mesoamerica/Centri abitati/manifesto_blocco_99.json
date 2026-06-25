@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_99_P9_Mesoamerica_5_Centri_v1",
+  "macroregion": "Mesoamerica",
+  "centers": [
+    "01_Citta_del_Messico_Industrializzazione_Metropolitana_Repressione",
+    "02_Monterrey_Industria_Metropoli_Tejabanes",
+    "03_Guadalajara_Industrializzazione_Suburbanizzazione_Disuguaglianza",
+    "04_Citta_del_Guatemala_Modernizzazione_Colpo_di_Stato_Conflitto",
+    "05_San_Salvador_Industrializzazione_Vivienda_Guerra_1969"
+  ],
+  "uses_central_assets": true
+}

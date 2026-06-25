@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "La Paz divenne il principale centro politico boliviano dopo la Guerra Federale del 1899.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "LP1; LP3"
+  },
+  {
+    "claim": "I mercati aymara collegavano la città con altopiano, Titicaca e Yungas.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "LP2; LP4"
+  },
+  {
+    "claim": "Coca, lana e minerali furono beni centrali dei circuiti regionali.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "LP3; LP5"
+  },
+  {
+    "claim": "La navigazione sul Titicaca migliorò i collegamenti con il Perù e il Pacifico.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "LP1; LP3"
+  },
+  {
+    "claim": "La perdita del litorale nella Guerra del Pacifico aggravò i costi del commercio estero.",
+    "theme": "conflitto",
+    "status": "documentato",
+    "source": "LP1; LP5"
+  },
+  {
+    "claim": "Adobe e pietra dominarono l’edilizia, affiancati da materiali industriali importati.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "LP2; LP3"
+  },
+  {
+    "claim": "Gerarchie etniche e lavoro dipendente produssero forti disuguaglianze.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "LP4; LP5"
+  },
+  {
+    "claim": "La ferrovia diretta del 1903 è esclusa.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "LP1"
+  }
+]

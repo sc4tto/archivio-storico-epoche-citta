@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Prime occupazioni",
+    "Neolitico antico",
+    "Sesklo medio",
+    "Massima espansione",
+    "Distruzione e trasformazione finale"
+  ],
+  "items": [
+    {
+      "id": "hill",
+      "label": "Occupazione della collina e delle terrazze",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Case rettangolari in mattoni crudi",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "stone",
+      "label": "Fondazioni e zoccoli in pietra",
+      "lane": "Abitative",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "hearths",
+      "label": "Focolari, forni e aree domestiche",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "pottery",
+      "label": "Ceramica rossa e dipinta",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "storage",
+      "label": "Stoccaggio domestico di derrate",
+      "lane": "Conservazione",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "fire",
+      "label": "Episodi di incendio e ricostruzione",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

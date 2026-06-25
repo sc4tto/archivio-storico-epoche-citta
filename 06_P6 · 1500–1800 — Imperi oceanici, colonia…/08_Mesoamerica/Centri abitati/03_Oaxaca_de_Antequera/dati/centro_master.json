@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Oaxaca de Antequera vicereale",
+    "site": "Oaxaca de Antequera vicereale",
+    "modern_location": "Oaxaca de Juárez, Messico",
+    "coordinates": {
+      "lat": 17.0732,
+      "lon": -96.7266
+    },
+    "scope": "Oaxaca de Antequera fra 1529 e 1800: cabildo, vescovado, conventi, mercati, quartieri indigeni, produzione artigiana e reti della cocciniglia e dei tessili.",
+    "version": "1.0",
+    "warning": "Il modulo distingue la città coloniale da Monte Albán e termina nel 1800; riforme liberali, espansioni ferroviarie e ricostruzioni moderne sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "OA1",
+      "title": "UNESCO — Historic Centre of Oaxaca and Archaeological Site of Monte Albán",
+      "use": "Urbanistica coloniale, architettura antisismica e contesto della valle.",
+      "url": "https://whc.unesco.org/en/list/415/"
+    },
+    {
+      "id": "OA2",
+      "title": "INAH Oaxaca",
+      "use": "Monumenti, musei e patrimonio storico regionale.",
+      "url": "https://www.inah.gob.mx/"
+    },
+    {
+      "id": "OA3",
+      "title": "Encyclopaedia Britannica — Oaxaca",
+      "use": "Storia della città e della regione.",
+      "url": "https://www.britannica.com/place/Oaxaca-Mexico"
+    },
+    {
+      "id": "OA4",
+      "title": "UNAM — Estudios de Cultura Náhuatl e historia novohispana",
+      "use": "Contesto indigeno e coloniale della Nuova Spagna.",
+      "url": "https://historicas.unam.mx/"
+    },
+    {
+      "id": "OA5",
+      "title": "Museo de las Culturas de Oaxaca",
+      "use": "Cultura materiale e complesso di Santo Domingo.",
+      "url": "https://www.inah.gob.mx/museos/92-museo-de-las-culturas-de-oaxaca"
+    }
+  ]
+}

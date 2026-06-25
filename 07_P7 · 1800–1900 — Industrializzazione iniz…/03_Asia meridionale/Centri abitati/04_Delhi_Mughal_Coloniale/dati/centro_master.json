@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Delhi moghul e coloniale",
+    "site": "Delhi moghul e coloniale",
+    "modern_location": "Delhi, India",
+    "coordinates": {
+      "lat": 28.6562,
+      "lon": 77.241
+    },
+    "scope": "Delhi fra 1800 e 1900: città moghul e poi coloniale, con Red Fort, Jama Masjid, Chandni Chowk, ferrovia e cantonment, ma precedente alla costruzione di New Delhi.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. New Delhi, la capitale imperiale dal 1911 e gli edifici di Lutyens e Baker sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "DE1",
+      "title": "UNESCO — Red Fort Complex",
+      "use": "Forte, palazzi e trasformazioni della città moghul.",
+      "url": "https://whc.unesco.org/en/list/231/"
+    },
+    {
+      "id": "DE2",
+      "title": "Encyclopaedia Britannica — Delhi",
+      "use": "Storia urbana, 1857 e amministrazione britannica.",
+      "url": "https://www.britannica.com/place/Delhi"
+    },
+    {
+      "id": "DE3",
+      "title": "Archaeological Survey of India — Red Fort",
+      "use": "Monumenti, conservazione e documentazione.",
+      "url": "https://asi.nic.in/"
+    },
+    {
+      "id": "DE4",
+      "title": "National Archives of India",
+      "use": "Mappe e documenti amministrativi ottocenteschi.",
+      "url": "https://nationalarchives.nic.in/"
+    },
+    {
+      "id": "DE5",
+      "title": "Indian Railways — Northern Railway Heritage",
+      "use": "Ferrovia e stazioni di Delhi.",
+      "url": "https://nr.indianrailways.gov.in/"
+    }
+  ]
+}

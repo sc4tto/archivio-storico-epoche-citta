@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Abydos conserva le tombe di sovrani protodinastici e delle prime dinastie",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "ABYDOS_UCL"
+  },
+  {
+    "claim": "Umm el-Qaab divenne un centro di venerazione legato a Osiride",
+    "theme": "Culto",
+    "status": "documentato",
+    "source": "ABYDOS_UCL"
+  },
+  {
+    "claim": "Recinti monumentali e aree urbane erano separati dal cimitero reale",
+    "theme": "Topografia",
+    "status": "documentato",
+    "source": "ABYDOS_DAI"
+  },
+  {
+    "claim": "Nel Medio Regno Abydos divenne meta di cappelle e processioni",
+    "theme": "Rituali",
+    "status": "documentato",
+    "source": "ABYDOS_PENN"
+  },
+  {
+    "claim": "Il sito conserva una lunga continuità di memoria regale",
+    "theme": "Memoria",
+    "status": "sintesi",
+    "source": "ABYDOS_UCL"
+  },
+  {
+    "claim": "Tutte le tombe reali furono costruite nello stesso momento",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Sequenza di più dinastie"
+  },
+  {
+    "claim": "Ogni barca o recinto aveva la stessa funzione",
+    "theme": "Funzione",
+    "status": "non_documentato",
+    "source": "Pratiche e fasi differenziate"
+  },
+  {
+    "claim": "Abydos fu sempre la capitale politica dell’Egitto",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Centro sacro, non capitale continua"
+  }
+]

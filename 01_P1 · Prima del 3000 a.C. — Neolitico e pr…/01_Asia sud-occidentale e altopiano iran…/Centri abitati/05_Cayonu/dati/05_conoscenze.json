@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Çayönü",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "env",
+      "label": "Ambiente",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "soil",
+          "label": "Comportamento dei suoli argillosi",
+          "status": "inferito"
+        },
+        {
+          "id": "water",
+          "label": "Gestione del drenaggio",
+          "status": "documentato"
+        },
+        {
+          "id": "foothill",
+          "label": "Uso del piedemonte",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "agri",
+      "label": "Sussistenza",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "crop",
+          "label": "Coltivazione di cereali e legumi",
+          "status": "sintesi"
+        },
+        {
+          "id": "pigk",
+          "label": "Gestione dei suini",
+          "status": "sintesi"
+        },
+        {
+          "id": "huntk",
+          "label": "Caccia e raccolta",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "buildk",
+      "label": "Edilizia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "gridk",
+          "label": "Fondazioni a griglia",
+          "status": "documentato"
+        },
+        {
+          "id": "channelk",
+          "label": "Canali sotto pavimento",
+          "status": "documentato"
+        },
+        {
+          "id": "cellk",
+          "label": "Edifici a celle",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "floor",
+      "label": "Pavimenti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "cobblek",
+          "label": "Pavimentazioni di ciottoli",
+          "status": "documentato"
+        },
+        {
+          "id": "terrazzok",
+          "label": "Terrazzo",
+          "status": "documentato"
+        },
+        {
+          "id": "maintk",
+          "label": "Manutenzione delle superfici",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Tecnologie",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "obs",
+          "label": "Scheggiatura dell’ossidiana",
+          "status": "sintesi"
+        },
+        {
+          "id": "copper",
+          "label": "Lavorazione del rame nativo",
+          "status": "documentato"
+        },
+        {
+          "id": "stonek",
+          "label": "Utensili litici e macine",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "social",
+      "label": "Organizzazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "specialk",
+          "label": "Edifici speciali",
+          "status": "documentato"
+        },
+        {
+          "id": "labour",
+          "label": "Coordinamento del lavoro",
+          "status": "inferito"
+        },
+        {
+          "id": "change",
+          "label": "Trasmissione di modelli architettonici",
+          "status": "inferito"
+        }
+      ]
+    }
+  ]
+}

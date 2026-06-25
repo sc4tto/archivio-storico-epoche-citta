@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Londra medievale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Governo civico",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Sindaco e aldermen",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Corporazioni e libertà urbane",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Porto",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Wharves e dogane",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Navigazione sul Tamigi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Muratura in pietra",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Case a graticcio",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Lana e panni",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Vino, pesce e merci baltiche",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Sanità urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Ospedali e fondazioni religiose",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Pozzi, rifiuti e drenaggi",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

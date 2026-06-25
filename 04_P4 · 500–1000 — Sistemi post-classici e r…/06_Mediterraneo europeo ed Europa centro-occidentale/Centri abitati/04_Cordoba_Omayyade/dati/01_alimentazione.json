@@ -1,0 +1,216 @@
+{
+  "nodes": [
+    {
+      "id": "t_valley",
+      "label": "Valle fertile del Guadalquivir",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_gardens",
+      "label": "Orti irrigui, almunias e frutteti",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_sierra",
+      "label": "Sierra Morena e pascoli",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "r_grain",
+      "label": "Frumento, orzo e legumi",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_oil",
+      "label": "Olive, vino e olio",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_fruit",
+      "label": "Frutta, ortaggi e aromi",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_animals",
+      "label": "Ovini, bovini, pollame e pesce",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "a_irrigation",
+      "label": "Coltivazione irrigua e secca",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_estate",
+      "label": "Aziende, almunias e tributi",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_pasture",
+      "label": "Allevamento e caccia",
+      "layer": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "a_market",
+      "label": "Mercati urbani e commercio",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "x_mill",
+      "label": "Molini, forni e cucine",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x_press",
+      "label": "Frantoi, torchi e cantine",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x_preserve",
+      "label": "Essiccazione, conserve e sciroppi",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_bread",
+      "label": "Pane, semole e legumi cotti",
+      "layer": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "p_oilfood",
+      "label": "Olio, frutta e preparazioni urbane",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_court",
+      "label": "Forniture per corte, esercito e carità",
+      "layer": 4,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "t_valley",
+      "target": "r_grain",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "t_gardens",
+      "target": "r_oil",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "t_sierra",
+      "target": "r_fruit",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "t_valley",
+      "target": "r_animals",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "r_grain",
+      "target": "a_irrigation",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_oil",
+      "target": "a_estate",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_fruit",
+      "target": "a_pasture",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "r_animals",
+      "target": "a_market",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "a_irrigation",
+      "target": "x_mill",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "a_estate",
+      "target": "x_press",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "a_pasture",
+      "target": "x_preserve",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "a_market",
+      "target": "x_mill",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "x_mill",
+      "target": "p_bread",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "x_press",
+      "target": "p_oilfood",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "x_preserve",
+      "target": "p_court",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "r_animals",
+      "target": "a_irrigation",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "a_market",
+      "target": "x_preserve",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "x_preserve",
+      "target": "p_court",
+      "status": "sintesi",
+      "label": ""
+    }
+  ]
+}

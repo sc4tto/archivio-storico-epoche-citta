@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Calcutta fu capitale dell’India britannica per tutto il XIX secolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "CA1; CA2"
+  },
+  {
+    "claim": "Il porto sul Hooghly collegava il Bengala ai traffici dell’Oceano Indiano e dell’impero.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "CA1; CA3"
+  },
+  {
+    "claim": "Ferrovie e carbone di Raniganj sostennero l’industrializzazione regionale.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "CA3; CA5"
+  },
+  {
+    "claim": "Juta, tè e finanza acquisirono un ruolo crescente nella seconda metà del secolo.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "CA1; CA3"
+  },
+  {
+    "claim": "Stampa e istituzioni educative alimentarono una nuova sfera pubblica urbana.",
+    "theme": "cultura",
+    "status": "documentato",
+    "source": "CA2; CA4"
+  },
+  {
+    "claim": "La crescita avvenne entro forti gerarchie coloniali e sociali.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "CA1; CA2"
+  },
+  {
+    "claim": "Epidemie e condizioni igieniche produssero interventi sanitari diseguali.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "CA1; CA2"
+  },
+  {
+    "claim": "Il Victoria Memorial e il trasferimento della capitale a Delhi sono fuori periodo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "CA2"
+  }
+]

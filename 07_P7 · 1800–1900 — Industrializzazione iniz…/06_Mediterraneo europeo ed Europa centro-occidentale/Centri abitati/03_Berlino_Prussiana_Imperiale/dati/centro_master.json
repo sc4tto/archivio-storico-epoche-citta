@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Berlino prussiana e imperiale",
+    "site": "Berlino prussiana e imperiale",
+    "modern_location": "Berlino, Germania",
+    "coordinates": {
+      "lat": 52.52,
+      "lon": 13.405
+    },
+    "scope": "Berlino fra 1800 e 1900: riforme prussiane, industrializzazione, unificazione tedesca, espansione urbana, ferrovia, servizi, quartieri operai, amministrazione e cultura imperiale.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Grande Berlino del 1920, nazismo, guerra, divisione e riunificazione sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "BE1",
+      "title": "UNESCO — Museum Island Berlin",
+      "use": "Istituzioni culturali e architettura monumentale ottocentesca.",
+      "url": "https://whc.unesco.org/en/list/896/"
+    },
+    {
+      "id": "BE2",
+      "title": "Stadtmuseum Berlin",
+      "use": "Sviluppo urbano, società e cultura materiale.",
+      "url": "https://www.stadtmuseum.de/"
+    },
+    {
+      "id": "BE3",
+      "title": "Deutsches Historisches Museum",
+      "use": "Prussia, unificazione e Impero tedesco.",
+      "url": "https://www.dhm.de/"
+    },
+    {
+      "id": "BE4",
+      "title": "Deutsches Technikmuseum Berlin",
+      "use": "Industria, ferrovie, energia e trasporti.",
+      "url": "https://technikmuseum.berlin/"
+    },
+    {
+      "id": "BE5",
+      "title": "Landesarchiv Berlin",
+      "use": "Mappe, amministrazione e crescita municipale.",
+      "url": "https://landesarchiv-berlin.de/"
+    }
+  ]
+}

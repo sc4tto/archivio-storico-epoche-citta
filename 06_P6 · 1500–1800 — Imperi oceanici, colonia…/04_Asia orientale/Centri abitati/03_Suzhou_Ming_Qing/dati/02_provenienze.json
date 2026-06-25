@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Suzhou",
+      "lat": 31.2989,
+      "lon": 120.5853,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "tai",
+      "label": "Lago Tai",
+      "lat": 31.2,
+      "lon": 120.15,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "can",
+      "label": "Canali e risaie del Jiangnan",
+      "lat": 31.05,
+      "lon": 120.7,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "kun",
+      "label": "Kunshan e villaggi della seta",
+      "lat": 31.38,
+      "lon": 120.95,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "nan",
+      "label": "Nanchino",
+      "lat": 32.06,
+      "lon": 118.79,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "han",
+      "label": "Hangzhou",
+      "lat": 30.27,
+      "lon": 120.15,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "sea",
+      "label": "Shanghai e costa",
+      "lat": 31.23,
+      "lon": 121.47,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "tai",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "laghi e canali",
+      "food": "pesce, loto e materiali da giardino"
+    },
+    {
+      "source": "can",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "trasporto locale su acqua",
+      "food": "riso, verdure e combustibile"
+    },
+    {
+      "source": "kun",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "mercati regionali",
+      "food": "seta, cereali e manufatti"
+    },
+    {
+      "source": "nan",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Grande Canale e strade",
+      "food": "funzionari, carta e merci"
+    },
+    {
+      "source": "han",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti del Jiangnan",
+      "food": "tè, seta e beni di lusso"
+    },
+    {
+      "source": "sea",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali verso la costa",
+      "food": "zucchero, spezie e merci marittime"
+    }
+  ]
+}

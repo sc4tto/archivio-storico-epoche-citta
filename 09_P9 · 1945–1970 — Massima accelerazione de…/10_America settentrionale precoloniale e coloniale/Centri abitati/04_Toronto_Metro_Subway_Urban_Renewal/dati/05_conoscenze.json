@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Toronto, Metro, subway e urban renewal",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Governo metropolitano",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Finanza regionale, acqua, fognature, trasporti e pianificazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Coordinamento fra città centrale e municipalità suburbane",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Transit e autostrade",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Subway, TTC, Gardiner e Don Valley Parkway",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Conflitto fra trasporto collettivo e motorizzazione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Edilizia sociale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Regent Park, Moss Park, Alexandra Park e gestione pubblica",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Benefici abitativi, demolizioni e perdita di reti sociali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Immigrazione e cittadinanza",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Comunità italiane, ebraiche, caraibiche e asiatiche",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Lavoro, quartieri, pluralismo religioso e servizi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Partecipazione urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Trefann Court, associazioni di residenti e professionisti",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Passaggio dalla clearance alla consultazione e conservazione",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

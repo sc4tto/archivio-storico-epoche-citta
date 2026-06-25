@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Pechino Ming–Qing",
+    "site": "Pechino Ming–Qing",
+    "modern_location": "Pechino, Cina",
+    "coordinates": {
+      "lat": 39.9042,
+      "lon": 116.4074
+    },
+    "scope": "Pechino fra 1500 e 1800: capitale Ming e Qing, città palatina e amministrativa, centro rituale, militare, artigianale e commerciale collegato al Grande Canale.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1800. Le ricostruzioni ottocentesche, la demolizione novecentesca delle mura e le trasformazioni della Pechino contemporanea sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "BJ1",
+      "title": "UNESCO — Beijing Central Axis",
+      "use": "Asse urbano, ordine cerimoniale e principali complessi monumentali.",
+      "url": "https://whc.unesco.org/en/list/1714/"
+    },
+    {
+      "id": "BJ2",
+      "title": "UNESCO — Imperial Palaces of the Ming and Qing Dynasties",
+      "use": "Città Proibita, palazzi e organizzazione della corte.",
+      "url": "https://whc.unesco.org/en/list/439/"
+    },
+    {
+      "id": "BJ3",
+      "title": "UNESCO — Temple of Heaven",
+      "use": "Architettura rituale e pianificazione imperiale.",
+      "url": "https://whc.unesco.org/en/list/881/"
+    },
+    {
+      "id": "BJ4",
+      "title": "Encyclopaedia Britannica — Beijing",
+      "use": "Storia urbana, capitale Ming-Qing e sviluppo economico.",
+      "url": "https://www.britannica.com/place/Beijing"
+    },
+    {
+      "id": "BJ5",
+      "title": "The Metropolitan Museum of Art — The Qing Dynasty",
+      "use": "Contesto politico, artistico e materiale della corte Qing.",
+      "url": "https://www.metmuseum.org/toah/hd/qing_1/hd_qing_1.htm"
+    }
+  ]
+}

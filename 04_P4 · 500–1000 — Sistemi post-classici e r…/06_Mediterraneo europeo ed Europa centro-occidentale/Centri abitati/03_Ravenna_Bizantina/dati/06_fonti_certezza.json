@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Ravenna fu sede imperiale nel V secolo e centro dell’Italia bizantina fino all’VIII secolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "V1; V3"
+  },
+  {
+    "claim": "Gli otto monumenti UNESCO furono costruiti principalmente nei secoli V e VI.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "V1"
+  },
+  {
+    "claim": "I mosaici combinano tradizioni greco-romane, iconografia cristiana e apporti orientali e occidentali.",
+    "theme": "arte",
+    "status": "documentato",
+    "source": "V1"
+  },
+  {
+    "claim": "Il porto di Classe collegava la città alle reti adriatiche e mediterranee.",
+    "theme": "scambio",
+    "status": "documentato",
+    "source": "V5"
+  },
+  {
+    "claim": "Il paesaggio lagunare favoriva difesa e navigazione ma richiedeva manutenzione idraulica.",
+    "theme": "ambiente",
+    "status": "sintesi",
+    "source": "V3; V5"
+  },
+  {
+    "claim": "L’arcivescovado mantenne un ruolo di primo piano anche dopo la fine dell’esarcato.",
+    "theme": "istituzioni",
+    "status": "documentato",
+    "source": "V3; V4"
+  },
+  {
+    "claim": "La dieta urbana integrava cereali della pianura e risorse ittiche lagunari e adriatiche.",
+    "theme": "alimentazione",
+    "status": "sintesi",
+    "source": "V4; V5"
+  },
+  {
+    "claim": "Dopo il 751 la città perse la funzione di capitale politica ma non la centralità religiosa e monumentale.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "V3; V4"
+  }
+]

@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di La Venta — fase iniziale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Agricoltura e ambiente",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Mais, zucca e fagioli",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Stagioni umide e secche",
+          "status": "sintesi"
+        },
+        {
+          "id": "k1_3",
+          "label": "Gestione di fiumi e paludi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Ceramica e cucina",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Produzione ceramica",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Macinazione del mais",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Focolari e cottura",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Pietra e materie prime",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Basalto e pietra verde",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Ossidiana",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Trasporto e lavorazione",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Insediamento",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Piattaforme di terra",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Case di materiali deperibili",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Pianificazione degli spazi",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Paesaggio cerimoniale",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Orientamento degli spazi",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_2",
+          "label": "Deposizioni di pietra verde",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Cosmologia specifica",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Organizzazione sociale",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Lavoro coordinato",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_2",
+          "label": "Differenze di rango",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Stato territoriale centralizzato",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

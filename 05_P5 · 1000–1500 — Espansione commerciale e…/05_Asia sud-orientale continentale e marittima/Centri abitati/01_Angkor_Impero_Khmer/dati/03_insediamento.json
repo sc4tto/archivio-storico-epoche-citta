@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "a1",
+      "label": "Consolidamento sotto Suryavarman I",
+      "lane": "Politica",
+      "start": 0,
+      "end": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "a2",
+      "label": "Angkor Wat e regno di Suryavarman II",
+      "lane": "Religione",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "a3",
+      "label": "Conflitto con Champa e ricostruzione",
+      "lane": "Conflitto",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a4",
+      "label": "Angkor Thom e Bayon di Jayavarman VII",
+      "lane": "Urbanistica",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a5",
+      "label": "Ospedali, strade e fondazioni religiose",
+      "lane": "Amministrazione",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "a6",
+      "label": "Diffusione del buddhismo theravada",
+      "lane": "Religione",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "a7",
+      "label": "Crisi idrauliche e trasformazioni del territorio",
+      "lane": "Ambiente",
+      "start": 3,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "a8",
+      "label": "Spostamento del centro politico verso sud",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

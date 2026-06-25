@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Karkarichinkat comprende almeno due aree archeologiche distinte",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "KK_SUBSIST"
+  },
+  {
+    "claim": "Sono documentati bovini domestici e una forte componente pastorale",
+    "theme": "Pastorizia",
+    "status": "documentato",
+    "source": "KK_SUBSIST"
+  },
+  {
+    "claim": "Il Tilemsi conserva antiche prove di miglio perlato domestico",
+    "theme": "Agricoltura",
+    "status": "documentato",
+    "source": "KK_MANNING"
+  },
+  {
+    "claim": "Alcuni individui mostrano modificazioni dentarie intenzionali",
+    "theme": "Corpo",
+    "status": "documentato",
+    "source": "KK_FINUCANE"
+  },
+  {
+    "claim": "L’aridificazione influì sulla mobilità regionale",
+    "theme": "Ambiente",
+    "status": "sintesi",
+    "source": "KK_SUBSIST"
+  },
+  {
+    "claim": "I siti formarono una città permanente",
+    "theme": "Urbanizzazione",
+    "status": "non_documentato",
+    "source": "Occupazioni pastorali e funerarie"
+  },
+  {
+    "claim": "Le modificazioni dentarie avevano un unico significato noto",
+    "theme": "Rituali",
+    "status": "non_documentato",
+    "source": "Interpretazione aperta"
+  },
+  {
+    "claim": "Il miglio sostituì completamente pastorizia e raccolta",
+    "theme": "Sussistenza",
+    "status": "non_documentato",
+    "source": "Economia mista"
+  }
+]

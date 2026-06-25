@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Micene — modulo multi-grafo",
+    "short_name": "Micene",
+    "site": "Cittadella e centro palaziale di Micene",
+    "modern_location": "Argolide, Peloponneso, Grecia",
+    "coordinates": {
+      "lat": 37.7308,
+      "lon": 22.756
+    },
+    "scope": "Grande centro palaziale miceneo con mura ciclopiche, Porta dei Leoni, palazzo, circoli funerari, tombe a tholos, quartieri artigiani e reti regionali e mediterranee.",
+    "version": "1.0-blocco_19_p2_mediterraneo_europa_5_centri_v1",
+    "warning": "Le genealogie di Agamennone e i racconti omerici appartengono alla tradizione letteraria. Le tombe furono costruite in fasi diverse e non possono essere attribuite con certezza a personaggi mitici."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "MYC_UNESCO",
+      "title": "UNESCO — Archaeological Sites of Mycenae and Tiryns",
+      "url": "https://whc.unesco.org/en/list/941/",
+      "use": "architettura, cronologia e ruolo nel mondo miceneo"
+    },
+    {
+      "id": "MYC_CULTURE",
+      "title": "Hellenic Ministry of Culture — Mycenae",
+      "url": "https://odysseus.culture.gr/h/3/eh351.jsp?obj_id=2573",
+      "use": "monumenti, conservazione e percorso archeologico"
+    },
+    {
+      "id": "MYC_BSA",
+      "title": "British School at Athens — Mycenae excavations and archives",
+      "url": "https://www.bsa.ac.uk/",
+      "use": "storia delle ricerche e dati di scavo"
+    }
+  ]
+}

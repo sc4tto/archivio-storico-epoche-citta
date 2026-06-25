@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "New York, finanza, alloggi, trasporto e clima",
+    "site": "New York, finanza, alloggi, trasporto e clima",
+    "modern_location": "New York City, Stati Uniti",
+    "coordinates": {
+      "lat": 40.7128,
+      "lon": -74.006
+    },
+    "scope": "New York dal 1970 al 25 giugno 2026: deindustrializzazione e crescita della finanza e dei servizi, immigrazione globale, crisi fiscale, riqualificazione di waterfront e distretti centrali, metropolitana e trasporto regionale, attacchi dell’11 settembre, uragano Sandy, crisi abitativa, segregazione persistente, congestion pricing dal 2025 e adattamento climatico.",
+    "version": "1.0",
+    "warning": "PlaNYC, gli obiettivi climatici al 2030–2050 e gli effetti futuri di City of Yes sono registrati come piani e scenari; non sono presentati come risultati già integralmente conseguiti."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "NY1",
+      "title": "New York City — PlaNYC Progress Report 2025",
+      "use": "Clima, edifici, mobilità, resilienza costiera ed equità ambientale.",
+      "url": "https://www.nyc.gov/assets/climate/downloads/pdfs/PlaNYC_Progress_Report_2025.pdf"
+    },
+    {
+      "id": "NY2",
+      "title": "NYC Housing Preservation and Development — Housing and Vacancy Survey 2023",
+      "use": "Crisi degli alloggi, disponibilità locativa, affitti e disuguaglianze.",
+      "url": "https://www.nyc.gov/assets/hpd/downloads/pdfs/about/2023-nychvs-selected-initial-findings.pdf"
+    },
+    {
+      "id": "NY3",
+      "title": "MTA — Congestion Relief Zone",
+      "use": "Pedaggio urbano avviato nel gennaio 2025, traffico, aria e finanziamento del trasporto pubblico.",
+      "url": "https://www.mta.info/agency/bridges-and-tunnels/congestion-relief-zone"
+    },
+    {
+      "id": "NY4",
+      "title": "NYC Department of City Planning — City of Yes for Housing Opportunity",
+      "use": "Riforma urbanistica approvata nel 2024, conversioni, densificazione e alloggi accessibili.",
+      "url": "https://www.nyc.gov/content/planning/pages/our-work/plans/citywide/city-of-yes-housing-opportunity"
+    }
+  ]
+}

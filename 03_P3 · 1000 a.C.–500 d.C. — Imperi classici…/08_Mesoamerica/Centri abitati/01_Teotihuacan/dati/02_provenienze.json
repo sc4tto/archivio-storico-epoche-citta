@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Teotihuacan",
+      "lat": 19.6925,
+      "lon": -98.8438,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "pachuca",
+      "label": "Sierra de las Navajas — Pachuca",
+      "lat": 20.15,
+      "lon": -98.55,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "basin",
+      "label": "Bacino del Messico",
+      "lat": 19.4,
+      "lon": -99.1,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "oaxaca",
+      "label": "Monte Albán e Oaxaca",
+      "lat": 17.04,
+      "lon": -96.77,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "gulf",
+      "label": "Costa del Golfo",
+      "lat": 19.2,
+      "lon": -96.2,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "maya",
+      "label": "Kaminaljuyu e area maya",
+      "lat": 14.62,
+      "lon": -90.55,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "pachuca",
+      "target": "site",
+      "label": "ossidiana verde e produzioni specializzate",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "basin",
+      "target": "site",
+      "label": "cereali, persone, acqua e mercati",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "oaxaca",
+      "target": "site",
+      "label": "ceramiche, persone e relazioni politiche",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "gulf",
+      "target": "site",
+      "label": "conchiglie, cacao e idee religiose",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "maya",
+      "target": "site",
+      "label": "scambi, ambascerie e influenza artistica",
+      "status": "documentato",
+      "food": "parziale"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Guerra, sanzioni e invasione del 2003 danneggiarono reti urbane e capacità amministrativa della capitale.",
+    "theme": "conflitto",
+    "status": "documentato",
+    "source": "BA1; BA2"
+  },
+  {
+    "claim": "Rapida crescita e arrivo di sfollati hanno aumentato la pressione su acqua potabile e fognature.",
+    "theme": "servizi",
+    "status": "documentato",
+    "source": "BA1; BA3"
+  },
+  {
+    "claim": "Il programma della Banca Mondiale mira a migliorare acqua e acque reflue per milioni di residenti.",
+    "theme": "acqua",
+    "status": "documentato",
+    "source": "BA1"
+  },
+  {
+    "claim": "IOM studia Baghdad e Abu Ghraib come contesto di sfollamento urbano protratto.",
+    "theme": "migrazioni",
+    "status": "documentato",
+    "source": "BA3"
+  },
+  {
+    "claim": "Il paesaggio storico del Tigri a Rusafa conserva monumenti, mercati e relazioni urbane di lunga durata.",
+    "theme": "patrimonio",
+    "status": "documentato",
+    "source": "BA4"
+  },
+  {
+    "claim": "Baghdad, guerre, sfollamenti e ricostruzione dei servizi è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Le guerre, l’occupazione militare, la violenza settaria, gli attentati, la repressione e gli sfollamenti forzati non sono neutralizzati come “crisi”; sfollati, residenti, lavoratori dei servizi e movimenti civici sono rappresentati come soggetti della ricostruzione.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

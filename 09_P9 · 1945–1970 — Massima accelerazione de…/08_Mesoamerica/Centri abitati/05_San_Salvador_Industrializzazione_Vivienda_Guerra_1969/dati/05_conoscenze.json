@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di San Salvador, industrializzazione, vivienda e guerra del 1969",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Industria e integrazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Caffè, cotone, alimentare, tessile e Mercato Comune",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Strade, credito, dogane e distribuzione regionale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Vivienda e costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "IVU, complessi moderni, lottizzazioni e standardizzazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Mesones, affitto, autocostruzione e servizi incompleti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Territorio e rischio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Vulcani, terremoti, drenaggi e bacino del Lempa",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Espansione su pendii e vulnerabilità dei quartieri poveri",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Politica e lavoro",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Governi militari, sindacati, studenti e organizzazioni civiche",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Sorveglianza, repressione, scioperi e restrizioni politiche",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Migrazione e società",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Arrivi rurali, commercianti, famiglie e reti regionali",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Ritorni forzati dal Honduras, disuguaglianza e pluralismo religioso",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

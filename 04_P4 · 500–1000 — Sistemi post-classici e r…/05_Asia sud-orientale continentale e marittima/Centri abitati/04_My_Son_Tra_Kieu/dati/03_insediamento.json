@@ -1,0 +1,74 @@
+{
+  "phases": [
+    "500–650",
+    "650–750",
+    "750–875",
+    "875–1000"
+  ],
+  "items": [
+    {
+      "id": "m_s1",
+      "label": "Santuario shivaita in continuità con fasi precedenti",
+      "lane": "Culto",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "m_s2",
+      "label": "Insediamento urbano nella valle di Trà Kiệu",
+      "lane": "Abitato",
+      "start": 0,
+      "end": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "m_s3",
+      "label": "Corridoio fluviale verso la costa",
+      "lane": "Scambio",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "m_s4",
+      "label": "Torri-templi e recinti sacri",
+      "lane": "Architettura",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "m_s5",
+      "label": "Corte e autorità regionali di Champa",
+      "lane": "Potere",
+      "start": 0,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "m_s6",
+      "label": "Reti artigiane di mattoni e scultura",
+      "lane": "Produzione",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "m_s7",
+      "label": "Riorganizzazione sotto dinastie dell’Indrapura",
+      "lane": "Potere",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "m_s8",
+      "label": "Sviluppi architettonici del X secolo",
+      "lane": "Architettura",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    }
+  ]
+}

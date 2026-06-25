@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Caral-Supe — modulo multi-grafo",
+    "short_name": "Caral-Supe",
+    "site": "Città sacra di Caral-Supe",
+    "modern_location": "Media valle del Supe, Barranca, Perù",
+    "coordinates": {
+      "lat": -10.891,
+      "lon": -77.52
+    },
+    "scope": "Centro monumentale del Tardo Arcaico, attivo soprattutto fra circa 3000 e 1800 a.C., con grandi piattaforme, corti circolari incassate, residenze differenziate e reti fra costa, valle e altopiani.",
+    "version": "1.0-blocco_22_p2_ande_centrali_5_centri_v1",
+    "warning": "Il modulo P2 riprende Caral perché quasi tutta la sua fase principale ricade fra 3000 e 1800 a.C. Il grado esatto di centralizzazione politica e il significato di ogni edificio restano discussi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "CARAL_UNESCO",
+      "title": "UNESCO — Sacred City of Caral-Supe",
+      "url": "https://whc.unesco.org/en/list/1269/",
+      "use": "cronologia, urbanistica, piattaforme e corti circolari"
+    },
+    {
+      "id": "CARAL_SCIENCE",
+      "title": "Shady Solís, Haas e Creamer — Dating Caral, a Preceramic Site in the Supe Valley",
+      "url": "https://doi.org/10.1126/science.1059519",
+      "use": "datazioni radiocarboniche e collocazione nel Tardo Arcaico"
+    },
+    {
+      "id": "CARAL_OFFICIAL",
+      "title": "Zona Arqueológica Caral — ricerca e conservazione",
+      "url": "https://www.zonacaral.gob.pe/",
+      "use": "documentazione istituzionale del sito e della valle"
+    }
+  ]
+}

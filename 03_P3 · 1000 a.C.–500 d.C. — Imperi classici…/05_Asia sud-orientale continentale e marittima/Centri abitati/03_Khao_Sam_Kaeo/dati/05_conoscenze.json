@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Khao Sam Kaeo",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Vetro",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Perle",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Bracciali",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Tecniche trasferite",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Pietra",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Agata e cornalina",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Levigatura",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Foratura",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Metallurgia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Rame",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Ferro",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Tradizioni tecniche multiple",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Ceramica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Produzioni locali",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Tecniche esterne",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Importazioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Reti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "India",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Vietnam",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Filippine e Taiwan",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Politica",
+      "status": "inferito",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Centro portuale",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_2",
+          "label": "Élite",
+          "status": "inferito"
+        },
+        {
+          "id": "k6_3",
+          "label": "Stato coloniale straniero",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

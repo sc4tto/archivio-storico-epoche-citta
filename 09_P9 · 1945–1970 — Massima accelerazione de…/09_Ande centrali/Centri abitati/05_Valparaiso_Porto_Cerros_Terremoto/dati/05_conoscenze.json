@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Valparaíso, porto, cerros e ricostruzione sismica",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Porto e reti minerarie",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Moli, dogane, ferrovie, magazzini e navigazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Flussi di rame, nitrati, combustibili e importazioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Cerros e mobilità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Ascensori, scale, filobus, autobus e sentieri",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Pendii, frane, tempi di viaggio e accesso ai servizi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Costruzione e sismicità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Muratura, rinforzi, muri di sostegno e ricostruzione",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Danni del 1965 e adattamento incrementale delle case",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Organizzazione popolare",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Pobladores, portuali, sindacati e juntas de vecinos",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Autocostruzione, rivendicazioni di acqua e trasporto",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Ambiente costiero",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Baia, venti, incendi, erosione e drenaggi",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Inquinamento portuale e vulnerabilità dei pendii",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

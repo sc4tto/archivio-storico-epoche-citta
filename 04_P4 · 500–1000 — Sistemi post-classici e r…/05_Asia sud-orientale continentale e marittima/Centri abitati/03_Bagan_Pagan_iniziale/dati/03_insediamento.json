@@ -1,0 +1,74 @@
+{
+  "phases": [
+    "750–849",
+    "849–900",
+    "900–970",
+    "970–1044"
+  ],
+  "items": [
+    {
+      "id": "b_s1",
+      "label": "Paesaggio di insediamenti Pyu e locali",
+      "lane": "Abitato",
+      "start": 0,
+      "end": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "b_s2",
+      "label": "Nucleo fortificato attribuito alla metà del IX secolo",
+      "lane": "Difesa",
+      "start": 1,
+      "end": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "b_s3",
+      "label": "Corte e villaggi lungo il fiume",
+      "lane": "Potere",
+      "start": 1,
+      "end": 3,
+      "status": "inferito"
+    },
+    {
+      "id": "b_s4",
+      "label": "Prime strutture buddhiste",
+      "lane": "Culto",
+      "start": 1,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "b_s5",
+      "label": "Mercati e approdi fluviali",
+      "lane": "Scambio",
+      "start": 1,
+      "end": 3,
+      "status": "inferito"
+    },
+    {
+      "id": "b_s6",
+      "label": "Campi, orti e allevamento nella piana arida",
+      "lane": "Produzione",
+      "start": 0,
+      "end": 3,
+      "status": "inferito"
+    },
+    {
+      "id": "b_s7",
+      "label": "Crescita dell’autorità regionale",
+      "lane": "Potere",
+      "start": 2,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "b_s8",
+      "label": "Premesse dell’espansione dell’XI secolo",
+      "lane": "Potere",
+      "start": 3,
+      "end": 3,
+      "status": "sintesi"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Seoul–Hanyang Joseon",
+    "site": "Seoul–Hanyang Joseon",
+    "modern_location": "Seoul, Corea del Sud",
+    "coordinates": {
+      "lat": 37.5665,
+      "lon": 126.978
+    },
+    "scope": "Seoul–Hanyang fra 1500 e 1800: capitale Joseon, città palatina e confuciana, centro amministrativo, artigianale e commerciale, segnata dalle invasioni Imjin e dalla ricostruzione dei palazzi.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1800. Le ricostruzioni tardo-ottocentesche di Gyeongbokgung, il periodo coloniale e la metropoli contemporanea sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SE1",
+      "title": "UNESCO — Changdeokgung Palace Complex",
+      "use": "Palazzo, giardini e adattamento alla topografia.",
+      "url": "https://whc.unesco.org/en/list/816/"
+    },
+    {
+      "id": "SE2",
+      "title": "UNESCO — Jongmyo Shrine",
+      "use": "Rituali confuciani e architettura dinastica.",
+      "url": "https://whc.unesco.org/en/list/738/"
+    },
+    {
+      "id": "SE3",
+      "title": "UNESCO — Namhansanseong",
+      "use": "Difesa della capitale e sistemi fortificati Joseon.",
+      "url": "https://whc.unesco.org/en/list/1439/"
+    },
+    {
+      "id": "SE4",
+      "title": "Encyclopaedia Britannica — Seoul",
+      "use": "Storia urbana, capitale Joseon e sviluppo economico.",
+      "url": "https://www.britannica.com/place/Seoul"
+    },
+    {
+      "id": "SE5",
+      "title": "The Metropolitan Museum of Art — Art of the Joseon Dynasty",
+      "use": "Cultura materiale, pittura, ceramica e corte Joseon.",
+      "url": "https://www.metmuseum.org/toah/hd/chos/hd_chos.htm"
+    }
+  ]
+}

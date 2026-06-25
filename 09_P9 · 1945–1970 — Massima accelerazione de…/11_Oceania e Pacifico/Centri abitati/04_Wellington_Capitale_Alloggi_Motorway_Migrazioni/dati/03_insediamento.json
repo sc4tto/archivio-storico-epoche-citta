@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1945–1949",
+    "1950–1954",
+    "1955–1959",
+    "1960–1964",
+    "1965–1970"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Espansione del pubblico impiego e dei servizi della capitale",
+      "lane": "Economia",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Prima motorway nazionale aperta nel 1950",
+      "lane": "Mobilità",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Crescita di Hutt Valley, Porirua e nuovi sobborghi collinari",
+      "lane": "Abitazione",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Edilizia statale e comunale, incluse torri per piccoli nuclei",
+      "lane": "Abitazione",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Apertura dell’aeroporto di Wellington nel 1959",
+      "lane": "Trasporto",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Migrazione Māori verso Newtown e quartieri economici",
+      "lane": "Migrazioni",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Insediamento di famiglie del Pacifico dagli anni sessanta",
+      "lane": "Migrazioni",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Motorway e distruzione di tombe del Bolton Street Cemetery",
+      "lane": "Espropri",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

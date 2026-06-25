@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Philadelphia coloniale e rivoluzionaria",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Pianificazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Griglia, piazze e lotti",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Porto fra Delaware e Schuylkill",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Stampa e scienza",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Tipografie, biblioteche e giornali",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Ospedali, collegi e società",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Governo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Assemblea, congressi e convenzione",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Dichiarazione e Costituzione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Farina, porto e credito",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Atlantico, schiavitù e mercati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Relazioni Lenape",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Trattati e diplomazia",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Espropriazione e migrazione forzata",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Karachi, porto, industria, acqua, mobilità e clima",
+    "site": "Karachi, porto, industria, acqua, mobilità e clima",
+    "modern_location": "Karachi, Pakistan",
+    "coordinates": {
+      "lat": 24.8607,
+      "lon": 67.0011
+    },
+    "scope": "Karachi dal 1970 al 25 giugno 2026: porto e industria, migrazioni interne e afghane, crescita delle katchi abadis, violenza politica ed etnica, crisi idrica e fognaria, trasporto informale e BRT, ondate di calore, alluvioni e vulnerabilità costiera.",
+    "version": "1.0",
+    "warning": "I corridoi BRT e i programmi idrici non conclusi entro il 25 giugno 2026 sono descritti come progetti in corso o obiettivi futuri."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "KA1",
+      "title": "World Bank — Transforming Karachi into a Livable and Competitive Megacity",
+      "use": "Diagnosi urbana su trasporti, acqua, rifiuti, governance e inclusione.",
+      "url": "https://documents.worldbank.org/curated/en/503701519291571040/pdf/123628-PUB-PUBLIC-date-02-20-2018.pdf"
+    },
+    {
+      "id": "KA2",
+      "title": "World Bank — Karachi Water and Sewerage Services Improvement Project",
+      "use": "Deficit di acqua e fognatura, accesso equo e rischio climatico.",
+      "url": "https://documents1.worldbank.org/curated/en/695091561946580138/txt/Pakistan-Karachi-Water-and-Sewerage-Services-Improvement-Project.txt"
+    },
+    {
+      "id": "KA3",
+      "title": "Asian Development Bank — Karachi Bus Rapid Transit Red Line Project",
+      "use": "Trasporto pubblico, sicurezza, accessibilità e corridoio BRT.",
+      "url": "https://www.adb.org/projects/47279-002/main"
+    },
+    {
+      "id": "KA4",
+      "title": "UN-Habitat — Low-Emission Development in Karachi Katchi Abadis",
+      "use": "Insediamenti informali, infrastrutture comunitarie e mitigazione climatica.",
+      "url": "https://unhabitat.org/news/19-apr-2022/un-habitat-helps-pakistan-to-lower-greenhouse-gas-emissions-in-slums"
+    }
+  ]
+}

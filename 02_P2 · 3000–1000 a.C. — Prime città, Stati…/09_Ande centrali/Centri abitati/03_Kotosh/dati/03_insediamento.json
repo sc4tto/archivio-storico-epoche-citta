@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Mito preceramico",
+    "Templi con focolare",
+    "Wairajirca",
+    "Kotosh",
+    "Influenza Chavín"
+  ],
+  "items": [
+    {
+      "id": "temples",
+      "label": "Piccoli templi sovrapposti",
+      "lane": "Rituali",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "hands",
+      "label": "Tempio delle Mani Incrociate",
+      "lane": "Rituali",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "hearth",
+      "label": "Focolari centrali e condotti",
+      "lane": "Rituali",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Aree domestiche",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "pottery",
+      "label": "Introduzione e sviluppo della ceramica",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "agri",
+      "label": "Coltivazione valliva",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "remodel",
+      "label": "Interramento e ricostruzione",
+      "lane": "Trasformazione",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Kyoto fra tarda Heian e Muromachi",
+    "site": "Kyoto–Heian-kyō",
+    "modern_location": "Kyoto, Giappone",
+    "coordinates": {
+      "lat": 35.0116,
+      "lon": 135.7681
+    },
+    "scope": "Kyoto fra 1000 e 1500: tarda società di corte Heian, guerre del XII secolo, dualismo con Kamakura, shogunato Muromachi, cultura Zen e distruzioni della guerra Ōnin.",
+    "version": "1.0",
+    "warning": "Il modulo copre soltanto il Medioevo fino al 1500. Le ricostruzioni moderne e gli edifici rifatti in epoche successive sono segnalati attraverso le fonti monumentali."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "KY1",
+      "title": "UNESCO — Historic Monuments of Ancient Kyoto",
+      "use": "Capitale dal 794, architettura lignea, templi, santuari e giardini.",
+      "url": "https://whc.unesco.org/en/list/688/"
+    },
+    {
+      "id": "KY2",
+      "title": "City of Kyoto — World Heritage Historic Monuments",
+      "use": "Elenco e tutela dei monumenti storici della città e del territorio.",
+      "url": "https://www2.city.kyoto.lg.jp/bunshi/bunkazai/sekaiisan-e.htm"
+    },
+    {
+      "id": "KY3",
+      "title": "Encyclopaedia Britannica — Kyoto",
+      "use": "Storia della capitale imperiale e ruolo culturale.",
+      "url": "https://www.britannica.com/place/Kyoto-Japan"
+    },
+    {
+      "id": "KY4",
+      "title": "The Metropolitan Museum of Art — Heian Period",
+      "use": "Cultura di corte, buddhismo e arti della tarda Heian.",
+      "url": "https://www.metmuseum.org/toah/hd/heia/hd_heia.htm"
+    },
+    {
+      "id": "KY5",
+      "title": "The Metropolitan Museum of Art — Kamakura and Muromachi Periods",
+      "use": "Cultura guerriera, Zen e arti medievali.",
+      "url": "https://www.metmuseum.org/toah/hd/kama/hd_kama.htm"
+    }
+  ]
+}

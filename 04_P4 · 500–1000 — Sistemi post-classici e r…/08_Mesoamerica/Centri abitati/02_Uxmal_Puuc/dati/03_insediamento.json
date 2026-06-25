@@ -1,0 +1,74 @@
+{
+  "phases": [
+    "700–800",
+    "800–875",
+    "875–950",
+    "950–1000"
+  ],
+  "items": [
+    {
+      "id": "ux1",
+      "label": "Crescita da centro rurale a polo regionale",
+      "lane": "Abitato",
+      "start": 0,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ux2",
+      "label": "Costruzione e ampliamento di chultunes e aguadas",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ux3",
+      "label": "Sviluppo dell’architettura Puuc a rivestimento",
+      "lane": "Architettura",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ux4",
+      "label": "Palazzo del Governatore e Quadrilatero delle Monache",
+      "lane": "Monumentalità",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ux5",
+      "label": "Rete di sacbeob con Kabah e centri vicini",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ux6",
+      "label": "Produzione di mosaici lapidei e maschere di Chaac",
+      "lane": "Artigianato",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ux7",
+      "label": "Massima concentrazione politico-amministrativa",
+      "lane": "Politica",
+      "start": 2,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "ux8",
+      "label": "Trasformazioni e riduzione dopo il 1000",
+      "lane": "Abitato",
+      "start": 3,
+      "end": 3,
+      "status": "sintesi"
+    }
+  ]
+}

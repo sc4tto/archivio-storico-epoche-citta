@@ -1,0 +1,92 @@
+{
+  "id": "kh_root",
+  "label": "Competenze di Hariharalaya",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "kh_acqua",
+      "label": "Acqua e paesaggio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "kh_baray",
+          "label": "Progettazione di baray e canali",
+          "status": "documentato"
+        },
+        {
+          "id": "kh_riso",
+          "label": "Gestione della piana risicola",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "kh_edilizia",
+      "label": "Edilizia monumentale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "kh_mattone",
+          "label": "Laterizio e stucco",
+          "status": "documentato"
+        },
+        {
+          "id": "kh_pietra",
+          "label": "Taglio e scultura della pietra",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "kh_rituale",
+      "label": "Rituale regio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "kh_antenati",
+          "label": "Culto dinastico degli antenati",
+          "status": "documentato"
+        },
+        {
+          "id": "kh_tempio",
+          "label": "Tempio-montagna e cosmologia",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "kh_logistica",
+      "label": "Logistica",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "kh_lavoro",
+          "label": "Mobilitazione del lavoro",
+          "status": "sintesi"
+        },
+        {
+          "id": "kh_surplus",
+          "label": "Raccolta e redistribuzione del surplus",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "kh_ambiente",
+      "label": "Ecologia locale",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "kh_pesca",
+          "label": "Uso delle risorse acquatiche",
+          "status": "inferito"
+        },
+        {
+          "id": "kh_stagioni",
+          "label": "Calendario monsonico",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

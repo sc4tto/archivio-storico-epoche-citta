@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Fondazione del villaggio",
+    "Crescita dell’insediamento",
+    "Uso del cimitero",
+    "Reti regionali",
+    "Abbandono"
+  ],
+  "items": [
+    {
+      "id": "houses",
+      "label": "Abitazioni leggere",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "pottery",
+      "label": "Ceramica Phùng Nguyên",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "axes",
+      "label": "Asce levigate",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "fish",
+      "label": "Pesca marina e salmastra",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "burials",
+      "label": "Cimitero con numerose sepolture",
+      "lane": "Funerarie",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "pigs",
+      "label": "Gestione di suini e cani",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "mix",
+      "label": "Interazione fra gruppi differenti",
+      "lane": "Organizzazione",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

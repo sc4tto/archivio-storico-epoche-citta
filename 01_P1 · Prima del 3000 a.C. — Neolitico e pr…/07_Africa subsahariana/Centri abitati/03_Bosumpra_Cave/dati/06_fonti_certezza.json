@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Bosumpra conserva una delle sequenze archeologiche più lunghe note in Ghana",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "BOSUMPRA_REVISITED"
+  },
+  {
+    "claim": "Il sito documenta uso di piante per gran parte dell’Olocene",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "BOSUMPRA_PLANTS"
+  },
+  {
+    "claim": "La ceramica compare precocemente nella sequenza",
+    "theme": "Ceramica",
+    "status": "documentato",
+    "source": "BOSUMPRA_REVISITED"
+  },
+  {
+    "claim": "Microliti e strumenti bifacciali caratterizzano le fasi antiche",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "BOSUMPRA_REVISITED"
+  },
+  {
+    "claim": "Le occupazioni furono probabilmente periodiche",
+    "theme": "Insediamento",
+    "status": "sintesi",
+    "source": "BOSUMPRA_REVISITED"
+  },
+  {
+    "claim": "La ceramica dimostra coltivazione di cereali domestici",
+    "theme": "Agricoltura",
+    "status": "non_documentato",
+    "source": "Resti soprattutto di piante selvatiche"
+  },
+  {
+    "claim": "Il riparo era una città permanente",
+    "theme": "Urbanizzazione",
+    "status": "non_documentato",
+    "source": "Uso ricorrente di un riparo"
+  },
+  {
+    "claim": "Tutti i livelli appartengono allo stesso gruppo umano",
+    "theme": "Identità",
+    "status": "non_documentato",
+    "source": "Sequenza plurimillenaria"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Hampi conserva i resti della capitale del regno di Vijayanagara fra XIV e XVI secolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "VI1"
+  },
+  {
+    "claim": "Il paesaggio urbano integrava centro reale, aree sacre e suburbia.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "VI1; VI2"
+  },
+  {
+    "claim": "Canali, serbatoi e vasche erano parte strutturale della capitale.",
+    "theme": "acqua",
+    "status": "documentato",
+    "source": "VI1; VI2"
+  },
+  {
+    "claim": "La maggior parte delle strutture monumentali impiega granito locale, mattoni e malta di calce.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "VI1"
+  },
+  {
+    "claim": "Bazar monumentali collegavano templi, mercati e rituali processionali.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "VI1; VI2"
+  },
+  {
+    "claim": "Gli edifici secolari mostrano anche elementi indo-islamici.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "VI1"
+  },
+  {
+    "claim": "La fondazione imperiale risale al XIV secolo, ma il paesaggio sacro è più antico.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "VI1; VI2"
+  },
+  {
+    "claim": "L’apogeo del primo Cinquecento non è incluso nel periodo P5.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "VI1"
+  }
+]

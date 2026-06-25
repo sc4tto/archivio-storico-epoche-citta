@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Kozhikode",
+      "lat": 11.259,
+      "lon": 75.78,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "bay",
+      "label": "Beypore",
+      "lat": 11.18,
+      "lon": 75.8,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "pan",
+      "label": "Panthalayani-Kollam",
+      "lat": 11.44,
+      "lon": 75.69,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "way",
+      "label": "Wayanad e Ghati",
+      "lat": 11.7,
+      "lon": 76.1,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "ade",
+      "label": "Aden",
+      "lat": 12.79,
+      "lon": 45.03,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "hor",
+      "label": "Hormuz",
+      "lat": 27.1,
+      "lon": 56.45,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "qua",
+      "label": "Quanzhou",
+      "lat": 24.87,
+      "lon": 118.68,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "bay",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "approdi e cantieri",
+      "food": "legname, imbarcazioni e pesce"
+    },
+    {
+      "source": "pan",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete portuale del Malabar",
+      "food": "riso, pepe e mercanti"
+    },
+    {
+      "source": "way",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "passi dei Ghati",
+      "food": "pepe, cardamomo e prodotti forestali"
+    },
+    {
+      "source": "ade",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotta arabica",
+      "food": "cavalli, argento e tessili"
+    },
+    {
+      "source": "hor",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Golfo Persico",
+      "food": "cavalli, ceramiche e mercanti"
+    },
+    {
+      "source": "qua",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "rotta cinese",
+      "food": "ceramiche, seta e metalli"
+    }
+  ]
+}

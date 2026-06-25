@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Pretoria",
+      "lat": -25.7479,
+      "lon": 28.2293,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "api",
+      "label": "Valle dell’Apies",
+      "lat": -25.7,
+      "lon": 28.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "tra",
+      "label": "Fattorie del Transvaal",
+      "lat": -25.5,
+      "lon": 29.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "ndb",
+      "label": "Territori ndebele e tswana",
+      "lat": -25.2,
+      "lon": 27.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "joh",
+      "label": "Johannesburg e Witwatersrand",
+      "lat": -26.2,
+      "lon": 28.05,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "del",
+      "label": "Delagoa Bay / Maputo",
+      "lat": -25.97,
+      "lon": 32.58,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "cap",
+      "label": "Cape Colony e Natal",
+      "lat": -30.0,
+      "lon": 25.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "api",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiume, canali e strade",
+      "food": "acqua, ortaggi e materiali locali"
+    },
+    {
+      "source": "tra",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carri e mercati",
+      "food": "mais, bestiame, latte e legname"
+    },
+    {
+      "source": "ndb",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "scambi e rapporti spesso coercitivi",
+      "food": "lavoro, bestiame e prodotti regionali"
+    },
+    {
+      "source": "joh",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia e strada",
+      "food": "oro, capitali, manodopera e merci"
+    },
+    {
+      "source": "del",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia Delagoa Bay",
+      "food": "merci importate e accesso marittimo"
+    },
+    {
+      "source": "cap",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti terrestri e ferroviarie",
+      "food": "manufatti, armi, libri e migranti"
+    }
+  ]
+}

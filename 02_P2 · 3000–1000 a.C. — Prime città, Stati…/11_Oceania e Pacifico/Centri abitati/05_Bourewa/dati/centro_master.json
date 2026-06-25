@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Bourewa — modulo multi-grafo",
+    "short_name": "Bourewa",
+    "site": "Sito Lapita di Bourewa",
+    "modern_location": "Penisola di Rove, Viti Levu sud-occidentale, Figi",
+    "coordinates": {
+      "lat": -18.11,
+      "lon": 177.36
+    },
+    "scope": "Insediamento costiero Lapita fra i più antichi delle Figi, con ceramica decorata e comune, fosse, resti domestici, pesca, orticoltura e materiali che attestano collegamenti a lunghissima distanza.",
+    "version": "1.0-blocco_24_p2_oceania_pacifico_5_centri_v1",
+    "warning": "La stratigrafia è stata modificata dall’erosione costiera e da processi post-deposizionali. Il modello di crescita del villaggio è probabilistico e non equivale a una planimetria completa."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "BOU_MODEL",
+      "title": "Nicholls e Nunn — Spatio-temporal model for settlement and growth at Bourewa",
+      "url": "https://arxiv.org/abs/1006.5575",
+      "use": "datazioni, crescita spaziale e limiti stratigrafici"
+    },
+    {
+      "id": "BOU_NUNN",
+      "title": "Nunn et al. — The first people of Fiji and their settlements",
+      "url": "https://scholar.google.com/scholar?q=Bourewa+Lapita+Fiji+Nunn",
+      "use": "cronologia, ceramica e primo popolamento"
+    },
+    {
+      "id": "BOU_OBS",
+      "title": "Dickinson et al. — Petrography and long-distance exchange in Lapita Fiji",
+      "url": "https://scholar.google.com/scholar?q=Bourewa+obsidian+Lapita+Fiji",
+      "use": "provenienza di materiali e reti oceaniche"
+    }
+  ]
+}

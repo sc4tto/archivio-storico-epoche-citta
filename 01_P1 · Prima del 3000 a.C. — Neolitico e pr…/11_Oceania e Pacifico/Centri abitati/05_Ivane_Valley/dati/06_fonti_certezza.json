@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "La valle di Ivane conserva occupazioni d’altopiano fra circa 49.000 e 44.000 anni fa",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "IVANE_SCIENCE_2010"
+  },
+  {
+    "claim": "Sono documentate lavorazioni di piante e residui amidacei",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "IVANE_SCIENCE_2010"
+  },
+  {
+    "claim": "Le comunità si adattarono a condizioni montane fredde",
+    "theme": "Ambiente",
+    "status": "documentato",
+    "source": "IVANE_SCIENCE_2010"
+  },
+  {
+    "claim": "Sono presenti strumenti litici adatti a diverse attività",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "IVANE_SCIENCE_2010"
+  },
+  {
+    "claim": "La colonizzazione degli altopiani fu molto anteriore all’agricoltura",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "IVANE_SCIENCE_2010"
+  },
+  {
+    "claim": "Le prime occupazioni erano villaggi agricoli",
+    "theme": "Agricoltura",
+    "status": "non_documentato",
+    "source": "Campi di cacciatori-raccoglitori"
+  },
+  {
+    "claim": "Le popolazioni erano austronesiane",
+    "theme": "Popolazioni",
+    "status": "non_documentato",
+    "source": "Espansioni austronesiane molto più tarde"
+  },
+  {
+    "claim": "L’uso delle piante prova domesticazione",
+    "theme": "Archeobotanica",
+    "status": "non_documentato",
+    "source": "Uso non equivale a domesticazione"
+  }
+]

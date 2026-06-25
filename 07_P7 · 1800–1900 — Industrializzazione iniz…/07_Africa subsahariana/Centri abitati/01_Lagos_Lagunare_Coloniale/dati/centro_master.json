@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Lagos lagunare e coloniale",
+    "site": "Lagos lagunare e coloniale",
+    "modern_location": "Lagos, Nigeria",
+    "coordinates": {
+      "lat": 6.455,
+      "lon": 3.3841
+    },
+    "scope": "Lagos fra 1800 e 1900: regno e autorità degli oba, porto lagunare, commercio atlantico, comunità yoruba e di ritorno, missioni, annessione britannica, infrastrutture coloniali e segregazione emergente.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Amalgamazione della Nigeria del 1914, porto di Apapa novecentesco e crescita metropolitana contemporanea sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "LA1",
+      "title": "Encyclopaedia Britannica — Lagos",
+      "use": "Storia urbana, porto e trasformazioni coloniali.",
+      "url": "https://www.britannica.com/place/Lagos-Nigeria"
+    },
+    {
+      "id": "LA2",
+      "title": "National Archives of Nigeria",
+      "use": "Documentazione amministrativa e coloniale.",
+      "url": "https://nationalarchives.gov.ng/"
+    },
+    {
+      "id": "LA3",
+      "title": "Lagos State Government — History",
+      "use": "Contesto storico e territoriale della città.",
+      "url": "https://lagosstate.gov.ng/"
+    },
+    {
+      "id": "LA4",
+      "title": "British Library — West Africa collections",
+      "use": "Mappe, fotografie e commercio ottocentesco.",
+      "url": "https://www.bl.uk/"
+    },
+    {
+      "id": "LA5",
+      "title": "The Metropolitan Museum of Art — Art of the Yoruba",
+      "use": "Cultura materiale e contesto yoruba.",
+      "url": "https://www.metmuseum.org/toah/hd/yoru/hd_yoru.htm"
+    }
+  ]
+}

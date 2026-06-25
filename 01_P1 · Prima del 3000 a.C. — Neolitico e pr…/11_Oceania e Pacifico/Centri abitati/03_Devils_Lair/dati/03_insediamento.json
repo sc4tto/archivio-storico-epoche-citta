@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Prime presenze pleistoceniche",
+    "Occupazioni antiche",
+    "Ultimo massimo glaciale",
+    "Olocene iniziale",
+    "Fasi tarde e ornamenti"
+  ],
+  "items": [
+    {
+      "id": "occ",
+      "label": "Uso intermittente della grotta",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "hearth",
+      "label": "Focolari stratificati",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "lithic",
+      "label": "Utensili litici",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "bone",
+      "label": "Strumenti ossei",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "fauna",
+      "label": "Accumuli faunistici",
+      "lane": "Evidenze",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "ornaments",
+      "label": "Perle e pendenti nelle fasi tarde",
+      "lane": "Rituali",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "sediments",
+      "label": "Deposizione di oltre cento livelli",
+      "lane": "Formazione",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

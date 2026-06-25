@@ -1,0 +1,74 @@
+{
+  "phases": [
+    "750–802",
+    "802–877",
+    "877–889",
+    "889–920"
+  ],
+  "items": [
+    {
+      "id": "s1",
+      "label": "Insediamenti e santuari pre-angkoriani",
+      "lane": "Abitato",
+      "start": 0,
+      "end": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "s2",
+      "label": "Corte itinerante e consolidamento regio",
+      "lane": "Potere",
+      "start": 1,
+      "end": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "s3",
+      "label": "Hariharalaya capitale stabile",
+      "lane": "Potere",
+      "start": 1,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "s4",
+      "label": "Preah Ko, Bakong e complessi reali",
+      "lane": "Culto monumentale",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "s5",
+      "label": "Indratataka e gestione delle acque",
+      "lane": "Infrastrutture",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s6",
+      "label": "Quartieri domestici in materiali deperibili",
+      "lane": "Abitato",
+      "start": 1,
+      "end": 3,
+      "status": "inferito"
+    },
+    {
+      "id": "s7",
+      "label": "Lolei e transizione dinastica",
+      "lane": "Culto monumentale",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "s8",
+      "label": "Spostamento verso Yasodharapura",
+      "lane": "Potere",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    }
+  ]
+}

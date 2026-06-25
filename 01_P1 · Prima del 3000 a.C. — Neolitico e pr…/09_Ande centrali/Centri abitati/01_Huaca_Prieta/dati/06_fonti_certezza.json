@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Huaca Prieta conserva una sequenza molto anteriore al villaggio preceramico tardo",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "HUACA_QR"
+  },
+  {
+    "claim": "Le tecnologie litiche antiche erano prevalentemente unifacciali",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "HUACA_SCIADV"
+  },
+  {
+    "claim": "La dieta integrava risorse marine e terrestri",
+    "theme": "Alimentazione",
+    "status": "documentato",
+    "source": "HUACA_SCIADV"
+  },
+  {
+    "claim": "Sono documentati tessili di cotone con pigmento indaco",
+    "theme": "Tessili",
+    "status": "documentato",
+    "source": "HUACA_INDIGO"
+  },
+  {
+    "claim": "Le fasi tarde comprendono strutture seminterrate",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "HUACA_QR"
+  },
+  {
+    "claim": "Tutte le fasi furono un unico villaggio continuo",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Sequenza lunga e discontinua"
+  },
+  {
+    "claim": "L’agricoltura intensiva dominò fin dalle prime presenze",
+    "theme": "Agricoltura",
+    "status": "non_documentato",
+    "source": "Economia iniziale diversificata"
+  },
+  {
+    "claim": "Il monticolo ebbe sempre una funzione monumentale pianificata",
+    "theme": "Architettura",
+    "status": "non_documentato",
+    "source": "Accumulo e costruzioni di epoche diverse"
+  }
+]

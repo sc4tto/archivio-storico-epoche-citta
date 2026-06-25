@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Nanchoc",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Orticoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Zucca",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Arachide",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Manioca e chenopodi",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Acqua",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Lettura delle pendenze",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_2",
+          "label": "Scavo dei canali",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Manutenzione",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Cotone",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Selezione delle piante",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_2",
+          "label": "Raccolta della fibra",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Lavorazione",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Edilizia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Piante ellittiche",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Fango e pietra",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Coperture leggere",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Litica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Scheggiatura unifacciale",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Macinazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Lavorazione del legno",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Organizzazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Case raggruppate",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Lavoro sui canali",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_3",
+          "label": "Autorità ereditarie",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

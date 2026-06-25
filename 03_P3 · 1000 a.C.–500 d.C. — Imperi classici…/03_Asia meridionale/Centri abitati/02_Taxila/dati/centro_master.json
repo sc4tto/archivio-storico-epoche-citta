@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Taxila — modulo multi-grafo",
+    "short_name": "Taxila",
+    "site": "Complesso urbano e monastico di Taxila",
+    "modern_location": "Punjab, Pakistan",
+    "coordinates": {
+      "lat": 33.745,
+      "lon": 72.839
+    },
+    "scope": "Vasto complesso seriale con le città di Bhir Mound, Sirkap e Sirsukh, stupa e monasteri buddhisti, posto sul collegamento fra Indo, Gandhara, Asia centrale e pianura gangetica.",
+    "version": "1.0-blocco_28_p3_asia_meridionale_5_centri_v1",
+    "warning": "Taxila non è una singola città continua: i principali centri urbani appartengono a fasi e posizioni diverse. Le attribuzioni etniche e politiche non devono sostituire la cronologia archeologica."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "TAX_UNESCO",
+      "title": "UNESCO — Taxila",
+      "url": "https://whc.unesco.org/en/list/139/",
+      "use": "sequenza urbana di Bhir, Sirkap, Sirsukh e complessi buddhisti"
+    },
+    {
+      "id": "TAX_MARSHALL",
+      "title": "John Marshall — Taxila: An Illustrated Account of Archaeological Excavations",
+      "url": "https://archive.org/search?query=John+Marshall+Taxila+excavations",
+      "use": "scavi, topografia e reperti del complesso"
+    },
+    {
+      "id": "TAX_ALLCHIN",
+      "title": "Allchin ed Erdosy — The Archaeology of Early Historic South Asia",
+      "url": "https://search.worldcat.org/search?q=The+Archaeology+of+Early+Historic+South+Asia",
+      "use": "urbanizzazione e reti regionali"
+    }
+  ]
+}

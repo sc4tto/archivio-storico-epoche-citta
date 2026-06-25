@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Pachacamac — fasi iniziali",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Architettura in terra",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Adobe",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Piattaforme",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Tutti gli edifici visibili nel P3",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Cronologia",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Fase Lima",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Trasformazioni successive",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Sequenza senza lacune",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Rituali",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Offerte",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Pellegrinaggi",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_3",
+          "label": "Oracolo identico in ogni fase",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Economia",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Agricoltura di valle",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Pesca",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Mercato centralizzato certo",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Paesaggio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Valle di Lurín",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Isole e costa",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Separazione dalla campagna",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Relazioni",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Tradizione Lima",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Costa meridionale",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_3",
+          "label": "Rete panandina completa prima del 500",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

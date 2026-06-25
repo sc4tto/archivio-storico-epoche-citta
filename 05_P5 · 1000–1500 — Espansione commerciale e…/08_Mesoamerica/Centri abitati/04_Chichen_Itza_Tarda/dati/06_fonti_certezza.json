@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Chichén Itzá fu uno dei maggiori centri maya dello Yucatán.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "CI1; CI2"
+  },
+  {
+    "claim": "I cenotes erano essenziali per acqua e ritualità.",
+    "theme": "ambiente",
+    "status": "documentato",
+    "source": "CI1; CI3"
+  },
+  {
+    "claim": "La fase monumentale combinò tradizioni maya ed elementi del Messico centrale.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "CI1; CI2"
+  },
+  {
+    "claim": "Dopo il XIII secolo cessarono le principali costruzioni monumentali.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "CI1"
+  },
+  {
+    "claim": "Il sito mantenne influenza e funzioni rituali fino al XV secolo.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "CI1"
+  },
+  {
+    "claim": "Sale e prodotti costieri circolavano nelle reti regionali.",
+    "theme": "economia",
+    "status": "sintesi",
+    "source": "CI2; CI4"
+  },
+  {
+    "claim": "Una conquista tolteca diretta non è presentata come certezza.",
+    "theme": "metodo",
+    "status": "sintesi",
+    "source": "CI1; CI2"
+  },
+  {
+    "claim": "Le ricostruzioni moderne non sono trattate come evidenza originaria.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "CI1; CI3"
+  }
+]

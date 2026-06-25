@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Ujjain — modulo multi-grafo",
+    "short_name": "Ujjain",
+    "site": "Ujjayini, capitale di Avanti e centro del Malwa",
+    "modern_location": "Ujjain, Madhya Pradesh, India",
+    "coordinates": {
+      "lat": 23.1765,
+      "lon": 75.7885
+    },
+    "scope": "Città fortificata sul fiume Kshipra e nodo commerciale dell’altopiano del Malwa, collegata alle vie verso il Gange, il Deccan e i porti occidentali; capitale di Avanti e centro politico, monetario, religioso e astronomico.",
+    "version": "1.0-blocco_28_p3_asia_meridionale_5_centri_v1",
+    "warning": "La città antica è in larga parte coperta dall’abitato moderno. La cronologia della cinta, l’ubicazione di edifici pubblici e le tradizioni astronomiche richiedono di distinguere dati archeologici, testi e memorie posteriori."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "UJJ_ALLCHIN",
+      "title": "Allchin ed Erdosy — The Archaeology of Early Historic South Asia",
+      "url": "https://search.worldcat.org/search?q=The+Archaeology+of+Early+Historic+South+Asia",
+      "use": "fortificazione, urbanizzazione e reti del Malwa"
+    },
+    {
+      "id": "UJJ_SCHLINGLOFF",
+      "title": "Dieter Schlingloff — Fortified Cities of Ancient India",
+      "url": "https://search.worldcat.org/search?q=Fortified+Cities+of+Ancient+India+Schlingloff",
+      "use": "mura, fossati e topografia urbana"
+    },
+    {
+      "id": "UJJ_BASANT",
+      "title": "P. K. Basant — The City and the Country in Early India: A Study of Malwa",
+      "url": "https://search.worldcat.org/search?q=The+City+and+the+Country+in+Early+India+Basant",
+      "use": "economia, territorio e società di Ujjain"
+    }
+  ]
+}

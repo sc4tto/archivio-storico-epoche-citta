@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Mérida fu fondata nel 1542 sul sito maya di T’hó.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "ME1; ME2"
+  },
+  {
+    "claim": "La piazza maggiore concentrava cattedrale, cabildo e residenze di élite.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "ME2; ME3"
+  },
+  {
+    "claim": "Barrios e comunità maya continuarono a strutturare la città e il territorio.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "ME4; ME5"
+  },
+  {
+    "claim": "Cenotes e pozzi erano essenziali in un ambiente carsico privo di grandi fiumi.",
+    "theme": "territorio",
+    "status": "documentato",
+    "source": "ME1; ME4"
+  },
+  {
+    "claim": "La provincia dipendeva da milpa, miele, sale, bestiame e scambi costieri.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "ME2; ME5"
+  },
+  {
+    "claim": "Encomienda, tributo e repartimiento imposero lavoro e prelievi coercitivi.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "ME4; ME5"
+  },
+  {
+    "claim": "Il porto di Campeche collegava Mérida alle reti del Golfo.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "ME2; ME5"
+  },
+  {
+    "claim": "Il boom ottocentesco dell’henequén è escluso.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "ME2"
+  }
+]

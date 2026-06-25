@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Troia/Hisarlık",
+      "lat": 39.957,
+      "lon": 26.239,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "dardanelles",
+      "label": "Dardanelli",
+      "lat": 40.05,
+      "lon": 26.3,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "scamander",
+      "label": "Pianura dello Scamandro",
+      "lat": 39.9,
+      "lon": 26.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "aegean",
+      "label": "Isole dell’Egeo",
+      "lat": 39.4,
+      "lon": 25.8,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "anatolia",
+      "label": "Anatolia occidentale",
+      "lat": 39.2,
+      "lon": 27.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "blacksea",
+      "label": "Mar Nero e Balcani",
+      "lat": 41.0,
+      "lon": 28.9,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "dardanelles",
+      "target": "site",
+      "label": "navigazione, pesce e pedaggi possibili",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "scamander",
+      "target": "site",
+      "label": "cereali e pascoli",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "aegean",
+      "target": "site",
+      "label": "ceramiche e beni",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "anatolia",
+      "target": "site",
+      "label": "metalli, persone e tradizioni",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "blacksea",
+      "target": "site",
+      "label": "rotte e materie prime",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

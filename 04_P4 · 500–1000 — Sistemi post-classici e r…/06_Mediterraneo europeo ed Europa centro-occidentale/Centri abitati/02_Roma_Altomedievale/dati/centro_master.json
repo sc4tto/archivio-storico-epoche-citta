@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Roma altomedievale",
+    "site": "Roma entro le mura aureliane e poli basilicali",
+    "modern_location": "Roma, Italia",
+    "coordinates": {
+      "lat": 41.8933,
+      "lon": 12.4829
+    },
+    "scope": "Trasformazioni di Roma fra 500 e 1000: città papale, basiliche, pellegrinaggi, riuso dell’antico, difesa e rapporti con il territorio.",
+    "version": "1.0",
+    "warning": "L’immagine monumentale non coincide con l’intera città abitata: densità, orti, rovine riutilizzate e quartieri sparsi variarono molto nel tempo."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "R1",
+      "title": "UNESCO World Heritage Centre — Historic Centre of Rome",
+      "use": "Stratificazione fra città antica e cristiana, basiliche, mura e infrastrutture.",
+      "url": "https://whc.unesco.org/en/list/91/"
+    },
+    {
+      "id": "R2",
+      "title": "Encyclopaedia Britannica — Rome: History",
+      "use": "Quadro politico e urbano dalla tarda antichità al medioevo.",
+      "url": "https://www.britannica.com/place/Rome/History"
+    },
+    {
+      "id": "R3",
+      "title": "Richard Krautheimer, Rome: Profile of a City, 312–1308",
+      "use": "Topografia, chiese e trasformazioni altomedievali.",
+      "url": "https://archive.org/details/romeprofileofcit0000krau"
+    },
+    {
+      "id": "R4",
+      "title": "Vatican — Major Basilicas",
+      "use": "Basiliche, pellegrinaggio e istituzioni ecclesiastiche.",
+      "url": "https://www.vatican.va/various/basiliche/index_en.html"
+    },
+    {
+      "id": "R5",
+      "title": "Sovrintendenza Capitolina — Roma medievale",
+      "use": "Patrimonio archeologico e urbano della città medievale.",
+      "url": "https://www.sovraintendenzaroma.it/"
+    }
+  ]
+}

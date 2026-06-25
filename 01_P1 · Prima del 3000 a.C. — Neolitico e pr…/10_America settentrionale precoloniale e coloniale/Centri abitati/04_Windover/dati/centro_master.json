@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Windover — modulo multi-grafo",
+    "short_name": "Windover",
+    "site": "Cimitero arcaico di Windover Pond",
+    "modern_location": "Brevard County, Florida, Stati Uniti",
+    "coordinates": {
+      "lat": 28.49,
+      "lon": -80.78
+    },
+    "scope": "Piccolo stagno di torba usato come area funeraria nel Medio Arcaico, con straordinaria conservazione di resti umani, tessili, legno, strumenti e materiali botanici.",
+    "version": "1.0-blocco_11_p1_america_settentrionale_5_centri_v1",
+    "warning": "Windover è soprattutto un cimitero, non il villaggio residenziale completo. La vita quotidiana viene ricostruita da corredi, isotopi, resti botanici e confronti regionali."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "WINDOVER_DORAN",
+      "title": "Doran (a cura di) — Windover: Multidisciplinary Investigations of an Early Archaic Florida Cemetery",
+      "url": "https://upf.com/book.asp?id=9780813014208",
+      "use": "scavi, bioarcheologia, tessili e contesto funerario"
+    },
+    {
+      "id": "WINDOVER_TUROSS",
+      "title": "Tuross et al. — Subsistence in the Florida Archaic: Stable-Isotope and Archaeobotanical Evidence from Windover",
+      "url": "https://doi.org/10.2307/281929",
+      "use": "dieta e risorse vegetali e animali"
+    },
+    {
+      "id": "WINDOVER_NHL",
+      "title": "National Park Service — Windover Archeological Site, National Historic Landmark",
+      "url": "https://www.nps.gov/subjects/nationalhistoriclandmarks/",
+      "use": "tutela e rilevanza nazionale"
+    }
+  ]
+}

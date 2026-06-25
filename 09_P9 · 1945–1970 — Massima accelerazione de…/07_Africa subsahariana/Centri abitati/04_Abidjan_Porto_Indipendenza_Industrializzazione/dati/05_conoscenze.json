@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Abidjan, porto, indipendenza e industrializzazione",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Pianificazione lagunare",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Piani Badani e SETAP, bonifiche, ponti e assi di crescita",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Zonizzazione, terreni instabili, drenaggio e insediamenti irregolari",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Porto e industria",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Canale di Vridi, porto, ferrovia e zone industriali",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Logistica, dogane, magazzini, lavorazione alimentare e manifatture",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Migrazioni e mercati",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Migrazione ivoriana e regionale, venditrici e reti di lavoro",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Mercati, trasporti, alloggio in affitto e quartieri popolari",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Istituzioni e servizi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Stato indipendente, investimenti pubblici e amministrazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Acqua, sanità, scuole, ospedali e trasporto pubblico",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Disuguaglianze",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Differenze fra Plateau, quartieri pianificati e periferie",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Sgomberi, precarietà fondiaria, congestione e accesso diseguale ai servizi",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

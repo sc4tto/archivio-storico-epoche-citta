@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Houston, energia, logistica, alluvioni e alloggi",
+    "site": "Houston, energia, logistica, alluvioni e alloggi",
+    "modern_location": "Houston, Texas, Stati Uniti",
+    "coordinates": {
+      "lat": 29.7604,
+      "lon": -95.3698
+    },
+    "scope": "Houston dal 1970 al 25 giugno 2026: espansione metropolitana a bassa densità, industria petrolifera e petrolchimica, porto, medicina e aerospazio, immigrazione, METRORail, dipendenza dall’automobile, crisi degli alloggi, segregazione ed environmental injustice, uragani e alluvioni culminati con Harvey nel 2017, calore estremo e transizione energetica.",
+    "version": "1.0",
+    "warning": "La neutralità climatica al 2050, i programmi METRONow e i progetti di resilienza non conclusi sono qualificati come piani e obiettivi futuri."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "HO1",
+      "title": "City of Houston — Resilient Houston",
+      "use": "Hurricane Harvey, alluvioni, infrastrutture, quartieri e resilienza.",
+      "url": "https://www.houstontx.gov/mayor/Resilient-Houston-20200518-single-page.pdf"
+    },
+    {
+      "id": "HO2",
+      "title": "City of Houston — Climate Action Plan",
+      "use": "Energia, trasporti, edifici, rifiuti e obiettivo futuro di neutralità climatica al 2050.",
+      "url": "https://www.houstontx.gov/council/committees/qol/20200923/cap.pdf"
+    },
+    {
+      "id": "HO3",
+      "title": "Houston METRO — Current Projects",
+      "use": "Manutenzione, accessibilità, corridoi autobus e infrastrutture del trasporto pubblico.",
+      "url": "https://www.ridemetro.org/about/plans-projects/current-metro-projects"
+    },
+    {
+      "id": "HO4",
+      "title": "City of Houston — Market Value Analysis",
+      "use": "Crisi abitativa, rischio di spostamento, mercati immobiliari e disuguaglianze.",
+      "url": "https://houstontx.gov/housing/gis/reports/Market_Value_Analysis_Final_Report-110222.pdf"
+    }
+  ]
+}

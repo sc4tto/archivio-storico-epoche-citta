@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Yangshao iniziale",
+    "Banpo sviluppata",
+    "Banpo tarda",
+    "Trasformazioni finali",
+    "Abbandono"
+  ],
+  "items": [
+    {
+      "id": "moat",
+      "label": "Fossato attorno all’area abitata",
+      "lane": "Impianto",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Case circolari e quadrangolari seminterrate",
+      "lane": "Abitazioni",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "central",
+      "label": "Spazi aperti e organizzazione del villaggio",
+      "lane": "Comunitarie",
+      "start": 0,
+      "end": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "kilns",
+      "label": "Fornaci fuori dall’area abitativa",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "pits",
+      "label": "Fosse di deposito",
+      "lane": "Conservazione",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "cemetery",
+      "label": "Cimitero separato",
+      "lane": "Funerarie",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "children",
+      "label": "Sepolture infantili in contenitori",
+      "lane": "Funerarie",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    }
+  ]
+}

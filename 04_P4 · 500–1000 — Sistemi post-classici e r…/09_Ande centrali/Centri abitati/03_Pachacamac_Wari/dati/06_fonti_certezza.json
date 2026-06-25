@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Pachacamac era un santuario di lunga durata, non fondato ex novo dai Wari.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "P1; P2; P3"
+  },
+  {
+    "claim": "Nel medio orizzonte il sito ricevette materiali e forme architettoniche connesse al mondo Wari.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "P1; P3; P4"
+  },
+  {
+    "claim": "Il pellegrinaggio collegava costa, sierra e regioni lontane.",
+    "theme": "religione",
+    "status": "sintesi",
+    "source": "P2; P3; P5"
+  },
+  {
+    "claim": "Agricoltura irrigua e risorse marine sostenevano il santuario.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "P1; P2"
+  },
+  {
+    "claim": "Adobe, pietra, legno e intonaco erano impiegati in combinazione.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "P2; P5"
+  },
+  {
+    "claim": "Il Tempio Dipinto conserva fasi e restauri di periodi diversi.",
+    "theme": "certezza",
+    "status": "documentato",
+    "source": "P2; P3"
+  },
+  {
+    "claim": "L’influenza Wari non dimostra automaticamente un controllo politico diretto.",
+    "theme": "certezza",
+    "status": "documentato",
+    "source": "P3; P4; P5"
+  },
+  {
+    "claim": "Le offerte comprendono alimenti, tessili, ceramiche e beni esotici.",
+    "theme": "rituale",
+    "status": "documentato",
+    "source": "P1; P3"
+  }
+]

@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Fort Ancient Earthworks",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Topografia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Promontorio",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Valle del Little Miami",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Scelta casuale del luogo",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Terrapieni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Costruzione in fasi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Accessi multipli",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Uso esclusivamente militare",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Spazi rituali",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Moorehead Circle",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Raduni",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_3",
+          "label": "Funzione unica",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Astronomia",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Allineamenti",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Osservazioni cicliche",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_3",
+          "label": "Calendario interamente noto",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Identità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Costruttori Hopewell",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Riuso più tardo",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Costruttori Fort Ancient",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Reti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Ohio meridionale",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Materie prime lontane",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Confini politici fissi",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

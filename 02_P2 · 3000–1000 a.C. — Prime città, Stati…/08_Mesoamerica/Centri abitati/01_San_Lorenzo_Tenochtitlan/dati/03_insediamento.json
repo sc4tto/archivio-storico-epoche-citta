@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Villaggi precedenti",
+    "Fase San Lorenzo A",
+    "Massima espansione",
+    "Riorganizzazione finale",
+    "Riduzione e rioccupazioni"
+  ],
+  "items": [
+    {
+      "id": "plateau",
+      "label": "Modifica dell’altopiano",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Case e piattaforme domestiche",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "drains",
+      "label": "Drenaggi e condotti in pietra",
+      "lane": "Infrastrutture",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "lagoons",
+      "label": "Lagune artificiali e riserve",
+      "lane": "Infrastrutture",
+      "start": 2,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "sculpt",
+      "label": "Sculture monumentali",
+      "lane": "Artigianato",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "heads",
+      "label": "Teste colossali",
+      "lane": "Monumentali",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "decline",
+      "label": "Deposizione e ricollocazione dei monumenti",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

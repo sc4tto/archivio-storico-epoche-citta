@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Prime occupazioni arcaiche",
+    "Abitazioni e fosse",
+    "Cimiteri e cani",
+    "Occupazioni arcaiche tarde",
+    "Copertura alluvionale e fasi posteriori"
+  ],
+  "items": [
+    {
+      "id": "layers",
+      "label": "Occupazioni separate da sedimenti",
+      "lane": "Formazione",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Strutture abitative",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "hearth",
+      "label": "Focolari e fosse",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "grind",
+      "label": "Macinazione di piante",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "fish",
+      "label": "Pesca e caccia",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "burials",
+      "label": "Sepolture umane e canine",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "flood",
+      "label": "Seppellimento alluvionale",
+      "lane": "Trasformazione",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

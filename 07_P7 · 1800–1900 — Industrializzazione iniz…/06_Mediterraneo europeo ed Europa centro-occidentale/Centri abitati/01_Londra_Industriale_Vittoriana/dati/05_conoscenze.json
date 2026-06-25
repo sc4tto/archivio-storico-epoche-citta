@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Londra industriale e vittoriana",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Trasporti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Docks, chiatte e navigazione a vapore",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Ferrovie, omnibus e metropolitana",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Sanità urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Fognature, acqua filtrata e drenaggi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Colera, sovraffollamento e riforma sanitaria",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Industria e finanza",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Banche, assicurazioni e commercio",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Fabbriche, magazzini e lavoro portuale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Neogotico, ferro e vetro",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Case a schiera e grandi infrastrutture",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Società",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Classi, migrazioni e quartieri operai",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Riforme, associazioni e conflitto sociale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

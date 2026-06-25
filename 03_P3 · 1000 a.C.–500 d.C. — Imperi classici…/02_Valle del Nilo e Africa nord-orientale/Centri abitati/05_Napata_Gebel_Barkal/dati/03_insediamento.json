@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Regno napateo",
+    "XXV dinastia e rapporti con l’Egitto",
+    "Consolidamento kushita",
+    "Transizione verso Meroe",
+    "Riuso meroitico"
+  ],
+  "items": [
+    {
+      "id": "amun",
+      "label": "Tempio di Amon a Gebel Barkal",
+      "lane": "Religiose",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "palaces",
+      "label": "Palazzi e residenze regali",
+      "lane": "Monumentali",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "kurru",
+      "label": "Necropoli di El-Kurru",
+      "lane": "Rituali",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "nuri",
+      "label": "Necropoli di Nuri",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "sanam",
+      "label": "Sanam e insediamenti associati",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "river",
+      "label": "Approdi e traffico sul Nilo",
+      "lane": "Territorio",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "meroitic",
+      "label": "Trasformazioni meroitiche",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

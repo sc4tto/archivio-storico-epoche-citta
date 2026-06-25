@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Karachi, porto, industria, acqua, mobilità e clima",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Porto e industria",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Logistica, manifattura e catene nazionali",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Lavoro formale, informale e sicurezza",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Acqua e fognatura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Captazione, distribuzione, perdite e depurazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Accesso equo, tanker economy e salute",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Mobilità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Bus, BRT, ferrovia e trasporto paraformale",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Sicurezza, genere e accessibilità",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Rischio climatico",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Calore, drenaggio, costa e alluvioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Allerta, spazi verdi e resilienza comunitaria",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Governance urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "KMC, Sindh e agenzie settoriali",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Frammentazione, trasparenza e partecipazione",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

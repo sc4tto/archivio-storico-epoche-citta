@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Tikal",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Scrittura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Glifi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Date di Lungo Computo",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Sequenza completa senza lacune",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Acqua",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Serbatoi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Canali",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Piogge sempre sufficienti",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Politica",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Dinastia",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Alleanze",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Confini territoriali fissi",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Acropoli",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Piazze",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Templi più tardi nel P3",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Relazioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Teotihuacan",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Calakmul",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Colonizzazione certa",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Paesaggio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Foresta gestita",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_2",
+          "label": "Campi e terrazze",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Città isolata dalla campagna",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

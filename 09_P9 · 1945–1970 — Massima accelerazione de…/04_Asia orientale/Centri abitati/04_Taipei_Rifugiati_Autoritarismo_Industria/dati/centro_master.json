@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Taipei, rifugiati, autoritarismo e industrializzazione",
+    "site": "Taipei, rifugiati, autoritarismo e industrializzazione",
+    "modern_location": "Taipei, Taiwan",
+    "coordinates": {
+      "lat": 25.033,
+      "lon": 121.5654
+    },
+    "scope": "Taipei fra 1945 e 1970: fine del dominio giapponese, amministrazione della Repubblica di Cina, rivolta del 28 febbraio e repressione, trasferimento del governo nazionalista, rifugiati, legge marziale, industrializzazione e ampliamento municipale.",
+    "version": "1.0",
+    "warning": "Sono esclusi la perdita del seggio cinese all’ONU nel 1971, le grandi mobilitazioni democratiche successive, la metropolitana e le trasformazioni urbane dopo il 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "TA1",
+      "title": "Taipei City Government — The Urban Development Context",
+      "use": "Evoluzione urbana, pianificazione, infrastrutture e ruolo nazionale di Taipei.",
+      "url": "https://www-ws.gov.taipei/001/Upload/public/Attachment/011116284336.pdf"
+    },
+    {
+      "id": "TA2",
+      "title": "Taipei City Government — Taipei City Statistical Abstract",
+      "use": "Popolazione, ampliamento territoriale e servizi municipali dal 1968.",
+      "url": "https://www-ws.gov.taipei/001/Upload/367/relfile/45669/8040144/bb5087eb-caec-4d1e-8cc4-6cf29b84bb43.pdf"
+    },
+    {
+      "id": "TA3",
+      "title": "Academia Sinica — The Emergence of De-Exile: Cultural Politics and the Postwar Generation in Taiwan",
+      "use": "Rifugiati del 1949, legge marziale, Terrore bianco e repressione culturale.",
+      "url": "https://www.ios.sinica.edu.tw/people/personal/hac/2014%20The%20Emergence%20of%20De-Exile%20Cultural%20Politics.pdf"
+    },
+    {
+      "id": "TA4",
+      "title": "Academia Sinica — Industrial Growth and Small and Medium-sized Enterprises",
+      "use": "Politiche industriali, imprese pubbliche, esportazioni e crescita delle PMI.",
+      "url": "https://idv.sinica.edu.tw/wwchu/SME%20TW.pdf"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "L’occupazione principale di El Tajín è oggi collocata fra circa 800 e 1200.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "E1; E5"
+  },
+  {
+    "claim": "La città utilizzava i dislivelli naturali per separare complessi e accessi.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "E1; E3"
+  },
+  {
+    "claim": "Nicchie, greche, rilievi e pitture erano parte integrante del linguaggio architettonico.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "E1; E2"
+  },
+  {
+    "claim": "Il numero elevato di campi da gioco indica un ruolo rituale e politico eccezionale.",
+    "theme": "rituale",
+    "status": "documentato",
+    "source": "E1; E4"
+  },
+  {
+    "claim": "El Tajín era collegata a reti del Golfo e a regioni più lontane.",
+    "theme": "commercio",
+    "status": "documentato",
+    "source": "E1; E3"
+  },
+  {
+    "claim": "L’identità etnica degli abitanti non può essere determinata automaticamente dalle fonti tarde.",
+    "theme": "certezza",
+    "status": "documentato",
+    "source": "E1; E5"
+  },
+  {
+    "claim": "Prodotti tropicali come cacao o vaniglia sono plausibili ma non uniformemente attestati in ogni contesto.",
+    "theme": "alimentazione",
+    "status": "sintesi",
+    "source": "E3; E5"
+  },
+  {
+    "claim": "Le scene dei rilievi richiedono interpretazione e non sono semplici cronache letterali.",
+    "theme": "interpretazione",
+    "status": "sintesi",
+    "source": "E4"
+  }
+]

@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Kanchipuram",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Templi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Kailasanatha",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Vaikuntha Perumal",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Tutti gli edifici visibili sono pallava",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Scultura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Rilievi shaiva",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Programmi vaishnava",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Colori originali completi",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Religioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Shaivismo",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Vaishnavismo",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Buddhismo e giainismo",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Iscrizioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Donazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Genealogie pallava",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Cronologie senza lacune",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Urbanistica",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Città policentrica",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_2",
+          "label": "Quartieri templari",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_3",
+          "label": "Pianta completa del P4",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Reti",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Mamallapuram",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Deccan e Sri Lanka",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_3",
+          "label": "Controllo diretto di tutte le rotte",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

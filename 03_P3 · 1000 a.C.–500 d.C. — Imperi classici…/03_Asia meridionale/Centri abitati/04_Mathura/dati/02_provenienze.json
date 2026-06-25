@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Mathura",
+      "lat": 27.4924,
+      "lon": 77.6737,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "yamuna",
+      "label": "Fiume Yamuna",
+      "lat": 27.5,
+      "lon": 77.69,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "kankali",
+      "label": "Kankali Tila",
+      "lat": 27.489,
+      "lon": 77.66,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "mora",
+      "label": "Mora e villaggi del distretto",
+      "lat": 27.6,
+      "lon": 77.55,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "taxila",
+      "label": "Taxila e nord-ovest",
+      "lat": 33.745,
+      "lon": 72.839,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "sanchi",
+      "label": "Sanchi e Malwa",
+      "lat": 23.479,
+      "lon": 77.739,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "yamuna",
+      "target": "site",
+      "label": "trasporto, acqua e approvvigionamento",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "kankali",
+      "target": "site",
+      "label": "istituzioni jainiste e scultura",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "mora",
+      "target": "site",
+      "label": "arenaria, santuari e iscrizioni",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "taxila",
+      "target": "site",
+      "label": "monete, persone e modelli artistici",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "sanchi",
+      "target": "site",
+      "label": "reti buddhiste e commerci con il Malwa",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Philadelphia industriale e metropolitana",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Manifatture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Tessili, locomotive e cantieri",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Stampa, alimentari e metalli",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Trasporti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Pennsylvania e Reading Railroad",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Porto, canali e ponti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Società",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Immigrazione e quartieri etnici",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Abolizionismo e comunità afroamericane",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Salute urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Acqua potabile e fognature",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Epidemie, inquinamento e riforme",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Disuguaglianza",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Lavoro minorile e orari lunghi",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Segregazione abitativa e violenza nativista",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

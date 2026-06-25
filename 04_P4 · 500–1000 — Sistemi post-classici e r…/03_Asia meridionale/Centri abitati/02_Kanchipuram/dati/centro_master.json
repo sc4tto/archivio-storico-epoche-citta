@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Kanchipuram — modulo multi-grafo",
+    "short_name": "Kanchipuram",
+    "site": "Città templare pallava e chola iniziale",
+    "modern_location": "Kanchipuram, Tamil Nadu, India",
+    "coordinates": {
+      "lat": 12.8342,
+      "lon": 79.7036
+    },
+    "scope": "Capitale e città sacra dell’India meridionale fra VI e X secolo, con templi shaiva e vaishnava, tradizioni buddhiste e giainiste, istituzioni brahmaniche, artigianato e collegamenti con il porto pallava di Mamallapuram.",
+    "version": "1.0-blocco_39_p4_asia_meridionale_5_centri_v1",
+    "warning": "La città attuale ingloba gran parte dell’abitato antico. Molti gopuram, recinti, mandapa e restauri visibili sono posteriori al 1000; il modulo separa i nuclei pallava — Kailasanatha e Vaikuntha Perumal — dalle aggiunte chola e tardo-medievali."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "KAN_UNESCO",
+      "title": "UNESCO Tentative List — Temples of Kanchipuram",
+      "url": "https://whc.unesco.org/en/tentativelists/6528/",
+      "use": "templi pallava, pluralità religiosa e sviluppo urbano"
+    },
+    {
+      "id": "KAN_ASI",
+      "title": "Archaeological Survey of India — Kanchipuram monuments",
+      "url": "https://asi.nic.in/",
+      "use": "tutela, iscrizioni e architettura"
+    },
+    {
+      "id": "KAN_STEIN",
+      "title": "Burton Stein — Peasant State and Society in Medieval South India",
+      "url": "https://archive.org/details/peasantstatesoci0000stei",
+      "use": "istituzioni regionali, templi e società"
+    }
+  ]
+}

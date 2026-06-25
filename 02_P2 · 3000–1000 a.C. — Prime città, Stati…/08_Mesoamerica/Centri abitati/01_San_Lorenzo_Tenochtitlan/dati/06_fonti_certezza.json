@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "San Lorenzo fu un grande centro regionale del Formativo iniziale",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "SL_COE_DIEHL"
+  },
+  {
+    "claim": "L’altopiano fu modificato con grandi riporti di terra",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "SL_CYPHERS"
+  },
+  {
+    "claim": "Il basalto monumentale proveniva dalla regione delle Tuxtlas",
+    "theme": "Provenienze",
+    "status": "documentato",
+    "source": "SL_POOL"
+  },
+  {
+    "claim": "Il sito comprende drenaggi e condotti di pietra",
+    "theme": "Infrastrutture",
+    "status": "documentato",
+    "source": "SL_COE_DIEHL"
+  },
+  {
+    "claim": "Le teste colossali rappresentano probabilmente personaggi di alto rango",
+    "theme": "Iconografia",
+    "status": "sintesi",
+    "source": "SL_CYPHERS"
+  },
+  {
+    "claim": "San Lorenzo controllava politicamente ogni comunità della costa del Golfo",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Estensione del controllo discussa"
+  },
+  {
+    "claim": "Tutte le sculture furono distrutte da invasori",
+    "theme": "Declino",
+    "status": "non_documentato",
+    "source": "Ricollocazioni e mutilazioni con cause diverse"
+  },
+  {
+    "claim": "I drenaggi costituivano un acquedotto pressurizzato moderno",
+    "theme": "Tecnologia",
+    "status": "non_documentato",
+    "source": "Funzione idraulica specifica discussa"
+  }
+]

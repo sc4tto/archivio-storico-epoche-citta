@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1300–1350",
+    "1350–1400",
+    "1400–1450",
+    "1450–1500",
+    "1500–1550"
+  ],
+  "items": [
+    {
+      "id": "po1",
+      "label": "Prime occupazioni e orticoltura sulle pendici",
+      "lane": "Insediamento",
+      "start": 0,
+      "end": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "po2",
+      "label": "Terrazzamento progressivo del cono",
+      "lane": "Infrastrutture",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "po3",
+      "label": "Costruzione di case, rua e aree di lavoro",
+      "lane": "Costruzione",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "po4",
+      "label": "Intensificazione del kūmara",
+      "lane": "Agricoltura",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "po5",
+      "label": "Sviluppo di fossati e terrapieni iniziali",
+      "lane": "Difesa",
+      "start": 2,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "po6",
+      "label": "Uso coordinato di più insediamenti stagionali",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "po7",
+      "label": "Consolidamento di autorità del hapū",
+      "lane": "Politica",
+      "start": 2,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "po8",
+      "label": "Ulteriore fortificazione dopo il 1500",
+      "lane": "Cronologia",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

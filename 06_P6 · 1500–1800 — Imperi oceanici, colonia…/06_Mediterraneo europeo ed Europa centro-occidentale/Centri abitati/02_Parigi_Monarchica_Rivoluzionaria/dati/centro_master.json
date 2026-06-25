@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Parigi monarchica e rivoluzionaria",
+    "site": "Parigi monarchica e rivoluzionaria",
+    "modern_location": "Parigi, Francia",
+    "coordinates": {
+      "lat": 48.8566,
+      "lon": 2.3522
+    },
+    "scope": "Parigi fra 1500 e 1800: città sulla Senna, corte e amministrazione reale, mercati, manifatture, istituzioni religiose e scientifiche, fino alla Rivoluzione francese.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1800. Grandi boulevard haussmanniani, ferrovie e trasformazioni del Secondo Impero sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "PA1",
+      "title": "UNESCO — Paris, Banks of the Seine",
+      "use": "Paesaggio monumentale e ruolo storico della Senna.",
+      "url": "https://whc.unesco.org/en/list/600/"
+    },
+    {
+      "id": "PA2",
+      "title": "Musée Carnavalet — Histoire de Paris",
+      "use": "Storia urbana, vita quotidiana e Rivoluzione.",
+      "url": "https://www.carnavalet.paris.fr/"
+    },
+    {
+      "id": "PA3",
+      "title": "Musée du Louvre — History of the Louvre",
+      "use": "Palazzo reale, trasformazioni architettoniche e collezioni.",
+      "url": "https://www.louvre.fr/en/explore/the-palace"
+    },
+    {
+      "id": "PA4",
+      "title": "Bibliothèque nationale de France — Gallica",
+      "use": "Mappe, stampe e fonti sulla città moderna.",
+      "url": "https://gallica.bnf.fr/"
+    },
+    {
+      "id": "PA5",
+      "title": "Archives de Paris",
+      "use": "Documentazione amministrativa e urbana.",
+      "url": "https://archives.paris.fr/"
+    }
+  ]
+}

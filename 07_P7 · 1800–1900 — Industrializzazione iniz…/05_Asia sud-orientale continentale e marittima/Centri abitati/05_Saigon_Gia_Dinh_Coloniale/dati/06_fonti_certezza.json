@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Saigon fu conquistata dalle forze francesi nel 1859.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "SA1; SA2"
+  },
+  {
+    "claim": "Dal 1862 divenne capitale della colonia di Cocincina.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "SA1; SA5"
+  },
+  {
+    "claim": "Il porto e le esportazioni di riso sostennero la crescita coloniale.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "SA1; SA2"
+  },
+  {
+    "claim": "Chợ Lớn fu un importante centro mercantile e di lavorazione del riso.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "SA1; SA3"
+  },
+  {
+    "claim": "Boulevard, edifici pubblici e ferrovia trasformarono il paesaggio urbano.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "SA2; SA3"
+  },
+  {
+    "claim": "Tassazione, requisizioni e lavoro coercitivo accompagnarono il sistema coloniale.",
+    "theme": "coercizione",
+    "status": "documentato",
+    "source": "SA2; SA4"
+  },
+  {
+    "claim": "Canali e fiumi continuarono a essere essenziali per trasporti e approvvigionamento.",
+    "theme": "territorio",
+    "status": "documentato",
+    "source": "SA1; SA3"
+  },
+  {
+    "claim": "Le guerre del Novecento sono fuori dal limite del modulo.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "SA1"
+  }
+]

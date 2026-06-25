@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Parigi, grands ensembles, bidonvilles e decolonizzazione",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Pianificazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "PADOG, grands ensembles, HLM, rénovation urbaine e infrastrutture metropolitane",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Zonizzazione, prefabbricazione, densità e servizi collettivi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Economia urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Industria periferica, amministrazione, commercio, edilizia e servizi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Les Halles, logistica, mercati e reti migranti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Politica e istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Quarta e Quinta Repubblica, prefettura, comuni e Stato pianificatore",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Guerra d’Algeria, polizia, controllo amministrativo e welfare",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Migranti interni, algerini, portoghesi, operai, impiegati e studenti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Sindacati, associazioni, reti familiari e culture postcoloniali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Crisi e disuguaglianze",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Carenza abitativa, bidonvilles, sovraffollamento e segregazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Sgomberi, cités de transit, razzismo, repressione di polizia e periferie monofunzionali",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

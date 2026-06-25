@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Hattusa era divisa in Città Bassa e Città Alta e protetta da oltre 8 km di mura",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "HATTUSA_UNESCO"
+  },
+  {
+    "claim": "La città conserva porte monumentali, torri, templi e quartieri abitati",
+    "theme": "Architettura",
+    "status": "documentato",
+    "source": "HATTUSA_UNESCO"
+  },
+  {
+    "claim": "Il Grande Tempio si trova nella Città Bassa",
+    "theme": "Culto",
+    "status": "documentato",
+    "source": "HATTUSA_UNESCO"
+  },
+  {
+    "claim": "Yazılıkaya era un santuario rupestre con rilievi di divinità",
+    "theme": "Rituali",
+    "status": "documentato",
+    "source": "HATTUSA_UNESCO"
+  },
+  {
+    "claim": "Gli archivi cuneiformi documentano trattati, rituali e amministrazione",
+    "theme": "Scrittura",
+    "status": "documentato",
+    "source": "HITTITE_TABLETS"
+  },
+  {
+    "claim": "Ogni edificio della Città Alta era un tempio",
+    "theme": "Funzione",
+    "status": "non_documentato",
+    "source": "Distretto prevalentemente templare, ma funzioni plurali"
+  },
+  {
+    "claim": "L’abbandono finale fu causato da un singolo assedio identificato",
+    "theme": "Fine della città",
+    "status": "non_documentato",
+    "source": "Cause complesse e discusse"
+  },
+  {
+    "claim": "La città era autosufficiente e non dipendeva da reti imperiali",
+    "theme": "Economia",
+    "status": "non_documentato",
+    "source": "Ampie reti anatoliche e siriane"
+  }
+]

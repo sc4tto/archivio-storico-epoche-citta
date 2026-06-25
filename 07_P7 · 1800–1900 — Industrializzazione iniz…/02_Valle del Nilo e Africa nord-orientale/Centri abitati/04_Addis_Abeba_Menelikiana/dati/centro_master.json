@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Addis Abeba menelikiana",
+    "site": "Addis Abeba menelikiana",
+    "modern_location": "Addis Abeba, Etiopia",
+    "coordinates": {
+      "lat": 8.9806,
+      "lon": 38.7578
+    },
+    "scope": "Addis Abeba fra 1886 e 1900: fondazione di Menelik II e Taytu, formazione dei safar, palazzo imperiale, mercati, chiese e primi servizi della capitale etiopica.",
+    "version": "1.0",
+    "warning": "Il modulo copre soltanto gli anni 1886–1900. Ferrovia per Gibuti completata, occupazione italiana e trasformazioni novecentesche sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "AD1",
+      "title": "Encyclopaedia Britannica — Addis Ababa",
+      "use": "Fondazione e ruolo di capitale.",
+      "url": "https://www.britannica.com/place/Addis-Ababa"
+    },
+    {
+      "id": "AD2",
+      "title": "Encyclopaedia Britannica — Menelik II",
+      "use": "Politica, modernizzazione e vittoria di Adwa.",
+      "url": "https://www.britannica.com/biography/Menilek-II"
+    },
+    {
+      "id": "AD3",
+      "title": "Ethiopian Heritage Authority",
+      "use": "Patrimonio, palazzi, chiese e siti storici.",
+      "url": "https://heritage.gov.et/"
+    },
+    {
+      "id": "AD4",
+      "title": "Institute of Ethiopian Studies — Addis Ababa University",
+      "use": "Archivi, mappe e cultura materiale etiopica.",
+      "url": "https://www.aau.edu.et/ies/"
+    },
+    {
+      "id": "AD5",
+      "title": "Library of Congress — Ethiopia collections",
+      "use": "Fotografie e documenti storici.",
+      "url": "https://www.loc.gov/pictures/search/?q=Addis%20Ababa"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Bourewa",
+      "lat": -18.11,
+      "lon": 177.36,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "rove",
+      "label": "Penisola di Rove",
+      "lat": -18.1,
+      "lon": 177.35,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "viti",
+      "label": "Viti Levu",
+      "lat": -17.8,
+      "lon": 178.0,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "vanuatu",
+      "label": "Vanuatu",
+      "lat": -16.0,
+      "lon": 167.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "newcaledonia",
+      "label": "Nuova Caledonia",
+      "lat": -21.0,
+      "lon": 165.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "bismarck",
+      "label": "Bismarck / Talasea",
+      "lat": -5.2,
+      "lon": 150.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "rove",
+      "target": "site",
+      "label": "laguna, pesce e approdi",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "viti",
+      "target": "site",
+      "label": "suoli, legname e mobilità locale",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "vanuatu",
+      "target": "site",
+      "label": "rotte occidentali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "newcaledonia",
+      "target": "site",
+      "label": "tradizioni ceramiche",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "bismarck",
+      "target": "site",
+      "label": "ossidiana di lunga distanza",
+      "status": "documentato",
+      "food": "no"
+    }
+  ]
+}

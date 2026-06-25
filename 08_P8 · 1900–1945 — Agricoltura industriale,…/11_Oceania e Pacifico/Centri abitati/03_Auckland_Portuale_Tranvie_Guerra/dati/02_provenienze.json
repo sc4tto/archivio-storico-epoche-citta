@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Auckland",
+      "lat": -36.8485,
+      "lon": 174.7633,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "wai",
+      "label": "Waikato",
+      "lat": -37.8,
+      "lon": 175.3,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "hau",
+      "label": "Hauraki Gulf e isole",
+      "lat": -36.5,
+      "lon": 175.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "nor",
+      "label": "Northland",
+      "lat": -35.5,
+      "lon": 174.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "wel",
+      "label": "Wellington e corridoio nazionale",
+      "lat": -41.29,
+      "lon": 174.78,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "aus",
+      "label": "Australia orientale",
+      "lat": -33.9,
+      "lon": 151.2,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "pac",
+      "label": "Isole del Pacifico e rotte oceaniche",
+      "lat": -20.0,
+      "lon": -175.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "wai",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e strade",
+      "food": "latticini, carne, cereali e carbone"
+    },
+    {
+      "source": "hau",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "traghetti e cabotaggio",
+      "food": "pesce, molluschi, prodotti insulari e navigazione"
+    },
+    {
+      "source": "nor",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e coste",
+      "food": "kauri, gomma, frutta e bestiame"
+    },
+    {
+      "source": "wel",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e cabotaggio",
+      "food": "merci, posta, funzionari e traffici nazionali"
+    },
+    {
+      "source": "aus",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione trans-tasmaniana",
+      "food": "carbone, manufatti, migranti e capitale"
+    },
+    {
+      "source": "pac",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto oceanico",
+      "food": "copra, frutta tropicale, migranti e merci"
+    }
+  ]
+}

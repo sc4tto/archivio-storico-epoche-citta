@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di San José, GAM, mobilità, servizi e rischio",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Governance della GAM",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Municipalità, MOPT, INCOFER, CTP e istituzioni nazionali",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Coordinamento, concessioni, pianificazione e dati",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mobilità regionale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Autobus, ferrovia pendolare, pedonalità e ciclabilità",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Integrazione, accessibilità, sicurezza e riduzione dell’auto",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Servizi e spazio urbano",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Sanità, istruzione, commercio, uffici e spazio pubblico",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Manutenzione, inclusione e qualità urbana",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Rischio e clima",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Sismi, frane, alluvioni, drenaggi e bacini",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Prevenzione, allerta, infrastrutture resilienti e adattamento",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Alloggi e società",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Densificazione, periferie, migrazioni e precarietà",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Affordability, diritti abitativi e disuguaglianze",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

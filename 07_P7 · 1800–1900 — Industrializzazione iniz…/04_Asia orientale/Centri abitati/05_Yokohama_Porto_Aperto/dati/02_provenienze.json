@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Yokohama",
+      "lat": 35.4437,
+      "lon": 139.638,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "kan",
+      "label": "Kanagawa e pianura del Kantō",
+      "lat": 35.45,
+      "lon": 139.4,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "sag",
+      "label": "Baia di Sagami e penisola di Miura",
+      "lat": 35.2,
+      "lon": 139.6,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "sil",
+      "label": "Distretto serico di Gunma e Shinano",
+      "lat": 36.3,
+      "lon": 138.8,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "tok",
+      "label": "Tokyo",
+      "lat": 35.68,
+      "lon": 139.65,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "jap",
+      "label": "Kansai e Giappone occidentale",
+      "lat": 34.7,
+      "lon": 135.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "sea",
+      "label": "Cina, Stati Uniti ed Europa",
+      "lat": 25.0,
+      "lon": 150.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "kan",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e ferrovia",
+      "food": "riso, ortaggi, legname e manodopera"
+    },
+    {
+      "source": "sag",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cabotaggio e mercati",
+      "food": "pesce, sale e prodotti costieri"
+    },
+    {
+      "source": "sil",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e ferrovia verso il porto",
+      "food": "seta greggia e bozzoli"
+    },
+    {
+      "source": "tok",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia del 1872",
+      "food": "capitale, consumatori e merci amministrative"
+    },
+    {
+      "source": "jap",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cabotaggio e rete ferroviaria",
+      "food": "tè, riso, ceramiche e prodotti artigiani"
+    },
+    {
+      "source": "sea",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "piroscafi e compagnie straniere",
+      "food": "macchinari, lana, farina, armi e beni globali"
+    }
+  ]
+}

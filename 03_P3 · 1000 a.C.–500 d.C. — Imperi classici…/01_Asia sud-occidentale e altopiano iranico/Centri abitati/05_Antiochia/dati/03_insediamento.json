@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Fondazione seleucide",
+    "Capitale ellenistica",
+    "Annessione romana",
+    "Grande metropoli imperiale",
+    "Tarda antichità"
+  ],
+  "items": [
+    {
+      "id": "walls",
+      "label": "Mura sul monte Silpio",
+      "lane": "Difensive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "streets",
+      "label": "Assi stradali e colonnati",
+      "lane": "Urbanistiche",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "water",
+      "label": "Acquedotti, ninfei e terme",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Case e ville con mosaici",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "markets",
+      "label": "Mercati e magazzini",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "church",
+      "label": "Prime comunità cristiane",
+      "lane": "Religiose",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "earthquakes",
+      "label": "Terremoti e ricostruzioni",
+      "lane": "Trasformazione",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Roma — modulo multi-grafo",
+    "short_name": "Roma",
+    "site": "Roma repubblicana, imperiale e tardoantica",
+    "modern_location": "Lazio, Italia",
+    "coordinates": {
+      "lat": 41.8931,
+      "lon": 12.4828
+    },
+    "scope": "Capitale della Repubblica e dell’Impero romano, con fori, palazzi, quartieri, acquedotti, terme, anfiteatri, porti fluviali e marittimi e una rete amministrativa estesa al Mediterraneo.",
+    "version": "1.0-blocco_31_p3_mediterraneo_europa_5_centri_v1",
+    "warning": "Roma è una città stratificata e continuamente trasformata. Le stime demografiche, le funzioni di singoli edifici e la cronologia di molte fasi urbane restano oggetto di discussione."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "ROM_UNESCO",
+      "title": "UNESCO — Historic Centre of Rome",
+      "url": "https://whc.unesco.org/en/list/91/",
+      "use": "stratificazione urbana e monumenti antichi"
+    },
+    {
+      "id": "ROM_PARCO",
+      "title": "Parco archeologico del Colosseo",
+      "url": "https://colosseo.it/",
+      "use": "Foro, Palatino e anfiteatro"
+    },
+    {
+      "id": "ROM_OSTIA",
+      "title": "Parco archeologico di Ostia antica",
+      "url": "https://ostiaantica.cultura.gov.it/",
+      "use": "porto, magazzini e approvvigionamento"
+    }
+  ]
+}

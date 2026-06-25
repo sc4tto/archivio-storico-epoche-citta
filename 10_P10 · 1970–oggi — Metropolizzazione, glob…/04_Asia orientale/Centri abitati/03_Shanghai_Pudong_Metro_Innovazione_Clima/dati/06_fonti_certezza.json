@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Il piano Shanghai 2035 è il documento ufficiale di base per pianificazione, costruzione e gestione urbana approvato dal Consiglio di Stato.",
+    "theme": "pianificazione",
+    "status": "documentato",
+    "source": "SH1"
+  },
+  {
+    "claim": "Il master plan propone un modello urbano aperto e compatto, comunità di vita di 15 minuti e una città resiliente.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "SH1"
+  },
+  {
+    "claim": "Il portale municipale presenta la metropolitana come modalità centrale e una rete di autobus capillare.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "SH3"
+  },
+  {
+    "claim": "Le linee guida del 2025 fissano obiettivi quinquennali per un trasporto pubblico più intelligente, verde e accessibile.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "SH4"
+  },
+  {
+    "claim": "I documenti municipali collegano miglioramento ambientale, servizi per anziani e qualità della vita.",
+    "theme": "welfare",
+    "status": "documentato",
+    "source": "SH2"
+  },
+  {
+    "claim": "Shanghai, Pudong, metropolitana, innovazione e clima è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "La tarda Rivoluzione culturale, le ricollocazioni e demolizioni per la trasformazione urbana, la discriminazione legata all’hukou, le restrizioni del lockdown 2022 e la repressione politica non sono presentate come processi neutrali; lavoratori migranti, residenti dei lilong e comunità trasferite restano soggetti storici.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

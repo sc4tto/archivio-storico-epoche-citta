@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_101_P9_America_Settentrionale_5_Centri_v1",
+  "macroregion": "America settentrionale precoloniale e coloniale",
+  "centers": [
+    "01_New_York_Autostrade_Urban_Renewal_Diritti_Civili",
+    "02_Los_Angeles_Freeway_Smog_Watts",
+    "03_Chicago_Expressways_Public_Housing_Segregazione",
+    "04_Toronto_Metro_Subway_Urban_Renewal",
+    "05_Montreal_Rivoluzione_Tranquilla_Metro_Expo67"
+  ],
+  "uses_central_assets": true
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Parigi industriale e haussmanniana",
+    "site": "Parigi industriale e haussmanniana",
+    "modern_location": "Parigi, Francia",
+    "coordinates": {
+      "lat": 48.8566,
+      "lon": 2.3522
+    },
+    "scope": "Parigi fra 1800 e 1900: rivoluzioni, industrializzazione, ferrovie, lavori di Haussmann, nuove reti sanitarie, grandi magazzini, Esposizioni universali e Comune del 1871.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Metropolitana novecentesca, guerre mondiali, grands ensembles e regione metropolitana contemporanea sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "PA1",
+      "title": "UNESCO — Paris, Banks of the Seine",
+      "use": "Paesaggio monumentale, trasformazioni urbane e grandi opere.",
+      "url": "https://whc.unesco.org/en/list/600/"
+    },
+    {
+      "id": "PA2",
+      "title": "Musée Carnavalet — Histoire de Paris",
+      "use": "Vita urbana, rivoluzioni e trasformazioni del XIX secolo.",
+      "url": "https://www.carnavalet.paris.fr/"
+    },
+    {
+      "id": "PA3",
+      "title": "Archives de Paris",
+      "use": "Piani, censimenti, lavori pubblici e amministrazione.",
+      "url": "https://archives.paris.fr/"
+    },
+    {
+      "id": "PA4",
+      "title": "Bibliothèque nationale de France — Gallica",
+      "use": "Mappe, fotografie, giornali e documenti ottocenteschi.",
+      "url": "https://gallica.bnf.fr/"
+    },
+    {
+      "id": "PA5",
+      "title": "Paris Musées",
+      "use": "Patrimonio architettonico, artistico e sociale della capitale.",
+      "url": "https://www.parismusees.paris.fr/"
+    }
+  ]
+}

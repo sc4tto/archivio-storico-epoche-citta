@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Luanda portoghese e atlantica",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Porto e Atlantico",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Navigazione, ancoraggi e dogane",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Magazzini, convogli e rifornimenti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Governo coloniale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Capitani, governatori e forti",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Fiscalità, giustizia e Chiesa",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Tratta schiavistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Cattura, coercizione e carovane",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Imbarco, mortalità e reti brasiliane",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Pietra, calce e mattoni",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Fortificazioni, chiese e case",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Entroterra",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Relazioni con Mbundu e Kongo",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Cuanza, Bengo e vie commerciali",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

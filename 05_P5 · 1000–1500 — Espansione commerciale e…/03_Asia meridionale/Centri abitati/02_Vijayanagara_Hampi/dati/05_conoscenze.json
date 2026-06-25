@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Vijayanagara–Hampi",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Idraulica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Canali e serbatoi",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Agricoltura irrigua",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Centro reale e sacro",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Suburbia e fortificazioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Granito, pilastri e gopura",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Adozioni indo-islamiche negli edifici secolari",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Economia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Bazar e commercio dei cavalli",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Tributo e agricoltura regionale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Ritualità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Templi e processioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Patronato plurale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

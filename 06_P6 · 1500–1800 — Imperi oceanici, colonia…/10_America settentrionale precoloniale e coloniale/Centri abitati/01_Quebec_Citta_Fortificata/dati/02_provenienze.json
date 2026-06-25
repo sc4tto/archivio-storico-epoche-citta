@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Québec",
+      "lat": 46.814,
+      "lon": -71.208,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "orl",
+      "label": "Île d’Orléans e Côte-de-Beaupré",
+      "lat": 46.9,
+      "lon": -71.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "ric",
+      "label": "Valle del Richelieu e Montréal",
+      "lat": 45.7,
+      "lon": -73.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "est",
+      "label": "Estuario e golfo del San Lorenzo",
+      "lat": 48.5,
+      "lon": -66.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "ind",
+      "label": "Territori Wendat, Innu e Wabanaki",
+      "lat": 47.0,
+      "lon": -70.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "atl",
+      "label": "Francia, Antille e Atlantico",
+      "lat": 46.0,
+      "lon": -20.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "hud",
+      "label": "Grandi Laghi e bacino dell’Hudson",
+      "lat": 44.5,
+      "lon": -76.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "orl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "barche e strade del San Lorenzo",
+      "food": "grano, ortaggi, frutta e bestiame"
+    },
+    {
+      "source": "ric",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiume e vie terrestri",
+      "food": "cereali, legname e merci regionali"
+    },
+    {
+      "source": "est",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione estuarina",
+      "food": "pesce, sale e collegamenti marittimi"
+    },
+    {
+      "source": "ind",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "alleanze, scambi e diplomazia",
+      "food": "pellicce, mais, selvaggina e conoscenze territoriali"
+    },
+    {
+      "source": "atl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "convogli atlantici",
+      "food": "vino, tessili, metalli e derrate coloniali"
+    },
+    {
+      "source": "hud",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "reti continentali e militari",
+      "food": "pellicce, merci e informazioni politiche"
+    }
+  ]
+}

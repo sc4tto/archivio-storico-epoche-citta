@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Insediamento prepalaziale",
+    "Prima fortificazione",
+    "Palazzo e cinta maggiore",
+    "Gallerie e ampliamenti",
+    "Distruzione e riuso"
+  ],
+  "items": [
+    {
+      "id": "walls",
+      "label": "Mura ciclopiche",
+      "lane": "Difensive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "galleries",
+      "label": "Gallerie interne alla cinta",
+      "lane": "Difensive",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "palace",
+      "label": "Palazzo e megaron",
+      "lane": "Monumentali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "lower",
+      "label": "Città bassa",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "water",
+      "label": "Accessi protetti all’acqua",
+      "lane": "Infrastrutture",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "frescoes",
+      "label": "Affreschi palaziali",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "workshops",
+      "label": "Laboratori e depositi",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

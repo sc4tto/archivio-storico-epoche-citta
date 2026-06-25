@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Cairo khediviale e riformatore",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Nilo e approvvigionamento",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Canali, navigazione e mercati",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Alluvioni, irrigazione e controllo delle acque",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Riforme statali",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Ministeri, esercito e scuole",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Fiscalità, catasto e burocrazia",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Tessuto storico e quartieri khediviali",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Ponti, strade, illuminazione e tram",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Produzione e commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Manifatture, arsenali e mercati",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Cotone, debito e capitali esteri",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Salute e società",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Epidemie e igiene urbana",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Migrazioni, lavoro e disuguaglianze",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

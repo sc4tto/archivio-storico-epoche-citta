@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Wari–Huari capitale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Gestione urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Compartimentazione in recinti",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Controllo di accessi e percorsi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Agricoltura e scorte",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Terrazze e campi vallivi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Magazzini e grandi recipienti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Ceramica policroma e metallurgia",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Tessitura fine e filatura",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Rituale e potere",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Templi a D e banchetti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Iconografia del dio dei bastoni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Reti territoriali",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Strade e centri provinciali",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_1",
+          "label": "Amministrazione senza scrittura alfabetica",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

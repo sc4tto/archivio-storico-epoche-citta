@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Baghdad ottomana nell’età del Tanzimat",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Fiume e irrigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Canali, argini e trasporto",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Piene, siccità e manutenzione",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Tanzimat",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Catasto, fiscalità e provincia",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Municipalità, scuole e caserme",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Suq, khan e credito",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Vapore, Golfo e India",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Mattone, volta e casa a corte",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Canne, legno e schermature climatiche",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Società urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Comunità musulmane, ebraiche e cristiane",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Pellegrinaggi, mestieri e corporazioni",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

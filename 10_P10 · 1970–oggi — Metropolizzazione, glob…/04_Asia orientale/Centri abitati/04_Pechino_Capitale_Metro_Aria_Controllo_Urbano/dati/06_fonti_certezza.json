@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Il piano urbanistico di Pechino 2016–2035 guida l’assetto urbano e lo sviluppo coordinato Beijing–Tianjin–Hebei.",
+    "theme": "pianificazione",
+    "status": "documentato",
+    "source": "BJ1"
+  },
+  {
+    "claim": "La politica municipale del 2025 rafforza la cooperazione regionale contro l’inquinamento atmosferico.",
+    "theme": "ambiente",
+    "status": "documentato",
+    "source": "BJ2"
+  },
+  {
+    "claim": "Il rapporto sul trasporto verde documenta il forte miglioramento dell’aria e il crescente peso delle fonti mobili nel PM2.5 locale.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "BJ3"
+  },
+  {
+    "claim": "Nel giugno 1989 le truppe aprirono il fuoco su studenti, lavoratori e altri manifestanti che chiedevano riforme politiche.",
+    "theme": "repressione",
+    "status": "documentato",
+    "source": "BJ4"
+  },
+  {
+    "claim": "Le misure con orizzonte 2035 restano obiettivi del master plan e non risultati già completati.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "BJ1"
+  },
+  {
+    "claim": "Pechino, capitale, metropolitana, aria e controllo urbano è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "La repressione di Tiananmen, la censura, le demolizioni degli hutong, gli sgomberi di lavoratori migranti, la discriminazione legata all’hukou e le ricollocazioni per grandi opere non sono neutralizzate come modernizzazione; manifestanti, residenti e lavoratori sono soggetti storici e politici.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

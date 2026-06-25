@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "te1",
+      "label": "Presenze insulari anteriori alla fondazione",
+      "lane": "Insediamento",
+      "start": 2,
+      "end": 2,
+      "status": "sintesi"
+    },
+    {
+      "id": "te2",
+      "label": "Fondazione e primi quartieri mexica",
+      "lane": "Urbanistica",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "te3",
+      "label": "Calzadas, canali e ampliamento delle isole",
+      "lane": "Infrastrutture",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "te4",
+      "label": "Ingresso nella Triplice Alleanza",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "te5",
+      "label": "Espansione del recinto sacro e del Templo Mayor",
+      "lane": "Religione",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "te6",
+      "label": "Palazzi, scuole e quartieri di calpulli",
+      "lane": "Società",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "te7",
+      "label": "Sviluppo delle reti tributarie imperiali",
+      "lane": "Economia",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "te8",
+      "label": "Massima crescita urbana prima del 1500",
+      "lane": "Urbanistica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

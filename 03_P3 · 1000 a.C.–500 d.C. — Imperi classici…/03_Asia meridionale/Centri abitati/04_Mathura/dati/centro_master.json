@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Mathura — modulo multi-grafo",
+    "short_name": "Mathura",
+    "site": "Mathura antica e centro artistico della Yamuna",
+    "modern_location": "Mathura, Uttar Pradesh, India",
+    "coordinates": {
+      "lat": 27.4924,
+      "lon": 77.6737
+    },
+    "scope": "Grande centro urbano e commerciale sulla Yamuna, capitale regionale e nodo fra pianura gangetica, Malwa e nord-ovest, celebre nei periodi Shunga, Indo-Scita, Kushana e Gupta per iscrizioni, monetazione e produzione scultorea buddhista, jainista e brahmanica.",
+    "version": "1.0-blocco_28_p3_asia_meridionale_5_centri_v1",
+    "warning": "La città antica è distribuita sotto e intorno alla Mathura moderna. Molte opere provengono da scavi e ritrovamenti diffusi nel distretto; il concetto di “scuola di Mathura” descrive una produzione regionale e non un’unica officina."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "MAT_QUINT",
+      "title": "Sonya Rhie Quintanilla — History of Early Stone Sculpture at Mathura",
+      "url": "https://brill.com/display/title/12939",
+      "use": "scultura, iscrizioni e produzione artistica fra II secolo a.C. e I secolo d.C."
+    },
+    {
+      "id": "MAT_MUSEUM",
+      "title": "Government Museum, Mathura — collezioni archeologiche",
+      "url": "https://search.worldcat.org/search?q=Government+Museum+Mathura+art",
+      "use": "reperti, statue, iscrizioni e monete del distretto"
+    },
+    {
+      "id": "MAT_ALLCHIN",
+      "title": "Allchin ed Erdosy — The Archaeology of Early Historic South Asia",
+      "url": "https://search.worldcat.org/search?q=The+Archaeology+of+Early+Historic+South+Asia",
+      "use": "urbanizzazione e reti commerciali"
+    }
+  ]
+}

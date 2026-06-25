@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Istanbul",
+      "lat": 41.0082,
+      "lon": 28.9784,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "thr",
+      "label": "Tracia e Rumelia orientale",
+      "lat": 41.3,
+      "lon": 27.4,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "mar",
+      "label": "Marmara e coste asiatiche",
+      "lat": 40.7,
+      "lon": 29.6,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "bos",
+      "label": "Bosforo e Mar Nero",
+      "lat": 41.5,
+      "lon": 29.1,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "ana",
+      "label": "Anatolia interna",
+      "lat": 39.5,
+      "lon": 32.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "bal",
+      "label": "Balcani e Danubio",
+      "lat": 43.0,
+      "lon": 24.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "med",
+      "label": "Egeo, Mediterraneo e rotte globali",
+      "lat": 36.5,
+      "lon": 25.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "thr",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade, ferrovia e navigazione costiera",
+      "food": "grano, bestiame, vino e ortaggi"
+    },
+    {
+      "source": "mar",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "traghetti e cabotaggio",
+      "food": "frutta, olio, latticini e legname"
+    },
+    {
+      "source": "bos",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Bosforo e Corno d’Oro",
+      "food": "pesce, carbone e cereali del Mar Nero"
+    },
+    {
+      "source": "ana",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carovane e ferrovie tardo-ottocentesche",
+      "food": "lana, bestiame, frutta secca e cereali"
+    },
+    {
+      "source": "bal",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Danubio, Mar Nero e ferrovie",
+      "food": "grano, legname e migranti"
+    },
+    {
+      "source": "med",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "linee a vapore e dogane",
+      "food": "caffè, zucchero, riso e manufatti"
+    }
+  ]
+}

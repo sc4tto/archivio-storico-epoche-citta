@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Shenzhen, zona economica, tecnologia, mobilità elettrica e migranti",
+    "site": "Shenzhen, zona economica, tecnologia, mobilità elettrica e migranti",
+    "modern_location": "Shenzhen, Cina",
+    "coordinates": {
+      "lat": 22.5431,
+      "lon": 114.0579
+    },
+    "scope": "Shenzhen dal 1970 al 25 giugno 2026: istituzione della Zona Economica Speciale nel 1980, industrializzazione esportatrice, migrazione di massa, urban villages, elettronica e telecomunicazioni, finanza e innovazione, metropolitana, autobus elettrici, integrazione della Greater Bay Area, prezzi immobiliari e rischio climatico costiero.",
+    "version": "1.0",
+    "warning": "Piani della Greater Bay Area, Qianhai e infrastrutture con scadenze successive al 25 giugno 2026 sono presentati come programmi futuri o in corso."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SZ1",
+      "title": "Shenzhen Government / Qianhai Authority — Commercial spirit defines Shekou and Qianhai",
+      "use": "Istituzione della Zona Economica Speciale nel 1980 e ruolo delle riforme.",
+      "url": "https://qh.sz.gov.cn/en/What_is_/What_is_News_Promotion_Event/content/post_10538763.html"
+    },
+    {
+      "id": "SZ2",
+      "title": "World Bank — Electrification of Public Transport: Shenzhen Case Study",
+      "use": "Transizione della flotta autobus elettrica, gestione e lezioni operative.",
+      "url": "https://openknowledge.worldbank.org/entities/publication/447f6dbc-9530-5599-a479-a366e85c01c9"
+    },
+    {
+      "id": "SZ3",
+      "title": "World Bank — Innovative China: New Drivers of Growth",
+      "use": "Innovazione, imprenditorialità e ruolo del governo locale di Shenzhen.",
+      "url": "https://documents1.worldbank.org/curated/en/833871568732137448/pdf/Innovative-China-New-Drivers-of-Growth.pdf"
+    },
+    {
+      "id": "SZ4",
+      "title": "ILO — Rural Migrant Workers in China: Scenario, Challenges and Public Policy",
+      "use": "Condizioni di lavoro, salari, protezione sociale e discriminazioni dei migranti rurali.",
+      "url": "https://www.ilo.org/media/330291/download"
+    }
+  ]
+}

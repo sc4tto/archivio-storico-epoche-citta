@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "La capitale indipendente mantenne il proprio nucleo sul palinsesto di Tenochtitlan e della città vicereale.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "MC1; MC2"
+  },
+  {
+    "claim": "Guerre civili e interventi stranieri segnarono ripetutamente la città nel XIX secolo.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "MC2; MC4"
+  },
+  {
+    "claim": "La rete ferroviaria collegò la capitale con Veracruz e le principali regioni produttive.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "MC2; MC5"
+  },
+  {
+    "claim": "Mercati coperti, tram e illuminazione trasformarono la vita urbana nel tardo Ottocento.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "MC2; MC5"
+  },
+  {
+    "claim": "Xochimilco continuò a fornire prodotti agricoli attraverso il sistema delle chinampas.",
+    "theme": "alimentazione",
+    "status": "documentato",
+    "source": "MC1; MC3"
+  },
+  {
+    "claim": "Le opere di drenaggio ridussero ulteriormente il paesaggio lacustre.",
+    "theme": "territorio",
+    "status": "documentato",
+    "source": "MC1; MC5"
+  },
+  {
+    "claim": "La modernizzazione si accompagnò a concentrazione della proprietà e forti disuguaglianze.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "MC4; MC5"
+  },
+  {
+    "claim": "Le trasformazioni successive al 1900 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "MC2"
+  }
+]

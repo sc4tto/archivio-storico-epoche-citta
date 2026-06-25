@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Đa Bút",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Acque interne",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Raccolta di molluschi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Pesca",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Stagionalità",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Foresta e caccia",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Fauna selvatica",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Piante selvatiche",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_3",
+          "label": "Mobilità territoriale",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Ceramica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Impasti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Forme semplici",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Cottura",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Tecnologia litica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Ciottoli scheggiati",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Levigatura",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Utensili per fibre",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Pratiche funerarie",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Scelta delle aree di deposizione",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Trattamento del corpo",
+          "status": "sintesi"
+        },
+        {
+          "id": "k5_3",
+          "label": "Memoria del luogo",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Produzione del cibo",
+      "status": "non_documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Coltivazione del riso",
+          "status": "non_documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Allevamento regolare",
+          "status": "non_documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Orticoltura tarda",
+          "status": "inferito"
+        }
+      ]
+    }
+  ]
+}

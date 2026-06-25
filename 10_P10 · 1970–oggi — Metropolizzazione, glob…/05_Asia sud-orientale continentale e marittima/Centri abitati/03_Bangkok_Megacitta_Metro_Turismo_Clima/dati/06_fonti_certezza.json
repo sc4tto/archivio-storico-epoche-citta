@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "La Banca Mondiale descrive Bangkok come particolarmente vulnerabile alle alluvioni urbane e al calore estremo.",
+    "theme": "rischio",
+    "status": "documentato",
+    "source": "BA1"
+  },
+  {
+    "claim": "MRTA pubblica una rete di progetti operativi, in costruzione e pianificati, aggiornata ad aprile 2026.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "BA2"
+  },
+  {
+    "claim": "Le strategie per una Bangkok più fresca combinano verde, superfici, ombra e pianificazione urbana.",
+    "theme": "clima",
+    "status": "documentato",
+    "source": "BA3"
+  },
+  {
+    "claim": "Gli esperti ONU hanno espresso preoccupazione per l’uso della lesa maestà e di procedimenti contro attivisti pro-democrazia.",
+    "theme": "diritti",
+    "status": "documentato",
+    "source": "BA4"
+  },
+  {
+    "claim": "Le linee con scadenze successive al 25 giugno 2026 restano piani o cantieri.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "BA2"
+  },
+  {
+    "claim": "Bangkok, megacittà, metro, turismo e rischio climatico è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "I colpi di Stato, la repressione delle proteste, i procedimenti per lesa maestà, gli sgomberi di comunità lungo canali e ferrovie e la precarietà dei lavoratori migranti sono trattati come rapporti coercitivi e diseguali, non come semplici effetti della crescita.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

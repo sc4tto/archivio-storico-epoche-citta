@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "Shum Laka — modulo multi-grafo",
+    "short_name": "Shum Laka",
+    "site": "Riparo archeologico di Shum Laka",
+    "modern_location": "Grassfields occidentali, Camerun nord-occidentale",
+    "coordinates": {
+      "lat": 5.86,
+      "lon": 10.07
+    },
+    "scope": "Grande riparo con occupazioni della Later Stone Age e dell’Olocene, ricco di manufatti litici, ceramica, resti faunistici e sepolture; il modulo privilegia le fasi anteriori al 3000 a.C.",
+    "version": "1.0-blocco_08_p1_africa_subsahariana_5_centri_v1",
+    "warning": "La posizione geografica vicino all’area proposta per l’origine delle lingue bantu non rende automaticamente gli individui sepolti antenati diretti delle popolazioni bantu. I dati genetici indicano una storia più complessa."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "UNESCO_SHUM",
+      "title": "UNESCO — Le Site archéologique de Shum Laka",
+      "url": "https://whc.unesco.org/en/tentativelists/6331/",
+      "use": "valore del sito, sequenza e contesto culturale"
+    },
+    {
+      "id": "NATURE_SHUM",
+      "title": "Lipson et al. — Ancient West African foragers in the context of African population history",
+      "url": "https://doi.org/10.1038/s41586-020-1929-1",
+      "use": "DNA antico, sepolture e storia delle popolazioni"
+    },
+    {
+      "id": "SHUM_SEQUENCE",
+      "title": "Lavachery — The Holocene Archaeological Sequence of Shum Laka Rock Shelter",
+      "url": "https://doi.org/10.1023/A:1012621719300",
+      "use": "stratigrafia e sequenza olocenica"
+    },
+    {
+      "id": "SHUM_LITHIC",
+      "title": "Cornelissen — On Microlithic Quartz Industries at the End of the Pleistocene in Central Africa",
+      "url": "https://doi.org/10.1023/A:1022830321377",
+      "use": "industrie microlitiche di quarzo"
+    }
+  ]
+}

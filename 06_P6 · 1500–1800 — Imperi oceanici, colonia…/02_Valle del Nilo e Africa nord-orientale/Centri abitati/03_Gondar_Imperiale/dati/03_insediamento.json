@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1500–1560",
+    "1560–1620",
+    "1620–1680",
+    "1680–1740",
+    "1740–1800"
+  ],
+  "items": [
+    {
+      "id": "go1",
+      "label": "Fondazione della capitale da parte di Fasilides",
+      "lane": "Politica",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "go2",
+      "label": "Costruzione del Fasil Ghebbi",
+      "lane": "Costruzione",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "go3",
+      "label": "Espansione di palazzi, chiese e bagni reali",
+      "lane": "Architettura",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "go4",
+      "label": "Crescita di mercati e quartieri comunitari",
+      "lane": "Economia",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "go5",
+      "label": "Fioritura della pittura e dei manoscritti",
+      "lane": "Conoscenza",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "go6",
+      "label": "Reti carovaniere con Sudan e Mar Rosso",
+      "lane": "Mobilità",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "go7",
+      "label": "Conflitti di corte e frammentazione politica",
+      "lane": "Crisi",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "go8",
+      "label": "Persistenza del centro oltre il 1800",
+      "lane": "Continuità",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

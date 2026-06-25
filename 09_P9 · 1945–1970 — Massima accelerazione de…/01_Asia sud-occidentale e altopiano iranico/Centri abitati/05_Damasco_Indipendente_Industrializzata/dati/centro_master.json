@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Damasco indipendente, industrializzata e migrante",
+    "site": "Damasco indipendente, industrializzata e migrante",
+    "modern_location": "Damasco, Siria",
+    "coordinates": {
+      "lat": 33.5138,
+      "lon": 36.2765
+    },
+    "scope": "Damasco fra 1945 e 1970: indipendenza del 1946, crescita amministrativa e industriale, colpi di Stato, Repubblica Araba Unita, ascesa baathista e conseguenze della guerra del 1967.",
+    "version": "1.0",
+    "warning": "Sono escluse le trasformazioni successive al 1970, la guerra civile iniziata nel 2011 e i danni contemporanei."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "DA1",
+      "title": "UNESCO — Ancient City of Damascus",
+      "use": "Tessuto storico, monumenti e continuità urbana.",
+      "url": "https://whc.unesco.org/en/list/20/"
+    },
+    {
+      "id": "DA2",
+      "title": "Encyclopaedia Britannica — Damascus",
+      "use": "Storia politica, economia e crescita moderna.",
+      "url": "https://www.britannica.com/place/Damascus"
+    },
+    {
+      "id": "DA3",
+      "title": "Syrian National Archives",
+      "use": "Documenti amministrativi, cartografici e fotografici.",
+      "url": "https://www.culture.gov.sy/"
+    },
+    {
+      "id": "DA4",
+      "title": "United Nations — Syrian urban and refugee records",
+      "use": "Migrazioni, servizi, sviluppo urbano e profughi.",
+      "url": "https://www.un.org/"
+    }
+  ]
+}

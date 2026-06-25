@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Bangkok",
+      "lat": 13.7563,
+      "lon": 100.5018,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "del",
+      "label": "Delta del Chao Phraya",
+      "lat": 14.1,
+      "lon": 100.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "tho",
+      "label": "Thonburi e Nonthaburi",
+      "lat": 13.82,
+      "lon": 100.42,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "gulf",
+      "label": "Golfo del Siam",
+      "lat": 12.8,
+      "lon": 100.6,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "nor",
+      "label": "Siam settentrionale e nord-orientale",
+      "lat": 17.0,
+      "lon": 101.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "mal",
+      "label": "Penisola malese",
+      "lat": 8.0,
+      "lon": 100.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "asi",
+      "label": "Cina, Giappone e rete regionale",
+      "lat": 22.0,
+      "lon": 112.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "del",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiumi, canali e ferrovia",
+      "food": "riso, zucchero, frutta e manodopera"
+    },
+    {
+      "source": "tho",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "khlong e strade",
+      "food": "verdure, frutta, pesce e ceramiche"
+    },
+    {
+      "source": "gulf",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione costiera",
+      "food": "pesce, sale, petrolio e merci portuali"
+    },
+    {
+      "source": "nor",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie nazionali",
+      "food": "riso, bestiame, legname e migranti"
+    },
+    {
+      "source": "mal",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "linea meridionale e cabotaggio",
+      "food": "stagno, gomma e prodotti peninsulari"
+    },
+    {
+      "source": "asi",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "shipping e comunità mercantili",
+      "food": "tessili, macchinari, tè e capitale"
+    }
+  ]
+}

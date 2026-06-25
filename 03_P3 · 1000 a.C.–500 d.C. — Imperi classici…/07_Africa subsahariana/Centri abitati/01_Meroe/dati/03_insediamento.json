@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Eredità napatea",
+    "Trasferimento del centro politico",
+    "Apogeo meroitico",
+    "Contatti romani e africani",
+    "Declino nel IV secolo"
+  ],
+  "items": [
+    {
+      "id": "royal",
+      "label": "Città reale e palazzi",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "temples",
+      "label": "Templi di Amon e divinità meroitiche",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Quartieri domestici",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "iron",
+      "label": "Officine e lavorazione del ferro",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "hafirs",
+      "label": "Bacini e gestione dell’acqua",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "pyramids",
+      "label": "Necropoli piramidali",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "trade",
+      "label": "Scambi con Egitto, Mar Rosso e Africa interna",
+      "lane": "Organizzazione",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

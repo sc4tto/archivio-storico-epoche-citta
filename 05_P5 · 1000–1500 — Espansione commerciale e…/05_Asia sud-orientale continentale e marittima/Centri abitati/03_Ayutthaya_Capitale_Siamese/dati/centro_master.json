@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Ayutthaya, capitale siamese",
+    "site": "Ayutthaya",
+    "modern_location": "Phra Nakhon Si Ayutthaya, Thailandia",
+    "coordinates": {
+      "lat": 14.3559,
+      "lon": 100.5683
+    },
+    "scope": "Ayutthaya fra 1350 e 1500: fondazione, consolidamento dinastico, espansione territoriale e formazione di una capitale fluviale cosmopolita.",
+    "version": "1.0",
+    "warning": "Il modulo si ferma al 1500. Le grandi presenze europee e molte strutture del XVII–XVIII secolo non vengono retrodatate."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "AY1",
+      "title": "UNESCO — Historic City of Ayutthaya",
+      "use": "Fondazione, urbanistica, canali, commercio e monumenti.",
+      "url": "https://whc.unesco.org/en/list/576/"
+    },
+    {
+      "id": "AY2",
+      "title": "Encyclopaedia Britannica — Ayutthaya",
+      "use": "Storia della capitale e del regno siamese.",
+      "url": "https://www.britannica.com/place/Ayutthaya-Thailand"
+    },
+    {
+      "id": "AY3",
+      "title": "Fine Arts Department Thailand — Ayutthaya Historical Park",
+      "use": "Archeologia, templi e conservazione del sito.",
+      "url": "https://www.finearts.go.th/"
+    },
+    {
+      "id": "AY4",
+      "title": "UNESCO — The Historic City of Ayutthaya OUV",
+      "use": "Rete di strade, canali, fossati e quartieri.",
+      "url": "https://whc.unesco.org/en/list/576/"
+    },
+    {
+      "id": "AY5",
+      "title": "Metropolitan Museum — Arts of Thailand",
+      "use": "Arte buddhista e cultura materiale siamese.",
+      "url": "https://www.metmuseum.org/toah/hd/thai/hd_thai.htm"
+    }
+  ]
+}

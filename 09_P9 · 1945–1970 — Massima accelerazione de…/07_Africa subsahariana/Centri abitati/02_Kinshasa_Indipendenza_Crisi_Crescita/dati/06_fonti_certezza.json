@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "La popolazione di Léopoldville crebbe rapidamente nel dopoguerra e conobbe un nuovo forte aumento dopo l’indipendenza.",
+    "theme": "demografia",
+    "status": "documentato",
+    "source": "KI1; KI2"
+  },
+  {
+    "claim": "La città coloniale separava il centro europeo dalle cités africaines, con accesso diseguale a suolo e servizi.",
+    "theme": "segregazione",
+    "status": "documentato",
+    "source": "KI2; KI3"
+  },
+  {
+    "claim": "Le rivolte del gennaio 1959 furono un passaggio decisivo verso l’indipendenza e furono represse con violenza.",
+    "theme": "decolonizzazione",
+    "status": "documentato",
+    "source": "KI4"
+  },
+  {
+    "claim": "La crisi congolese dal 1960 destabilizzò istituzioni, economia e reti urbane.",
+    "theme": "conflitto",
+    "status": "documentato",
+    "source": "KI4"
+  },
+  {
+    "claim": "Nel 1966 la capitale fu rinominata Kinshasa durante il consolidamento del regime di Mobutu.",
+    "theme": "istituzioni",
+    "status": "documentato",
+    "source": "KI4"
+  },
+  {
+    "claim": "Kinshasa, indipendenza, crisi e crescita urbana è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Segregazione coloniale, repressione delle rivolte, violenza della crisi congolese e autoritarismo sono descritti esplicitamente come sistemi di dominio e coercizione; residenti delle cités, lavoratori e movimenti anticoloniali sono rappresentati come attori storici.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

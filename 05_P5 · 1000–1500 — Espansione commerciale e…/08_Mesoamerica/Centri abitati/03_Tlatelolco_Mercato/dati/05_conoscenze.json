@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Tlatelolco, città gemella e grande mercato",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Valutazione e classificazione delle merci",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Reti dei pochteca",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Trasporto in canoe",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Gestione di canali e approdi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Chinampas e orticoltura",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Conservazione dei prodotti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Urbanistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Piazze e mercati",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Quartieri specializzati",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Religione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Fasi del tempio principale",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Riti collegati alla città gemella",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

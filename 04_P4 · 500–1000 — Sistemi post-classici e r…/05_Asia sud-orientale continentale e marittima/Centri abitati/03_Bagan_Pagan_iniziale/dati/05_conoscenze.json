@@ -1,0 +1,92 @@
+{
+  "id": "bg_root",
+  "label": "Competenze di Bagan iniziale",
+  "status": "sintesi",
+  "children": [
+    {
+      "id": "bg_fiume",
+      "label": "Ambiente fluviale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "bg_nav",
+          "label": "Navigazione sull’Ayeyarwady",
+          "status": "documentato"
+        },
+        {
+          "id": "bg_irrig",
+          "label": "Gestione di acqua e siccità",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "bg_cost",
+      "label": "Costruzione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "bg_brick",
+          "label": "Produzione di laterizi",
+          "status": "documentato"
+        },
+        {
+          "id": "bg_stucco",
+          "label": "Stucco e decorazione",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "bg_agri",
+      "label": "Produzione alimentare",
+      "status": "inferito",
+      "children": [
+        {
+          "id": "bg_dry",
+          "label": "Agricoltura di zona secca",
+          "status": "inferito"
+        },
+        {
+          "id": "bg_fish",
+          "label": "Pesca fluviale",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "bg_relig",
+      "label": "Tradizioni religiose",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "bg_buddha",
+          "label": "Buddhismo in continuità con i Pyu",
+          "status": "sintesi"
+        },
+        {
+          "id": "bg_nat",
+          "label": "Culti locali e nat",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "bg_pol",
+      "label": "Organizzazione politica",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "bg_fort",
+          "label": "Difesa del nucleo urbano",
+          "status": "sintesi"
+        },
+        {
+          "id": "bg_reti",
+          "label": "Integrazione di villaggi e corridoi",
+          "status": "inferito"
+        }
+      ]
+    }
+  ]
+}

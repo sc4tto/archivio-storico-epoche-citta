@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_112_P10_America_Settentrionale_5_Centri_v1",
+  "macroregion": "America settentrionale precoloniale e coloniale",
+  "centers": [
+    "01_New_York_Finanza_Alloggi_Trasporto_Clima",
+    "02_Los_Angeles_Trasporto_Alloggi_Clima_Disuguaglianze",
+    "03_Toronto_Trasporto_Alloggi_Clima_Riconciliazione",
+    "04_Chicago_Trasporto_Segregazione_Clima_Industria",
+    "05_Houston_Energia_Logistica_Alluvioni_Alloggi"
+  ],
+  "uses_central_assets": true
+}

@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Xianyang Qin — modulo multi-grafo",
+    "short_name": "Xianyang Qin",
+    "site": "Capitale Qin di Xianyang e complessi palaziali della valle del Wei",
+    "modern_location": "Xianyang e Xi’an, Shaanxi, Cina",
+    "coordinates": {
+      "lat": 34.36,
+      "lon": 108.71
+    },
+    "scope": "Capitale dello Stato di Qin dal IV secolo a.C. e prima capitale dell’impero unificato, con palazzi, uffici, depositi, officine, infrastrutture stradali e un vasto paesaggio funerario e rituale.",
+    "version": "1.0-blocco_29_p3_asia_orientale_5_centri_v1",
+    "warning": "L’estensione esatta della città e l’eventuale presenza di una cinta urbana continua restano discusse. Il mausoleo del Primo Imperatore è un complesso distinto e non coincide con il centro urbano di Xianyang."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "XIA_UNESCO",
+      "title": "UNESCO — Mausoleum of the First Qin Emperor",
+      "url": "https://whc.unesco.org/en/list/441/",
+      "use": "paesaggio politico, funerario e rapporto simbolico con Xianyang"
+    },
+    {
+      "id": "XIA_CAMBRIDGE",
+      "title": "Cambridge History of Ancient China",
+      "url": "https://search.worldcat.org/search?q=Cambridge+History+of+Ancient+China",
+      "use": "Qin, unificazione e istituzioni imperiali"
+    },
+    {
+      "id": "XIA_ARCH",
+      "title": "Xu Hong — Dynamic Interpretation of Early Cities in Ancient China",
+      "url": "https://search.worldcat.org/search?q=Dynamic+Interpretation+of+Early+Cities+in+Ancient+China",
+      "use": "forma urbana e interpretazioni archeologiche di Xianyang"
+    }
+  ]
+}

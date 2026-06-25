@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Seoul–Hanyang Joseon",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Topografia e difesa",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Monti, mura e porte",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Namhansanseong e rifugi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Corte e rituale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Palazzi e burocrazia Joseon",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Jongmyo e riti confuciani",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Telaio ligneo e ondol",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Tegole, dancheong e cortili",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Mercati e artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Gilde, botteghe e moneta",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Ceramica, carta e metalli",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Alimentazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Tributo in riso e granai",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Fermentazione, essiccazione e cucina rituale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

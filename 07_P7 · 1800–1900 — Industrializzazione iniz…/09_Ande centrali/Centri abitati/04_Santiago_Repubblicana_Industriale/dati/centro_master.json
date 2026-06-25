@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Santiago repubblicana e industriale",
+    "site": "Santiago repubblicana e industriale",
+    "modern_location": "Santiago del Cile, Cile",
+    "coordinates": {
+      "lat": -33.4489,
+      "lon": -70.6693
+    },
+    "scope": "Santiago fra 1800 e 1900: indipendenza, consolidamento repubblicano, ferrovia per Valparaíso e il sud, trasformazioni di Vicuña Mackenna, canalizzazione del Mapocho, mercati, industrie e crescita operaia.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Metropolitane, autostrade, espansione suburbana e sviluppo metropolitano del XX secolo sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SA1",
+      "title": "Encyclopaedia Britannica — Santiago",
+      "use": "Storia, geografia e crescita urbana.",
+      "url": "https://www.britannica.com/place/Santiago-Chile"
+    },
+    {
+      "id": "SA2",
+      "title": "Memoria Chilena — Biblioteca Nacional de Chile",
+      "use": "Urbanistica, ferrovie, società e cultura.",
+      "url": "https://www.memoriachilena.gob.cl/"
+    },
+    {
+      "id": "SA3",
+      "title": "Archivo Nacional de Chile",
+      "use": "Mappe, amministrazione e infrastrutture.",
+      "url": "https://www.archivonacional.gob.cl/"
+    },
+    {
+      "id": "SA4",
+      "title": "Museo Histórico Nacional de Chile",
+      "use": "Storia repubblicana e vita urbana.",
+      "url": "https://www.mhn.gob.cl/"
+    },
+    {
+      "id": "SA5",
+      "title": "Municipalidad de Santiago — Patrimonio",
+      "use": "Quartieri, monumenti e sviluppo della capitale.",
+      "url": "https://www.munistgo.cl/"
+    }
+  ]
+}

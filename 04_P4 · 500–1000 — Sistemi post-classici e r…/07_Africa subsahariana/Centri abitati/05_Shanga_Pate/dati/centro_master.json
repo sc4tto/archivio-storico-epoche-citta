@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Shanga–Pate",
+    "site": "Shanga, isola di Pate",
+    "modern_location": "Lamu County, Kenya",
+    "coordinates": {
+      "lat": -2.08,
+      "lon": 41.04
+    },
+    "scope": "Shanga fra 750 e 1000, con attenzione alla crescita del villaggio, alle prime moschee, all’economia marittima, ai pozzi e alle reti islamiche dell’Oceano Indiano.",
+    "version": "1.0",
+    "warning": "Le ricostruzioni delle prime moschee e dei quartieri dipendono dalla sequenza stratigrafica; la città in pietra pienamente sviluppata appartiene soprattutto ai secoli successivi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Mark Horton — Shanga: The Archaeology of a Muslim Trading Community",
+      "use": "Scavi, fasi, moschee, abitazioni e commercio.",
+      "url": "https://search.worldcat.org/title/35179659"
+    },
+    {
+      "id": "S2",
+      "title": "British Institute in Eastern Africa — Shanga research",
+      "use": "Storia delle ricerche e archeologia della costa del Kenya.",
+      "url": "https://www.biea.ac.uk/"
+    },
+    {
+      "id": "S3",
+      "title": "Helen Brown — Early Muslim Coinage in East Africa: the Evidence from Shanga",
+      "use": "Monete e contatti islamici fra IX e XI secolo.",
+      "url": "https://www.jstor.org/stable/42668727"
+    },
+    {
+      "id": "S4",
+      "title": "UNESCO World Heritage Centre — Lamu Old Town",
+      "use": "Contesto storico e architettonico dell’arcipelago di Lamu.",
+      "url": "https://whc.unesco.org/en/list/1055/"
+    },
+    {
+      "id": "S5",
+      "title": "Mark Horton e John Middleton — The Swahili",
+      "use": "Sintesi su società costiere, urbanizzazione e scambi.",
+      "url": "https://books.google.com/books?id=4H9yAAAAMAAJ"
+    }
+  ]
+}

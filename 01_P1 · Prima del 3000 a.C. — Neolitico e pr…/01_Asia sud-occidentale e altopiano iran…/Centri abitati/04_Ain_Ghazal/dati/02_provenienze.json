@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "‘Ain Ghazal",
+      "lat": 31.991,
+      "lon": 35.976,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 40,
+      "anchor": "middle"
+    },
+    {
+      "id": "zarqa",
+      "label": "Wadi Zarqa",
+      "lat": 32.02,
+      "lon": 36.02,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 10,
+      "dy": -22,
+      "anchor": "start"
+    },
+    {
+      "id": "amman",
+      "label": "Altopiano di Amman",
+      "lat": 31.95,
+      "lon": 35.9,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": 28,
+      "anchor": "end"
+    },
+    {
+      "id": "steppe",
+      "label": "Steppa orientale giordana",
+      "lat": 31.95,
+      "lon": 36.35,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 10,
+      "dy": 28,
+      "anchor": "start"
+    },
+    {
+      "id": "jordan",
+      "label": "Valle del Giordano",
+      "lat": 32.0,
+      "lon": 35.55,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": -10,
+      "dy": -22,
+      "anchor": "end"
+    },
+    {
+      "id": "anatolia",
+      "label": "Anatolia: ossidiana",
+      "lat": 38.5,
+      "lon": 35.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "zarqa",
+      "target": "site",
+      "label": "acqua, canne e risorse ripariali",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "amman",
+      "target": "site",
+      "label": "suoli, pietra e colture",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "steppe",
+      "target": "site",
+      "label": "selvaggina e pascolo",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "jordan",
+      "target": "site",
+      "label": "reti regionali; alimenti non specificati",
+      "status": "sintesi",
+      "food": "non dimostrato"
+    },
+    {
+      "source": "anatolia",
+      "target": "site",
+      "label": "ossidiana; non prova importazione di cibo",
+      "status": "sintesi",
+      "food": "no"
+    }
+  ]
+}

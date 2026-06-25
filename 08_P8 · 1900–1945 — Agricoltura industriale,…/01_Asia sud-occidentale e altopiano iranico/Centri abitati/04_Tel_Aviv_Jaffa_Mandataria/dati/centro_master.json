@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Tel Aviv–Jaffa nel periodo mandatario",
+    "site": "Tel Aviv–Jaffa nel periodo mandatario",
+    "modern_location": "Tel Aviv–Jaffa",
+    "coordinates": {
+      "lat": 32.0853,
+      "lon": 34.7818
+    },
+    "scope": "Tel Aviv e Jaffa fra 1909 e 1945: fondazione di Ahuzat Bayit, espulsione ottomana del 1917, mandato britannico, piano Geddes, immigrazioni ebraiche, White City, economia urbana, porto di Tel Aviv, scioperi e conflitti arabo-ebraici.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1945. Guerra del 1948, espulsione e fuga della popolazione palestinese, unificazione municipale e sviluppo dello Stato di Israele sono esclusi e non retrodatati."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "TA1",
+      "title": "UNESCO — White City of Tel-Aviv",
+      "use": "Piano urbano e architettura del Movimento Moderno.",
+      "url": "https://whc.unesco.org/en/list/1096/"
+    },
+    {
+      "id": "TA2",
+      "title": "Tel Aviv–Yafo Municipality — City archives",
+      "use": "Mappe, fotografie e storia municipale.",
+      "url": "https://www.tel-aviv.gov.il/"
+    },
+    {
+      "id": "TA3",
+      "title": "Israel State Archives",
+      "use": "Mandato britannico, immigrazione e istituzioni.",
+      "url": "https://www.archives.gov.il/"
+    },
+    {
+      "id": "TA4",
+      "title": "The Palestinian Museum Digital Archive",
+      "use": "Jaffa, società palestinese e trasformazioni del mandato.",
+      "url": "https://palarchive.org/"
+    },
+    {
+      "id": "TA5",
+      "title": "Library of Congress — Palestine Mandate maps and photographs",
+      "use": "Cartografia e documentazione del periodo.",
+      "url": "https://www.loc.gov/"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Koster — modulo multi-grafo",
+    "short_name": "Koster",
+    "site": "Sito stratificato di Koster",
+    "modern_location": "Valle inferiore del fiume Illinois, Illinois, Stati Uniti",
+    "coordinates": {
+      "lat": 39.16,
+      "lon": -90.64
+    },
+    "scope": "Sito alluvionale profondamente stratificato con numerose occupazioni dall’Arcaico iniziale, strutture domestiche, focolari, fosse, macine, sepolture umane e cani domestici.",
+    "version": "1.0-blocco_11_p1_america_settentrionale_5_centri_v1",
+    "warning": "Koster comprende molte occupazioni separate da sedimenti; case, cimiteri e sepolture canine appartengono a orizzonti distinti e non formano un unico villaggio continuo."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "KOSTER_CAA",
+      "title": "Center for American Archeology — Koster Site and Lower Illinois Valley research",
+      "url": "https://www.caa-archeology.org/",
+      "use": "storia degli scavi e quadro regionale"
+    },
+    {
+      "id": "KOSTER_BOOK",
+      "title": "Struever e Holton — Koster: Americans in Search of Their Prehistoric Past",
+      "url": "https://search.worldcat.org/search?q=Koster+Americans+in+Search+of+Their+Prehistoric+Past",
+      "use": "stratigrafia, abitazioni e vita arcaica"
+    },
+    {
+      "id": "KOSTER_DOGS",
+      "title": "Perri et al. — New Evidence of the Earliest Domestic Dogs in the Americas",
+      "url": "https://doi.org/10.1017/aaq.2018.74",
+      "use": "datazione e interpretazione delle sepolture canine"
+    }
+  ]
+}

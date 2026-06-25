@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Baghdad",
+      "lat": 33.3152,
+      "lon": 44.3661,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "tigris",
+      "label": "Tigri e canali",
+      "lat": 33.32,
+      "lon": 44.39,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "basra",
+      "label": "Bassora e Golfo Persico",
+      "lat": 30.5,
+      "lon": 47.82,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "damascus",
+      "label": "Damasco",
+      "lat": 33.51,
+      "lon": 36.28,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "nishapur",
+      "label": "Nishapur",
+      "lat": 36.21,
+      "lon": 58.8,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "samarqand",
+      "label": "Samarcanda",
+      "lat": 39.65,
+      "lon": 66.96,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "tigris",
+      "target": "site",
+      "label": "acqua, trasporto e derrate",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "basra",
+      "target": "site",
+      "label": "commercio del Golfo e prodotti oceanici",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "damascus",
+      "target": "site",
+      "label": "funzionari, pellegrini e merci levantine",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "nishapur",
+      "target": "site",
+      "label": "ceramiche, cavalli, carta e uomini di sapere",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "samarqand",
+      "target": "site",
+      "label": "carta, tessili e rotte centroasiatiche",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

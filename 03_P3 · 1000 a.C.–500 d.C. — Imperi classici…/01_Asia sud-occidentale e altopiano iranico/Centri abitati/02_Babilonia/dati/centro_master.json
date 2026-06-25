@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Babilonia — modulo multi-grafo",
+    "short_name": "Babilonia",
+    "site": "Città di Babilonia",
+    "modern_location": "Governatorato di Babil, Iraq",
+    "coordinates": {
+      "lat": 32.54,
+      "lon": 44.42
+    },
+    "scope": "Città mesopotamica di lunga durata, capitale neo-babilonese fra 626 e 539 a.C., con doppia cinta, porte monumentali, via processionale, palazzi, templi, ziggurat, canali e importanti tradizioni matematiche e astronomiche.",
+    "version": "1.0-blocco_25_p3_asia_so_5_centri_v1",
+    "warning": "Le ricostruzioni moderne e le identificazioni dei Giardini Pensili devono essere tenute distinte dai resti archeologici. Il modulo include anche la continuità achemenide ed ellenistica entro il periodo P3."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "BAB_UNESCO",
+      "title": "UNESCO — Babylon",
+      "url": "https://whc.unesco.org/en/list/278/",
+      "use": "urbanistica, mura, porte, palazzi, templi e conservazione"
+    },
+    {
+      "id": "BAB_BM",
+      "title": "British Museum — Babylon: Myth and Reality",
+      "url": "https://www.britishmuseum.org/exhibitions/babylon-myth-and-reality",
+      "use": "materiali, iscrizioni e ricezione della città"
+    },
+    {
+      "id": "BAB_CDLI",
+      "title": "Cuneiform Digital Library Initiative — Babylon",
+      "url": "https://cdli.mpiwg-berlin.mpg.de/",
+      "use": "testi amministrativi, astronomici e scolastici"
+    }
+  ]
+}

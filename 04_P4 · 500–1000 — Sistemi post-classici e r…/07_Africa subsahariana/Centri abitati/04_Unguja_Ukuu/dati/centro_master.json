@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Unguja Ukuu",
+    "site": "Unguja Ukuu, Zanzibar",
+    "modern_location": "Unguja South Region, Tanzania",
+    "coordinates": {
+      "lat": -6.3172,
+      "lon": 39.3744
+    },
+    "scope": "Unguja Ukuu fra 500 e 1000: formazione dell’insediamento, pesca, allevamento, agricoltura, pozzi, artigianato e connessioni dell’Oceano Indiano.",
+    "version": "1.0",
+    "warning": "Il termine “swahili” è usato come categoria storica in formazione; identità, islamizzazione e carattere urbano variarono nel tempo e non vanno retrodatati in forma pienamente sviluppata."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "U1",
+      "title": "Abdurahman Juma — Unguja Ukuu on Zanzibar",
+      "use": "Studio archeologico dell’urbanizzazione e degli scambi.",
+      "url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:169236"
+    },
+    {
+      "id": "U2",
+      "title": "J. Fleisher e S. Wynne-Jones — Finding Meaning in Ancient Swahili Spatial Practices",
+      "use": "Cronologia e organizzazione degli insediamenti costieri.",
+      "url": "https://www.jstor.org/stable/24406708"
+    },
+    {
+      "id": "U3",
+      "title": "A. Crowther et al. — Zanzibar copal at Unguja Ukuu",
+      "use": "Contatti dell’Oceano Indiano nel VII–VIII secolo.",
+      "url": "https://doi.org/10.1016/j.jas.2014.10.004"
+    },
+    {
+      "id": "U4",
+      "title": "National Museums of Tanzania — Unguja Ukuu",
+      "use": "Inquadramento del sito storico e delle testimonianze costiere.",
+      "url": "https://www.maliasili.go.tz/"
+    },
+    {
+      "id": "U5",
+      "title": "UNESCO — Routes of Enslaved Peoples: Swahili Coast context",
+      "use": "Contesto delle reti storiche della costa orientale africana.",
+      "url": "https://en.unesco.org/themes/fostering-rights-inclusion/slave-route"
+    }
+  ]
+}

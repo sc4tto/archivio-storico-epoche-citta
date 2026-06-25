@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Sechín Bajo — modulo multi-grafo",
+    "short_name": "Sechín Bajo",
+    "site": "Complesso monumentale di Sechín Bajo",
+    "modern_location": "Valle di Casma-Sechín, Áncash, Perù",
+    "coordinates": {
+      "lat": -9.463,
+      "lon": -78.255
+    },
+    "scope": "Lunga sequenza dal Tardo Arcaico al Formativo iniziale, con piazze circolari, piattaforme, edifici in pietra e adobe e ripetute ricostruzioni nel paesaggio monumentale della valle di Casma-Sechín.",
+    "version": "1.0-blocco_22_p2_ande_centrali_5_centri_v1",
+    "warning": "Le date più antiche e il primato della monumentalità americana sono oggetto di verifica e confronto. Sechín Bajo non va confuso con Cerro Sechín né con Sechín Alto."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "SECHIN_FUCHS",
+      "title": "Fuchs et al. — Del Arcaico Tardío al Formativo Temprano: investigaciones en Sechín Bajo",
+      "url": "https://revistas.pucp.edu.pe/index.php/boletindearqueologia/article/view/1008",
+      "use": "sequenza architettonica, datazioni e piazze"
+    },
+    {
+      "id": "SECHIN_POZORSKI",
+      "title": "Pozorski e Pozorski — Early Settlement and Subsistence in the Casma Valley",
+      "url": "https://muse.jhu.edu/book/3347",
+      "use": "insediamento, sussistenza e reti della valle"
+    },
+    {
+      "id": "SECHIN_PUCP",
+      "title": "Boletín de Arqueología PUCP — Arcaico e Formativo nelle Ande centrali",
+      "url": "https://revistas.pucp.edu.pe/index.php/boletindearqueologia",
+      "use": "inquadramento regionale e dibattito cronologico"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Mesa Verde e le abitazioni rupestri",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Muratura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Blocchi di arenaria e malta",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Edifici multipiano",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Acqua",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Serbatoi e check-dam",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Gestione del runoff",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Mais in ambiente arido",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Conservazione delle sementi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Comunità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Kiva e spazi condivisi",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Villaggi plurifamiliari",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Mobilità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Reti Four Corners",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Migrazioni verso sud",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

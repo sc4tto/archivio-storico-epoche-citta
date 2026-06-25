@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Jakarta",
+      "lat": -6.2088,
+      "lon": 106.8456,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "wes",
+      "label": "Giava occidentale e Bogor",
+      "lat": -6.6,
+      "lon": 106.8,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "bay",
+      "label": "Baia e porto di Jakarta",
+      "lat": -6.05,
+      "lon": 106.88,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "tan",
+      "label": "Tangerang e Bekasi",
+      "lat": -6.23,
+      "lon": 106.55,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "jav",
+      "label": "Giava centrale e orientale",
+      "lat": -7.3,
+      "lon": 110.2,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "sum",
+      "label": "Sumatra meridionale",
+      "lat": -3.2,
+      "lon": 104.2,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "sea",
+      "label": "Rotte interinsulari e commercio estero",
+      "lat": -4.5,
+      "lon": 110.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "wes",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie, camion e mercati",
+      "food": "riso, ortaggi, frutta e migranti"
+    },
+    {
+      "source": "bay",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto, pescherecci e chiatte",
+      "food": "pesce, carburanti, grano e merci"
+    },
+    {
+      "source": "tan",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e reti periurbane",
+      "food": "ortaggi, latte, pollame e pendolari"
+    },
+    {
+      "source": "jav",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e autobus interurbani",
+      "food": "riso, zucchero, tabacco e nuovi residenti"
+    },
+    {
+      "source": "sum",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navi costiere e magazzini",
+      "food": "gomma, caffè, olio, pesce e lavoratori"
+    },
+    {
+      "source": "sea",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Tanjung Priok e navigazione",
+      "food": "grano, macchinari, fertilizzanti e beni industriali"
+    }
+  ]
+}

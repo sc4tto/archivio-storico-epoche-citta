@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_64_P6_Mediterraneo_Europa_5_Centri_v1",
+  "macroregion": "Mediterraneo europeo ed Europa centro-occidentale",
+  "centers": [
+    "01_Londra_Tudor_Stuart_Georgiana",
+    "02_Parigi_Monarchica_Rivoluzionaria",
+    "03_Amsterdam_Secolo_d_Oro",
+    "04_Madrid_Asburgo_Borbone",
+    "05_Lisbona_Marittima_Pombalina"
+  ],
+  "uses_central_assets": true
+}

@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Maloata",
+      "lat": -14.286,
+      "lon": -170.806,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "tap",
+      "label": "Tapuaʻina",
+      "lat": -14.3,
+      "lon": -170.8,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "leone",
+      "label": "Leone",
+      "lat": -14.343,
+      "lon": -170.785,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "reef",
+      "label": "Reef nord-occidentale",
+      "lat": -14.28,
+      "lon": -170.82,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "upolu",
+      "label": "Upolu",
+      "lat": -13.92,
+      "lon": -171.75,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "manua",
+      "label": "Manuʻa",
+      "lat": -14.2,
+      "lon": -169.5,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "tonga",
+      "label": "Tonga occidentale",
+      "lat": -21.15,
+      "lon": -175.2,
+      "status": "inferito",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "tap",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "mobilità costiera",
+      "food": "derrate e persone"
+    },
+    {
+      "source": "leone",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "rete di Tutuila",
+      "food": "pietra, manufatti e alleanze"
+    },
+    {
+      "source": "reef",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "approvvigionamento marino",
+      "food": "pesce e molluschi"
+    },
+    {
+      "source": "upolu",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "navigazione interinsulare",
+      "food": "beni e matrimoni"
+    },
+    {
+      "source": "manua",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "rete samoana",
+      "food": "persone e tradizioni"
+    },
+    {
+      "source": "tonga",
+      "target": "ctr",
+      "status": "inferito",
+      "label": "connessioni oceaniche",
+      "food": "idee e beni selezionati"
+    }
+  ]
+}

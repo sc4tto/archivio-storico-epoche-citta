@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Ninive",
+      "lat": 36.366,
+      "lon": 43.152,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "tigris",
+      "label": "Tigri",
+      "lat": 36.37,
+      "lon": 43.13,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "mosulplain",
+      "label": "Piana di Mosul",
+      "lat": 36.45,
+      "lon": 43.05,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "assur",
+      "label": "Assur",
+      "lat": 35.46,
+      "lon": 43.26,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "arbela",
+      "label": "Arbela",
+      "lat": 36.19,
+      "lon": 44.01,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "habur",
+      "label": "Habur e Siria nord-orientale",
+      "lat": 36.8,
+      "lon": 40.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "tigris",
+      "target": "site",
+      "label": "acqua, pesca e trasporto",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "mosulplain",
+      "target": "site",
+      "label": "cereali, greggi e legname",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "assur",
+      "target": "site",
+      "label": "amministrazione, culto e commerci",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "arbela",
+      "target": "site",
+      "label": "reti religiose e regionali",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "habur",
+      "target": "site",
+      "label": "carovane e materie prime",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Tardo Arcaico",
+    "Prima piazza circolare",
+    "Ricostruzioni monumentali",
+    "Formativo iniziale",
+    "Trasformazioni tarde"
+  ],
+  "items": [
+    {
+      "id": "plaza",
+      "label": "Piazza circolare incassata",
+      "lane": "Monumentali",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "platform",
+      "label": "Edifici a piattaforma",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "walls",
+      "label": "Muri in pietra e adobe",
+      "lane": "Costruzione",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Aree residenziali",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "agri",
+      "label": "Agricoltura valliva",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "ritual",
+      "label": "Depositi e attività cerimoniali",
+      "lane": "Rituali",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "remodel",
+      "label": "Riempimenti e ricostruzioni",
+      "lane": "Trasformazione",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Hopewell Mound Group",
+      "lat": 39.36,
+      "lon": -83.094,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "paint",
+      "label": "Paint Creek",
+      "lat": 39.35,
+      "lon": -83.08,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "moundcity",
+      "label": "Mound City Group",
+      "lat": 39.376,
+      "lon": -83.003,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "yellowstone",
+      "label": "Bacino di Yellowstone",
+      "lat": 44.6,
+      "lon": -110.5,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "greatlakes",
+      "label": "Grandi Laghi",
+      "lat": 44.0,
+      "lon": -86.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "atlantic",
+      "label": "Appalachi e costa atlantica",
+      "lat": 36.0,
+      "lon": -80.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "paint",
+      "target": "site",
+      "label": "risorse di valle e mobilità",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "moundcity",
+      "target": "site",
+      "label": "tradizioni cerimoniali e persone",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "yellowstone",
+      "target": "site",
+      "label": "ossidiana",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "greatlakes",
+      "target": "site",
+      "label": "rame nativo",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "atlantic",
+      "target": "site",
+      "label": "mica, quarzo e conchiglie",
+      "status": "documentato",
+      "food": "no"
+    }
+  ]
+}

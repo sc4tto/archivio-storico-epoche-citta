@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Menfi",
+      "lat": 29.849,
+      "lon": 31.254,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "nile",
+      "label": "Nilo e canali menfiti",
+      "lat": 29.88,
+      "lon": 31.25,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "saqqara",
+      "label": "Saqqara",
+      "lat": 29.871,
+      "lon": 31.216,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -12,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "giza",
+      "label": "Giza",
+      "lat": 29.979,
+      "lon": 31.134,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "dahshur",
+      "label": "Dahshur",
+      "lat": 29.806,
+      "lon": 31.206,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "delta",
+      "label": "Delta e rotte levantine",
+      "lat": 30.8,
+      "lon": 31.2,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "nile",
+      "target": "site",
+      "label": "acqua, trasporto e prodotti agricoli",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "saqqara",
+      "target": "site",
+      "label": "personale, culto funerario e artigiani",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "giza",
+      "target": "site",
+      "label": "cantieri, pietra e amministrazione",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "dahshur",
+      "target": "site",
+      "label": "complessi reali e maestranze",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "delta",
+      "target": "site",
+      "label": "legname, rame e commerci",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

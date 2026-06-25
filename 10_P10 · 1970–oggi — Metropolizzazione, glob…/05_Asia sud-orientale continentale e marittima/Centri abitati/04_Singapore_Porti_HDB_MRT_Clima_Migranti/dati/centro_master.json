@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Singapore, porto globale, HDB, MRT, clima e lavoro migrante",
+    "site": "Singapore, porto globale, HDB, MRT, clima e lavoro migrante",
+    "modern_location": "Singapore",
+    "coordinates": {
+      "lat": 1.3521,
+      "lon": 103.8198
+    },
+    "scope": "Singapore dal 1970 al 25 giugno 2026: consolidamento dell’edilizia pubblica HDB, containerizzazione e porto globale, industrializzazione avanzata e finanza, apertura e ampliamento della MRT, new towns, bonifiche e densificazione, economia digitale, invecchiamento, sicurezza alimentare e idrica, adattamento climatico e dipendenza dal lavoro migrante.",
+    "version": "1.0",
+    "warning": "Il Land Transport Master Plan 2040, l’espansione ferroviaria dei primi anni Trenta e i progetti costieri futuri sono registrati come obiettivi e programmi, non come risultati già completati."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SI1",
+      "title": "Housing & Development Board — Our History",
+      "use": "Milestone dell’edilizia pubblica, new towns e trasformazione degli alloggi.",
+      "url": "https://www.hdb.gov.sg/about-us/our-story/our-history"
+    },
+    {
+      "id": "SI2",
+      "title": "Land Transport Authority — Who We Are",
+      "use": "Dimensioni e struttura della rete stradale, ferroviaria e ciclabile contemporanea.",
+      "url": "https://www.lta.gov.sg/content/ltagov/en/who_we_are.html"
+    },
+    {
+      "id": "SI3",
+      "title": "Land Transport Authority — Land Transport Master Plan 2040",
+      "use": "Obiettivi futuri per rete, accessibilità, cammino, ciclabilità e città dei 45 minuti.",
+      "url": "https://www.lta.gov.sg/content/ltagov/en/who_we_are/our_work/land_transport_master_plan_2040.html"
+    },
+    {
+      "id": "SI4",
+      "title": "ILO — Public Attitudes towards Migrant Workers in Singapore",
+      "use": "Percezioni pubbliche, regolazione, vulnerabilità e contributo del lavoro migrante.",
+      "url": "https://www.ilo.org/media/8416/download"
+    }
+  ]
+}

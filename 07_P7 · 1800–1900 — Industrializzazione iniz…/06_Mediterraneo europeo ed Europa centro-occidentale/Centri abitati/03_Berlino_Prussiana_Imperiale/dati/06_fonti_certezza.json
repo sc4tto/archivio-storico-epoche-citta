@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Berlino divenne capitale dell’Impero tedesco nel 1871.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "BE2; BE3"
+  },
+  {
+    "claim": "Ferrovie e industrie meccaniche ed elettriche sostennero la crescita urbana.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "BE3; BE4"
+  },
+  {
+    "claim": "Il piano Hobrecht orientò l’espansione della città nella seconda metà del secolo.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "BE2; BE5"
+  },
+  {
+    "claim": "Le Mietskasernen produssero elevata densità e condizioni abitative diseguali.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "BE2; BE5"
+  },
+  {
+    "claim": "L’Isola dei Musei rappresentò il ruolo culturale della capitale prussiana.",
+    "theme": "cultura",
+    "status": "documentato",
+    "source": "BE1; BE2"
+  },
+  {
+    "claim": "Fognature, gas ed elettricità modificarono i servizi municipali.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "BE4; BE5"
+  },
+  {
+    "claim": "Il movimento operaio crebbe insieme all’industrializzazione.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "BE2; BE3"
+  },
+  {
+    "claim": "Le trasformazioni successive al 1900 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "BE2"
+  }
+]

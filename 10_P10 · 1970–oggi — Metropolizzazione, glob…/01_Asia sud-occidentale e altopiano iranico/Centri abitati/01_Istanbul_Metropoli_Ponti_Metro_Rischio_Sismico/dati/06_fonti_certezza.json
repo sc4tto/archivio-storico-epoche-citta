@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Il primo ponte sul Bosforo fu aperto nel 1973 e contribuì alla crescita della mobilità automobilistica fra le due sponde.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "IS2"
+  },
+  {
+    "claim": "Metro İstanbul fu istituita nel 1988 e le prime tratte della moderna rete entrarono in servizio dal 1989.",
+    "theme": "trasporto",
+    "status": "documentato",
+    "source": "IS2"
+  },
+  {
+    "claim": "Il terremoto del 1999 rese centrale il rafforzamento sismico di scuole, ospedali e infrastrutture.",
+    "theme": "rischio",
+    "status": "documentato",
+    "source": "IS1"
+  },
+  {
+    "claim": "La maggioranza dei rifugiati in Türkiye vive in contesti urbani e periurbani, compresa Istanbul.",
+    "theme": "migrazioni",
+    "status": "documentato",
+    "source": "IS3"
+  },
+  {
+    "claim": "Nel 2025 la Banca Mondiale ha approvato ulteriore sostegno alla resilienza sismica e climatica della provincia.",
+    "theme": "resilienza",
+    "status": "documentato",
+    "source": "IS4"
+  },
+  {
+    "claim": "Istanbul, metropoli globale, mobilità e rischio sismico è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Gli sgomberi e le demolizioni connessi alla trasformazione urbana, la repressione di proteste, la precarietà dei rifugiati e lo sfollamento prodotto da guerra o rischio sismico non sono descritti come modernizzazione neutrale; residenti dei gecekondu, migranti e rifugiati sono soggetti sociali e politici.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

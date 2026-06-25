@@ -1,0 +1,216 @@
+{
+  "nodes": [
+    {
+      "id": "t_reef",
+      "label": "Reef, lagune e mangrovie",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_island",
+      "label": "Suoli e pozzi dell’isola di Pate",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "t_mainland",
+      "label": "Costa e valle del Tana",
+      "layer": 0,
+      "status": "documentato"
+    },
+    {
+      "id": "r_fish",
+      "label": "Pesce, molluschi e fauna marina",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_grain",
+      "label": "Sorgo, miglio e cereali",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_livestock",
+      "label": "Bovini, caprini e pollame",
+      "layer": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "r_dates",
+      "label": "Frutti e prodotti importati",
+      "layer": 1,
+      "status": "sintesi"
+    },
+    {
+      "id": "a_fishing",
+      "label": "Pesca e raccolta intertidale",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_farming",
+      "label": "Coltivazione e orti",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_herding",
+      "label": "Allevamento",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "a_trade",
+      "label": "Mercato e scambio marittimo",
+      "layer": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "x_dry",
+      "label": "Essiccazione e affumicatura",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "x_grind",
+      "label": "Macinazione e cottura",
+      "layer": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "x_store",
+      "label": "Giare, granai e dispense",
+      "layer": 3,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_household",
+      "label": "Pasti domestici",
+      "layer": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "p_communal",
+      "label": "Pasti comunitari e ospitalità",
+      "layer": 4,
+      "status": "inferito"
+    },
+    {
+      "id": "p_voyage",
+      "label": "Provviste per navigazione",
+      "layer": 4,
+      "status": "sintesi"
+    }
+  ],
+  "edges": [
+    {
+      "source": "t_reef",
+      "target": "r_fish",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "t_island",
+      "target": "r_grain",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "t_mainland",
+      "target": "r_livestock",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "t_reef",
+      "target": "r_dates",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "r_fish",
+      "target": "a_fishing",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_grain",
+      "target": "a_farming",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_livestock",
+      "target": "a_herding",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "r_dates",
+      "target": "a_trade",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "a_fishing",
+      "target": "x_dry",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "a_farming",
+      "target": "x_grind",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "a_herding",
+      "target": "x_store",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "a_trade",
+      "target": "x_dry",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "x_dry",
+      "target": "p_household",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "x_grind",
+      "target": "p_communal",
+      "status": "documentato",
+      "label": ""
+    },
+    {
+      "source": "x_store",
+      "target": "p_voyage",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "r_dates",
+      "target": "a_fishing",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "a_trade",
+      "target": "x_store",
+      "status": "sintesi",
+      "label": ""
+    },
+    {
+      "source": "x_store",
+      "target": "p_voyage",
+      "status": "sintesi",
+      "label": ""
+    }
+  ]
+}

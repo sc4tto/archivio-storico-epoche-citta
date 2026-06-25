@@ -1,0 +1,62 @@
+[
+  {
+    "claim": "La sequenza architettonica è descritta con fasi circolare, grill, channeled/cobble, cell e large room",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "OZDOGAN_1999; CAYONU_PROJECT"
+  },
+  {
+    "claim": "Le fondazioni a griglia e con canali distinguono fasi specifiche",
+    "theme": "Costruzione",
+    "status": "documentato",
+    "source": "OZDOGAN_1999"
+  },
+  {
+    "claim": "Sono attestati pavimenti in terrazzo",
+    "theme": "Costruzione",
+    "status": "documentato",
+    "source": "OZDOGAN_1999"
+  },
+  {
+    "claim": "Sono presenti edifici speciali o comunitari",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "OZDOGAN_1999"
+  },
+  {
+    "claim": "Il sito documenta lavorazione molto antica del rame nativo",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "MADDIN_1999"
+  },
+  {
+    "claim": "Il rame era già fuso sistematicamente come in metallurgia urbana",
+    "theme": "Tecnologia",
+    "status": "non_documentato",
+    "source": "Le prime lavorazioni comprendono martellatura e ricottura; evitare anacronismi"
+  },
+  {
+    "claim": "L’ossidiana proveniva da sorgenti dell’Anatolia orientale",
+    "theme": "Provenienze",
+    "status": "sintesi",
+    "source": "OZDOGAN_1999"
+  },
+  {
+    "claim": "La domesticazione del maiale avvenne in un singolo evento locale",
+    "theme": "Allevamento",
+    "status": "non_documentato",
+    "source": "Processo regionale e cronologia da precisare"
+  },
+  {
+    "claim": "L’evoluzione degli edifici riflette adattamenti tecnici e sociali",
+    "theme": "Conoscenze",
+    "status": "sintesi",
+    "source": "OZDOGAN_1999"
+  },
+  {
+    "claim": "Materiali esotici dimostrano importazione di derrate",
+    "theme": "Commercio",
+    "status": "non_documentato",
+    "source": "Inferenza non valida"
+  }
+]

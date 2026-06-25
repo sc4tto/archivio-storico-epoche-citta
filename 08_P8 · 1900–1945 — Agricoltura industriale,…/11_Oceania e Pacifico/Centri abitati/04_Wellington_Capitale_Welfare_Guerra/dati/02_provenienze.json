@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Wellington",
+      "lat": -41.2866,
+      "lon": 174.7756,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "hut",
+      "label": "Hutt Valley",
+      "lat": -41.2,
+      "lon": 174.9,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "wai",
+      "label": "Wairarapa",
+      "lat": -41.1,
+      "lon": 175.6,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "kap",
+      "label": "Kapiti e coste meridionali",
+      "lat": -40.9,
+      "lon": 174.9,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "auc",
+      "label": "Auckland e Isola del Nord",
+      "lat": -36.85,
+      "lon": 174.76,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "sou",
+      "label": "Christchurch e Isola del Sud",
+      "lat": -43.53,
+      "lon": 172.64,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "pac",
+      "label": "Australia e Pacifico",
+      "lat": -30.0,
+      "lon": 165.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "hut",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e strade",
+      "food": "latte, ortaggi, carne e lavoro pendolare"
+    },
+    {
+      "source": "wai",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie regionali",
+      "food": "lana, carne, cereali e legname"
+    },
+    {
+      "source": "kap",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e cabotaggio",
+      "food": "pesce, ortaggi e trasporto costiero"
+    },
+    {
+      "source": "auc",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e navigazione",
+      "food": "merci, funzionari e traffici nazionali"
+    },
+    {
+      "source": "sou",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferry e cabotaggio",
+      "food": "carne, grano, carbone e manufatti"
+    },
+    {
+      "source": "pac",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto oceanico",
+      "food": "tè, caffè, gomma, migranti e merci"
+    }
+  ]
+}

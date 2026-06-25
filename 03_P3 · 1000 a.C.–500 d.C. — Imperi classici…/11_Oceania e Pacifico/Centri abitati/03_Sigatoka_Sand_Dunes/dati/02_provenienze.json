@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Sigatoka Sand Dunes",
+      "lat": -18.169,
+      "lon": 177.493,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "river",
+      "label": "Fiume Sigatoka",
+      "lat": -18.15,
+      "lon": 177.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "bourew",
+      "label": "Bourewa",
+      "lat": -18.14,
+      "lon": 177.44,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "interior",
+      "label": "Interno di Viti Levu",
+      "lat": -17.8,
+      "lon": 178.0,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "tonga",
+      "label": "Tonga",
+      "lat": -21.15,
+      "lon": -175.2,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "vanuatu",
+      "label": "Vanuatu",
+      "lat": -16.0,
+      "lon": 167.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "river",
+      "target": "site",
+      "label": "acqua, sedimenti, pesce e accesso interno",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "bourew",
+      "target": "site",
+      "label": "tradizioni Lapita e siti costieri",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "interior",
+      "target": "site",
+      "label": "pietra, piante e mobilità valliva",
+      "status": "sintesi",
+      "food": "sì"
+    },
+    {
+      "source": "tonga",
+      "target": "site",
+      "label": "contatti della Polinesia occidentale",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "vanuatu",
+      "target": "site",
+      "label": "rotte occidentali e tradizioni ceramiche",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

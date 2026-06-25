@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Insediamento costiero",
+    "Prime piattaforme",
+    "Crescita monumentale",
+    "Integrazione Caral-Supe",
+    "Riduzione e abbandono"
+  ],
+  "items": [
+    {
+      "id": "fishing",
+      "label": "Pesca e lavorazione marina",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "houses",
+      "label": "Residenze e aree domestiche",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "mounds",
+      "label": "Edifici a piattaforma",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "plazas",
+      "label": "Piazze e spazi pubblici",
+      "lane": "Monumentali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "cotton",
+      "label": "Reti di cotone e scambio con la valle",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "offerings",
+      "label": "Depositi rituali e sepolture",
+      "lane": "Rituali",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "remodel",
+      "label": "Rimodellamenti e riempimenti",
+      "lane": "Trasformazione",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

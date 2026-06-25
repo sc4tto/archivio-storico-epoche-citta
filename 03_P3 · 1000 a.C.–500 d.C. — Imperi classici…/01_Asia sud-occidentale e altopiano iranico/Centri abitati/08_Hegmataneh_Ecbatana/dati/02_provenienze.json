@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Hegmataneh",
+      "lat": 34.8,
+      "lon": 48.52,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "nushijan",
+      "label": "Nush-i Jan",
+      "lat": 34.35,
+      "lon": 48.3,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "bisotun",
+      "label": "Bisotun",
+      "lat": 34.39,
+      "lon": 47.44,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "susa",
+      "label": "Susa",
+      "lat": 32.19,
+      "lon": 48.25,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "ctesiphon",
+      "label": "Ctesifonte",
+      "lat": 33.09,
+      "lon": 44.58,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "rayy",
+      "label": "Rayy e Iran centrale",
+      "lat": 35.6,
+      "lon": 51.45,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "nushijan",
+      "target": "site",
+      "label": "tradizioni architettoniche della Media",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "bisotun",
+      "target": "site",
+      "label": "strada e amministrazione imperiale",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "susa",
+      "target": "site",
+      "label": "corte, artigiani e beni",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "ctesiphon",
+      "target": "site",
+      "label": "residenze stagionali e governo",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "rayy",
+      "target": "site",
+      "label": "rotte verso l’Iran centrale",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

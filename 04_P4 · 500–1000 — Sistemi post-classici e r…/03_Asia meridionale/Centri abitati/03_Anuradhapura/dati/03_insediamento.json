@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Capitale tardoantica",
+    "Regni del VI–VII secolo",
+    "Riorganizzazioni dell’VIII secolo",
+    "Apogeo monastico e idraulico",
+    "Crisi e conquista del 993"
+  ],
+  "items": [
+    {
+      "id": "mahavihara",
+      "label": "Mahavihara",
+      "lane": "Religiose",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "abhayagiri",
+      "label": "Abhayagiri",
+      "lane": "Religiose",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "jetavana",
+      "label": "Jetavana",
+      "lane": "Religiose",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "palace",
+      "label": "Palazzi e amministrazione",
+      "lane": "Politiche",
+      "start": 0,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "tanks",
+      "label": "Serbatoi e canali",
+      "lane": "Infrastrutture",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "hospital",
+      "label": "Ospedali e servizi monastici",
+      "lane": "Civiche",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "invasion",
+      "label": "Conquista chola e trasferimento del centro politico",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

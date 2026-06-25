@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Amarna fu la capitale di Akhenaten e fu abbandonata poco dopo la sua morte",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "AMARNA_PROJECT"
+  },
+  {
+    "claim": "La città comprendeva città centrale, quartieri, palazzi, templi e necropoli",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "AMARNA_PROJECT"
+  },
+  {
+    "claim": "Il sito conserva una delle città egizie meglio leggibili",
+    "theme": "Archeologia",
+    "status": "documentato",
+    "source": "AMARNA_PROJECT"
+  },
+  {
+    "claim": "Laboratori e abitazioni documentano la vita quotidiana degli abitanti",
+    "theme": "Società",
+    "status": "documentato",
+    "source": "AMARNA_PROJECT"
+  },
+  {
+    "claim": "Le stele di confine definivano il territorio di Akhetaten",
+    "theme": "Territorio",
+    "status": "documentato",
+    "source": "AMARNA_PLACE"
+  },
+  {
+    "claim": "Tutti gli abitanti aderivano allo stesso modo al culto dell’Aten",
+    "theme": "Religione",
+    "status": "non_documentato",
+    "source": "Pratiche domestiche più complesse"
+  },
+  {
+    "claim": "La città fu distrutta da un singolo evento militare",
+    "theme": "Abbandono",
+    "status": "non_documentato",
+    "source": "Abbandono e smantellamento progressivi"
+  },
+  {
+    "claim": "Un’epidemia specifica è dimostrata senza incertezze",
+    "theme": "Salute",
+    "status": "non_documentato",
+    "source": "Questione bioarcheologica ancora discussa"
+  }
+]

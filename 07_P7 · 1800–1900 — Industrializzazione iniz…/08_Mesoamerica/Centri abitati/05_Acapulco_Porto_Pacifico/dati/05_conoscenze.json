@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Acapulco, porto del Pacifico repubblicano",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Rada, pilotaggio e cabotaggio",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Vapore, rotte verso Panama e California",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Difesa",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Forte San Diego e artiglieria",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Dogana, controllo e riparazioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Approvvigionamento",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Pesca e costa tropicale",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Carovane dalle montagne del Guerrero",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Adobe, pietra e coperture leggere",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Adattamento a terremoti e clima costiero",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Politica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Indipendenza e Plan de Ayutla",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Centralismo, liberalismo e conflitti regionali",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Gerusalemme fu conquistata dai crociati nel 1099 e da Saladino nel 1187.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "JE2; JE3"
+  },
+  {
+    "claim": "La città conserva monumenti fondamentali per ebraismo, cristianesimo e islam.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "JE1"
+  },
+  {
+    "claim": "Pellegrinaggio e ospitalità determinarono una parte rilevante dell’economia urbana.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "JE2; JE5"
+  },
+  {
+    "claim": "Il periodo mamelucco vide un’intensa fondazione di madrase e istituzioni religiose.",
+    "theme": "architettura",
+    "status": "documentato",
+    "source": "JE4"
+  },
+  {
+    "claim": "Molte mura oggi visibili sono ottomane e non vanno attribuite al periodo 1000–1500.",
+    "theme": "certezza",
+    "status": "documentato",
+    "source": "JE1; JE2"
+  },
+  {
+    "claim": "Il reimpiego di elementi antichi e crociati fu comune nelle trasformazioni successive.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "JE3; JE4"
+  },
+  {
+    "claim": "Le comunità religiose convissero in condizioni variabili e spesso conflittuali.",
+    "theme": "società",
+    "status": "sintesi",
+    "source": "JE1; JE2"
+  },
+  {
+    "claim": "La terminologia moderna sulla città non deve essere retroproiettata senza cautela.",
+    "theme": "certezza",
+    "status": "sintesi",
+    "source": "JE1"
+  }
+]

@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Sydney",
+      "lat": -33.8688,
+      "lon": 151.2093,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "haw",
+      "label": "Hawkesbury e Cumberland Plain",
+      "lat": -33.45,
+      "lon": 150.9,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "bot",
+      "label": "Botany Bay e costa",
+      "lat": -34.0,
+      "lon": 151.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "ill",
+      "label": "Illawarra e Newcastle",
+      "lat": -33.2,
+      "lon": 151.6,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "mel",
+      "label": "Melbourne e Victoria",
+      "lat": -37.81,
+      "lon": 144.96,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "qld",
+      "label": "Queensland e aree zuccheriere",
+      "lat": -27.5,
+      "lon": 153.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "pac",
+      "label": "Pacifico, Nuova Zelanda e rotte imperiali",
+      "lat": -25.0,
+      "lon": 170.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "haw",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie, strade e fiume",
+      "food": "latte, frutta, ortaggi e cereali"
+    },
+    {
+      "source": "bot",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cabotaggio e tram",
+      "food": "pesce, sale e servizi portuali"
+    },
+    {
+      "source": "ill",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie costiere",
+      "food": "carbone, acciaio e derrate"
+    },
+    {
+      "source": "mel",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e cabotaggio",
+      "food": "manufatti, carne e traffici intercoloniali"
+    },
+    {
+      "source": "qld",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e navigazione",
+      "food": "zucchero, frutta tropicale e carne"
+    },
+    {
+      "source": "pac",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porto oceanico",
+      "food": "tè, caffè, copra, migranti e merci"
+    }
+  ]
+}

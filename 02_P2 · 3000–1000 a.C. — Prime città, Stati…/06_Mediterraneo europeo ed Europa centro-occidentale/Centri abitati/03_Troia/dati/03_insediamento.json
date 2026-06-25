@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Troia I",
+    "Troia II",
+    "Troia III–V",
+    "Troia VI",
+    "Troia VII e crisi finale"
+  ],
+  "items": [
+    {
+      "id": "walls1",
+      "label": "Prime cinte e porte",
+      "lane": "Difensive",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ramp",
+      "label": "Rampa e fortificazioni di Troia II",
+      "lane": "Difensive",
+      "start": 1,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "citadel",
+      "label": "Cittadella di Troia VI",
+      "lane": "Monumentali",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "lower",
+      "label": "Città bassa",
+      "lane": "Abitative",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "trade",
+      "label": "Reti anatoliche ed egee",
+      "lane": "Scambi",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "destruction",
+      "label": "Distruzioni e ricostruzioni",
+      "lane": "Trasformazione",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "storage",
+      "label": "Depositi e pithoi",
+      "lane": "Produttive",
+      "start": 2,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

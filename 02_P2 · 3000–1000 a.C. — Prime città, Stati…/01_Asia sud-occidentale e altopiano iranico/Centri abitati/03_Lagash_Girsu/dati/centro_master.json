@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Lagash–Girsu — modulo multi-grafo",
+    "short_name": "Lagash–Girsu",
+    "site": "Sistema urbano di Lagash e Girsu",
+    "modern_location": "Tell al-Hiba e Tello, governatorato di Dhi Qar, Iraq",
+    "coordinates": {
+      "lat": 31.4167,
+      "lon": 46.4167
+    },
+    "scope": "Sistema di città e santuari della Mesopotamia meridionale, con Lagash, Girsu e il loro territorio irrigato, noto per templi, archivi, amministrazione, tessili, agricoltura e opere idrauliche.",
+    "version": "1.0-blocco_13_p2_asia_so_5_centri_v1",
+    "warning": "Lagash (Tell al-Hiba) e Girsu (Tello) sono siti distinti all’interno dello stesso sistema politico. Molti testi provengono da Girsu e non devono essere attribuiti automaticamente a ogni quartiere di Lagash."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "BM_GIRSU",
+      "title": "British Museum — The Girsu Project",
+      "url": "https://www.britishmuseum.org/research/projects/girsu-project",
+      "use": "scavi, tempio di Ningirsu, canali, archivi e conservazione"
+    },
+    {
+      "id": "LAGASH_PROJECT",
+      "title": "Lagash Archaeological Project — Tell al-Hiba",
+      "url": "https://www.lagash.org/",
+      "use": "ricerca urbana e ambientale sul sito di Lagash"
+    },
+    {
+      "id": "BM_GIRSU_BOOK",
+      "title": "British Museum — For the Gods of Girsu: City-State Formation in Ancient Sumer",
+      "url": "https://www.britishmuseum.org/research/projects/girsu-project",
+      "use": "formazione della città-stato e interpretazione interdisciplinare"
+    }
+  ]
+}

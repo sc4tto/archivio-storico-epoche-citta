@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Hattusa — modulo multi-grafo",
+    "short_name": "Hattusa",
+    "site": "Hattusa, capitale ittita",
+    "modern_location": "Boğazkale, provincia di Çorum, Turchia",
+    "coordinates": {
+      "lat": 40.02,
+      "lon": 34.615
+    },
+    "scope": "Capitale dell’impero ittita nel II millennio a.C., con città bassa e alta, grandi fortificazioni, porte monumentali, templi, residenze, archivi cuneiformi, magazzini e il santuario rupestre di Yazılıkaya.",
+    "version": "1.0-blocco_13_p2_asia_so_5_centri_v1",
+    "warning": "La città ebbe diverse fasi e un’interruzione distruttiva prima della capitale ittita. Le funzioni precise di molti edifici della Città Alta e le cause dell’abbandono finale restano oggetto di studio."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "HATTUSA_UNESCO",
+      "title": "UNESCO — Hattusha: the Hittite Capital",
+      "url": "https://whc.unesco.org/en/list/377/",
+      "use": "urbanistica, fortificazioni, templi e Yazılıkaya"
+    },
+    {
+      "id": "HATTUSA_PROJECT",
+      "title": "German Archaeological Institute — Excavations at Boğazköy-Hattusha",
+      "url": "https://www.hattuscha.de/",
+      "use": "scavi, cronologia, archivi e conservazione"
+    },
+    {
+      "id": "HITTITE_TABLETS",
+      "title": "UNESCO Memory of the World — The Hittite Cuneiform Tablets from Boğazköy",
+      "url": "https://www.unesco.org/en/memory-world/hittite-cuneiform-tablets-bogazkoy",
+      "use": "archivi, diplomazia, religione e amministrazione"
+    }
+  ]
+}

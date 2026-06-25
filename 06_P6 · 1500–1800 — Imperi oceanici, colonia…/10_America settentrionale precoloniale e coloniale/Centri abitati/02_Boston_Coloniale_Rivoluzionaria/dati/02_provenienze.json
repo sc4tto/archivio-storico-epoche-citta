@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Boston",
+      "lat": 42.36,
+      "lon": -71.059,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "mas",
+      "label": "Campagne del Massachusetts",
+      "lat": 42.4,
+      "lon": -71.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "cape",
+      "label": "Cape Cod e Massachusetts Bay",
+      "lat": 42.0,
+      "lon": -70.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "new",
+      "label": "New England interno",
+      "lat": 43.5,
+      "lon": -72.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "wab",
+      "label": "Territori Massachusett e Wampanoag",
+      "lat": 41.8,
+      "lon": -70.8,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "car",
+      "label": "Caraibi britannici",
+      "lat": 18.0,
+      "lon": -66.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "atl",
+      "label": "Porti atlantici britannici ed europei",
+      "lat": 50.0,
+      "lon": -20.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "mas",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e cabotaggio",
+      "food": "cereali, bestiame, legna e latticini"
+    },
+    {
+      "source": "cape",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "baia e pesca atlantica",
+      "food": "pesce, sale e servizi marittimi"
+    },
+    {
+      "source": "new",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e fiumi regionali",
+      "food": "legname, pelli e derrate"
+    },
+    {
+      "source": "wab",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "scambi, trattati e conflitti",
+      "food": "mais, selvaggina, conoscenze e relazioni diplomatiche"
+    },
+    {
+      "source": "car",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "triangoli commerciali atlantici",
+      "food": "melassa, zucchero e prodotti coloniali"
+    },
+    {
+      "source": "atl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "navigazione oceanica",
+      "food": "tessili, metalli, tè e credito"
+    }
+  ]
+}

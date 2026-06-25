@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Taruga",
+      "lat": 9.26,
+      "lon": 7.99,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "nok",
+      "label": "Nok",
+      "lat": 9.5,
+      "lon": 8.8,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "samun",
+      "label": "Samun Dukiya",
+      "lat": 9.15,
+      "lon": 8.1,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "jos",
+      "label": "Altopiano di Jos",
+      "lat": 9.9,
+      "lon": 8.9,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "niger",
+      "label": "Valle del Niger",
+      "lat": 9.5,
+      "lon": 6.5,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "benue",
+      "label": "Valle del Benue",
+      "lat": 8.0,
+      "lon": 9.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "nok",
+      "target": "site",
+      "label": "terracotte e tradizioni ceramiche",
+      "status": "sintesi",
+      "food": "no"
+    },
+    {
+      "source": "samun",
+      "target": "site",
+      "label": "varianti regionali e metallurgia",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "jos",
+      "target": "site",
+      "label": "materie prime, insediamenti e miniere moderne",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "niger",
+      "target": "site",
+      "label": "scambi regionali e movimenti di persone",
+      "status": "inferito",
+      "food": "parziale"
+    },
+    {
+      "source": "benue",
+      "target": "site",
+      "label": "reti di savana e risorse",
+      "status": "inferito",
+      "food": "parziale"
+    }
+  ]
+}

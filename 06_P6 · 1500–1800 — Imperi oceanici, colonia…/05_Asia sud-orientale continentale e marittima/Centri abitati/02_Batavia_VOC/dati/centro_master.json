@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Batavia della VOC",
+    "site": "Batavia della VOC",
+    "modern_location": "Jakarta, Indonesia",
+    "coordinates": {
+      "lat": -6.1352,
+      "lon": 106.8133
+    },
+    "scope": "Batavia fra 1619 e 1800: sede della VOC, porto coloniale e centro amministrativo, commerciale e militare, con città murata, sobborghi e campagne produttive.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1800. L’espansione ottocentesca verso Weltevreden, la città coloniale tarda e la Jakarta contemporanea sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "BA1",
+      "title": "Encyclopaedia Britannica — Jakarta",
+      "use": "Fondazione di Batavia, ruolo della VOC e sviluppo urbano.",
+      "url": "https://www.britannica.com/place/Jakarta/History"
+    },
+    {
+      "id": "BA2",
+      "title": "UNESCO Tentative List — Old Town of Jakarta",
+      "use": "Città storica, porto, canali e paesaggio insulare.",
+      "url": "https://whc.unesco.org/en/tentativelists/6010/"
+    },
+    {
+      "id": "BA3",
+      "title": "Nationaal Archief — Dutch East India Company archives",
+      "use": "Amministrazione, commercio e reti della VOC.",
+      "url": "https://www.nationaalarchief.nl/"
+    },
+    {
+      "id": "BA4",
+      "title": "Rijksmuseum — Batavia and the VOC",
+      "use": "Cultura materiale, cartografia e società coloniale.",
+      "url": "https://www.rijksmuseum.nl/en/rijksstudio/timeline-dutch-history/1602-voc"
+    },
+    {
+      "id": "BA5",
+      "title": "Encyclopaedia Britannica — Dutch East India Company",
+      "use": "Organizzazione e reti commerciali della VOC.",
+      "url": "https://www.britannica.com/topic/Dutch-East-India-Company"
+    }
+  ]
+}

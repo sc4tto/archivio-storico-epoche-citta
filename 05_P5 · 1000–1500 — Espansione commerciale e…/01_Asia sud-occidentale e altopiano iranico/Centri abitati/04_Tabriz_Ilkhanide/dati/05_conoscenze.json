@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Tabriz ilkhanide e turcomanna",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Gestione di bazar e khan",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Rotte eurasiatiche",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Architettura in laterizio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Cupole e volte",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Piastrelle policrome",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Patronato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Rabʿ-e Rashidi e fondazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Complessi di Ghazan",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Manifatture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Tessili e tappeti",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Ceramica e metalli",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Rischio sismico",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Ricostruzione dopo terremoti",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Continuità funzionale del bazar",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

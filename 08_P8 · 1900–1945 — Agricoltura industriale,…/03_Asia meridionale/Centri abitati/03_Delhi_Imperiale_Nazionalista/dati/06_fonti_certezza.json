@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Delhi divenne capitale dell’India britannica nel 1911.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "DE2; DE3"
+  },
+  {
+    "claim": "New Delhi fu progettata e inaugurata nel 1931.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "DE2; DE4"
+  },
+  {
+    "claim": "Shahjahanabad mantenne funzioni commerciali, religiose e residenziali.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "DE1; DE5"
+  },
+  {
+    "claim": "Ferrovie e nuovi viali riorganizzarono mobilità e amministrazione.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "DE2; DE4"
+  },
+  {
+    "claim": "La pianificazione coloniale separò funzioni e gruppi sociali.",
+    "theme": "società",
+    "status": "documentato",
+    "source": "DE3; DE4"
+  },
+  {
+    "claim": "Il movimento nazionale utilizzò Delhi come spazio politico e simbolico.",
+    "theme": "politica",
+    "status": "documentato",
+    "source": "DE2; DE3"
+  },
+  {
+    "claim": "Povertà e sovraffollamento persistettero nei quartieri storici.",
+    "theme": "rischi",
+    "status": "documentato",
+    "source": "DE2; DE3"
+  },
+  {
+    "claim": "Partizione e migrazioni del 1947 sono escluse.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "DE2"
+  }
+]

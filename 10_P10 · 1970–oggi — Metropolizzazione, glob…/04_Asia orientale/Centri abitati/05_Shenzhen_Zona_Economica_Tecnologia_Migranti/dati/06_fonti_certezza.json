@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Shenzhen divenne Zona Economica Speciale nel 1980 nel quadro delle riforme e dell’apertura.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "SZ1"
+  },
+  {
+    "claim": "Il caso Shenzhen è usato dalla Banca Mondiale per analizzare la diffusione su larga scala degli autobus elettrici.",
+    "theme": "mobilità",
+    "status": "documentato",
+    "source": "SZ2"
+  },
+  {
+    "claim": "La Banca Mondiale descrive il governo locale di Shenzhen come orientato ai servizi, ai mercati, all’innovazione e all’imprenditorialità.",
+    "theme": "innovazione",
+    "status": "documentato",
+    "source": "SZ3"
+  },
+  {
+    "claim": "Gli studi ILO documentano bassi salari, condizioni difficili e lacune di protezione per molti lavoratori migranti rurali.",
+    "theme": "lavoro",
+    "status": "documentato",
+    "source": "SZ4"
+  },
+  {
+    "claim": "Qianhai è un programma di cooperazione Shenzhen–Hong Kong e le sue fasi future non sono considerate già completate.",
+    "theme": "pianificazione",
+    "status": "documentato",
+    "source": "SZ1"
+  },
+  {
+    "claim": "Shenzhen, zona economica, tecnologia, mobilità elettrica e migranti è trattata dal 1970 al 25 giugno 2026.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "La disciplina di fabbrica, la precarietà e discriminazione dei lavoratori migranti, il sistema hukou, le demolizioni e ricollocazioni nelle urban villages e le restrizioni all’organizzazione del lavoro non sono presentate come costi neutri della crescita; migranti, residenti dei villaggi e lavoratori industriali sono soggetti storici e politici.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P10 e fonti del modulo"
+  }
+]

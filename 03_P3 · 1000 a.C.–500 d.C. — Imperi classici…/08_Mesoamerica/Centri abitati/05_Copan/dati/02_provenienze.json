@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Copán",
+      "lat": 14.84,
+      "lon": -89.14,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "quirigua",
+      "label": "Quiriguá",
+      "lat": 15.27,
+      "lon": -89.04,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "motagua",
+      "label": "Valle del Motagua",
+      "lat": 15.0,
+      "lon": -89.0,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "tikal",
+      "label": "Tikal",
+      "lat": 17.22,
+      "lon": -89.62,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "teot",
+      "label": "Teotihuacan",
+      "lat": 19.69,
+      "lon": -98.84,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "highlands",
+      "label": "Altopiani guatemaltechi",
+      "lat": 14.8,
+      "lon": -91.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "quirigua",
+      "target": "site",
+      "label": "insediamenti della valle e relazioni dinastiche",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "motagua",
+      "target": "site",
+      "label": "giada, corridoio fluviale e risorse",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "tikal",
+      "target": "site",
+      "label": "legami dinastici e circolazione di élite",
+      "status": "documentato",
+      "food": "parziale"
+    },
+    {
+      "source": "teot",
+      "target": "site",
+      "label": "simboli e identità del fondatore",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "highlands",
+      "target": "site",
+      "label": "ossidiana, persone e ceramiche",
+      "status": "documentato",
+      "food": "parziale"
+    }
+  ]
+}

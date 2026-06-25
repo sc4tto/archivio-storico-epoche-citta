@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "k1",
+      "label": "Porto regionale e artigianato lapidario",
+      "lane": "Economia",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "k2",
+      "label": "Crescita come emporio oceanico",
+      "lane": "Economia",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "k3",
+      "label": "Comunità mercantili straniere",
+      "lane": "Società",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "k4",
+      "label": "Moschee, templi e quartieri commerciali",
+      "lane": "Religione",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "k5",
+      "label": "Integrazione nel Sultanato del Gujarat",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "k6",
+      "label": "Tessili, indaco e perle di corniola",
+      "lane": "Produzione",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "k7",
+      "label": "Bacini, pozzi e difese urbane",
+      "lane": "Infrastrutture",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "k8",
+      "label": "Problemi di marea e insabbiamento",
+      "lane": "Ambiente",
+      "start": 3,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

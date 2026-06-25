@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_110_P10_Mesoamerica_5_Centri_v1",
+  "macroregion": "Mesoamerica",
+  "centers": [
+    "01_Citta_del_Messico_Mobilita_Acqua_Sisma_Clima",
+    "02_Monterrey_Industria_Acqua_Aria_Metro",
+    "03_Guadalajara_Tecnologia_Mobilita_Clima_Acqua",
+    "04_Citta_del_Guatemala_Transmetro_Informalita_Rischio_Memoria",
+    "05_San_Jose_GAM_Mobilita_Servizi_Rischio"
+  ],
+  "uses_central_assets": true
+}

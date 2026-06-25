@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Lisbona marittima e pombalina",
+    "site": "Lisbona marittima e pombalina",
+    "modern_location": "Lisbona, Portogallo",
+    "coordinates": {
+      "lat": 38.7223,
+      "lon": -9.1393
+    },
+    "scope": "Lisbona fra 1500 e 1800: porto del Tago, corte, arsenali, quartieri mercantili, complessi manuelini e ricostruzione razionale della Baixa.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1800. Ferrovie, grandi viali ottocenteschi, porto industriale e trasformazioni contemporanee sono escluse."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "LI1",
+      "title": "UNESCO — Monastery of the Hieronymites and Tower of Belém",
+      "use": "Belém, architettura manuelina e ruolo marittimo.",
+      "url": "https://whc.unesco.org/en/list/263/"
+    },
+    {
+      "id": "LI2",
+      "title": "UNESCO Tentative List — Baixa Pombalina",
+      "use": "Ricostruzione dopo il terremoto e urbanistica pombalina.",
+      "url": "https://whc.unesco.org/en/tentativelists/6226/"
+    },
+    {
+      "id": "LI3",
+      "title": "Museu de Lisboa",
+      "use": "Storia urbana, terremoto e cultura materiale.",
+      "url": "https://museudelisboa.pt/"
+    },
+    {
+      "id": "LI4",
+      "title": "Arquivo Municipal de Lisboa",
+      "use": "Mappe, iconografia e documenti urbani.",
+      "url": "https://arquivomunicipal3.cm-lisboa.pt/"
+    },
+    {
+      "id": "LI5",
+      "title": "Museu de Marinha",
+      "use": "Navigazione, arsenali e reti imperiali portoghesi.",
+      "url": "https://ccm.marinha.pt/pt/museu"
+    }
+  ]
+}

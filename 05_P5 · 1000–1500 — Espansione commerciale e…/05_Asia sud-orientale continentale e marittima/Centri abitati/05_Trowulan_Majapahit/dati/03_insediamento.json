@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1000–1100",
+    "1100–1200",
+    "1200–1300",
+    "1300–1400",
+    "1400–1500"
+  ],
+  "items": [
+    {
+      "id": "t1",
+      "label": "Regni precedenti nella valle del Brantas",
+      "lane": "Politica",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "t2",
+      "label": "Fondazione di Majapahit nel 1293",
+      "lane": "Politica",
+      "start": 2,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "t3",
+      "label": "Costruzione e crescita della capitale",
+      "lane": "Urbanistica",
+      "start": 2,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "t4",
+      "label": "Apogeo sotto Hayam Wuruk",
+      "lane": "Politica",
+      "start": 3,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "t5",
+      "label": "Reti tributarie e commerci dell’arcipelago",
+      "lane": "Economia",
+      "start": 3,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "t6",
+      "label": "Guerra di Paregreg",
+      "lane": "Conflitto",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "t7",
+      "label": "Trasformazioni dinastiche del XV secolo",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "t8",
+      "label": "Crisi di Trowulan e spostamento del centro di potere",
+      "lane": "Politica",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

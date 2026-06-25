@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Meroe",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Metallurgia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Ferro",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Scorie e forni",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Scala produttiva",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Acqua",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Hafir",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Pozzi",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Pianificazione idrica",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Scrittura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Meroitico corsivo",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Meroitico geroglifico",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Lingua completamente compresa",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Piramidi",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Templi",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Palazzi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Religioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Amon",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Apedemak",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Sincretismi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Commercio",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Nilo",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Mar Rosso",
+          "status": "sintesi"
+        },
+        {
+          "id": "k6_3",
+          "label": "Africa interna",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

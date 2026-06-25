@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Pechino",
+      "lat": 39.9042,
+      "lon": 116.4074,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "heb",
+      "label": "Hebei e pianura settentrionale",
+      "lat": 39.5,
+      "lon": 116.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "hai",
+      "label": "Haidian e colline occidentali",
+      "lat": 39.98,
+      "lon": 116.3,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "ton",
+      "label": "Tongzhou e Grande Canale",
+      "lat": 39.9,
+      "lon": 116.66,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "tia",
+      "label": "Tianjin e porto di Tanggu",
+      "lat": 39.1,
+      "lon": 117.2,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "sha",
+      "label": "Shandong e valle del Giallo",
+      "lat": 36.5,
+      "lon": 117.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "man",
+      "label": "Manciuria e Mongolia Interna",
+      "lat": 43.0,
+      "lon": 122.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "heb",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e ferrovie regionali",
+      "food": "grano, verdure, carne e manodopera"
+    },
+    {
+      "source": "hai",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade suburbane",
+      "food": "acqua, frutta, legname e prodotti orticoli"
+    },
+    {
+      "source": "ton",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Grande Canale e ferrovia",
+      "food": "cereali, carbone e merci"
+    },
+    {
+      "source": "tia",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia Pechino–Tianjin",
+      "food": "importazioni, sale, carbone e accesso marittimo"
+    },
+    {
+      "source": "sha",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia",
+      "food": "grano, cotone e prodotti agricoli"
+    },
+    {
+      "source": "man",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete ferroviaria settentrionale",
+      "food": "soia, carbone, cereali e bestiame"
+    }
+  ]
+}

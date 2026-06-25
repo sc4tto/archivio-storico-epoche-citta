@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "Istanbul postbellica, industrializzata e migrante",
+    "site": "Istanbul postbellica, industrializzata e migrante",
+    "modern_location": "Istanbul, Turchia",
+    "coordinates": {
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "scope": "Istanbul fra 1945 e 1970: porto e industria del Mar di Marmara, migrazione anatolica, espansione dei gecekondu, reti stradali, servizi urbani e conflitti politici.",
+    "version": "1.0",
+    "warning": "Sono esclusi il ponte sul Bosforo inaugurato nel 1973, le autostrade metropolitane tarde e la crescita successiva al 1970."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "IS1",
+      "title": "UNESCO — Historic Areas of Istanbul",
+      "use": "Continuità del paesaggio storico e patrimonio urbano.",
+      "url": "https://whc.unesco.org/en/list/356/"
+    },
+    {
+      "id": "IS2",
+      "title": "Encyclopaedia Britannica — Istanbul",
+      "use": "Storia moderna, porto, industria e crescita urbana.",
+      "url": "https://www.britannica.com/place/Istanbul"
+    },
+    {
+      "id": "IS3",
+      "title": "Istanbul Research Institute",
+      "use": "Storia urbana, fotografie, mappe e trasformazioni del Novecento.",
+      "url": "https://en.iae.org.tr/"
+    },
+    {
+      "id": "IS4",
+      "title": "Republic of Türkiye State Archives",
+      "use": "Amministrazione, migrazioni e politiche infrastrutturali.",
+      "url": "https://www.devletarsivleri.gov.tr/"
+    }
+  ]
+}

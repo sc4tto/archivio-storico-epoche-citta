@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Jakarta, metropoli, trasporti, subsidenza e transizione climatica",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Governance metropolitana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Jabodetabek, municipalità e coordinamento regionale",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Pianificazione, dati e transizione istituzionale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mobilità integrata",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "TransJakarta, KRL, MRT, LRT e JakLingko",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Tariffe, interscambi e sviluppo orientato al transito",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Acqua e costa",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Drenaggio, polder, fiumi e difese marine",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Falda, subsidenza, mare e adattamento climatico",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Kampung e società",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Autocostruzione, mercati e reti di vicinato",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Servizi, sicurezza fondiaria e rischio di sgombero",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Economia digitale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Finanza, logistica, piattaforme e startup",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Lavoro informale, disuguaglianza e accesso digitale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

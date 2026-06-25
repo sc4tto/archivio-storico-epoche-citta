@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Damasco",
+      "lat": 33.5138,
+      "lon": 36.2765,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "ghouta",
+      "label": "Oasi della Ghouta",
+      "lat": 33.5,
+      "lon": 36.2,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "jerusalem",
+      "label": "Gerusalemme",
+      "lat": 31.778,
+      "lon": 35.235,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "aleppo",
+      "label": "Aleppo",
+      "lat": 36.202,
+      "lon": 37.134,
+      "status": "documentato",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "baghdad",
+      "label": "Baghdad",
+      "lat": 33.315,
+      "lon": 44.366,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "arabia",
+      "label": "Hijaz e Arabia",
+      "lat": 24.47,
+      "lon": 39.61,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "ghouta",
+      "target": "site",
+      "label": "acqua, frutta, ortaggi e cereali",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "jerusalem",
+      "target": "site",
+      "label": "pellegrini, testi e merci levantine",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "aleppo",
+      "target": "site",
+      "label": "carovane e tessili",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "baghdad",
+      "target": "site",
+      "label": "amministrazione, moneta e beni di lusso",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "arabia",
+      "target": "site",
+      "label": "pellegrinaggio, aromi e animali",
+      "status": "sintesi",
+      "food": "parziale"
+    }
+  ]
+}

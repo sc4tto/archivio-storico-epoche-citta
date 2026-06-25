@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Jaketown",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Cronologia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Fase Poverty Point",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Lunga rioccupazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Tumuli visibili posteriori",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Litica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Materie prime esotiche",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Produzione locale",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Distribuzione",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Acque",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Mobilità fluviale",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_2",
+          "label": "Pesca",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Rischio di inondazione",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Spazi",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Aree domestiche",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_2",
+          "label": "Laboratori",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Piano monumentale arcaico",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Scambi",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Poverty Point",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Ozarks",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Golfo",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Conservazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Erosione",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Agricoltura moderna",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Tumuli perduti",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

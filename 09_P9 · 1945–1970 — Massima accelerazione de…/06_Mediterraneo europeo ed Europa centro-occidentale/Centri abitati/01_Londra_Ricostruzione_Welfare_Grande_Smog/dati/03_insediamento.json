@@ -1,0 +1,75 @@
+{
+  "phases": [
+    "1945–1949",
+    "1950–1954",
+    "1955–1959",
+    "1960–1964",
+    "1965–1970"
+  ],
+  "items": [
+    {
+      "id": "ev1",
+      "label": "Ricostruzione dei quartieri bombardati e gestione della grave carenza di alloggi",
+      "lane": "Urbanistica",
+      "start": 0,
+      "end": 2,
+      "status": "documentato"
+    },
+    {
+      "id": "ev2",
+      "label": "Applicazione dei piani Abercrombie, Green Belt e decentramento verso New Towns",
+      "lane": "Pianificazione",
+      "start": 0,
+      "end": 3,
+      "status": "documentato"
+    },
+    {
+      "id": "ev3",
+      "label": "Fondazione del National Health Service nel 1948",
+      "lane": "Sanità",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev4",
+      "label": "Fine del razionamento alimentare nel 1954",
+      "lane": "Società",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev5",
+      "label": "Grande Smog del dicembre 1952 e crisi sanitaria",
+      "lane": "Ambiente",
+      "start": 1,
+      "end": 1,
+      "status": "documentato"
+    },
+    {
+      "id": "ev6",
+      "label": "Clean Air Act del 1956 e progressiva creazione di smoke control areas",
+      "lane": "Ambiente",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev7",
+      "label": "Espansione dell’edilizia municipale e dei complessi a torre",
+      "lane": "Abitazione",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "ev8",
+      "label": "Greater London Council istituito nel 1965 e nuova scala metropolitana",
+      "lane": "Istituzioni",
+      "start": 4,
+      "end": 4,
+      "status": "documentato"
+    }
+  ]
+}

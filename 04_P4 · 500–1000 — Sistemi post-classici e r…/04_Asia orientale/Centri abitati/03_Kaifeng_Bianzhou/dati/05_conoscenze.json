@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Kaifeng–Bianzhou",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Canali",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Grande Canale",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_2",
+          "label": "Approdi e trasbordo",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Percorso immutato",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Capitale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Liang posteriori",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_2",
+          "label": "Altre Cinque Dinastie",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_3",
+          "label": "Song dal 960",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Urbanistica",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Mura e strade",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Quartieri commerciali",
+          "status": "sintesi"
+        },
+        {
+          "id": "k3_3",
+          "label": "Pianta completa P4",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Economia",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Cereali fiscali",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Mercati",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Economia notturna pienamente sviluppata prima del 1000",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Ambiente",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Piene del Fiume Giallo",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Sedimentazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Stratigrafia semplice",
+          "status": "non_documentato"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Metodo",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Scavi urbani",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_2",
+          "label": "Fonti dinastiche",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Edifici attuali tutti antichi",
+          "status": "non_documentato"
+        }
+      ]
+    }
+  ]
+}

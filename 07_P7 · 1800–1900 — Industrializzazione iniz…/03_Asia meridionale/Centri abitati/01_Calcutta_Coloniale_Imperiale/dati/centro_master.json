@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Calcutta coloniale e imperiale",
+    "site": "Calcutta coloniale e imperiale",
+    "modern_location": "Kolkata, India",
+    "coordinates": {
+      "lat": 22.5726,
+      "lon": 88.3639
+    },
+    "scope": "Calcutta fra 1800 e 1900: città portuale e capitale coloniale, collegata al delta del Gange-Brahmaputra, alle miniere di Raniganj, alle piantagioni e ai mercati globali.",
+    "version": "1.0",
+    "warning": "Il modulo termina nel 1900. Il Victoria Memorial, avviato nel 1906, il trasferimento della capitale a Delhi nel 1911 e le trasformazioni novecentesche sono esclusi."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "CA1",
+      "title": "Encyclopaedia Britannica — Kolkata",
+      "use": "Storia urbana, capitale coloniale e porto.",
+      "url": "https://www.britannica.com/place/Kolkata"
+    },
+    {
+      "id": "CA2",
+      "title": "Victoria Memorial Hall — Collections",
+      "use": "Mappe, dipinti e documenti sulla Calcutta ottocentesca.",
+      "url": "https://victoriamemorial-cal.org/"
+    },
+    {
+      "id": "CA3",
+      "title": "Syama Prasad Mookerjee Port — Kolkata",
+      "use": "Storia del porto sul Hooghly e infrastrutture.",
+      "url": "https://smportkolkata.shipping.gov.in/"
+    },
+    {
+      "id": "CA4",
+      "title": "National Library of India",
+      "use": "Stampa, cartografia e documentazione storica.",
+      "url": "https://www.nationallibrary.gov.in/"
+    },
+    {
+      "id": "CA5",
+      "title": "Indian Railways — Heritage",
+      "use": "Sviluppo ferroviario e collegamenti del Bengala.",
+      "url": "https://indianrailways.gov.in/"
+    }
+  ]
+}

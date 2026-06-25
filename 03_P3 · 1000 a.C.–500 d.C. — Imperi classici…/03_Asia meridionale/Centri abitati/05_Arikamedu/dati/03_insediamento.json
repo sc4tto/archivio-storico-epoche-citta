@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Occupazioni anteriori al porto",
+    "Formazione del centro artigiano",
+    "Apogeo dei traffici mediterranei",
+    "Reti regionali dei primi secoli d.C.",
+    "Occupazioni tarde e riusi"
+  ],
+  "items": [
+    {
+      "id": "houses",
+      "label": "Quartieri residenziali",
+      "lane": "Abitative",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "beads",
+      "label": "Officine di perle in vetro e pietra",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "textiles",
+      "label": "Lavorazione tessile e tintura",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "warehouses",
+      "label": "Magazzini e strutture in mattoni",
+      "lane": "Monumentali",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "amphorae",
+      "label": "Arrivo di anfore mediterranee",
+      "lane": "Commercio",
+      "start": 2,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "localware",
+      "label": "Ceramiche locali e rouletted ware",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "harbour",
+      "label": "Approdi sull’estuario",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Città del Messico",
+      "lat": 19.4326,
+      "lon": -99.1332,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "xoc",
+      "label": "Xochimilco e Chalco",
+      "lat": 19.25,
+      "lon": -99.1,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "tol",
+      "label": "Toluca e valle occidentale",
+      "lat": 19.28,
+      "lon": -99.66,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "cua",
+      "label": "Cuautitlán e valle settentrionale",
+      "lat": 19.67,
+      "lon": -99.18,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "pue",
+      "label": "Puebla e altopiano orientale",
+      "lat": 19.04,
+      "lon": -98.2,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "ver",
+      "label": "Veracruz e Golfo del Messico",
+      "lat": 19.18,
+      "lon": -96.14,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "pac",
+      "label": "Pacifico, Stati Uniti ed Europa",
+      "lat": 25.0,
+      "lon": -105.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "xoc",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canali, trajineras e strade",
+      "food": "ortaggi, mais, fiori e pesce"
+    },
+    {
+      "source": "tol",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "carri e ferrovia",
+      "food": "grano, patate, carne e latticini"
+    },
+    {
+      "source": "cua",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "strade e ferrovia suburbana",
+      "food": "cereali, pulque e bestiame"
+    },
+    {
+      "source": "pue",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "cammini e ferrovia orientale",
+      "food": "farina, tessili, zucchero e frutta"
+    },
+    {
+      "source": "ver",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia Messico–Veracruz",
+      "food": "caffè, cacao, riso e importazioni"
+    },
+    {
+      "source": "pac",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "porti, ferrovie e commercio internazionale",
+      "food": "macchinari, conserve, vino e capitali"
+    }
+  ]
+}

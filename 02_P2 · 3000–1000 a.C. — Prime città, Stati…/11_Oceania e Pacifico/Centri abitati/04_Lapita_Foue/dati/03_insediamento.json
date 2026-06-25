@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Installazione costiera",
+    "Fase Lapita decorata",
+    "Espansione del villaggio",
+    "Ceramica meno decorata",
+    "Trasformazioni regionali"
+  ],
+  "items": [
+    {
+      "id": "houses",
+      "label": "Aree domestiche costiere",
+      "lane": "Abitative",
+      "start": 0,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "pottery",
+      "label": "Ceramica dentellata",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "shell",
+      "label": "Lavorazione di conchiglia",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "fishing",
+      "label": "Pesca lagunare",
+      "lane": "Produttive",
+      "start": 0,
+      "end": 5,
+      "status": "documentato"
+    },
+    {
+      "id": "gardens",
+      "label": "Orti e alberi utili",
+      "lane": "Territorio",
+      "start": 1,
+      "end": 5,
+      "status": "sintesi"
+    },
+    {
+      "id": "exchange",
+      "label": "Scambi interinsulari",
+      "lane": "Organizzazione",
+      "start": 1,
+      "end": 4,
+      "status": "sintesi"
+    },
+    {
+      "id": "change",
+      "label": "Trasformazione degli stili",
+      "lane": "Trasformazione",
+      "start": 3,
+      "end": 5,
+      "status": "documentato"
+    }
+  ]
+}

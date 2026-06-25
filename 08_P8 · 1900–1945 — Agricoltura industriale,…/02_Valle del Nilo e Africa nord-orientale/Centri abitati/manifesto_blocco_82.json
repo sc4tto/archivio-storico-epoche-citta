@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_82_P8_Valle_Nilo_Africa_Nord_Orientale_5_Centri_v1",
+  "macroregion": "Valle del Nilo e Africa nord-orientale",
+  "centers": [
+    "01_Cairo_Coloniale_Monarchico",
+    "02_Alessandria_Portuale_Cosmopolita",
+    "03_Khartoum_Anglo_Egiziana",
+    "04_Addis_Abeba_Imperiale_Occupata",
+    "05_Aswan_Diga_Irrigazione"
+  ],
+  "uses_central_assets": true
+}

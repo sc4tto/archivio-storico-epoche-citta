@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Londra",
+      "lat": 51.5074,
+      "lon": -0.1278,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "ken",
+      "label": "Kent ed Essex",
+      "lat": 51.3,
+      "lon": 0.45,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "tha",
+      "label": "Tamigi e docks orientali",
+      "lat": 51.5,
+      "lon": 0.05,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "mid",
+      "label": "Midlands e Inghilterra orientale",
+      "lat": 52.5,
+      "lon": -1.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "sco",
+      "label": "Scozia e Mare del Nord",
+      "lat": 56.0,
+      "lon": -2.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "com",
+      "label": "Commonwealth e Atlantico",
+      "lat": 45.0,
+      "lon": -15.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "eur",
+      "label": "Europa continentale",
+      "lat": 50.0,
+      "lon": 4.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "ken",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie, camion e mercati",
+      "food": "latte, ortaggi, frutta, cereali e pendolari"
+    },
+    {
+      "source": "tha",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "chiatte, docks e mercati ittici",
+      "food": "pesce, zucchero, grano e merci coloniali"
+    },
+    {
+      "source": "mid",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e autostrade",
+      "food": "carne, patate, farine e prodotti industriali"
+    },
+    {
+      "source": "sco",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e navi costiere",
+      "food": "pesce, carne, avena e combustibili"
+    },
+    {
+      "source": "com",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rotte oceaniche e magazzini portuali",
+      "food": "tè, zucchero, cacao, banane e oli"
+    },
+    {
+      "source": "eur",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "traghetti, ferrovie e camion",
+      "food": "frutta, vino, ortaggi e manufatti"
+    }
+  ]
+}

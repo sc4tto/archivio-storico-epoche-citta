@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Uxmal e regione Puuc",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0_water",
+      "label": "Raccolta dell’acqua",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0_chultun",
+          "label": "Scavo e rivestimento dei chultunes",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1_rain",
+          "label": "Calendario delle piogge",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1_agri",
+      "label": "Paesaggio Puuc",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0_soil",
+          "label": "Coltivazione su suoli sottili",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1_forest",
+          "label": "Gestione di boschi e combustibile",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2_craft",
+      "label": "Architettura e scultura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0_mosaic",
+          "label": "Mosaici lapidei e maschere",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1_vault",
+          "label": "Volte e nuclei murari",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3_planning",
+      "label": "Pianificazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0_astronomy",
+          "label": "Orientamenti e conoscenze astronomiche",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1_sacbe",
+          "label": "Strade e rapporti fra città",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4_politics",
+      "label": "Coordinamento regionale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0_court",
+          "label": "Corte e amministrazione",
+          "status": "sintesi"
+        },
+        {
+          "id": "k4_1_labour",
+          "label": "Organizzazione delle maestranze",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Seoul–Gyeongseong",
+      "lat": 37.5665,
+      "lon": 126.978,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "han",
+      "label": "Bacino del fiume Han",
+      "lat": 37.5,
+      "lon": 127.1,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "gye",
+      "label": "Pianure di Gyeonggi",
+      "lat": 37.3,
+      "lon": 127.0,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "inc",
+      "label": "Incheon e costa occidentale",
+      "lat": 37.46,
+      "lon": 126.7,
+      "status": "documentato",
+      "kind": "locale",
+      "dy": 24
+    },
+    {
+      "id": "bus",
+      "label": "Busan e Corea meridionale",
+      "lat": 35.18,
+      "lon": 129.08,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "man",
+      "label": "Manciuria e Cina nord-orientale",
+      "lat": 42.0,
+      "lon": 125.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    },
+    {
+      "id": "jap",
+      "label": "Giappone metropolitano",
+      "lat": 35.0,
+      "lon": 137.0,
+      "status": "documentato",
+      "kind": "lungadistanza",
+      "dy": 24
+    }
+  ],
+  "flows": [
+    {
+      "source": "han",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "fiume, strade e tram",
+      "food": "verdure, pesce, legname e acqua"
+    },
+    {
+      "source": "gye",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovie e strade coloniali",
+      "food": "riso, cereali, bestiame e manodopera"
+    },
+    {
+      "source": "inc",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia Gyeongin",
+      "food": "sale, pesce, importazioni e servizi portuali"
+    },
+    {
+      "source": "bus",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "ferrovia Gyeongbu",
+      "food": "riso, pesce e collegamenti marittimi"
+    },
+    {
+      "source": "man",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete ferroviaria imperiale",
+      "food": "soia, cereali, carbone e militari"
+    },
+    {
+      "source": "jap",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "shipping e ferrovie",
+      "food": "macchinari, capitale, funzionari e requisizioni"
+    }
+  ]
+}

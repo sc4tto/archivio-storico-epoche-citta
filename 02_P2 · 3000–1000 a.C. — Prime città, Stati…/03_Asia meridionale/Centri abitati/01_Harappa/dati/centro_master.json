@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Harappa — modulo multi-grafo",
+    "short_name": "Harappa",
+    "site": "Harappa e i suoi monticoli urbani",
+    "modern_location": "Distretto di Sahiwal, Punjab, Pakistan",
+    "coordinates": {
+      "lat": 30.628,
+      "lon": 72.864
+    },
+    "scope": "Grande centro della civiltà dell’Indo sviluppato presso un antico corso del Ravi, con più monticoli fortificati, quartieri artigianali, sistemi di drenaggio, cimiteri e una lunga sequenza dal IV al II millennio a.C.",
+    "version": "1.0-blocco_16_p2_asia_meridionale_5_centri_v1",
+    "warning": "Il sito comprende più centri murati e fasi sovrapposte. Le denominazioni tradizionali come “granaio” o “cittadella” non devono essere considerate funzioni certe senza ulteriori prove."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "HARAPPA_UNESCO",
+      "title": "UNESCO — Archaeological Site of Harappa",
+      "url": "https://whc.unesco.org/en/tentativelists/1878/",
+      "use": "sequenza, monticoli, cimiteri, planimetria e conservazione"
+    },
+    {
+      "id": "HARAPPA_HARP",
+      "title": "Harappa Archaeological Research Project",
+      "url": "https://www.harappa.com/",
+      "use": "scavi multidisciplinari, artigianato, cronologia e cultura materiale"
+    },
+    {
+      "id": "HARAPPA_KENOYER",
+      "title": "Kenoyer — Ancient Cities of the Indus Valley Civilization",
+      "url": "https://global.oup.com/academic/product/ancient-cities-of-the-indus-valley-civilization-9780195779400",
+      "use": "urbanistica, tecnologia e reti della civiltà dell’Indo"
+    }
+  ]
+}

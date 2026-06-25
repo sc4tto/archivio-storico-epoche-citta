@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Costantinopoli bizantina",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0_water",
+      "label": "Acqua e approvvigionamento",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0_cistern",
+          "label": "Progettazione di acquedotti e cisterne",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1_grainlog",
+          "label": "Logistica di granai e porti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1_defence",
+      "label": "Difesa urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0_wallsci",
+          "label": "Ingegneria di mura e torri",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1_siege",
+          "label": "Gestione di assedi e riparazioni",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2_art",
+      "label": "Architettura e arti",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0_domeknow",
+          "label": "Calcolo di cupole e sostegni",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1_mosaicknow",
+          "label": "Mosaico, marmo e iconografia",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3_admin",
+      "label": "Amministrazione imperiale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0_fiscal",
+          "label": "Fiscalità e registrazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1_court",
+          "label": "Cerimoniale e gestione di corte",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4_religion",
+      "label": "Culto e istruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0_liturgy",
+          "label": "Liturgia urbana e monastica",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1_texts",
+          "label": "Copiatura, studio e trasmissione di testi",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "block": "Blocco_74_P7_Asia_Sud_Orientale_5_Centri_v1",
+  "macroregion": "Asia sud-orientale continentale e marittima",
+  "centers": [
+    "01_Singapore_Porto_Coloniale",
+    "02_Batavia_Giacarta_Coloniale",
+    "03_Manila_Spagnola_Rivoluzionaria",
+    "04_Bangkok_Chakri_Riformatrice",
+    "05_Saigon_Gia_Dinh_Coloniale"
+  ],
+  "uses_central_assets": true
+}

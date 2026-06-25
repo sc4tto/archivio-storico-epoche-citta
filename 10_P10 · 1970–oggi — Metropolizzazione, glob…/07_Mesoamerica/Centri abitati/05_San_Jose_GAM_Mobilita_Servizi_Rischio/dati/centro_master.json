@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "short_name": "San José, GAM, mobilità, servizi e rischio",
+    "site": "San José, GAM, mobilità, servizi e rischio",
+    "modern_location": "San José, Costa Rica",
+    "coordinates": {
+      "lat": 9.9281,
+      "lon": -84.0907
+    },
+    "scope": "San José dal 1970 al 25 giugno 2026: crescita della Grande Area Metropolitana, espansione verso Heredia, Alajuela e Cartago, centralità amministrativa e dei servizi, diffusione automobilistica, autobus e riattivazione ferroviaria, trasformazioni del centro, disuguaglianze abitative, migrazioni, alluvioni, frane e rischio sismico, con nuovi piani per il trasporto elettrico.",
+    "version": "1.0",
+    "warning": "Il Tren Eléctrico de Pasajeros de la GAM dispone di finanziamento approvato nel 2026 ma resta un progetto futuro, non una rete completata al 25 giugno 2026."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "SJ1",
+      "title": "Municipalidad de San José — Plan de Desarrollo Municipal 2024–2028",
+      "use": "Servizi urbani, spazio pubblico, ambiente e priorità municipali.",
+      "url": "https://www.msj.go.cr/docu/DPEI/Plan%20de%20Desarrollo%20Municipal/Plan%20de%20Desarrollo%20Municipal%202024-2028.pdf"
+    },
+    {
+      "id": "SJ2",
+      "title": "World Bank — Connecting the Greater Metropolitan Area of Costa Rica",
+      "use": "Mobilità, dipendenza dall’automobile e integrazione della GAM.",
+      "url": "https://documents1.worldbank.org/curated/en/099051723150026179/pdf/P175084036ca6f0a608abe0978c5b0b2137.pdf"
+    },
+    {
+      "id": "SJ3",
+      "title": "CNE Costa Rica — rischio per inondazioni, sismi e frane",
+      "use": "Pericoli naturali, vulnerabilità territoriale e prevenzione nella GAM.",
+      "url": "https://www.cne.go.cr/CEDO-CRID/pdf/spa/doc968/doc968-a.pdf"
+    },
+    {
+      "id": "SJ4",
+      "title": "INCOFER — finanziamento del Tren Eléctrico de Pasajeros de la GAM",
+      "use": "Finanziamento approvato nel 2026 per un progetto ferroviario futuro.",
+      "url": "https://www.incofer.go.cr/costa-rica-asegura-el-financiamiento-total-del-tren-electrico-del-gam-con-apoyo-del-bcie-la-union-europea-y-el-fondo-verde-del-clima/"
+    }
+  ]
+}

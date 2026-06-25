@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Zanzibar Stone Town omanita e coloniale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Navigazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Monsoni, dhow e pilotaggio",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Porti, dogane e credito mercantile",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Architettura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Pietra corallina e calce",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Porte intagliate, cortili e balconi",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Chiodi di garofano, avorio e tessili",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Reti swahili, arabe e indiane",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Corte omanita e comunità urbane",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Lingua swahili, islam e pluralità culturale",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Coercizione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Schiavitù di piantagione e domestica",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Carovane e commercio di persone",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

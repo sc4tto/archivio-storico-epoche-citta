@@ -1,0 +1,139 @@
+{
+  "id": "root",
+  "label": "Conoscenze di Hierakonpolis",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k1",
+      "label": "Ambiente",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_1",
+          "label": "Cicli del Nilo",
+          "status": "inferito"
+        },
+        {
+          "id": "k1_2",
+          "label": "Percorsi dei wadi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_3",
+          "label": "Fauna nilotica e desertica",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Agricoltura",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k2_1",
+          "label": "Cereali e lino",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_2",
+          "label": "Gestione di bovini e ovicaprini",
+          "status": "sintesi"
+        },
+        {
+          "id": "k2_3",
+          "label": "Accumulo di surplus",
+          "status": "inferito"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Produzione alimentare",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_1",
+          "label": "Macinazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_2",
+          "label": "Produzione di birra",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_3",
+          "label": "Macellazione su scala variabile",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_1",
+          "label": "Ceramica",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_2",
+          "label": "Selce e pietra",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_3",
+          "label": "Pigmenti e ornamenti",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "label": "Edilizia",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k5_1",
+          "label": "Mattoni crudi",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_2",
+          "label": "Forni e installazioni",
+          "status": "documentato"
+        },
+        {
+          "id": "k5_3",
+          "label": "Recinti e grandi strutture",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "label": "Organizzazione",
+      "status": "sintesi",
+      "children": [
+        {
+          "id": "k6_1",
+          "label": "Coordinamento produttivo",
+          "status": "inferito"
+        },
+        {
+          "id": "k6_2",
+          "label": "Gestione di necropoli differenziate",
+          "status": "documentato"
+        },
+        {
+          "id": "k6_3",
+          "label": "Autorità rituale emergente",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

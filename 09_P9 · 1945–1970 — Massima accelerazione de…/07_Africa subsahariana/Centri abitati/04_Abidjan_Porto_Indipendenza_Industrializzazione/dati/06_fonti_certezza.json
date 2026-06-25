@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "L’apertura del canale di Vridi nel 1950 rese possibile il porto in acque profonde e accelerò la crescita di Abidjan.",
+    "theme": "porto",
+    "status": "documentato",
+    "source": "AB2; AB3"
+  },
+  {
+    "claim": "Il periodo 1950–1970 è identificato come fase della città portuale in forte espansione.",
+    "theme": "urbanizzazione",
+    "status": "documentato",
+    "source": "AB4"
+  },
+  {
+    "claim": "Il piano SETAP del 1960 cercò di ordinare assi di crescita e infrastrutture ma fu rapidamente superato dalla crescita reale.",
+    "theme": "pianificazione",
+    "status": "documentato",
+    "source": "AB2"
+  },
+  {
+    "claim": "Dopo l’indipendenza, gli investimenti statali concentrati ad Abidjan rafforzarono industria, amministrazione e attrazione migratoria.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "AB1"
+  },
+  {
+    "claim": "La crescita produsse una forte domanda di alloggi, acqua, trasporti e servizi non soddisfatta in modo uniforme.",
+    "theme": "servizi",
+    "status": "documentato",
+    "source": "AB1; AB2"
+  },
+  {
+    "claim": "Abidjan, porto, indipendenza e industrializzazione è trattata entro il limite 1945–1970.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "fonti del modulo"
+  },
+  {
+    "claim": "Colonialismo, concentrazione degli investimenti, espropriazioni, precarietà fondiaria e sgomberi sono descritti come processi di potere e disuguaglianza; migranti, lavoratori portuali e residenti dei quartieri popolari sono soggetti attivi della trasformazione urbana.",
+    "theme": "contesto",
+    "status": "documentato",
+    "source": "schema P9 e fonti del modulo"
+  }
+]

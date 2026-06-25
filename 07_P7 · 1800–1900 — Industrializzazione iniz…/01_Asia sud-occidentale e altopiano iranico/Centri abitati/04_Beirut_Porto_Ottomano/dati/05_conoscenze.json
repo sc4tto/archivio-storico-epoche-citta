@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Beirut, porto ottomano e città della seta",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Porto e commercio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Piroscafi, dogane e magazzini",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Seta, credito e mercati europei",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Istruzione e stampa",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Scuole missionarie e università",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Tipografie, giornali e rinascita araba",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Costruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Pietra, archi e casa a sala centrale",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Tegole, vetro e ferro",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Amministrazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Tanzimat e municipalità",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Consolati e infrastrutture",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Società",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Migrazioni e pluralità confessionale",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Violenza del 1860 e rifugiati",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

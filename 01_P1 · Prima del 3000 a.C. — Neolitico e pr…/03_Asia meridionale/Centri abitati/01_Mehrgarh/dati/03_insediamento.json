@@ -1,0 +1,67 @@
+{
+  "phases": [
+    "Neolitico aceramico",
+    "Neolitico ceramico",
+    "Calcolitico iniziale",
+    "Calcolitico medio",
+    "Fase tarda verso 3000 a.C."
+  ],
+  "items": [
+    {
+      "id": "mounds",
+      "label": "Spostamento dell’occupazione fra più mound",
+      "lane": "Impianto",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "mudbrick",
+      "label": "Edifici in mattoni crudi",
+      "lane": "Abitazioni",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "storage",
+      "label": "Grandi strutture compartimentate, spesso interpretate come depositi",
+      "lane": "Conservazione",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "craft",
+      "label": "Aree di produzione ceramica e artigianale",
+      "lane": "Produttive",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "cemetery",
+      "label": "Cimiteri formali",
+      "lane": "Funerarie",
+      "start": 0,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "special",
+      "label": "Crescente specializzazione di perle, pietra e ceramica",
+      "lane": "Artigianato",
+      "start": 1,
+      "end": 4,
+      "status": "documentato"
+    },
+    {
+      "id": "shift",
+      "label": "Trasferimento del centro verso Nausharo dopo il 3000",
+      "lane": "Trasformazione",
+      "start": 4,
+      "end": 4,
+      "status": "sintesi"
+    }
+  ]
+}

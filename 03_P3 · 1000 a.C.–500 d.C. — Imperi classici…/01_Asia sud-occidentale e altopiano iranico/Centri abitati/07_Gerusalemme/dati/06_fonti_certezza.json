@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Gerusalemme conserva una stratificazione continua di periodi differenti",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "JER_UNESCO"
+  },
+  {
+    "claim": "L’approvvigionamento idrico dipendeva da sorgenti, cisterne e acquedotti",
+    "theme": "Acqua",
+    "status": "documentato",
+    "source": "JER_ANCIENT"
+  },
+  {
+    "claim": "La città fu trasformata in Aelia Capitolina in età romana",
+    "theme": "Politica",
+    "status": "documentato",
+    "source": "JER_PLEIADES"
+  },
+  {
+    "claim": "Le pratiche religiose e i pellegrinaggi influenzarono l’assetto urbano",
+    "theme": "Religioni",
+    "status": "sintesi",
+    "source": "JER_UNESCO"
+  },
+  {
+    "claim": "Sono documentate necropoli rupestri di più fasi",
+    "theme": "Rituali",
+    "status": "documentato",
+    "source": "JER_ANCIENT"
+  },
+  {
+    "claim": "Ogni struttura antica può essere identificata con un episodio testuale",
+    "theme": "Metodo",
+    "status": "non_documentato",
+    "source": "Correlazioni spesso dibattute"
+  },
+  {
+    "claim": "La città mantenne una pianta immutata per tutto il P3",
+    "theme": "Urbanistica",
+    "status": "non_documentato",
+    "source": "Numerose ricostruzioni e ampliamenti"
+  },
+  {
+    "claim": "Le fonti antiche concordano sempre sulla topografia",
+    "theme": "Fonti",
+    "status": "non_documentato",
+    "source": "Tradizioni e cronologie differenti"
+  }
+]

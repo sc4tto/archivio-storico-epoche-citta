@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Etowah fu occupata da comunità mississippiane fra circa 1000 e 1550.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "ET1"
+  },
+  {
+    "claim": "Il blocco considera soltanto le fasi fino al 1500.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "ET1"
+  },
+  {
+    "claim": "Il sito comprende sei tumuli, una piazza, un villaggio e un fossato.",
+    "theme": "urbanistica",
+    "status": "documentato",
+    "source": "ET1"
+  },
+  {
+    "claim": "La valle forniva risorse agricole, fluviali e forestali.",
+    "theme": "economia",
+    "status": "documentato",
+    "source": "ET1; ET2"
+  },
+  {
+    "claim": "La conchiglia marina e il rame indicano reti a lunga distanza.",
+    "theme": "reti",
+    "status": "documentato",
+    "source": "ET2; ET4"
+  },
+  {
+    "claim": "Mound A sosteneva probabilmente edifici di alto rango.",
+    "theme": "politica",
+    "status": "sintesi",
+    "source": "ET1; ET2"
+  },
+  {
+    "claim": "Mound C ebbe importanti funzioni funerarie.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "ET1; ET2"
+  },
+  {
+    "claim": "Le immagini rituali non vengono attribuite a un’unica religione codificata.",
+    "theme": "metodo",
+    "status": "sintesi",
+    "source": "ET4"
+  }
+]

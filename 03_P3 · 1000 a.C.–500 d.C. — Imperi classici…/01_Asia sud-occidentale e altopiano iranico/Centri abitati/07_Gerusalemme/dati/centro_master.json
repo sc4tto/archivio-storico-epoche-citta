@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Gerusalemme — modulo multi-grafo",
+    "short_name": "Gerusalemme",
+    "site": "Gerusalemme antica",
+    "modern_location": "Gerusalemme / al-Quds",
+    "coordinates": {
+      "lat": 31.78,
+      "lon": 35.23
+    },
+    "scope": "Città d’altura con continuità fra età del Ferro, fasi persiana ed ellenistica, regni asmoneo ed erodiano, dominio romano e tarda antichità, centro politico e religioso di eccezionale densità storica.",
+    "version": "1.0-blocco_26_p3_asia_so_completamento_v1",
+    "warning": "Le denominazioni, le ricostruzioni topografiche e l’interpretazione di molti luoghi sono oggetto di dibattito archeologico, religioso e politico. Il modulo distingue livelli antichi, tradizioni testuali e monumenti posteriori."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato in fonti archeologiche o istituzionali",
+      "color": "#1f7a5a",
+      "dash": "",
+      "opacity": 1.0
+    },
+    "sintesi": {
+      "label": "Sintesi bibliografica da verificare nel dettaglio",
+      "color": "#2f6fb0",
+      "dash": "7 4",
+      "opacity": 0.95
+    },
+    "inferito": {
+      "label": "Inferenza funzionale o regionale",
+      "color": "#c47a13",
+      "dash": "3 5",
+      "opacity": 0.9
+    },
+    "non_documentato": {
+      "label": "Non documentato / domanda aperta",
+      "color": "#8b8f97",
+      "dash": "2 7",
+      "opacity": 0.75
+    }
+  },
+  "sources": [
+    {
+      "id": "JER_UNESCO",
+      "title": "UNESCO — Old City of Jerusalem and its Walls",
+      "url": "https://whc.unesco.org/en/list/148/",
+      "use": "quadro patrimoniale, stratificazione e monumenti"
+    },
+    {
+      "id": "JER_PLEIADES",
+      "title": "Pleiades — Hierosolyma/Aelia Capitolina",
+      "url": "https://pleiades.stoa.org/places/687928",
+      "use": "topografia storica e bibliografia"
+    },
+    {
+      "id": "JER_ANCIENT",
+      "title": "Ancient Jerusalem Project",
+      "url": "https://www.ancientjerusalem.org/",
+      "use": "ricostruzioni topografiche e dibattito archeologico"
+    }
+  ]
+}

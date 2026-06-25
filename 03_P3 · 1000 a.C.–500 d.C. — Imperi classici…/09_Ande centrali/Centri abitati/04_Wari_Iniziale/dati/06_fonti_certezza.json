@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Il sito Wari conserva ceramiche, liti, tessili e monoliti da scavo",
+    "theme": "Materiali",
+    "status": "documentato",
+    "source": "WARI_MUSEUM"
+  },
+  {
+    "claim": "La crescita urbana iniziò prima della piena espansione del Medio Orizzonte",
+    "theme": "Cronologia",
+    "status": "sintesi",
+    "source": "WARI_ISBELL"
+  },
+  {
+    "claim": "Recinti murati e quartieri caratterizzano la città",
+    "theme": "Urbanistica",
+    "status": "documentato",
+    "source": "WARI_ISBELL"
+  },
+  {
+    "claim": "La massima estensione statale Wari appartiene interamente al P3",
+    "theme": "Cronologia",
+    "status": "non_documentato",
+    "source": "Apogeo soprattutto posteriore al 500"
+  },
+  {
+    "claim": "Conchopata contribuì a innovazioni ceramiche e rituali",
+    "theme": "Relazioni",
+    "status": "documentato",
+    "source": "WARI_ISBELL"
+  },
+  {
+    "claim": "Le relazioni con Tiwanaku sono riducibili a una semplice conquista",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Interazioni complesse e dibattute"
+  },
+  {
+    "claim": "Le stime della popolazione urbana sono incerte",
+    "theme": "Demografia",
+    "status": "sintesi",
+    "source": "WARI_JENNINGS"
+  },
+  {
+    "claim": "Il sito testimonia il passaggio da tradizioni regionali a sistemi più ampi",
+    "theme": "Sviluppo",
+    "status": "sintesi",
+    "source": "WARI_JENNINGS"
+  }
+]

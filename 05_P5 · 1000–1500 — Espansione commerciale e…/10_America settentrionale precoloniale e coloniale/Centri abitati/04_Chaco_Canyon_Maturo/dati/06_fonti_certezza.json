@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Chaco fu un centro importante dei Pueblo ancestrali fra 850 e 1250.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "CH1"
+  },
+  {
+    "claim": "L’apogeo della società chacoana è collocato circa fra 1020 e 1110.",
+    "theme": "cronologia",
+    "status": "documentato",
+    "source": "CH1; CH5"
+  },
+  {
+    "claim": "Le grandi case erano edifici monumentali a più piani.",
+    "theme": "costruzione",
+    "status": "documentato",
+    "source": "CH1; CH3"
+  },
+  {
+    "claim": "Le strade collegavano il canyon a una rete regionale.",
+    "theme": "infrastrutture",
+    "status": "documentato",
+    "source": "CH1; CH4"
+  },
+  {
+    "claim": "Legname e beni esotici furono importati da grandi distanze.",
+    "theme": "reti",
+    "status": "documentato",
+    "source": "CH2; CH3"
+  },
+  {
+    "claim": "Le kiva avevano funzioni cerimoniali e comunitarie.",
+    "theme": "religione",
+    "status": "documentato",
+    "source": "CH2; CH3"
+  },
+  {
+    "claim": "La natura del potere politico chacoano non viene definita in modo univoco.",
+    "theme": "metodo",
+    "status": "sintesi",
+    "source": "CH1; CH2"
+  },
+  {
+    "claim": "La fase successiva al 1250 è esclusa dal modulo.",
+    "theme": "metodo",
+    "status": "documentato",
+    "source": "CH1"
+  }
+]

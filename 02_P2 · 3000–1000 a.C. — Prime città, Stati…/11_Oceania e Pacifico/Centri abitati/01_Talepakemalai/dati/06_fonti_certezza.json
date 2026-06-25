@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Talepakemalai è uno dei maggiori siti Lapita antichi delle Mussau",
+    "theme": "Cronologia",
+    "status": "documentato",
+    "source": "TALE_KIRCH"
+  },
+  {
+    "claim": "Il sito conserva ceramica dentellata e numerosi oggetti in conchiglia",
+    "theme": "Tecnologia",
+    "status": "documentato",
+    "source": "TALE_KIRCH"
+  },
+  {
+    "claim": "Ossidiana di origine lontana circolava nel sistema insulare",
+    "theme": "Scambi",
+    "status": "documentato",
+    "source": "TALE_EXCHANGE"
+  },
+  {
+    "claim": "Pali e depositi lagunari indicano strutture costruite presso o sopra l’acqua",
+    "theme": "Edilizia",
+    "status": "sintesi",
+    "source": "TALE_SYNTH"
+  },
+  {
+    "claim": "Pesca, orticoltura e animali introdotti componevano un’economia mista",
+    "theme": "Alimentazione",
+    "status": "sintesi",
+    "source": "TALE_KIRCH"
+  },
+  {
+    "claim": "Il sito era una città con governo centralizzato",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Scala e forma politica non dimostrate"
+  },
+  {
+    "claim": "Tutte le ceramiche furono prodotte da un’unica officina",
+    "theme": "Artigianato",
+    "status": "non_documentato",
+    "source": "Produzione plurale possibile"
+  },
+  {
+    "claim": "Le case avevano una pianta identica",
+    "theme": "Edilizia",
+    "status": "non_documentato",
+    "source": "Ricostruzioni incomplete"
+  }
+]

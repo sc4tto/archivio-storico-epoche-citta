@@ -1,0 +1,107 @@
+{
+  "places": [
+    {
+      "id": "site",
+      "label": "Gobero",
+      "lat": 17.24,
+      "lon": 9.53,
+      "status": "documentato",
+      "kind": "centro",
+      "dx": 0,
+      "dy": 38,
+      "anchor": "middle"
+    },
+    {
+      "id": "lake",
+      "label": "Bacino del paleolago",
+      "lat": 17.25,
+      "lon": 9.54,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": 12,
+      "dy": -18,
+      "anchor": "start"
+    },
+    {
+      "id": "dunes",
+      "label": "Dune e terrazzi sabbiosi",
+      "lat": 17.22,
+      "lon": 9.5,
+      "status": "documentato",
+      "kind": "locale",
+      "dx": -10,
+      "dy": 24,
+      "anchor": "end"
+    },
+    {
+      "id": "air",
+      "label": "Massiccio dell’Aïr",
+      "lat": 18.0,
+      "lon": 8.5,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "tenere",
+      "label": "Ténéré e corridoi sahariani",
+      "lat": 17.5,
+      "lon": 11.0,
+      "status": "sintesi",
+      "kind": "regionale",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    },
+    {
+      "id": "sahel",
+      "label": "Margine saheliano meridionale",
+      "lat": 15.5,
+      "lon": 9.0,
+      "status": "sintesi",
+      "kind": "lungadistanza",
+      "dx": 0,
+      "dy": 26,
+      "anchor": "middle"
+    }
+  ],
+  "flows": [
+    {
+      "source": "lake",
+      "target": "site",
+      "label": "pesci, molluschi, acqua e argilla",
+      "status": "documentato",
+      "food": "sì"
+    },
+    {
+      "source": "dunes",
+      "target": "site",
+      "label": "aree abitative e funerarie",
+      "status": "documentato",
+      "food": "no"
+    },
+    {
+      "source": "air",
+      "target": "site",
+      "label": "pietra e mobilità regionale",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "tenere",
+      "target": "site",
+      "label": "circolazione fra bacini del Sahara verde",
+      "status": "sintesi",
+      "food": "parziale"
+    },
+    {
+      "source": "sahel",
+      "target": "site",
+      "label": "contatti e spostamenti climatici",
+      "status": "inferito",
+      "food": "parziale"
+    }
+  ]
+}

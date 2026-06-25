@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "short_name": "Mayapán, capitale murata dello Yucatán",
+    "site": "Mayapán",
+    "modern_location": "Tecoh, Yucatán, Messico",
+    "coordinates": {
+      "lat": 20.629,
+      "lon": -89.46
+    },
+    "scope": "Mayapán fra 1000 e 1500, con attenzione alla crescita dopo il declino di Chichén Itzá, alla città murata, alla confederazione politica, ai mercati e alla dissoluzione verso la metà del XV secolo.",
+    "version": "1.0",
+    "warning": "Le narrazioni coloniali sulla Lega di Mayapán e sulle dinastie sono confrontate con l’archeologia; date e responsabilità politiche non vengono trattate come certe in ogni dettaglio."
+  },
+  "status": {
+    "documentato": {
+      "label": "Documentato",
+      "color": "var(--status-documentato, #2f6f55)",
+      "dash": "",
+      "opacity": 1
+    },
+    "sintesi": {
+      "label": "Sintesi da verificare",
+      "color": "var(--status-sintesi, #b7791f)",
+      "dash": "7 5",
+      "opacity": 0.9
+    },
+    "inferito": {
+      "label": "Inferito",
+      "color": "var(--status-inferito, #5b6fb5)",
+      "dash": "3 5",
+      "opacity": 0.82
+    },
+    "non_documentato": {
+      "label": "Non documentato",
+      "color": "var(--status-non-documentato, #8b8f97)",
+      "dash": "2 6",
+      "opacity": 0.55
+    }
+  },
+  "sources": [
+    {
+      "id": "MA1",
+      "title": "Encyclopaedia Britannica — Mayapan",
+      "use": "Cronologia, ruolo politico e carattere della città postclassica.",
+      "url": "https://www.britannica.com/place/Mayapan"
+    },
+    {
+      "id": "MA2",
+      "title": "INAH — Zona Arqueológica de Mayapán",
+      "use": "Mura, monumenti, abitazioni e ricerca archeologica.",
+      "url": "https://www.inah.gob.mx/zonas/145-zona-arqueologica-de-mayapan"
+    },
+    {
+      "id": "MA3",
+      "title": "Mayapan Archaeological Project",
+      "use": "Economia domestica, artigianato, urbanistica e cronologia.",
+      "url": "https://www.albany.edu/mayapan/"
+    },
+    {
+      "id": "MA4",
+      "title": "Metropolitan Museum — Maya Art",
+      "use": "Arte e cultura materiale del Postclassico maya.",
+      "url": "https://www.metmuseum.org/toah/hd/maya/hd_maya.htm"
+    },
+    {
+      "id": "MA5",
+      "title": "UNESCO — Pre-Hispanic City of Chichen-Itza",
+      "use": "Confronto cronologico e regionale con Chichén Itzá.",
+      "url": "https://whc.unesco.org/en/list/483/"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Nan Madol",
+      "lat": 6.8444,
+      "lon": 158.3347,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "tem",
+      "label": "Temwen",
+      "lat": 6.82,
+      "lon": 158.31,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "mad",
+      "label": "Madolenihmw",
+      "lat": 6.83,
+      "lon": 158.28,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "upl",
+      "label": "Altopiani interni di Pohnpei",
+      "lat": 6.9,
+      "lon": 158.22,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "ant",
+      "label": "Ant Atoll",
+      "lat": 6.78,
+      "lon": 157.98,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "kos",
+      "label": "Kosrae",
+      "lat": 5.31,
+      "lon": 162.98,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "chu",
+      "label": "Chuuk",
+      "lat": 7.45,
+      "lon": 151.85,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "tem",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "canoe e canali",
+      "food": "manodopera, corallo e derrate"
+    },
+    {
+      "source": "mad",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "sentieri e vie d’acqua",
+      "food": "taro, pane, cocco e tributi"
+    },
+    {
+      "source": "upl",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "percorsi interni",
+      "food": "basalto, legname e prodotti forestali"
+    },
+    {
+      "source": "ant",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "navigazione oceanica",
+      "food": "pesce, conchiglie e scambi"
+    },
+    {
+      "source": "kos",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "reti regionali",
+      "food": "beni di prestigio e tradizioni"
+    },
+    {
+      "source": "chu",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "contatti interinsulari",
+      "food": "oggetti, persone e conoscenze nautiche"
+    }
+  ]
+}

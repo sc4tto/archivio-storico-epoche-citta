@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Berlino divisa, ricostruzione e Muro",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Ricostruzione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Sgombero macerie, restauro, edilizia moderna e ricostruzioni ideologiche",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Prefabbricazione, standard, densità e attrezzature collettive",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Mobilità e logistica",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Ponte aereo, aeroporti, corridoi, U-Bahn, S-Bahn e strade",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Reti interrotte dal confine, controlli e distribuzioni separate",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Politica e istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Quattro potenze, Senato di Berlino Ovest, Magistrat e SED a Est",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Guerra fredda, propaganda, polizia, esercito e amministrazioni concorrenti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Sfollati, profughi, pendolari transfrontalieri, operai, studenti e famiglie divise",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Chiese, sindacati, associazioni e culture urbane divergenti",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Crisi e coercizione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Distruzione, carenza abitativa, blocco, emigrazione e disuguaglianze",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Repressione del 1953, Muro, sparatorie al confine, sorveglianza e separazione familiare",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

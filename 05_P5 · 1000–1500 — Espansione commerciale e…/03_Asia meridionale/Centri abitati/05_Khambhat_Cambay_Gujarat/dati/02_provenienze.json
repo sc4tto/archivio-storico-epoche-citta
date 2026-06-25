@@ -1,0 +1,105 @@
+{
+  "places": [
+    {
+      "id": "ctr",
+      "label": "Khambhat-Cambay",
+      "lat": 22.314,
+      "lon": 72.619,
+      "status": "documentato",
+      "kind": "centro",
+      "dy": -22
+    },
+    {
+      "id": "bha",
+      "label": "Bharuch",
+      "lat": 21.7,
+      "lon": 72.99,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "pat",
+      "label": "Patan",
+      "lat": 23.85,
+      "lon": 72.13,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "ahm",
+      "label": "Ahmedabad",
+      "lat": 23.02,
+      "lon": 72.57,
+      "status": "documentato",
+      "kind": "locale"
+    },
+    {
+      "id": "hor",
+      "label": "Hormuz",
+      "lat": 27.1,
+      "lon": 56.45,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "ade",
+      "label": "Aden",
+      "lat": 12.79,
+      "lon": 45.03,
+      "status": "documentato",
+      "kind": "lungadistanza"
+    },
+    {
+      "id": "mog",
+      "label": "Mogadiscio",
+      "lat": 2.05,
+      "lon": 45.32,
+      "status": "sintesi",
+      "kind": "lungadistanza"
+    }
+  ],
+  "flows": [
+    {
+      "source": "bha",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "rete del golfo e Narmada",
+      "food": "cotone, indaco e granaglie"
+    },
+    {
+      "source": "pat",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "entroterra gujarati",
+      "food": "tessili, cavalli e artigiani"
+    },
+    {
+      "source": "ahm",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "capitale del Sultanato del Gujarat",
+      "food": "manufatti, fiscalità e mercanti"
+    },
+    {
+      "source": "hor",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Golfo Persico",
+      "food": "cavalli, perle e argento"
+    },
+    {
+      "source": "ade",
+      "target": "ctr",
+      "status": "documentato",
+      "label": "Mar Arabico",
+      "food": "spezie, metalli e mercanti"
+    },
+    {
+      "source": "mog",
+      "target": "ctr",
+      "status": "sintesi",
+      "label": "Africa orientale",
+      "food": "oro, avorio e cera"
+    }
+  ]
+}

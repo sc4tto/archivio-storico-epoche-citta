@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "La regione ospitò numerosi insediamenti costruiti in pietra a secco",
+    "theme": "Insediamento",
+    "status": "documentato",
+    "source": "DT_LINARES"
+  },
+  {
+    "claim": "Pastorizia e coltivazione del miglio furono integrate",
+    "theme": "Sussistenza",
+    "status": "documentato",
+    "source": "DT_HOLL"
+  },
+  {
+    "claim": "L’aridificazione contribuì alla trasformazione e dispersione degli abitati",
+    "theme": "Ambiente",
+    "status": "sintesi",
+    "source": "DT_HOLL"
+  },
+  {
+    "claim": "Dakhlet el Atrouss mostra differenze di scala e organizzazione fra i composti",
+    "theme": "Società",
+    "status": "documentato",
+    "source": "DT_LINARES"
+  },
+  {
+    "claim": "Le reti collegavano più dhar della Mauritania sud-orientale",
+    "theme": "Reti regionali",
+    "status": "sintesi",
+    "source": "DT_MACDONALD"
+  },
+  {
+    "claim": "Dhar Tichitt fu una capitale statale centralizzata",
+    "theme": "Politica",
+    "status": "non_documentato",
+    "source": "Gerarchia discussa"
+  },
+  {
+    "claim": "Tutti i muri ebbero funzione difensiva",
+    "theme": "Architettura",
+    "status": "non_documentato",
+    "source": "Funzioni domestiche, pastorali e comunitarie"
+  },
+  {
+    "claim": "L’identità linguistica degli abitanti è dimostrata direttamente",
+    "theme": "Lingue",
+    "status": "non_documentato",
+    "source": "Inferenze storiche posteriori"
+  }
+]

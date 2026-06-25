@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Spiro Mounds, fase iniziale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Agricoltura",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Mais e colture associate",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Campi alluvionali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Costruzione dei mound",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Accumulo stratificato di terra",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Edifici lignei sommitali",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Navigazione e scambio",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Corridoio dell’Arkansas",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Conchiglie, rame e pietre esotiche",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Artigianato",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Selce, ceramica e fibre",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Iconografia di rango",
+          "status": "sintesi"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Organizzazione",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Villaggio di sostegno",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Autorità cerimoniali emergenti",
+          "status": "sintesi"
+        }
+      ]
+    }
+  ]
+}

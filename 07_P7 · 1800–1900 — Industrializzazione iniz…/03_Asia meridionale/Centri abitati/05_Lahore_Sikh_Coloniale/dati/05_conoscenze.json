@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Lahore sikh e coloniale",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Capitale sikh",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Corte di Ranjit Singh e amministrazione",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Restauri, tesori e pluralismo religioso",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Governo coloniale",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "Annessione, catasto e cantonment",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Tribunali, uffici e polizia",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Ferrovie e canali",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "Stazione, officine e logistica",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Irrigazione e mercati agricoli",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Cultura urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "Collegi, museo e stampa",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Riforme religiose e associazionismo",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Patrimonio e perdita",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "Riusi del Forte e dei giardini",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Alterazioni e conservazione coloniale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}

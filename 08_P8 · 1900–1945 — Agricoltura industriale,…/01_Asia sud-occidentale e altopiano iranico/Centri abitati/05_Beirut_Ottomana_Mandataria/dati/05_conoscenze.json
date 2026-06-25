@@ -1,0 +1,92 @@
+{
+  "id": "root",
+  "label": "Competenze di Beirut ottomana, mandataria e indipendente",
+  "status": "documentato",
+  "children": [
+    {
+      "id": "k0",
+      "label": "Trasporti e infrastrutture",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k0_0",
+          "label": "Ferrovie, tram, porti e strade moderne",
+          "status": "documentato"
+        },
+        {
+          "id": "k0_1",
+          "label": "Acqua, elettricità, telegrafo e sanità urbana",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "label": "Economia urbana",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k1_0",
+          "label": "porto, banche, seta, stampa, università e servizi",
+          "status": "documentato"
+        },
+        {
+          "id": "k1_1",
+          "label": "Mercati, manifatture, finanza e lavoro salariato",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "label": "Politica e istituzioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k2_0",
+          "label": "amministrazione ottomana, mandato francese e Stato libanese",
+          "status": "documentato"
+        },
+        {
+          "id": "k2_1",
+          "label": "Municipalità, amministrazioni e apparati di sicurezza",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "label": "Società e migrazioni",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k3_0",
+          "label": "musulmani, cristiani, ebrei, armeni e migranti transatlantici",
+          "status": "documentato"
+        },
+        {
+          "id": "k3_1",
+          "label": "Quartieri, associazioni, scuole e stampa",
+          "status": "documentato"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "label": "Conflitti e vulnerabilità",
+      "status": "documentato",
+      "children": [
+        {
+          "id": "k4_0",
+          "label": "carestia, guerra, epidemie, segregazione e dipendenza economica",
+          "status": "documentato"
+        },
+        {
+          "id": "k4_1",
+          "label": "Epidemie, carestie, bombardamenti e sviluppo diseguale",
+          "status": "documentato"
+        }
+      ]
+    }
+  ]
+}
