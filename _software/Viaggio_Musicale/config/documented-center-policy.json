@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "policy_id": "CENTER_DOCUMENTED_MUSIC_V1",
+  "publication_status": "documentato",
+  "allowed_source_grades": [
+    "A",
+    "B"
+  ],
+  "allowed_geography_relations": [
+    "nel_centro",
+    "territorio_immediato",
+    "regionale_motivata"
+  ],
+  "required_confirmations": {
+    "chronology": "compatibile",
+    "geography": "compatibile",
+    "historical_scale_or_tuning": true,
+    "final_keyword": "DOCUMENTATO"
+  },
+  "center_package_directory": "dati/musica_documentata",
+  "center_profile_filename": "musica-centro.json",
+  "selection_rule": "Il profilo viene indicizzato soltanto quando esiste almeno una catena documentata centro-tradizione-scala, tutti i source_id sono risolti e la scala appartiene a un musica-container.json."
+}

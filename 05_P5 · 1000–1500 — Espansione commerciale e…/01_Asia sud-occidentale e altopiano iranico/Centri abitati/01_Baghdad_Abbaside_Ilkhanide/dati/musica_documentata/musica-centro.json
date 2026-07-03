@@ -1,0 +1,204 @@
+﻿{
+    "schema_version":  1,
+    "record_type":  "center_music_profile",
+    "profile_id":  "P5-ASW-BAGHDAD-URMAWI-MUSIC-DOCUMENTED",
+    "record_status":  "documentato",
+    "scope":  {
+                  "type":  "inhabited_center",
+                  "center_id":  "BAGHDAD_ABBASIDE_ILKHANIDE",
+                  "center_label":  "Baghdad abbaside e ilkhanide",
+                  "folder_name":  "01_Baghdad_Abbaside_Ilkhanide"
+              },
+    "period":  {
+                   "id":  "P5",
+                   "label":  "1000–1500 — Espansione commerciale e…",
+                   "order":  5,
+                   "documented_subrange":  "XIII secolo, circa 1216-1294"
+               },
+    "area":  {
+                 "id":  "ASW",
+                 "label":  "Asia sud-occidentale e altopiano iranico"
+             },
+    "documentation":  {
+                          "status":  "documentato",
+                          "confidence":  "alta_per_contesto_e_sistema; bassa_media_per_mappatura_12tet",
+                          "statement":  "Il profilo documenta l\u0027attivita teorica di al-Urmawi a Baghdad, il sistema a diciassette posizioni e il modo Rast.",
+                          "chronology_status":  "compatibile",
+                          "chronology_statement":  "La vita e l\u0027attivita di al-Urmawi nel XIII secolo rientrano nel periodo P5 e attraversano le fasi tardo-abbaside e ilkhanide.",
+                          "geography_status":  "compatibile",
+                          "geography_relation":  "nel_centro",
+                          "geography_statement":  "Al-Urmawi studio e lavoro a Baghdad, presso la corte e la biblioteca del califfo, continuando la propria attivita dopo il 1258.",
+                          "historical_system_resolvable":  true,
+                          "limitation_note":  "Il sistema storico non e 17-EDO. La mappatura 12-TET, il centro Do e le triadi del software sono costruzioni operative."
+                      },
+    "review":  {
+                   "status":  "pubblicato_con_doppia_mappatura_12tet",
+                   "reviewer":  "Michele Scattolin - verifica finale richiesta",
+                   "last_reviewed":  "2026-07-03T01:02:29.7402617+02:00",
+                   "next_action":  "Confrontare le due mappature 12-TET prima di usare Baghdad come tappa in una transizione armonica."
+               },
+    "extensions":  {
+                       "storage_model":  "center_local_documented_package",
+                       "package_directory":  "dati/musica_documentata",
+                       "historical_author":  "Safi al-Din al-Urmawi",
+                       "historical_work":  "Kitab al-Adwar",
+                       "mode_name":  "Rast"
+                   },
+    "musical_evidence":  [
+                             {
+                                 "evidence_id":  "EVID-BAGHDAD-URMAWI-CONTEXT",
+                                 "type":  "center_tradition",
+                                 "status":  "documentato",
+                                 "statement":  "Al-Urmawi svolse la propria attivita di teorico, musicista, calligrafo e funzionario nel contesto di Baghdad.",
+                                 "source_ids":  [
+                                                    "SRC-BAGHDAD-NEUBAUER-2003",
+                                                    "SRC-BAGHDAD-WRIGHT-1978",
+                                                    "SRC-BAGHDAD-URMAWI-ADWAR-1980"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-BAGHDAD-URMAWI-17-POSITIONS",
+                                 "type":  "tradition_scale",
+                                 "status":  "documentato",
+                                 "statement":  "Il Kitab al-Adwar presenta un sistema modale basato su diciassette posizioni non equidistanti nell\u0027ottava.",
+                                 "source_ids":  [
+                                                    "SRC-BAGHDAD-URMAWI-ADWAR-1980",
+                                                    "SRC-BAGHDAD-ERLANGER-1938",
+                                                    "SRC-BAGHDAD-WRIGHT-1978",
+                                                    "SRC-BAGHDAD-WRIGHT-1995"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-BAGHDAD-URMAWI-RAST",
+                                 "type":  "mode_name",
+                                 "status":  "documentato",
+                                 "statement":  "Rast compare fra i dodici modi principali del sistema.",
+                                 "source_ids":  [
+                                                    "SRC-BAGHDAD-URMAWI-ADWAR-1980",
+                                                    "SRC-BAGHDAD-ERLANGER-1938",
+                                                    "SRC-BAGHDAD-WRIGHT-1978"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-BAGHDAD-12TET-LIMIT",
+                                 "type":  "interpretation_limit",
+                                 "status":  "sintesi",
+                                 "statement":  "La riduzione 12-TET dei gradi microtonali non e univoca.",
+                                 "source_ids":  [
+                                                    "SRC-BAGHDAD-WRIGHT-1978",
+                                                    "SRC-BAGHDAD-ERLANGER-1938"
+                                                ]
+                             }
+                         ],
+    "tradition_links":  [
+                            {
+                                "tradition_id":  "BAGHDAD_URMAWI_MODAL_THEORY",
+                                "relation_status":  "documentato",
+                                "relation_note":  "Collegamento fondato sull\u0027attivita di al-Urmawi a Baghdad.",
+                                "source_ids":  [
+                                                   "SRC-BAGHDAD-URMAWI-ADWAR-1980",
+                                                   "SRC-BAGHDAD-WRIGHT-1978",
+                                                   "SRC-BAGHDAD-NEUBAUER-2003"
+                                               ]
+                            }
+                        ],
+    "scale_links":  [
+                        {
+                            "scale_id":  "BAGHDAD_URMAWI_RAST_FRAMEWORK",
+                            "relation_status":  "documentato",
+                            "relation_note":  "Sono documentati il nome Rast e il quadro a diciassette posizioni; la mappatura 12-TET e una sintesi separata.",
+                            "source_ids":  [
+                                               "SRC-BAGHDAD-URMAWI-ADWAR-1980",
+                                               "SRC-BAGHDAD-ERLANGER-1938",
+                                               "SRC-BAGHDAD-WRIGHT-1978"
+                                           ]
+                        }
+                    ],
+    "documents":  [
+                      {
+                          "document_id":  "DOC-BAGHDAD-CENTER-SOURCES",
+                          "label":  "Fonti documentate per Baghdad e al-Urmawi",
+                          "path":  "./FONTI_DOCUMENTATE.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-BAGHDAD-CENTER-MANIFEST",
+                          "label":  "Manifesto della documentazione Baghdad",
+                          "path":  "./MANIFESTO_DOCUMENTAZIONE.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-BAGHDAD-CENTER-DATA",
+                          "label":  "Dati documentati del sistema di al-Urmawi",
+                          "path":  "./DATI_DOCUMENTATI_URMAWI.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-BAGHDAD-TRANSITIONS",
+                          "label":  "Nota sulle transizioni con Baghdad",
+                          "path":  "./NOTA_TRANSIZIONI_BAGHDAD.txt",
+                          "type":  "text"
+                      }
+                  ],
+    "sources":  [
+                    {
+                        "source_id":  "SRC-BAGHDAD-URMAWI-ADWAR-1980",
+                        "purpose":  "edizione araba moderna del testo primario Kitab al-Adwar",
+                        "title":  "Kitab al-Adwar fi al-musiqa",
+                        "author":  "Safi al-Din Abd al-Mu\u0027min al-Urmawi",
+                        "editor":  "Hashim Muhammad Rajab",
+                        "year":  "1980",
+                        "publisher_or_journal":  "al-Jumhuriyya al-Iraqiyya, Baghdad",
+                        "identifier":  "OCLC 10532654",
+                        "pages":  "trattato completo; tavole dei modi e divisione dell\u0027ottava",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-BAGHDAD-ERLANGER-1938",
+                        "purpose":  "traduzione e studio del Kitab al-Adwar e della Risala al-Sharafiyya",
+                        "title":  "La musique arabe, volume III",
+                        "author":  "Baron Rodolphe d\u0027Erlanger",
+                        "year":  "1938",
+                        "publisher_or_journal":  "Paul Geuthner, Paris",
+                        "identifier":  "edizione e traduzione francese",
+                        "pages":  "sezioni dedicate ad al-Urmawi",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-BAGHDAD-WRIGHT-1978",
+                        "purpose":  "analisi specialistica del sistema modale arabo-persiano del XIII secolo",
+                        "title":  "The Modal System of Arab and Persian Music, A.D. 1250-1300",
+                        "author":  "Owen Wright",
+                        "year":  "1978",
+                        "publisher_or_journal":  "Oxford Oriental Monographs, Oxford University Press",
+                        "identifier":  "monografia accademica",
+                        "pages":  "intero volume",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-BAGHDAD-WRIGHT-1995",
+                        "purpose":  "studio filologico di una versione preliminare del Kitab al-Adwar",
+                        "title":  "A Preliminary Version of the Kitab al-Adwar",
+                        "author":  "Owen Wright",
+                        "year":  "1995",
+                        "publisher_or_journal":  "Bulletin of the School of Oriental and African Studies 58(3)",
+                        "identifier":  "articolo accademico",
+                        "pages":  "455-478",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-BAGHDAD-NEUBAUER-2003",
+                        "purpose":  "inquadramento storico della musica urbana e cortigiana islamica",
+                        "title":  "Music in the Islamic Environment",
+                        "author":  "Eckhard Neubauer",
+                        "year":  "2003",
+                        "publisher_or_journal":  "History of Civilizations of Central Asia, volume IV, part 2",
+                        "identifier":  "UNESCO / Motilal Banarsidass",
+                        "pages":  "circa 594-598",
+                        "grade":  "B"
+                    }
+                ],
+    "notes":  [
+                  null
+              ]
+}

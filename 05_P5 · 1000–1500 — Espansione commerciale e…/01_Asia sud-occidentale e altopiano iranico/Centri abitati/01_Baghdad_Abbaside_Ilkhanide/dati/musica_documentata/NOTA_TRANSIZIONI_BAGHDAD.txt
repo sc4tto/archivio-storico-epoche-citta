@@ -1,0 +1,32 @@
+﻿TRANSIZIONI CON BAGHDAD — AVVERTENZA
+====================================
+
+La tappa Baghdad usa come mappatura principale:
+
+Do, Re, Mib, Fa, Sol, La, Sib.
+
+I gradi microtonali terzo e settimo possono essere arrotondati anche
+verso Mi e Si. L'alternativa e conservata nei metadati ma il motore
+attuale utilizza soltanto la versione principale.
+
+Pertanto:
+
+- le note comuni dipendono dall'arrotondamento;
+- il costo melodico dipende dall'arrotondamento;
+- gli accordi pivot dipendono dall'arrotondamento;
+- la distanza fra centri usa un Do convenzionale;
+- nessun risultato dimostra una pratica storica di modulazione.
+
+Affidabilita consigliata:
+
+struttura modale generale:
+media.
+
+altezza assoluta:
+bassa.
+
+accordi e armonizzazione:
+moderni.
+
+relazione Baghdad-al-Urmawi:
+alta.

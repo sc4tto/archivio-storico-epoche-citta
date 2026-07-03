@@ -1,0 +1,240 @@
+﻿{
+    "schema_version":  1,
+    "record_type":  "center_music_profile",
+    "profile_id":  "P9-ASW-ISTANBUL-AEU-RAST-DOCUMENTED",
+    "record_status":  "documentato",
+    "scope":  {
+                  "type":  "inhabited_center",
+                  "center_id":  "ISTANBUL_POSTWAR_INDUSTRIALIZED",
+                  "center_label":  "Istanbul postbellica e industrializzata",
+                  "folder_name":  "01_Istanbul_Postbellica_Industrializzata"
+              },
+    "period":  {
+                   "id":  "P9",
+                   "order":  9,
+                   "documented_subrange":  "1945-1970; nucleo istituzionale e teorico attivo soprattutto fra 1945 e 1955, con pubblicazioni e diffusione successive",
+                   "label":  "1945–1970 — Massima accelerazione de…"
+               },
+    "area":  {
+                 "id":  "ASW_IRAN",
+                 "label":  "Asia sud-occidentale e altopiano iranico"
+             },
+    "documentation":  {
+                          "status":  "documentato",
+                          "confidence":  "alta_per_autori_opere_contesto_e_sistema_teorico; media_per_relazione_modello_prassi; bassa_per_altezza_assoluta_e_12tet",
+                          "statement":  "Il profilo documenta la codificazione Arel-Ezgi-Uzdilek, la sua diffusione didattica a Istanbul e un profilo comparativo Rast sul reticolo di 53 comma.",
+                          "chronology_status":  "compatibile",
+                          "chronology_statement":  "Arel, Ezgi, Musiki Mecmuası e le pubblicazioni teoriche principali attraversano il periodo 1945-1970; il nucleo storico è concentrato nel primo dopoguerra.",
+                          "geography_status":  "compatibile",
+                          "geography_relation":  "nel_centro",
+                          "geography_statement":  "Arel ed Ezgi operarono a Istanbul e furono collegati alle istituzioni musicali della città.",
+                          "historical_system_resolvable":  true,
+                          "limitation_note":  "È risolvibile il modello teorico e notazionale; non è risolvibile come unica intonazione di ogni esecuzione né come scala 12-TET."
+                      },
+    "review":  {
+                   "status":  "pubblicato_con_modello_teorico_e_scarti_in_cent",
+                   "reviewer":  "Michele Scattolin - verifica finale richiesta",
+                   "next_action":  "Controllare che l\u0027interfaccia distingua 24 posizioni notazionali, griglia di 53 comma, cent calcolati, misura esecutiva, funzione modale e riduzione 12-TET.",
+                   "last_reviewed":  "2026-07-03T12:09:39.8594172+02:00"
+               },
+    "extensions":  {
+                       "storage_model":  "center_local_documented_package",
+                       "package_directory":  "dati/musica_documentata",
+                       "historical_school":  "Arel-Ezgi-Uzdilek",
+                       "historical_works":  [
+                                                "Türk Musikisi Nazariyatı Dersleri",
+                                                "Nazarî-Amelî Türk Musikisi"
+                                            ],
+                       "theoretical_grid":  "53 comma",
+                       "notational_inventory":  "24 posizioni non equidistanti",
+                       "selected_makam":  "Rast",
+                       "notation":  "pentagramma occidentale con alterazioni microtonali",
+                       "continuity_from_profile":  "P8-ASW-ISTANBUL-RAUF-YEKTA-RAST-DOCUMENTED"
+                   },
+    "musical_evidence":  [
+                             {
+                                 "evidence_id":  "EVID-ISTANBUL-AEU-AREL-CONTEXT",
+                                 "type":  "center_tradition",
+                                 "status":  "documentato",
+                                 "statement":  "Arel diresse il consiglio scientifico del Conservatorio municipale di Istanbul dal 1943 per cinque anni, vi insegnò teoria e storia della musica turca e proseguì l\u0027attività didattica nell\u0027İleri Türk Musikisi Konservatuvarı.",
+                                 "source_ids":  [
+                                                    "SRC-ISTANBUL-AEU-TDV-AREL",
+                                                    "SRC-ISTANBUL-CONSERVATORY-HISTORY"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-ISTANBUL-AEU-24-PITCH",
+                                 "type":  "system_structure",
+                                 "status":  "documentato",
+                                 "statement":  "La scuola areliana descrisse il sistema della musica turca come composto da ventiquattro posizioni non equidistanti per ottava, collegate alla notazione Arel-Ezgi.",
+                                 "source_ids":  [
+                                                    "SRC-ISTANBUL-AEU-AREL-NAZARIYAT",
+                                                    "SRC-ISTANBUL-AEU-TDV-AREL",
+                                                    "SRC-ISTANBUL-AEU-AYANGIL-2008"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-ISTANBUL-AEU-EZGI-CORPUS",
+                                 "type":  "primary_treatise",
+                                 "status":  "documentato",
+                                 "statement":  "I cinque volumi di Nazarî-Amelî Türk Musikisi di Suphi Ezgi, pubblicati a Istanbul fra 1933 e 1953, costituiscono un nucleo primario della sistemazione teorico-pratica.",
+                                 "source_ids":  [
+                                                    "SRC-ISTANBUL-AEU-EZGI-NAZARI-AMELI"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-ISTANBUL-AEU-RAST-COMPARISON",
+                                 "type":  "comparative_system_profile",
+                                 "status":  "documentato_con_calcolo_derivato",
+                                 "statement":  "Il profilo comparativo Rast usa le perdes Rast-Dügâh-Segâh-Çârgâh-Nevâ-Hüseynî-Evç-Gerdâniye e le posizioni 0-9-17-22-31-40-48-53; i cent sono calcolati dalla griglia.",
+                                 "source_ids":  [
+                                                    "SRC-ISTANBUL-AEU-AREL-NAZARIYAT",
+                                                    "SRC-ISTANBUL-AEU-EZGI-NAZARI-AMELI",
+                                                    "SRC-ISTANBUL-AEU-AYANGIL-2008",
+                                                    "SRC-ISTANBUL-AEU-SIGNELL-1977"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-ISTANBUL-AEU-PRACTICE-LIMIT",
+                                 "type":  "interpretation_limit",
+                                 "status":  "sintesi",
+                                 "statement":  "Le distribuzioni di altezza ricavate da registrazioni non coincidono necessariamente con un unico modello teorico; la teoria non va trattata come trascrizione automatica della prassi.",
+                                 "source_ids":  [
+                                                    "SRC-ISTANBUL-AEU-BOZKURT-2009",
+                                                    "SRC-ISTANBUL-AEU-SIGNELL-1977"
+                                                ]
+                             }
+                         ],
+    "tradition_links":  [
+                            {
+                                "tradition_id":  "ISTANBUL_POSTWAR_AREL_EZGI_UZDILEK_THEORY",
+                                "relation_status":  "documentato",
+                                "relation_note":  "Collegamento riferito alla scuola teorica, alle istituzioni e alla pubblicazione didattica di Istanbul; non a ogni genere urbano del periodo.",
+                                "source_ids":  [
+                                                   "SRC-ISTANBUL-AEU-AREL-NAZARIYAT",
+                                                   "SRC-ISTANBUL-AEU-EZGI-NAZARI-AMELI",
+                                                   "SRC-ISTANBUL-AEU-TDV-AREL",
+                                                   "SRC-ISTANBUL-CONSERVATORY-HISTORY"
+                                               ]
+                            }
+                        ],
+    "scale_links":  [
+                        {
+                            "scale_id":  "ISTANBUL_AEU_RAST_53_COMMA_PROFILE",
+                            "relation_status":  "documentato_con_calcolo_derivato",
+                            "relation_note":  "Le posizioni in comma appartengono al modello teorico; cent e scarti 12-TET sono calcoli moderni separati dalla prassi.",
+                            "source_ids":  [
+                                               "SRC-ISTANBUL-AEU-AREL-NAZARIYAT",
+                                               "SRC-ISTANBUL-AEU-EZGI-NAZARI-AMELI",
+                                               "SRC-ISTANBUL-AEU-AYANGIL-2008",
+                                               "SRC-ISTANBUL-AEU-SIGNELL-1977",
+                                               "SRC-ISTANBUL-AEU-BOZKURT-2009"
+                                           ]
+                        }
+                    ],
+    "documents":  [
+                      {
+                          "document_id":  "DOC-ISTANBUL-AEU-CENTER-SOURCES",
+                          "label":  "Fonti documentate per Istanbul postbellica e Arel-Ezgi-Uzdilek",
+                          "path":  "./FONTI_DOCUMENTATE.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-ISTANBUL-AEU-CENTER-MANIFEST",
+                          "label":  "Manifesto della documentazione Istanbul postbellica",
+                          "path":  "./MANIFESTO_DOCUMENTAZIONE.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-ISTANBUL-AEU-CENTER-DATA",
+                          "label":  "Dati documentati sul sistema Arel-Ezgi-Uzdilek e sul profilo Rast",
+                          "path":  "./DATI_DOCUMENTATI_AEU_RAST.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-ISTANBUL-AEU-TRANSITIONS",
+                          "label":  "Nota sulle transizioni Rauf Yekta-Arel-Ezgi-Uzdilek e teoria-prassi",
+                          "path":  "./NOTA_TRANSIZIONI_ISTANBUL_POSTBELLICA.txt",
+                          "type":  "text"
+                      }
+                  ],
+    "sources":  [
+                    {
+                        "source_id":  "SRC-ISTANBUL-AEU-AREL-NAZARIYAT",
+                        "purpose":  "fonte teorica primaria per il sistema didattico, le perdes, gli intervalli, i makam e la terminologia",
+                        "title":  "Türk Musikisi Nazariyatı Dersleri",
+                        "author":  "Hüseyin Sadeddin Arel",
+                        "year":  "lezioni e pubblicazione seriale dal 1948; edizione in volume Istanbul 1968",
+                        "publisher_or_journal":  "Musiki Mecmuası; successiva edizione in volume",
+                        "identifier":  "trattato teorico primario",
+                        "grade":  "A",
+                        "url":  "https://islamansiklopedisi.org.tr/arel-huseyin-sadeddin"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-AEU-EZGI-NAZARI-AMELI",
+                        "purpose":  "fonte teorica primaria per la sistemazione teorico-pratica e il repertorio",
+                        "title":  "Nazarî-Amelî Türk Musikisi",
+                        "author":  "Mehmet Suphi Ezgi",
+                        "year":  "1933-1953",
+                        "publisher_or_journal":  "İstanbul Belediye Konservatuvarı, cinque volumi",
+                        "identifier":  "trattato teorico-pratico primario",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-AEU-TDV-AREL",
+                        "purpose":  "biografia autorevole, attività al Conservatorio di Istanbul e principi dell\u0027Arelcilik",
+                        "title":  "AREL, Hüseyin Sadeddin",
+                        "author":  "Haydar Sanal",
+                        "year":  "1991; versione elettronica corrente",
+                        "publisher_or_journal":  "TDV İslâm Ansiklopedisi",
+                        "identifier":  "voce enciclopedica specialistica",
+                        "grade":  "B",
+                        "url":  "https://islamansiklopedisi.org.tr/arel-huseyin-sadeddin"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-AEU-AYANGIL-2008",
+                        "purpose":  "storia critica della notazione occidentale applicata alla musica turca e dei sistemi di alterazione microtonale",
+                        "title":  "Western Notation in Turkish Music",
+                        "author":  "Ruhi Ayangil",
+                        "year":  "2008",
+                        "publisher_or_journal":  "Journal of the Royal Asiatic Society, third series, 18/4",
+                        "identifier":  "articolo accademico",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-AEU-SIGNELL-1977",
+                        "purpose":  "analisi di makam, seyir, intonazione e pratica modale",
+                        "title":  "Makam: Modal Practice in Turkish Art Music",
+                        "author":  "Karl L. Signell",
+                        "year":  "1977; ristampa 1986",
+                        "publisher_or_journal":  "Asian Music Publications; Da Capo Press",
+                        "identifier":  "monografia accademica",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-AEU-BOZKURT-2009",
+                        "purpose":  "confronto fra modelli teorici del makam e misure di altezza ricavate da registrazioni",
+                        "title":  "Weighing Diverse Theoretical Models on Turkish Maqam Music Against Pitch Measurements",
+                        "author":  "Barış Bozkurt, Ozan Yarman, M. Kemal Karaosmanoğlu e Can Akkoç",
+                        "year":  "2009",
+                        "publisher_or_journal":  "Journal of New Music Research, 38/1",
+                        "identifier":  "articolo accademico",
+                        "pages":  "45-70",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-CONSERVATORY-HISTORY",
+                        "purpose":  "cronologia istituzionale del Darülelhan e del Conservatorio di Istanbul",
+                        "title":  "Konservatuvar Tarihçesi",
+                        "author":  "İstanbul Üniversitesi Devlet Konservatuvarı",
+                        "year":  "pagina istituzionale corrente",
+                        "publisher_or_journal":  "İstanbul Üniversitesi",
+                        "identifier":  "fonte istituzionale",
+                        "grade":  "B",
+                        "url":  "https://konservatuvar.istanbul.edu.tr/"
+                    }
+                ],
+    "notes":  [
+                  null
+              ]
+}

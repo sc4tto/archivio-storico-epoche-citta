@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Laboratorio stile — Viaggio musicale</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header>
+  <h1>Laboratorio dello stile comune</h1>
+  <p>
+    Questa pagina mostra contemporaneamente i principali componenti del programma.
+    Modifica theme.json, riapri questa pagina e verifica l’effetto prima di proseguire
+    con i blocchi successivi.
+  </p>
+</header>
+
+<main>
+  <section class="card">
+    <h2 class="style-section-title">Documento centrale</h2>
+    <p>Il file da modificare è:</p>
+    <div class="code-path">_software\Viaggio_Musicale\config\theme.json</div>
+    <div class="toolbar" style="margin-top:var(--space-medium)">
+      <a class="button-link primary" href="index.html">Torna al programma</a>
+      <button type="button">Pulsante normale</button>
+      <button class="primary" type="button">Pulsante principale</button>
+      <button class="danger" type="button">Pulsante attenzione</button>
+      <button type="button" disabled>Pulsante disabilitato</button>
+    </div>
+    <div class="note">
+      Lo scanner inserisce automaticamente il tema nel catalogo ogni volta che
+      avvii il programma dall’icona.
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>Tipografia e controlli</h2>
+    <div class="style-grid">
+      <div>
+        <h1>Titolo H1</h1>
+        <h2>Titolo H2</h2>
+        <h3>Titolo H3</h3>
+        <p>Testo principale con <strong>enfasi</strong> e una descrizione più lunga.</p>
+        <p class="small">Testo secondario e informazioni metodologiche.</p>
+      </div>
+      <div>
+        <div class="field">
+          <label>Selettore attivo</label>
+          <select>
+            <option>Asia sud-occidentale</option>
+            <option>Europa mediterranea</option>
+          </select>
+        </div>
+        <div class="field">
+          <label>Selettore disabilitato</label>
+          <select disabled><option>Non disponibile</option></select>
+        </div>
+        <div class="field">
+          <label>Campo di testo</label>
+          <input type="text" value="Esempio di contenuto">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>Nodi e collegamenti</h2>
+    <div class="canvas-shell">
+      <div class="journey-canvas">
+        <article class="stop-node sample-node" data-area="ASW">
+          <div class="node-head">
+            <div style="display:flex;gap:.65rem;align-items:center">
+              <span class="node-index">A</span>
+              <div><span class="small">Tappa 1</span><h3>Partenza</h3></div>
+            </div>
+            <button class="icon-button" type="button">×</button>
+          </div>
+          <div class="field"><label>Area geografica</label><select><option>Asia sud-occidentale</option></select></div>
+          <div class="field"><label>Periodo storico</label><select><option>1970–oggi</option></select></div>
+          <div class="field"><label>Tradizione</label><select><option>Maqām arabo</option></select></div>
+          <div class="field"><label>Scala</label><select><option>Hijāz su Re</option></select></div>
+          <div class="scale-summary"><strong>Hijāz su Re</strong><br>Note: D – E♭ – F♯ – G – A – B♭ – C</div>
+        </article>
+
+        <div class="edge-column">
+          <div class="edge-line"></div>
+          <div class="edge-badge">
+            <strong>Ricentratura</strong>
+            <span class="small">7 note comuni · costo 3</span>
+          </div>
+        </div>
+
+        <article class="stop-node sample-node" data-area="EUR_MED">
+          <div class="node-head">
+            <div style="display:flex;gap:.65rem;align-items:center">
+              <span class="node-index">B</span>
+              <div><span class="small">Tappa 2</span><h3>Destinazione</h3></div>
+            </div>
+            <button class="icon-button" type="button">×</button>
+          </div>
+          <div class="field"><label>Area geografica</label><select><option>Europa mediterranea</option></select></div>
+          <div class="field"><label>Periodo storico</label><select><option>1970–oggi</option></select></div>
+          <div class="field"><label>Tradizione</label><select><option>Sistema tonale</option></select></div>
+          <div class="field"><label>Scala</label><select><option>Sol minore armonica</option></select></div>
+          <div class="scale-summary"><strong>Sol minore armonica</strong><br>Note: G – A – B♭ – C – D – E♭ – F♯</div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>Schede dei risultati</h2>
+    <div class="results-grid">
+      <article class="result-card">
+        <h3>A → B: Hijāz su Re → Sol minore armonica</h3>
+        <div class="result-meta">
+          <div class="meta-box"><strong>Aree</strong><br>Asia sud-occidentale → Europa</div>
+          <div class="meta-box"><strong>Note comuni</strong><br>7</div>
+          <div class="meta-box"><strong>Centro</strong><br>D → G</div>
+        </div>
+        <div class="solution-list">
+          <div class="solution"><strong>Ricentratura modale o tonale</strong><br>Le note coincidono e cambia il centro percepito.</div>
+        </div>
+      </article>
+      <div class="empty">Esempio di stato vuoto o di messaggio informativo.</div>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>Colori delle aree</h2>
+    <div id="areaSwatches" class="style-grid"></div>
+  </section>
+</main>
+
+<script src="defaults.js"></script>
+<script src="generated/catalog.js"></script>
+<script src="assets/theme-runtime.js"></script>
+<script src="assets/style-lab.js"></script>
+</body>
+</html>

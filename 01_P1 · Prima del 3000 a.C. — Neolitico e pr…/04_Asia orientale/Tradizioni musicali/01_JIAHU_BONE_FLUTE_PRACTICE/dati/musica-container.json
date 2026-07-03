@@ -1,0 +1,215 @@
+﻿{
+    "schema_version":  1,
+    "container_id":  "CONTAINER-P1-EA-JIAHU-BONE-FLUTE",
+    "record_status":  "documentato",
+    "area":  {
+                 "id":  "EA",
+                 "label":  "Asia orientale"
+             },
+    "period":  {
+                   "id":  "P1",
+                   "label":  "Prima del 3000 a.C. — Neolitico e pr…",
+                   "order":  1
+               },
+    "tradition":  {
+                      "id":  "JIAHU_BONE_FLUTE_PRACTICE",
+                      "label":  "Pratica dei flauti ossei di Jiahu",
+                      "historical_name":  "Nome storico non attestato; denominazione descrittiva moderna basata sul contesto archeologico.",
+                      "documentation_status":  "documentato",
+                      "scope_note":  "Il record descrive strumenti e strutture tonali misurati a Jiahu. Non afferma continuita con tradizioni cinesi successive.",
+                      "source_ids":  [
+                                         "SRC-JIAHU-NATURE-1999",
+                                         "SRC-JIAHU-ANTIQUITY-2004"
+                                     ]
+                  },
+    "scales":  [
+                   {
+                       "scale_id":  "JIAHU_M282_20_HEXATONIC",
+                       "name":  "Jiahu M282:20 - serie esatonica misurata",
+                       "documentation_status":  "documentato",
+                       "archaeological_context":  {
+                                                      "site":  "Jiahu",
+                                                      "phase":  "Fase 2",
+                                                      "approximate_date":  "6600-6200 a.C.",
+                                                      "burial":  "M282",
+                                                      "artefact":  "M282:20",
+                                                      "instrument":  "flauto osseo a sette fori"
+                                                  },
+                       "historical_tuning":  {
+                                                 "description":  "Serie ricavata dai test tonali pubblicati sul flauto M282:20. La nota centrale indicata dagli autori e D6 meno 30 cent; la scala comprende sei classi di altezza.",
+                                                 "keynote":  {
+                                                                 "modern_equivalent":  "D6",
+                                                                 "deviation_cents":  -30,
+                                                                 "position":  "foro 4"
+                                                             },
+                                                 "source_ids":  [
+                                                                    "SRC-JIAHU-ANTIQUITY-2004"
+                                                                ],
+                                                 "measured_natural_sequence":  [
+                                                                                   {
+                                                                                       "position":  "tubo con fori chiusi",
+                                                                                       "modern_equivalent":  "F#5",
+                                                                                       "deviation_cents":  -10,
+                                                                                       "scale_degree":  "3"
+                                                                                   },
+                                                                                   {
+                                                                                       "position":  "foro 7",
+                                                                                       "modern_equivalent":  "A5",
+                                                                                       "deviation_cents":  -60,
+                                                                                       "scale_degree":  "5"
+                                                                                   },
+                                                                                   {
+                                                                                       "position":  "foro 6",
+                                                                                       "modern_equivalent":  "B5",
+                                                                                       "deviation_cents":  -82,
+                                                                                       "scale_degree":  "6"
+                                                                                   },
+                                                                                   {
+                                                                                       "position":  "foro 5",
+                                                                                       "modern_equivalent":  "C6",
+                                                                                       "deviation_cents":  -30,
+                                                                                       "scale_degree":  "b7"
+                                                                                   },
+                                                                                   {
+                                                                                       "position":  "foro 4",
+                                                                                       "modern_equivalent":  "D6",
+                                                                                       "deviation_cents":  -30,
+                                                                                       "scale_degree":  "1"
+                                                                                   },
+                                                                                   {
+                                                                                       "position":  "foro 3",
+                                                                                       "modern_equivalent":  "E6",
+                                                                                       "deviation_cents":  -30,
+                                                                                       "scale_degree":  "2"
+                                                                                   },
+                                                                                   {
+                                                                                       "position":  "foro 2",
+                                                                                       "modern_equivalent":  "F#6",
+                                                                                       "deviation_cents":  -30,
+                                                                                       "scale_degree":  "3"
+                                                                                   },
+                                                                                   {
+                                                                                       "position":  "foro 1",
+                                                                                       "modern_equivalent":  "A6",
+                                                                                       "deviation_cents":  -30,
+                                                                                       "scale_degree":  "5"
+                                                                                   }
+                                                                               ],
+                                                 "measured_intervals_cents":  [
+                                                                                  250,
+                                                                                  178,
+                                                                                  152,
+                                                                                  200,
+                                                                                  200,
+                                                                                  200,
+                                                                                  300
+                                                                              ],
+                                                 "scale_degrees_from_keynote":  [
+                                                                                    "1",
+                                                                                    "2",
+                                                                                    "3",
+                                                                                    "5",
+                                                                                    "6",
+                                                                                    "b7",
+                                                                                    "1"
+                                                                                ]
+                                             },
+                       "center":  {
+                                      "label":  "Re",
+                                      "type":  "nota centrale misurata, approssimata in 12-TET",
+                                      "pitch_class":  2,
+                                      "historical_reference":  "D6 -30 cent"
+                                  },
+                       "approximation":  {
+                                             "system":  "12-TET",
+                                             "quality":  "arrotondamento operativo dei modern pitch equivalents pubblicati",
+                                             "warning":  "Le note Re-Mi-Fa#-La-Si-Do sono una riduzione operativa. I valori misurati includono scarti in cent e devono essere conservati come livello storico-acustico distinto.",
+                                             "status":  "approssimazione_da_misure"
+                                         },
+                       "harmonization":  {
+                                             "status":  "proposta_moderna",
+                                             "method":  "triadi per sovrapposizione di terze nella riduzione 12-TET",
+                                             "warning":  "Non esiste in queste fonti una prova di armonizzazione accordale storica per Jiahu. Gli accordi mostrati dal software sono moderni."
+                                         },
+                       "comparison_basis":  "measured_acoustic_data",
+                       "transition_reliability":  {
+                                                      "historical_pitch_comparison":  "alta",
+                                                      "interval_structure_comparison":  "alta",
+                                                      "twelve_tet_transition":  "media-alta",
+                                                      "reason":  "Le altezze del reperto sono state misurate; la riduzione 12-TET arrotonda gli scarti in cent."
+                                                  },
+                       "notes_12tet":  [
+                                           "Re",
+                                           "Mi",
+                                           "Fa#",
+                                           "La",
+                                           "Si",
+                                           "Do"
+                                       ],
+                       "pitch_classes_12tet":  [
+                                                   2,
+                                                   4,
+                                                   6,
+                                                   9,
+                                                   11,
+                                                   0
+                                               ],
+                       "source_ids":  [
+                                          "SRC-JIAHU-ANTIQUITY-2004",
+                                          "SRC-JIAHU-NATURE-1999"
+                                      ],
+                       "documents":  [
+                                         {
+                                             "document_id":  "DOC-JIAHU-M28220-TONAL",
+                                             "label":  "Dati tonali del flauto M282:20",
+                                             "path":  "../documenti/DATI_TONALI_M282_20.txt",
+                                             "type":  "text"
+                                         },
+                                         {
+                                             "document_id":  "DOC-JIAHU-METHOD",
+                                             "label":  "Nota metodologica Jiahu",
+                                             "path":  "../documenti/NOTA_METODOLOGICA_JIAHU.txt",
+                                             "type":  "text"
+                                         }
+                                     ]
+                   }
+               ],
+    "sources":  [
+                    {
+                        "source_id":  "SRC-JIAHU-NATURE-1999",
+                        "purpose":  "rinvenimento, datazione e carattere suonabile dei flauti di Jiahu",
+                        "title":  "Oldest playable musical instruments found at Jiahu early Neolithic site in China",
+                        "author":  "Juzhong Zhang; Garman Harbottle; Changsui Wang; Zhaochen Kong",
+                        "year":  "1999",
+                        "publisher_or_journal":  "Nature 401, 366-368",
+                        "identifier":  "doi:10.1038/43865",
+                        "pages":  "366-368",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-JIAHU-ANTIQUITY-2004",
+                        "purpose":  "analisi tonale, fasi cronologiche e dati del flauto M282:20",
+                        "title":  "The early development of music. Analysis of the Jiahu bone flutes",
+                        "author":  "Juzhong Zhang; Xinghua Xiao; Yun Kuen Lee",
+                        "year":  "2004",
+                        "publisher_or_journal":  "Antiquity 78(302), 769-778",
+                        "identifier":  "doi:10.1017/S0003598X00113432",
+                        "pages":  "769-778; in particolare tabelle 3 e 5",
+                        "grade":  "A"
+                    }
+                ],
+    "documents":  [
+                      {
+                          "document_id":  "DOC-JIAHU-M28220-TONAL",
+                          "label":  "Dati tonali del flauto M282:20",
+                          "path":  "../documenti/DATI_TONALI_M282_20.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-JIAHU-METHOD",
+                          "label":  "Nota metodologica Jiahu",
+                          "path":  "../documenti/NOTA_METODOLOGICA_JIAHU.txt",
+                          "type":  "text"
+                      }
+                  ]
+}

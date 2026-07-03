@@ -1,0 +1,26 @@
+MANIFESTO DELLA DOCUMENTAZIONE — ISTANBUL CONTEMPORANEA
+================================================================
+
+OGGETTO
+-------
+Documentare la continuità della musica makam nella fase contemporanea attraverso:
+1. istituzioni musicali attive a Istanbul;
+2. partiture digitali e metadati del corpus SymbTr;
+3. metodi computazionali per registrazioni e partiture documentati da tomato;
+4. un profilo Rast usato come riferimento comparativo, non come misura universale.
+
+SEPARAZIONI OBBLIGATORIE
+------------------------
+- partitura simbolica != esecuzione;
+- posizione teorica != picco misurato;
+- tonica relativa != frequenza assoluta universale;
+- corpus digitale != repertorio esclusivamente istanbuliota;
+- cent calcolati != dati audio;
+- 12-TET != intonazione del makam;
+- makam != sola scala ascendente.
+
+STATO DELLE MISURE
+------------------
+Il pacchetto non include una registrazione audio e non dichiara picchi misurati.
+Le procedure per produrli sono documentate, ma devono essere applicate a un file
+identificato, con tonica, trasposizione e parametri registrati.

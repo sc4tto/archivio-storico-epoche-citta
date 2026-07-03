@@ -1,0 +1,481 @@
+﻿{
+    "container_id":  "CONTAINER-P10-ASW-ISTANBUL-DIGITAL",
+    "schema_version":  1,
+    "record_status":  "documentato",
+    "area":  {
+                 "id":  "ASW_IRAN",
+                 "label":  "Asia sud-occidentale e altopiano iranico"
+             },
+    "period":  {
+                   "id":  "P10",
+                   "label":  "1970–oggi — Metropolizzazione, glob…",
+                   "order":  10
+               },
+    "tradition":  {
+                      "id":  "ISTANBUL_CONTEMPORARY_DIGITAL_MAKAM_CORPORA",
+                      "label":  "Corpora digitali e analisi computazionale del makam nella Istanbul contemporanea",
+                      "historical_name":  "Etichetta descrittiva moderna per istituzioni, corpora simbolici e metodi audio sviluppati o utilizzati nella ricerca contemporanea sulla musica makam.",
+                      "documentation_status":  "documentato",
+                      "scope_note":  "Il record riguarda formazione istituzionale, digitalizzazione delle partiture e analisi computazionale di repertori makam. Non rappresenta tutta la produzione musicale della metropoli né attribuisce a Istanbul l’intero sviluppo internazionale degli strumenti digitali.",
+                      "source_ids":  [
+                                         "SRC-ISTANBUL-P10-ITU-TMDK",
+                                         "SRC-ISTANBUL-P10-SYMBTR-REPO",
+                                         "SRC-ISTANBUL-P10-KARAOSMANOGLU-2012",
+                                         "SRC-ISTANBUL-P10-TOMATO-REPO",
+                                         "SRC-ISTANBUL-P10-SENTURK-2016",
+                                         "SRC-ISTANBUL-P10-BOZKURT-2008",
+                                         "SRC-ISTANBUL-P10-GEDIK-BOZKURT-2010",
+                                         "SRC-ISTANBUL-P10-BOZKURT-YARMAN-2009"
+                                     ]
+                  },
+    "scales":  [
+                   {
+                       "scale_id":  "ISTANBUL_CONTEMPORARY_RAST_SCORE_AUDIO_PROFILE",
+                       "name":  "Istanbul contemporanea — profilo Rast simbolico/audio per corpora digitali",
+                       "documentation_status":  "documentato_come_profilo_analitico_con_riferimento_teorico",
+                       "comparison_basis":  "symbtr_symbolic_score_aeu_reference_and_tomato_audio_joint_analysis",
+                       "documentation_scope":  {
+                                                   "documented":  [
+                                                                      "presenza a Istanbul dell’İTÜ Türk Musikisi Devlet Konservatuarı, fondato nel 1975, con aree di teoria, musicologia e tecnologia musicale",
+                                                                      "SymbTr come raccolta digitale di partiture makam leggibili da macchina, disponibile in più formati",
+                                                                      "snapshot SymbTr consultato il 2026-07-03: 2200 brani, 155 makam, 88 usul, 56 forme, circa 865000 note e 80 ore nominali",
+                                                                      "tomato come toolbox per analisi simbolica, audio e congiunta, inclusi riconoscimento del makam, distribuzioni di altezza, intonazione, seyir e allineamento partitura-audio",
+                                                                      "uso della codifica teorica Arel-Ezgi-Uzdilek nelle partiture come livello simbolico distinto dalla misura delle esecuzioni",
+                                                                      "Rast come profilo di continuità comparativa fra i blocchi P8, P9 e P10"
+                                                                  ],
+                                                   "not_documented":  [
+                                                                          "picchi di altezza di una registrazione specifica, perché nessun file audio è incluso nel pacchetto",
+                                                                          "identità fra nota scritta, posizione teorica e altezza eseguita",
+                                                                          "intonazione universale e immutabile del makam Rast",
+                                                                          "provenienza esclusivamente istanbuliota di tutti i brani del corpus",
+                                                                          "equivalenza fra makam Rast e Sol maggiore",
+                                                                          "stabilità futura dei conteggi del repository oltre la data dello snapshot"
+                                                                      ]
+                                               },
+                       "historical_context":  {
+                                                  "city":  "Istanbul metropolitana contemporanea",
+                                                  "approximate_date":  "1970-oggi; focus documentario 1975-2026",
+                                                  "institutional_context":  "İTÜ Türk Musikisi Devlet Konservatuarı e reti contemporanee di ricerca, digitalizzazione e conservazione del repertorio makam",
+                                                  "digital_context":  [
+                                                                          "SymbTr symbolic corpus",
+                                                                          "tomato analysis toolbox",
+                                                                          "MusicXML, MIDI, PDF, mu2 e testo strutturato",
+                                                                          "analisi di registrazioni e allineamento partitura-audio"
+                                                                      ],
+                                                  "locality_caution":  "Istanbul è documentata come centro istituzionale e performativo; corpora e software sono prodotti e mantenuti anche da reti internazionali e non vanno descritti come esclusivamente locali."
+                                              },
+                       "corpus_snapshot":  {
+                                               "corpus":  "SymbTr",
+                                               "snapshot_date":  "2026-07-03",
+                                               "pieces":  2200,
+                                               "makams":  155,
+                                               "usuls":  88,
+                                               "forms":  56,
+                                               "approximate_notes":  865000,
+                                               "nominal_playback_hours":  80,
+                                               "formats":  [
+                                                               "text",
+                                                               "MusicXML",
+                                                               "PDF",
+                                                               "MIDI",
+                                                               "mu2"
+                                                           ],
+                                               "source_id":  "SRC-ISTANBUL-P10-SYMBTR-REPO",
+                                               "warning":  "I conteggi descrivono lo snapshot consultato e possono cambiare in versioni successive."
+                                           },
+                       "analysis_pipeline":  {
+                                                 "symbolic_layer":  {
+                                                                        "status":  "documentato",
+                                                                        "inputs":  [
+                                                                                       "partitura SymbTr",
+                                                                                       "metadati di makam, usul, forma e compositore"
+                                                                                   ],
+                                                                        "tasks":  [
+                                                                                      "estrazione metadati",
+                                                                                      "sezioni",
+                                                                                      "frasi",
+                                                                                      "analisi semiotica",
+                                                                                      "conversione formati"
+                                                                                  ]
+                                                                    },
+                                                 "audio_layer":  {
+                                                                     "status":  "metodo_documentato_nessuna_misura_inclusa",
+                                                                     "inputs":  [
+                                                                                    "registrazione audio",
+                                                                                    "metadati della registrazione"
+                                                                                ],
+                                                                     "tasks":  [
+                                                                                   "melodia predominante",
+                                                                                   "identificazione della tonica e della trasposizione",
+                                                                                   "riconoscimento del makam",
+                                                                                   "distribuzione delle altezze",
+                                                                                   "analisi dell’intonazione",
+                                                                                   "progressione melodica / seyir"
+                                                                               ]
+                                                                 },
+                                                 "joint_layer":  {
+                                                                     "status":  "metodo_documentato_nessun_allineamento_incluso",
+                                                                     "inputs":  [
+                                                                                    "partitura",
+                                                                                    "registrazione"
+                                                                                ],
+                                                                     "tasks":  [
+                                                                                   "allineamento partitura-audio",
+                                                                                   "collegamento delle sezioni",
+                                                                                   "modellazione delle note",
+                                                                                   "correzione della melodia predominante"
+                                                                               ]
+                                                                 },
+                                                 "required_distinction":  "Il livello simbolico registra una codifica; il livello audio misura una performance; il livello congiunto mette in relazione i due senza renderli identici."
+                                             },
+                       "historical_tuning":  {
+                                                 "description":  "La sequenza Rast in comma è mantenuta come riferimento teorico leggibile nelle partiture. Il pacchetto non inventa picchi misurati: le analisi audio restano disponibili come metodo da applicare a registrazioni identificate.",
+                                                 "modal_system":  "makam turco",
+                                                 "selected_makam":  "Rast",
+                                                 "theoretical_reference":  "Arel-Ezgi-Uzdilek, 53 comma per ottava e posizioni selezionate",
+                                                 "step_pattern":  [
+                                                                      9,
+                                                                      8,
+                                                                      5,
+                                                                      9,
+                                                                      9,
+                                                                      8,
+                                                                      5
+                                                                  ],
+                                                 "cent_formula":  "cents = comma_position * 1200 / 53",
+                                                 "absolute_pitch":  "dipendente dalla registrazione e dalla trasposizione; non fissata nel profilo",
+                                                 "durak":  "Rast",
+                                                 "guclu":  "Nevâ nel profilo teorico",
+                                                 "seyir":  "analizzabile come progressione melodica; non deducibile dalla sola successione dei gradi",
+                                                 "historical_perde_sequence":  [
+                                                                                   "Rast",
+                                                                                   "Dügâh",
+                                                                                   "Segâh",
+                                                                                   "Çârgâh",
+                                                                                   "Nevâ",
+                                                                                   "Hüseynî",
+                                                                                   "Evç",
+                                                                                   "Gerdâniye"
+                                                                               ],
+                                                 "calculated_sequence":  [
+                                                                             {
+                                                                                 "degree":  1,
+                                                                                 "historical_perde":  "Rast",
+                                                                                 "function":  "durak / finalis",
+                                                                                 "comma_position_53":  0,
+                                                                                 "cents_from_rast":  0.0,
+                                                                                 "modern_equivalent":  "Sol",
+                                                                                 "target_12tet_cents":  0,
+                                                                                 "deviation_from_12tet_cents":  0.0
+                                                                             },
+                                                                             {
+                                                                                 "degree":  2,
+                                                                                 "historical_perde":  "Dügâh",
+                                                                                 "function":  "seconda posizione",
+                                                                                 "comma_position_53":  9,
+                                                                                 "cents_from_rast":  203.774,
+                                                                                 "modern_equivalent":  "La",
+                                                                                 "target_12tet_cents":  200,
+                                                                                 "deviation_from_12tet_cents":  3.774
+                                                                             },
+                                                                             {
+                                                                                 "degree":  3,
+                                                                                 "historical_perde":  "Segâh",
+                                                                                 "function":  "perde caratteristica",
+                                                                                 "comma_position_53":  17,
+                                                                                 "cents_from_rast":  384.906,
+                                                                                 "modern_equivalent":  "Si",
+                                                                                 "target_12tet_cents":  400,
+                                                                                 "deviation_from_12tet_cents":  -15.094
+                                                                             },
+                                                                             {
+                                                                                 "degree":  4,
+                                                                                 "historical_perde":  "Çârgâh",
+                                                                                 "function":  "quarta posizione",
+                                                                                 "comma_position_53":  22,
+                                                                                 "cents_from_rast":  498.113,
+                                                                                 "modern_equivalent":  "Do",
+                                                                                 "target_12tet_cents":  500,
+                                                                                 "deviation_from_12tet_cents":  -1.887
+                                                                             },
+                                                                             {
+                                                                                 "degree":  5,
+                                                                                 "historical_perde":  "Nevâ",
+                                                                                 "function":  "güçlü / polo melodico",
+                                                                                 "comma_position_53":  31,
+                                                                                 "cents_from_rast":  701.887,
+                                                                                 "modern_equivalent":  "Re",
+                                                                                 "target_12tet_cents":  700,
+                                                                                 "deviation_from_12tet_cents":  1.887
+                                                                             },
+                                                                             {
+                                                                                 "degree":  6,
+                                                                                 "historical_perde":  "Hüseynî",
+                                                                                 "function":  "sesta posizione",
+                                                                                 "comma_position_53":  40,
+                                                                                 "cents_from_rast":  905.66,
+                                                                                 "modern_equivalent":  "Mi",
+                                                                                 "target_12tet_cents":  900,
+                                                                                 "deviation_from_12tet_cents":  5.66
+                                                                             },
+                                                                             {
+                                                                                 "degree":  7,
+                                                                                 "historical_perde":  "Evç",
+                                                                                 "function":  "perde acuta caratteristica",
+                                                                                 "comma_position_53":  48,
+                                                                                 "cents_from_rast":  1086.792,
+                                                                                 "modern_equivalent":  "Fa#",
+                                                                                 "target_12tet_cents":  1100,
+                                                                                 "deviation_from_12tet_cents":  -13.208
+                                                                             },
+                                                                             {
+                                                                                 "degree":  8,
+                                                                                 "historical_perde":  "Gerdâniye",
+                                                                                 "function":  "ottava del durak",
+                                                                                 "comma_position_53":  53,
+                                                                                 "cents_from_rast":  1200.0,
+                                                                                 "modern_equivalent":  "Sol",
+                                                                                 "target_12tet_cents":  1200,
+                                                                                 "deviation_from_12tet_cents":  0.0
+                                                                             }
+                                                                         ],
+                                                 "calculated_steps":  [
+                                                                          {
+                                                                              "from":  "Rast",
+                                                                              "to":  "Dügâh",
+                                                                              "commas_53":  9,
+                                                                              "cents":  203.774
+                                                                          },
+                                                                          {
+                                                                              "from":  "Dügâh",
+                                                                              "to":  "Segâh",
+                                                                              "commas_53":  8,
+                                                                              "cents":  181.132
+                                                                          },
+                                                                          {
+                                                                              "from":  "Segâh",
+                                                                              "to":  "Çârgâh",
+                                                                              "commas_53":  5,
+                                                                              "cents":  113.208
+                                                                          },
+                                                                          {
+                                                                              "from":  "Çârgâh",
+                                                                              "to":  "Nevâ",
+                                                                              "commas_53":  9,
+                                                                              "cents":  203.774
+                                                                          },
+                                                                          {
+                                                                              "from":  "Nevâ",
+                                                                              "to":  "Hüseynî",
+                                                                              "commas_53":  9,
+                                                                              "cents":  203.774
+                                                                          },
+                                                                          {
+                                                                              "from":  "Hüseynî",
+                                                                              "to":  "Evç",
+                                                                              "commas_53":  8,
+                                                                              "cents":  181.132
+                                                                          },
+                                                                          {
+                                                                              "from":  "Evç",
+                                                                              "to":  "Gerdâniye",
+                                                                              "commas_53":  5,
+                                                                              "cents":  113.208
+                                                                          }
+                                                                      ],
+                                                 "measured_performance_sequence":  [
+
+                                                                                   ],
+                                                 "measurement_status":  "nessuna registrazione specifica inclusa; nessun valore misurato dichiarato",
+                                                 "source_ids":  [
+                                                                    "SRC-ISTANBUL-P10-SYMBTR-REPO",
+                                                                    "SRC-ISTANBUL-P10-TOMATO-REPO",
+                                                                    "SRC-ISTANBUL-P10-SENTURK-2016",
+                                                                    "SRC-ISTANBUL-P10-BOZKURT-2008",
+                                                                    "SRC-ISTANBUL-P10-GEDIK-BOZKURT-2010",
+                                                                    "SRC-ISTANBUL-P10-BOZKURT-YARMAN-2009"
+                                                                ]
+                                             },
+                       "center":  {
+                                      "label":  "Sol",
+                                      "type":  "mappatura grafica moderna del durak Rast",
+                                      "pitch_class":  7,
+                                      "historical_reference":  "Rast; l’altezza assoluta è ricavata dalla singola registrazione"
+                                  },
+                       "notes_12tet":  [
+                                           "Sol",
+                                           "La",
+                                           "Si",
+                                           "Do",
+                                           "Re",
+                                           "Mi",
+                                           "Fa#"
+                                       ],
+                       "pitch_classes_12tet":  [
+                                                   7,
+                                                   9,
+                                                   11,
+                                                   0,
+                                                   2,
+                                                   4,
+                                                   6
+                                               ],
+                       "approximation":  {
+                                             "system":  "12-TET",
+                                             "status":  "anteprima_tecnica_non_storica",
+                                             "quality":  "media_per_visualizzazione_simbolica; bassa_per_intonazione_e_prassi",
+                                             "deviations_cents":  [
+                                                                      0.0,
+                                                                      3.774,
+                                                                      -15.094,
+                                                                      -1.887,
+                                                                      1.887,
+                                                                      5.66,
+                                                                      -13.208,
+                                                                      0.0
+                                                                  ],
+                                             "warning":  "Il 12-TET è solo una vista di interoperabilità. Le misure audio devono restare in cent relativi alla tonica della registrazione."
+                                         },
+                       "harmonization":  {
+                                             "status":  "moderna_e_non_derivata_dal_corpus",
+                                             "method":  "eventuale armonizzazione applicata dopo la riduzione 12-TET",
+                                             "warning":  "Partiture e registrazioni makam non implicano armonia funzionale occidentale."
+                                         },
+                       "transition_reliability":  {
+                                                      "aeu_score_encoding_to_symbtr":  "alta_per_la_codifica_simbolica",
+                                                      "score_to_audio_alignment":  "media_alta_come_metodo; dipendente_dai_dati",
+                                                      "theory_to_measured_pitch":  "media_bassa_senza_registrazione_identificata",
+                                                      "makam_and_usul_metadata":  "alta_nel_corpus",
+                                                      "twelve_tet_transition":  "bassa",
+                                                      "reason":  "Il corpus e il software documentano dati e metodi, ma ogni risultato audio richiede una registrazione, una tonica e un processo di analisi riproducibile."
+                                                  },
+                       "source_ids":  [
+                                          "SRC-ISTANBUL-P10-ITU-TMDK",
+                                          "SRC-ISTANBUL-P10-SYMBTR-REPO",
+                                          "SRC-ISTANBUL-P10-KARAOSMANOGLU-2012",
+                                          "SRC-ISTANBUL-P10-TOMATO-REPO",
+                                          "SRC-ISTANBUL-P10-SENTURK-2016",
+                                          "SRC-ISTANBUL-P10-BOZKURT-2008",
+                                          "SRC-ISTANBUL-P10-GEDIK-BOZKURT-2010",
+                                          "SRC-ISTANBUL-P10-BOZKURT-YARMAN-2009"
+                                      ],
+                       "documents":  [
+                                         {
+                                             "document_id":  "DOC-ISTANBUL-DIGITAL-DATA",
+                                             "label":  "Dati documentati su SymbTr, tomato e il profilo Rast",
+                                             "path":  "../documenti/DATI_DOCUMENTATI_SYMBTR_TOMATO_RAST.txt",
+                                             "type":  "text"
+                                         },
+                                         {
+                                             "document_id":  "DOC-ISTANBUL-DIGITAL-METHOD",
+                                             "label":  "Nota metodologica su corpus, partitura, audio, misure e 12-TET",
+                                             "path":  "../documenti/NOTA_METODOLOGICA_CORPUS_AUDIO.txt",
+                                             "type":  "text"
+                                         }
+                                     ]
+                   }
+               ],
+    "sources":  [
+                    {
+                        "source_id":  "SRC-ISTANBUL-P10-ITU-TMDK",
+                        "purpose":  "contesto istituzionale contemporaneo della formazione, teoria, musicologia e tecnologia musicale a Istanbul",
+                        "title":  "İTÜ Türk Musikisi Devlet Konservatuarı",
+                        "author":  "İstanbul Teknik Üniversitesi",
+                        "year":  "pagina istituzionale consultata 2026-07-03; istituzione fondata nel 1975",
+                        "publisher_or_journal":  "İstanbul Teknik Üniversitesi",
+                        "identifier":  "fonte istituzionale primaria",
+                        "grade":  "A",
+                        "url":  "https://tmdk.itu.edu.tr/"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-P10-SYMBTR-REPO",
+                        "purpose":  "corpus simbolico digitale, formati disponibili, dimensioni del corpus e principi di selezione",
+                        "title":  "SymbTr — Turkish Makam Music Symbolic Data Collection",
+                        "author":  "M. Kemal Karaosmanoğlu e collaboratori; repository MTG",
+                        "year":  "snapshot del repository consultato 2026-07-03",
+                        "publisher_or_journal":  "GitHub, MTG/SymbTr",
+                        "identifier":  "corpus digitale primario",
+                        "grade":  "A",
+                        "url":  "https://github.com/MTG/SymbTr"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-P10-KARAOSMANOGLU-2012",
+                        "purpose":  "descrizione accademica del corpus SymbTr e del suo uso nella music information retrieval",
+                        "title":  "A Turkish makam music symbolic database for music information retrieval: SymbTr",
+                        "author":  "M. Kemal Karaosmanoğlu",
+                        "year":  "2012",
+                        "publisher_or_journal":  "Proceedings of the 13th International Society for Music Information Retrieval Conference",
+                        "identifier":  "articolo di conferenza",
+                        "pages":  "223-228",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-P10-TOMATO-REPO",
+                        "purpose":  "strumenti documentati per analisi simbolica, audio e congiunta della musica makam ottomano-turca",
+                        "title":  "tomato — Turkish-Ottoman Makam Music Analysis Toolbox",
+                        "author":  "Sertan Şentürk e collaboratori",
+                        "year":  "repository e documentazione consultati 2026-07-03",
+                        "publisher_or_journal":  "GitHub, sertansenturk/tomato",
+                        "identifier":  "software e documentazione primaria",
+                        "grade":  "A",
+                        "url":  "https://github.com/sertansenturk/tomato"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-P10-SENTURK-2016",
+                        "purpose":  "quadro metodologico per analisi computazionale di registrazioni e partiture makam",
+                        "title":  "Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music",
+                        "author":  "Sertan Şentürk",
+                        "year":  "2016",
+                        "publisher_or_journal":  "Ph.D. thesis, Universitat Pompeu Fabra",
+                        "identifier":  "tesi di dottorato",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-P10-BOZKURT-2008",
+                        "purpose":  "metodo automatico per estrazione e analisi dell’altezza nella musica makam turca",
+                        "title":  "An Automatic Pitch Analysis Method for Turkish Maqam Music",
+                        "author":  "Barış Bozkurt",
+                        "year":  "2008",
+                        "publisher_or_journal":  "Journal of New Music Research, 37/1",
+                        "identifier":  "articolo accademico",
+                        "pages":  "1-13",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-P10-GEDIK-BOZKURT-2010",
+                        "purpose":  "uso di istogrammi di frequenza per il riconoscimento e il recupero di musica turca",
+                        "title":  "Pitch-frequency histogram-based music information retrieval for Turkish music",
+                        "author":  "Ali C. Gedik e Barış Bozkurt",
+                        "year":  "2010",
+                        "publisher_or_journal":  "Signal Processing, 90/4",
+                        "identifier":  "articolo accademico",
+                        "pages":  "1049-1063",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-P10-BOZKURT-YARMAN-2009",
+                        "purpose":  "confronto fra modelli teorici e picchi misurati nelle distribuzioni di altezza",
+                        "title":  "Weighing Diverse Theoretical Models on Turkish Maqam Music Against Pitch Measurements",
+                        "author":  "Barış Bozkurt, Ozan Yarman, M. Kemal Karaosmanoğlu e Can Akkoç",
+                        "year":  "2009",
+                        "publisher_or_journal":  "Journal of New Music Research, 38/1",
+                        "identifier":  "articolo accademico",
+                        "pages":  "45-70",
+                        "grade":  "B"
+                    }
+                ],
+    "documents":  [
+                      {
+                          "document_id":  "DOC-ISTANBUL-DIGITAL-DATA",
+                          "label":  "Dati documentati su SymbTr, tomato e il profilo Rast",
+                          "path":  "../documenti/DATI_DOCUMENTATI_SYMBTR_TOMATO_RAST.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-ISTANBUL-DIGITAL-METHOD",
+                          "label":  "Nota metodologica su corpus, partitura, audio, misure e 12-TET",
+                          "path":  "../documenti/NOTA_METODOLOGICA_CORPUS_AUDIO.txt",
+                          "type":  "text"
+                      }
+                  ]
+}

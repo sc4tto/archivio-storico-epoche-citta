@@ -1,0 +1,260 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.local/schemas/musica-centro.schema.json",
+  "title": "Profilo musicale di un centro abitato",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "record_type",
+    "profile_id",
+    "record_status",
+    "scope",
+    "period",
+    "area",
+    "documentation",
+    "musical_evidence",
+    "tradition_links",
+    "scale_links",
+    "documents",
+    "sources",
+    "review"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "record_type": {
+      "const": "center_music_profile"
+    },
+    "profile_id": {
+      "type": "string",
+      "minLength": 3
+    },
+    "record_status": {
+      "type": "string",
+      "enum": [
+        "documentato",
+        "sintesi",
+        "inferito",
+        "non_documentato"
+      ]
+    },
+    "scope": {
+      "type": "object",
+      "required": [
+        "type",
+        "center_id",
+        "center_label",
+        "folder_name"
+      ],
+      "properties": {
+        "type": {
+          "const": "inhabited_center"
+        },
+        "center_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "center_label": {
+          "type": "string",
+          "minLength": 1
+        },
+        "folder_name": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "additionalProperties": true
+    },
+    "period": {
+      "type": "object",
+      "required": [
+        "id",
+        "label",
+        "order"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "label": {
+          "type": "string"
+        },
+        "order": {
+          "type": "integer",
+          "minimum": 1
+        }
+      },
+      "additionalProperties": true
+    },
+    "area": {
+      "type": "object",
+      "required": [
+        "id",
+        "label"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "label": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": true
+    },
+    "documentation": {
+      "type": "object",
+      "required": [
+        "status",
+        "confidence",
+        "statement",
+        "absence_note"
+      ],
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": [
+            "documentato",
+            "sintesi",
+            "inferito",
+            "non_documentato"
+          ]
+        },
+        "confidence": {
+          "type": "string"
+        },
+        "statement": {
+          "type": "string"
+        },
+        "absence_note": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": true
+    },
+    "musical_evidence": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "tradition_links": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "tradition_id",
+          "relation_status"
+        ],
+        "properties": {
+          "tradition_id": {
+            "type": "string"
+          },
+          "relation_status": {
+            "type": "string",
+            "enum": [
+              "documentato",
+              "sintesi",
+              "inferito",
+              "non_documentato"
+            ]
+          }
+        },
+        "additionalProperties": true
+      }
+    },
+    "scale_links": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "scale_id",
+          "relation_status"
+        ],
+        "properties": {
+          "scale_id": {
+            "type": "string"
+          },
+          "relation_status": {
+            "type": "string",
+            "enum": [
+              "documentato",
+              "sintesi",
+              "inferito",
+              "non_documentato"
+            ]
+          }
+        },
+        "additionalProperties": true
+      }
+    },
+    "documents": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "document_id",
+          "label",
+          "path",
+          "type"
+        ],
+        "properties": {
+          "document_id": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          },
+          "path": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": true
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "review": {
+      "type": "object",
+      "required": [
+        "status",
+        "next_action"
+      ],
+      "properties": {
+        "status": {
+          "type": "string"
+        },
+        "reviewer": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "last_reviewed": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "next_action": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": true
+    },
+    "extensions": {
+      "type": "object",
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": true
+}

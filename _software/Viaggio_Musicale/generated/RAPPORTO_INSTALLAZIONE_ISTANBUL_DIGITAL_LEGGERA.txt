@@ -1,0 +1,45 @@
+﻿INSTALLAZIONE LEGGERA — ISTANBUL CONTEMPORANEA / SYMBTR-TOMATO
+================================================================
+
+ESITO:
+INSTALLATO LOCALMENTE
+
+Modalità:
+installazione locale senza scansione globale dell'archivio
+
+Centro:
+C:\Users\miche\Desktop\Archivio_storico_epoche_citta\10_P10 · 1970–oggi — Metropolizzazione, glob…\01_Asia sud-occidentale e altopiano iranico\Centri abitati\01_Istanbul_Metropoli_Ponti_Metro_Rischio_Sismico
+
+Profilo:
+C:\Users\miche\Desktop\Archivio_storico_epoche_citta\10_P10 · 1970–oggi — Metropolizzazione, glob…\01_Asia sud-occidentale e altopiano iranico\Centri abitati\01_Istanbul_Metropoli_Ponti_Metro_Rischio_Sismico\dati\musica_documentata\musica-centro.json
+
+Tradizione:
+ISTANBUL_CONTEMPORARY_DIGITAL_MAKAM_CORPORA
+
+Sistema:
+ISTANBUL_CONTEMPORARY_RAST_SCORE_AUDIO_PROFILE
+
+Contenitore:
+C:\Users\miche\Desktop\Archivio_storico_epoche_citta\10_P10 · 1970–oggi — Metropolizzazione, glob…\01_Asia sud-occidentale e altopiano iranico\Tradizioni musicali\01_ISTANBUL_DIGITAL_MAKAM\dati\musica-container.json
+
+Registro leggero:
+C:\Users\miche\Desktop\Archivio_storico_epoche_citta\_software\Viaggio_Musicale\generated\installazioni-musicali-locali.json
+
+Backup:
+C:\Users\miche\Desktop\Archivio_storico_epoche_citta\_software\Viaggio_Musicale\backups\documented-istanbul-digital-light-20260703-132656
+
+Operazioni globali NON eseguite:
+- normalizzazione di tutti i file musicali
+- ricostruzione completa del catalogo
+- ricostruzione completa dell'indice dell'archivio
+- scansione globale dei profili dei centri
+
+La validazione ha controllato direttamente:
+- leggibilità del contenitore JSON
+- presenza del sistema musicale
+- leggibilità del profilo locale
+- corrispondenza del profile_id
+- presenza dei documenti locali
+
+Data installazione:
+2026-07-03T13:26:56.9757082+02:00

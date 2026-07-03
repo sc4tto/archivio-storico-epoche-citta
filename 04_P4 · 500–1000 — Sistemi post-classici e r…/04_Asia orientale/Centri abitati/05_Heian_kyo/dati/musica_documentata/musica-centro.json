@@ -1,0 +1,176 @@
+﻿{
+    "schema_version":  1,
+    "record_type":  "center_music_profile",
+    "profile_id":  "P4-EA-HEIAN-KYO-MUSIC-DOCUMENTED",
+    "record_status":  "documentato",
+    "scope":  {
+                  "type":  "inhabited_center",
+                  "center_id":  "HEIAN_KYO",
+                  "center_label":  "Heian-kyō",
+                  "folder_name":  "05_Heian_kyo"
+              },
+    "period":  {
+                   "id":  "P4",
+                   "label":  "500–1000 — Sistemi post-classici e r…",
+                   "order":  4,
+                   "documented_subrange":  "794-1000 circa"
+               },
+    "area":  {
+                 "id":  "EA",
+                 "label":  "Asia orientale"
+             },
+    "documentation":  {
+                          "status":  "documentato",
+                          "confidence":  "alta_per_corte_e_tradizione; media_per_mappatura_scalare_operativa",
+                          "statement":  "Il profilo documenta la pratica gagaku nel contesto della corte di Heian-kyo e un modello yo pentatonico usato come quadro operativo.",
+                          "chronology_status":  "compatibile",
+                          "chronology_statement":  "Heian-kyo fu capitale dal 794; il record ricade nel P4 500-1000.",
+                          "geography_status":  "compatibile",
+                          "geography_relation":  "nel_centro",
+                          "geography_statement":  "La relazione riguarda la corte imperiale collocata a Heian-kyo.",
+                          "historical_system_resolvable":  true,
+                          "limitation_note":  "Il record non descrive un brano specifico ne una altezza assoluta. Il profilo yo 12-TET e una mappatura moderna per il confronto."
+                      },
+    "review":  {
+                   "status":  "pubblicato_con_cautela_operativa",
+                   "reviewer":  "Michele Scattolin - verifica finale richiesta",
+                   "last_reviewed":  "2026-07-03T00:40:31.0788386+02:00",
+                   "next_action":  "Verificare che l\u0027interfaccia distingua questo modello da una melodia storica specifica."
+               },
+    "extensions":  {
+                       "storage_model":  "center_local_documented_package",
+                       "package_directory":  "dati/musica_documentata",
+                       "scale_model":  "yo pentatonic"
+                   },
+    "musical_evidence":  [
+                             {
+                                 "evidence_id":  "EVID-HEIAN-KYO-COURT",
+                                 "type":  "center_tradition",
+                                 "status":  "documentato",
+                                 "statement":  "Heian-kyo fu la capitale imperiale dal 794 e centro della corte presso cui si svilupparono e furono trasmessi repertori gagaku.",
+                                 "source_ids":  [
+                                                    "SRC-HEIAN-GAGAKU-HARICH-SCHNEIDER-1973",
+                                                    "SRC-HEIAN-GAGAKU-MALM-1959",
+                                                    "SRC-HEIAN-GAGAKU-NELSON-2016"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-HEIAN-GAGAKU-YO-FRAMEWORK",
+                                 "type":  "tradition_scale",
+                                 "status":  "documentato",
+                                 "statement":  "La letteratura musicologica descrive modelli scalari pentatonici del gagaku, qui rappresentati con il profilo yo 2-3-2-2-3.",
+                                 "source_ids":  [
+                                                    "SRC-HEIAN-GAGAKU-HARICH-SCHNEIDER-1973",
+                                                    "SRC-HEIAN-GAGAKU-MALM-1959"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-HEIAN-GAGAKU-LIMIT",
+                                 "type":  "interpretation_limit",
+                                 "status":  "documentato",
+                                 "statement":  "Il record non ricostruisce una esecuzione storica specifica e non attribuisce altezza assoluta o armonia accordale.",
+                                 "source_ids":  [
+                                                    "SRC-HEIAN-GAGAKU-HARICH-SCHNEIDER-1973",
+                                                    "SRC-HEIAN-GAGAKU-NELSON-2016"
+                                                ]
+                             }
+                         ],
+    "tradition_links":  [
+                            {
+                                "tradition_id":  "HEIAN_GAGAKU_COURT_PRACTICE",
+                                "relation_status":  "documentato",
+                                "relation_note":  "Collegamento alla corte di Heian-kyo come centro della pratica gagaku nel periodo considerato.",
+                                "source_ids":  [
+                                                   "SRC-HEIAN-GAGAKU-HARICH-SCHNEIDER-1973",
+                                                   "SRC-HEIAN-GAGAKU-MALM-1959",
+                                                   "SRC-HEIAN-GAGAKU-NELSON-2016"
+                                               ]
+                            }
+                        ],
+    "scale_links":  [
+                        {
+                            "scale_id":  "HEIAN_GAGAKU_YO_PENTATONIC_FRAMEWORK",
+                            "relation_status":  "documentato",
+                            "relation_note":  "Il collegamento documenta un modello scalare; la mappatura 12-TET resta convenzionale.",
+                            "source_ids":  [
+                                               "SRC-HEIAN-GAGAKU-HARICH-SCHNEIDER-1973",
+                                               "SRC-HEIAN-GAGAKU-MALM-1959"
+                                           ]
+                        }
+                    ],
+    "documents":  [
+                      {
+                          "document_id":  "DOC-HEIAN-CENTER-SOURCES",
+                          "label":  "Fonti documentate per Heian-kyo gagaku",
+                          "path":  "./FONTI_DOCUMENTATE.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-HEIAN-CENTER-MANIFEST",
+                          "label":  "Manifesto della documentazione Heian-kyo",
+                          "path":  "./MANIFESTO_DOCUMENTAZIONE.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-HEIAN-CENTER-DATA",
+                          "label":  "Dati documentati su gagaku",
+                          "path":  "./DATI_DOCUMENTATI_GAGAKU.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-JIAHU-UGARIT-HEIAN-TRANSITION",
+                          "label":  "Nota sulla transizione Jiahu-Ugarit-Heian",
+                          "path":  "./NOTA_TRANSIZIONE_JIAHU_UGARIT_HEIAN.txt",
+                          "type":  "text"
+                      }
+                  ],
+    "sources":  [
+                    {
+                        "source_id":  "SRC-HEIAN-GAGAKU-HARICH-SCHNEIDER-1973",
+                        "purpose":  "storia della musica giapponese, gagaku, repertori e scale",
+                        "title":  "A History of Japanese Music",
+                        "author":  "Eta Harich-Schneider",
+                        "year":  "1973",
+                        "publisher_or_journal":  "Oxford University Press",
+                        "identifier":  "monografia accademica",
+                        "pages":  "sezioni su gagaku, ryo, ritsu e repertori di corte",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-HEIAN-GAGAKU-MALM-1959",
+                        "purpose":  "descrizione organologica e storica di gagaku e degli strumenti",
+                        "title":  "Japanese Music and Musical Instruments",
+                        "author":  "William P. Malm",
+                        "year":  "1959",
+                        "publisher_or_journal":  "Charles E. Tuttle",
+                        "identifier":  "monografia accademica",
+                        "pages":  "capitoli su gagaku e musica di corte",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-HEIAN-GAGAKU-NELSON-2016",
+                        "purpose":  "inquadramento della storia gagaku nel periodo Heian e della corte",
+                        "title":  "Gagaku: Imperial Court Music and Dance of Japan",
+                        "author":  "Steven G. Nelson",
+                        "year":  "2016",
+                        "publisher_or_journal":  "studio specialistico / voce enciclopedica accademica",
+                        "identifier":  "riferimento specialistico",
+                        "pages":  "sezioni storiche su Heian e repertori",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-HEIAN-GAGAKU-UNESCO-2009",
+                        "purpose":  "riconoscimento istituzionale della tradizione gagaku come musica e danza di corte",
+                        "title":  "Gagaku",
+                        "author":  "UNESCO Intangible Cultural Heritage",
+                        "year":  "2009",
+                        "publisher_or_journal":  "Representative List of the Intangible Cultural Heritage of Humanity",
+                        "identifier":  "iscrizione UNESCO 2009",
+                        "pages":  "scheda Gagaku",
+                        "grade":  "C"
+                    }
+                ],
+    "notes":  [
+                  null
+              ]
+}

@@ -1,0 +1,58 @@
+ISTANBUL POSTBELLICA — SISTEMA AREL-EZGI-UZDILEK E PROFILO RAST
+=================================================================
+
+CONTESTO
+--------
+Nel primo dopoguerra la teoria di Hüseyin Sadeddin Arel e Mehmet Suphi
+Ezgi fu trasmessa attraverso il Conservatorio di Istanbul, l'İleri Türk
+Musikisi Konservatuvarı, Musiki Mecmuası e i trattati didattici.
+
+DISTINZIONE ESSENZIALE
+----------------------
+Il sistema usa ventiquattro posizioni non equidistanti per ottava nella
+pratica notazionale e didattica. La griglia di cinquantatré comma è
+l'unità teorica usata per descrivere gli intervalli: non è una scala
+cromatica di cinquantatré note tutte impiegate nella pratica.
+
+PROFILO COMPARATIVO RAST
+------------------------
+Posizioni cumulative:
+0, 9, 17, 22, 31, 40, 48, 53.
+
+Passi:
+9, 8, 5, 9, 9, 8, 5 comma.
+
+Perdes:
+Rast, Dügâh, Segâh, Çârgâh, Nevâ, Hüseynî, Evç, Gerdâniye.
+
+CENT CALCOLATI
+--------------
+Formula:
+cent = posizione_comma × 1200 / 53.
+
+Rast          0,000
+Dügâh       203,774
+Segâh       384,906
+Çârgâh      498,113
+Nevâ        701,887
+Hüseynî     905,660
+Evç        1086,792
+Gerdâniye  1200,000
+
+SCARTI DALLA GRIGLIA 12-TET
+---------------------------
+Sol       0,000 cent
+La       +3,774 cent
+Si      -15,094 cent
+Do       -1,887 cent
+Re       +1,887 cent
+Mi       +5,660 cent
+Fa#     -13,208 cent
+Sol       0,000 cent
+
+LIMITI
+------
+I valori sono calcoli del modello teorico. Non sono misure dirette di
+esecuzioni storiche. Il makam comprende seyir, funzioni delle perdes,
+cadenze, registri, ornamentazione e prassi. Rast non equivale a Sol
+maggiore.

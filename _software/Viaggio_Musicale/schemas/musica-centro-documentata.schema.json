@@ -1,0 +1,73 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "musica-centro-documentata.schema.json",
+  "title": "Profilo musicale documentato collocato nel centro",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "record_type",
+    "profile_id",
+    "record_status",
+    "scope",
+    "period",
+    "area",
+    "documentation",
+    "musical_evidence",
+    "tradition_links",
+    "scale_links",
+    "documents",
+    "sources",
+    "review"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "record_type": {
+      "const": "center_music_profile"
+    },
+    "profile_id": {
+      "type": "string",
+      "minLength": 3
+    },
+    "record_status": {
+      "const": "documentato"
+    },
+    "scope": {
+      "type": "object"
+    },
+    "period": {
+      "type": "object"
+    },
+    "area": {
+      "type": "object"
+    },
+    "documentation": {
+      "type": "object"
+    },
+    "musical_evidence": {
+      "type": "array",
+      "minItems": 2
+    },
+    "tradition_links": {
+      "type": "array",
+      "minItems": 1
+    },
+    "scale_links": {
+      "type": "array",
+      "minItems": 1
+    },
+    "documents": {
+      "type": "array",
+      "minItems": 2
+    },
+    "sources": {
+      "type": "array",
+      "minItems": 1
+    },
+    "review": {
+      "type": "object"
+    }
+  },
+  "additionalProperties": true
+}

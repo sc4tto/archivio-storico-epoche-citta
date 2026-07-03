@@ -1,0 +1,244 @@
+﻿{
+    "schema_version":  1,
+    "record_type":  "center_music_profile",
+    "profile_id":  "P10-ASW-ISTANBUL-DIGITAL-RAST-DOCUMENTED",
+    "record_status":  "documentato",
+    "scope":  {
+                  "type":  "center",
+                  "center_label":  "Istanbul metropolitana contemporanea",
+                  "geographic_note":  "Centro istituzionale e performativo; i corpora e gli strumenti digitali appartengono a reti più ampie.",
+                  "folder_name":  "01_Istanbul_Metropoli_Ponti_Metro_Rischio_Sismico"
+              },
+    "period":  {
+                   "id":  "P10",
+                   "order":  10,
+                   "documented_subrange":  "1970-oggi; focus su istituzioni, corpora e metodi sviluppati o attivi dal 1975 al 2026",
+                   "label":  "1970–oggi — Metropolizzazione, glob…"
+               },
+    "area":  {
+                 "id":  "ASW_IRAN",
+                 "label":  "Asia sud-occidentale e altopiano iranico"
+             },
+    "documentation":  {
+                          "status":  "documentato",
+                          "confidence":  "alta_per_istituzione_corpus_formati_e_metodi; media_per_relazione_centro_rete_digitale; nessuna_misura_audio_senza_registrazione",
+                          "statement":  "Il profilo documenta l’istituzionalizzazione contemporanea della musica turca a Istanbul, il corpus SymbTr e il toolbox tomato, mantenendo separati partitura, teoria, registrazione e misura.",
+                          "chronology_status":  "compatibile",
+                          "chronology_statement":  "L’İTÜ TMDK è attiva dal 1975; SymbTr, gli articoli di analisi e tomato appartengono alla fase contemporanea del periodo P10.",
+                          "geography_status":  "compatibile_con_cautela",
+                          "geography_relation":  "nel_centro_e_in_rete",
+                          "geography_statement":  "Istanbul è un centro istituzionale documentato; corpus e software sono risorse digitali prodotte e mantenute anche in reti internazionali.",
+                          "historical_system_resolvable":  true,
+                          "limitation_note":  "Sono risolvibili dati simbolici e procedure di analisi. Non si dichiarano valori esecutivi senza una registrazione identificata e analizzata."
+                      },
+    "musical_evidence":  [
+                             {
+                                 "evidence_id":  "EVID-ISTANBUL-P10-ITU",
+                                 "type":  "institutional_context",
+                                 "status":  "documentato",
+                                 "statement":  "L’İTÜ Türk Musikisi Devlet Konservatuarı, fondata nel 1975 e situata nel campus Maçka di Istanbul, comprende aree di teoria, musicologia e tecnologia musicale.",
+                                 "source_ids":  [
+                                                    "SRC-ISTANBUL-P10-ITU-TMDK"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-ISTANBUL-P10-SYMBTR",
+                                 "type":  "digital_corpus",
+                                 "status":  "documentato",
+                                 "statement":  "SymbTr è una raccolta leggibile da macchina per studi computazionali sulla musica makam; lo snapshot consultato dichiara 2200 brani in più formati e metadati di makam, usul e forma.",
+                                 "source_ids":  [
+                                                    "SRC-ISTANBUL-P10-SYMBTR-REPO",
+                                                    "SRC-ISTANBUL-P10-KARAOSMANOGLU-2012"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-ISTANBUL-P10-TOMATO",
+                                 "type":  "analysis_method",
+                                 "status":  "documentato",
+                                 "statement":  "tomato documenta analisi simboliche, audio e congiunte, fra cui tonica, trasposizione, riconoscimento del makam, distribuzioni di altezza, intonazione, seyir e allineamento partitura-audio.",
+                                 "source_ids":  [
+                                                    "SRC-ISTANBUL-P10-TOMATO-REPO",
+                                                    "SRC-ISTANBUL-P10-SENTURK-2016"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-ISTANBUL-P10-RAST",
+                                 "type":  "comparative_profile",
+                                 "status":  "documentato_con_calcolo_derivato",
+                                 "statement":  "Il profilo Rast conserva la codifica teorica in comma per confrontare partitura e analisi audio; i cent sono derivati e nessun picco esecutivo è inventato.",
+                                 "source_ids":  [
+                                                    "SRC-ISTANBUL-P10-SYMBTR-REPO",
+                                                    "SRC-ISTANBUL-P10-BOZKURT-2008",
+                                                    "SRC-ISTANBUL-P10-BOZKURT-YARMAN-2009"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-ISTANBUL-P10-MEASUREMENT-LIMIT",
+                                 "type":  "interpretation_limit",
+                                 "status":  "documentato",
+                                 "statement":  "Le misure di altezza richiedono registrazione, identificazione della tonica, normalizzazione della trasposizione e analisi riproducibile; non coincidono automaticamente con la nota scritta.",
+                                 "source_ids":  [
+                                                    "SRC-ISTANBUL-P10-TOMATO-REPO",
+                                                    "SRC-ISTANBUL-P10-BOZKURT-2008",
+                                                    "SRC-ISTANBUL-P10-GEDIK-BOZKURT-2010"
+                                                ]
+                             }
+                         ],
+    "tradition_links":  [
+                            {
+                                "tradition_id":  "ISTANBUL_CONTEMPORARY_DIGITAL_MAKAM_CORPORA",
+                                "relation_status":  "documentato_con_cautela_geografica",
+                                "relation_note":  "Istanbul è il centro istituzionale del profilo; le risorse digitali sono condivise in reti internazionali.",
+                                "source_ids":  [
+                                                   "SRC-ISTANBUL-P10-ITU-TMDK",
+                                                   "SRC-ISTANBUL-P10-SYMBTR-REPO",
+                                                   "SRC-ISTANBUL-P10-TOMATO-REPO"
+                                               ]
+                            }
+                        ],
+    "scale_links":  [
+                        {
+                            "scale_id":  "ISTANBUL_CONTEMPORARY_RAST_SCORE_AUDIO_PROFILE",
+                            "relation_status":  "documentato_con_calcolo_derivato",
+                            "relation_note":  "La partitura fornisce il riferimento simbolico; le distribuzioni audio devono essere calcolate su registrazioni specifiche; il 12-TET è solo anteprima.",
+                            "source_ids":  [
+                                               "SRC-ISTANBUL-P10-SYMBTR-REPO",
+                                               "SRC-ISTANBUL-P10-TOMATO-REPO",
+                                               "SRC-ISTANBUL-P10-BOZKURT-2008",
+                                               "SRC-ISTANBUL-P10-BOZKURT-YARMAN-2009"
+                                           ]
+                        }
+                    ],
+    "documents":  [
+                      {
+                          "document_id":  "DOC-ISTANBUL-DIGITAL-CENTER-SOURCES",
+                          "label":  "Fonti documentate per Istanbul contemporanea, SymbTr e tomato",
+                          "path":  "./FONTI_DOCUMENTATE.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-ISTANBUL-DIGITAL-CENTER-MANIFEST",
+                          "label":  "Manifesto della documentazione digitale",
+                          "path":  "./MANIFESTO_DOCUMENTAZIONE.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-ISTANBUL-DIGITAL-CENTER-DATA",
+                          "label":  "Dati documentati su SymbTr, tomato e il profilo Rast",
+                          "path":  "./DATI_DOCUMENTATI_SYMBTR_TOMATO_RAST.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-ISTANBUL-DIGITAL-TRANSITIONS",
+                          "label":  "Nota sulle transizioni partitura-corpus-audio e teoria-prassi",
+                          "path":  "./NOTA_TRANSIZIONI_ISTANBUL_DIGITALE.txt",
+                          "type":  "text"
+                      }
+                  ],
+    "sources":  [
+                    {
+                        "source_id":  "SRC-ISTANBUL-P10-ITU-TMDK",
+                        "purpose":  "contesto istituzionale contemporaneo della formazione, teoria, musicologia e tecnologia musicale a Istanbul",
+                        "title":  "İTÜ Türk Musikisi Devlet Konservatuarı",
+                        "author":  "İstanbul Teknik Üniversitesi",
+                        "year":  "pagina istituzionale consultata 2026-07-03; istituzione fondata nel 1975",
+                        "publisher_or_journal":  "İstanbul Teknik Üniversitesi",
+                        "identifier":  "fonte istituzionale primaria",
+                        "grade":  "A",
+                        "url":  "https://tmdk.itu.edu.tr/"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-P10-SYMBTR-REPO",
+                        "purpose":  "corpus simbolico digitale, formati disponibili, dimensioni del corpus e principi di selezione",
+                        "title":  "SymbTr — Turkish Makam Music Symbolic Data Collection",
+                        "author":  "M. Kemal Karaosmanoğlu e collaboratori; repository MTG",
+                        "year":  "snapshot del repository consultato 2026-07-03",
+                        "publisher_or_journal":  "GitHub, MTG/SymbTr",
+                        "identifier":  "corpus digitale primario",
+                        "grade":  "A",
+                        "url":  "https://github.com/MTG/SymbTr"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-P10-KARAOSMANOGLU-2012",
+                        "purpose":  "descrizione accademica del corpus SymbTr e del suo uso nella music information retrieval",
+                        "title":  "A Turkish makam music symbolic database for music information retrieval: SymbTr",
+                        "author":  "M. Kemal Karaosmanoğlu",
+                        "year":  "2012",
+                        "publisher_or_journal":  "Proceedings of the 13th International Society for Music Information Retrieval Conference",
+                        "identifier":  "articolo di conferenza",
+                        "pages":  "223-228",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-P10-TOMATO-REPO",
+                        "purpose":  "strumenti documentati per analisi simbolica, audio e congiunta della musica makam ottomano-turca",
+                        "title":  "tomato — Turkish-Ottoman Makam Music Analysis Toolbox",
+                        "author":  "Sertan Şentürk e collaboratori",
+                        "year":  "repository e documentazione consultati 2026-07-03",
+                        "publisher_or_journal":  "GitHub, sertansenturk/tomato",
+                        "identifier":  "software e documentazione primaria",
+                        "grade":  "A",
+                        "url":  "https://github.com/sertansenturk/tomato"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-P10-SENTURK-2016",
+                        "purpose":  "quadro metodologico per analisi computazionale di registrazioni e partiture makam",
+                        "title":  "Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music",
+                        "author":  "Sertan Şentürk",
+                        "year":  "2016",
+                        "publisher_or_journal":  "Ph.D. thesis, Universitat Pompeu Fabra",
+                        "identifier":  "tesi di dottorato",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-P10-BOZKURT-2008",
+                        "purpose":  "metodo automatico per estrazione e analisi dell’altezza nella musica makam turca",
+                        "title":  "An Automatic Pitch Analysis Method for Turkish Maqam Music",
+                        "author":  "Barış Bozkurt",
+                        "year":  "2008",
+                        "publisher_or_journal":  "Journal of New Music Research, 37/1",
+                        "identifier":  "articolo accademico",
+                        "pages":  "1-13",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-P10-GEDIK-BOZKURT-2010",
+                        "purpose":  "uso di istogrammi di frequenza per il riconoscimento e il recupero di musica turca",
+                        "title":  "Pitch-frequency histogram-based music information retrieval for Turkish music",
+                        "author":  "Ali C. Gedik e Barış Bozkurt",
+                        "year":  "2010",
+                        "publisher_or_journal":  "Signal Processing, 90/4",
+                        "identifier":  "articolo accademico",
+                        "pages":  "1049-1063",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-P10-BOZKURT-YARMAN-2009",
+                        "purpose":  "confronto fra modelli teorici e picchi misurati nelle distribuzioni di altezza",
+                        "title":  "Weighing Diverse Theoretical Models on Turkish Maqam Music Against Pitch Measurements",
+                        "author":  "Barış Bozkurt, Ozan Yarman, M. Kemal Karaosmanoğlu e Can Akkoç",
+                        "year":  "2009",
+                        "publisher_or_journal":  "Journal of New Music Research, 38/1",
+                        "identifier":  "articolo accademico",
+                        "pages":  "45-70",
+                        "grade":  "B"
+                    }
+                ],
+    "review":  {
+                   "status":  "pubblicato_con_corpus_e_metodi_senza_misure_audio_inventate",
+                   "reviewer":  "Michele Scattolin - verifica finale richiesta",
+                   "next_action":  "Collegare una registrazione identificata per produrre distribuzioni di altezza e confrontarle con il profilo simbolico, senza sostituire i dati misurati con il 12-TET.",
+                   "last_reviewed":  "2026-07-03T13:26:56.9757082+02:00"
+               },
+    "extensions":  {
+                       "storage_model":  "center_local_documented_package",
+                       "package_directory":  "dati/musica_documentata",
+                       "institution":  "İTÜ Türk Musikisi Devlet Konservatuarı",
+                       "digital_corpus":  "SymbTr",
+                       "analysis_toolbox":  "tomato",
+                       "symbolic_reference":  "Arel-Ezgi-Uzdilek / 53 comma",
+                       "selected_makam":  "Rast",
+                       "measurement_state":  "nessuna registrazione inclusa",
+                       "continuity_from_profile":  "P9-ASW-ISTANBUL-AEU-RAST-DOCUMENTED"
+                   }
+}

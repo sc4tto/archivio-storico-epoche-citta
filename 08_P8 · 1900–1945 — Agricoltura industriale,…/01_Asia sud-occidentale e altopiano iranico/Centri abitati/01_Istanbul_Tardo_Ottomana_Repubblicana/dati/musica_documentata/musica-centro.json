@@ -1,0 +1,227 @@
+﻿{
+    "schema_version":  1,
+    "record_type":  "center_music_profile",
+    "profile_id":  "P8-ASW-ISTANBUL-RAUF-YEKTA-RAST-DOCUMENTED",
+    "record_status":  "documentato",
+    "scope":  {
+                  "type":  "inhabited_center",
+                  "center_id":  "ISTANBUL_LATE_OTTOMAN_REPUBLICAN",
+                  "center_label":  "Istanbul tardo-ottomana e repubblicana",
+                  "folder_name":  "01_Istanbul_Tardo_Ottomana_Repubblicana"
+              },
+    "period":  {
+                   "id":  "P8",
+                   "label":  "1900–1945 — Agricoltura industriale,…",
+                   "order":  8,
+                   "documented_subrange":  "circa 1900-1935; pubblicazione teorica principale nel 1922"
+               },
+    "area":  {
+                 "id":  "ASW_IRAN",
+                 "label":  "Asia sud-occidentale e altopiano iranico"
+             },
+    "documentation":  {
+                          "status":  "documentato",
+                          "confidence":  "alta_per_autore_opera_contesto_e_struttura_teorica; media_per_relazione_modello_prassi; bassa_per_altezza_assoluta_e_12tet",
+                          "statement":  "Il profilo documenta Rauf Yekta Bey, La musique turque, il profilo teorico Rast e la transizione verso la notazione occidentale modificata e la conservazione istituzionale a Istanbul.",
+                          "chronology_status":  "compatibile",
+                          "chronology_statement":  "L\u0027attività di Rauf Yekta e la pubblicazione del 1922 rientrano nel P8.",
+                          "geography_status":  "compatibile",
+                          "geography_relation":  "nel_centro",
+                          "geography_statement":  "Rauf Yekta nacque e operò a Istanbul; il Darülelhan e il Conservatorio appartengono alla storia istituzionale della città.",
+                          "historical_system_resolvable":  true,
+                          "limitation_note":  "È risolvibile il modello teorico a 53 comma; non è risolvibile come unica intonazione di ogni esecuzione né come scala 12-TET."
+                      },
+    "review":  {
+                   "status":  "pubblicato_con_modello_teorico_e_scarti_in_cent",
+                   "reviewer":  "Michele Scattolin - verifica finale richiesta",
+                   "last_reviewed":  "2026-07-03T11:57:05.4711969+02:00",
+                   "next_action":  "Controllare che l\u0027interfaccia distingua comma teorico, cent calcolato, misura esecutiva, funzione modale e riduzione 12-TET."
+               },
+    "extensions":  {
+                       "storage_model":  "center_local_documented_package",
+                       "package_directory":  "dati/musica_documentata",
+                       "historical_author":  "Rauf Yekta Bey",
+                       "historical_work":  "La musique turque",
+                       "theoretical_grid":  "53 comma",
+                       "selected_makam":  "Rast",
+                       "notation":  "pentagramma occidentale modificato",
+                       "continuity_from_profile":  "P7-ASW-ISTANBUL-HAMPARSUM-RAST-DOCUMENTED"
+                   },
+    "musical_evidence":  [
+                             {
+                                 "evidence_id":  "EVID-ISTANBUL-RAUF-YEKTA-CONTEXT",
+                                 "type":  "center_tradition",
+                                 "status":  "documentato",
+                                 "statement":  "Rauf Yekta Bey operò nel contesto musicale di Istanbul e pubblicò nel 1922 una trattazione sistematica della musica turca in lingua francese.",
+                                 "source_ids":  [
+                                                    "SRC-ISTANBUL-RAUF-YEKTA-LA-MUSIQUE-TURQUE-1922",
+                                                    "SRC-ISTANBUL-RAUF-YEKTA-NASUHIOGLU-1986"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-ISTANBUL-RAUF-YEKTA-NOTATION",
+                                 "type":  "notation_and_theory",
+                                 "status":  "documentato",
+                                 "statement":  "Il sistema impiega il pentagramma occidentale modificato con alterazioni destinate a rappresentare intervalli del makam inferiori al semitono temperato.",
+                                 "source_ids":  [
+                                                    "SRC-ISTANBUL-RAUF-YEKTA-LA-MUSIQUE-TURQUE-1922",
+                                                    "SRC-ISTANBUL-RAUF-YEKTA-AYANGIL-2008"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-ISTANBUL-RAUF-YEKTA-RAST-53",
+                                 "type":  "system_structure",
+                                 "status":  "documentato_con_calcolo_derivato",
+                                 "statement":  "Il profilo teorico Rast usa le perdes Rast-Dügâh-Segâh-Çârgâh-Nevâ-Hüseynî-Evç-Gerdâniye e la successione 9-8-5-9-9-8-5 su una griglia di 53 comma; i cent sono calcolati, non misurati.",
+                                 "source_ids":  [
+                                                    "SRC-ISTANBUL-RAUF-YEKTA-LA-MUSIQUE-TURQUE-1922",
+                                                    "SRC-ISTANBUL-RAUF-YEKTA-AYANGIL-2008",
+                                                    "SRC-ISTANBUL-RAUF-YEKTA-SIGNELL-1977"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-ISTANBUL-RAUF-YEKTA-PRACTICE-LIMIT",
+                                 "type":  "interpretation_limit",
+                                 "status":  "sintesi",
+                                 "statement":  "Il confronto con misure di altezza mostra che nessun singolo modello teorico deve essere trattato come trascrizione automatica di tutta la prassi esecutiva.",
+                                 "source_ids":  [
+                                                    "SRC-ISTANBUL-RAUF-YEKTA-BOZKURT-2009",
+                                                    "SRC-ISTANBUL-RAUF-YEKTA-SIGNELL-1977"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-ISTANBUL-RAUF-YEKTA-CONSERVATORY",
+                                 "type":  "institutional_context",
+                                 "status":  "documentato",
+                                 "statement":  "Il Darülelhan, fondato nel 1917 e ristrutturato in età repubblicana come Conservatorio di Istanbul, costituisce il contesto istituzionale della conservazione e dell\u0027insegnamento musicale urbano.",
+                                 "source_ids":  [
+                                                    "SRC-ISTANBUL-CONSERVATORY-HISTORY",
+                                                    "SRC-ISTANBUL-RAUF-YEKTA-NASUHIOGLU-1986"
+                                                ]
+                             }
+                         ],
+    "tradition_links":  [
+                            {
+                                "tradition_id":  "ISTANBUL_EARLY_REPUBLIC_RAUF_YEKTA_THEORY",
+                                "relation_status":  "documentato",
+                                "relation_note":  "Collegamento riferito a Rauf Yekta, alla teoria stampata del makam e alle istituzioni musicali di Istanbul; non a ogni genere urbano del periodo.",
+                                "source_ids":  [
+                                                   "SRC-ISTANBUL-RAUF-YEKTA-LA-MUSIQUE-TURQUE-1922",
+                                                   "SRC-ISTANBUL-RAUF-YEKTA-AYANGIL-2008",
+                                                   "SRC-ISTANBUL-RAUF-YEKTA-NASUHIOGLU-1986",
+                                                   "SRC-ISTANBUL-CONSERVATORY-HISTORY"
+                                               ]
+                            }
+                        ],
+    "scale_links":  [
+                        {
+                            "scale_id":  "ISTANBUL_RAUF_YEKTA_RAST_53_COMMA_PROFILE",
+                            "relation_status":  "documentato_con_calcolo_derivato",
+                            "relation_note":  "Le posizioni in comma appartengono al modello teorico; cent e scarti 12-TET sono calcoli moderni esplicitamente separati dalla prassi.",
+                            "source_ids":  [
+                                               "SRC-ISTANBUL-RAUF-YEKTA-LA-MUSIQUE-TURQUE-1922",
+                                               "SRC-ISTANBUL-RAUF-YEKTA-AYANGIL-2008",
+                                               "SRC-ISTANBUL-RAUF-YEKTA-SIGNELL-1977",
+                                               "SRC-ISTANBUL-RAUF-YEKTA-BOZKURT-2009"
+                                           ]
+                        }
+                    ],
+    "documents":  [
+                      {
+                          "document_id":  "DOC-ISTANBUL-RAUF-YEKTA-CENTER-SOURCES",
+                          "label":  "Fonti documentate per Istanbul e Rauf Yekta",
+                          "path":  "./FONTI_DOCUMENTATE.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-ISTANBUL-RAUF-YEKTA-CENTER-MANIFEST",
+                          "label":  "Manifesto della documentazione Istanbul repubblicana",
+                          "path":  "./MANIFESTO_DOCUMENTAZIONE.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-ISTANBUL-RAUF-YEKTA-CENTER-DATA",
+                          "label":  "Dati documentati sul profilo Rast e sulla griglia di 53 comma",
+                          "path":  "./DATI_DOCUMENTATI_RAUF_YEKTA_RAST.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-ISTANBUL-RAUF-YEKTA-TRANSITIONS",
+                          "label":  "Nota sulle transizioni Hamparsum-Rauf Yekta e teoria-prassi",
+                          "path":  "./NOTA_TRANSIZIONI_ISTANBUL_REPUBBLICANA.txt",
+                          "type":  "text"
+                      }
+                  ],
+    "sources":  [
+                    {
+                        "source_id":  "SRC-ISTANBUL-RAUF-YEKTA-LA-MUSIQUE-TURQUE-1922",
+                        "purpose":  "fonte teorica primaria per intervalli, makam, usûl e notazione adattata",
+                        "title":  "La musique turque",
+                        "author":  "Raouf Yekta Bey",
+                        "editor":  "Albert Lavignac, Encyclopédie de la musique et dictionnaire du Conservatoire, première partie, volume V",
+                        "year":  "1922",
+                        "publisher_or_journal":  "Librairie Delagrave, Paris",
+                        "identifier":  "capitolo enciclopedico",
+                        "pages":  "2945-3064",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-RAUF-YEKTA-AYANGIL-2008",
+                        "purpose":  "storia critica della notazione occidentale applicata alla musica turca e dei sistemi di alterazione microtonale",
+                        "title":  "Western Notation in Turkish Music",
+                        "author":  "Ruhi Ayangil",
+                        "year":  "2008",
+                        "publisher_or_journal":  "Journal of the Royal Asiatic Society, third series, volume 18, issue 4",
+                        "identifier":  "articolo accademico",
+                        "pages":  "intero articolo",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-RAUF-YEKTA-SIGNELL-1977",
+                        "purpose":  "analisi di makam, seyir, intonazione e pratica modale",
+                        "title":  "Makam: Modal Practice in Turkish Art Music",
+                        "author":  "Karl L. Signell",
+                        "year":  "1977; ristampa 1986",
+                        "publisher_or_journal":  "Asian Music Publications; Da Capo Press",
+                        "identifier":  "monografia accademica",
+                        "pages":  "intero volume",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-RAUF-YEKTA-BOZKURT-2009",
+                        "purpose":  "confronto fra modelli teorici del makam e misure di altezza ricavate da registrazioni",
+                        "title":  "Weighing Diverse Theoretical Models on Turkish Maqam Music Against Pitch Measurements",
+                        "author":  "Barış Bozkurt, Ozan Yarman, M. Kemal Karaosmanoğlu e Can Akkoç",
+                        "year":  "2009",
+                        "publisher_or_journal":  "Journal of New Music Research, volume 38, issue 1",
+                        "identifier":  "articolo accademico",
+                        "pages":  "45-70",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-RAUF-YEKTA-NASUHIOGLU-1986",
+                        "purpose":  "raccolta e inquadramento biografico-musicologico dell\u0027opera di Rauf Yekta Bey",
+                        "title":  "Türk Musikisi - Rauf Yekta Bey",
+                        "author":  "Orhan Nasuhioğlu",
+                        "year":  "1986",
+                        "publisher_or_journal":  "Pan Yayıncılık, Istanbul",
+                        "identifier":  "monografia",
+                        "pages":  "intero volume",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-CONSERVATORY-HISTORY",
+                        "purpose":  "cronologia istituzionale del Darülelhan e del Conservatorio di Istanbul",
+                        "title":  "Konservatuvar Tarihçesi",
+                        "author":  "İstanbul Üniversitesi Devlet Konservatuvarı",
+                        "year":  "pagina istituzionale corrente",
+                        "publisher_or_journal":  "İstanbul Üniversitesi",
+                        "identifier":  "fonte istituzionale",
+                        "pages":  "sezione storica",
+                        "grade":  "B"
+                    }
+                ],
+    "notes":  [
+                  null
+              ]
+}

@@ -1,0 +1,46 @@
+﻿BAGHDAD — NOTA METODOLOGICA SUL QUADRO RAST
+===========================================
+
+DENOMINAZIONE
+-------------
+"Teoria modale di al-Urmawi a Baghdad" e una etichetta descrittiva moderna.
+
+Rast e invece un nome modale attestato nel sistema del Kitab al-Adwar.
+
+NON 17-EDO
+----------
+Le diciassette posizioni di al-Urmawi non devono essere confuse con un
+temperamento equabile moderno a diciassette divisioni.
+
+APPROSSIMAZIONE 12-TET
+----------------------
+I gradi microtonali non hanno una sola destinazione nel temperamento
+equabile a dodici note.
+
+Per rendere operativo il motore viene usato come profilo principale:
+
+Do, Re, Mib, Fa, Sol, La, Sib.
+
+Nei metadati resta anche l'arrotondamento superiore:
+
+Do, Re, Mi, Fa, Sol, La, Si.
+
+La scelta principale non e dichiarata storica.
+
+ARMONIZZAZIONE
+--------------
+Le triadi calcolate dal programma dipendono dalla mappatura inferiore.
+Non rappresentano armonia praticata a Baghdad nel XIII secolo.
+
+TRANSIZIONI
+-----------
+Il confronto con Jiahu o Ugarit e moderno.
+
+Affidabilita:
+
+- relazione Baghdad-al-Urmawi: alta;
+- presenza del sistema a 17 posizioni: alta;
+- presenza di Rast: alta;
+- altezza assoluta: non documentata;
+- conversione 12-TET: bassa-media;
+- accordi pivot: moderni.

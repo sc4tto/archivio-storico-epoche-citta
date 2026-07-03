@@ -1,0 +1,239 @@
+﻿{
+    "schema_version":  1,
+    "container_id":  "CONTAINER-P5-ASW-BAGHDAD-URMAWI",
+    "record_status":  "documentato",
+    "area":  {
+                 "id":  "ASW",
+                 "label":  "Asia sud-occidentale e altopiano iranico"
+             },
+    "period":  {
+                   "id":  "P5",
+                   "label":  "1000–1500 — Espansione commerciale e…",
+                   "order":  5
+               },
+    "tradition":  {
+                      "id":  "BAGHDAD_URMAWI_MODAL_THEORY",
+                      "label":  "Teoria modale di al-Urmawi a Baghdad",
+                      "historical_name":  "Etichetta descrittiva moderna riferita al corpus teorico del Kitab al-Adwar.",
+                      "documentation_status":  "documentato",
+                      "scope_note":  "Il record riguarda la teoria modale elaborata da al-Urmawi nel contesto baghdadino del XIII secolo. Non identifica automaticamente teoria e prassi di ogni musicista della citta.",
+                      "source_ids":  [
+                                         "SRC-BAGHDAD-URMAWI-ADWAR-1980",
+                                         "SRC-BAGHDAD-ERLANGER-1938",
+                                         "SRC-BAGHDAD-WRIGHT-1978",
+                                         "SRC-BAGHDAD-WRIGHT-1995",
+                                         "SRC-BAGHDAD-NEUBAUER-2003"
+                                     ]
+                  },
+    "scales":  [
+                   {
+                       "scale_id":  "BAGHDAD_URMAWI_RAST_FRAMEWORK",
+                       "name":  "Baghdad, al-Urmawi - quadro modale Rast",
+                       "documentation_status":  "documentato",
+                       "documentation_scope":  {
+                                                   "documented":  [
+                                                                      "Rast fra i dodici modi principali del Kitab al-Adwar",
+                                                                      "sistema teorico di diciassette posizioni nell\u0027ottava",
+                                                                      "attivita teorica e musicale di al-Urmawi a Baghdad"
+                                                                  ],
+                                                   "not_documented":  [
+                                                                          "altezza assoluta del primo grado",
+                                                                          "equivalenza esatta con il maqam Rast moderno",
+                                                                          "riduzione univoca delle posizioni microtonali in 12-TET"
+                                                                      ]
+                                               },
+                       "historical_context":  {
+                                                  "city":  "Baghdad",
+                                                  "author":  "Safi al-Din al-Urmawi",
+                                                  "approximate_date":  "XIII secolo; circa 1216-1294",
+                                                  "work":  "Kitab al-Adwar",
+                                                  "political_context":  "Baghdad tardo-abbaside e ilkhanide"
+                                              },
+                       "historical_tuning":  {
+                                                 "description":  "Il Kitab al-Adwar organizza l\u0027ottava in diciassette posizioni non equidistanti e definisce dodici modi principali, fra cui Rast. Il sistema non coincide con 17-EDO e non va retroproiettato automaticamente sul maqam contemporaneo.",
+                                                 "pitch_inventory_size":  17,
+                                                 "equal_temperament":  false,
+                                                 "mode_name":  "Rast",
+                                                 "absolute_pitch":  "non documentata",
+                                                 "tonal_center":  "primo grado relativo del modo; altezza assoluta non documentata",
+                                                 "source_ids":  [
+                                                                    "SRC-BAGHDAD-URMAWI-ADWAR-1980",
+                                                                    "SRC-BAGHDAD-ERLANGER-1938",
+                                                                    "SRC-BAGHDAD-WRIGHT-1978",
+                                                                    "SRC-BAGHDAD-WRIGHT-1995"
+                                                                ],
+                                                 "measured_natural_sequence":  [
+
+                                                                               ],
+                                                 "measured_intervals_cents":  [
+
+                                                                              ],
+                                                 "scale_degrees_from_keynote":  [
+                                                                                    "1",
+                                                                                    "2",
+                                                                                    "3 microtonale",
+                                                                                    "4",
+                                                                                    "5",
+                                                                                    "6",
+                                                                                    "7 microtonale",
+                                                                                    "8"
+                                                                                ]
+                                             },
+                       "center":  {
+                                      "label":  "Do",
+                                      "type":  "primo grado convenzionale per la mappatura 12-TET",
+                                      "pitch_class":  0,
+                                      "historical_reference":  "altezza assoluta non documentata"
+                                  },
+                       "approximation":  {
+                                             "system":  "12-TET",
+                                             "quality":  "arrotondamento inferiore dei gradi microtonali terzo e settimo",
+                                             "alternative_upper_rounding":  {
+                                                                                "notes":  [
+                                                                                              "Do",
+                                                                                              "Re",
+                                                                                              "Mi",
+                                                                                              "Fa",
+                                                                                              "Sol",
+                                                                                              "La",
+                                                                                              "Si"
+                                                                                          ],
+                                                                                "pitch_classes":  [
+                                                                                                      0,
+                                                                                                      2,
+                                                                                                      4,
+                                                                                                      5,
+                                                                                                      7,
+                                                                                                      9,
+                                                                                                      11
+                                                                                                  ]
+                                                                            },
+                                             "warning":  "La mappatura Do-Re-Mib-Fa-Sol-La-Sib e una scelta computazionale. I gradi microtonali non hanno un equivalente univoco in 12-TET; l\u0027arrotondamento superiore Mi-Si e conservato come alternativa. Nessuna delle due versioni coincide con il sistema storico a diciassette posizioni.",
+                                             "status":  "sintesi_operativa_con_ambiguita"
+                                         },
+                       "harmonization":  {
+                                             "status":  "proposta_moderna",
+                                             "method":  "triadi generate sulla sola mappatura 12-TET inferiore",
+                                             "warning":  "Il Kitab al-Adwar descrive teoria modale e intervallare, non armonia funzionale occidentale. Gli accordi del software sono moderni e dipendono da un arrotondamento ambiguo."
+                                         },
+                       "comparison_basis":  "documented_modal_framework_ambiguous_mapping",
+                       "transition_reliability":  {
+                                                      "historical_pitch_comparison":  "bassa",
+                                                      "modal_structure_comparison":  "media",
+                                                      "twelve_tet_transition":  "bassa-media",
+                                                      "reason":  "Il modo e il sistema a diciassette posizioni sono documentati; la conversione microtonale in 12-TET e ambigua."
+                                                  },
+                       "notes_12tet":  [
+                                           "Do",
+                                           "Re",
+                                           "Mib",
+                                           "Fa",
+                                           "Sol",
+                                           "La",
+                                           "Sib"
+                                       ],
+                       "pitch_classes_12tet":  [
+                                                   0,
+                                                   2,
+                                                   3,
+                                                   5,
+                                                   7,
+                                                   9,
+                                                   10
+                                               ],
+                       "source_ids":  [
+                                          "SRC-BAGHDAD-URMAWI-ADWAR-1980",
+                                          "SRC-BAGHDAD-ERLANGER-1938",
+                                          "SRC-BAGHDAD-WRIGHT-1978",
+                                          "SRC-BAGHDAD-WRIGHT-1995",
+                                          "SRC-BAGHDAD-NEUBAUER-2003"
+                                      ],
+                       "documents":  [
+                                         {
+                                             "document_id":  "DOC-BAGHDAD-URMAWI-DATA",
+                                             "label":  "Dati documentati del sistema di al-Urmawi",
+                                             "path":  "../documenti/DATI_DOCUMENTATI_URMAWI.txt",
+                                             "type":  "text"
+                                         },
+                                         {
+                                             "document_id":  "DOC-BAGHDAD-URMAWI-METHOD",
+                                             "label":  "Nota metodologica sulla mappatura Rast",
+                                             "path":  "../documenti/NOTA_METODOLOGICA_RAST.txt",
+                                             "type":  "text"
+                                         }
+                                     ]
+                   }
+               ],
+    "sources":  [
+                    {
+                        "source_id":  "SRC-BAGHDAD-URMAWI-ADWAR-1980",
+                        "purpose":  "edizione araba moderna del testo primario Kitab al-Adwar",
+                        "title":  "Kitab al-Adwar fi al-musiqa",
+                        "author":  "Safi al-Din Abd al-Mu\u0027min al-Urmawi",
+                        "editor":  "Hashim Muhammad Rajab",
+                        "year":  "1980",
+                        "publisher_or_journal":  "al-Jumhuriyya al-Iraqiyya, Baghdad",
+                        "identifier":  "OCLC 10532654",
+                        "pages":  "trattato completo; tavole dei modi e divisione dell\u0027ottava",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-BAGHDAD-ERLANGER-1938",
+                        "purpose":  "traduzione e studio del Kitab al-Adwar e della Risala al-Sharafiyya",
+                        "title":  "La musique arabe, volume III",
+                        "author":  "Baron Rodolphe d\u0027Erlanger",
+                        "year":  "1938",
+                        "publisher_or_journal":  "Paul Geuthner, Paris",
+                        "identifier":  "edizione e traduzione francese",
+                        "pages":  "sezioni dedicate ad al-Urmawi",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-BAGHDAD-WRIGHT-1978",
+                        "purpose":  "analisi specialistica del sistema modale arabo-persiano del XIII secolo",
+                        "title":  "The Modal System of Arab and Persian Music, A.D. 1250-1300",
+                        "author":  "Owen Wright",
+                        "year":  "1978",
+                        "publisher_or_journal":  "Oxford Oriental Monographs, Oxford University Press",
+                        "identifier":  "monografia accademica",
+                        "pages":  "intero volume",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-BAGHDAD-WRIGHT-1995",
+                        "purpose":  "studio filologico di una versione preliminare del Kitab al-Adwar",
+                        "title":  "A Preliminary Version of the Kitab al-Adwar",
+                        "author":  "Owen Wright",
+                        "year":  "1995",
+                        "publisher_or_journal":  "Bulletin of the School of Oriental and African Studies 58(3)",
+                        "identifier":  "articolo accademico",
+                        "pages":  "455-478",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-BAGHDAD-NEUBAUER-2003",
+                        "purpose":  "inquadramento storico della musica urbana e cortigiana islamica",
+                        "title":  "Music in the Islamic Environment",
+                        "author":  "Eckhard Neubauer",
+                        "year":  "2003",
+                        "publisher_or_journal":  "History of Civilizations of Central Asia, volume IV, part 2",
+                        "identifier":  "UNESCO / Motilal Banarsidass",
+                        "pages":  "circa 594-598",
+                        "grade":  "B"
+                    }
+                ],
+    "documents":  [
+                      {
+                          "document_id":  "DOC-BAGHDAD-URMAWI-DATA",
+                          "label":  "Dati documentati del sistema di al-Urmawi",
+                          "path":  "../documenti/DATI_DOCUMENTATI_URMAWI.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-BAGHDAD-URMAWI-METHOD",
+                          "label":  "Nota metodologica sulla mappatura Rast",
+                          "path":  "../documenti/NOTA_METODOLOGICA_RAST.txt",
+                          "type":  "text"
+                      }
+                  ]
+}

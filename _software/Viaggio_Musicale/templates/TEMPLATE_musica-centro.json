@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "record_type": "center_music_profile",
+  "profile_id": "PERIODO-AREA-CENTRO-MUSIC",
+  "record_status": "non_documentato",
+  "scope": {
+    "type": "inhabited_center",
+    "center_id": "CENTRO_ID",
+    "center_label": "Nome del centro",
+    "folder_name": "NN_Nome_del_centro"
+  },
+  "period": {
+    "id": "PXX",
+    "label": "Periodo storico",
+    "order": 99
+  },
+  "area": {
+    "id": "AREA_ID",
+    "label": "Area geografica"
+  },
+  "documentation": {
+    "status": "non_documentato",
+    "confidence": "non_applicabile",
+    "statement": "Nell’archivio non è attualmente registrata una ricostruzione musicale verificata per questo centro e periodo.",
+    "absence_note": "Lo stato non_documentato non equivale ad assenza storica di pratiche musicali."
+  },
+  "musical_evidence": [],
+  "tradition_links": [],
+  "scale_links": [],
+  "documents": [],
+  "sources": [],
+  "review": {
+    "status": "da_compilare",
+    "reviewer": null,
+    "last_reviewed": null,
+    "next_action": "Aggiungere fonti e valutare il livello documentale."
+  },
+  "extensions": {}
+}

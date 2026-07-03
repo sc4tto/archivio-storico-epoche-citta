@@ -1,0 +1,52 @@
+DATI DOCUMENTATI — SYMBTR, TOMATO E PROFILO RAST
+====================================================
+
+CONTESTO ISTITUZIONALE
+----------------------
+L’İTÜ Türk Musikisi Devlet Konservatuarı è documentata a Istanbul dal 1975.
+La pagina istituzionale corrente include dipartimenti di musica teorica,
+musicologia e tecnologia musicale.
+
+SNAPSHOT SYMBTR CONSULTATO IL 2026-07-03
+----------------------------------------
+Brani: 2200
+Makam: 155
+Usul: 88
+Forme: 56
+Note: circa 865000
+Durata nominale: circa 80 ore
+Formati: testo, MusicXML, PDF, MIDI, mu2
+
+Questi valori descrivono lo snapshot consultato e non sono trattati come
+immutabili nelle versioni future.
+
+TOMATO — OPERAZIONI DOCUMENTATE
+-------------------------------
+Livello simbolico:
+- metadati;
+- sezioni;
+- segmentazione in frasi;
+- analisi semiotica e conversione.
+
+Livello audio:
+- estrazione della melodia predominante;
+- identificazione di tonica e trasposizione;
+- riconoscimento del makam;
+- distribuzioni di altezza;
+- analisi dell’intonazione;
+- analisi della progressione melodica / seyir.
+
+Livello congiunto:
+- collegamento partitura-registrazione;
+- allineamento di sezioni e note;
+- modellazione delle note.
+
+PROFILO RAST DI RIFERIMENTO
+---------------------------
+Perdes: Rast, Dügâh, Segâh, Çârgâh, Nevâ, Hüseynî, Evç, Gerdâniye
+Posizioni teoriche: 0, 9, 17, 22, 31, 40, 48, 53 comma
+Passi: 9, 8, 5, 9, 9, 8, 5 comma
+Formula moderna: cent = posizione * 1200 / 53
+
+Il profilo teorico serve per confrontare dati simbolici e futuri dati audio.
+Nessuna distribuzione misurata è inclusa nel pacchetto.

@@ -1,0 +1,254 @@
+﻿{
+    "container_id":  "CONTAINER-P3-EUR-MED-ATHENS-ARISTOXENUS",
+    "schema_version":  1,
+    "record_status":  "documentato",
+    "area":  {
+                 "id":  "EUR_MED",
+                 "label":  "Mediterraneo europeo ed Europa centro-occidentale"
+             },
+    "period":  {
+                   "id":  "P3",
+                   "label":  "1000 a.C.–500 d.C. — Imperi classici…",
+                   "order":  3
+               },
+    "tradition":  {
+                      "id":  "ATHENS_ARISTOXENIAN_HARMONICS",
+                      "label":  "Armonica aristossenica nel contesto peripatetico di Atene",
+                      "historical_name":  "Etichetta descrittiva moderna; il nome dell\u0027opera attestato e Elementa harmonica / Harmonika stoicheia.",
+                      "documentation_status":  "documentato",
+                      "scope_note":  "Il record riguarda la teoria armonica di Aristosseno e la sua associazione con la scuola di Aristotele ad Atene. Non attribuisce ad ogni pratica musicale ateniese lo stesso sistema.",
+                      "source_ids":  [
+                                         "SRC-ATHENS-BARKER-GMW2-1989",
+                                         "SRC-ATHENS-MACRAN-1902",
+                                         "SRC-ATHENS-BARKER-SCIENCE-2007",
+                                         "SRC-ATHENS-MATHIESEN-1999",
+                                         "SRC-ATHENS-BELIS-1986"
+                                     ]
+                  },
+    "scales":  [
+                   {
+                       "scale_id":  "ATHENS_ARISTOXENUS_TENSE_DIATONIC_OCTAVE",
+                       "name":  "Atene, Aristosseno - doppio tetracordo diatonico teso",
+                       "documentation_status":  "documentato",
+                       "documentation_scope":  {
+                                                   "documented":  [
+                                                                      "distinzione aristossenica dei generi",
+                                                                      "genere diatonico",
+                                                                      "forma tesa del tetracordo",
+                                                                      "successione semitono-tono-tono entro il tetracordo",
+                                                                      "uso di tetracordi disgiunti nella costruzione sistemica"
+                                                                  ],
+                                                   "not_documented":  [
+                                                                          "altezza assoluta Mi",
+                                                                          "temperamento equabile a dodici note",
+                                                                          "identita con il moderno modo frigio",
+                                                                          "armonia accordale funzionale"
+                                                                      ]
+                                               },
+                       "historical_context":  {
+                                                  "city":  "Atene",
+                                                  "author":  "Aristosseno di Taranto",
+                                                  "approximate_date":  "seconda meta del IV secolo a.C.; attivita circa 335 a.C.",
+                                                  "work":  "Elementa harmonica",
+                                                  "intellectual_context":  "scuola peripatetica di Aristotele ad Atene",
+                                                  "composition_place_caution":  "il luogo esatto di redazione del trattato non e dimostrabile"
+                                              },
+                       "historical_tuning":  {
+                                                 "description":  "La struttura selezionata rappresenta due tetracordi diatonici tesi disgiunti. In direzione ascendente ogni tetracordo procede per semitono, tono e tono; i due tetracordi sono separati da un tono disgiuntivo.",
+                                                 "genus":  "diatonico",
+                                                 "shade":  "teso / syntonon",
+                                                 "tetrachord_interval_units":  [
+                                                                                   0.5,
+                                                                                   1,
+                                                                                   1
+                                                                               ],
+                                                 "octave_interval_units":  [
+                                                                               0.5,
+                                                                               1,
+                                                                               1,
+                                                                               1,
+                                                                               0.5,
+                                                                               1,
+                                                                               1
+                                                                           ],
+                                                 "functional_sequence":  [
+                                                                             "hypate meson",
+                                                                             "parhypate meson",
+                                                                             "lichanos meson",
+                                                                             "mese",
+                                                                             "paramese",
+                                                                             "trite diezeugmenon",
+                                                                             "paranete diezeugmenon",
+                                                                             "nete diezeugmenon"
+                                                                         ],
+                                                 "absolute_pitch":  "non documentata",
+                                                 "temperament":  "non equabile e non fissato in hertz",
+                                                 "source_ids":  [
+                                                                    "SRC-ATHENS-BARKER-GMW2-1989",
+                                                                    "SRC-ATHENS-MACRAN-1902",
+                                                                    "SRC-ATHENS-BARKER-SCIENCE-2007",
+                                                                    "SRC-ATHENS-MATHIESEN-1999"
+                                                                ],
+                                                 "measured_natural_sequence":  [
+
+                                                                               ],
+                                                 "measured_intervals_cents":  [
+
+                                                                              ],
+                                                 "scale_degrees_from_keynote":  [
+                                                                                    "1",
+                                                                                    "b2",
+                                                                                    "b3",
+                                                                                    "4",
+                                                                                    "5",
+                                                                                    "b6",
+                                                                                    "b7",
+                                                                                    "8"
+                                                                                ]
+                                             },
+                       "center":  {
+                                      "label":  "Mi",
+                                      "type":  "riferimento convenzionale della rappresentazione moderna",
+                                      "pitch_class":  4,
+                                      "historical_reference":  "hypate meson; nessuna altezza assoluta antica"
+                                  },
+                       "approximation":  {
+                                             "system":  "12-TET",
+                                             "quality":  "rappresentazione per semitoni e toni uguali della struttura intervallare",
+                                             "interval_pattern_semitones":  [
+                                                                                1,
+                                                                                2,
+                                                                                2,
+                                                                                2,
+                                                                                1,
+                                                                                2,
+                                                                                2
+                                                                            ],
+                                             "warning":  "Mi-Fa-Sol-La | Si-Do-Re-Mi e una rappresentazione moderna funzionale. Non dimostra altezza assoluta, temperamento equabile antico o identita con il moderno modo frigio.",
+                                             "status":  "sintesi_operativa"
+                                         },
+                       "harmonization":  {
+                                             "status":  "proposta_moderna",
+                                             "method":  "triadi generate dalla rappresentazione 12-TET",
+                                             "warning":  "L\u0027Elementa harmonica studia intervalli, sistemi e melodia. Non documenta armonia funzionale occidentale. Gli accordi del software sono costruzioni moderne."
+                                         },
+                       "comparison_basis":  "documented_interval_structure_conventional_pitch",
+                       "transition_reliability":  {
+                                                      "historical_pitch_comparison":  "bassa",
+                                                      "interval_structure_comparison":  "alta",
+                                                      "twelve_tet_transition":  "media",
+                                                      "reason":  "La struttura intervallare e documentata; il centro Mi e il temperamento 12-TET sono rappresentazioni moderne."
+                                                  },
+                       "notes_12tet":  [
+                                           "Mi",
+                                           "Fa",
+                                           "Sol",
+                                           "La",
+                                           "Si",
+                                           "Do",
+                                           "Re"
+                                       ],
+                       "pitch_classes_12tet":  [
+                                                   4,
+                                                   5,
+                                                   7,
+                                                   9,
+                                                   11,
+                                                   0,
+                                                   2
+                                               ],
+                       "source_ids":  [
+                                          "SRC-ATHENS-BARKER-GMW2-1989",
+                                          "SRC-ATHENS-MACRAN-1902",
+                                          "SRC-ATHENS-BARKER-SCIENCE-2007",
+                                          "SRC-ATHENS-MATHIESEN-1999",
+                                          "SRC-ATHENS-BELIS-1986"
+                                      ],
+                       "documents":  [
+                                         {
+                                             "document_id":  "DOC-ATHENS-ARISTOXENUS-DATA",
+                                             "label":  "Dati documentati dell\u0027armonica aristossenica",
+                                             "path":  "../documenti/DATI_DOCUMENTATI_ARISTOSSENO.txt",
+                                             "type":  "text"
+                                         },
+                                         {
+                                             "document_id":  "DOC-ATHENS-ARISTOXENUS-METHOD",
+                                             "label":  "Nota metodologica sul doppio tetracordo",
+                                             "path":  "../documenti/NOTA_METODOLOGICA_DIATONICO_TESO.txt",
+                                             "type":  "text"
+                                         }
+                                     ]
+                   }
+               ],
+    "sources":  [
+                    {
+                        "source_id":  "SRC-ATHENS-BARKER-GMW2-1989",
+                        "purpose":  "traduzione critica dell\u0027Elementa harmonica e definizione dei generi",
+                        "title":  "Greek Musical Writings, Volume II: Harmonic and Acoustic Theory",
+                        "author":  "Andrew Barker, editor and translator",
+                        "year":  "1989",
+                        "publisher_or_journal":  "Cambridge University Press",
+                        "identifier":  "ISBN 9780521289955",
+                        "pages":  "Aristoxenus, pp. 119-189",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-ATHENS-MACRAN-1902",
+                        "purpose":  "testo greco, traduzione e commento dell\u0027opera di Aristosseno",
+                        "title":  "The Harmonics of Aristoxenus",
+                        "author":  "Henry Stewart Macran, editor and translator",
+                        "year":  "1902",
+                        "publisher_or_journal":  "Clarendon Press, Oxford",
+                        "identifier":  "edizione critica storica",
+                        "pages":  "testo completo",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-ATHENS-BARKER-SCIENCE-2007",
+                        "purpose":  "analisi specialistica della scienza armonica greca e di Aristosseno",
+                        "title":  "The Science of Harmonics in Classical Greece",
+                        "author":  "Andrew Barker",
+                        "year":  "2007",
+                        "publisher_or_journal":  "Cambridge University Press",
+                        "identifier":  "ISBN 9780521879514",
+                        "pages":  "capitoli dedicati ad Aristosseno e alla teoria dei generi",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ATHENS-MATHIESEN-1999",
+                        "purpose":  "inquadramento storico della teoria musicale greca e delle specie d\u0027ottava",
+                        "title":  "Apollo\u0027s Lyre: Greek Music and Music Theory in Antiquity and the Middle Ages",
+                        "author":  "Thomas J. Mathiesen",
+                        "year":  "1999",
+                        "publisher_or_journal":  "University of Nebraska Press",
+                        "identifier":  "ISBN 9780803230798",
+                        "pages":  "sezioni su Aristosseno, generi e sistemi",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ATHENS-BELIS-1986",
+                        "purpose":  "studio del rapporto fra Aristosseno, Aristotele e il contesto peripatetico",
+                        "title":  "Aristoxene de Tarente et Aristote: le Traite d\u0027harmonique",
+                        "author":  "Annie Belis",
+                        "year":  "1986",
+                        "publisher_or_journal":  "Klincksieck, Paris",
+                        "identifier":  "monografia accademica",
+                        "pages":  "intero volume",
+                        "grade":  "B"
+                    }
+                ],
+    "documents":  [
+                      {
+                          "document_id":  "DOC-ATHENS-ARISTOXENUS-DATA",
+                          "label":  "Dati documentati dell\u0027armonica aristossenica",
+                          "path":  "../documenti/DATI_DOCUMENTATI_ARISTOSSENO.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-ATHENS-ARISTOXENUS-METHOD",
+                          "label":  "Nota metodologica sul doppio tetracordo",
+                          "path":  "../documenti/NOTA_METODOLOGICA_DIATONICO_TESO.txt",
+                          "type":  "text"
+                      }
+                  ]
+}

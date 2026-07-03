@@ -1,0 +1,232 @@
+﻿{
+    "schema_version":  1,
+    "record_type":  "center_music_profile",
+    "profile_id":  "P7-ASW-ISTANBUL-HAMPARSUM-RAST-DOCUMENTED",
+    "record_status":  "documentato",
+    "scope":  {
+                  "type":  "inhabited_center",
+                  "center_id":  "ISTANBUL_OTTOMAN_TANZIMAT",
+                  "center_label":  "Istanbul ottomana e Tanzimat",
+                  "folder_name":  "01_Istanbul_Ottomana_Tanzimat"
+              },
+    "period":  {
+                   "id":  "P7",
+                   "label":  "1800–1900 — Industrializzazione iniz…",
+                   "order":  7,
+                   "documented_subrange":  "XIX secolo, circa 1813-1890"
+               },
+    "area":  {
+                 "id":  "ASW_IRAN",
+                 "label":  "Asia sud-occidentale e altopiano iranico"
+             },
+    "documentation":  {
+                          "status":  "documentato",
+                          "confidence":  "alta_per_contesto_notazione_e_corpus_manoscritto; media_alta_per_continuita_modale; bassa_per_12tet_e_altezza_assoluta",
+                          "statement":  "Il profilo documenta Hamparsum Limonciyan, la notazione Hamparsum e la sua funzione nella trasmissione manoscritta del repertorio ottomano del XIX secolo a Istanbul.",
+                          "chronology_status":  "compatibile",
+                          "chronology_statement":  "L\u0027elaborazione della notazione all\u0027inizio del XIX secolo e il suo impiego ottocentesco rientrano nel P7.",
+                          "geography_status":  "compatibile",
+                          "geography_relation":  "nel_centro",
+                          "geography_statement":  "Limonciyan nacque e operò a Istanbul; il sistema e il corpus sono strettamente collegati ai circuiti musicali della città.",
+                          "historical_system_resolvable":  true,
+                          "limitation_note":  "È risolvibile il sistema di notazione e la sua relazione con repertorio e perdes; non è risolvibile come unica accordatura in cent o come scala 12-TET."
+                      },
+    "review":  {
+                   "status":  "pubblicato_con_notazione_documentata_e_cautela_intonativa",
+                   "reviewer":  "Michele Scattolin - verifica finale richiesta",
+                   "last_reviewed":  "2026-07-03T11:32:02.5324626+02:00",
+                   "next_action":  "Controllare che l\u0027interfaccia distingua segno Hamparsum, perde, funzione modale, trascrizione occidentale e riduzione 12-TET."
+               },
+    "extensions":  {
+                       "storage_model":  "center_local_documented_package",
+                       "package_directory":  "dati/musica_documentata",
+                       "historical_author":  "Hamparsum Limonciyan",
+                       "historical_corpus":  "manoscritti in notazione Hamparsum",
+                       "modal_system":  "makam",
+                       "selected_makam":  "Rast come profilo comparativo",
+                       "notation":  "Hamparsum",
+                       "continuity_from_profile":  "P6-ASW-ISTANBUL-KANTEMIR-RAST-DOCUMENTED"
+                   },
+    "musical_evidence":  [
+                             {
+                                 "evidence_id":  "EVID-ISTANBUL-HAMPARSUM-CONTEXT",
+                                 "type":  "center_tradition",
+                                 "status":  "documentato",
+                                 "statement":  "Hamparsum Limonciyan operò nel contesto musicale armeno e ottomano di Istanbul fra la fine del XVIII e la prima metà del XIX secolo.",
+                                 "source_ids":  [
+                                                    "SRC-ISTANBUL-HAMPARSUM-JAGER-1996",
+                                                    "SRC-ISTANBUL-HAMPARSUM-KARAMAHMUTOGLU-ND",
+                                                    "SRC-ISTANBUL-HAMPARSUM-REINHARD-1984"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-ISTANBUL-HAMPARSUM-NOTATION",
+                                 "type":  "notation_system",
+                                 "status":  "documentato",
+                                 "statement":  "La notazione Hamparsum divenne uno dei principali sistemi di scrittura per repertori ottomani e armeni nel XIX secolo.",
+                                 "source_ids":  [
+                                                    "SRC-ISTANBUL-HAMPARSUM-JAGER-1996",
+                                                    "SRC-ISTANBUL-HAMPARSUM-KARABASOGLU-2015",
+                                                    "SRC-ISTANBUL-HAMPARSUM-KARAMAHMUTOGLU-ND"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-ISTANBUL-HAMPARSUM-MANUSCRIPTS",
+                                 "type":  "notation_and_repertory",
+                                 "status":  "documentato",
+                                 "statement":  "Le fonti manoscritte Hamparsum costituiscono un corpus fondamentale per lo studio del repertorio di musica d\u0027arte ottomana ottocentesca.",
+                                 "source_ids":  [
+                                                    "SRC-ISTANBUL-HAMPARSUM-JAGER-1996",
+                                                    "SRC-ISTANBUL-HAMPARSUM-REINHARD-1984",
+                                                    "SRC-ISTANBUL-HAMPARSUM-FELDMAN-2024"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-ISTANBUL-HAMPARSUM-RAST-CONTINUITY",
+                                 "type":  "tradition_scale",
+                                 "status":  "sintesi",
+                                 "statement":  "Rast è mantenuto come profilo di continuità fra Kantemiroğlu e il corpus Hamparsum; perdes e funzioni modali non implicano identità di intonazione o trascrizione.",
+                                 "source_ids":  [
+                                                    "SRC-ISTANBUL-HAMPARSUM-JAGER-1996",
+                                                    "SRC-ISTANBUL-HAMPARSUM-SIGNELL-1977",
+                                                    "SRC-ISTANBUL-HAMPARSUM-REINHARD-1984",
+                                                    "SRC-ISTANBUL-HAMPARSUM-FELDMAN-2024"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-ISTANBUL-HAMPARSUM-12TET-LIMIT",
+                                 "type":  "interpretation_limit",
+                                 "status":  "sintesi",
+                                 "statement":  "La mappatura Sol-La-Si-Do-Re-Mi-Fa# non è una trascrizione diplomatica del sistema Hamparsum e non conserva l\u0027intonazione storica.",
+                                 "source_ids":  [
+                                                    "SRC-ISTANBUL-HAMPARSUM-JAGER-1996",
+                                                    "SRC-ISTANBUL-HAMPARSUM-SIGNELL-1977",
+                                                    "SRC-ISTANBUL-HAMPARSUM-KARABASOGLU-2015"
+                                                ]
+                             }
+                         ],
+    "tradition_links":  [
+                            {
+                                "tradition_id":  "ISTANBUL_TANZIMAT_HAMPARSUM_MANUSCRIPT_TRADITION",
+                                "relation_status":  "documentato",
+                                "relation_note":  "Collegamento riferito a Limonciyan, alla notazione Hamparsum e al corpus manoscritto istanbuliota; non a ogni pratica musicale ottomana o armena.",
+                                "source_ids":  [
+                                                   "SRC-ISTANBUL-HAMPARSUM-JAGER-1996",
+                                                   "SRC-ISTANBUL-HAMPARSUM-KARABASOGLU-2015",
+                                                   "SRC-ISTANBUL-HAMPARSUM-KARAMAHMUTOGLU-ND",
+                                                   "SRC-ISTANBUL-HAMPARSUM-REINHARD-1984",
+                                                   "SRC-ISTANBUL-HAMPARSUM-FELDMAN-2024"
+                                               ]
+                            }
+                        ],
+    "scale_links":  [
+                        {
+                            "scale_id":  "ISTANBUL_HAMPARSUM_RAST_NOTATED_PROFILE",
+                            "relation_status":  "sintesi_documentata",
+                            "relation_note":  "Il profilo Rast collega le perdes nominate e le funzioni modali al corpus Hamparsum; la sequenza 12-TET è soltanto una riduzione grafica moderna.",
+                            "source_ids":  [
+                                               "SRC-ISTANBUL-HAMPARSUM-JAGER-1996",
+                                               "SRC-ISTANBUL-HAMPARSUM-SIGNELL-1977",
+                                               "SRC-ISTANBUL-HAMPARSUM-REINHARD-1984",
+                                               "SRC-ISTANBUL-HAMPARSUM-FELDMAN-2024"
+                                           ]
+                        }
+                    ],
+    "documents":  [
+                      {
+                          "document_id":  "DOC-ISTANBUL-HAMPARSUM-CENTER-SOURCES",
+                          "label":  "Fonti documentate per Istanbul e la notazione Hamparsum",
+                          "path":  "./FONTI_DOCUMENTATE.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-ISTANBUL-HAMPARSUM-CENTER-MANIFEST",
+                          "label":  "Manifesto della documentazione Istanbul Tanzimat",
+                          "path":  "./MANIFESTO_DOCUMENTAZIONE.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-ISTANBUL-HAMPARSUM-CENTER-DATA",
+                          "label":  "Dati documentati sulla notazione Hamparsum e sul profilo Rast",
+                          "path":  "./DATI_DOCUMENTATI_HAMPARSUM_RAST.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-ISTANBUL-HAMPARSUM-TRANSITIONS",
+                          "label":  "Nota sulle transizioni Kantemiroğlu-Hamparsum",
+                          "path":  "./NOTA_TRANSIZIONI_ISTANBUL_TANZIMAT.txt",
+                          "type":  "text"
+                      }
+                  ],
+    "sources":  [
+                    {
+                        "source_id":  "SRC-ISTANBUL-HAMPARSUM-JAGER-1996",
+                        "purpose":  "studio sistematico delle fonti manoscritte della musica d\u0027arte turca nel XIX secolo",
+                        "title":  "Türkische Kunstmusik und ihre handschriftlichen Quellen aus dem 19. Jahrhundert",
+                        "author":  "Ralf Martin Jäger",
+                        "year":  "1996",
+                        "publisher_or_journal":  "Verlag der Musikalienhandlung Karl Dieter Wagner, Eisenach",
+                        "identifier":  "ISBN 3-88979-072-0",
+                        "pages":  "intero volume",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-HAMPARSUM-KARABASOGLU-2015",
+                        "purpose":  "inquadramento storico dei sistemi di notazione impiegati nella musica turca",
+                        "title":  "Tradition of Notation in the History of Turkish Music",
+                        "author":  "Cemal Karabaşoğlu",
+                        "year":  "2015",
+                        "publisher_or_journal":  "Procedia - Social and Behavioral Sciences, volume 174",
+                        "identifier":  "articolo accademico",
+                        "pages":  "sezione sulla notazione Hamparsum",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-HAMPARSUM-KARAMAHMUTOGLU-ND",
+                        "purpose":  "studio specifico su Hamparsum Limonciyan e sul funzionamento della notazione",
+                        "title":  "Hamparsum Limonciyan ve Nota(lama) Sistemi",
+                        "author":  "Gülay Karamahmutoğlu",
+                        "year":  "s.d.",
+                        "publisher_or_journal":  "Müzik ve Bilim",
+                        "identifier":  "saggio musicologico",
+                        "pages":  "testo completo",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-HAMPARSUM-SIGNELL-1977",
+                        "purpose":  "analisi della pratica modale, dell\u0027intonazione e del seyir nel makam turco",
+                        "title":  "Makam: Modal Practice in Turkish Art Music",
+                        "author":  "Karl L. Signell",
+                        "year":  "1977; ristampa 1986",
+                        "publisher_or_journal":  "Asian Music Publications; Da Capo Press",
+                        "identifier":  "monografia accademica",
+                        "pages":  "intero volume",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-HAMPARSUM-REINHARD-1984",
+                        "purpose":  "inquadramento storico ed etnomusicologico della musica d\u0027arte ottomana e turca",
+                        "title":  "Musik der Türkei, Band 1: Die Kunstmusik",
+                        "author":  "Kurt Reinhard e Ursula Reinhard",
+                        "year":  "1984",
+                        "publisher_or_journal":  "Heinrichshofen, Wilhelmshaven",
+                        "identifier":  "ISBN 3-7959-0425-0",
+                        "pages":  "intero volume",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-HAMPARSUM-FELDMAN-2024",
+                        "purpose":  "continuità storica di makam, composizione, repertorio e trasmissione ottomana",
+                        "title":  "Music of the Ottoman Court: Makam, Composition and the Early Ottoman Instrumental Repertoire",
+                        "author":  "Walter Feldman",
+                        "year":  "2024",
+                        "publisher_or_journal":  "Brill",
+                        "identifier":  "edizione accademica aggiornata",
+                        "pages":  "sezioni sulla tradizione ottomana, il repertorio e la trasmissione",
+                        "grade":  "B"
+                    }
+                ],
+    "notes":  [
+                  null
+              ]
+}

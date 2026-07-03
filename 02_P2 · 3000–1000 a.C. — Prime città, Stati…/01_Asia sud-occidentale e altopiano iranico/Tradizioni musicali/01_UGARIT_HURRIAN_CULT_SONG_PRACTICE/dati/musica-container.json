@@ -1,0 +1,197 @@
+﻿{
+    "schema_version":  1,
+    "container_id":  "CONTAINER-P2-ASW-UGARIT-HURRIAN-CULT-SONG",
+    "record_status":  "documentato",
+    "area":  {
+                 "id":  "ASW",
+                 "label":  "Asia sud-occidentale e altopiano iranico"
+             },
+    "period":  {
+                   "id":  "P2",
+                   "label":  "3000–1000 a.C. — Prime città, Stati…",
+                   "order":  2
+               },
+    "tradition":  {
+                      "id":  "UGARIT_HURRIAN_CULT_SONG_PRACTICE",
+                      "label":  "Pratica dei canti cultuali hurriti di Ugarit",
+                      "historical_name":  "Etichetta descrittiva moderna; non viene proposta come denominazione indigena complessiva.",
+                      "documentation_status":  "documentato",
+                      "scope_note":  "Il record riguarda le tavolette musicali hurrite rinvenute a Ugarit, in particolare h.6. Non stabilisce una lettura melodica definitiva.",
+                      "source_ids":  [
+                                         "SRC-UGARIT-LAROCHE-1968",
+                                         "SRC-UGARIT-GUTERBOCK-1970",
+                                         "SRC-UGARIT-WEST-1994",
+                                         "SRC-UGARIT-DUCHESNE-1984"
+                                     ]
+                  },
+    "scales":  [
+                   {
+                       "scale_id":  "UGARIT_H6_NID_QABLI_FRAMEWORK",
+                       "name":  "Ugarit h.6 - quadro eptatonico nīd qabli",
+                       "documentation_status":  "documentato",
+                       "documentation_scope":  {
+                                                   "documented":  [
+                                                                      "nome dell\u0027accordatura nīd qabli nel colophon",
+                                                                      "uso di termini intervallari accadici",
+                                                                      "quadro diatonico eptatonico della teoria mesopotamica"
+                                                                  ],
+                                                   "not_documented":  [
+                                                                          "altezza assoluta",
+                                                                          "centro tonale moderno",
+                                                                          "una singola ricostruzione definitiva della melodia h.6"
+                                                                      ]
+                                               },
+                       "archaeological_context":  {
+                                                      "site":  "Ugarit, Ras Shamra",
+                                                      "approximate_date":  "XIV secolo a.C.",
+                                                      "tablet":  "h.6; frammenti RS 15.30, RS 15.49 e RS 17.387",
+                                                      "context":  "archivi del palazzo reale di Ugarit",
+                                                      "notation":  "testo hurrita con istruzioni musicali in accadico e colophon"
+                                                  },
+                       "historical_tuning":  {
+                                                 "description":  "Il colophon identifica il canto come appartenente alla configurazione nīd qabli. La notazione usa nomi di intervalli e numerali collegati al sistema eptatonico di strumenti a corde. Le realizzazioni melodiche moderne restano divergenti.",
+                                                 "tuning_name":  "nīd qabli",
+                                                 "absolute_pitch":  "non documentata",
+                                                 "tonal_center":  "non determinabile con sicurezza",
+                                                 "melodic_reconstruction_status":  "controversa",
+                                                 "source_ids":  [
+                                                                    "SRC-UGARIT-LAROCHE-1968",
+                                                                    "SRC-UGARIT-GUTERBOCK-1970",
+                                                                    "SRC-UGARIT-WEST-1994",
+                                                                    "SRC-UGARIT-DUCHESNE-1984"
+                                                                ],
+                                                 "measured_natural_sequence":  [
+
+                                                                               ],
+                                                 "measured_intervals_cents":  [
+
+                                                                              ],
+                                                 "scale_degrees_from_keynote":  [
+
+                                                                                ]
+                                             },
+                       "center":  {
+                                      "label":  "Do",
+                                      "type":  "riferimento convenzionale 12-TET, non storico",
+                                      "pitch_class":  0,
+                                      "historical_reference":  "centro assoluto non documentato"
+                                  },
+                       "approximation":  {
+                                             "system":  "12-TET",
+                                             "quality":  "collezione diatonica neutra usata soltanto dal motore di confronto",
+                                             "warning":  "Do-Re-Mi-Fa-Sol-La-Si non costituisce una trascrizione certa della melodia h.6 e non attribuisce un\u0027altezza assoluta a Ugarit. La mappatura serve esclusivamente al confronto computazionale.",
+                                             "status":  "sintesi_operativa"
+                                         },
+                       "harmonization":  {
+                                             "status":  "proposta_moderna",
+                                             "method":  "triadi generate dalla collezione 12-TET convenzionale",
+                                             "warning":  "Le fonti non documentano armonia funzionale o successioni di accordi per h.6. Gli accordi del software sono moderni."
+                                         },
+                       "comparison_basis":  "documented_tuning_name_and_conventional_mapping",
+                       "transition_reliability":  {
+                                                      "historical_pitch_comparison":  "bassa",
+                                                      "structural_scale_comparison":  "media",
+                                                      "twelve_tet_transition":  "bassa-media",
+                                                      "reason":  "Il nome dell\u0027accordatura e il quadro eptatonico sono documentati; altezza assoluta e trascrizione melodica no."
+                                                  },
+                       "notes_12tet":  [
+                                           "Do",
+                                           "Re",
+                                           "Mi",
+                                           "Fa",
+                                           "Sol",
+                                           "La",
+                                           "Si"
+                                       ],
+                       "pitch_classes_12tet":  [
+                                                   0,
+                                                   2,
+                                                   4,
+                                                   5,
+                                                   7,
+                                                   9,
+                                                   11
+                                               ],
+                       "source_ids":  [
+                                          "SRC-UGARIT-LAROCHE-1968",
+                                          "SRC-UGARIT-GUTERBOCK-1970",
+                                          "SRC-UGARIT-WEST-1994",
+                                          "SRC-UGARIT-DUCHESNE-1984"
+                                      ],
+                       "documents":  [
+                                         {
+                                             "document_id":  "DOC-UGARIT-H6-DATA",
+                                             "label":  "Dati documentati della tavoletta h.6",
+                                             "path":  "../documenti/DATI_DOCUMENTATI_H6.txt",
+                                             "type":  "text"
+                                         },
+                                         {
+                                             "document_id":  "DOC-UGARIT-H6-METHOD",
+                                             "label":  "Nota metodologica sulla ricostruzione",
+                                             "path":  "../documenti/NOTA_METODOLOGICA_H6.txt",
+                                             "type":  "text"
+                                         }
+                                     ]
+                   }
+               ],
+    "sources":  [
+                    {
+                        "source_id":  "SRC-UGARIT-LAROCHE-1968",
+                        "purpose":  "edizione dei testi hurriti di Ras Shamra e pubblicazione della tavoletta h.6",
+                        "title":  "Documents en langue hourrite provenant de Ras Shamra",
+                        "author":  "Emmanuel Laroche",
+                        "year":  "1968",
+                        "publisher_or_journal":  "Ugaritica V: Nouveaux textes accadiens, hourrites et ugaritiques",
+                        "identifier":  "Mission de Ras Shamra 16; Bibliotheque archeologique et historique 80",
+                        "pages":  "462-496; h.6 trascritta p. 463, testo cuneiforme p. 487",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-UGARIT-GUTERBOCK-1970",
+                        "purpose":  "analisi della notazione musicale di Ugarit",
+                        "title":  "Musical Notation in Ugarit",
+                        "author":  "Hans Gustav Guterbock",
+                        "year":  "1970",
+                        "publisher_or_journal":  "Revue d\u0027Assyriologie et d\u0027Archeologie Orientale 64",
+                        "identifier":  "articolo accademico",
+                        "pages":  "45-52",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-UGARIT-WEST-1994",
+                        "purpose":  "analisi della notazione babilonese e dei testi melodici hurriti",
+                        "title":  "The Babylonian Musical Notation and the Hurrian Melodic Texts",
+                        "author":  "M. L. West",
+                        "year":  "1994",
+                        "publisher_or_journal":  "Music \u0026 Letters 75(2)",
+                        "identifier":  "articolo accademico",
+                        "pages":  "161-179",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-UGARIT-DUCHESNE-1984",
+                        "purpose":  "studio monografico della partitura hurrita e del sistema mesopotamico",
+                        "title":  "A Hurrian Musical Score from Ugarit: The Discovery of Mesopotamian Music",
+                        "author":  "Marcelle Duchesne-Guillemin",
+                        "year":  "1984",
+                        "publisher_or_journal":  "Sources from the Ancient Near East 2/2, Undena Publications",
+                        "identifier":  "ISBN 0-89003-158-4",
+                        "pages":  "intero fascicolo",
+                        "grade":  "A"
+                    }
+                ],
+    "documents":  [
+                      {
+                          "document_id":  "DOC-UGARIT-H6-DATA",
+                          "label":  "Dati documentati della tavoletta h.6",
+                          "path":  "../documenti/DATI_DOCUMENTATI_H6.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-UGARIT-H6-METHOD",
+                          "label":  "Nota metodologica sulla ricostruzione",
+                          "path":  "../documenti/NOTA_METODOLOGICA_H6.txt",
+                          "type":  "text"
+                      }
+                  ]
+}

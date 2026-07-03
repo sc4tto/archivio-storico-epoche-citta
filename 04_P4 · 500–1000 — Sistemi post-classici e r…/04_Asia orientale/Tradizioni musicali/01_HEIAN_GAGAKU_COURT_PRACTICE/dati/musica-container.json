@@ -1,0 +1,193 @@
+﻿{
+    "schema_version":  1,
+    "container_id":  "CONTAINER-P4-EA-HEIAN-GAGAKU",
+    "record_status":  "documentato",
+    "area":  {
+                 "id":  "EA",
+                 "label":  "Asia orientale"
+             },
+    "period":  {
+                   "id":  "P4",
+                   "label":  "500–1000 — Sistemi post-classici e r…",
+                   "order":  4
+               },
+    "tradition":  {
+                      "id":  "HEIAN_GAGAKU_COURT_PRACTICE",
+                      "label":  "Pratica gagaku della corte di Heian-kyō",
+                      "historical_name":  "Gagaku e repertori di corte; etichetta del progetto per il contesto Heian-kyo.",
+                      "documentation_status":  "documentato",
+                      "scope_note":  "Il record riguarda la pratica gagaku nel contesto della corte Heian. Non definisce una singola composizione o una altezza assoluta.",
+                      "source_ids":  [
+                                         "SRC-HEIAN-GAGAKU-HARICH-SCHNEIDER-1973",
+                                         "SRC-HEIAN-GAGAKU-MALM-1959",
+                                         "SRC-HEIAN-GAGAKU-NELSON-2016",
+                                         "SRC-HEIAN-GAGAKU-UNESCO-2009"
+                                     ]
+                  },
+    "scales":  [
+                   {
+                       "scale_id":  "HEIAN_GAGAKU_YO_PENTATONIC_FRAMEWORK",
+                       "name":  "Heian-kyō gagaku - modello yo pentatonico",
+                       "documentation_status":  "documentato",
+                       "documentation_scope":  {
+                                                   "documented":  [
+                                                                      "pratica gagaku come musica di corte giapponese",
+                                                                      "sviluppo e riorganizzazione in ambito Heian",
+                                                                      "uso di modelli pentatonici descritti dalla letteratura musicologica"
+                                                                  ],
+                                                   "not_documented":  [
+                                                                          "altezza assoluta di un brano specifico",
+                                                                          "una singola esecuzione storica ricostruita",
+                                                                          "armonia accordale"
+                                                                      ]
+                                               },
+                       "historical_tuning":  {
+                                                 "description":  "Il record usa il modello yo come quadro pentatonico operativo per rappresentare una famiglia scalare attestata nella letteratura su gagaku. Non identifica un brano specifico ne una altezza assoluta della corte Heian.",
+                                                 "scale_type":  "yo",
+                                                 "interval_pattern_semitones":  [
+                                                                                    2,
+                                                                                    3,
+                                                                                    2,
+                                                                                    2,
+                                                                                    3
+                                                                                ],
+                                                 "absolute_pitch":  "non documentata per questo record",
+                                                 "tonal_center":  "convenzionale",
+                                                 "source_ids":  [
+                                                                    "SRC-HEIAN-GAGAKU-HARICH-SCHNEIDER-1973",
+                                                                    "SRC-HEIAN-GAGAKU-MALM-1959",
+                                                                    "SRC-HEIAN-GAGAKU-NELSON-2016"
+                                                                ],
+                                                 "measured_natural_sequence":  [
+
+                                                                               ],
+                                                 "measured_intervals_cents":  [
+
+                                                                              ],
+                                                 "scale_degrees_from_keynote":  [
+                                                                                    "1",
+                                                                                    "2",
+                                                                                    "4",
+                                                                                    "5",
+                                                                                    "6",
+                                                                                    "1"
+                                                                                ]
+                                             },
+                       "center":  {
+                                      "label":  "Do",
+                                      "type":  "centro convenzionale 12-TET, non altezza storica",
+                                      "pitch_class":  0,
+                                      "historical_reference":  "non determinato in questo record"
+                                  },
+                       "approximation":  {
+                                             "system":  "12-TET",
+                                             "status":  "sintesi_operativa",
+                                             "quality":  "mappatura pentatonica yo convenzionale per calcolo e confronto",
+                                             "warning":  "Do-Re-Fa-Sol-La e una mappatura moderna del profilo intervallare 2-3-2-2-3. Non identifica una altezza assoluta di Heian-kyo e non rappresenta da sola un brano gagaku specifico."
+                                         },
+                       "harmonization":  {
+                                             "status":  "proposta_moderna",
+                                             "method":  "accordi generati dal software sulla riduzione pentatonica 12-TET",
+                                             "warning":  "Le fonti non documentano armonia funzionale nel senso occidentale. Gli accordi proposti sono strumenti moderni di analisi."
+                                         },
+                       "transition_reliability":  {
+                                                      "historical_pitch_comparison":  "bassa",
+                                                      "structural_scale_comparison":  "media",
+                                                      "reason":  "La pratica di corte e il modello scalare sono documentabili; il centro assoluto e la mappatura 12-TET sono convenzionali."
+                                                  },
+                       "notes_12tet":  [
+                                           "Do",
+                                           "Re",
+                                           "Fa",
+                                           "Sol",
+                                           "La"
+                                       ],
+                       "pitch_classes_12tet":  [
+                                                   0,
+                                                   2,
+                                                   5,
+                                                   7,
+                                                   9
+                                               ],
+                       "source_ids":  [
+                                          "SRC-HEIAN-GAGAKU-HARICH-SCHNEIDER-1973",
+                                          "SRC-HEIAN-GAGAKU-MALM-1959",
+                                          "SRC-HEIAN-GAGAKU-NELSON-2016"
+                                      ],
+                       "documents":  [
+                                         {
+                                             "document_id":  "DOC-HEIAN-GAGAKU-DATA",
+                                             "label":  "Dati documentati su Heian-kyō e gagaku",
+                                             "path":  "../documenti/DATI_DOCUMENTATI_GAGAKU.txt",
+                                             "type":  "text"
+                                         },
+                                         {
+                                             "document_id":  "DOC-HEIAN-GAGAKU-METHOD",
+                                             "label":  "Nota metodologica sulla mappatura yo",
+                                             "path":  "../documenti/NOTA_METODOLOGICA_GAGAKU.txt",
+                                             "type":  "text"
+                                         }
+                                     ]
+                   }
+               ],
+    "sources":  [
+                    {
+                        "source_id":  "SRC-HEIAN-GAGAKU-HARICH-SCHNEIDER-1973",
+                        "purpose":  "storia della musica giapponese, gagaku, repertori e scale",
+                        "title":  "A History of Japanese Music",
+                        "author":  "Eta Harich-Schneider",
+                        "year":  "1973",
+                        "publisher_or_journal":  "Oxford University Press",
+                        "identifier":  "monografia accademica",
+                        "pages":  "sezioni su gagaku, ryo, ritsu e repertori di corte",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-HEIAN-GAGAKU-MALM-1959",
+                        "purpose":  "descrizione organologica e storica di gagaku e degli strumenti",
+                        "title":  "Japanese Music and Musical Instruments",
+                        "author":  "William P. Malm",
+                        "year":  "1959",
+                        "publisher_or_journal":  "Charles E. Tuttle",
+                        "identifier":  "monografia accademica",
+                        "pages":  "capitoli su gagaku e musica di corte",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-HEIAN-GAGAKU-NELSON-2016",
+                        "purpose":  "inquadramento della storia gagaku nel periodo Heian e della corte",
+                        "title":  "Gagaku: Imperial Court Music and Dance of Japan",
+                        "author":  "Steven G. Nelson",
+                        "year":  "2016",
+                        "publisher_or_journal":  "studio specialistico / voce enciclopedica accademica",
+                        "identifier":  "riferimento specialistico",
+                        "pages":  "sezioni storiche su Heian e repertori",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-HEIAN-GAGAKU-UNESCO-2009",
+                        "purpose":  "riconoscimento istituzionale della tradizione gagaku come musica e danza di corte",
+                        "title":  "Gagaku",
+                        "author":  "UNESCO Intangible Cultural Heritage",
+                        "year":  "2009",
+                        "publisher_or_journal":  "Representative List of the Intangible Cultural Heritage of Humanity",
+                        "identifier":  "iscrizione UNESCO 2009",
+                        "pages":  "scheda Gagaku",
+                        "grade":  "C"
+                    }
+                ],
+    "documents":  [
+                      {
+                          "document_id":  "DOC-HEIAN-GAGAKU-DATA",
+                          "label":  "Dati documentati su Heian-kyō e gagaku",
+                          "path":  "../documenti/DATI_DOCUMENTATI_GAGAKU.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-HEIAN-GAGAKU-METHOD",
+                          "label":  "Nota metodologica sulla mappatura yo",
+                          "path":  "../documenti/NOTA_METODOLOGICA_GAGAKU.txt",
+                          "type":  "text"
+                      }
+                  ]
+}

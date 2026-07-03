@@ -1,0 +1,55 @@
+FONTI DOCUMENTATE — ISTANBUL CONTEMPORANEA / SYMBTR / TOMATO
+========================================================================
+
+Il pacchetto distingue fonti istituzionali, corpus digitali primari e letteratura metodologica.
+
+[A] SRC-ISTANBUL-P10-ITU-TMDK
+Titolo: İTÜ Türk Musikisi Devlet Konservatuarı
+Autore: İstanbul Teknik Üniversitesi
+Anno: pagina istituzionale consultata 2026-07-03; istituzione fondata nel 1975
+Uso: contesto istituzionale contemporaneo della formazione, teoria, musicologia e tecnologia musicale a Istanbul
+URL: https://tmdk.itu.edu.tr/
+
+[A] SRC-ISTANBUL-P10-SYMBTR-REPO
+Titolo: SymbTr — Turkish Makam Music Symbolic Data Collection
+Autore: M. Kemal Karaosmanoğlu e collaboratori; repository MTG
+Anno: snapshot del repository consultato 2026-07-03
+Uso: corpus simbolico digitale, formati disponibili, dimensioni del corpus e principi di selezione
+URL: https://github.com/MTG/SymbTr
+
+[B] SRC-ISTANBUL-P10-KARAOSMANOGLU-2012
+Titolo: A Turkish makam music symbolic database for music information retrieval: SymbTr
+Autore: M. Kemal Karaosmanoğlu
+Anno: 2012
+Uso: descrizione accademica del corpus SymbTr e del suo uso nella music information retrieval
+
+[A] SRC-ISTANBUL-P10-TOMATO-REPO
+Titolo: tomato — Turkish-Ottoman Makam Music Analysis Toolbox
+Autore: Sertan Şentürk e collaboratori
+Anno: repository e documentazione consultati 2026-07-03
+Uso: strumenti documentati per analisi simbolica, audio e congiunta della musica makam ottomano-turca
+URL: https://github.com/sertansenturk/tomato
+
+[B] SRC-ISTANBUL-P10-SENTURK-2016
+Titolo: Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music
+Autore: Sertan Şentürk
+Anno: 2016
+Uso: quadro metodologico per analisi computazionale di registrazioni e partiture makam
+
+[B] SRC-ISTANBUL-P10-BOZKURT-2008
+Titolo: An Automatic Pitch Analysis Method for Turkish Maqam Music
+Autore: Barış Bozkurt
+Anno: 2008
+Uso: metodo automatico per estrazione e analisi dell’altezza nella musica makam turca
+
+[B] SRC-ISTANBUL-P10-GEDIK-BOZKURT-2010
+Titolo: Pitch-frequency histogram-based music information retrieval for Turkish music
+Autore: Ali C. Gedik e Barış Bozkurt
+Anno: 2010
+Uso: uso di istogrammi di frequenza per il riconoscimento e il recupero di musica turca
+
+[B] SRC-ISTANBUL-P10-BOZKURT-YARMAN-2009
+Titolo: Weighing Diverse Theoretical Models on Turkish Maqam Music Against Pitch Measurements
+Autore: Barış Bozkurt, Ozan Yarman, M. Kemal Karaosmanoğlu e Can Akkoç
+Anno: 2009
+Uso: confronto fra modelli teorici e picchi misurati nelle distribuzioni di altezza

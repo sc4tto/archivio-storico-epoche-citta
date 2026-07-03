@@ -1,0 +1,203 @@
+﻿{
+    "schema_version":  1,
+    "record_type":  "center_music_profile",
+    "profile_id":  "P3-EUR-MED-ATHENS-ARISTOXENUS-DOCUMENTED",
+    "record_status":  "documentato",
+    "scope":  {
+                  "type":  "inhabited_center",
+                  "center_id":  "ATHENS",
+                  "center_label":  "Atene",
+                  "folder_name":  "01_Atene"
+              },
+    "period":  {
+                   "id":  "P3",
+                   "label":  "1000 a.C.–500 d.C. — Imperi classici…",
+                   "order":  3,
+                   "documented_subrange":  "seconda meta del IV secolo a.C.; circa 335 a.C."
+               },
+    "area":  {
+                 "id":  "EUR_MED",
+                 "label":  "Mediterraneo europeo ed Europa centro-occidentale"
+             },
+    "documentation":  {
+                          "status":  "documentato",
+                          "confidence":  "alta_per_teoria; media_per_localizzazione_della_redazione",
+                          "statement":  "Il profilo documenta l\u0027armonica di Aristosseno nel contesto peripatetico ateniese e il doppio tetracordo diatonico teso.",
+                          "chronology_status":  "compatibile",
+                          "chronology_statement":  "L\u0027attivita di Aristosseno nella seconda meta del IV secolo a.C. rientra nel periodo P3.",
+                          "geography_status":  "compatibile",
+                          "geography_relation":  "nel_centro",
+                          "geography_statement":  "Aristosseno fu allievo di Aristotele nel contesto del Liceo ateniese. Il record non presume che ogni parte del trattato sia stata materialmente redatta ad Atene.",
+                          "historical_system_resolvable":  true,
+                          "limitation_note":  "La teoria e collegata al contesto peripatetico di Atene, ma non rappresenta tutta la musica della polis. Mi e il temperamento 12-TET sono riferimenti moderni."
+                      },
+    "review":  {
+                   "status":  "pubblicato_con_cautela_topografica",
+                   "reviewer":  "Michele Scattolin - verifica finale richiesta",
+                   "last_reviewed":  "2026-07-03T00:50:34.2757196+02:00",
+                   "next_action":  "Controllare che l\u0027interfaccia distingua le funzioni greche dai nomi modali e dalle note moderne."
+               },
+    "extensions":  {
+                       "storage_model":  "center_local_documented_package",
+                       "package_directory":  "dati/musica_documentata",
+                       "historical_author":  "Aristosseno di Taranto",
+                       "historical_work":  "Elementa harmonica",
+                       "genus":  "diatonico",
+                       "shade":  "teso"
+                   },
+    "musical_evidence":  [
+                             {
+                                 "evidence_id":  "EVID-ATHENS-ARISTOXENUS-PERIPATETIC",
+                                 "type":  "center_tradition",
+                                 "status":  "documentato",
+                                 "statement":  "Aristosseno fu allievo di Aristotele e opero nel contesto della scuola peripatetica ad Atene.",
+                                 "source_ids":  [
+                                                    "SRC-ATHENS-BARKER-SCIENCE-2007",
+                                                    "SRC-ATHENS-BELIS-1986",
+                                                    "SRC-ATHENS-MATHIESEN-1999"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-ATHENS-TENSE-DIATONIC",
+                                 "type":  "tradition_scale",
+                                 "status":  "documentato",
+                                 "statement":  "L\u0027armonica aristossenica distingue il genere diatonico e la sua forma tesa, con semitono, tono e tono nel tetracordo.",
+                                 "source_ids":  [
+                                                    "SRC-ATHENS-BARKER-GMW2-1989",
+                                                    "SRC-ATHENS-MACRAN-1902",
+                                                    "SRC-ATHENS-BARKER-SCIENCE-2007"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-ATHENS-DISJUNCT-TETRACHORDS",
+                                 "type":  "system_structure",
+                                 "status":  "documentato",
+                                 "statement":  "Due tetracordi possono essere separati dal tono disgiuntivo, producendo la struttura d\u0027ottava usata nel record.",
+                                 "source_ids":  [
+                                                    "SRC-ATHENS-BARKER-GMW2-1989",
+                                                    "SRC-ATHENS-MATHIESEN-1999"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-ATHENS-12TET-LIMIT",
+                                 "type":  "interpretation_limit",
+                                 "status":  "sintesi",
+                                 "statement":  "La sequenza Mi-Fa-Sol-La-Si-Do-Re e una rappresentazione 12-TET moderna e non un\u0027altezza assoluta antica.",
+                                 "source_ids":  [
+                                                    "SRC-ATHENS-BARKER-SCIENCE-2007",
+                                                    "SRC-ATHENS-MATHIESEN-1999"
+                                                ]
+                             }
+                         ],
+    "tradition_links":  [
+                            {
+                                "tradition_id":  "ATHENS_ARISTOXENIAN_HARMONICS",
+                                "relation_status":  "documentato",
+                                "relation_note":  "Collegamento al contesto peripatetico ateniese di Aristosseno; il luogo esatto di redazione resta distinto.",
+                                "source_ids":  [
+                                                   "SRC-ATHENS-BARKER-SCIENCE-2007",
+                                                   "SRC-ATHENS-BELIS-1986",
+                                                   "SRC-ATHENS-MATHIESEN-1999"
+                                               ]
+                            }
+                        ],
+    "scale_links":  [
+                        {
+                            "scale_id":  "ATHENS_ARISTOXENUS_TENSE_DIATONIC_OCTAVE",
+                            "relation_status":  "documentato",
+                            "relation_note":  "La struttura diatonica tesa e documentata; i nomi di nota moderni costituiscono soltanto la rappresentazione tecnica.",
+                            "source_ids":  [
+                                               "SRC-ATHENS-BARKER-GMW2-1989",
+                                               "SRC-ATHENS-MACRAN-1902",
+                                               "SRC-ATHENS-BARKER-SCIENCE-2007",
+                                               "SRC-ATHENS-MATHIESEN-1999"
+                                           ]
+                        }
+                    ],
+    "documents":  [
+                      {
+                          "document_id":  "DOC-ATHENS-CENTER-SOURCES",
+                          "label":  "Fonti documentate per Atene e Aristosseno",
+                          "path":  "./FONTI_DOCUMENTATE.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-ATHENS-CENTER-MANIFEST",
+                          "label":  "Manifesto della documentazione Atene",
+                          "path":  "./MANIFESTO_DOCUMENTAZIONE.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-ATHENS-CENTER-DATA",
+                          "label":  "Dati documentati dell\u0027armonica aristossenica",
+                          "path":  "./DATI_DOCUMENTATI_ARISTOSSENO.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-ATHENS-TRANSITIONS",
+                          "label":  "Nota sulle transizioni con Atene",
+                          "path":  "./NOTA_TRANSIZIONI_ATENE.txt",
+                          "type":  "text"
+                      }
+                  ],
+    "sources":  [
+                    {
+                        "source_id":  "SRC-ATHENS-BARKER-GMW2-1989",
+                        "purpose":  "traduzione critica dell\u0027Elementa harmonica e definizione dei generi",
+                        "title":  "Greek Musical Writings, Volume II: Harmonic and Acoustic Theory",
+                        "author":  "Andrew Barker, editor and translator",
+                        "year":  "1989",
+                        "publisher_or_journal":  "Cambridge University Press",
+                        "identifier":  "ISBN 9780521289955",
+                        "pages":  "Aristoxenus, pp. 119-189",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-ATHENS-MACRAN-1902",
+                        "purpose":  "testo greco, traduzione e commento dell\u0027opera di Aristosseno",
+                        "title":  "The Harmonics of Aristoxenus",
+                        "author":  "Henry Stewart Macran, editor and translator",
+                        "year":  "1902",
+                        "publisher_or_journal":  "Clarendon Press, Oxford",
+                        "identifier":  "edizione critica storica",
+                        "pages":  "testo completo",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-ATHENS-BARKER-SCIENCE-2007",
+                        "purpose":  "analisi specialistica della scienza armonica greca e di Aristosseno",
+                        "title":  "The Science of Harmonics in Classical Greece",
+                        "author":  "Andrew Barker",
+                        "year":  "2007",
+                        "publisher_or_journal":  "Cambridge University Press",
+                        "identifier":  "ISBN 9780521879514",
+                        "pages":  "capitoli dedicati ad Aristosseno e alla teoria dei generi",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ATHENS-MATHIESEN-1999",
+                        "purpose":  "inquadramento storico della teoria musicale greca e delle specie d\u0027ottava",
+                        "title":  "Apollo\u0027s Lyre: Greek Music and Music Theory in Antiquity and the Middle Ages",
+                        "author":  "Thomas J. Mathiesen",
+                        "year":  "1999",
+                        "publisher_or_journal":  "University of Nebraska Press",
+                        "identifier":  "ISBN 9780803230798",
+                        "pages":  "sezioni su Aristosseno, generi e sistemi",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ATHENS-BELIS-1986",
+                        "purpose":  "studio del rapporto fra Aristosseno, Aristotele e il contesto peripatetico",
+                        "title":  "Aristoxene de Tarente et Aristote: le Traite d\u0027harmonique",
+                        "author":  "Annie Belis",
+                        "year":  "1986",
+                        "publisher_or_journal":  "Klincksieck, Paris",
+                        "identifier":  "monografia accademica",
+                        "pages":  "intero volume",
+                        "grade":  "B"
+                    }
+                ],
+    "notes":  [
+                  null
+              ]
+}

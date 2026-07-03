@@ -1,0 +1,319 @@
+﻿{
+    "container_id":  "CONTAINER-P3-EUR-MED-ALEXANDRIA-PTOLEMY",
+    "schema_version":  1,
+    "record_status":  "documentato",
+    "area":  {
+                 "id":  "EUR_MED",
+                 "label":  "Mediterraneo europeo ed Europa centro-occidentale"
+             },
+    "period":  {
+                   "id":  "P3",
+                   "label":  "1000 a.C.–500 d.C. — Imperi classici…",
+                   "order":  3
+               },
+    "tradition":  {
+                      "id":  "ALEXANDRIA_PTOLEMAIC_HARMONICS",
+                      "label":  "Armonica tolemaica ad Alessandria",
+                      "historical_name":  "Etichetta descrittiva moderna riferita agli Harmonics.",
+                      "documentation_status":  "documentato",
+                      "scope_note":  "Il record riguarda la teoria armonica di Claudio Tolomeo nel contesto alessandrino. Non rappresenta tutta la prassi musicale della citta.",
+                      "source_ids":  [
+                                         "SRC-ALEXANDRIA-PTOLEMY-SOLOMON-2000",
+                                         "SRC-ALEXANDRIA-BARKER-PTOLEMY-2000",
+                                         "SRC-ALEXANDRIA-BARKER-GMW2-1989",
+                                         "SRC-ALEXANDRIA-MATHIESEN-1999",
+                                         "SRC-ALEXANDRIA-TOOMER-PTOLEMY-1975"
+                                     ]
+                  },
+    "scales":  [
+                   {
+                       "scale_id":  "ALEXANDRIA_PTOLEMY_INTENSE_DIATONIC",
+                       "name":  "Alessandria, Tolomeo - diatonico intenso per rapporti",
+                       "documentation_status":  "documentato",
+                       "comparison_basis":  "documented_exact_frequency_ratios",
+                       "documentation_scope":  {
+                                                   "documented":  [
+                                                                      "Harmonics come trattato di Claudio Tolomeo",
+                                                                      "attivita scientifica di Tolomeo ad Alessandria",
+                                                                      "genere diatonico intenso",
+                                                                      "rapporti 9:8, 10:9 e 16:15 nel tetracordo",
+                                                                      "scala relativa 1:1, 9:8, 5:4, 4:3, 3:2, 5:3, 15:8, 2:1"
+                                                                  ],
+                                                   "not_documented":  [
+                                                                          "altezza assoluta Do",
+                                                                          "frequenza di riferimento moderna",
+                                                                          "uso generalizzato della scala da parte della popolazione di Alessandria",
+                                                                          "armonia funzionale occidentale"
+                                                                      ]
+                                               },
+                       "historical_context":  {
+                                                  "city":  "Alessandria",
+                                                  "author":  "Claudio Tolomeo",
+                                                  "approximate_date":  "II secolo d.C., circa 100-170",
+                                                  "work":  "Harmonics",
+                                                  "intellectual_context":  "Alessandria romana",
+                                                  "locality_caution":  "il record collega il teorico alla citta, non ogni pratica musicale urbana"
+                                              },
+                       "historical_tuning":  {
+                                                 "description":  "Il diatonico intenso tolemaico usa rapporti razionali semplici. Il tetracordo comprende tono maggiore 9:8, tono minore 10:9 e semitono diatonico 16:15.",
+                                                 "genus":  "diatonico",
+                                                 "shade":  "intenso / syntonon",
+                                                 "theoretical_status":  "rapporti esatti nel trattato",
+                                                 "absolute_pitch":  "non documentata",
+                                                 "tonal_center":  "primo grado relativo; altezza assoluta non documentata",
+                                                 "ratio_sequence":  [
+                                                                        "1:1",
+                                                                        "9:8",
+                                                                        "5:4",
+                                                                        "4:3",
+                                                                        "3:2",
+                                                                        "5:3",
+                                                                        "15:8",
+                                                                        "2:1"
+                                                                    ],
+                                                 "step_ratios":  [
+                                                                     "9:8",
+                                                                     "10:9",
+                                                                     "16:15",
+                                                                     "9:8",
+                                                                     "10:9",
+                                                                     "9:8",
+                                                                     "16:15"
+                                                                 ],
+                                                 "calculated_sequence":  [
+                                                                             {
+                                                                                 "degree":  "1",
+                                                                                 "ratio":  "1:1",
+                                                                                 "cents":  0,
+                                                                                 "modern_equivalent":  "Do",
+                                                                                 "deviation_cents":  0
+                                                                             },
+                                                                             {
+                                                                                 "degree":  "2",
+                                                                                 "ratio":  "9:8",
+                                                                                 "cents":  203.91,
+                                                                                 "modern_equivalent":  "Re",
+                                                                                 "deviation_cents":  3.91
+                                                                             },
+                                                                             {
+                                                                                 "degree":  "3",
+                                                                                 "ratio":  "5:4",
+                                                                                 "cents":  386.314,
+                                                                                 "modern_equivalent":  "Mi",
+                                                                                 "deviation_cents":  -13.686
+                                                                             },
+                                                                             {
+                                                                                 "degree":  "4",
+                                                                                 "ratio":  "4:3",
+                                                                                 "cents":  498.045,
+                                                                                 "modern_equivalent":  "Fa",
+                                                                                 "deviation_cents":  -1.955
+                                                                             },
+                                                                             {
+                                                                                 "degree":  "5",
+                                                                                 "ratio":  "3:2",
+                                                                                 "cents":  701.955,
+                                                                                 "modern_equivalent":  "Sol",
+                                                                                 "deviation_cents":  1.955
+                                                                             },
+                                                                             {
+                                                                                 "degree":  "6",
+                                                                                 "ratio":  "5:3",
+                                                                                 "cents":  884.359,
+                                                                                 "modern_equivalent":  "La",
+                                                                                 "deviation_cents":  -15.641
+                                                                             },
+                                                                             {
+                                                                                 "degree":  "7",
+                                                                                 "ratio":  "15:8",
+                                                                                 "cents":  1088.269,
+                                                                                 "modern_equivalent":  "Si",
+                                                                                 "deviation_cents":  -11.731
+                                                                             },
+                                                                             {
+                                                                                 "degree":  "8",
+                                                                                 "ratio":  "2:1",
+                                                                                 "cents":  1200,
+                                                                                 "modern_equivalent":  "Do",
+                                                                                 "deviation_cents":  0
+                                                                             }
+                                                                         ],
+                                                 "calculated_intervals_cents":  [
+                                                                                    203.91,
+                                                                                    182.404,
+                                                                                    111.731,
+                                                                                    203.91,
+                                                                                    182.404,
+                                                                                    203.91,
+                                                                                    111.731
+                                                                                ],
+                                                 "source_ids":  [
+                                                                    "SRC-ALEXANDRIA-PTOLEMY-SOLOMON-2000",
+                                                                    "SRC-ALEXANDRIA-BARKER-PTOLEMY-2000",
+                                                                    "SRC-ALEXANDRIA-BARKER-GMW2-1989",
+                                                                    "SRC-ALEXANDRIA-MATHIESEN-1999"
+                                                                ],
+                                                 "measured_natural_sequence":  [
+
+                                                                               ],
+                                                 "measured_intervals_cents":  [
+
+                                                                              ],
+                                                 "scale_degrees_from_keynote":  [
+                                                                                    "1",
+                                                                                    "2",
+                                                                                    "3",
+                                                                                    "4",
+                                                                                    "5",
+                                                                                    "6",
+                                                                                    "7",
+                                                                                    "8"
+                                                                                ]
+                                             },
+                       "center":  {
+                                      "label":  "Do",
+                                      "type":  "primo grado relativo convenzionale",
+                                      "pitch_class":  0,
+                                      "historical_reference":  "rapporto 1:1; nessuna altezza assoluta documentata"
+                                  },
+                       "approximation":  {
+                                             "system":  "12-TET",
+                                             "status":  "approssimazione_da_rapporti_esatti",
+                                             "quality":  "arrotondamento delle altezze relative calcolate dai rapporti",
+                                             "deviations_cents":  [
+                                                                      0,
+                                                                      3.91,
+                                                                      -13.686,
+                                                                      -1.955,
+                                                                      1.955,
+                                                                      -15.641,
+                                                                      -11.731,
+                                                                      0
+                                                                  ],
+                                             "warning":  "Do-Re-Mi-Fa-Sol-La-Si conserva le classi di altezza piu vicine, ma elimina le differenze fra tono 9:8, tono 10:9 e semitono 16:15. Il Do e un riferimento relativo, non una frequenza assoluta attribuita a Tolomeo."
+                                         },
+                       "harmonization":  {
+                                             "status":  "proposta_moderna",
+                                             "method":  "triadi generate dalla riduzione 12-TET",
+                                             "warning":  "Gli Harmonics trattano rapporti, generi, tonoi e percezione. Gli accordi funzionali del software non sono una pratica storica documentata ad Alessandria."
+                                         },
+                       "transition_reliability":  {
+                                                      "historical_pitch_comparison":  "bassa",
+                                                      "interval_structure_comparison":  "alta",
+                                                      "twelve_tet_transition":  "media-alta",
+                                                      "reason":  "I rapporti relativi sono esatti e documentati; l\u0027altezza assoluta e il centro Do sono convenzionali."
+                                                  },
+                       "notes_12tet":  [
+                                           "Do",
+                                           "Re",
+                                           "Mi",
+                                           "Fa",
+                                           "Sol",
+                                           "La",
+                                           "Si"
+                                       ],
+                       "pitch_classes_12tet":  [
+                                                   0,
+                                                   2,
+                                                   4,
+                                                   5,
+                                                   7,
+                                                   9,
+                                                   11
+                                               ],
+                       "source_ids":  [
+                                          "SRC-ALEXANDRIA-PTOLEMY-SOLOMON-2000",
+                                          "SRC-ALEXANDRIA-BARKER-PTOLEMY-2000",
+                                          "SRC-ALEXANDRIA-BARKER-GMW2-1989",
+                                          "SRC-ALEXANDRIA-MATHIESEN-1999",
+                                          "SRC-ALEXANDRIA-TOOMER-PTOLEMY-1975"
+                                      ],
+                       "documents":  [
+                                         {
+                                             "document_id":  "DOC-ALEXANDRIA-PTOLEMY-DATA",
+                                             "label":  "Dati documentati del diatonico intenso",
+                                             "path":  "../documenti/DATI_DOCUMENTATI_TOLOMEO.txt",
+                                             "type":  "text"
+                                         },
+                                         {
+                                             "document_id":  "DOC-ALEXANDRIA-PTOLEMY-METHOD",
+                                             "label":  "Nota metodologica sui rapporti tolemaici",
+                                             "path":  "../documenti/NOTA_METODOLOGICA_DIATONICO_INTENSO.txt",
+                                             "type":  "text"
+                                         }
+                                     ]
+                   }
+               ],
+    "sources":  [
+                    {
+                        "source_id":  "SRC-ALEXANDRIA-PTOLEMY-SOLOMON-2000",
+                        "purpose":  "traduzione inglese completa e commentata degli Harmonics",
+                        "title":  "Ptolemy: Harmonics",
+                        "author":  "Claudius Ptolemy",
+                        "editor":  "Jon Solomon, translator and commentator",
+                        "year":  "2000",
+                        "publisher_or_journal":  "Mnemosyne Supplements 203, Brill, Leiden and Boston",
+                        "identifier":  "ISBN 9789004110465",
+                        "pages":  "testo completo; libri I-III",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-ALEXANDRIA-BARKER-PTOLEMY-2000",
+                        "purpose":  "analisi specialistica del metodo sperimentale e matematico",
+                        "title":  "Scientific Method in Ptolemy\u0027s Harmonics",
+                        "author":  "Andrew Barker",
+                        "year":  "2000",
+                        "publisher_or_journal":  "Cambridge University Press",
+                        "identifier":  "monografia accademica",
+                        "pages":  "intero volume",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ALEXANDRIA-BARKER-GMW2-1989",
+                        "purpose":  "traduzione di testi armonici greci e inquadramento della teoria",
+                        "title":  "Greek Musical Writings, Volume II: Harmonic and Acoustic Theory",
+                        "author":  "Andrew Barker, editor and translator",
+                        "year":  "1989",
+                        "publisher_or_journal":  "Cambridge University Press",
+                        "identifier":  "ISBN 9780521289955",
+                        "pages":  "sezioni su Tolomeo e la teoria armonica imperiale",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-ALEXANDRIA-MATHIESEN-1999",
+                        "purpose":  "inquadramento storico della teoria musicale greca e romana",
+                        "title":  "Apollo\u0027s Lyre: Greek Music and Music Theory in Antiquity and the Middle Ages",
+                        "author":  "Thomas J. Mathiesen",
+                        "year":  "1999",
+                        "publisher_or_journal":  "University of Nebraska Press",
+                        "identifier":  "ISBN 9780803230798",
+                        "pages":  "sezioni su Tolomeo, generi e tonoi",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ALEXANDRIA-TOOMER-PTOLEMY-1975",
+                        "purpose":  "biografia scientifica e localizzazione dell\u0027attivita ad Alessandria",
+                        "title":  "Ptolemy",
+                        "author":  "Gerald J. Toomer",
+                        "year":  "1975",
+                        "publisher_or_journal":  "Dictionary of Scientific Biography, volume 11",
+                        "identifier":  "voce biografica accademica",
+                        "pages":  "186-206",
+                        "grade":  "B"
+                    }
+                ],
+    "documents":  [
+                      {
+                          "document_id":  "DOC-ALEXANDRIA-PTOLEMY-DATA",
+                          "label":  "Dati documentati del diatonico intenso",
+                          "path":  "../documenti/DATI_DOCUMENTATI_TOLOMEO.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-ALEXANDRIA-PTOLEMY-METHOD",
+                          "label":  "Nota metodologica sui rapporti tolemaici",
+                          "path":  "../documenti/NOTA_METODOLOGICA_DIATONICO_INTENSO.txt",
+                          "type":  "text"
+                      }
+                  ]
+}

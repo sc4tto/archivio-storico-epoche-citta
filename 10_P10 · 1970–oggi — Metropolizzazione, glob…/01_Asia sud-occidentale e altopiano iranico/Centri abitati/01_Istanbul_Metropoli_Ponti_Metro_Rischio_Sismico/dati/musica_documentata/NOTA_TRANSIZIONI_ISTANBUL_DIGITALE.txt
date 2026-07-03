@@ -1,0 +1,25 @@
+NOTA SULLE TRANSIZIONI — ISTANBUL DIGITALE
+================================================
+
+P9 -> P10
+---------
+Nel P9 il sistema Arel-Ezgi-Uzdilek è presentato come codificazione teorica e
+didattica. Nel P10 la stessa codifica può diventare un livello simbolico in un
+corpus digitale, mentre le registrazioni vengono analizzate separatamente.
+
+CATENA CORRETTA
+---------------
+fonte / partitura -> codifica SymbTr -> metadati e struttura -> registrazione
+identificata -> tonica e trasposizione -> distribuzione delle altezze -> confronto
+con il modello teorico -> visualizzazione.
+
+Non è corretto saltare direttamente dalla nota scritta alla frequenza eseguita.
+Il risultato dipende dalla registrazione, dall’interprete, dalla trasposizione,
+dall’ornamentazione e dal metodo di estrazione.
+
+APERTURA NEL BROWSER
+--------------------
+Il Blocco 17 apre automaticamente la pagina index.html del centro dopo una
+installazione ammessa. Il comando APRI_CENTRO_DOPO_INSTALLAZIONE.cmd permette
+di riaprirla in seguito; se la pagina del centro non è disponibile, apre il
+pannello generale VIAGGIO_CENTRI.html.

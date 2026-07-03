@@ -2,3 +2,12 @@ _backup/
 __pycache__/
 *.pyc
 *.zip
+
+# Viaggio Musicale - file locali e temporanei
+_software/Viaggio_Musicale/backups/
+_software/Viaggio_Musicale/generated/logs/
+_software/Viaggio_Musicale/**/*.log
+_software/Viaggio_Musicale/**/*.tmp
+_software/Viaggio_Musicale/**/*.bak
+Thumbs.db
+.DS_Store

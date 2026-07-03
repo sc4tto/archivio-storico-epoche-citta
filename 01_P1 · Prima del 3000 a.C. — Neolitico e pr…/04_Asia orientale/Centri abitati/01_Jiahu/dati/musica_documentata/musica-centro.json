@@ -1,0 +1,134 @@
+﻿{
+    "schema_version":  1,
+    "record_type":  "center_music_profile",
+    "profile_id":  "P1-EA-JIAHU-MUSIC-DOCUMENTED",
+    "record_status":  "documentato",
+    "scope":  {
+                  "type":  "inhabited_center",
+                  "center_id":  "JIAHU",
+                  "center_label":  "Jiahu",
+                  "folder_name":  "01_Jiahu"
+              },
+    "period":  {
+                   "id":  "P1",
+                   "label":  "Prima del 3000 a.C. — Neolitico e pr…",
+                   "order":  1,
+                   "documented_subrange":  "Fase 2 di Jiahu, circa 6600-6200 a.C."
+               },
+    "area":  {
+                 "id":  "EA",
+                 "label":  "Asia orientale"
+             },
+    "documentation":  {
+                          "status":  "documentato",
+                          "confidence":  "alta_per_sito_e_misure; cautela_per_interpretazione_culturale",
+                          "statement":  "Il profilo documenta la pratica dei flauti ossei rinvenuti a Jiahu e la serie esatonica misurata sul flauto M282:20.",
+                          "chronology_status":  "compatibile",
+                          "chronology_statement":  "Il reperto M282:20 appartiene alla fase 2 di Jiahu, circa 6600-6200 a.C., compresa nel periodo P1.",
+                          "geography_status":  "compatibile",
+                          "geography_relation":  "nel_centro",
+                          "geography_statement":  "Il reperto proviene direttamente dal sito archeologico di Jiahu.",
+                          "historical_system_resolvable":  true,
+                          "limitation_note":  "Non viene affermata continuita con scale cinesi successive. Il nome della pratica e una etichetta descrittiva moderna."
+                      },
+    "review":  {
+                   "status":  "pubblicato_con_verifica_editoriale_richiesta",
+                   "reviewer":  "Michele Scattolin - verifica finale richiesta",
+                   "last_reviewed":  "2026-07-03T00:01:26.0223136+02:00",
+                   "next_action":  "Controllare bibliografia, dati tonali e visualizzazione prima di usare il caso come modello per altri centri."
+               },
+    "extensions":  {
+                       "storage_model":  "center_local_documented_package",
+                       "package_directory":  "dati/musica_documentata",
+                       "specific_artefact":  "M282:20"
+                   },
+    "musical_evidence":  [
+                             {
+                                 "evidence_id":  "EVID-JIAHU-FLUTES-SITE",
+                                 "type":  "center_tradition",
+                                 "status":  "documentato",
+                                 "statement":  "Piu di trenta flauti ossei multinota sono stati rinvenuti nel sito neolitico di Jiahu, in contesti delle tre fasi.",
+                                 "source_ids":  [
+                                                    "SRC-JIAHU-NATURE-1999",
+                                                    "SRC-JIAHU-ANTIQUITY-2004"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-JIAHU-M28220-SCALE",
+                                 "type":  "tradition_scale",
+                                 "status":  "documentato",
+                                 "statement":  "L\u0027analisi tonale del flauto M282:20 pubblica una nota centrale D6 -30 cent e una scala di sei classi di altezza.",
+                                 "source_ids":  [
+                                                    "SRC-JIAHU-ANTIQUITY-2004"
+                                                ]
+                             }
+                         ],
+    "tradition_links":  [
+                            {
+                                "tradition_id":  "JIAHU_BONE_FLUTE_PRACTICE",
+                                "relation_status":  "documentato",
+                                "relation_note":  "Collegamento diretto: gli strumenti sono stati rinvenuti a Jiahu.",
+                                "source_ids":  [
+                                                   "SRC-JIAHU-NATURE-1999",
+                                                   "SRC-JIAHU-ANTIQUITY-2004"
+                                               ]
+                            }
+                        ],
+    "scale_links":  [
+                        {
+                            "scale_id":  "JIAHU_M282_20_HEXATONIC",
+                            "relation_status":  "documentato",
+                            "relation_note":  "Collegamento diretto allo specifico reperto M282:20 e ai suoi test tonali.",
+                            "source_ids":  [
+                                               "SRC-JIAHU-ANTIQUITY-2004"
+                                           ]
+                        }
+                    ],
+    "documents":  [
+                      {
+                          "document_id":  "DOC-JIAHU-CENTER-SOURCES",
+                          "label":  "Fonti documentate per Jiahu",
+                          "path":  "./FONTI_DOCUMENTATE.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-JIAHU-CENTER-MANIFEST",
+                          "label":  "Manifesto della documentazione Jiahu",
+                          "path":  "./MANIFESTO_DOCUMENTAZIONE.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-JIAHU-CENTER-TONAL",
+                          "label":  "Dati tonali M282:20",
+                          "path":  "./DATI_TONALI_M282_20.txt",
+                          "type":  "text"
+                      }
+                  ],
+    "sources":  [
+                    {
+                        "source_id":  "SRC-JIAHU-NATURE-1999",
+                        "purpose":  "rinvenimento, datazione e carattere suonabile dei flauti di Jiahu",
+                        "title":  "Oldest playable musical instruments found at Jiahu early Neolithic site in China",
+                        "author":  "Juzhong Zhang; Garman Harbottle; Changsui Wang; Zhaochen Kong",
+                        "year":  "1999",
+                        "publisher_or_journal":  "Nature 401, 366-368",
+                        "identifier":  "doi:10.1038/43865",
+                        "pages":  "366-368",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-JIAHU-ANTIQUITY-2004",
+                        "purpose":  "analisi tonale, fasi cronologiche e dati del flauto M282:20",
+                        "title":  "The early development of music. Analysis of the Jiahu bone flutes",
+                        "author":  "Juzhong Zhang; Xinghua Xiao; Yun Kuen Lee",
+                        "year":  "2004",
+                        "publisher_or_journal":  "Antiquity 78(302), 769-778",
+                        "identifier":  "doi:10.1017/S0003598X00113432",
+                        "pages":  "769-778; in particolare tabelle 3 e 5",
+                        "grade":  "A"
+                    }
+                ],
+    "notes":  [
+                  null
+              ]
+}

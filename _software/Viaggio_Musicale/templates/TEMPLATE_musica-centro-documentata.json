@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "record_type": "center_music_profile",
+  "profile_id": "",
+  "record_status": "documentato",
+  "scope": {
+    "type": "inhabited_center",
+    "center_id": "",
+    "center_label": "",
+    "folder_name": ""
+  },
+  "period": {
+    "id": "",
+    "label": "",
+    "order": 0
+  },
+  "area": {
+    "id": "",
+    "label": ""
+  },
+  "documentation": {
+    "status": "documentato",
+    "confidence": "verificata_strutturalmente",
+    "statement": "",
+    "chronology_status": "compatibile",
+    "geography_status": "compatibile",
+    "geography_relation": "",
+    "historical_system_resolvable": true,
+    "method_note": "La pubblicazione indica il superamento dei controlli strutturali del progetto; la responsabilità scientifica delle affermazioni resta legata alle fonti registrate."
+  },
+  "musical_evidence": [],
+  "tradition_links": [],
+  "scale_links": [],
+  "documents": [],
+  "sources": [],
+  "review": {
+    "status": "pubblicato",
+    "reviewer": "",
+    "last_reviewed": "",
+    "next_action": "Revisione periodica delle fonti e dei collegamenti."
+  },
+  "extensions": {
+    "storage_model": "center_local_documented_package",
+    "package_directory": "dati/musica_documentata"
+  }
+}

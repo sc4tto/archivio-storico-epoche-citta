@@ -1,0 +1,417 @@
+﻿{
+    "container_id":  "CONTAINER-P9-ASW-ISTANBUL-AEU",
+    "schema_version":  1,
+    "record_status":  "documentato",
+    "area":  {
+                 "id":  "ASW_IRAN",
+                 "label":  "Asia sud-occidentale e altopiano iranico"
+             },
+    "period":  {
+                   "id":  "P9",
+                   "label":  "1945–1970 — Massima accelerazione de…",
+                   "order":  9
+               },
+    "tradition":  {
+                      "id":  "ISTANBUL_POSTWAR_AREL_EZGI_UZDILEK_THEORY",
+                      "label":  "Codificazione Arel-Ezgi-Uzdilek nella Istanbul postbellica",
+                      "historical_name":  "Etichetta descrittiva moderna per la teoria di Arel ed Ezgi e la sua diffusione didattica e istituzionale.",
+                      "documentation_status":  "documentato",
+                      "scope_note":  "Il record riguarda teoria, notazione, insegnamento e conservazione istituzionale; non rappresenta tutta la produzione musicale urbana di Istanbul fra 1945 e 1970.",
+                      "source_ids":  [
+                                         "SRC-ISTANBUL-AEU-AREL-NAZARIYAT",
+                                         "SRC-ISTANBUL-AEU-EZGI-NAZARI-AMELI",
+                                         "SRC-ISTANBUL-AEU-TDV-AREL",
+                                         "SRC-ISTANBUL-AEU-AYANGIL-2008",
+                                         "SRC-ISTANBUL-AEU-SIGNELL-1977",
+                                         "SRC-ISTANBUL-AEU-BOZKURT-2009",
+                                         "SRC-ISTANBUL-CONSERVATORY-HISTORY"
+                                     ]
+                  },
+    "scales":  [
+                   {
+                       "scale_id":  "ISTANBUL_AEU_RAST_53_COMMA_PROFILE",
+                       "name":  "Istanbul postbellica - profilo comparativo Rast nel sistema Arel-Ezgi-Uzdilek",
+                       "documentation_status":  "documentato_come_modello_teorico_con_limiti_esecutivi",
+                       "comparison_basis":  "arel_ezgi_uzdilek_24_unequal_pitch_notation_53_comma_grid_and_rast_modal_functions",
+                       "documentation_scope":  {
+                                                   "documented":  [
+                                                                      "attività teorica e didattica di Hüseyin Sadeddin Arel nel contesto del Conservatorio di Istanbul e dell\u0027İleri Türk Musikisi Konservatuvarı",
+                                                                      "pubblicazione dal 1948 della Musiki Mecmuası e serializzazione delle lezioni di teoria",
+                                                                      "sistema di ventiquattro posizioni non equidistanti per ottava collegato alla notazione Arel-Ezgi",
+                                                                      "uso di una griglia teorica di 53 comma come unità di confronto degli intervalli",
+                                                                      "continuità delle perdes, del makam e del seyir nell\u0027insegnamento della musica turca",
+                                                                      "profilo Rast come termine comparativo con il precedente modello di Rauf Yekta"
+                                                                  ],
+                                                   "not_documented":  [
+                                                                          "identità perfetta fra le posizioni teoriche e ogni esecuzione registrata",
+                                                                          "uso effettivo di tutte le 53 posizioni come scala cromatica praticata",
+                                                                          "frequenza assoluta unica per Rast",
+                                                                          "equivalenza fra Rast e Sol maggiore",
+                                                                          "riduzione del makam a una sola scala ascendente",
+                                                                          "armonia funzionale occidentale come struttura necessaria del repertorio"
+                                                                      ]
+                                               },
+                       "historical_context":  {
+                                                  "city":  "Istanbul postbellica e industrializzata",
+                                                  "authors":  [
+                                                                  "Hüseyin Sadeddin Arel",
+                                                                  "Mehmet Suphi Ezgi",
+                                                                  "Salih Murad Uzdilek"
+                                                              ],
+                                                  "approximate_date":  "1945-1970, con nucleo teorico elaborato fra gli anni Trenta e Cinquanta",
+                                                  "works":  [
+                                                                "Türk Musikisi Nazariyatı Dersleri",
+                                                                "Nazarî-Amelî Türk Musikisi"
+                                                            ],
+                                                  "institutional_context":  "Conservatorio municipale di Istanbul, Musiki Mecmuası e İleri Türk Musikisi Konservatuvarı",
+                                                  "locality_caution":  "il profilo documenta una scuola teorica e didattica radicata a Istanbul; non coincide con tutta la prassi musicale della metropoli"
+                                              },
+                       "theoretical_system":  {
+                                                  "conventional_name":  "Arel-Ezgi-Uzdilek",
+                                                  "pitch_inventory":  "24 posizioni non equidistanti per ottava nella pratica notazionale didattica",
+                                                  "comparison_grid":  "53 comma teorici per ottava",
+                                                  "important_distinction":  "ventiquattro posizioni selezionate non significano una scala pratica di cinquantatré note equidistanti",
+                                                  "notation":  "pentagramma occidentale con alterazioni microtonali collegate a diversi valori in comma",
+                                                  "pedagogical_reference":  "Çârgâh come riferimento teorico senza alterazioni; Rast mantenuto qui come profilo comparativo storico"
+                                              },
+                       "historical_tuning":  {
+                                                 "description":  "Il profilo Rast è espresso sul reticolo teorico in comma. I cent sono calcolati e non costituiscono misure dirette di esecuzioni.",
+                                                 "modal_system":  "makam turco",
+                                                 "selected_makam":  "Rast",
+                                                 "theoretical_grid":  "53 comma per ottava; posizioni 0, 9, 17, 22, 31, 40, 48, 53",
+                                                 "step_pattern":  [
+                                                                      9,
+                                                                      8,
+                                                                      5,
+                                                                      9,
+                                                                      9,
+                                                                      8,
+                                                                      5
+                                                                  ],
+                                                 "cent_formula":  "cents = comma_position * 1200 / 53",
+                                                 "absolute_pitch":  "non fissata",
+                                                 "durak":  "Rast",
+                                                 "guclu":  "Nevâ nel profilo teorico",
+                                                 "seyir":  "parte essenziale del makam e non deducibile dalla sola scala",
+                                                 "historical_perde_sequence":  [
+                                                                                   "Rast",
+                                                                                   "Dügâh",
+                                                                                   "Segâh",
+                                                                                   "Çârgâh",
+                                                                                   "Nevâ",
+                                                                                   "Hüseynî",
+                                                                                   "Evç",
+                                                                                   "Gerdâniye"
+                                                                               ],
+                                                 "calculated_sequence":  [
+                                                                             {
+                                                                                 "degree":  1,
+                                                                                 "historical_perde":  "Rast",
+                                                                                 "function":  "durak / finalis",
+                                                                                 "comma_position_53":  0,
+                                                                                 "cents_from_rast":  0.0,
+                                                                                 "modern_equivalent":  "Sol",
+                                                                                 "target_12tet_cents":  0,
+                                                                                 "deviation_from_12tet_cents":  0.0
+                                                                             },
+                                                                             {
+                                                                                 "degree":  2,
+                                                                                 "historical_perde":  "Dügâh",
+                                                                                 "function":  "seconda posizione",
+                                                                                 "comma_position_53":  9,
+                                                                                 "cents_from_rast":  203.774,
+                                                                                 "modern_equivalent":  "La",
+                                                                                 "target_12tet_cents":  200,
+                                                                                 "deviation_from_12tet_cents":  3.774
+                                                                             },
+                                                                             {
+                                                                                 "degree":  3,
+                                                                                 "historical_perde":  "Segâh",
+                                                                                 "function":  "perde caratteristica",
+                                                                                 "comma_position_53":  17,
+                                                                                 "cents_from_rast":  384.906,
+                                                                                 "modern_equivalent":  "Si",
+                                                                                 "target_12tet_cents":  400,
+                                                                                 "deviation_from_12tet_cents":  -15.094
+                                                                             },
+                                                                             {
+                                                                                 "degree":  4,
+                                                                                 "historical_perde":  "Çârgâh",
+                                                                                 "function":  "quarta posizione",
+                                                                                 "comma_position_53":  22,
+                                                                                 "cents_from_rast":  498.113,
+                                                                                 "modern_equivalent":  "Do",
+                                                                                 "target_12tet_cents":  500,
+                                                                                 "deviation_from_12tet_cents":  -1.887
+                                                                             },
+                                                                             {
+                                                                                 "degree":  5,
+                                                                                 "historical_perde":  "Nevâ",
+                                                                                 "function":  "güçlü / polo melodico",
+                                                                                 "comma_position_53":  31,
+                                                                                 "cents_from_rast":  701.887,
+                                                                                 "modern_equivalent":  "Re",
+                                                                                 "target_12tet_cents":  700,
+                                                                                 "deviation_from_12tet_cents":  1.887
+                                                                             },
+                                                                             {
+                                                                                 "degree":  6,
+                                                                                 "historical_perde":  "Hüseynî",
+                                                                                 "function":  "sesta posizione",
+                                                                                 "comma_position_53":  40,
+                                                                                 "cents_from_rast":  905.66,
+                                                                                 "modern_equivalent":  "Mi",
+                                                                                 "target_12tet_cents":  900,
+                                                                                 "deviation_from_12tet_cents":  5.66
+                                                                             },
+                                                                             {
+                                                                                 "degree":  7,
+                                                                                 "historical_perde":  "Evç",
+                                                                                 "function":  "perde acuta caratteristica",
+                                                                                 "comma_position_53":  48,
+                                                                                 "cents_from_rast":  1086.792,
+                                                                                 "modern_equivalent":  "Fa#",
+                                                                                 "target_12tet_cents":  1100,
+                                                                                 "deviation_from_12tet_cents":  -13.208
+                                                                             },
+                                                                             {
+                                                                                 "degree":  8,
+                                                                                 "historical_perde":  "Gerdâniye",
+                                                                                 "function":  "ottava del durak",
+                                                                                 "comma_position_53":  53,
+                                                                                 "cents_from_rast":  1200.0,
+                                                                                 "modern_equivalent":  "Sol",
+                                                                                 "target_12tet_cents":  1200,
+                                                                                 "deviation_from_12tet_cents":  0.0
+                                                                             }
+                                                                         ],
+                                                 "calculated_steps":  [
+                                                                          {
+                                                                              "from":  "Rast",
+                                                                              "to":  "Dügâh",
+                                                                              "commas_53":  9,
+                                                                              "cents":  203.774
+                                                                          },
+                                                                          {
+                                                                              "from":  "Dügâh",
+                                                                              "to":  "Segâh",
+                                                                              "commas_53":  8,
+                                                                              "cents":  181.132
+                                                                          },
+                                                                          {
+                                                                              "from":  "Segâh",
+                                                                              "to":  "Çârgâh",
+                                                                              "commas_53":  5,
+                                                                              "cents":  113.208
+                                                                          },
+                                                                          {
+                                                                              "from":  "Çârgâh",
+                                                                              "to":  "Nevâ",
+                                                                              "commas_53":  9,
+                                                                              "cents":  203.774
+                                                                          },
+                                                                          {
+                                                                              "from":  "Nevâ",
+                                                                              "to":  "Hüseynî",
+                                                                              "commas_53":  9,
+                                                                              "cents":  203.774
+                                                                          },
+                                                                          {
+                                                                              "from":  "Hüseynî",
+                                                                              "to":  "Evç",
+                                                                              "commas_53":  8,
+                                                                              "cents":  181.132
+                                                                          },
+                                                                          {
+                                                                              "from":  "Evç",
+                                                                              "to":  "Gerdâniye",
+                                                                              "commas_53":  5,
+                                                                              "cents":  113.208
+                                                                          }
+                                                                      ],
+                                                 "source_ids":  [
+                                                                    "SRC-ISTANBUL-AEU-AREL-NAZARIYAT",
+                                                                    "SRC-ISTANBUL-AEU-EZGI-NAZARI-AMELI",
+                                                                    "SRC-ISTANBUL-AEU-AYANGIL-2008",
+                                                                    "SRC-ISTANBUL-AEU-SIGNELL-1977",
+                                                                    "SRC-ISTANBUL-AEU-BOZKURT-2009"
+                                                                ],
+                                                 "measured_natural_sequence":  [
+
+                                                                               ],
+                                                 "measured_intervals_cents":  [
+                                                                                  null
+                                                                              ],
+                                                 "scale_degrees_from_keynote":  [
+                                                                                    null
+                                                                                ]
+                                             },
+                       "center":  {
+                                      "label":  "Sol",
+                                      "type":  "mappatura grafica moderna del durak Rast",
+                                      "pitch_class":  7,
+                                      "historical_reference":  "Rast; nessuna frequenza assoluta unica"
+                                  },
+                       "approximation":  {
+                                             "system":  "12-TET",
+                                             "status":  "riduzione_tecnica_non_storica",
+                                             "quality":  "media_per_disposizione_grafica; bassa_per_intonazione_e_funzione_modale",
+                                             "deviations_cents":  [
+                                                                      0.0,
+                                                                      3.774,
+                                                                      -15.094,
+                                                                      -1.887,
+                                                                      1.887,
+                                                                      5.66,
+                                                                      -13.208,
+                                                                      0.0
+                                                                  ],
+                                             "warning":  "La sequenza Sol-La-Si-Do-Re-Mi-Fa# non rende Segâh ed Evç come perdes temperate e non trasforma Rast in Sol maggiore."
+                                         },
+                       "harmonization":  {
+                                             "status":  "moderna_e_anacronistica",
+                                             "method":  "eventuale armonizzazione derivata dalla sola riduzione 12-TET",
+                                             "warning":  "Il modello storico è melodico-modale; gli accordi funzionali non sono deducibili dalla teoria Arel-Ezgi-Uzdilek."
+                                         },
+                       "transition_reliability":  {
+                                                      "rauf_yekta_to_arel_ezgi_notation":  "alta_per_la_storia_della_codificazione; media_per_la_conversione_tecnica",
+                                                      "named_perde_continuity":  "alta",
+                                                      "theoretical_comma_structure":  "alta",
+                                                      "historical_performance_pitch":  "media-bassa",
+                                                      "twelve_tet_transition":  "bassa",
+                                                      "reason":  "Le fonti fissano teoria, terminologia e notazione; le misure di esecuzioni mostrano che un modello teorico non coincide automaticamente con tutta la prassi."
+                                                  },
+                       "notes_12tet":  [
+                                           "Sol",
+                                           "La",
+                                           "Si",
+                                           "Do",
+                                           "Re",
+                                           "Mi",
+                                           "Fa#"
+                                       ],
+                       "pitch_classes_12tet":  [
+                                                   7,
+                                                   9,
+                                                   11,
+                                                   0,
+                                                   2,
+                                                   4,
+                                                   6
+                                               ],
+                       "source_ids":  [
+                                          "SRC-ISTANBUL-AEU-AREL-NAZARIYAT",
+                                          "SRC-ISTANBUL-AEU-EZGI-NAZARI-AMELI",
+                                          "SRC-ISTANBUL-AEU-TDV-AREL",
+                                          "SRC-ISTANBUL-AEU-AYANGIL-2008",
+                                          "SRC-ISTANBUL-AEU-SIGNELL-1977",
+                                          "SRC-ISTANBUL-AEU-BOZKURT-2009",
+                                          "SRC-ISTANBUL-CONSERVATORY-HISTORY"
+                                      ],
+                       "documents":  [
+                                         {
+                                             "document_id":  "DOC-ISTANBUL-AEU-DATA",
+                                             "label":  "Dati documentati sul sistema Arel-Ezgi-Uzdilek e sul profilo Rast",
+                                             "path":  "../documenti/DATI_DOCUMENTATI_AEU_RAST.txt",
+                                             "type":  "text"
+                                         },
+                                         {
+                                             "document_id":  "DOC-ISTANBUL-AEU-METHOD",
+                                             "label":  "Nota metodologica su 24 posizioni, 53 comma, makam e 12-TET",
+                                             "path":  "../documenti/NOTA_METODOLOGICA_AEU.txt",
+                                             "type":  "text"
+                                         }
+                                     ]
+                   }
+               ],
+    "sources":  [
+                    {
+                        "source_id":  "SRC-ISTANBUL-AEU-AREL-NAZARIYAT",
+                        "purpose":  "fonte teorica primaria per il sistema didattico, le perdes, gli intervalli, i makam e la terminologia",
+                        "title":  "Türk Musikisi Nazariyatı Dersleri",
+                        "author":  "Hüseyin Sadeddin Arel",
+                        "year":  "lezioni e pubblicazione seriale dal 1948; edizione in volume Istanbul 1968",
+                        "publisher_or_journal":  "Musiki Mecmuası; successiva edizione in volume",
+                        "identifier":  "trattato teorico primario",
+                        "grade":  "A",
+                        "url":  "https://islamansiklopedisi.org.tr/arel-huseyin-sadeddin"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-AEU-EZGI-NAZARI-AMELI",
+                        "purpose":  "fonte teorica primaria per la sistemazione teorico-pratica e il repertorio",
+                        "title":  "Nazarî-Amelî Türk Musikisi",
+                        "author":  "Mehmet Suphi Ezgi",
+                        "year":  "1933-1953",
+                        "publisher_or_journal":  "İstanbul Belediye Konservatuvarı, cinque volumi",
+                        "identifier":  "trattato teorico-pratico primario",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-AEU-TDV-AREL",
+                        "purpose":  "biografia autorevole, attività al Conservatorio di Istanbul e principi dell\u0027Arelcilik",
+                        "title":  "AREL, Hüseyin Sadeddin",
+                        "author":  "Haydar Sanal",
+                        "year":  "1991; versione elettronica corrente",
+                        "publisher_or_journal":  "TDV İslâm Ansiklopedisi",
+                        "identifier":  "voce enciclopedica specialistica",
+                        "grade":  "B",
+                        "url":  "https://islamansiklopedisi.org.tr/arel-huseyin-sadeddin"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-AEU-AYANGIL-2008",
+                        "purpose":  "storia critica della notazione occidentale applicata alla musica turca e dei sistemi di alterazione microtonale",
+                        "title":  "Western Notation in Turkish Music",
+                        "author":  "Ruhi Ayangil",
+                        "year":  "2008",
+                        "publisher_or_journal":  "Journal of the Royal Asiatic Society, third series, 18/4",
+                        "identifier":  "articolo accademico",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-AEU-SIGNELL-1977",
+                        "purpose":  "analisi di makam, seyir, intonazione e pratica modale",
+                        "title":  "Makam: Modal Practice in Turkish Art Music",
+                        "author":  "Karl L. Signell",
+                        "year":  "1977; ristampa 1986",
+                        "publisher_or_journal":  "Asian Music Publications; Da Capo Press",
+                        "identifier":  "monografia accademica",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-AEU-BOZKURT-2009",
+                        "purpose":  "confronto fra modelli teorici del makam e misure di altezza ricavate da registrazioni",
+                        "title":  "Weighing Diverse Theoretical Models on Turkish Maqam Music Against Pitch Measurements",
+                        "author":  "Barış Bozkurt, Ozan Yarman, M. Kemal Karaosmanoğlu e Can Akkoç",
+                        "year":  "2009",
+                        "publisher_or_journal":  "Journal of New Music Research, 38/1",
+                        "identifier":  "articolo accademico",
+                        "pages":  "45-70",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ISTANBUL-CONSERVATORY-HISTORY",
+                        "purpose":  "cronologia istituzionale del Darülelhan e del Conservatorio di Istanbul",
+                        "title":  "Konservatuvar Tarihçesi",
+                        "author":  "İstanbul Üniversitesi Devlet Konservatuvarı",
+                        "year":  "pagina istituzionale corrente",
+                        "publisher_or_journal":  "İstanbul Üniversitesi",
+                        "identifier":  "fonte istituzionale",
+                        "grade":  "B",
+                        "url":  "https://konservatuvar.istanbul.edu.tr/"
+                    }
+                ],
+    "documents":  [
+                      {
+                          "document_id":  "DOC-ISTANBUL-AEU-DATA",
+                          "label":  "Dati documentati sul sistema Arel-Ezgi-Uzdilek e sul profilo Rast",
+                          "path":  "../documenti/DATI_DOCUMENTATI_AEU_RAST.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-ISTANBUL-AEU-METHOD",
+                          "label":  "Nota metodologica su 24 posizioni, 53 comma, makam e 12-TET",
+                          "path":  "../documenti/NOTA_METODOLOGICA_AEU.txt",
+                          "type":  "text"
+                      }
+                  ]
+}

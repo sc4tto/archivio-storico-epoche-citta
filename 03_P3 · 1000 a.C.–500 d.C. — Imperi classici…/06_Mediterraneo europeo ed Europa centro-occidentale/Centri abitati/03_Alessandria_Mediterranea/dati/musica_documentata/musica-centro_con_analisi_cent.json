@@ -1,0 +1,387 @@
+﻿{
+    "schema_version": 1,
+    "record_type": "center_music_profile",
+    "profile_id": "P3-EUR-MED-ALEXANDRIA-PTOLEMY-DOCUMENTED",
+    "record_status": "documentato",
+    "scope": {
+        "type": "inhabited_center",
+        "center_id": "ALEXANDRIA_MEDITERRANEAN",
+        "center_label": "Alessandria mediterranea",
+        "folder_name": "03_Alessandria_Mediterranea"
+    },
+    "period": {
+        "id": "P3",
+        "label": "1000 a.C.–500 d.C. — Imperi classici…",
+        "order": 3,
+        "documented_subrange": "II secolo d.C., circa 100-170"
+    },
+    "area": {
+        "id": "EUR_MED",
+        "label": "Mediterraneo europeo ed Europa centro-occidentale"
+    },
+    "documentation": {
+        "status": "documentato",
+        "confidence": "alta_per_rapporti_e_contesto; bassa_per_altezza_assoluta",
+        "statement": "Il profilo documenta gli Harmonics di Tolomeo nel contesto alessandrino e il diatonico intenso per rapporti razionali.",
+        "chronology_status": "compatibile",
+        "chronology_statement": "L'attivita di Tolomeo nel II secolo d.C. rientra nel P3.",
+        "geography_status": "compatibile",
+        "geography_relation": "nel_centro",
+        "geography_statement": "Le osservazioni e l'attivita scientifica note di Tolomeo sono associate ad Alessandria.",
+        "historical_system_resolvable": true,
+        "limitation_note": "Il collegamento riguarda il teorico e il trattato, non tutta la musica della citta. Do e il 12-TET sono moderni."
+    },
+    "review": {
+        "status": "pubblicato_con_rapporti_esatti",
+        "reviewer": "Michele Scattolin - verifica finale richiesta",
+        "last_reviewed": "2026-07-03T01:11:44.0939307+02:00",
+        "next_action": "Controllare che l'interfaccia distingua i rapporti esatti dalla riduzione 12-TET e dall'armonizzazione moderna."
+    },
+    "extensions": {
+        "storage_model": "center_local_documented_package",
+        "package_directory": "dati/musica_documentata",
+        "historical_author": "Claudio Tolomeo",
+        "historical_work": "Harmonics",
+        "genus": "diatonico",
+        "shade": "intenso"
+    },
+    "musical_evidence": [
+        {
+            "evidence_id": "EVID-ALEXANDRIA-PTOLEMY-CONTEXT",
+            "type": "center_tradition",
+            "status": "documentato",
+            "statement": "Tolomeo visse e svolse la propria attivita scientifica nel contesto di Alessandria romana.",
+            "source_ids": [
+                "SRC-ALEXANDRIA-TOOMER-PTOLEMY-1975",
+                "SRC-ALEXANDRIA-BARKER-PTOLEMY-2000",
+                "SRC-ALEXANDRIA-MATHIESEN-1999"
+            ]
+        },
+        {
+            "evidence_id": "EVID-ALEXANDRIA-PTOLEMY-INTENSE-DIATONIC",
+            "type": "tradition_scale",
+            "status": "documentato",
+            "statement": "Gli Harmonics descrivono il diatonico intenso tramite i rapporti 9:8, 10:9 e 16:15.",
+            "source_ids": [
+                "SRC-ALEXANDRIA-PTOLEMY-SOLOMON-2000",
+                "SRC-ALEXANDRIA-BARKER-GMW2-1989",
+                "SRC-ALEXANDRIA-BARKER-PTOLEMY-2000"
+            ]
+        },
+        {
+            "evidence_id": "EVID-ALEXANDRIA-PTOLEMY-RATIO-SCALE",
+            "type": "system_structure",
+            "status": "documentato",
+            "statement": "La scala relativa usa 1:1, 9:8, 5:4, 4:3, 3:2, 5:3, 15:8 e 2:1.",
+            "source_ids": [
+                "SRC-ALEXANDRIA-PTOLEMY-SOLOMON-2000",
+                "SRC-ALEXANDRIA-BARKER-GMW2-1989",
+                "SRC-ALEXANDRIA-MATHIESEN-1999"
+            ]
+        },
+        {
+            "evidence_id": "EVID-ALEXANDRIA-PTOLEMY-12TET-LIMIT",
+            "type": "interpretation_limit",
+            "status": "sintesi",
+            "statement": "La mappatura Do-Re-Mi-Fa-Sol-La-Si elimina le differenze microtonali dei rapporti esatti.",
+            "source_ids": [
+                "SRC-ALEXANDRIA-PTOLEMY-SOLOMON-2000",
+                "SRC-ALEXANDRIA-BARKER-PTOLEMY-2000"
+            ]
+        }
+    ],
+    "tradition_links": [
+        {
+            "tradition_id": "ALEXANDRIA_PTOLEMAIC_HARMONICS",
+            "relation_status": "documentato",
+            "relation_note": "Collegamento riferito a Tolomeo e al suo ambiente scientifico alessandrino, non a ogni pratica musicale urbana.",
+            "source_ids": [
+                "SRC-ALEXANDRIA-TOOMER-PTOLEMY-1975",
+                "SRC-ALEXANDRIA-BARKER-PTOLEMY-2000",
+                "SRC-ALEXANDRIA-MATHIESEN-1999"
+            ]
+        }
+    ],
+    "scale_links": [
+        {
+            "scale_id": "ALEXANDRIA_PTOLEMY_INTENSE_DIATONIC",
+            "relation_status": "documentato",
+            "relation_note": "I rapporti sono documentati nel trattato; Do e il 12-TET sono rappresentazioni tecniche separate.",
+            "source_ids": [
+                "SRC-ALEXANDRIA-PTOLEMY-SOLOMON-2000",
+                "SRC-ALEXANDRIA-BARKER-GMW2-1989",
+                "SRC-ALEXANDRIA-BARKER-PTOLEMY-2000"
+            ]
+        }
+    ],
+    "derived_tuning_analysis": {
+        "analysis_id": "ANALYSIS-ALEXANDRIA-PTOLEMY-CENTS-12TET",
+        "status": "derivato_da_rapporti_esatti",
+        "historical_status": "calcolo_moderno_su_dato_storico",
+        "calculation": {
+            "formula": "cents = 1200 * log2(ratio)",
+            "reference_ratio": "1:1",
+            "reference_type": "tonica_relativa",
+            "absolute_pitch_assumed": false,
+            "rounding_decimals": 3
+        },
+        "comparison_12tet": {
+            "status": "rappresentazione_moderna_convenzionale",
+            "mapping": "Do-Re-Mi-Fa-Sol-La-Si-Do",
+            "sign_convention": "Scarto positivo: il rapporto storico è più acuto del grado 12-TET; scarto negativo: è più grave.",
+            "interpretation_note": "Le etichette 12-TET non sostituiscono i rapporti storici e non implicano un'altezza assoluta."
+        },
+        "degrees": [
+            {
+                "degree": 1,
+                "ratio": "1:1",
+                "label_12tet": "Do",
+                "cents_from_tonic": 0.0,
+                "target_12tet_cents": 0,
+                "deviation_from_12tet_cents": 0.0
+            },
+            {
+                "degree": 2,
+                "ratio": "9:8",
+                "label_12tet": "Re",
+                "cents_from_tonic": 203.91,
+                "target_12tet_cents": 200,
+                "deviation_from_12tet_cents": 3.91
+            },
+            {
+                "degree": 3,
+                "ratio": "5:4",
+                "label_12tet": "Mi",
+                "cents_from_tonic": 386.314,
+                "target_12tet_cents": 400,
+                "deviation_from_12tet_cents": -13.686
+            },
+            {
+                "degree": 4,
+                "ratio": "4:3",
+                "label_12tet": "Fa",
+                "cents_from_tonic": 498.045,
+                "target_12tet_cents": 500,
+                "deviation_from_12tet_cents": -1.955
+            },
+            {
+                "degree": 5,
+                "ratio": "3:2",
+                "label_12tet": "Sol",
+                "cents_from_tonic": 701.955,
+                "target_12tet_cents": 700,
+                "deviation_from_12tet_cents": 1.955
+            },
+            {
+                "degree": 6,
+                "ratio": "5:3",
+                "label_12tet": "La",
+                "cents_from_tonic": 884.359,
+                "target_12tet_cents": 900,
+                "deviation_from_12tet_cents": -15.641
+            },
+            {
+                "degree": 7,
+                "ratio": "15:8",
+                "label_12tet": "Si",
+                "cents_from_tonic": 1088.269,
+                "target_12tet_cents": 1100,
+                "deviation_from_12tet_cents": -11.731
+            },
+            {
+                "degree": 8,
+                "ratio": "2:1",
+                "label_12tet": "Do",
+                "cents_from_tonic": 1200.0,
+                "target_12tet_cents": 1200,
+                "deviation_from_12tet_cents": 0.0
+            }
+        ],
+        "steps": [
+            {
+                "from_degree": 1,
+                "to_degree": 2,
+                "from_label_12tet": "Do",
+                "to_label_12tet": "Re",
+                "ratio": "9:8",
+                "cents": 203.91,
+                "target_12tet_cents": 200,
+                "deviation_from_12tet_cents": 3.91
+            },
+            {
+                "from_degree": 2,
+                "to_degree": 3,
+                "from_label_12tet": "Re",
+                "to_label_12tet": "Mi",
+                "ratio": "10:9",
+                "cents": 182.404,
+                "target_12tet_cents": 200,
+                "deviation_from_12tet_cents": -17.596
+            },
+            {
+                "from_degree": 3,
+                "to_degree": 4,
+                "from_label_12tet": "Mi",
+                "to_label_12tet": "Fa",
+                "ratio": "16:15",
+                "cents": 111.731,
+                "target_12tet_cents": 100,
+                "deviation_from_12tet_cents": 11.731
+            },
+            {
+                "from_degree": 4,
+                "to_degree": 5,
+                "from_label_12tet": "Fa",
+                "to_label_12tet": "Sol",
+                "ratio": "9:8",
+                "cents": 203.91,
+                "target_12tet_cents": 200,
+                "deviation_from_12tet_cents": 3.91
+            },
+            {
+                "from_degree": 5,
+                "to_degree": 6,
+                "from_label_12tet": "Sol",
+                "to_label_12tet": "La",
+                "ratio": "10:9",
+                "cents": 182.404,
+                "target_12tet_cents": 200,
+                "deviation_from_12tet_cents": -17.596
+            },
+            {
+                "from_degree": 6,
+                "to_degree": 7,
+                "from_label_12tet": "La",
+                "to_label_12tet": "Si",
+                "ratio": "9:8",
+                "cents": 203.91,
+                "target_12tet_cents": 200,
+                "deviation_from_12tet_cents": 3.91
+            },
+            {
+                "from_degree": 7,
+                "to_degree": 8,
+                "from_label_12tet": "Si",
+                "to_label_12tet": "Do",
+                "ratio": "16:15",
+                "cents": 111.731,
+                "target_12tet_cents": 100,
+                "deviation_from_12tet_cents": 11.731
+            }
+        ],
+        "summary": {
+            "octave_closure_cents": 1200.0,
+            "largest_absolute_degree_deviation_cents": 15.641,
+            "largest_degree_deviation_at_degree": 6,
+            "largest_degree_deviation_label_12tet": "La",
+            "largest_absolute_step_deviation_cents": 17.596,
+            "largest_step_deviation_ratio": "10:9",
+            "largest_step_deviation_occurrences": [
+                {
+                    "from_degree": 2,
+                    "to_degree": 3
+                },
+                {
+                    "from_degree": 5,
+                    "to_degree": 6
+                }
+            ]
+        },
+        "display_guidance": {
+            "primary_value": "ratio",
+            "secondary_value": "cents_from_tonic",
+            "comparison_value": "deviation_from_12tet_cents",
+            "required_badges": [
+                "rapporto_storico_documentato",
+                "cent_calcolati",
+                "12tet_convenzionale"
+            ],
+            "warning": "Non presentare Do o le frequenze in Hz come dati storici; l'altezza assoluta resta non determinata."
+        }
+    },
+    "documents": [
+        {
+            "document_id": "DOC-ALEXANDRIA-CENTER-SOURCES",
+            "label": "Fonti documentate per Alessandria e Tolomeo",
+            "path": "./FONTI_DOCUMENTATE.txt",
+            "type": "text"
+        },
+        {
+            "document_id": "DOC-ALEXANDRIA-CENTER-MANIFEST",
+            "label": "Manifesto della documentazione Alessandria",
+            "path": "./MANIFESTO_DOCUMENTAZIONE.txt",
+            "type": "text"
+        },
+        {
+            "document_id": "DOC-ALEXANDRIA-CENTER-DATA",
+            "label": "Dati documentati del diatonico intenso",
+            "path": "./DATI_DOCUMENTATI_TOLOMEO.txt",
+            "type": "text"
+        },
+        {
+            "document_id": "DOC-ALEXANDRIA-TRANSITIONS",
+            "label": "Nota sulle transizioni con Alessandria",
+            "path": "./NOTA_TRANSIZIONI_ALESSANDRIA.txt",
+            "type": "text"
+        }
+    ],
+    "sources": [
+        {
+            "source_id": "SRC-ALEXANDRIA-PTOLEMY-SOLOMON-2000",
+            "purpose": "traduzione inglese completa e commentata degli Harmonics",
+            "title": "Ptolemy: Harmonics",
+            "author": "Claudius Ptolemy",
+            "editor": "Jon Solomon, translator and commentator",
+            "year": "2000",
+            "publisher_or_journal": "Mnemosyne Supplements 203, Brill, Leiden and Boston",
+            "identifier": "ISBN 9789004110465",
+            "pages": "testo completo; libri I-III",
+            "grade": "A"
+        },
+        {
+            "source_id": "SRC-ALEXANDRIA-BARKER-PTOLEMY-2000",
+            "purpose": "analisi specialistica del metodo sperimentale e matematico",
+            "title": "Scientific Method in Ptolemy's Harmonics",
+            "author": "Andrew Barker",
+            "year": "2000",
+            "publisher_or_journal": "Cambridge University Press",
+            "identifier": "monografia accademica",
+            "pages": "intero volume",
+            "grade": "B"
+        },
+        {
+            "source_id": "SRC-ALEXANDRIA-BARKER-GMW2-1989",
+            "purpose": "traduzione di testi armonici greci e inquadramento della teoria",
+            "title": "Greek Musical Writings, Volume II: Harmonic and Acoustic Theory",
+            "author": "Andrew Barker, editor and translator",
+            "year": "1989",
+            "publisher_or_journal": "Cambridge University Press",
+            "identifier": "ISBN 9780521289955",
+            "pages": "sezioni su Tolomeo e la teoria armonica imperiale",
+            "grade": "A"
+        },
+        {
+            "source_id": "SRC-ALEXANDRIA-MATHIESEN-1999",
+            "purpose": "inquadramento storico della teoria musicale greca e romana",
+            "title": "Apollo's Lyre: Greek Music and Music Theory in Antiquity and the Middle Ages",
+            "author": "Thomas J. Mathiesen",
+            "year": "1999",
+            "publisher_or_journal": "University of Nebraska Press",
+            "identifier": "ISBN 9780803230798",
+            "pages": "sezioni su Tolomeo, generi e tonoi",
+            "grade": "B"
+        },
+        {
+            "source_id": "SRC-ALEXANDRIA-TOOMER-PTOLEMY-1975",
+            "purpose": "biografia scientifica e localizzazione dell'attivita ad Alessandria",
+            "title": "Ptolemy",
+            "author": "Gerald J. Toomer",
+            "year": "1975",
+            "publisher_or_journal": "Dictionary of Scientific Biography, volume 11",
+            "identifier": "voce biografica accademica",
+            "pages": "186-206",
+            "grade": "B"
+        }
+    ],
+    "notes": []
+}
