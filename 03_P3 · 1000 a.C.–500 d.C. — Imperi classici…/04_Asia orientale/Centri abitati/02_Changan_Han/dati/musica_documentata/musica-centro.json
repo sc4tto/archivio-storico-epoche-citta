@@ -1,0 +1,226 @@
+﻿{
+    "schema_version":  1,
+    "record_type":  "center_music_profile",
+    "profile_id":  "P3-EAS-CHANGAN-HAN-TWELVE-LU-DOCUMENTED",
+    "record_status":  "documentato",
+    "scope":  {
+                  "type":  "inhabited_center",
+                  "center_id":  "CHANGAN_HAN",
+                  "center_label":  "Chang\u0027an Han",
+                  "folder_name":  "02_Changan_Han"
+              },
+    "period":  {
+                   "id":  "P3",
+                   "order":  3,
+                   "documented_subrange":  "II-I secolo a.C., con sistemazione storiografica nel I secolo d.C.",
+                   "label":  "1000 a.C.–500 d.C. — Imperi classici…"
+               },
+    "area":  {
+                 "id":  "EASIA",
+                 "label":  "Asia orientale"
+             },
+    "documentation":  {
+                          "status":  "documentato",
+                          "confidence":  "alta_per_sistema_testuale_e_rapporti; media_per_associazione_istituzionale_al_centro; bassa_per_altezza_assoluta",
+                          "statement":  "Il profilo documenta il sistema Han dei dodici lü nel contesto della capitale Chang\u0027an, distinguendo fonti storiche, calcoli moderni e mappatura 12-TET.",
+                          "chronology_status":  "compatibile",
+                          "chronology_statement":  "Le fonti e gli sviluppi teorici selezionati appartengono alla dinastia Han e rientrano nel P3.",
+                          "geography_status":  "compatibile",
+                          "geography_relation":  "regionale_motivata",
+                          "geography_statement":  "Chang\u0027an è usata come centro rappresentativo della corte Han occidentale; il sistema è statale e non limitato a un singolo reperto urbano.",
+                          "historical_system_resolvable":  true,
+                          "limitation_note":  "Sono risolvibili nomi, relazioni e struttura matematica; non è risolvibile una frequenza assoluta moderna universale di Huangzhong."
+                      },
+    "musical_evidence":  [
+                             {
+                                 "evidence_id":  "EVID-CHANGAN-HAN-CAPITAL-CONTEXT",
+                                 "type":  "historical_geography",
+                                 "status":  "documentato",
+                                 "statement":  "Chang\u0027an fu il principale centro politico della dinastia Han occidentale; il profilo usa questo contesto per rappresentare la teoria musicale e metrologica della corte.",
+                                 "source_ids":  [
+                                                    "SRC-CHANGAN-HAN-HANSHU-LULI-21",
+                                                    "SRC-CHANGAN-HAN-LEWIS-2007"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-CHANGAN-HAN-TWELVE-LU",
+                                 "type":  "historical_pitch_system",
+                                 "status":  "documentato",
+                                 "statement":  "Le fonti Han documentano dodici lü come standard di altezza coordinati con misure, rituale e calendario.",
+                                 "source_ids":  [
+                                                    "SRC-CHANGAN-HAN-HANSHU-LULI-21",
+                                                    "SRC-CHANGAN-HAN-HUAINANZI-TIANWEN",
+                                                    "SRC-CHANGAN-HAN-MAJOR-HUAINANZI-2010",
+                                                    "SRC-CHANGAN-HAN-BRINDLEY-2012"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-CHANGAN-HAN-THREE-TWO-CYCLE",
+                                 "type":  "tuning_calculation",
+                                 "status":  "sintesi",
+                                 "statement":  "Il profilo calcola i rapporti e i cent dei dodici lü mediante un ciclo 3:2 normalizzato nell\u0027ottava; i cent sono derivazioni moderne, non dati iscritti nelle fonti.",
+                                 "source_ids":  [
+                                                    "SRC-CHANGAN-HAN-HANSHU-LULI-21",
+                                                    "SRC-CHANGAN-HAN-HUAINANZI-TIANWEN",
+                                                    "SRC-CHANGAN-HAN-MCCLAIN-HUNG-1979"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-CHANGAN-HAN-JING-FANG",
+                                 "type":  "historical_theory",
+                                 "status":  "documentato",
+                                 "statement":  "La tradizione Han attribuisce a Jing Fang un\u0027estensione del calcolo ciclico oltre i dodici lü; il profilo cita questo sviluppo senza trasformarlo in temperamento equabile.",
+                                 "source_ids":  [
+                                                    "SRC-CHANGAN-HAN-HANSHU-LULI-21",
+                                                    "SRC-CHANGAN-HAN-MCCLAIN-HUNG-1979"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-CHANGAN-HAN-12TET-LIMIT",
+                                 "type":  "interpretation_limit",
+                                 "status":  "sintesi",
+                                 "statement":  "Le dodici classi 12-TET servono soltanto all\u0027interfaccia. Il sistema storico è ciclico e non equabile.",
+                                 "source_ids":  [
+                                                    "SRC-CHANGAN-HAN-MCCLAIN-HUNG-1979",
+                                                    "SRC-CHANGAN-HAN-BRINDLEY-2012"
+                                                ]
+                             }
+                         ],
+    "tradition_links":  [
+                            {
+                                "tradition_id":  "CHANGAN_HAN_TWELVE_LU_COURT_STANDARD",
+                                "relation_status":  "documentato",
+                                "source_ids":  [
+                                                   "SRC-CHANGAN-HAN-HANSHU-LULI-21",
+                                                   "SRC-CHANGAN-HAN-HUAINANZI-TIANWEN",
+                                                   "SRC-CHANGAN-HAN-MAJOR-HUAINANZI-2010",
+                                                   "SRC-CHANGAN-HAN-MCCLAIN-HUNG-1979",
+                                                   "SRC-CHANGAN-HAN-BRINDLEY-2012",
+                                                   "SRC-CHANGAN-HAN-LEWIS-2007"
+                                               ],
+                                "relation_note":  "La tradizione rappresenta il sistema di standard di altezza della cultura di corte Han associato istituzionalmente alla capitale Chang\u0027an."
+                            }
+                        ],
+    "scale_links":  [
+                        {
+                            "scale_id":  "CHANGAN_HAN_SHIER_LU_SANFEN_SUNYI_FRAMEWORK",
+                            "relation_status":  "documentato",
+                            "source_ids":  [
+                                               "SRC-CHANGAN-HAN-HANSHU-LULI-21",
+                                               "SRC-CHANGAN-HAN-HUAINANZI-TIANWEN",
+                                               "SRC-CHANGAN-HAN-MAJOR-HUAINANZI-2010",
+                                               "SRC-CHANGAN-HAN-MCCLAIN-HUNG-1979",
+                                               "SRC-CHANGAN-HAN-BRINDLEY-2012"
+                                           ],
+                            "relation_note":  "Il collegamento riguarda i dodici lü e la loro generazione ciclica; la scala cromatica 12-TET visualizzata è soltanto una comparazione."
+                        }
+                    ],
+    "documents":  [
+                      {
+                          "document_id":  "DOC-CHANGAN-HAN-CENTER-SOURCES",
+                          "label":  "Fonti documentate per Chang\u0027an Han",
+                          "path":  "./FONTI_DOCUMENTATE.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-CHANGAN-HAN-CENTER-MANIFEST",
+                          "label":  "Manifesto della documentazione per Chang\u0027an Han",
+                          "path":  "./MANIFESTO_DOCUMENTAZIONE.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-CHANGAN-HAN-CENTER-DATA",
+                          "label":  "Dati documentati sui dodici lü",
+                          "path":  "./DATI_DOCUMENTATI_CHANGAN_HAN_DODICI_LU.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-CHANGAN-HAN-TRANSITIONS",
+                          "label":  "Nota sulle transizioni da e verso Chang\u0027an Han",
+                          "path":  "./NOTA_TRANSIZIONI_CHANGAN_HAN.txt",
+                          "type":  "text"
+                      }
+                  ],
+    "sources":  [
+                    {
+                        "source_id":  "SRC-CHANGAN-HAN-HANSHU-LULI-21",
+                        "purpose":  "fonte primaria Han sui diapason, sui dodici lü e sul rapporto fra standard musicali e calendario",
+                        "title":  "Hanshu (Libro degli Han), juan 21, Lüli zhi",
+                        "author":  "Ban Gu e continuatori della storia dinastica Han",
+                        "year":  "I secolo d.C.",
+                        "publisher_or_journal":  "tradizione testuale del Hanshu",
+                        "identifier":  "漢書卷二十一・律曆志",
+                        "pages":  "juan 21, parti superiore e inferiore",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-CHANGAN-HAN-HUAINANZI-TIANWEN",
+                        "purpose":  "fonte primaria del primo periodo Han sulla generazione matematica delle altezze e sulle corrispondenze cosmologiche",
+                        "title":  "Huainanzi, capitolo 3, Tianwen xun",
+                        "author":  "Liu An e ambiente della corte di Huainan",
+                        "year":  "presentato alla corte Han nel 139 a.C.",
+                        "publisher_or_journal":  "tradizione testuale del Huainanzi",
+                        "identifier":  "淮南子・天文訓",
+                        "pages":  "capitolo 3",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-CHANGAN-HAN-MAJOR-HUAINANZI-2010",
+                        "purpose":  "traduzione e commento accademico del Huainanzi, inclusa la terminologia cosmologica e musicale",
+                        "title":  "The Huainanzi: A Guide to the Theory and Practice of Government in Early Han China",
+                        "author":  "John S. Major, Sarah A. Queen, Andrew Seth Meyer e Harold D. Roth",
+                        "year":  "2010",
+                        "publisher_or_journal":  "Columbia University Press",
+                        "identifier":  "traduzione accademica integrale",
+                        "pages":  "capitolo 3 e note",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-CHANGAN-HAN-MCCLAIN-HUNG-1979",
+                        "purpose":  "analisi matematica dei cicli di quinte e delle estensioni attribuite a Jing Fang",
+                        "title":  "Chinese Cyclic Tunings in Late Antiquity",
+                        "author":  "Ernest G. McClain e Ming Shui Hung",
+                        "year":  "1979",
+                        "publisher_or_journal":  "Ethnomusicology 23(2)",
+                        "identifier":  "articolo accademico",
+                        "pages":  "205-224",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-CHANGAN-HAN-BRINDLEY-2012",
+                        "purpose":  "inquadramento storico del rapporto fra musica, cosmologia, rituale e autorità politica nella Cina antica",
+                        "title":  "Music, Cosmology, and the Politics of Harmony in Early China",
+                        "author":  "Erica Brindley",
+                        "year":  "2012",
+                        "publisher_or_journal":  "State University of New York Press",
+                        "identifier":  "monografia accademica",
+                        "pages":  "sezioni sui diapason, sulla cosmologia musicale e sull\u0027autorità statale",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-CHANGAN-HAN-LEWIS-2007",
+                        "purpose":  "contesto storico di Chang\u0027an come capitale e sede delle istituzioni della dinastia Han occidentale",
+                        "title":  "The Early Chinese Empires: Qin and Han",
+                        "author":  "Mark Edward Lewis",
+                        "year":  "2007",
+                        "publisher_or_journal":  "Harvard University Press",
+                        "identifier":  "monografia storica",
+                        "pages":  "capitoli sulle capitali e sulle istituzioni imperiali",
+                        "grade":  "B"
+                    }
+                ],
+    "review":  {
+                   "status":  "pubblicato_con_cautela_geografica_e_12tet",
+                   "reviewer":  "Michele Scattolin - verifica finale richiesta",
+                   "next_action":  "Verificare nell\u0027interfaccia che i dodici lü siano presentati come gamut di riferimento e non come temperamento equabile storico.",
+                   "last_reviewed":  "2026-07-03T14:35:23.1500625+02:00"
+               },
+    "extensions":  {
+                       "storage_model":  "center_local_documented_package",
+                       "package_directory":  "dati/musica_documentata",
+                       "historical_system":  "shi\u0027er lü",
+                       "generation_method":  "sanfen sunyi / ciclo 3:2",
+                       "reference_lu":  "Huangzhong",
+                       "comparison_mapping":  "dodici classi 12-TET convenzionali"
+                   }
+}

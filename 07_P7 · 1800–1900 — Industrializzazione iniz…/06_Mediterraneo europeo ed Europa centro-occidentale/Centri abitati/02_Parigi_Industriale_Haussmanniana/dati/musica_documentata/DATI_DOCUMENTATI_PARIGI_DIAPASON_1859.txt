@@ -1,0 +1,64 @@
+﻿PARIGI 1859 — DIAPASON NORMAL
+=============================
+
+CENTRO
+------
+Parigi industriale e haussmanniana, P7.
+
+DATO STORICO PRINCIPALE
+-----------------------
+Nel 1859 l'amministrazione francese adottò un diapason musicale uniforme.
+Il riferimento è tradizionalmente espresso come 870 "vibrations simples",
+equivalenti a 435 oscillazioni complete o cicli al secondo per il La di
+riferimento.
+
+Nel software questo La è indicato come La4 = 435 Hz. La denominazione
+scientifica dell'ottava è una convenzione moderna.
+
+TEMPERATURA
+-----------
+La letteratura tecnica associa il campione francese alla temperatura di
+15 °C. Il valore termico è conservato come metadato del riferimento.
+
+CHE COSA FISSA IL DECRETO
+-------------------------
+Il diapason normal fissa un'altezza assoluta di riferimento.
+
+Non determina da solo:
+- il temperamento completo di ogni strumento;
+- l'intonazione concreta di ogni orchestra;
+- una scala melodica;
+- una teoria armonica;
+- la superiorità estetica o fisiologica di 435 Hz.
+
+TABELLA OPERATIVA MODERNA
+-------------------------
+La seguente tabella deriva dodici classi 12-TET da A4=435 Hz e le confronta
+con le stesse classi derivate da A4=440 Hz.
+
+Ord. Nota operativa   Frequenza A=435   Frequenza A=440   Scarto
+---- ---------------- ----------------- ----------------- -----------
+   1 La4                    435.000000       440.000000 -19.785747
+   2 La diesis4             460.866446       466.163762 -19.785747
+   3 Si4                    488.270991       493.883301 -19.785747
+   4 Do5                    517.305095       523.251131 -19.785747
+   5 Do diesis5             548.065657       554.365262 -19.785747
+   6 Re5                    580.655337       587.329536 -19.785747
+   7 Mi bemolle5            615.182900       622.253967 -19.785747
+   8 Mi5                    651.763578       659.255114 -19.785747
+   9 Fa5                    690.519458       698.456463 -19.785747
+  10 Fa diesis5             731.579881       739.988845 -19.785747
+  11 Sol5                   775.081885       783.990872 -19.785747
+  12 Sol diesis5            821.170652       830.609395 -19.785747
+
+La differenza uniforme è -19.785747 cent.
+
+Queste frequenze, tranne A4=435 Hz, sono calcoli moderni per il motore del
+Viaggio Musicale. Non sono riportate come prescrizioni del 1859.
+
+AFFIDABILITÀ
+------------
+Riferimento assoluto A=435: alta.
+Data e contesto istituzionale parigino: alta.
+Applicazione uniforme nella prassi: media.
+Temperamento completo: non determinato dal solo atto.

@@ -1,0 +1,460 @@
+﻿{
+    "schema_version":  1,
+    "container_id":  "CONTAINER-P7-EUR-MED-PARIS-DIAPASON-NORMAL-1859",
+    "record_status":  "documentato",
+    "area":  {
+                 "id":  "EUR_MED",
+                 "label":  "Mediterraneo europeo ed Europa centro-occidentale"
+             },
+    "period":  {
+                   "id":  "P7",
+                   "order":  7,
+                   "label":  "1800–1900 — Industrializzazione iniz…"
+               },
+    "tradition":  {
+                      "id":  "PARIS_SECOND_EMPIRE_DIAPASON_NORMAL",
+                      "label":  "Diapason normal e standardizzazione statale dell\u0027altezza nella Parigi del Secondo Impero",
+                      "historical_name":  "diapason normal",
+                      "documentation_status":  "documentato",
+                      "scope_note":  "Il contenitore riguarda lo standard assoluto adottato nel 1859. Non rappresenta l\u0027intera pluralità delle accordature praticate a Parigi.",
+                      "source_ids":  [
+                                         "SRC-PARIS-DIAPASON-COMMISSION-1859",
+                                         "SRC-PARIS-DIAPASON-ARRETE-1859",
+                                         "SRC-PARIS-ELLIS-PITCH-1880",
+                                         "SRC-PARIS-MENDEL-PITCH-1978",
+                                         "SRC-PARIS-HAYNES-PITCH-2002"
+                                     ]
+                  },
+    "scales":  [
+                   {
+                       "scale_id":  "PARIS_1859_DIAPASON_NORMAL_A435_REFERENCE",
+                       "name":  "Parigi 1859 - diapason normal, La4 = 435 Hz",
+                       "documentation_status":  "documentato",
+                       "comparison_basis":  "documented_absolute_pitch_reference_with_operational_12tet_projection",
+                       "documentation_scope":  {
+                                                   "documented":  [
+                                                                      "adozione francese nel 1859 di un diapason musicale uniforme",
+                                                                      "riferimento del diapason normal equivalente a 435 oscillazioni complete al secondo per il La di riferimento",
+                                                                      "uso amministrativo del campione negli stabilimenti musicali dipendenti dallo Stato",
+                                                                      "contesto parigino della commissione e dell\u0027adozione normativa"
+                                                                  ],
+                                                   "not_documented":  [
+                                                                          "obbligo universale di temperamento equabile in ogni istituzione e strumento",
+                                                                          "identità fra ogni esecuzione parigina e il valore ideale di 435 Hz",
+                                                                          "conversione storica in notazione scientifica A4",
+                                                                          "superiorità estetica o fisiologica del valore 435 Hz"
+                                                                      ]
+                                               },
+                       "historical_context":  {
+                                                  "city":  "Parigi",
+                                                  "date":  "1859",
+                                                  "political_context":  "Secondo Impero francese",
+                                                  "institutional_context":  "commissione e amministrazione statale per l\u0027uniformazione del diapason",
+                                                  "temperature_note":  "la letteratura tecnica associa il campione francese alla temperatura di 15 °C"
+                                              },
+                       "historical_tuning":  {
+                                                 "description":  "Il diapason normal fissa un\u0027altezza assoluta di riferimento. Non definisce da solo una scala completa né un temperamento per ogni strumento.",
+                                                 "historical_name":  "diapason normal",
+                                                 "reference_note_historical":  "la",
+                                                 "reference_note_software":  "La4",
+                                                 "reference_frequency_hz":  435.0,
+                                                 "historical_vibration_terminology":  "870 vibrations simples, equivalenti a 435 oscillazioni complete o cicli al secondo",
+                                                 "temperature_celsius":  15,
+                                                 "absolute_pitch_status":  "documentato",
+                                                 "temperament_status":  "non determinato dal solo atto del 1859",
+                                                 "frequency_table_12tet":  [
+                                                                               {
+                                                                                   "order":  1,
+                                                                                   "note_12tet":  "La4",
+                                                                                   "pitch_class_12tet":  9,
+                                                                                   "frequency_hz_from_a4_435":  435.0,
+                                                                                   "frequency_hz_from_a4_440":  440.0,
+                                                                                   "difference_from_a440_cents":  -19.785747,
+                                                                                   "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                               },
+                                                                               {
+                                                                                   "order":  2,
+                                                                                   "note_12tet":  "La diesis4",
+                                                                                   "pitch_class_12tet":  10,
+                                                                                   "frequency_hz_from_a4_435":  460.866446,
+                                                                                   "frequency_hz_from_a4_440":  466.163762,
+                                                                                   "difference_from_a440_cents":  -19.785747,
+                                                                                   "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                               },
+                                                                               {
+                                                                                   "order":  3,
+                                                                                   "note_12tet":  "Si4",
+                                                                                   "pitch_class_12tet":  11,
+                                                                                   "frequency_hz_from_a4_435":  488.270991,
+                                                                                   "frequency_hz_from_a4_440":  493.883301,
+                                                                                   "difference_from_a440_cents":  -19.785747,
+                                                                                   "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                               },
+                                                                               {
+                                                                                   "order":  4,
+                                                                                   "note_12tet":  "Do5",
+                                                                                   "pitch_class_12tet":  0,
+                                                                                   "frequency_hz_from_a4_435":  517.305095,
+                                                                                   "frequency_hz_from_a4_440":  523.251131,
+                                                                                   "difference_from_a440_cents":  -19.785747,
+                                                                                   "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                               },
+                                                                               {
+                                                                                   "order":  5,
+                                                                                   "note_12tet":  "Do diesis5",
+                                                                                   "pitch_class_12tet":  1,
+                                                                                   "frequency_hz_from_a4_435":  548.065657,
+                                                                                   "frequency_hz_from_a4_440":  554.365262,
+                                                                                   "difference_from_a440_cents":  -19.785747,
+                                                                                   "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                               },
+                                                                               {
+                                                                                   "order":  6,
+                                                                                   "note_12tet":  "Re5",
+                                                                                   "pitch_class_12tet":  2,
+                                                                                   "frequency_hz_from_a4_435":  580.655337,
+                                                                                   "frequency_hz_from_a4_440":  587.329536,
+                                                                                   "difference_from_a440_cents":  -19.785747,
+                                                                                   "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                               },
+                                                                               {
+                                                                                   "order":  7,
+                                                                                   "note_12tet":  "Mi bemolle5",
+                                                                                   "pitch_class_12tet":  3,
+                                                                                   "frequency_hz_from_a4_435":  615.1829,
+                                                                                   "frequency_hz_from_a4_440":  622.253967,
+                                                                                   "difference_from_a440_cents":  -19.785747,
+                                                                                   "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                               },
+                                                                               {
+                                                                                   "order":  8,
+                                                                                   "note_12tet":  "Mi5",
+                                                                                   "pitch_class_12tet":  4,
+                                                                                   "frequency_hz_from_a4_435":  651.763578,
+                                                                                   "frequency_hz_from_a4_440":  659.255114,
+                                                                                   "difference_from_a440_cents":  -19.785747,
+                                                                                   "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                               },
+                                                                               {
+                                                                                   "order":  9,
+                                                                                   "note_12tet":  "Fa5",
+                                                                                   "pitch_class_12tet":  5,
+                                                                                   "frequency_hz_from_a4_435":  690.519458,
+                                                                                   "frequency_hz_from_a4_440":  698.456463,
+                                                                                   "difference_from_a440_cents":  -19.785747,
+                                                                                   "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                               },
+                                                                               {
+                                                                                   "order":  10,
+                                                                                   "note_12tet":  "Fa diesis5",
+                                                                                   "pitch_class_12tet":  6,
+                                                                                   "frequency_hz_from_a4_435":  731.579881,
+                                                                                   "frequency_hz_from_a4_440":  739.988845,
+                                                                                   "difference_from_a440_cents":  -19.785747,
+                                                                                   "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                               },
+                                                                               {
+                                                                                   "order":  11,
+                                                                                   "note_12tet":  "Sol5",
+                                                                                   "pitch_class_12tet":  7,
+                                                                                   "frequency_hz_from_a4_435":  775.081885,
+                                                                                   "frequency_hz_from_a4_440":  783.990872,
+                                                                                   "difference_from_a440_cents":  -19.785747,
+                                                                                   "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                               },
+                                                                               {
+                                                                                   "order":  12,
+                                                                                   "note_12tet":  "Sol diesis5",
+                                                                                   "pitch_class_12tet":  8,
+                                                                                   "frequency_hz_from_a4_435":  821.170652,
+                                                                                   "frequency_hz_from_a4_440":  830.609395,
+                                                                                   "difference_from_a440_cents":  -19.785747,
+                                                                                   "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                               }
+                                                                           ],
+                                                 "measured_natural_sequence":  [
+
+                                                                               ],
+                                                 "measured_intervals_cents":  [
+
+                                                                              ],
+                                                 "scale_degrees_from_keynote":  [
+                                                                                    "La4",
+                                                                                    "La diesis4",
+                                                                                    "Si4",
+                                                                                    "Do5",
+                                                                                    "Do diesis5",
+                                                                                    "Re5",
+                                                                                    "Mi bemolle5",
+                                                                                    "Mi5",
+                                                                                    "Fa5",
+                                                                                    "Fa diesis5",
+                                                                                    "Sol5",
+                                                                                    "Sol diesis5"
+                                                                                ],
+                                                 "source_ids":  [
+                                                                    "SRC-PARIS-DIAPASON-COMMISSION-1859",
+                                                                    "SRC-PARIS-DIAPASON-ARRETE-1859",
+                                                                    "SRC-PARIS-ELLIS-PITCH-1880",
+                                                                    "SRC-PARIS-MENDEL-PITCH-1978",
+                                                                    "SRC-PARIS-HAYNES-PITCH-2002"
+                                                                ]
+                                             },
+                       "center":  {
+                                      "label":  "La",
+                                      "type":  "riferimento assoluto documentato; classe 12-TET operativa",
+                                      "pitch_class":  9,
+                                      "historical_reference":  "diapason normal francese del 1859, La = 435 Hz"
+                                  },
+                       "notes_12tet":  [
+                                           "La",
+                                           "La diesis",
+                                           "Si",
+                                           "Do",
+                                           "Do diesis",
+                                           "Re",
+                                           "Mi bemolle",
+                                           "Mi",
+                                           "Fa",
+                                           "Fa diesis",
+                                           "Sol",
+                                           "Sol diesis"
+                                       ],
+                       "pitch_classes_12tet":  [
+                                                   9,
+                                                   10,
+                                                   11,
+                                                   0,
+                                                   1,
+                                                   2,
+                                                   3,
+                                                   4,
+                                                   5,
+                                                   6,
+                                                   7,
+                                                   8
+                                               ],
+                       "approximation":  {
+                                             "system":  "12-TET",
+                                             "status":  "proiezione_operativa_dal_riferimento_documentato",
+                                             "quality":  "esatta_per_il_solo_la_di_riferimento; derivata_per_le_altre_classi",
+                                             "reference_frequency_hz":  435.0,
+                                             "difference_from_a440_cents":  -19.785747,
+                                             "frequency_table":  [
+                                                                     {
+                                                                         "order":  1,
+                                                                         "note_12tet":  "La4",
+                                                                         "pitch_class_12tet":  9,
+                                                                         "frequency_hz_from_a4_435":  435.0,
+                                                                         "frequency_hz_from_a4_440":  440.0,
+                                                                         "difference_from_a440_cents":  -19.785747,
+                                                                         "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                     },
+                                                                     {
+                                                                         "order":  2,
+                                                                         "note_12tet":  "La diesis4",
+                                                                         "pitch_class_12tet":  10,
+                                                                         "frequency_hz_from_a4_435":  460.866446,
+                                                                         "frequency_hz_from_a4_440":  466.163762,
+                                                                         "difference_from_a440_cents":  -19.785747,
+                                                                         "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                     },
+                                                                     {
+                                                                         "order":  3,
+                                                                         "note_12tet":  "Si4",
+                                                                         "pitch_class_12tet":  11,
+                                                                         "frequency_hz_from_a4_435":  488.270991,
+                                                                         "frequency_hz_from_a4_440":  493.883301,
+                                                                         "difference_from_a440_cents":  -19.785747,
+                                                                         "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                     },
+                                                                     {
+                                                                         "order":  4,
+                                                                         "note_12tet":  "Do5",
+                                                                         "pitch_class_12tet":  0,
+                                                                         "frequency_hz_from_a4_435":  517.305095,
+                                                                         "frequency_hz_from_a4_440":  523.251131,
+                                                                         "difference_from_a440_cents":  -19.785747,
+                                                                         "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                     },
+                                                                     {
+                                                                         "order":  5,
+                                                                         "note_12tet":  "Do diesis5",
+                                                                         "pitch_class_12tet":  1,
+                                                                         "frequency_hz_from_a4_435":  548.065657,
+                                                                         "frequency_hz_from_a4_440":  554.365262,
+                                                                         "difference_from_a440_cents":  -19.785747,
+                                                                         "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                     },
+                                                                     {
+                                                                         "order":  6,
+                                                                         "note_12tet":  "Re5",
+                                                                         "pitch_class_12tet":  2,
+                                                                         "frequency_hz_from_a4_435":  580.655337,
+                                                                         "frequency_hz_from_a4_440":  587.329536,
+                                                                         "difference_from_a440_cents":  -19.785747,
+                                                                         "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                     },
+                                                                     {
+                                                                         "order":  7,
+                                                                         "note_12tet":  "Mi bemolle5",
+                                                                         "pitch_class_12tet":  3,
+                                                                         "frequency_hz_from_a4_435":  615.1829,
+                                                                         "frequency_hz_from_a4_440":  622.253967,
+                                                                         "difference_from_a440_cents":  -19.785747,
+                                                                         "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                     },
+                                                                     {
+                                                                         "order":  8,
+                                                                         "note_12tet":  "Mi5",
+                                                                         "pitch_class_12tet":  4,
+                                                                         "frequency_hz_from_a4_435":  651.763578,
+                                                                         "frequency_hz_from_a4_440":  659.255114,
+                                                                         "difference_from_a440_cents":  -19.785747,
+                                                                         "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                     },
+                                                                     {
+                                                                         "order":  9,
+                                                                         "note_12tet":  "Fa5",
+                                                                         "pitch_class_12tet":  5,
+                                                                         "frequency_hz_from_a4_435":  690.519458,
+                                                                         "frequency_hz_from_a4_440":  698.456463,
+                                                                         "difference_from_a440_cents":  -19.785747,
+                                                                         "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                     },
+                                                                     {
+                                                                         "order":  10,
+                                                                         "note_12tet":  "Fa diesis5",
+                                                                         "pitch_class_12tet":  6,
+                                                                         "frequency_hz_from_a4_435":  731.579881,
+                                                                         "frequency_hz_from_a4_440":  739.988845,
+                                                                         "difference_from_a440_cents":  -19.785747,
+                                                                         "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                     },
+                                                                     {
+                                                                         "order":  11,
+                                                                         "note_12tet":  "Sol5",
+                                                                         "pitch_class_12tet":  7,
+                                                                         "frequency_hz_from_a4_435":  775.081885,
+                                                                         "frequency_hz_from_a4_440":  783.990872,
+                                                                         "difference_from_a440_cents":  -19.785747,
+                                                                         "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                     },
+                                                                     {
+                                                                         "order":  12,
+                                                                         "note_12tet":  "Sol diesis5",
+                                                                         "pitch_class_12tet":  8,
+                                                                         "frequency_hz_from_a4_435":  821.170652,
+                                                                         "frequency_hz_from_a4_440":  830.609395,
+                                                                         "difference_from_a440_cents":  -19.785747,
+                                                                         "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                     }
+                                                                 ],
+                                             "warning":  "L\u0027atto del 1859 fissa il diapason, non prescrive da solo l\u0027intera scala 12-TET. Tutte le frequenze diverse da La=435 Hz sono calcoli moderni per il software."
+                                         },
+                       "harmonization":  {
+                                             "status":  "non_pertinente_al_diapason",
+                                             "method":  "eventuali accordi dell\u0027interfaccia usano la griglia 12-TET derivata",
+                                             "warning":  "Il diapason normal è uno standard di altezza assoluta e non una teoria armonica."
+                                         },
+                       "transition_reliability":  {
+                                                      "absolute_pitch_comparison":  "alta",
+                                                      "temperament_comparison":  "bassa",
+                                                      "twelve_tet_transition":  "media-alta",
+                                                      "reason":  "Il riferimento A=435 è documentato; le restanti frequenze della griglia sono derivate e non attestano uno specifico temperamento per ogni pratica parigina."
+                                                  },
+                       "source_ids":  [
+                                          "SRC-PARIS-DIAPASON-COMMISSION-1859",
+                                          "SRC-PARIS-DIAPASON-ARRETE-1859",
+                                          "SRC-PARIS-ELLIS-PITCH-1880",
+                                          "SRC-PARIS-MENDEL-PITCH-1978",
+                                          "SRC-PARIS-HAYNES-PITCH-2002"
+                                      ],
+                       "documents":  [
+                                         {
+                                             "document_id":  "DOC-PARIS-DIAPASON-1859-DATA",
+                                             "label":  "Dati documentati del diapason normal del 1859",
+                                             "path":  "../documenti/DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt",
+                                             "type":  "text"
+                                         },
+                                         {
+                                             "document_id":  "DOC-PARIS-DIAPASON-1859-METHOD",
+                                             "label":  "Nota metodologica sul riferimento A=435 e sul 12-TET operativo",
+                                             "path":  "../documenti/NOTA_METODOLOGICA_PARIGI_DIAPASON_1859.txt",
+                                             "type":  "text"
+                                         }
+                                     ]
+                   }
+               ],
+    "sources":  [
+                    {
+                        "source_id":  "SRC-PARIS-DIAPASON-COMMISSION-1859",
+                        "purpose":  "rapporto della commissione francese incaricata di proporre un diapason uniforme",
+                        "title":  "Rapport de la commission chargée de rechercher les moyens d\u0027établir en France un diapason musical uniforme",
+                        "author":  "Commissione nominata dal ministro di Stato; rapporto presentato nel febbraio 1859",
+                        "year":  "1859",
+                        "publisher_or_journal":  "documento amministrativo francese",
+                        "identifier":  "rapporto della commissione del diapason, Parigi, 1859",
+                        "pages":  "sezioni sulla scelta del diapason normal e sulla frequenza di riferimento",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-PARIS-DIAPASON-ARRETE-1859",
+                        "purpose":  "atto normativo che adotta il diapason normal negli stabilimenti musicali dipendenti dallo Stato",
+                        "title":  "Arrêté du 16 février 1859 relatif au diapason musical uniforme",
+                        "author":  "Ministère d\u0027État, Francia",
+                        "year":  "1859",
+                        "publisher_or_journal":  "amministrazione imperiale francese",
+                        "identifier":  "arrêté del 16 febbraio 1859",
+                        "pages":  "testo dell\u0027atto e definizione del diapason normal",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-PARIS-ELLIS-PITCH-1880",
+                        "purpose":  "ricostruzione contemporanea della storia del pitch e confronto fra standard nazionali",
+                        "title":  "On the History of Musical Pitch",
+                        "author":  "Alexander J. Ellis",
+                        "year":  "1880",
+                        "publisher_or_journal":  "Journal of the Society of Arts 28",
+                        "identifier":  "articolo del 5 marzo 1880; ristampato in Studies in the History of Musical Pitch",
+                        "pages":  "293-336; appendice 400-403",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-PARIS-MENDEL-PITCH-1978",
+                        "purpose":  "riesame musicologico delle fonti e delle misure storiche del diapason occidentale",
+                        "title":  "Pitch in Western Music since 1500: A Re-examination",
+                        "author":  "Arthur Mendel",
+                        "year":  "1978",
+                        "publisher_or_journal":  "Acta Musicologica 50",
+                        "identifier":  "articolo musicologico",
+                        "pages":  "1-93",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-PARIS-HAYNES-PITCH-2002",
+                        "purpose":  "storia critica degli standard di altezza e del diapason normal",
+                        "title":  "A History of Performing Pitch: The Story of \u0027A\u0027",
+                        "author":  "Bruce Haynes",
+                        "year":  "2002",
+                        "publisher_or_journal":  "Scarecrow Press",
+                        "identifier":  "ISBN 9780810841857",
+                        "pages":  "capitoli sul XIX secolo e sulla standardizzazione francese",
+                        "grade":  "B"
+                    }
+                ],
+    "documents":  [
+                      {
+                          "document_id":  "DOC-PARIS-DIAPASON-1859-DATA",
+                          "label":  "Dati documentati del diapason normal del 1859",
+                          "path":  "../documenti/DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-PARIS-DIAPASON-1859-METHOD",
+                          "label":  "Nota metodologica sul riferimento A=435 e sul 12-TET operativo",
+                          "path":  "../documenti/NOTA_METODOLOGICA_PARIGI_DIAPASON_1859.txt",
+                          "type":  "text"
+                      }
+                  ]
+}

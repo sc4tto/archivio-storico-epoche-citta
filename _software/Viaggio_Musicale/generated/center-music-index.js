@@ -1,7 +1,7 @@
 ﻿window.CENTER_MUSIC_INDEX = {
     "schema_version":  3,
-    "generated_at":  "2026-07-03T11:32:28.8584808+02:00",
     "storage_model":  "center_local_documented_package",
+    "generated_at":  "2026-07-03T15:01:41.8260941+02:00",
     "archive_root":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta",
     "profiles":  [
                      {
@@ -336,6 +336,469 @@
                                         "traditions":  1,
                                         "scales":  1,
                                         "sources":  4,
+                                        "documents":  4
+                                    }
+                     },
+                     {
+                         "profile_id":  "P2-ASW-UR-LYRES-HEPTATONIC-DOCUMENTED",
+                         "record_status":  "documentato",
+                         "center_id":  "UR",
+                         "center_label":  "Ur",
+                         "center_folder":  "02_Ur",
+                         "center_relative_path":  "02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Centri abitati\\02_Ur",
+                         "center_directory_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/02_P2%20%C2%B7%203000%E2%80%931000%20a.C.%20%E2%80%94%20Prime%20citt%C3%A0,%20Stati%E2%80%A6/01_Asia%20sud-occidentale%20e%20altopiano%20iranico/Centri%20abitati/02_Ur",
+                         "profile_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/02_P2%20%C2%B7%203000%E2%80%931000%20a.C.%20%E2%80%94%20Prime%20citt%C3%A0,%20Stati%E2%80%A6/01_Asia%20sud-occidentale%20e%20altopiano%20iranico/Centri%20abitati/02_Ur/dati/musica_documentata/musica-centro.json",
+                         "period":  {
+                                        "id":  "P2",
+                                        "label":  "3000–1000 a.C. — Prime città, Stati…",
+                                        "order":  2,
+                                        "documented_subrange":  "circa 2600-2450 a.C. per gli strumenti; periodo paleobabilonese per UET VI/3 899"
+                                    },
+                         "area":  {
+                                      "id":  "ASW_IRAN",
+                                      "label":  "Asia sud-occidentale e altopiano iranico"
+                                  },
+                         "documentation":  {
+                                               "status":  "documentato",
+                                               "confidence":  "alta_per_contesto_archeologico_e_testo_locale; media_alta_per_quadro_eptatonico; bassa_per_altezze_assolute_e_12tet",
+                                               "statement":  "Il profilo documenta gli strumenti a corda del Cimitero Reale di Ur e il testo paleobabilonese locale UET VI/3 899, mantenendo distinta la loro cronologia.",
+                                               "chronology_status":  "compatibile",
+                                               "chronology_statement":  "Entrambi i nuclei appartengono al P2, ma sono separati da diversi secoli e non vengono trattati come un\u0027unica prassi immutata.",
+                                               "geography_status":  "compatibile",
+                                               "geography_relation":  "nel_centro",
+                                               "geography_statement":  "Gli strumenti e UET VI/3 899 provengono dal sito di Ur.",
+                                               "historical_system_resolvable":  true,
+                                               "limitation_note":  "Il quadro eptatonico e le procedure di riaccordatura sono documentati; frequenze, tonica, melodia e accordatura delle singole lire archeologiche non sono recuperabili."
+                                           },
+                         "musical_evidence":  [
+                                                  {
+                                                      "evidence_id":  "EVID-UR-ROYAL-CEMETERY-LYRES",
+                                                      "type":  "archaeological_instruments",
+                                                      "status":  "documentato",
+                                                      "statement":  "Il Cimitero Reale di Ur ha restituito lire e altri strumenti a corda in contesti archeologici del Dinastico Arcaico III.",
+                                                      "source_ids":  [
+                                                                         "SRC-UR-WOOLLEY-ROYAL-CEMETERY-1934",
+                                                                         "SRC-UR-DESCHAUENSEE-TWO-LYRES-2002"
+                                                                     ]
+                                                  },
+                                                  {
+                                                      "evidence_id":  "EVID-UR-UET899-TUNING-TEXT",
+                                                      "type":  "local_tuning_text",
+                                                      "status":  "documentato",
+                                                      "statement":  "UET VI/3 899, proveniente da Ur, conserva istruzioni paleobabilonesi di riaccordatura mediante corde e intervalli nominati.",
+                                                      "source_ids":  [
+                                                                         "SRC-UR-MIRELMAN-KRISPJIN-UET899-2009",
+                                                                         "SRC-UR-GURNEY-TUNING-TREATISE-1968"
+                                                                     ]
+                                                  },
+                                                  {
+                                                      "evidence_id":  "EVID-UR-HEPTATONIC-FRAMEWORK",
+                                                      "type":  "tradition_scale",
+                                                      "status":  "sintesi",
+                                                      "statement":  "Il testo locale e il corpus teorico mesopotamico sostengono un quadro diatonico eptatonico; il profilo non impone una singola tonalità moderna.",
+                                                      "source_ids":  [
+                                                                         "SRC-UR-MIRELMAN-KRISPJIN-UET899-2009",
+                                                                         "SRC-UR-GURNEY-TUNING-TREATISE-1968",
+                                                                         "SRC-UR-KILMER-MESOPOTAMIAN-THEORY-1971"
+                                                                     ]
+                                                  },
+                                                  {
+                                                      "evidence_id":  "EVID-UR-CHRONOLOGY-CAUTION",
+                                                      "type":  "interpretation_limit",
+                                                      "status":  "documentato",
+                                                      "statement":  "Le lire del Cimitero Reale e UET VI/3 899 appartengono a fasi diverse; non viene affermata identità di accordatura fra i due nuclei.",
+                                                      "source_ids":  [
+                                                                         "SRC-UR-WOOLLEY-ROYAL-CEMETERY-1934",
+                                                                         "SRC-UR-DESCHAUENSEE-TWO-LYRES-2002",
+                                                                         "SRC-UR-MIRELMAN-KRISPJIN-UET899-2009"
+                                                                     ]
+                                                  },
+                                                  {
+                                                      "evidence_id":  "EVID-UR-12TET-LIMIT",
+                                                      "type":  "interpretation_limit",
+                                                      "status":  "sintesi",
+                                                      "statement":  "Do-Re-Mi-Fa-Sol-La-Si è soltanto una mappatura computazionale della struttura eptatonica e non una ricostruzione sonora.",
+                                                      "source_ids":  [
+                                                                         "SRC-UR-MIRELMAN-KRISPJIN-UET899-2009",
+                                                                         "SRC-UR-KILMER-MESOPOTAMIAN-THEORY-1971"
+                                                                     ]
+                                                  }
+                                              ],
+                         "tradition_links":  [
+                                                 {
+                                                     "tradition_id":  "UR_ROYAL_LYRES_OLD_BABYLONIAN_TUNING",
+                                                     "relation_status":  "documentato",
+                                                     "relation_note":  "La tradizione descrittiva è radicata in due nuclei provenienti da Ur: strumenti del Cimitero Reale e testi locali di accordatura.",
+                                                     "source_ids":  [
+                                                                        "SRC-UR-WOOLLEY-ROYAL-CEMETERY-1934",
+                                                                        "SRC-UR-DESCHAUENSEE-TWO-LYRES-2002",
+                                                                        "SRC-UR-MIRELMAN-KRISPJIN-UET899-2009",
+                                                                        "SRC-UR-GURNEY-TUNING-TREATISE-1968",
+                                                                        "SRC-UR-KILMER-MESOPOTAMIAN-THEORY-1971"
+                                                                    ]
+                                                 }
+                                             ],
+                         "scale_links":  [
+                                             {
+                                                 "scale_id":  "UR_OLD_BABYLONIAN_HEPTATONIC_TUNING_FRAMEWORK",
+                                                 "relation_status":  "documentato",
+                                                 "relation_note":  "È documentato un quadro paleobabilonese di accordature eptatoniche; la mappatura 12-TET è moderna e non assegna una tonalità storica a Ur.",
+                                                 "source_ids":  [
+                                                                    "SRC-UR-MIRELMAN-KRISPJIN-UET899-2009",
+                                                                    "SRC-UR-GURNEY-TUNING-TREATISE-1968",
+                                                                    "SRC-UR-KILMER-MESOPOTAMIAN-THEORY-1971"
+                                                                ]
+                                             }
+                                         ],
+                         "sources":  [
+                                         {
+                                             "source_id":  "SRC-UR-WOOLLEY-ROYAL-CEMETERY-1934",
+                                             "purpose":  "contesto archeologico degli strumenti a corda del Cimitero Reale di Ur",
+                                             "title":  "Ur Excavations II: The Royal Cemetery",
+                                             "author":  "C. Leonard Woolley",
+                                             "year":  "1934",
+                                             "publisher_or_journal":  "Joint Expedition of the British Museum and the University Museum, University of Pennsylvania; Oxford University Press",
+                                             "identifier":  "Ur Excavations II",
+                                             "pages":  "catalogo, descrizioni e tavole relative agli strumenti musicali delle tombe reali",
+                                             "grade":  "A"
+                                         },
+                                         {
+                                             "source_id":  "SRC-UR-DESCHAUENSEE-TWO-LYRES-2002",
+                                             "purpose":  "studio organologico e ricostruttivo di due lire provenienti da Ur",
+                                             "title":  "Two Lyres from Ur",
+                                             "author":  "Maude de Schauensee",
+                                             "year":  "2002",
+                                             "publisher_or_journal":  "University of Pennsylvania Museum of Archaeology and Anthropology",
+                                             "identifier":  "monografia museale",
+                                             "pages":  "intero volume",
+                                             "grade":  "A"
+                                         },
+                                         {
+                                             "source_id":  "SRC-UR-MIRELMAN-KRISPJIN-UET899-2009",
+                                             "purpose":  "edizione e interpretazione del testo paleobabilonese di accordatura proveniente da Ur",
+                                             "title":  "The Old Babylonian Tuning Text UET VI/3 899",
+                                             "author":  "Sam Mirelman e Theo J. H. Krispijn",
+                                             "year":  "2009",
+                                             "publisher_or_journal":  "Iraq 71",
+                                             "identifier":  "UET VI/3 899",
+                                             "pages":  "43-52",
+                                             "grade":  "A"
+                                         },
+                                         {
+                                             "source_id":  "SRC-UR-GURNEY-TUNING-TREATISE-1968",
+                                             "purpose":  "analisi comparativa delle istruzioni paleobabilonesi di riaccordatura",
+                                             "title":  "An Old Babylonian Treatise on the Tuning of the Harp",
+                                             "author":  "O. R. Gurney",
+                                             "year":  "1968",
+                                             "publisher_or_journal":  "Iraq 30",
+                                             "identifier":  "articolo accademico",
+                                             "pages":  "229-233",
+                                             "grade":  "A"
+                                         },
+                                         {
+                                             "source_id":  "SRC-UR-KILMER-MESOPOTAMIAN-THEORY-1971",
+                                             "purpose":  "ricostruzione del quadro teorico mesopotamico di corde, intervalli e accordature",
+                                             "title":  "The Discovery of an Ancient Mesopotamian Theory of Music",
+                                             "author":  "Anne Draffkorn Kilmer",
+                                             "year":  "1971",
+                                             "publisher_or_journal":  "Proceedings of the American Philosophical Society 115(2)",
+                                             "identifier":  "articolo accademico",
+                                             "pages":  "131-149",
+                                             "grade":  "A"
+                                         }
+                                     ],
+                         "review":  {
+                                        "status":  "pubblicato_con_separazione_cronologica_e_cautela_12tet",
+                                        "reviewer":  "Michele Scattolin - verifica finale richiesta",
+                                        "last_reviewed":  "2026-07-03T14:17:11.6310258+02:00",
+                                        "next_action":  "Verificare che l\u0027interfaccia distingua strumenti, testo di accordatura e mappatura 12-TET."
+                                    },
+                         "documents":  [
+                                           {
+                                               "document_id":  "DOC-UR-CENTER-SOURCES",
+                                               "label":  "Fonti documentate per Ur",
+                                               "type":  "text",
+                                               "path":  "./FONTI_DOCUMENTATE.txt",
+                                               "relative_path":  "02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Centri abitati\\02_Ur\\dati\\musica_documentata\\FONTI_DOCUMENTATE.txt",
+                                               "exists":  true,
+                                               "blocked":  false,
+                                               "file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/02_P2%20%C2%B7%203000%E2%80%931000%20a.C.%20%E2%80%94%20Prime%20citt%C3%A0,%20Stati%E2%80%A6/01_Asia%20sud-occidentale%20e%20altopiano%20iranico/Centri%20abitati/02_Ur/dati/musica_documentata/FONTI_DOCUMENTATE.txt"
+                                           },
+                                           {
+                                               "document_id":  "DOC-UR-CENTER-MANIFEST",
+                                               "label":  "Manifesto della documentazione di Ur",
+                                               "type":  "text",
+                                               "path":  "./MANIFESTO_DOCUMENTAZIONE.txt",
+                                               "relative_path":  "02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Centri abitati\\02_Ur\\dati\\musica_documentata\\MANIFESTO_DOCUMENTAZIONE.txt",
+                                               "exists":  true,
+                                               "blocked":  false,
+                                               "file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/02_P2%20%C2%B7%203000%E2%80%931000%20a.C.%20%E2%80%94%20Prime%20citt%C3%A0,%20Stati%E2%80%A6/01_Asia%20sud-occidentale%20e%20altopiano%20iranico/Centri%20abitati/02_Ur/dati/musica_documentata/MANIFESTO_DOCUMENTAZIONE.txt"
+                                           },
+                                           {
+                                               "document_id":  "DOC-UR-CENTER-DATA",
+                                               "label":  "Dati documentati su lire e accordature di Ur",
+                                               "type":  "text",
+                                               "path":  "./DATI_DOCUMENTATI_UR_LIRE_ACCORDATURA.txt",
+                                               "relative_path":  "02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Centri abitati\\02_Ur\\dati\\musica_documentata\\DATI_DOCUMENTATI_UR_LIRE_ACCORDATURA.txt",
+                                               "exists":  true,
+                                               "blocked":  false,
+                                               "file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/02_P2%20%C2%B7%203000%E2%80%931000%20a.C.%20%E2%80%94%20Prime%20citt%C3%A0,%20Stati%E2%80%A6/01_Asia%20sud-occidentale%20e%20altopiano%20iranico/Centri%20abitati/02_Ur/dati/musica_documentata/DATI_DOCUMENTATI_UR_LIRE_ACCORDATURA.txt"
+                                           },
+                                           {
+                                               "document_id":  "DOC-UR-TRANSITIONS",
+                                               "label":  "Nota sulle transizioni da e verso Ur",
+                                               "type":  "text",
+                                               "path":  "./NOTA_TRANSIZIONI_UR.txt",
+                                               "relative_path":  "02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Centri abitati\\02_Ur\\dati\\musica_documentata\\NOTA_TRANSIZIONI_UR.txt",
+                                               "exists":  true,
+                                               "blocked":  false,
+                                               "file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/02_P2%20%C2%B7%203000%E2%80%931000%20a.C.%20%E2%80%94%20Prime%20citt%C3%A0,%20Stati%E2%80%A6/01_Asia%20sud-occidentale%20e%20altopiano%20iranico/Centri%20abitati/02_Ur/dati/musica_documentata/NOTA_TRANSIZIONI_UR.txt"
+                                           }
+                                       ],
+                         "counts":  {
+                                        "evidence":  5,
+                                        "traditions":  1,
+                                        "scales":  1,
+                                        "sources":  5,
+                                        "documents":  4
+                                    }
+                     },
+                     {
+                         "profile_id":  "P3-EAS-CHANGAN-HAN-TWELVE-LU-DOCUMENTED",
+                         "record_status":  "documentato",
+                         "center_id":  "CHANGAN_HAN",
+                         "center_label":  "Chang\u0027an Han",
+                         "center_folder":  "02_Changan_Han",
+                         "center_relative_path":  "03_P3 · 1000 a.C.–500 d.C. — Imperi classici…\\04_Asia orientale\\Centri abitati\\02_Changan_Han",
+                         "center_directory_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/03_P3%20%C2%B7%201000%20a.C.%E2%80%93500%20d.C.%20%E2%80%94%20Imperi%20classici%E2%80%A6/04_Asia%20orientale/Centri%20abitati/02_Changan_Han",
+                         "profile_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/03_P3%20%C2%B7%201000%20a.C.%E2%80%93500%20d.C.%20%E2%80%94%20Imperi%20classici%E2%80%A6/04_Asia%20orientale/Centri%20abitati/02_Changan_Han/dati/musica_documentata/musica-centro.json",
+                         "period":  {
+                                        "id":  "P3",
+                                        "order":  3,
+                                        "documented_subrange":  "II-I secolo a.C., con sistemazione storiografica nel I secolo d.C.",
+                                        "label":  "1000 a.C.–500 d.C. — Imperi classici…"
+                                    },
+                         "area":  {
+                                      "id":  "EASIA",
+                                      "label":  "Asia orientale"
+                                  },
+                         "documentation":  {
+                                               "status":  "documentato",
+                                               "confidence":  "alta_per_sistema_testuale_e_rapporti; media_per_associazione_istituzionale_al_centro; bassa_per_altezza_assoluta",
+                                               "statement":  "Il profilo documenta il sistema Han dei dodici lü nel contesto della capitale Chang\u0027an, distinguendo fonti storiche, calcoli moderni e mappatura 12-TET.",
+                                               "chronology_status":  "compatibile",
+                                               "chronology_statement":  "Le fonti e gli sviluppi teorici selezionati appartengono alla dinastia Han e rientrano nel P3.",
+                                               "geography_status":  "compatibile",
+                                               "geography_relation":  "regionale_motivata",
+                                               "geography_statement":  "Chang\u0027an è usata come centro rappresentativo della corte Han occidentale; il sistema è statale e non limitato a un singolo reperto urbano.",
+                                               "historical_system_resolvable":  true,
+                                               "limitation_note":  "Sono risolvibili nomi, relazioni e struttura matematica; non è risolvibile una frequenza assoluta moderna universale di Huangzhong."
+                                           },
+                         "musical_evidence":  [
+                                                  {
+                                                      "evidence_id":  "EVID-CHANGAN-HAN-CAPITAL-CONTEXT",
+                                                      "type":  "historical_geography",
+                                                      "status":  "documentato",
+                                                      "statement":  "Chang\u0027an fu il principale centro politico della dinastia Han occidentale; il profilo usa questo contesto per rappresentare la teoria musicale e metrologica della corte.",
+                                                      "source_ids":  [
+                                                                         "SRC-CHANGAN-HAN-HANSHU-LULI-21",
+                                                                         "SRC-CHANGAN-HAN-LEWIS-2007"
+                                                                     ]
+                                                  },
+                                                  {
+                                                      "evidence_id":  "EVID-CHANGAN-HAN-TWELVE-LU",
+                                                      "type":  "historical_pitch_system",
+                                                      "status":  "documentato",
+                                                      "statement":  "Le fonti Han documentano dodici lü come standard di altezza coordinati con misure, rituale e calendario.",
+                                                      "source_ids":  [
+                                                                         "SRC-CHANGAN-HAN-HANSHU-LULI-21",
+                                                                         "SRC-CHANGAN-HAN-HUAINANZI-TIANWEN",
+                                                                         "SRC-CHANGAN-HAN-MAJOR-HUAINANZI-2010",
+                                                                         "SRC-CHANGAN-HAN-BRINDLEY-2012"
+                                                                     ]
+                                                  },
+                                                  {
+                                                      "evidence_id":  "EVID-CHANGAN-HAN-THREE-TWO-CYCLE",
+                                                      "type":  "tuning_calculation",
+                                                      "status":  "sintesi",
+                                                      "statement":  "Il profilo calcola i rapporti e i cent dei dodici lü mediante un ciclo 3:2 normalizzato nell\u0027ottava; i cent sono derivazioni moderne, non dati iscritti nelle fonti.",
+                                                      "source_ids":  [
+                                                                         "SRC-CHANGAN-HAN-HANSHU-LULI-21",
+                                                                         "SRC-CHANGAN-HAN-HUAINANZI-TIANWEN",
+                                                                         "SRC-CHANGAN-HAN-MCCLAIN-HUNG-1979"
+                                                                     ]
+                                                  },
+                                                  {
+                                                      "evidence_id":  "EVID-CHANGAN-HAN-JING-FANG",
+                                                      "type":  "historical_theory",
+                                                      "status":  "documentato",
+                                                      "statement":  "La tradizione Han attribuisce a Jing Fang un\u0027estensione del calcolo ciclico oltre i dodici lü; il profilo cita questo sviluppo senza trasformarlo in temperamento equabile.",
+                                                      "source_ids":  [
+                                                                         "SRC-CHANGAN-HAN-HANSHU-LULI-21",
+                                                                         "SRC-CHANGAN-HAN-MCCLAIN-HUNG-1979"
+                                                                     ]
+                                                  },
+                                                  {
+                                                      "evidence_id":  "EVID-CHANGAN-HAN-12TET-LIMIT",
+                                                      "type":  "interpretation_limit",
+                                                      "status":  "sintesi",
+                                                      "statement":  "Le dodici classi 12-TET servono soltanto all\u0027interfaccia. Il sistema storico è ciclico e non equabile.",
+                                                      "source_ids":  [
+                                                                         "SRC-CHANGAN-HAN-MCCLAIN-HUNG-1979",
+                                                                         "SRC-CHANGAN-HAN-BRINDLEY-2012"
+                                                                     ]
+                                                  }
+                                              ],
+                         "tradition_links":  [
+                                                 {
+                                                     "tradition_id":  "CHANGAN_HAN_TWELVE_LU_COURT_STANDARD",
+                                                     "relation_status":  "documentato",
+                                                     "relation_note":  "La tradizione rappresenta il sistema di standard di altezza della cultura di corte Han associato istituzionalmente alla capitale Chang\u0027an.",
+                                                     "source_ids":  [
+                                                                        "SRC-CHANGAN-HAN-HANSHU-LULI-21",
+                                                                        "SRC-CHANGAN-HAN-HUAINANZI-TIANWEN",
+                                                                        "SRC-CHANGAN-HAN-MAJOR-HUAINANZI-2010",
+                                                                        "SRC-CHANGAN-HAN-MCCLAIN-HUNG-1979",
+                                                                        "SRC-CHANGAN-HAN-BRINDLEY-2012",
+                                                                        "SRC-CHANGAN-HAN-LEWIS-2007"
+                                                                    ]
+                                                 }
+                                             ],
+                         "scale_links":  [
+                                             {
+                                                 "scale_id":  "CHANGAN_HAN_SHIER_LU_SANFEN_SUNYI_FRAMEWORK",
+                                                 "relation_status":  "documentato",
+                                                 "relation_note":  "Il collegamento riguarda i dodici lü e la loro generazione ciclica; la scala cromatica 12-TET visualizzata è soltanto una comparazione.",
+                                                 "source_ids":  [
+                                                                    "SRC-CHANGAN-HAN-HANSHU-LULI-21",
+                                                                    "SRC-CHANGAN-HAN-HUAINANZI-TIANWEN",
+                                                                    "SRC-CHANGAN-HAN-MAJOR-HUAINANZI-2010",
+                                                                    "SRC-CHANGAN-HAN-MCCLAIN-HUNG-1979",
+                                                                    "SRC-CHANGAN-HAN-BRINDLEY-2012"
+                                                                ]
+                                             }
+                                         ],
+                         "sources":  [
+                                         {
+                                             "source_id":  "SRC-CHANGAN-HAN-HANSHU-LULI-21",
+                                             "purpose":  "fonte primaria Han sui diapason, sui dodici lü e sul rapporto fra standard musicali e calendario",
+                                             "title":  "Hanshu (Libro degli Han), juan 21, Lüli zhi",
+                                             "author":  "Ban Gu e continuatori della storia dinastica Han",
+                                             "year":  "I secolo d.C.",
+                                             "publisher_or_journal":  "tradizione testuale del Hanshu",
+                                             "identifier":  "漢書卷二十一・律曆志",
+                                             "pages":  "juan 21, parti superiore e inferiore",
+                                             "grade":  "A"
+                                         },
+                                         {
+                                             "source_id":  "SRC-CHANGAN-HAN-HUAINANZI-TIANWEN",
+                                             "purpose":  "fonte primaria del primo periodo Han sulla generazione matematica delle altezze e sulle corrispondenze cosmologiche",
+                                             "title":  "Huainanzi, capitolo 3, Tianwen xun",
+                                             "author":  "Liu An e ambiente della corte di Huainan",
+                                             "year":  "presentato alla corte Han nel 139 a.C.",
+                                             "publisher_or_journal":  "tradizione testuale del Huainanzi",
+                                             "identifier":  "淮南子・天文訓",
+                                             "pages":  "capitolo 3",
+                                             "grade":  "A"
+                                         },
+                                         {
+                                             "source_id":  "SRC-CHANGAN-HAN-MAJOR-HUAINANZI-2010",
+                                             "purpose":  "traduzione e commento accademico del Huainanzi, inclusa la terminologia cosmologica e musicale",
+                                             "title":  "The Huainanzi: A Guide to the Theory and Practice of Government in Early Han China",
+                                             "author":  "John S. Major, Sarah A. Queen, Andrew Seth Meyer e Harold D. Roth",
+                                             "year":  "2010",
+                                             "publisher_or_journal":  "Columbia University Press",
+                                             "identifier":  "traduzione accademica integrale",
+                                             "pages":  "capitolo 3 e note",
+                                             "grade":  "A"
+                                         },
+                                         {
+                                             "source_id":  "SRC-CHANGAN-HAN-MCCLAIN-HUNG-1979",
+                                             "purpose":  "analisi matematica dei cicli di quinte e delle estensioni attribuite a Jing Fang",
+                                             "title":  "Chinese Cyclic Tunings in Late Antiquity",
+                                             "author":  "Ernest G. McClain e Ming Shui Hung",
+                                             "year":  "1979",
+                                             "publisher_or_journal":  "Ethnomusicology 23(2)",
+                                             "identifier":  "articolo accademico",
+                                             "pages":  "205-224",
+                                             "grade":  "A"
+                                         },
+                                         {
+                                             "source_id":  "SRC-CHANGAN-HAN-BRINDLEY-2012",
+                                             "purpose":  "inquadramento storico del rapporto fra musica, cosmologia, rituale e autorità politica nella Cina antica",
+                                             "title":  "Music, Cosmology, and the Politics of Harmony in Early China",
+                                             "author":  "Erica Brindley",
+                                             "year":  "2012",
+                                             "publisher_or_journal":  "State University of New York Press",
+                                             "identifier":  "monografia accademica",
+                                             "pages":  "sezioni sui diapason, sulla cosmologia musicale e sull\u0027autorità statale",
+                                             "grade":  "A"
+                                         },
+                                         {
+                                             "source_id":  "SRC-CHANGAN-HAN-LEWIS-2007",
+                                             "purpose":  "contesto storico di Chang\u0027an come capitale e sede delle istituzioni della dinastia Han occidentale",
+                                             "title":  "The Early Chinese Empires: Qin and Han",
+                                             "author":  "Mark Edward Lewis",
+                                             "year":  "2007",
+                                             "publisher_or_journal":  "Harvard University Press",
+                                             "identifier":  "monografia storica",
+                                             "pages":  "capitoli sulle capitali e sulle istituzioni imperiali",
+                                             "grade":  "B"
+                                         }
+                                     ],
+                         "review":  {
+                                        "status":  "pubblicato_con_cautela_geografica_e_12tet",
+                                        "reviewer":  "Michele Scattolin - verifica finale richiesta",
+                                        "next_action":  "Verificare nell\u0027interfaccia che i dodici lü siano presentati come gamut di riferimento e non come temperamento equabile storico.",
+                                        "last_reviewed":  "2026-07-03T14:35:23.1500625+02:00"
+                                    },
+                         "documents":  [
+                                           {
+                                               "document_id":  "DOC-CHANGAN-HAN-CENTER-SOURCES",
+                                               "label":  "Fonti documentate per Chang\u0027an Han",
+                                               "type":  "text",
+                                               "path":  "./FONTI_DOCUMENTATE.txt",
+                                               "relative_path":  "03_P3 · 1000 a.C.–500 d.C. — Imperi classici…\\04_Asia orientale\\Centri abitati\\02_Changan_Han\\dati\\musica_documentata\\FONTI_DOCUMENTATE.txt",
+                                               "exists":  true,
+                                               "blocked":  false,
+                                               "file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/03_P3%20%C2%B7%201000%20a.C.%E2%80%93500%20d.C.%20%E2%80%94%20Imperi%20classici%E2%80%A6/04_Asia%20orientale/Centri%20abitati/02_Changan_Han/dati/musica_documentata/FONTI_DOCUMENTATE.txt"
+                                           },
+                                           {
+                                               "document_id":  "DOC-CHANGAN-HAN-CENTER-MANIFEST",
+                                               "label":  "Manifesto della documentazione per Chang\u0027an Han",
+                                               "type":  "text",
+                                               "path":  "./MANIFESTO_DOCUMENTAZIONE.txt",
+                                               "relative_path":  "03_P3 · 1000 a.C.–500 d.C. — Imperi classici…\\04_Asia orientale\\Centri abitati\\02_Changan_Han\\dati\\musica_documentata\\MANIFESTO_DOCUMENTAZIONE.txt",
+                                               "exists":  true,
+                                               "blocked":  false,
+                                               "file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/03_P3%20%C2%B7%201000%20a.C.%E2%80%93500%20d.C.%20%E2%80%94%20Imperi%20classici%E2%80%A6/04_Asia%20orientale/Centri%20abitati/02_Changan_Han/dati/musica_documentata/MANIFESTO_DOCUMENTAZIONE.txt"
+                                           },
+                                           {
+                                               "document_id":  "DOC-CHANGAN-HAN-CENTER-DATA",
+                                               "label":  "Dati documentati sui dodici lü",
+                                               "type":  "text",
+                                               "path":  "./DATI_DOCUMENTATI_CHANGAN_HAN_DODICI_LU.txt",
+                                               "relative_path":  "03_P3 · 1000 a.C.–500 d.C. — Imperi classici…\\04_Asia orientale\\Centri abitati\\02_Changan_Han\\dati\\musica_documentata\\DATI_DOCUMENTATI_CHANGAN_HAN_DODICI_LU.txt",
+                                               "exists":  true,
+                                               "blocked":  false,
+                                               "file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/03_P3%20%C2%B7%201000%20a.C.%E2%80%93500%20d.C.%20%E2%80%94%20Imperi%20classici%E2%80%A6/04_Asia%20orientale/Centri%20abitati/02_Changan_Han/dati/musica_documentata/DATI_DOCUMENTATI_CHANGAN_HAN_DODICI_LU.txt"
+                                           },
+                                           {
+                                               "document_id":  "DOC-CHANGAN-HAN-TRANSITIONS",
+                                               "label":  "Nota sulle transizioni da e verso Chang\u0027an Han",
+                                               "type":  "text",
+                                               "path":  "./NOTA_TRANSIZIONI_CHANGAN_HAN.txt",
+                                               "relative_path":  "03_P3 · 1000 a.C.–500 d.C. — Imperi classici…\\04_Asia orientale\\Centri abitati\\02_Changan_Han\\dati\\musica_documentata\\NOTA_TRANSIZIONI_CHANGAN_HAN.txt",
+                                               "exists":  true,
+                                               "blocked":  false,
+                                               "file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/03_P3%20%C2%B7%201000%20a.C.%E2%80%93500%20d.C.%20%E2%80%94%20Imperi%20classici%E2%80%A6/04_Asia%20orientale/Centri%20abitati/02_Changan_Han/dati/musica_documentata/NOTA_TRANSIZIONI_CHANGAN_HAN.txt"
+                                           }
+                                       ],
+                         "counts":  {
+                                        "evidence":  5,
+                                        "traditions":  1,
+                                        "scales":  1,
+                                        "sources":  6,
                                         "documents":  4
                                     }
                      },
@@ -1185,12 +1648,235 @@
                                         "sources":  6,
                                         "documents":  4
                                     }
+                     },
+                     {
+                         "profile_id":  "P7-EUR-MED-PARIS-DIAPASON-NORMAL-1859-DOCUMENTED",
+                         "record_status":  "documentato",
+                         "center_id":  "PARIS_1859",
+                         "center_label":  "Parigi industriale e haussmanniana",
+                         "center_folder":  "02_Parigi_Industriale_Haussmanniana",
+                         "center_relative_path":  "07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Centri abitati\\02_Parigi_Industriale_Haussmanniana",
+                         "center_directory_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/07_P7%20%C2%B7%201800%E2%80%931900%20%E2%80%94%20Industrializzazione%20iniz%E2%80%A6/06_Mediterraneo%20europeo%20ed%20Europa%20centro-occidentale/Centri%20abitati/02_Parigi_Industriale_Haussmanniana",
+                         "profile_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/07_P7%20%C2%B7%201800%E2%80%931900%20%E2%80%94%20Industrializzazione%20iniz%E2%80%A6/06_Mediterraneo%20europeo%20ed%20Europa%20centro-occidentale/Centri%20abitati/02_Parigi_Industriale_Haussmanniana/dati/musica_documentata/musica-centro.json",
+                         "period":  {
+                                        "id":  "P7",
+                                        "order":  7,
+                                        "documented_subrange":  "1859 e diffusione successiva nel secondo Ottocento",
+                                        "label":  "1800–1900 — Industrializzazione iniz…"
+                                    },
+                         "area":  {
+                                      "id":  "EUR_MED",
+                                      "label":  "Mediterraneo europeo ed Europa centro-occidentale"
+                                  },
+                         "documentation":  {
+                                               "status":  "documentato",
+                                               "confidence":  "alta_per_atto_e_frequenza; media_per_applicazione_pratica_uniforme; bassa_per_temperamento_completo",
+                                               "statement":  "Il profilo documenta l\u0027adozione parigina e statale del diapason normal del 1859, con La di riferimento equivalente a 435 Hz.",
+                                               "chronology_status":  "compatibile",
+                                               "chronology_statement":  "L\u0027adozione del 1859 appartiene pienamente al periodo P7.",
+                                               "geography_status":  "compatibile",
+                                               "geography_relation":  "nel_centro",
+                                               "geography_statement":  "La commissione e l\u0027adozione amministrativa appartengono al contesto istituzionale parigino del Secondo Impero.",
+                                               "historical_system_resolvable":  true,
+                                               "limitation_note":  "È risolvibile il riferimento assoluto A=435. L\u0027atto non basta a definire il temperamento completo di ogni orchestra o strumento."
+                                           },
+                         "musical_evidence":  [
+                                                  {
+                                                      "evidence_id":  "EVID-PARIS-COMMISSION-1859",
+                                                      "type":  "center_tradition",
+                                                      "status":  "documentato",
+                                                      "statement":  "Nel 1859 una commissione e l\u0027amministrazione francese stabilirono a Parigi un diapason musicale uniforme.",
+                                                      "source_ids":  [
+                                                                         "SRC-PARIS-DIAPASON-COMMISSION-1859",
+                                                                         "SRC-PARIS-DIAPASON-ARRETE-1859"
+                                                                     ]
+                                                  },
+                                                  {
+                                                      "evidence_id":  "EVID-PARIS-A435",
+                                                      "type":  "absolute_pitch_reference",
+                                                      "status":  "documentato",
+                                                      "statement":  "Il diapason normal corrisponde al La di riferimento a 435 oscillazioni complete al secondo, espresso storicamente anche come 870 vibrations simples.",
+                                                      "source_ids":  [
+                                                                         "SRC-PARIS-DIAPASON-ARRETE-1859",
+                                                                         "SRC-PARIS-ELLIS-PITCH-1880",
+                                                                         "SRC-PARIS-MENDEL-PITCH-1978"
+                                                                     ]
+                                                  },
+                                                  {
+                                                      "evidence_id":  "EVID-PARIS-12TET-DERIVATION",
+                                                      "type":  "modern_calculation",
+                                                      "status":  "sintesi",
+                                                      "statement":  "La tabella cromatica e lo scarto rispetto ad A=440 sono calcoli moderni, non prescrizioni contenute nell\u0027atto del 1859.",
+                                                      "source_ids":  [
+                                                                         "SRC-PARIS-ELLIS-PITCH-1880",
+                                                                         "SRC-PARIS-HAYNES-PITCH-2002"
+                                                                     ]
+                                                  }
+                                              ],
+                         "tradition_links":  [
+                                                 {
+                                                     "tradition_id":  "PARIS_SECOND_EMPIRE_DIAPASON_NORMAL",
+                                                     "relation_status":  "documentato",
+                                                     "relation_note":  "Collegamento diretto alla commissione e all\u0027adozione statale parigina del 1859.",
+                                                     "source_ids":  [
+                                                                        "SRC-PARIS-DIAPASON-COMMISSION-1859",
+                                                                        "SRC-PARIS-DIAPASON-ARRETE-1859",
+                                                                        "SRC-PARIS-ELLIS-PITCH-1880"
+                                                                    ]
+                                                 }
+                                             ],
+                         "scale_links":  [
+                                             {
+                                                 "scale_id":  "PARIS_1859_DIAPASON_NORMAL_A435_REFERENCE",
+                                                 "relation_status":  "documentato",
+                                                 "relation_note":  "Il sistema indicizza il riferimento assoluto A=435; la proiezione 12-TET è derivata per il confronto.",
+                                                 "source_ids":  [
+                                                                    "SRC-PARIS-DIAPASON-ARRETE-1859",
+                                                                    "SRC-PARIS-ELLIS-PITCH-1880",
+                                                                    "SRC-PARIS-MENDEL-PITCH-1978",
+                                                                    "SRC-PARIS-HAYNES-PITCH-2002"
+                                                                ]
+                                             }
+                                         ],
+                         "sources":  [
+                                         {
+                                             "source_id":  "SRC-PARIS-DIAPASON-COMMISSION-1859",
+                                             "purpose":  "rapporto della commissione francese incaricata di proporre un diapason uniforme",
+                                             "title":  "Rapport de la commission chargée de rechercher les moyens d\u0027établir en France un diapason musical uniforme",
+                                             "author":  "Commissione nominata dal ministro di Stato; rapporto presentato nel febbraio 1859",
+                                             "year":  "1859",
+                                             "publisher_or_journal":  "documento amministrativo francese",
+                                             "identifier":  "rapporto della commissione del diapason, Parigi, 1859",
+                                             "pages":  "sezioni sulla scelta del diapason normal e sulla frequenza di riferimento",
+                                             "grade":  "A"
+                                         },
+                                         {
+                                             "source_id":  "SRC-PARIS-DIAPASON-ARRETE-1859",
+                                             "purpose":  "atto normativo che adotta il diapason normal negli stabilimenti musicali dipendenti dallo Stato",
+                                             "title":  "Arrêté du 16 février 1859 relatif au diapason musical uniforme",
+                                             "author":  "Ministère d\u0027État, Francia",
+                                             "year":  "1859",
+                                             "publisher_or_journal":  "amministrazione imperiale francese",
+                                             "identifier":  "arrêté del 16 febbraio 1859",
+                                             "pages":  "testo dell\u0027atto e definizione del diapason normal",
+                                             "grade":  "A"
+                                         },
+                                         {
+                                             "source_id":  "SRC-PARIS-ELLIS-PITCH-1880",
+                                             "purpose":  "ricostruzione contemporanea della storia del pitch e confronto fra standard nazionali",
+                                             "title":  "On the History of Musical Pitch",
+                                             "author":  "Alexander J. Ellis",
+                                             "year":  "1880",
+                                             "publisher_or_journal":  "Journal of the Society of Arts 28",
+                                             "identifier":  "articolo del 5 marzo 1880; ristampato in Studies in the History of Musical Pitch",
+                                             "pages":  "293-336; appendice 400-403",
+                                             "grade":  "A"
+                                         },
+                                         {
+                                             "source_id":  "SRC-PARIS-MENDEL-PITCH-1978",
+                                             "purpose":  "riesame musicologico delle fonti e delle misure storiche del diapason occidentale",
+                                             "title":  "Pitch in Western Music since 1500: A Re-examination",
+                                             "author":  "Arthur Mendel",
+                                             "year":  "1978",
+                                             "publisher_or_journal":  "Acta Musicologica 50",
+                                             "identifier":  "articolo musicologico",
+                                             "pages":  "1-93",
+                                             "grade":  "B"
+                                         },
+                                         {
+                                             "source_id":  "SRC-PARIS-HAYNES-PITCH-2002",
+                                             "purpose":  "storia critica degli standard di altezza e del diapason normal",
+                                             "title":  "A History of Performing Pitch: The Story of \u0027A\u0027",
+                                             "author":  "Bruce Haynes",
+                                             "year":  "2002",
+                                             "publisher_or_journal":  "Scarecrow Press",
+                                             "identifier":  "ISBN 9780810841857",
+                                             "pages":  "capitoli sul XIX secolo e sulla standardizzazione francese",
+                                             "grade":  "B"
+                                         }
+                                     ],
+                         "review":  {
+                                        "status":  "pubblicato_con_cautela_sul_temperamento",
+                                        "reviewer":  "Michele Scattolin - verifica finale richiesta",
+                                        "next_action":  "Controllare che l\u0027interfaccia distingua lo standard assoluto A=435 dalla griglia cromatica 12-TET derivata.",
+                                        "last_reviewed":  "2026-07-03T15:01:41.3485865+02:00"
+                                    },
+                         "documents":  [
+                                           {
+                                               "document_id":  "DOC-PARIS-CENTER-SOURCES",
+                                               "label":  "Fonti documentate per Parigi 1859",
+                                               "type":  "text",
+                                               "path":  "./FONTI_DOCUMENTATE.txt",
+                                               "relative_path":  "07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Centri abitati\\02_Parigi_Industriale_Haussmanniana\\dati\\musica_documentata\\FONTI_DOCUMENTATE.txt",
+                                               "exists":  true,
+                                               "blocked":  false,
+                                               "file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/07_P7%20%C2%B7%201800%E2%80%931900%20%E2%80%94%20Industrializzazione%20iniz%E2%80%A6/06_Mediterraneo%20europeo%20ed%20Europa%20centro-occidentale/Centri%20abitati/02_Parigi_Industriale_Haussmanniana/dati/musica_documentata/FONTI_DOCUMENTATE.txt"
+                                           },
+                                           {
+                                               "document_id":  "DOC-PARIS-CENTER-MANIFEST",
+                                               "label":  "Manifesto della documentazione per Parigi 1859",
+                                               "type":  "text",
+                                               "path":  "./MANIFESTO_DOCUMENTAZIONE.txt",
+                                               "relative_path":  "07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Centri abitati\\02_Parigi_Industriale_Haussmanniana\\dati\\musica_documentata\\MANIFESTO_DOCUMENTAZIONE.txt",
+                                               "exists":  true,
+                                               "blocked":  false,
+                                               "file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/07_P7%20%C2%B7%201800%E2%80%931900%20%E2%80%94%20Industrializzazione%20iniz%E2%80%A6/06_Mediterraneo%20europeo%20ed%20Europa%20centro-occidentale/Centri%20abitati/02_Parigi_Industriale_Haussmanniana/dati/musica_documentata/MANIFESTO_DOCUMENTAZIONE.txt"
+                                           },
+                                           {
+                                               "document_id":  "DOC-PARIS-CENTER-DATA",
+                                               "label":  "Dati documentati del diapason normal",
+                                               "type":  "text",
+                                               "path":  "./DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt",
+                                               "relative_path":  "07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Centri abitati\\02_Parigi_Industriale_Haussmanniana\\dati\\musica_documentata\\DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt",
+                                               "exists":  true,
+                                               "blocked":  false,
+                                               "file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/07_P7%20%C2%B7%201800%E2%80%931900%20%E2%80%94%20Industrializzazione%20iniz%E2%80%A6/06_Mediterraneo%20europeo%20ed%20Europa%20centro-occidentale/Centri%20abitati/02_Parigi_Industriale_Haussmanniana/dati/musica_documentata/DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt"
+                                           },
+                                           {
+                                               "document_id":  "DOC-PARIS-CENTER-TRANSITIONS",
+                                               "label":  "Nota sulle transizioni dal diapason normal",
+                                               "type":  "text",
+                                               "path":  "./NOTA_TRANSIZIONI_PARIGI_DIAPASON_1859.txt",
+                                               "relative_path":  "07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Centri abitati\\02_Parigi_Industriale_Haussmanniana\\dati\\musica_documentata\\NOTA_TRANSIZIONI_PARIGI_DIAPASON_1859.txt",
+                                               "exists":  true,
+                                               "blocked":  false,
+                                               "file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/07_P7%20%C2%B7%201800%E2%80%931900%20%E2%80%94%20Industrializzazione%20iniz%E2%80%A6/06_Mediterraneo%20europeo%20ed%20Europa%20centro-occidentale/Centri%20abitati/02_Parigi_Industriale_Haussmanniana/dati/musica_documentata/NOTA_TRANSIZIONI_PARIGI_DIAPASON_1859.txt"
+                                           }
+                                       ],
+                         "counts":  {
+                                        "evidence":  3,
+                                        "traditions":  1,
+                                        "scales":  1,
+                                        "sources":  5,
+                                        "documents":  4
+                                    }
                      }
                  ],
     "rejected":  [
                      {
                          "file":  "07_P7 · 1800–1900 — Industrializzazione iniz…\\01_Asia sud-occidentale e altopiano iranico\\Centri abitati\\01_Istanbul_Ottomana_Tanzimat\\dati\\musica_documentata\\musica-centro.json",
                          "profile_id":  "P7-ASW-ISTANBUL-HAMPARSUM-RAST-DOCUMENTED",
+                         "reasons":  [
+                                         "nessuna catena documentata centro-tradizione-scala risolta"
+                                     ]
+                     },
+                     {
+                         "file":  "08_P8 · 1900–1945 — Agricoltura industriale,…\\01_Asia sud-occidentale e altopiano iranico\\Centri abitati\\01_Istanbul_Tardo_Ottomana_Repubblicana\\dati\\musica_documentata\\musica-centro.json",
+                         "profile_id":  "P8-ASW-ISTANBUL-RAUF-YEKTA-RAST-DOCUMENTED",
+                         "reasons":  [
+                                         "nessuna catena documentata centro-tradizione-scala risolta"
+                                     ]
+                     },
+                     {
+                         "file":  "09_P9 · 1945–1970 — Massima accelerazione de…\\01_Asia sud-occidentale e altopiano iranico\\Centri abitati\\01_Istanbul_Postbellica_Industrializzata\\dati\\musica_documentata\\musica-centro.json",
+                         "profile_id":  "P9-ASW-ISTANBUL-AEU-RAST-DOCUMENTED",
+                         "reasons":  [
+                                         "nessuna catena documentata centro-tradizione-scala risolta"
+                                     ]
+                     },
+                     {
+                         "file":  "10_P10 · 1970–oggi — Metropolizzazione, glob…\\01_Asia sud-occidentale e altopiano iranico\\Centri abitati\\01_Istanbul_Metropoli_Ponti_Metro_Rischio_Sismico\\dati\\musica_documentata\\musica-centro.json",
+                         "profile_id":  "P10-ASW-ISTANBUL-DIGITAL-RAST-DOCUMENTED",
                          "reasons":  [
                                          "nessuna catena documentata centro-tradizione-scala risolta"
                                      ]
@@ -1203,12 +1889,12 @@
 
                          ],
     "stats":  {
-                  "profiles":  6,
-                  "rejected":  1,
+                  "profiles":  9,
+                  "rejected":  4,
                   "errors":  0,
                   "container_errors":  0,
                   "statuses":  {
-                                   "documentato":  6,
+                                   "documentato":  9,
                                    "sintesi":  0,
                                    "inferito":  0,
                                    "non_documentato":  0,

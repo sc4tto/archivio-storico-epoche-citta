@@ -1,7 +1,5 @@
 ﻿window.ARCHIVE_CATALOG = {
     "schema_version":  1,
-    "generated_at":  "2026-07-03T13:25:44.0059084+02:00",
-    "archive_root":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta",
     "data_file_name":  "musica-container.json",
     "theme":  {
                   "schema_version":  1,
@@ -134,6 +132,8 @@
                                   "cross_cultural_analytical":  2
                               }
               },
+    "generated_at":  "2026-07-03T15:01:41.7795685+02:00",
+    "archive_root":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta",
     "containers":  [
                        {
                            "schema_version":  1,
@@ -378,6 +378,323 @@
                            "_directory_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/01_P1%20%C2%B7%20Prima%20del%203000%20a.C.%20%E2%80%94%20Neolitico%20e%20pr%E2%80%A6/04_Asia%20orientale/Tradizioni%20musicali/01_JIAHU_BONE_FLUTE_PRACTICE/dati"
                        },
                        {
+                           "container_id":  "CONTAINER-P2-ASW-UR-LYRES-TUNING",
+                           "schema_version":  1,
+                           "record_status":  "documentato",
+                           "area":  {
+                                        "id":  "ASW_IRAN",
+                                        "label":  "Asia sud-occidentale e altopiano iranico"
+                                    },
+                           "period":  {
+                                          "id":  "P2",
+                                          "label":  "3000–1000 a.C. — Prime città, Stati…",
+                                          "order":  2
+                                      },
+                           "tradition":  {
+                                             "id":  "UR_ROYAL_LYRES_OLD_BABYLONIAN_TUNING",
+                                             "label":  "Lire di Ur e teoria paleobabilonese dell\u0027accordatura",
+                                             "historical_name":  "Etichetta descrittiva moderna che collega il contesto strumentale di Ur ai testi locali di accordatura.",
+                                             "documentation_status":  "documentato",
+                                             "scope_note":  "Il record riunisce due nuclei locali distinti: gli strumenti del Cimitero Reale e il testo paleobabilonese UET VI/3 899. Non afferma continuità tecnica immutata fra le due fasi.",
+                                             "source_ids":  [
+                                                                "SRC-UR-WOOLLEY-ROYAL-CEMETERY-1934",
+                                                                "SRC-UR-DESCHAUENSEE-TWO-LYRES-2002",
+                                                                "SRC-UR-MIRELMAN-KRISPJIN-UET899-2009",
+                                                                "SRC-UR-GURNEY-TUNING-TREATISE-1968",
+                                                                "SRC-UR-KILMER-MESOPOTAMIAN-THEORY-1971"
+                                                            ]
+                                         },
+                           "scales":  [
+                                          {
+                                              "scale_id":  "UR_OLD_BABYLONIAN_HEPTATONIC_TUNING_FRAMEWORK",
+                                              "name":  "Ur - quadro eptatonico delle accordature paleobabilonesi",
+                                              "documentation_status":  "documentato",
+                                              "comparison_basis":  "local_archaeological_instruments_and_old_babylonian_tuning_text",
+                                              "documentation_scope":  {
+                                                                          "documented":  [
+                                                                                             "strumenti a corda rinvenuti nel Cimitero Reale di Ur",
+                                                                                             "testo paleobabilonese di accordatura UET VI/3 899 proveniente da Ur",
+                                                                                             "procedura di riaccordatura basata su coppie di corde e intervalli nominati",
+                                                                                             "quadro teorico mesopotamico eptatonico e diatonico ricostruito dalla letteratura assiriologica"
+                                                                                         ],
+                                                                          "not_documented":  [
+                                                                                                 "frequenze assolute delle lire del Cimitero Reale",
+                                                                                                 "altezza di riferimento comune e invariabile",
+                                                                                                 "impiego dimostrato di UET VI/3 899 sulle lire del III millennio",
+                                                                                                 "successione melodica di un brano specifico eseguito a Ur",
+                                                                                                 "temperamento equabile a dodici suoni",
+                                                                                                 "armonia funzionale o triadi storiche"
+                                                                                             ]
+                                                                      },
+                                              "historical_context":  {
+                                                                         "city":  "Ur",
+                                                                         "archaeological_evidence":  "lire e altri strumenti a corda del Cimitero Reale, Dinastico Arcaico III",
+                                                                         "archaeological_date":  "circa 2600-2450 a.C.",
+                                                                         "tuning_text":  "UET VI/3 899",
+                                                                         "tuning_text_date":  "periodo paleobabilonese, prima metà del II millennio a.C.",
+                                                                         "chronology_caution":  "gli strumenti archeologici e il testo di accordatura appartengono a fasi differenti del P2; non si afferma che le lire delle tombe fossero accordate esattamente secondo il testo più tardo"
+                                                                     },
+                                              "historical_tuning":  {
+                                                                        "description":  "UET VI/3 899 documenta una procedura di riaccordatura di uno strumento a corde tramite coppie di corde e intervalli nominati. Il record conserva il quadro eptatonico senza fissare una singola altezza assoluta o una melodia.",
+                                                                        "theoretical_system":  "teoria mesopotamica delle accordature diatoniche eptatoniche",
+                                                                        "text":  "UET VI/3 899",
+                                                                        "selected_framework":  "quadro eptatonico generale; nessuna singola accordatura imposta come tonalità moderna",
+                                                                        "named_tunings":  [
+                                                                                              "nīš tuḫrim",
+                                                                                              "išartum",
+                                                                                              "embūbum",
+                                                                                              "nīd qablim",
+                                                                                              "qablītum",
+                                                                                              "kitmum",
+                                                                                              "pītum"
+                                                                                          ],
+                                                                        "absolute_pitch":  "non documentata",
+                                                                        "tonal_center":  "non determinabile come tonica moderna univoca",
+                                                                        "royal_lyres_link":  "contesto strumentale locale diretto; rapporto con la procedura paleobabilonese non dimostrabile strumento per strumento",
+                                                                        "calculated_sequence":  [
+                                                                                                    {
+                                                                                                        "degree":  "1",
+                                                                                                        "historical_status":  "posizione eptatonica relativa",
+                                                                                                        "modern_equivalent":  "Do",
+                                                                                                        "pitch_class_12tet":  0,
+                                                                                                        "exact_deviation_cents":  null
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "degree":  "2",
+                                                                                                        "historical_status":  "posizione eptatonica relativa",
+                                                                                                        "modern_equivalent":  "Re",
+                                                                                                        "pitch_class_12tet":  2,
+                                                                                                        "exact_deviation_cents":  null
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "degree":  "3",
+                                                                                                        "historical_status":  "posizione eptatonica relativa",
+                                                                                                        "modern_equivalent":  "Mi",
+                                                                                                        "pitch_class_12tet":  4,
+                                                                                                        "exact_deviation_cents":  null
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "degree":  "4",
+                                                                                                        "historical_status":  "posizione eptatonica relativa",
+                                                                                                        "modern_equivalent":  "Fa",
+                                                                                                        "pitch_class_12tet":  5,
+                                                                                                        "exact_deviation_cents":  null
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "degree":  "5",
+                                                                                                        "historical_status":  "posizione eptatonica relativa",
+                                                                                                        "modern_equivalent":  "Sol",
+                                                                                                        "pitch_class_12tet":  7,
+                                                                                                        "exact_deviation_cents":  null
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "degree":  "6",
+                                                                                                        "historical_status":  "posizione eptatonica relativa",
+                                                                                                        "modern_equivalent":  "La",
+                                                                                                        "pitch_class_12tet":  9,
+                                                                                                        "exact_deviation_cents":  null
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "degree":  "7",
+                                                                                                        "historical_status":  "posizione eptatonica relativa",
+                                                                                                        "modern_equivalent":  "Si",
+                                                                                                        "pitch_class_12tet":  11,
+                                                                                                        "exact_deviation_cents":  null
+                                                                                                    }
+                                                                                                ],
+                                                                        "calculated_intervals_cents":  [
+
+                                                                                                       ],
+                                                                        "source_ids":  [
+                                                                                           "SRC-UR-MIRELMAN-KRISPJIN-UET899-2009",
+                                                                                           "SRC-UR-GURNEY-TUNING-TREATISE-1968",
+                                                                                           "SRC-UR-KILMER-MESOPOTAMIAN-THEORY-1971"
+                                                                                       ],
+                                                                        "measured_natural_sequence":  [
+
+                                                                                                      ],
+                                                                        "measured_intervals_cents":  [
+
+                                                                                                     ],
+                                                                        "scale_degrees_from_keynote":  [
+                                                                                                           "1",
+                                                                                                           "2",
+                                                                                                           "3",
+                                                                                                           "4",
+                                                                                                           "5",
+                                                                                                           "6",
+                                                                                                           "7"
+                                                                                                       ]
+                                                                    },
+                                              "center":  {
+                                                             "label":  "Do",
+                                                             "type":  "riferimento convenzionale 12-TET, non storico",
+                                                             "pitch_class":  0,
+                                                             "historical_reference":  "nessuna altezza assoluta o tonica moderna documentata"
+                                                         },
+                                              "approximation":  {
+                                                                    "system":  "12-TET",
+                                                                    "status":  "sintesi_operativa_non_storica",
+                                                                    "quality":  "media_per_sola_struttura_eptatonica; bassa_per_intervalli_e_altezze",
+                                                                    "deviations_cents":  [
+
+                                                                                         ],
+                                                                    "warning":  "Do-Re-Mi-Fa-Sol-La-Si è una griglia neutra del software. Non identifica una delle accordature mesopotamiche con una tonalità moderna e non ricostruisce l\u0027accordatura delle lire archeologiche."
+                                                                },
+                                              "harmonization":  {
+                                                                    "status":  "proposta_moderna_anacronistica",
+                                                                    "method":  "triadi generate dalla sola collezione 12-TET convenzionale",
+                                                                    "warning":  "Le fonti non documentano armonia funzionale o successioni di accordi per la pratica di Ur."
+                                                                },
+                                              "transition_reliability":  {
+                                                                             "archaeological_instrument_context":  "alta",
+                                                                             "local_tuning_text":  "alta",
+                                                                             "historical_pitch_comparison":  "bassa",
+                                                                             "structural_scale_comparison":  "media-alta",
+                                                                             "twelve_tet_transition":  "bassa-media",
+                                                                             "reason":  "Ur offre sia strumenti archeologici sia un testo locale di accordatura, ma non conserva frequenze assolute né una melodia univoca; inoltre i due nuclei documentari sono separati cronologicamente."
+                                                                         },
+                                              "notes_12tet":  [
+                                                                  "Do",
+                                                                  "Re",
+                                                                  "Mi",
+                                                                  "Fa",
+                                                                  "Sol",
+                                                                  "La",
+                                                                  "Si"
+                                                              ],
+                                              "pitch_classes_12tet":  [
+                                                                          0,
+                                                                          2,
+                                                                          4,
+                                                                          5,
+                                                                          7,
+                                                                          9,
+                                                                          11
+                                                                      ],
+                                              "source_ids":  [
+                                                                 "SRC-UR-WOOLLEY-ROYAL-CEMETERY-1934",
+                                                                 "SRC-UR-DESCHAUENSEE-TWO-LYRES-2002",
+                                                                 "SRC-UR-MIRELMAN-KRISPJIN-UET899-2009",
+                                                                 "SRC-UR-GURNEY-TUNING-TREATISE-1968",
+                                                                 "SRC-UR-KILMER-MESOPOTAMIAN-THEORY-1971"
+                                                             ],
+                                              "documents":  [
+                                                                {
+                                                                    "document_id":  "DOC-UR-LYRES-TUNING-DATA",
+                                                                    "label":  "Dati documentati sulle lire e sulle accordature di Ur",
+                                                                    "path":  "../documenti/DATI_DOCUMENTATI_UR_LIRE_ACCORDATURA.txt",
+                                                                    "type":  "text",
+                                                                    "_exists":  true,
+                                                                    "_blocked":  false,
+                                                                    "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\02_UR_ROYAL_LYRES_OLD_BABYLONIAN_TUNING\\documenti\\DATI_DOCUMENTATI_UR_LIRE_ACCORDATURA.txt",
+                                                                    "_relative_path":  "02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\02_UR_ROYAL_LYRES_OLD_BABYLONIAN_TUNING\\documenti\\DATI_DOCUMENTATI_UR_LIRE_ACCORDATURA.txt",
+                                                                    "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/02_P2%20%C2%B7%203000%E2%80%931000%20a.C.%20%E2%80%94%20Prime%20citt%C3%A0,%20Stati%E2%80%A6/01_Asia%20sud-occidentale%20e%20altopiano%20iranico/Tradizioni%20musicali/02_UR_ROYAL_LYRES_OLD_BABYLONIAN_TUNING/documenti/DATI_DOCUMENTATI_UR_LIRE_ACCORDATURA.txt",
+                                                                    "_extension":  ".txt"
+                                                                },
+                                                                {
+                                                                    "document_id":  "DOC-UR-LYRES-TUNING-METHOD",
+                                                                    "label":  "Nota metodologica sul quadro eptatonico paleobabilonese",
+                                                                    "path":  "../documenti/NOTA_METODOLOGICA_UR_EPTATONICO.txt",
+                                                                    "type":  "text",
+                                                                    "_exists":  true,
+                                                                    "_blocked":  false,
+                                                                    "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\02_UR_ROYAL_LYRES_OLD_BABYLONIAN_TUNING\\documenti\\NOTA_METODOLOGICA_UR_EPTATONICO.txt",
+                                                                    "_relative_path":  "02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\02_UR_ROYAL_LYRES_OLD_BABYLONIAN_TUNING\\documenti\\NOTA_METODOLOGICA_UR_EPTATONICO.txt",
+                                                                    "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/02_P2%20%C2%B7%203000%E2%80%931000%20a.C.%20%E2%80%94%20Prime%20citt%C3%A0,%20Stati%E2%80%A6/01_Asia%20sud-occidentale%20e%20altopiano%20iranico/Tradizioni%20musicali/02_UR_ROYAL_LYRES_OLD_BABYLONIAN_TUNING/documenti/NOTA_METODOLOGICA_UR_EPTATONICO.txt",
+                                                                    "_extension":  ".txt"
+                                                                }
+                                                            ]
+                                          }
+                                      ],
+                           "documents":  [
+                                             {
+                                                 "document_id":  "DOC-UR-LYRES-TUNING-DATA",
+                                                 "label":  "Dati documentati sulle lire e sulle accordature di Ur",
+                                                 "path":  "../documenti/DATI_DOCUMENTATI_UR_LIRE_ACCORDATURA.txt",
+                                                 "type":  "text",
+                                                 "_exists":  true,
+                                                 "_blocked":  false,
+                                                 "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\02_UR_ROYAL_LYRES_OLD_BABYLONIAN_TUNING\\documenti\\DATI_DOCUMENTATI_UR_LIRE_ACCORDATURA.txt",
+                                                 "_relative_path":  "02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\02_UR_ROYAL_LYRES_OLD_BABYLONIAN_TUNING\\documenti\\DATI_DOCUMENTATI_UR_LIRE_ACCORDATURA.txt",
+                                                 "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/02_P2%20%C2%B7%203000%E2%80%931000%20a.C.%20%E2%80%94%20Prime%20citt%C3%A0,%20Stati%E2%80%A6/01_Asia%20sud-occidentale%20e%20altopiano%20iranico/Tradizioni%20musicali/02_UR_ROYAL_LYRES_OLD_BABYLONIAN_TUNING/documenti/DATI_DOCUMENTATI_UR_LIRE_ACCORDATURA.txt",
+                                                 "_extension":  ".txt"
+                                             },
+                                             {
+                                                 "document_id":  "DOC-UR-LYRES-TUNING-METHOD",
+                                                 "label":  "Nota metodologica sul quadro eptatonico paleobabilonese",
+                                                 "path":  "../documenti/NOTA_METODOLOGICA_UR_EPTATONICO.txt",
+                                                 "type":  "text",
+                                                 "_exists":  true,
+                                                 "_blocked":  false,
+                                                 "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\02_UR_ROYAL_LYRES_OLD_BABYLONIAN_TUNING\\documenti\\NOTA_METODOLOGICA_UR_EPTATONICO.txt",
+                                                 "_relative_path":  "02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\02_UR_ROYAL_LYRES_OLD_BABYLONIAN_TUNING\\documenti\\NOTA_METODOLOGICA_UR_EPTATONICO.txt",
+                                                 "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/02_P2%20%C2%B7%203000%E2%80%931000%20a.C.%20%E2%80%94%20Prime%20citt%C3%A0,%20Stati%E2%80%A6/01_Asia%20sud-occidentale%20e%20altopiano%20iranico/Tradizioni%20musicali/02_UR_ROYAL_LYRES_OLD_BABYLONIAN_TUNING/documenti/NOTA_METODOLOGICA_UR_EPTATONICO.txt",
+                                                 "_extension":  ".txt"
+                                             }
+                                         ],
+                           "sources":  [
+                                           {
+                                               "source_id":  "SRC-UR-WOOLLEY-ROYAL-CEMETERY-1934",
+                                               "purpose":  "contesto archeologico degli strumenti a corda del Cimitero Reale di Ur",
+                                               "title":  "Ur Excavations II: The Royal Cemetery",
+                                               "author":  "C. Leonard Woolley",
+                                               "year":  "1934",
+                                               "publisher_or_journal":  "Joint Expedition of the British Museum and the University Museum, University of Pennsylvania; Oxford University Press",
+                                               "identifier":  "Ur Excavations II",
+                                               "pages":  "catalogo, descrizioni e tavole relative agli strumenti musicali delle tombe reali",
+                                               "grade":  "A"
+                                           },
+                                           {
+                                               "source_id":  "SRC-UR-DESCHAUENSEE-TWO-LYRES-2002",
+                                               "purpose":  "studio organologico e ricostruttivo di due lire provenienti da Ur",
+                                               "title":  "Two Lyres from Ur",
+                                               "author":  "Maude de Schauensee",
+                                               "year":  "2002",
+                                               "publisher_or_journal":  "University of Pennsylvania Museum of Archaeology and Anthropology",
+                                               "identifier":  "monografia museale",
+                                               "pages":  "intero volume",
+                                               "grade":  "A"
+                                           },
+                                           {
+                                               "source_id":  "SRC-UR-MIRELMAN-KRISPJIN-UET899-2009",
+                                               "purpose":  "edizione e interpretazione del testo paleobabilonese di accordatura proveniente da Ur",
+                                               "title":  "The Old Babylonian Tuning Text UET VI/3 899",
+                                               "author":  "Sam Mirelman e Theo J. H. Krispijn",
+                                               "year":  "2009",
+                                               "publisher_or_journal":  "Iraq 71",
+                                               "identifier":  "UET VI/3 899",
+                                               "pages":  "43-52",
+                                               "grade":  "A"
+                                           },
+                                           {
+                                               "source_id":  "SRC-UR-GURNEY-TUNING-TREATISE-1968",
+                                               "purpose":  "analisi comparativa delle istruzioni paleobabilonesi di riaccordatura",
+                                               "title":  "An Old Babylonian Treatise on the Tuning of the Harp",
+                                               "author":  "O. R. Gurney",
+                                               "year":  "1968",
+                                               "publisher_or_journal":  "Iraq 30",
+                                               "identifier":  "articolo accademico",
+                                               "pages":  "229-233",
+                                               "grade":  "A"
+                                           },
+                                           {
+                                               "source_id":  "SRC-UR-KILMER-MESOPOTAMIAN-THEORY-1971",
+                                               "purpose":  "ricostruzione del quadro teorico mesopotamico di corde, intervalli e accordature",
+                                               "title":  "The Discovery of an Ancient Mesopotamian Theory of Music",
+                                               "author":  "Anne Draffkorn Kilmer",
+                                               "year":  "1971",
+                                               "publisher_or_journal":  "Proceedings of the American Philosophical Society 115(2)",
+                                               "identifier":  "articolo accademico",
+                                               "pages":  "131-149",
+                                               "grade":  "A"
+                                           }
+                                       ],
+                           "_source_file":  "02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\02_UR_ROYAL_LYRES_OLD_BABYLONIAN_TUNING\\dati\\musica-container.json",
+                           "_source_directory":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\02_UR_ROYAL_LYRES_OLD_BABYLONIAN_TUNING\\dati",
+                           "_directory_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/02_P2%20%C2%B7%203000%E2%80%931000%20a.C.%20%E2%80%94%20Prime%20citt%C3%A0,%20Stati%E2%80%A6/01_Asia%20sud-occidentale%20e%20altopiano%20iranico/Tradizioni%20musicali/02_UR_ROYAL_LYRES_OLD_BABYLONIAN_TUNING/dati"
+                       },
+                       {
                            "schema_version":  1,
                            "container_id":  "CONTAINER-P2-ASW-UGARIT-HURRIAN-CULT-SONG",
                            "record_status":  "documentato",
@@ -600,6 +917,496 @@
                            "_source_file":  "02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\01_UGARIT_HURRIAN_CULT_SONG_PRACTICE\\dati\\musica-container.json",
                            "_source_directory":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\01_UGARIT_HURRIAN_CULT_SONG_PRACTICE\\dati",
                            "_directory_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/02_P2%20%C2%B7%203000%E2%80%931000%20a.C.%20%E2%80%94%20Prime%20citt%C3%A0,%20Stati%E2%80%A6/01_Asia%20sud-occidentale%20e%20altopiano%20iranico/Tradizioni%20musicali/01_UGARIT_HURRIAN_CULT_SONG_PRACTICE/dati"
+                       },
+                       {
+                           "schema_version":  1,
+                           "container_id":  "CONTAINER-P3-EAS-CHANGAN-HAN-TWELVE-LU",
+                           "record_status":  "documentato",
+                           "area":  {
+                                        "id":  "EASIA",
+                                        "label":  "Asia orientale"
+                                    },
+                           "period":  {
+                                          "id":  "P3",
+                                          "order":  3,
+                                          "label":  "1000 a.C.–500 d.C. — Imperi classici…"
+                                      },
+                           "tradition":  {
+                                             "id":  "CHANGAN_HAN_TWELVE_LU_COURT_STANDARD",
+                                             "label":  "Standard di altezza e teoria dei dodici lü nella cultura di corte Han",
+                                             "historical_name":  "shi\u0027er lü (十二律); etichetta del contenitore estesa con il riferimento alla corte Han",
+                                             "documentation_status":  "documentato",
+                                             "scope_note":  "Il contenitore descrive il sistema teorico e amministrativo Han dei diapason. L\u0027associazione a Chang\u0027an è storico-istituzionale e non pretende un reperto sonoro urbano.",
+                                             "source_ids":  [
+                                                                "SRC-CHANGAN-HAN-HANSHU-LULI-21",
+                                                                "SRC-CHANGAN-HAN-HUAINANZI-TIANWEN",
+                                                                "SRC-CHANGAN-HAN-MAJOR-HUAINANZI-2010",
+                                                                "SRC-CHANGAN-HAN-MCCLAIN-HUNG-1979",
+                                                                "SRC-CHANGAN-HAN-BRINDLEY-2012",
+                                                                "SRC-CHANGAN-HAN-LEWIS-2007"
+                                                            ]
+                                         },
+                           "scales":  [
+                                          {
+                                              "scale_id":  "CHANGAN_HAN_SHIER_LU_SANFEN_SUNYI_FRAMEWORK",
+                                              "name":  "Chang\u0027an Han - quadro teorico dei dodici lü",
+                                              "documentation_status":  "documentato",
+                                              "comparison_basis":  "han_textual_pitch_standards_and_mathematical_3_2_generation",
+                                              "documentation_scope":  {
+                                                                          "documented":  [
+                                                                                             "esistenza di dodici diapason o standard di altezza denominati lü",
+                                                                                             "ruolo di Huangzhong come riferimento generativo e normativo",
+                                                                                             "generazione ciclica mediante rapporti riconducibili a 3:2 e 4:3",
+                                                                                             "integrazione Han fra musica, rituale, misure e calendario",
+                                                                                             "sviluppi matematici attribuiti a Jing Fang nel I secolo a.C."
+                                                                                         ],
+                                                                          "not_documented":  [
+                                                                                                 "frequenza assoluta moderna e invariabile di Huangzhong",
+                                                                                                 "temperamento equabile a dodici suoni",
+                                                                                                 "uso dei dodici lü come serie compositiva dodecafonica",
+                                                                                                 "una singola scala melodica obbligatoria per tutta la musica Han",
+                                                                                                 "una registrazione o un\u0027esecuzione sonora recuperabile dalla Chang\u0027an antica"
+                                                                                             ]
+                                                                      },
+                                              "historical_context":  {
+                                                                         "city":  "Chang\u0027an",
+                                                                         "political_context":  "capitale principale della dinastia Han occidentale e sede della corte imperiale",
+                                                                         "documented_subrange":  "II-I secolo a.C., con tradizioni raccolte anche nel Hanshu del I secolo d.C.",
+                                                                         "geographical_caution":  "il profilo riguarda la cultura teorico-amministrativa della corte Han; non dipende da un singolo strumento scavato nel centro urbano"
+                                                                     },
+                                              "historical_tuning":  {
+                                                                        "description":  "I dodici lü costituiscono un insieme di standard di altezza dal quale potevano essere selezionati sistemi modali e collezioni di cinque o sette suoni. Non sono una scala cromatica moderna né un temperamento equabile.",
+                                                                        "historical_name":  "shi\u0027er lü (十二律)",
+                                                                        "generation_method":  "sanfen sunyi, rappresentato nel profilo tramite ciclo di rapporti 3:2 e riduzione d\u0027ottava",
+                                                                        "reference_lu":  "Huangzhong (黃鐘)",
+                                                                        "absolute_pitch":  "non fissata in hertz nel profilo",
+                                                                        "tonal_center":  "Huangzhong è il riferimento del calcolo, non una tonica universale di ogni repertorio Han",
+                                                                        "generating_cycle":  [
+                                                                                                 "Huangzhong",
+                                                                                                 "Linzhong",
+                                                                                                 "Taicu",
+                                                                                                 "Nanlu",
+                                                                                                 "Guxian",
+                                                                                                 "Yingzhong",
+                                                                                                 "Ruibin",
+                                                                                                 "Dalu",
+                                                                                                 "Yize",
+                                                                                                 "Jiazhong",
+                                                                                                 "Wuyi",
+                                                                                                 "Zhonglu"
+                                                                                             ],
+                                                                        "calculated_sequence":  [
+                                                                                                    {
+                                                                                                        "order":  1,
+                                                                                                        "lu_name":  "Huangzhong",
+                                                                                                        "lu_name_hanzi":  "黃鐘",
+                                                                                                        "frequency_ratio_from_huangzhong":  "1/1",
+                                                                                                        "calculated_cents_from_huangzhong":  0.0,
+                                                                                                        "modern_12tet_equivalent":  "Do",
+                                                                                                        "pitch_class_12tet":  0,
+                                                                                                        "deviation_from_12tet_cents":  0.0,
+                                                                                                        "value_status":  "calcolo_moderno_dal_ciclo_3_2"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "order":  2,
+                                                                                                        "lu_name":  "Dalu",
+                                                                                                        "lu_name_hanzi":  "大呂",
+                                                                                                        "frequency_ratio_from_huangzhong":  "2187/2048",
+                                                                                                        "calculated_cents_from_huangzhong":  113.685,
+                                                                                                        "modern_12tet_equivalent":  "Do diesis",
+                                                                                                        "pitch_class_12tet":  1,
+                                                                                                        "deviation_from_12tet_cents":  13.685,
+                                                                                                        "value_status":  "calcolo_moderno_dal_ciclo_3_2"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "order":  3,
+                                                                                                        "lu_name":  "Taicu",
+                                                                                                        "lu_name_hanzi":  "太簇",
+                                                                                                        "frequency_ratio_from_huangzhong":  "9/8",
+                                                                                                        "calculated_cents_from_huangzhong":  203.91,
+                                                                                                        "modern_12tet_equivalent":  "Re",
+                                                                                                        "pitch_class_12tet":  2,
+                                                                                                        "deviation_from_12tet_cents":  3.91,
+                                                                                                        "value_status":  "calcolo_moderno_dal_ciclo_3_2"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "order":  4,
+                                                                                                        "lu_name":  "Jiazhong",
+                                                                                                        "lu_name_hanzi":  "夾鐘",
+                                                                                                        "frequency_ratio_from_huangzhong":  "19683/16384",
+                                                                                                        "calculated_cents_from_huangzhong":  317.595,
+                                                                                                        "modern_12tet_equivalent":  "Mi bemolle",
+                                                                                                        "pitch_class_12tet":  3,
+                                                                                                        "deviation_from_12tet_cents":  17.595,
+                                                                                                        "value_status":  "calcolo_moderno_dal_ciclo_3_2"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "order":  5,
+                                                                                                        "lu_name":  "Guxian",
+                                                                                                        "lu_name_hanzi":  "姑洗",
+                                                                                                        "frequency_ratio_from_huangzhong":  "81/64",
+                                                                                                        "calculated_cents_from_huangzhong":  407.82,
+                                                                                                        "modern_12tet_equivalent":  "Mi",
+                                                                                                        "pitch_class_12tet":  4,
+                                                                                                        "deviation_from_12tet_cents":  7.82,
+                                                                                                        "value_status":  "calcolo_moderno_dal_ciclo_3_2"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "order":  6,
+                                                                                                        "lu_name":  "Zhonglu",
+                                                                                                        "lu_name_hanzi":  "仲呂",
+                                                                                                        "frequency_ratio_from_huangzhong":  "177147/131072",
+                                                                                                        "calculated_cents_from_huangzhong":  521.505,
+                                                                                                        "modern_12tet_equivalent":  "Fa",
+                                                                                                        "pitch_class_12tet":  5,
+                                                                                                        "deviation_from_12tet_cents":  21.505,
+                                                                                                        "value_status":  "calcolo_moderno_dal_ciclo_3_2"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "order":  7,
+                                                                                                        "lu_name":  "Ruibin",
+                                                                                                        "lu_name_hanzi":  "蕤賓",
+                                                                                                        "frequency_ratio_from_huangzhong":  "729/512",
+                                                                                                        "calculated_cents_from_huangzhong":  611.73,
+                                                                                                        "modern_12tet_equivalent":  "Fa diesis",
+                                                                                                        "pitch_class_12tet":  6,
+                                                                                                        "deviation_from_12tet_cents":  11.73,
+                                                                                                        "value_status":  "calcolo_moderno_dal_ciclo_3_2"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "order":  8,
+                                                                                                        "lu_name":  "Linzhong",
+                                                                                                        "lu_name_hanzi":  "林鐘",
+                                                                                                        "frequency_ratio_from_huangzhong":  "3/2",
+                                                                                                        "calculated_cents_from_huangzhong":  701.955,
+                                                                                                        "modern_12tet_equivalent":  "Sol",
+                                                                                                        "pitch_class_12tet":  7,
+                                                                                                        "deviation_from_12tet_cents":  1.955,
+                                                                                                        "value_status":  "calcolo_moderno_dal_ciclo_3_2"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "order":  9,
+                                                                                                        "lu_name":  "Yize",
+                                                                                                        "lu_name_hanzi":  "夷則",
+                                                                                                        "frequency_ratio_from_huangzhong":  "6561/4096",
+                                                                                                        "calculated_cents_from_huangzhong":  815.64,
+                                                                                                        "modern_12tet_equivalent":  "La bemolle",
+                                                                                                        "pitch_class_12tet":  8,
+                                                                                                        "deviation_from_12tet_cents":  15.64,
+                                                                                                        "value_status":  "calcolo_moderno_dal_ciclo_3_2"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "order":  10,
+                                                                                                        "lu_name":  "Nanlu",
+                                                                                                        "lu_name_hanzi":  "南呂",
+                                                                                                        "frequency_ratio_from_huangzhong":  "27/16",
+                                                                                                        "calculated_cents_from_huangzhong":  905.865,
+                                                                                                        "modern_12tet_equivalent":  "La",
+                                                                                                        "pitch_class_12tet":  9,
+                                                                                                        "deviation_from_12tet_cents":  5.865,
+                                                                                                        "value_status":  "calcolo_moderno_dal_ciclo_3_2"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "order":  11,
+                                                                                                        "lu_name":  "Wuyi",
+                                                                                                        "lu_name_hanzi":  "無射",
+                                                                                                        "frequency_ratio_from_huangzhong":  "59049/32768",
+                                                                                                        "calculated_cents_from_huangzhong":  1019.55,
+                                                                                                        "modern_12tet_equivalent":  "Si bemolle",
+                                                                                                        "pitch_class_12tet":  10,
+                                                                                                        "deviation_from_12tet_cents":  19.55,
+                                                                                                        "value_status":  "calcolo_moderno_dal_ciclo_3_2"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "order":  12,
+                                                                                                        "lu_name":  "Yingzhong",
+                                                                                                        "lu_name_hanzi":  "應鐘",
+                                                                                                        "frequency_ratio_from_huangzhong":  "243/128",
+                                                                                                        "calculated_cents_from_huangzhong":  1109.775,
+                                                                                                        "modern_12tet_equivalent":  "Si",
+                                                                                                        "pitch_class_12tet":  11,
+                                                                                                        "deviation_from_12tet_cents":  9.775,
+                                                                                                        "value_status":  "calcolo_moderno_dal_ciclo_3_2"
+                                                                                                    }
+                                                                                                ],
+                                                                        "calculated_intervals_cents":  [
+                                                                                                           113.685,
+                                                                                                           90.225,
+                                                                                                           113.685,
+                                                                                                           90.225,
+                                                                                                           113.685,
+                                                                                                           90.225,
+                                                                                                           90.225,
+                                                                                                           113.685,
+                                                                                                           90.225,
+                                                                                                           113.685,
+                                                                                                           90.225,
+                                                                                                           90.225
+                                                                                                       ],
+                                                                        "source_ids":  [
+                                                                                           "SRC-CHANGAN-HAN-HANSHU-LULI-21",
+                                                                                           "SRC-CHANGAN-HAN-HUAINANZI-TIANWEN",
+                                                                                           "SRC-CHANGAN-HAN-MAJOR-HUAINANZI-2010",
+                                                                                           "SRC-CHANGAN-HAN-MCCLAIN-HUNG-1979",
+                                                                                           "SRC-CHANGAN-HAN-BRINDLEY-2012"
+                                                                                       ],
+                                                                        "measured_natural_sequence":  [
+
+                                                                                                      ],
+                                                                        "measured_intervals_cents":  [
+
+                                                                                                     ],
+                                                                        "scale_degrees_from_keynote":  [
+                                                                                                           "Huangzhong",
+                                                                                                           "Dalu",
+                                                                                                           "Taicu",
+                                                                                                           "Jiazhong",
+                                                                                                           "Guxian",
+                                                                                                           "Zhonglu",
+                                                                                                           "Ruibin",
+                                                                                                           "Linzhong",
+                                                                                                           "Yize",
+                                                                                                           "Nanlu",
+                                                                                                           "Wuyi",
+                                                                                                           "Yingzhong"
+                                                                                                       ]
+                                                                    },
+                                              "center":  {
+                                                             "label":  "Do",
+                                                             "type":  "riferimento convenzionale 12-TET, non storico",
+                                                             "pitch_class":  0,
+                                                             "historical_reference":  "Huangzhong è posto convenzionalmente su Do solo per il confronto software"
+                                                         },
+                                              "approximation":  {
+                                                                    "system":  "12-TET",
+                                                                    "status":  "confronto_moderno_non_storico",
+                                                                    "quality":  "alta_per_ordinamento_delle_classi; media_per_dimensione_degli_intervalli; nulla_per_altezza_assoluta",
+                                                                    "deviations_cents":  [
+                                                                                             {
+                                                                                                 "lu_name":  "Huangzhong",
+                                                                                                 "deviation_cents":  0.0
+                                                                                             },
+                                                                                             {
+                                                                                                 "lu_name":  "Dalu",
+                                                                                                 "deviation_cents":  13.685
+                                                                                             },
+                                                                                             {
+                                                                                                 "lu_name":  "Taicu",
+                                                                                                 "deviation_cents":  3.91
+                                                                                             },
+                                                                                             {
+                                                                                                 "lu_name":  "Jiazhong",
+                                                                                                 "deviation_cents":  17.595
+                                                                                             },
+                                                                                             {
+                                                                                                 "lu_name":  "Guxian",
+                                                                                                 "deviation_cents":  7.82
+                                                                                             },
+                                                                                             {
+                                                                                                 "lu_name":  "Zhonglu",
+                                                                                                 "deviation_cents":  21.505
+                                                                                             },
+                                                                                             {
+                                                                                                 "lu_name":  "Ruibin",
+                                                                                                 "deviation_cents":  11.73
+                                                                                             },
+                                                                                             {
+                                                                                                 "lu_name":  "Linzhong",
+                                                                                                 "deviation_cents":  1.955
+                                                                                             },
+                                                                                             {
+                                                                                                 "lu_name":  "Yize",
+                                                                                                 "deviation_cents":  15.64
+                                                                                             },
+                                                                                             {
+                                                                                                 "lu_name":  "Nanlu",
+                                                                                                 "deviation_cents":  5.865
+                                                                                             },
+                                                                                             {
+                                                                                                 "lu_name":  "Wuyi",
+                                                                                                 "deviation_cents":  19.55
+                                                                                             },
+                                                                                             {
+                                                                                                 "lu_name":  "Yingzhong",
+                                                                                                 "deviation_cents":  9.775
+                                                                                             }
+                                                                                         ],
+                                                                    "warning":  "La corrispondenza Do-Do diesis-...-Si è una visualizzazione moderna. I valori in cent sono calcoli dai rapporti, non misurazioni antiche e non dimostrano il 12-TET nella dinastia Han."
+                                                                },
+                                              "harmonization":  {
+                                                                    "status":  "proposta_moderna_anacronistica",
+                                                                    "method":  "eventuali accordi del software derivano dalle classi 12-TET convenzionali",
+                                                                    "warning":  "Le fonti non documentano armonia funzionale occidentale per i dodici lü."
+                                                                },
+                                              "transition_reliability":  {
+                                                                             "textual_pitch_system":  "alta",
+                                                                             "mathematical_ratio_reconstruction":  "alta",
+                                                                             "absolute_pitch_comparison":  "bassa",
+                                                                             "structural_pitch_class_comparison":  "alta",
+                                                                             "twelve_tet_transition":  "media",
+                                                                             "reason":  "Il sistema e i rapporti generativi sono documentabili; la frequenza assoluta e l\u0027identità con il temperamento equabile non lo sono."
+                                                                         },
+                                              "notes_12tet":  [
+                                                                  "Do",
+                                                                  "Do diesis",
+                                                                  "Re",
+                                                                  "Mi bemolle",
+                                                                  "Mi",
+                                                                  "Fa",
+                                                                  "Fa diesis",
+                                                                  "Sol",
+                                                                  "La bemolle",
+                                                                  "La",
+                                                                  "Si bemolle",
+                                                                  "Si"
+                                                              ],
+                                              "pitch_classes_12tet":  [
+                                                                          0,
+                                                                          1,
+                                                                          2,
+                                                                          3,
+                                                                          4,
+                                                                          5,
+                                                                          6,
+                                                                          7,
+                                                                          8,
+                                                                          9,
+                                                                          10,
+                                                                          11
+                                                                      ],
+                                              "source_ids":  [
+                                                                 "SRC-CHANGAN-HAN-HANSHU-LULI-21",
+                                                                 "SRC-CHANGAN-HAN-HUAINANZI-TIANWEN",
+                                                                 "SRC-CHANGAN-HAN-MAJOR-HUAINANZI-2010",
+                                                                 "SRC-CHANGAN-HAN-MCCLAIN-HUNG-1979",
+                                                                 "SRC-CHANGAN-HAN-BRINDLEY-2012",
+                                                                 "SRC-CHANGAN-HAN-LEWIS-2007"
+                                                             ],
+                                              "documents":  [
+                                                                {
+                                                                    "document_id":  "DOC-CHANGAN-HAN-TWELVE-LU-DATA",
+                                                                    "label":  "Dati documentati sui dodici lü della cultura Han",
+                                                                    "path":  "../documenti/DATI_DOCUMENTATI_CHANGAN_HAN_DODICI_LU.txt",
+                                                                    "type":  "text",
+                                                                    "_exists":  true,
+                                                                    "_blocked":  false,
+                                                                    "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\03_P3 · 1000 a.C.–500 d.C. — Imperi classici…\\04_Asia orientale\\Tradizioni musicali\\01_CHANGAN_HAN_TWELVE_LU_COURT_STANDARD\\documenti\\DATI_DOCUMENTATI_CHANGAN_HAN_DODICI_LU.txt",
+                                                                    "_relative_path":  "03_P3 · 1000 a.C.–500 d.C. — Imperi classici…\\04_Asia orientale\\Tradizioni musicali\\01_CHANGAN_HAN_TWELVE_LU_COURT_STANDARD\\documenti\\DATI_DOCUMENTATI_CHANGAN_HAN_DODICI_LU.txt",
+                                                                    "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/03_P3%20%C2%B7%201000%20a.C.%E2%80%93500%20d.C.%20%E2%80%94%20Imperi%20classici%E2%80%A6/04_Asia%20orientale/Tradizioni%20musicali/01_CHANGAN_HAN_TWELVE_LU_COURT_STANDARD/documenti/DATI_DOCUMENTATI_CHANGAN_HAN_DODICI_LU.txt",
+                                                                    "_extension":  ".txt"
+                                                                },
+                                                                {
+                                                                    "document_id":  "DOC-CHANGAN-HAN-TWELVE-LU-METHOD",
+                                                                    "label":  "Nota metodologica sulla generazione 3:2 e sul confronto moderno",
+                                                                    "path":  "../documenti/NOTA_METODOLOGICA_CHANGAN_HAN_DODICI_LU.txt",
+                                                                    "type":  "text",
+                                                                    "_exists":  true,
+                                                                    "_blocked":  false,
+                                                                    "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\03_P3 · 1000 a.C.–500 d.C. — Imperi classici…\\04_Asia orientale\\Tradizioni musicali\\01_CHANGAN_HAN_TWELVE_LU_COURT_STANDARD\\documenti\\NOTA_METODOLOGICA_CHANGAN_HAN_DODICI_LU.txt",
+                                                                    "_relative_path":  "03_P3 · 1000 a.C.–500 d.C. — Imperi classici…\\04_Asia orientale\\Tradizioni musicali\\01_CHANGAN_HAN_TWELVE_LU_COURT_STANDARD\\documenti\\NOTA_METODOLOGICA_CHANGAN_HAN_DODICI_LU.txt",
+                                                                    "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/03_P3%20%C2%B7%201000%20a.C.%E2%80%93500%20d.C.%20%E2%80%94%20Imperi%20classici%E2%80%A6/04_Asia%20orientale/Tradizioni%20musicali/01_CHANGAN_HAN_TWELVE_LU_COURT_STANDARD/documenti/NOTA_METODOLOGICA_CHANGAN_HAN_DODICI_LU.txt",
+                                                                    "_extension":  ".txt"
+                                                                }
+                                                            ]
+                                          }
+                                      ],
+                           "documents":  [
+                                             {
+                                                 "document_id":  "DOC-CHANGAN-HAN-TWELVE-LU-DATA",
+                                                 "label":  "Dati documentati sui dodici lü della cultura Han",
+                                                 "path":  "../documenti/DATI_DOCUMENTATI_CHANGAN_HAN_DODICI_LU.txt",
+                                                 "type":  "text",
+                                                 "_exists":  true,
+                                                 "_blocked":  false,
+                                                 "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\03_P3 · 1000 a.C.–500 d.C. — Imperi classici…\\04_Asia orientale\\Tradizioni musicali\\01_CHANGAN_HAN_TWELVE_LU_COURT_STANDARD\\documenti\\DATI_DOCUMENTATI_CHANGAN_HAN_DODICI_LU.txt",
+                                                 "_relative_path":  "03_P3 · 1000 a.C.–500 d.C. — Imperi classici…\\04_Asia orientale\\Tradizioni musicali\\01_CHANGAN_HAN_TWELVE_LU_COURT_STANDARD\\documenti\\DATI_DOCUMENTATI_CHANGAN_HAN_DODICI_LU.txt",
+                                                 "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/03_P3%20%C2%B7%201000%20a.C.%E2%80%93500%20d.C.%20%E2%80%94%20Imperi%20classici%E2%80%A6/04_Asia%20orientale/Tradizioni%20musicali/01_CHANGAN_HAN_TWELVE_LU_COURT_STANDARD/documenti/DATI_DOCUMENTATI_CHANGAN_HAN_DODICI_LU.txt",
+                                                 "_extension":  ".txt"
+                                             },
+                                             {
+                                                 "document_id":  "DOC-CHANGAN-HAN-TWELVE-LU-METHOD",
+                                                 "label":  "Nota metodologica sulla generazione 3:2 e sul confronto moderno",
+                                                 "path":  "../documenti/NOTA_METODOLOGICA_CHANGAN_HAN_DODICI_LU.txt",
+                                                 "type":  "text",
+                                                 "_exists":  true,
+                                                 "_blocked":  false,
+                                                 "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\03_P3 · 1000 a.C.–500 d.C. — Imperi classici…\\04_Asia orientale\\Tradizioni musicali\\01_CHANGAN_HAN_TWELVE_LU_COURT_STANDARD\\documenti\\NOTA_METODOLOGICA_CHANGAN_HAN_DODICI_LU.txt",
+                                                 "_relative_path":  "03_P3 · 1000 a.C.–500 d.C. — Imperi classici…\\04_Asia orientale\\Tradizioni musicali\\01_CHANGAN_HAN_TWELVE_LU_COURT_STANDARD\\documenti\\NOTA_METODOLOGICA_CHANGAN_HAN_DODICI_LU.txt",
+                                                 "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/03_P3%20%C2%B7%201000%20a.C.%E2%80%93500%20d.C.%20%E2%80%94%20Imperi%20classici%E2%80%A6/04_Asia%20orientale/Tradizioni%20musicali/01_CHANGAN_HAN_TWELVE_LU_COURT_STANDARD/documenti/NOTA_METODOLOGICA_CHANGAN_HAN_DODICI_LU.txt",
+                                                 "_extension":  ".txt"
+                                             }
+                                         ],
+                           "sources":  [
+                                           {
+                                               "source_id":  "SRC-CHANGAN-HAN-HANSHU-LULI-21",
+                                               "purpose":  "fonte primaria Han sui diapason, sui dodici lü e sul rapporto fra standard musicali e calendario",
+                                               "title":  "Hanshu (Libro degli Han), juan 21, Lüli zhi",
+                                               "author":  "Ban Gu e continuatori della storia dinastica Han",
+                                               "year":  "I secolo d.C.",
+                                               "publisher_or_journal":  "tradizione testuale del Hanshu",
+                                               "identifier":  "漢書卷二十一・律曆志",
+                                               "pages":  "juan 21, parti superiore e inferiore",
+                                               "grade":  "A"
+                                           },
+                                           {
+                                               "source_id":  "SRC-CHANGAN-HAN-HUAINANZI-TIANWEN",
+                                               "purpose":  "fonte primaria del primo periodo Han sulla generazione matematica delle altezze e sulle corrispondenze cosmologiche",
+                                               "title":  "Huainanzi, capitolo 3, Tianwen xun",
+                                               "author":  "Liu An e ambiente della corte di Huainan",
+                                               "year":  "presentato alla corte Han nel 139 a.C.",
+                                               "publisher_or_journal":  "tradizione testuale del Huainanzi",
+                                               "identifier":  "淮南子・天文訓",
+                                               "pages":  "capitolo 3",
+                                               "grade":  "A"
+                                           },
+                                           {
+                                               "source_id":  "SRC-CHANGAN-HAN-MAJOR-HUAINANZI-2010",
+                                               "purpose":  "traduzione e commento accademico del Huainanzi, inclusa la terminologia cosmologica e musicale",
+                                               "title":  "The Huainanzi: A Guide to the Theory and Practice of Government in Early Han China",
+                                               "author":  "John S. Major, Sarah A. Queen, Andrew Seth Meyer e Harold D. Roth",
+                                               "year":  "2010",
+                                               "publisher_or_journal":  "Columbia University Press",
+                                               "identifier":  "traduzione accademica integrale",
+                                               "pages":  "capitolo 3 e note",
+                                               "grade":  "A"
+                                           },
+                                           {
+                                               "source_id":  "SRC-CHANGAN-HAN-MCCLAIN-HUNG-1979",
+                                               "purpose":  "analisi matematica dei cicli di quinte e delle estensioni attribuite a Jing Fang",
+                                               "title":  "Chinese Cyclic Tunings in Late Antiquity",
+                                               "author":  "Ernest G. McClain e Ming Shui Hung",
+                                               "year":  "1979",
+                                               "publisher_or_journal":  "Ethnomusicology 23(2)",
+                                               "identifier":  "articolo accademico",
+                                               "pages":  "205-224",
+                                               "grade":  "A"
+                                           },
+                                           {
+                                               "source_id":  "SRC-CHANGAN-HAN-BRINDLEY-2012",
+                                               "purpose":  "inquadramento storico del rapporto fra musica, cosmologia, rituale e autorità politica nella Cina antica",
+                                               "title":  "Music, Cosmology, and the Politics of Harmony in Early China",
+                                               "author":  "Erica Brindley",
+                                               "year":  "2012",
+                                               "publisher_or_journal":  "State University of New York Press",
+                                               "identifier":  "monografia accademica",
+                                               "pages":  "sezioni sui diapason, sulla cosmologia musicale e sull\u0027autorità statale",
+                                               "grade":  "A"
+                                           },
+                                           {
+                                               "source_id":  "SRC-CHANGAN-HAN-LEWIS-2007",
+                                               "purpose":  "contesto storico di Chang\u0027an come capitale e sede delle istituzioni della dinastia Han occidentale",
+                                               "title":  "The Early Chinese Empires: Qin and Han",
+                                               "author":  "Mark Edward Lewis",
+                                               "year":  "2007",
+                                               "publisher_or_journal":  "Harvard University Press",
+                                               "identifier":  "monografia storica",
+                                               "pages":  "capitoli sulle capitali e sulle istituzioni imperiali",
+                                               "grade":  "B"
+                                           }
+                                       ],
+                           "_source_file":  "03_P3 · 1000 a.C.–500 d.C. — Imperi classici…\\04_Asia orientale\\Tradizioni musicali\\01_CHANGAN_HAN_TWELVE_LU_COURT_STANDARD\\dati\\musica-container.json",
+                           "_source_directory":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\03_P3 · 1000 a.C.–500 d.C. — Imperi classici…\\04_Asia orientale\\Tradizioni musicali\\01_CHANGAN_HAN_TWELVE_LU_COURT_STANDARD\\dati",
+                           "_directory_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/03_P3%20%C2%B7%201000%20a.C.%E2%80%93500%20d.C.%20%E2%80%94%20Imperi%20classici%E2%80%A6/04_Asia%20orientale/Tradizioni%20musicali/01_CHANGAN_HAN_TWELVE_LU_COURT_STANDARD/dati"
                        },
                        {
                            "container_id":  "CONTAINER-P3-EUR-MED-ATHENS-ARISTOXENUS",
@@ -2449,6 +3256,493 @@
                            "_directory_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/07_P7%20%C2%B7%201800%E2%80%931900%20%E2%80%94%20Industrializzazione%20iniz%E2%80%A6/01_Asia%20sud-occidentale%20e%20altopiano%20iranico/Tradizioni%20musicali/01_ISTANBUL_TANZIMAT_HAMPARSUM/dati"
                        },
                        {
+                           "schema_version":  1,
+                           "container_id":  "CONTAINER-P7-EUR-MED-PARIS-DIAPASON-NORMAL-1859",
+                           "record_status":  "documentato",
+                           "area":  {
+                                        "id":  "EUR_MED",
+                                        "label":  "Mediterraneo europeo ed Europa centro-occidentale"
+                                    },
+                           "period":  {
+                                          "id":  "P7",
+                                          "order":  7,
+                                          "label":  "1800–1900 — Industrializzazione iniz…"
+                                      },
+                           "tradition":  {
+                                             "id":  "PARIS_SECOND_EMPIRE_DIAPASON_NORMAL",
+                                             "label":  "Diapason normal e standardizzazione statale dell\u0027altezza nella Parigi del Secondo Impero",
+                                             "historical_name":  "diapason normal",
+                                             "documentation_status":  "documentato",
+                                             "scope_note":  "Il contenitore riguarda lo standard assoluto adottato nel 1859. Non rappresenta l\u0027intera pluralità delle accordature praticate a Parigi.",
+                                             "source_ids":  [
+                                                                "SRC-PARIS-DIAPASON-COMMISSION-1859",
+                                                                "SRC-PARIS-DIAPASON-ARRETE-1859",
+                                                                "SRC-PARIS-ELLIS-PITCH-1880",
+                                                                "SRC-PARIS-MENDEL-PITCH-1978",
+                                                                "SRC-PARIS-HAYNES-PITCH-2002"
+                                                            ]
+                                         },
+                           "documents":  [
+                                             {
+                                                 "document_id":  "DOC-PARIS-DIAPASON-1859-DATA",
+                                                 "label":  "Dati documentati del diapason normal del 1859",
+                                                 "path":  "../documenti/DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt",
+                                                 "type":  "text",
+                                                 "_exists":  true,
+                                                 "_blocked":  false,
+                                                 "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL\\documenti\\DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt",
+                                                 "_relative_path":  "07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL\\documenti\\DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt",
+                                                 "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/07_P7%20%C2%B7%201800%E2%80%931900%20%E2%80%94%20Industrializzazione%20iniz%E2%80%A6/06_Mediterraneo%20europeo%20ed%20Europa%20centro-occidentale/Tradizioni%20musicali/01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL/documenti/DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt",
+                                                 "_extension":  ".txt"
+                                             },
+                                             {
+                                                 "document_id":  "DOC-PARIS-DIAPASON-1859-METHOD",
+                                                 "label":  "Nota metodologica sul riferimento A=435 e sul 12-TET operativo",
+                                                 "path":  "../documenti/NOTA_METODOLOGICA_PARIGI_DIAPASON_1859.txt",
+                                                 "type":  "text",
+                                                 "_exists":  true,
+                                                 "_blocked":  false,
+                                                 "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL\\documenti\\NOTA_METODOLOGICA_PARIGI_DIAPASON_1859.txt",
+                                                 "_relative_path":  "07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL\\documenti\\NOTA_METODOLOGICA_PARIGI_DIAPASON_1859.txt",
+                                                 "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/07_P7%20%C2%B7%201800%E2%80%931900%20%E2%80%94%20Industrializzazione%20iniz%E2%80%A6/06_Mediterraneo%20europeo%20ed%20Europa%20centro-occidentale/Tradizioni%20musicali/01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL/documenti/NOTA_METODOLOGICA_PARIGI_DIAPASON_1859.txt",
+                                                 "_extension":  ".txt"
+                                             }
+                                         ],
+                           "scales":  [
+                                          {
+                                              "scale_id":  "PARIS_1859_DIAPASON_NORMAL_A435_REFERENCE",
+                                              "name":  "Parigi 1859 - diapason normal, La4 = 435 Hz",
+                                              "documentation_status":  "documentato",
+                                              "comparison_basis":  "documented_absolute_pitch_reference_with_operational_12tet_projection",
+                                              "documentation_scope":  {
+                                                                          "documented":  [
+                                                                                             "adozione francese nel 1859 di un diapason musicale uniforme",
+                                                                                             "riferimento del diapason normal equivalente a 435 oscillazioni complete al secondo per il La di riferimento",
+                                                                                             "uso amministrativo del campione negli stabilimenti musicali dipendenti dallo Stato",
+                                                                                             "contesto parigino della commissione e dell\u0027adozione normativa"
+                                                                                         ],
+                                                                          "not_documented":  [
+                                                                                                 "obbligo universale di temperamento equabile in ogni istituzione e strumento",
+                                                                                                 "identità fra ogni esecuzione parigina e il valore ideale di 435 Hz",
+                                                                                                 "conversione storica in notazione scientifica A4",
+                                                                                                 "superiorità estetica o fisiologica del valore 435 Hz"
+                                                                                             ]
+                                                                      },
+                                              "historical_context":  {
+                                                                         "city":  "Parigi",
+                                                                         "date":  "1859",
+                                                                         "political_context":  "Secondo Impero francese",
+                                                                         "institutional_context":  "commissione e amministrazione statale per l\u0027uniformazione del diapason",
+                                                                         "temperature_note":  "la letteratura tecnica associa il campione francese alla temperatura di 15 °C"
+                                                                     },
+                                              "historical_tuning":  {
+                                                                        "description":  "Il diapason normal fissa un\u0027altezza assoluta di riferimento. Non definisce da solo una scala completa né un temperamento per ogni strumento.",
+                                                                        "historical_name":  "diapason normal",
+                                                                        "reference_note_historical":  "la",
+                                                                        "reference_note_software":  "La4",
+                                                                        "reference_frequency_hz":  435.0,
+                                                                        "historical_vibration_terminology":  "870 vibrations simples, equivalenti a 435 oscillazioni complete o cicli al secondo",
+                                                                        "temperature_celsius":  15,
+                                                                        "absolute_pitch_status":  "documentato",
+                                                                        "temperament_status":  "non determinato dal solo atto del 1859",
+                                                                        "frequency_table_12tet":  [
+                                                                                                      {
+                                                                                                          "order":  1,
+                                                                                                          "note_12tet":  "La4",
+                                                                                                          "pitch_class_12tet":  9,
+                                                                                                          "frequency_hz_from_a4_435":  435.0,
+                                                                                                          "frequency_hz_from_a4_440":  440.0,
+                                                                                                          "difference_from_a440_cents":  -19.785747,
+                                                                                                          "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                                                      },
+                                                                                                      {
+                                                                                                          "order":  2,
+                                                                                                          "note_12tet":  "La diesis4",
+                                                                                                          "pitch_class_12tet":  10,
+                                                                                                          "frequency_hz_from_a4_435":  460.866446,
+                                                                                                          "frequency_hz_from_a4_440":  466.163762,
+                                                                                                          "difference_from_a440_cents":  -19.785747,
+                                                                                                          "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                                                      },
+                                                                                                      {
+                                                                                                          "order":  3,
+                                                                                                          "note_12tet":  "Si4",
+                                                                                                          "pitch_class_12tet":  11,
+                                                                                                          "frequency_hz_from_a4_435":  488.270991,
+                                                                                                          "frequency_hz_from_a4_440":  493.883301,
+                                                                                                          "difference_from_a440_cents":  -19.785747,
+                                                                                                          "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                                                      },
+                                                                                                      {
+                                                                                                          "order":  4,
+                                                                                                          "note_12tet":  "Do5",
+                                                                                                          "pitch_class_12tet":  0,
+                                                                                                          "frequency_hz_from_a4_435":  517.305095,
+                                                                                                          "frequency_hz_from_a4_440":  523.251131,
+                                                                                                          "difference_from_a440_cents":  -19.785747,
+                                                                                                          "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                                                      },
+                                                                                                      {
+                                                                                                          "order":  5,
+                                                                                                          "note_12tet":  "Do diesis5",
+                                                                                                          "pitch_class_12tet":  1,
+                                                                                                          "frequency_hz_from_a4_435":  548.065657,
+                                                                                                          "frequency_hz_from_a4_440":  554.365262,
+                                                                                                          "difference_from_a440_cents":  -19.785747,
+                                                                                                          "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                                                      },
+                                                                                                      {
+                                                                                                          "order":  6,
+                                                                                                          "note_12tet":  "Re5",
+                                                                                                          "pitch_class_12tet":  2,
+                                                                                                          "frequency_hz_from_a4_435":  580.655337,
+                                                                                                          "frequency_hz_from_a4_440":  587.329536,
+                                                                                                          "difference_from_a440_cents":  -19.785747,
+                                                                                                          "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                                                      },
+                                                                                                      {
+                                                                                                          "order":  7,
+                                                                                                          "note_12tet":  "Mi bemolle5",
+                                                                                                          "pitch_class_12tet":  3,
+                                                                                                          "frequency_hz_from_a4_435":  615.1829,
+                                                                                                          "frequency_hz_from_a4_440":  622.253967,
+                                                                                                          "difference_from_a440_cents":  -19.785747,
+                                                                                                          "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                                                      },
+                                                                                                      {
+                                                                                                          "order":  8,
+                                                                                                          "note_12tet":  "Mi5",
+                                                                                                          "pitch_class_12tet":  4,
+                                                                                                          "frequency_hz_from_a4_435":  651.763578,
+                                                                                                          "frequency_hz_from_a4_440":  659.255114,
+                                                                                                          "difference_from_a440_cents":  -19.785747,
+                                                                                                          "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                                                      },
+                                                                                                      {
+                                                                                                          "order":  9,
+                                                                                                          "note_12tet":  "Fa5",
+                                                                                                          "pitch_class_12tet":  5,
+                                                                                                          "frequency_hz_from_a4_435":  690.519458,
+                                                                                                          "frequency_hz_from_a4_440":  698.456463,
+                                                                                                          "difference_from_a440_cents":  -19.785747,
+                                                                                                          "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                                                      },
+                                                                                                      {
+                                                                                                          "order":  10,
+                                                                                                          "note_12tet":  "Fa diesis5",
+                                                                                                          "pitch_class_12tet":  6,
+                                                                                                          "frequency_hz_from_a4_435":  731.579881,
+                                                                                                          "frequency_hz_from_a4_440":  739.988845,
+                                                                                                          "difference_from_a440_cents":  -19.785747,
+                                                                                                          "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                                                      },
+                                                                                                      {
+                                                                                                          "order":  11,
+                                                                                                          "note_12tet":  "Sol5",
+                                                                                                          "pitch_class_12tet":  7,
+                                                                                                          "frequency_hz_from_a4_435":  775.081885,
+                                                                                                          "frequency_hz_from_a4_440":  783.990872,
+                                                                                                          "difference_from_a440_cents":  -19.785747,
+                                                                                                          "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                                                      },
+                                                                                                      {
+                                                                                                          "order":  12,
+                                                                                                          "note_12tet":  "Sol diesis5",
+                                                                                                          "pitch_class_12tet":  8,
+                                                                                                          "frequency_hz_from_a4_435":  821.170652,
+                                                                                                          "frequency_hz_from_a4_440":  830.609395,
+                                                                                                          "difference_from_a440_cents":  -19.785747,
+                                                                                                          "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                                                      }
+                                                                                                  ],
+                                                                        "source_ids":  [
+                                                                                           "SRC-PARIS-DIAPASON-COMMISSION-1859",
+                                                                                           "SRC-PARIS-DIAPASON-ARRETE-1859",
+                                                                                           "SRC-PARIS-ELLIS-PITCH-1880",
+                                                                                           "SRC-PARIS-MENDEL-PITCH-1978",
+                                                                                           "SRC-PARIS-HAYNES-PITCH-2002"
+                                                                                       ],
+                                                                        "measured_natural_sequence":  [
+
+                                                                                                      ],
+                                                                        "measured_intervals_cents":  [
+
+                                                                                                     ],
+                                                                        "scale_degrees_from_keynote":  [
+                                                                                                           "La4",
+                                                                                                           "La diesis4",
+                                                                                                           "Si4",
+                                                                                                           "Do5",
+                                                                                                           "Do diesis5",
+                                                                                                           "Re5",
+                                                                                                           "Mi bemolle5",
+                                                                                                           "Mi5",
+                                                                                                           "Fa5",
+                                                                                                           "Fa diesis5",
+                                                                                                           "Sol5",
+                                                                                                           "Sol diesis5"
+                                                                                                       ]
+                                                                    },
+                                              "center":  {
+                                                             "label":  "La",
+                                                             "type":  "riferimento assoluto documentato; classe 12-TET operativa",
+                                                             "pitch_class":  9,
+                                                             "historical_reference":  "diapason normal francese del 1859, La = 435 Hz"
+                                                         },
+                                              "approximation":  {
+                                                                    "system":  "12-TET",
+                                                                    "status":  "proiezione_operativa_dal_riferimento_documentato",
+                                                                    "quality":  "esatta_per_il_solo_la_di_riferimento; derivata_per_le_altre_classi",
+                                                                    "reference_frequency_hz":  435.0,
+                                                                    "difference_from_a440_cents":  -19.785747,
+                                                                    "frequency_table":  [
+                                                                                            {
+                                                                                                "order":  1,
+                                                                                                "note_12tet":  "La4",
+                                                                                                "pitch_class_12tet":  9,
+                                                                                                "frequency_hz_from_a4_435":  435.0,
+                                                                                                "frequency_hz_from_a4_440":  440.0,
+                                                                                                "difference_from_a440_cents":  -19.785747,
+                                                                                                "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                                            },
+                                                                                            {
+                                                                                                "order":  2,
+                                                                                                "note_12tet":  "La diesis4",
+                                                                                                "pitch_class_12tet":  10,
+                                                                                                "frequency_hz_from_a4_435":  460.866446,
+                                                                                                "frequency_hz_from_a4_440":  466.163762,
+                                                                                                "difference_from_a440_cents":  -19.785747,
+                                                                                                "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                                            },
+                                                                                            {
+                                                                                                "order":  3,
+                                                                                                "note_12tet":  "Si4",
+                                                                                                "pitch_class_12tet":  11,
+                                                                                                "frequency_hz_from_a4_435":  488.270991,
+                                                                                                "frequency_hz_from_a4_440":  493.883301,
+                                                                                                "difference_from_a440_cents":  -19.785747,
+                                                                                                "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                                            },
+                                                                                            {
+                                                                                                "order":  4,
+                                                                                                "note_12tet":  "Do5",
+                                                                                                "pitch_class_12tet":  0,
+                                                                                                "frequency_hz_from_a4_435":  517.305095,
+                                                                                                "frequency_hz_from_a4_440":  523.251131,
+                                                                                                "difference_from_a440_cents":  -19.785747,
+                                                                                                "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                                            },
+                                                                                            {
+                                                                                                "order":  5,
+                                                                                                "note_12tet":  "Do diesis5",
+                                                                                                "pitch_class_12tet":  1,
+                                                                                                "frequency_hz_from_a4_435":  548.065657,
+                                                                                                "frequency_hz_from_a4_440":  554.365262,
+                                                                                                "difference_from_a440_cents":  -19.785747,
+                                                                                                "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                                            },
+                                                                                            {
+                                                                                                "order":  6,
+                                                                                                "note_12tet":  "Re5",
+                                                                                                "pitch_class_12tet":  2,
+                                                                                                "frequency_hz_from_a4_435":  580.655337,
+                                                                                                "frequency_hz_from_a4_440":  587.329536,
+                                                                                                "difference_from_a440_cents":  -19.785747,
+                                                                                                "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                                            },
+                                                                                            {
+                                                                                                "order":  7,
+                                                                                                "note_12tet":  "Mi bemolle5",
+                                                                                                "pitch_class_12tet":  3,
+                                                                                                "frequency_hz_from_a4_435":  615.1829,
+                                                                                                "frequency_hz_from_a4_440":  622.253967,
+                                                                                                "difference_from_a440_cents":  -19.785747,
+                                                                                                "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                                            },
+                                                                                            {
+                                                                                                "order":  8,
+                                                                                                "note_12tet":  "Mi5",
+                                                                                                "pitch_class_12tet":  4,
+                                                                                                "frequency_hz_from_a4_435":  651.763578,
+                                                                                                "frequency_hz_from_a4_440":  659.255114,
+                                                                                                "difference_from_a440_cents":  -19.785747,
+                                                                                                "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                                            },
+                                                                                            {
+                                                                                                "order":  9,
+                                                                                                "note_12tet":  "Fa5",
+                                                                                                "pitch_class_12tet":  5,
+                                                                                                "frequency_hz_from_a4_435":  690.519458,
+                                                                                                "frequency_hz_from_a4_440":  698.456463,
+                                                                                                "difference_from_a440_cents":  -19.785747,
+                                                                                                "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                                            },
+                                                                                            {
+                                                                                                "order":  10,
+                                                                                                "note_12tet":  "Fa diesis5",
+                                                                                                "pitch_class_12tet":  6,
+                                                                                                "frequency_hz_from_a4_435":  731.579881,
+                                                                                                "frequency_hz_from_a4_440":  739.988845,
+                                                                                                "difference_from_a440_cents":  -19.785747,
+                                                                                                "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                                            },
+                                                                                            {
+                                                                                                "order":  11,
+                                                                                                "note_12tet":  "Sol5",
+                                                                                                "pitch_class_12tet":  7,
+                                                                                                "frequency_hz_from_a4_435":  775.081885,
+                                                                                                "frequency_hz_from_a4_440":  783.990872,
+                                                                                                "difference_from_a440_cents":  -19.785747,
+                                                                                                "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                                            },
+                                                                                            {
+                                                                                                "order":  12,
+                                                                                                "note_12tet":  "Sol diesis5",
+                                                                                                "pitch_class_12tet":  8,
+                                                                                                "frequency_hz_from_a4_435":  821.170652,
+                                                                                                "frequency_hz_from_a4_440":  830.609395,
+                                                                                                "difference_from_a440_cents":  -19.785747,
+                                                                                                "value_status":  "calcolo_moderno_12tet_dal_riferimento_a4_435"
+                                                                                            }
+                                                                                        ],
+                                                                    "warning":  "L\u0027atto del 1859 fissa il diapason, non prescrive da solo l\u0027intera scala 12-TET. Tutte le frequenze diverse da La=435 Hz sono calcoli moderni per il software."
+                                                                },
+                                              "harmonization":  {
+                                                                    "status":  "non_pertinente_al_diapason",
+                                                                    "method":  "eventuali accordi dell\u0027interfaccia usano la griglia 12-TET derivata",
+                                                                    "warning":  "Il diapason normal è uno standard di altezza assoluta e non una teoria armonica."
+                                                                },
+                                              "transition_reliability":  {
+                                                                             "absolute_pitch_comparison":  "alta",
+                                                                             "temperament_comparison":  "bassa",
+                                                                             "twelve_tet_transition":  "media-alta",
+                                                                             "reason":  "Il riferimento A=435 è documentato; le restanti frequenze della griglia sono derivate e non attestano uno specifico temperamento per ogni pratica parigina."
+                                                                         },
+                                              "documents":  [
+                                                                {
+                                                                    "document_id":  "DOC-PARIS-DIAPASON-1859-DATA",
+                                                                    "label":  "Dati documentati del diapason normal del 1859",
+                                                                    "path":  "../documenti/DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt",
+                                                                    "type":  "text",
+                                                                    "_exists":  true,
+                                                                    "_blocked":  false,
+                                                                    "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL\\documenti\\DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt",
+                                                                    "_relative_path":  "07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL\\documenti\\DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt",
+                                                                    "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/07_P7%20%C2%B7%201800%E2%80%931900%20%E2%80%94%20Industrializzazione%20iniz%E2%80%A6/06_Mediterraneo%20europeo%20ed%20Europa%20centro-occidentale/Tradizioni%20musicali/01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL/documenti/DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt",
+                                                                    "_extension":  ".txt"
+                                                                },
+                                                                {
+                                                                    "document_id":  "DOC-PARIS-DIAPASON-1859-METHOD",
+                                                                    "label":  "Nota metodologica sul riferimento A=435 e sul 12-TET operativo",
+                                                                    "path":  "../documenti/NOTA_METODOLOGICA_PARIGI_DIAPASON_1859.txt",
+                                                                    "type":  "text",
+                                                                    "_exists":  true,
+                                                                    "_blocked":  false,
+                                                                    "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL\\documenti\\NOTA_METODOLOGICA_PARIGI_DIAPASON_1859.txt",
+                                                                    "_relative_path":  "07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL\\documenti\\NOTA_METODOLOGICA_PARIGI_DIAPASON_1859.txt",
+                                                                    "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/07_P7%20%C2%B7%201800%E2%80%931900%20%E2%80%94%20Industrializzazione%20iniz%E2%80%A6/06_Mediterraneo%20europeo%20ed%20Europa%20centro-occidentale/Tradizioni%20musicali/01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL/documenti/NOTA_METODOLOGICA_PARIGI_DIAPASON_1859.txt",
+                                                                    "_extension":  ".txt"
+                                                                }
+                                                            ],
+                                              "notes_12tet":  [
+                                                                  "La",
+                                                                  "La diesis",
+                                                                  "Si",
+                                                                  "Do",
+                                                                  "Do diesis",
+                                                                  "Re",
+                                                                  "Mi bemolle",
+                                                                  "Mi",
+                                                                  "Fa",
+                                                                  "Fa diesis",
+                                                                  "Sol",
+                                                                  "Sol diesis"
+                                                              ],
+                                              "pitch_classes_12tet":  [
+                                                                          9,
+                                                                          10,
+                                                                          11,
+                                                                          0,
+                                                                          1,
+                                                                          2,
+                                                                          3,
+                                                                          4,
+                                                                          5,
+                                                                          6,
+                                                                          7,
+                                                                          8
+                                                                      ],
+                                              "source_ids":  [
+                                                                 "SRC-PARIS-DIAPASON-COMMISSION-1859",
+                                                                 "SRC-PARIS-DIAPASON-ARRETE-1859",
+                                                                 "SRC-PARIS-ELLIS-PITCH-1880",
+                                                                 "SRC-PARIS-MENDEL-PITCH-1978",
+                                                                 "SRC-PARIS-HAYNES-PITCH-2002"
+                                                             ]
+                                          }
+                                      ],
+                           "sources":  [
+                                           {
+                                               "source_id":  "SRC-PARIS-DIAPASON-COMMISSION-1859",
+                                               "purpose":  "rapporto della commissione francese incaricata di proporre un diapason uniforme",
+                                               "title":  "Rapport de la commission chargée de rechercher les moyens d\u0027établir en France un diapason musical uniforme",
+                                               "author":  "Commissione nominata dal ministro di Stato; rapporto presentato nel febbraio 1859",
+                                               "year":  "1859",
+                                               "publisher_or_journal":  "documento amministrativo francese",
+                                               "identifier":  "rapporto della commissione del diapason, Parigi, 1859",
+                                               "pages":  "sezioni sulla scelta del diapason normal e sulla frequenza di riferimento",
+                                               "grade":  "A"
+                                           },
+                                           {
+                                               "source_id":  "SRC-PARIS-DIAPASON-ARRETE-1859",
+                                               "purpose":  "atto normativo che adotta il diapason normal negli stabilimenti musicali dipendenti dallo Stato",
+                                               "title":  "Arrêté du 16 février 1859 relatif au diapason musical uniforme",
+                                               "author":  "Ministère d\u0027État, Francia",
+                                               "year":  "1859",
+                                               "publisher_or_journal":  "amministrazione imperiale francese",
+                                               "identifier":  "arrêté del 16 febbraio 1859",
+                                               "pages":  "testo dell\u0027atto e definizione del diapason normal",
+                                               "grade":  "A"
+                                           },
+                                           {
+                                               "source_id":  "SRC-PARIS-ELLIS-PITCH-1880",
+                                               "purpose":  "ricostruzione contemporanea della storia del pitch e confronto fra standard nazionali",
+                                               "title":  "On the History of Musical Pitch",
+                                               "author":  "Alexander J. Ellis",
+                                               "year":  "1880",
+                                               "publisher_or_journal":  "Journal of the Society of Arts 28",
+                                               "identifier":  "articolo del 5 marzo 1880; ristampato in Studies in the History of Musical Pitch",
+                                               "pages":  "293-336; appendice 400-403",
+                                               "grade":  "A"
+                                           },
+                                           {
+                                               "source_id":  "SRC-PARIS-MENDEL-PITCH-1978",
+                                               "purpose":  "riesame musicologico delle fonti e delle misure storiche del diapason occidentale",
+                                               "title":  "Pitch in Western Music since 1500: A Re-examination",
+                                               "author":  "Arthur Mendel",
+                                               "year":  "1978",
+                                               "publisher_or_journal":  "Acta Musicologica 50",
+                                               "identifier":  "articolo musicologico",
+                                               "pages":  "1-93",
+                                               "grade":  "B"
+                                           },
+                                           {
+                                               "source_id":  "SRC-PARIS-HAYNES-PITCH-2002",
+                                               "purpose":  "storia critica degli standard di altezza e del diapason normal",
+                                               "title":  "A History of Performing Pitch: The Story of \u0027A\u0027",
+                                               "author":  "Bruce Haynes",
+                                               "year":  "2002",
+                                               "publisher_or_journal":  "Scarecrow Press",
+                                               "identifier":  "ISBN 9780810841857",
+                                               "pages":  "capitoli sul XIX secolo e sulla standardizzazione francese",
+                                               "grade":  "B"
+                                           }
+                                       ],
+                           "_source_file":  "07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL\\dati\\musica-container.json",
+                           "_source_directory":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL\\dati",
+                           "_directory_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/07_P7%20%C2%B7%201800%E2%80%931900%20%E2%80%94%20Industrializzazione%20iniz%E2%80%A6/06_Mediterraneo%20europeo%20ed%20Europa%20centro-occidentale/Tradizioni%20musicali/01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL/dati"
+                       },
+                       {
                            "container_id":  "CONTAINER-P8-ASW-ISTANBUL-RAUF-YEKTA",
                            "schema_version":  1,
                            "record_status":  "documentato",
@@ -3839,10 +5133,10 @@
 
                ],
     "stats":  {
-                  "files_found":  88,
-                  "containers":  11,
-                  "scales":  11,
-                  "documents":  44,
+                  "files_found":  14,
+                  "containers":  14,
+                  "scales":  14,
+                  "documents":  56,
                   "missing_documents":  0,
                   "errors":  0
               }

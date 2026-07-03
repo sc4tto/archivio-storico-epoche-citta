@@ -1,0 +1,463 @@
+﻿{
+    "schema_version":  1,
+    "container_id":  "CONTAINER-P3-EAS-CHANGAN-HAN-TWELVE-LU",
+    "record_status":  "documentato",
+    "area":  {
+                 "id":  "EASIA",
+                 "label":  "Asia orientale"
+             },
+    "period":  {
+                   "id":  "P3",
+                   "order":  3,
+                   "label":  "1000 a.C.–500 d.C. — Imperi classici…"
+               },
+    "tradition":  {
+                      "id":  "CHANGAN_HAN_TWELVE_LU_COURT_STANDARD",
+                      "label":  "Standard di altezza e teoria dei dodici lü nella cultura di corte Han",
+                      "historical_name":  "shi\u0027er lü (十二律); etichetta del contenitore estesa con il riferimento alla corte Han",
+                      "documentation_status":  "documentato",
+                      "scope_note":  "Il contenitore descrive il sistema teorico e amministrativo Han dei diapason. L\u0027associazione a Chang\u0027an è storico-istituzionale e non pretende un reperto sonoro urbano.",
+                      "source_ids":  [
+                                         "SRC-CHANGAN-HAN-HANSHU-LULI-21",
+                                         "SRC-CHANGAN-HAN-HUAINANZI-TIANWEN",
+                                         "SRC-CHANGAN-HAN-MAJOR-HUAINANZI-2010",
+                                         "SRC-CHANGAN-HAN-MCCLAIN-HUNG-1979",
+                                         "SRC-CHANGAN-HAN-BRINDLEY-2012",
+                                         "SRC-CHANGAN-HAN-LEWIS-2007"
+                                     ]
+                  },
+    "scales":  [
+                   {
+                       "scale_id":  "CHANGAN_HAN_SHIER_LU_SANFEN_SUNYI_FRAMEWORK",
+                       "name":  "Chang\u0027an Han - quadro teorico dei dodici lü",
+                       "documentation_status":  "documentato",
+                       "comparison_basis":  "han_textual_pitch_standards_and_mathematical_3_2_generation",
+                       "documentation_scope":  {
+                                                   "documented":  [
+                                                                      "esistenza di dodici diapason o standard di altezza denominati lü",
+                                                                      "ruolo di Huangzhong come riferimento generativo e normativo",
+                                                                      "generazione ciclica mediante rapporti riconducibili a 3:2 e 4:3",
+                                                                      "integrazione Han fra musica, rituale, misure e calendario",
+                                                                      "sviluppi matematici attribuiti a Jing Fang nel I secolo a.C."
+                                                                  ],
+                                                   "not_documented":  [
+                                                                          "frequenza assoluta moderna e invariabile di Huangzhong",
+                                                                          "temperamento equabile a dodici suoni",
+                                                                          "uso dei dodici lü come serie compositiva dodecafonica",
+                                                                          "una singola scala melodica obbligatoria per tutta la musica Han",
+                                                                          "una registrazione o un\u0027esecuzione sonora recuperabile dalla Chang\u0027an antica"
+                                                                      ]
+                                               },
+                       "historical_context":  {
+                                                  "city":  "Chang\u0027an",
+                                                  "political_context":  "capitale principale della dinastia Han occidentale e sede della corte imperiale",
+                                                  "documented_subrange":  "II-I secolo a.C., con tradizioni raccolte anche nel Hanshu del I secolo d.C.",
+                                                  "geographical_caution":  "il profilo riguarda la cultura teorico-amministrativa della corte Han; non dipende da un singolo strumento scavato nel centro urbano"
+                                              },
+                       "historical_tuning":  {
+                                                 "description":  "I dodici lü costituiscono un insieme di standard di altezza dal quale potevano essere selezionati sistemi modali e collezioni di cinque o sette suoni. Non sono una scala cromatica moderna né un temperamento equabile.",
+                                                 "historical_name":  "shi\u0027er lü (十二律)",
+                                                 "generation_method":  "sanfen sunyi, rappresentato nel profilo tramite ciclo di rapporti 3:2 e riduzione d\u0027ottava",
+                                                 "reference_lu":  "Huangzhong (黃鐘)",
+                                                 "absolute_pitch":  "non fissata in hertz nel profilo",
+                                                 "tonal_center":  "Huangzhong è il riferimento del calcolo, non una tonica universale di ogni repertorio Han",
+                                                 "generating_cycle":  [
+                                                                          "Huangzhong",
+                                                                          "Linzhong",
+                                                                          "Taicu",
+                                                                          "Nanlu",
+                                                                          "Guxian",
+                                                                          "Yingzhong",
+                                                                          "Ruibin",
+                                                                          "Dalu",
+                                                                          "Yize",
+                                                                          "Jiazhong",
+                                                                          "Wuyi",
+                                                                          "Zhonglu"
+                                                                      ],
+                                                 "calculated_sequence":  [
+                                                                             {
+                                                                                 "order":  1,
+                                                                                 "lu_name":  "Huangzhong",
+                                                                                 "lu_name_hanzi":  "黃鐘",
+                                                                                 "frequency_ratio_from_huangzhong":  "1/1",
+                                                                                 "calculated_cents_from_huangzhong":  0.0,
+                                                                                 "modern_12tet_equivalent":  "Do",
+                                                                                 "pitch_class_12tet":  0,
+                                                                                 "deviation_from_12tet_cents":  0.0,
+                                                                                 "value_status":  "calcolo_moderno_dal_ciclo_3_2"
+                                                                             },
+                                                                             {
+                                                                                 "order":  2,
+                                                                                 "lu_name":  "Dalu",
+                                                                                 "lu_name_hanzi":  "大呂",
+                                                                                 "frequency_ratio_from_huangzhong":  "2187/2048",
+                                                                                 "calculated_cents_from_huangzhong":  113.685,
+                                                                                 "modern_12tet_equivalent":  "Do diesis",
+                                                                                 "pitch_class_12tet":  1,
+                                                                                 "deviation_from_12tet_cents":  13.685,
+                                                                                 "value_status":  "calcolo_moderno_dal_ciclo_3_2"
+                                                                             },
+                                                                             {
+                                                                                 "order":  3,
+                                                                                 "lu_name":  "Taicu",
+                                                                                 "lu_name_hanzi":  "太簇",
+                                                                                 "frequency_ratio_from_huangzhong":  "9/8",
+                                                                                 "calculated_cents_from_huangzhong":  203.91,
+                                                                                 "modern_12tet_equivalent":  "Re",
+                                                                                 "pitch_class_12tet":  2,
+                                                                                 "deviation_from_12tet_cents":  3.91,
+                                                                                 "value_status":  "calcolo_moderno_dal_ciclo_3_2"
+                                                                             },
+                                                                             {
+                                                                                 "order":  4,
+                                                                                 "lu_name":  "Jiazhong",
+                                                                                 "lu_name_hanzi":  "夾鐘",
+                                                                                 "frequency_ratio_from_huangzhong":  "19683/16384",
+                                                                                 "calculated_cents_from_huangzhong":  317.595,
+                                                                                 "modern_12tet_equivalent":  "Mi bemolle",
+                                                                                 "pitch_class_12tet":  3,
+                                                                                 "deviation_from_12tet_cents":  17.595,
+                                                                                 "value_status":  "calcolo_moderno_dal_ciclo_3_2"
+                                                                             },
+                                                                             {
+                                                                                 "order":  5,
+                                                                                 "lu_name":  "Guxian",
+                                                                                 "lu_name_hanzi":  "姑洗",
+                                                                                 "frequency_ratio_from_huangzhong":  "81/64",
+                                                                                 "calculated_cents_from_huangzhong":  407.82,
+                                                                                 "modern_12tet_equivalent":  "Mi",
+                                                                                 "pitch_class_12tet":  4,
+                                                                                 "deviation_from_12tet_cents":  7.82,
+                                                                                 "value_status":  "calcolo_moderno_dal_ciclo_3_2"
+                                                                             },
+                                                                             {
+                                                                                 "order":  6,
+                                                                                 "lu_name":  "Zhonglu",
+                                                                                 "lu_name_hanzi":  "仲呂",
+                                                                                 "frequency_ratio_from_huangzhong":  "177147/131072",
+                                                                                 "calculated_cents_from_huangzhong":  521.505,
+                                                                                 "modern_12tet_equivalent":  "Fa",
+                                                                                 "pitch_class_12tet":  5,
+                                                                                 "deviation_from_12tet_cents":  21.505,
+                                                                                 "value_status":  "calcolo_moderno_dal_ciclo_3_2"
+                                                                             },
+                                                                             {
+                                                                                 "order":  7,
+                                                                                 "lu_name":  "Ruibin",
+                                                                                 "lu_name_hanzi":  "蕤賓",
+                                                                                 "frequency_ratio_from_huangzhong":  "729/512",
+                                                                                 "calculated_cents_from_huangzhong":  611.73,
+                                                                                 "modern_12tet_equivalent":  "Fa diesis",
+                                                                                 "pitch_class_12tet":  6,
+                                                                                 "deviation_from_12tet_cents":  11.73,
+                                                                                 "value_status":  "calcolo_moderno_dal_ciclo_3_2"
+                                                                             },
+                                                                             {
+                                                                                 "order":  8,
+                                                                                 "lu_name":  "Linzhong",
+                                                                                 "lu_name_hanzi":  "林鐘",
+                                                                                 "frequency_ratio_from_huangzhong":  "3/2",
+                                                                                 "calculated_cents_from_huangzhong":  701.955,
+                                                                                 "modern_12tet_equivalent":  "Sol",
+                                                                                 "pitch_class_12tet":  7,
+                                                                                 "deviation_from_12tet_cents":  1.955,
+                                                                                 "value_status":  "calcolo_moderno_dal_ciclo_3_2"
+                                                                             },
+                                                                             {
+                                                                                 "order":  9,
+                                                                                 "lu_name":  "Yize",
+                                                                                 "lu_name_hanzi":  "夷則",
+                                                                                 "frequency_ratio_from_huangzhong":  "6561/4096",
+                                                                                 "calculated_cents_from_huangzhong":  815.64,
+                                                                                 "modern_12tet_equivalent":  "La bemolle",
+                                                                                 "pitch_class_12tet":  8,
+                                                                                 "deviation_from_12tet_cents":  15.64,
+                                                                                 "value_status":  "calcolo_moderno_dal_ciclo_3_2"
+                                                                             },
+                                                                             {
+                                                                                 "order":  10,
+                                                                                 "lu_name":  "Nanlu",
+                                                                                 "lu_name_hanzi":  "南呂",
+                                                                                 "frequency_ratio_from_huangzhong":  "27/16",
+                                                                                 "calculated_cents_from_huangzhong":  905.865,
+                                                                                 "modern_12tet_equivalent":  "La",
+                                                                                 "pitch_class_12tet":  9,
+                                                                                 "deviation_from_12tet_cents":  5.865,
+                                                                                 "value_status":  "calcolo_moderno_dal_ciclo_3_2"
+                                                                             },
+                                                                             {
+                                                                                 "order":  11,
+                                                                                 "lu_name":  "Wuyi",
+                                                                                 "lu_name_hanzi":  "無射",
+                                                                                 "frequency_ratio_from_huangzhong":  "59049/32768",
+                                                                                 "calculated_cents_from_huangzhong":  1019.55,
+                                                                                 "modern_12tet_equivalent":  "Si bemolle",
+                                                                                 "pitch_class_12tet":  10,
+                                                                                 "deviation_from_12tet_cents":  19.55,
+                                                                                 "value_status":  "calcolo_moderno_dal_ciclo_3_2"
+                                                                             },
+                                                                             {
+                                                                                 "order":  12,
+                                                                                 "lu_name":  "Yingzhong",
+                                                                                 "lu_name_hanzi":  "應鐘",
+                                                                                 "frequency_ratio_from_huangzhong":  "243/128",
+                                                                                 "calculated_cents_from_huangzhong":  1109.775,
+                                                                                 "modern_12tet_equivalent":  "Si",
+                                                                                 "pitch_class_12tet":  11,
+                                                                                 "deviation_from_12tet_cents":  9.775,
+                                                                                 "value_status":  "calcolo_moderno_dal_ciclo_3_2"
+                                                                             }
+                                                                         ],
+                                                 "calculated_intervals_cents":  [
+                                                                                    113.685,
+                                                                                    90.225,
+                                                                                    113.685,
+                                                                                    90.225,
+                                                                                    113.685,
+                                                                                    90.225,
+                                                                                    90.225,
+                                                                                    113.685,
+                                                                                    90.225,
+                                                                                    113.685,
+                                                                                    90.225,
+                                                                                    90.225
+                                                                                ],
+                                                 "measured_natural_sequence":  [
+
+                                                                               ],
+                                                 "measured_intervals_cents":  [
+
+                                                                              ],
+                                                 "scale_degrees_from_keynote":  [
+                                                                                    "Huangzhong",
+                                                                                    "Dalu",
+                                                                                    "Taicu",
+                                                                                    "Jiazhong",
+                                                                                    "Guxian",
+                                                                                    "Zhonglu",
+                                                                                    "Ruibin",
+                                                                                    "Linzhong",
+                                                                                    "Yize",
+                                                                                    "Nanlu",
+                                                                                    "Wuyi",
+                                                                                    "Yingzhong"
+                                                                                ],
+                                                 "source_ids":  [
+                                                                    "SRC-CHANGAN-HAN-HANSHU-LULI-21",
+                                                                    "SRC-CHANGAN-HAN-HUAINANZI-TIANWEN",
+                                                                    "SRC-CHANGAN-HAN-MAJOR-HUAINANZI-2010",
+                                                                    "SRC-CHANGAN-HAN-MCCLAIN-HUNG-1979",
+                                                                    "SRC-CHANGAN-HAN-BRINDLEY-2012"
+                                                                ]
+                                             },
+                       "center":  {
+                                      "label":  "Do",
+                                      "type":  "riferimento convenzionale 12-TET, non storico",
+                                      "pitch_class":  0,
+                                      "historical_reference":  "Huangzhong è posto convenzionalmente su Do solo per il confronto software"
+                                  },
+                       "notes_12tet":  [
+                                           "Do",
+                                           "Do diesis",
+                                           "Re",
+                                           "Mi bemolle",
+                                           "Mi",
+                                           "Fa",
+                                           "Fa diesis",
+                                           "Sol",
+                                           "La bemolle",
+                                           "La",
+                                           "Si bemolle",
+                                           "Si"
+                                       ],
+                       "pitch_classes_12tet":  [
+                                                   0,
+                                                   1,
+                                                   2,
+                                                   3,
+                                                   4,
+                                                   5,
+                                                   6,
+                                                   7,
+                                                   8,
+                                                   9,
+                                                   10,
+                                                   11
+                                               ],
+                       "approximation":  {
+                                             "system":  "12-TET",
+                                             "status":  "confronto_moderno_non_storico",
+                                             "quality":  "alta_per_ordinamento_delle_classi; media_per_dimensione_degli_intervalli; nulla_per_altezza_assoluta",
+                                             "deviations_cents":  [
+                                                                      {
+                                                                          "lu_name":  "Huangzhong",
+                                                                          "deviation_cents":  0.0
+                                                                      },
+                                                                      {
+                                                                          "lu_name":  "Dalu",
+                                                                          "deviation_cents":  13.685
+                                                                      },
+                                                                      {
+                                                                          "lu_name":  "Taicu",
+                                                                          "deviation_cents":  3.91
+                                                                      },
+                                                                      {
+                                                                          "lu_name":  "Jiazhong",
+                                                                          "deviation_cents":  17.595
+                                                                      },
+                                                                      {
+                                                                          "lu_name":  "Guxian",
+                                                                          "deviation_cents":  7.82
+                                                                      },
+                                                                      {
+                                                                          "lu_name":  "Zhonglu",
+                                                                          "deviation_cents":  21.505
+                                                                      },
+                                                                      {
+                                                                          "lu_name":  "Ruibin",
+                                                                          "deviation_cents":  11.73
+                                                                      },
+                                                                      {
+                                                                          "lu_name":  "Linzhong",
+                                                                          "deviation_cents":  1.955
+                                                                      },
+                                                                      {
+                                                                          "lu_name":  "Yize",
+                                                                          "deviation_cents":  15.64
+                                                                      },
+                                                                      {
+                                                                          "lu_name":  "Nanlu",
+                                                                          "deviation_cents":  5.865
+                                                                      },
+                                                                      {
+                                                                          "lu_name":  "Wuyi",
+                                                                          "deviation_cents":  19.55
+                                                                      },
+                                                                      {
+                                                                          "lu_name":  "Yingzhong",
+                                                                          "deviation_cents":  9.775
+                                                                      }
+                                                                  ],
+                                             "warning":  "La corrispondenza Do-Do diesis-...-Si è una visualizzazione moderna. I valori in cent sono calcoli dai rapporti, non misurazioni antiche e non dimostrano il 12-TET nella dinastia Han."
+                                         },
+                       "harmonization":  {
+                                             "status":  "proposta_moderna_anacronistica",
+                                             "method":  "eventuali accordi del software derivano dalle classi 12-TET convenzionali",
+                                             "warning":  "Le fonti non documentano armonia funzionale occidentale per i dodici lü."
+                                         },
+                       "transition_reliability":  {
+                                                      "textual_pitch_system":  "alta",
+                                                      "mathematical_ratio_reconstruction":  "alta",
+                                                      "absolute_pitch_comparison":  "bassa",
+                                                      "structural_pitch_class_comparison":  "alta",
+                                                      "twelve_tet_transition":  "media",
+                                                      "reason":  "Il sistema e i rapporti generativi sono documentabili; la frequenza assoluta e l\u0027identità con il temperamento equabile non lo sono."
+                                                  },
+                       "source_ids":  [
+                                          "SRC-CHANGAN-HAN-HANSHU-LULI-21",
+                                          "SRC-CHANGAN-HAN-HUAINANZI-TIANWEN",
+                                          "SRC-CHANGAN-HAN-MAJOR-HUAINANZI-2010",
+                                          "SRC-CHANGAN-HAN-MCCLAIN-HUNG-1979",
+                                          "SRC-CHANGAN-HAN-BRINDLEY-2012",
+                                          "SRC-CHANGAN-HAN-LEWIS-2007"
+                                      ],
+                       "documents":  [
+                                         {
+                                             "document_id":  "DOC-CHANGAN-HAN-TWELVE-LU-DATA",
+                                             "label":  "Dati documentati sui dodici lü della cultura Han",
+                                             "path":  "../documenti/DATI_DOCUMENTATI_CHANGAN_HAN_DODICI_LU.txt",
+                                             "type":  "text"
+                                         },
+                                         {
+                                             "document_id":  "DOC-CHANGAN-HAN-TWELVE-LU-METHOD",
+                                             "label":  "Nota metodologica sulla generazione 3:2 e sul confronto moderno",
+                                             "path":  "../documenti/NOTA_METODOLOGICA_CHANGAN_HAN_DODICI_LU.txt",
+                                             "type":  "text"
+                                         }
+                                     ]
+                   }
+               ],
+    "sources":  [
+                    {
+                        "source_id":  "SRC-CHANGAN-HAN-HANSHU-LULI-21",
+                        "purpose":  "fonte primaria Han sui diapason, sui dodici lü e sul rapporto fra standard musicali e calendario",
+                        "title":  "Hanshu (Libro degli Han), juan 21, Lüli zhi",
+                        "author":  "Ban Gu e continuatori della storia dinastica Han",
+                        "year":  "I secolo d.C.",
+                        "publisher_or_journal":  "tradizione testuale del Hanshu",
+                        "identifier":  "漢書卷二十一・律曆志",
+                        "pages":  "juan 21, parti superiore e inferiore",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-CHANGAN-HAN-HUAINANZI-TIANWEN",
+                        "purpose":  "fonte primaria del primo periodo Han sulla generazione matematica delle altezze e sulle corrispondenze cosmologiche",
+                        "title":  "Huainanzi, capitolo 3, Tianwen xun",
+                        "author":  "Liu An e ambiente della corte di Huainan",
+                        "year":  "presentato alla corte Han nel 139 a.C.",
+                        "publisher_or_journal":  "tradizione testuale del Huainanzi",
+                        "identifier":  "淮南子・天文訓",
+                        "pages":  "capitolo 3",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-CHANGAN-HAN-MAJOR-HUAINANZI-2010",
+                        "purpose":  "traduzione e commento accademico del Huainanzi, inclusa la terminologia cosmologica e musicale",
+                        "title":  "The Huainanzi: A Guide to the Theory and Practice of Government in Early Han China",
+                        "author":  "John S. Major, Sarah A. Queen, Andrew Seth Meyer e Harold D. Roth",
+                        "year":  "2010",
+                        "publisher_or_journal":  "Columbia University Press",
+                        "identifier":  "traduzione accademica integrale",
+                        "pages":  "capitolo 3 e note",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-CHANGAN-HAN-MCCLAIN-HUNG-1979",
+                        "purpose":  "analisi matematica dei cicli di quinte e delle estensioni attribuite a Jing Fang",
+                        "title":  "Chinese Cyclic Tunings in Late Antiquity",
+                        "author":  "Ernest G. McClain e Ming Shui Hung",
+                        "year":  "1979",
+                        "publisher_or_journal":  "Ethnomusicology 23(2)",
+                        "identifier":  "articolo accademico",
+                        "pages":  "205-224",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-CHANGAN-HAN-BRINDLEY-2012",
+                        "purpose":  "inquadramento storico del rapporto fra musica, cosmologia, rituale e autorità politica nella Cina antica",
+                        "title":  "Music, Cosmology, and the Politics of Harmony in Early China",
+                        "author":  "Erica Brindley",
+                        "year":  "2012",
+                        "publisher_or_journal":  "State University of New York Press",
+                        "identifier":  "monografia accademica",
+                        "pages":  "sezioni sui diapason, sulla cosmologia musicale e sull\u0027autorità statale",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-CHANGAN-HAN-LEWIS-2007",
+                        "purpose":  "contesto storico di Chang\u0027an come capitale e sede delle istituzioni della dinastia Han occidentale",
+                        "title":  "The Early Chinese Empires: Qin and Han",
+                        "author":  "Mark Edward Lewis",
+                        "year":  "2007",
+                        "publisher_or_journal":  "Harvard University Press",
+                        "identifier":  "monografia storica",
+                        "pages":  "capitoli sulle capitali e sulle istituzioni imperiali",
+                        "grade":  "B"
+                    }
+                ],
+    "documents":  [
+                      {
+                          "document_id":  "DOC-CHANGAN-HAN-TWELVE-LU-DATA",
+                          "label":  "Dati documentati sui dodici lü della cultura Han",
+                          "path":  "../documenti/DATI_DOCUMENTATI_CHANGAN_HAN_DODICI_LU.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-CHANGAN-HAN-TWELVE-LU-METHOD",
+                          "label":  "Nota metodologica sulla generazione 3:2 e sul confronto moderno",
+                          "path":  "../documenti/NOTA_METODOLOGICA_CHANGAN_HAN_DODICI_LU.txt",
+                          "type":  "text"
+                      }
+                  ]
+}

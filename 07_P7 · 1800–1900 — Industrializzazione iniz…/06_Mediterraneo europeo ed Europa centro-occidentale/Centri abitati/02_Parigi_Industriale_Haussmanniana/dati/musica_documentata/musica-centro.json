@@ -1,0 +1,189 @@
+﻿{
+    "schema_version":  1,
+    "record_type":  "center_music_profile",
+    "profile_id":  "P7-EUR-MED-PARIS-DIAPASON-NORMAL-1859-DOCUMENTED",
+    "record_status":  "documentato",
+    "scope":  {
+                  "type":  "inhabited_center",
+                  "center_id":  "PARIS_1859",
+                  "center_label":  "Parigi industriale e haussmanniana",
+                  "folder_name":  "02_Parigi_Industriale_Haussmanniana"
+              },
+    "period":  {
+                   "id":  "P7",
+                   "order":  7,
+                   "documented_subrange":  "1859 e diffusione successiva nel secondo Ottocento",
+                   "label":  "1800–1900 — Industrializzazione iniz…"
+               },
+    "area":  {
+                 "id":  "EUR_MED",
+                 "label":  "Mediterraneo europeo ed Europa centro-occidentale"
+             },
+    "documentation":  {
+                          "status":  "documentato",
+                          "confidence":  "alta_per_atto_e_frequenza; media_per_applicazione_pratica_uniforme; bassa_per_temperamento_completo",
+                          "statement":  "Il profilo documenta l\u0027adozione parigina e statale del diapason normal del 1859, con La di riferimento equivalente a 435 Hz.",
+                          "chronology_status":  "compatibile",
+                          "chronology_statement":  "L\u0027adozione del 1859 appartiene pienamente al periodo P7.",
+                          "geography_status":  "compatibile",
+                          "geography_relation":  "nel_centro",
+                          "geography_statement":  "La commissione e l\u0027adozione amministrativa appartengono al contesto istituzionale parigino del Secondo Impero.",
+                          "historical_system_resolvable":  true,
+                          "limitation_note":  "È risolvibile il riferimento assoluto A=435. L\u0027atto non basta a definire il temperamento completo di ogni orchestra o strumento."
+                      },
+    "musical_evidence":  [
+                             {
+                                 "evidence_id":  "EVID-PARIS-COMMISSION-1859",
+                                 "type":  "center_tradition",
+                                 "status":  "documentato",
+                                 "statement":  "Nel 1859 una commissione e l\u0027amministrazione francese stabilirono a Parigi un diapason musicale uniforme.",
+                                 "source_ids":  [
+                                                    "SRC-PARIS-DIAPASON-COMMISSION-1859",
+                                                    "SRC-PARIS-DIAPASON-ARRETE-1859"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-PARIS-A435",
+                                 "type":  "absolute_pitch_reference",
+                                 "status":  "documentato",
+                                 "statement":  "Il diapason normal corrisponde al La di riferimento a 435 oscillazioni complete al secondo, espresso storicamente anche come 870 vibrations simples.",
+                                 "source_ids":  [
+                                                    "SRC-PARIS-DIAPASON-ARRETE-1859",
+                                                    "SRC-PARIS-ELLIS-PITCH-1880",
+                                                    "SRC-PARIS-MENDEL-PITCH-1978"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-PARIS-12TET-DERIVATION",
+                                 "type":  "modern_calculation",
+                                 "status":  "sintesi",
+                                 "statement":  "La tabella cromatica e lo scarto rispetto ad A=440 sono calcoli moderni, non prescrizioni contenute nell\u0027atto del 1859.",
+                                 "source_ids":  [
+                                                    "SRC-PARIS-ELLIS-PITCH-1880",
+                                                    "SRC-PARIS-HAYNES-PITCH-2002"
+                                                ]
+                             }
+                         ],
+    "tradition_links":  [
+                            {
+                                "tradition_id":  "PARIS_SECOND_EMPIRE_DIAPASON_NORMAL",
+                                "relation_status":  "documentato",
+                                "relation_note":  "Collegamento diretto alla commissione e all\u0027adozione statale parigina del 1859.",
+                                "source_ids":  [
+                                                   "SRC-PARIS-DIAPASON-COMMISSION-1859",
+                                                   "SRC-PARIS-DIAPASON-ARRETE-1859",
+                                                   "SRC-PARIS-ELLIS-PITCH-1880"
+                                               ]
+                            }
+                        ],
+    "scale_links":  [
+                        {
+                            "scale_id":  "PARIS_1859_DIAPASON_NORMAL_A435_REFERENCE",
+                            "relation_status":  "documentato",
+                            "relation_note":  "Il sistema indicizza il riferimento assoluto A=435; la proiezione 12-TET è derivata per il confronto.",
+                            "source_ids":  [
+                                               "SRC-PARIS-DIAPASON-ARRETE-1859",
+                                               "SRC-PARIS-ELLIS-PITCH-1880",
+                                               "SRC-PARIS-MENDEL-PITCH-1978",
+                                               "SRC-PARIS-HAYNES-PITCH-2002"
+                                           ]
+                        }
+                    ],
+    "documents":  [
+                      {
+                          "document_id":  "DOC-PARIS-CENTER-SOURCES",
+                          "label":  "Fonti documentate per Parigi 1859",
+                          "path":  "./FONTI_DOCUMENTATE.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-PARIS-CENTER-MANIFEST",
+                          "label":  "Manifesto della documentazione per Parigi 1859",
+                          "path":  "./MANIFESTO_DOCUMENTAZIONE.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-PARIS-CENTER-DATA",
+                          "label":  "Dati documentati del diapason normal",
+                          "path":  "./DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-PARIS-CENTER-TRANSITIONS",
+                          "label":  "Nota sulle transizioni dal diapason normal",
+                          "path":  "./NOTA_TRANSIZIONI_PARIGI_DIAPASON_1859.txt",
+                          "type":  "text"
+                      }
+                  ],
+    "sources":  [
+                    {
+                        "source_id":  "SRC-PARIS-DIAPASON-COMMISSION-1859",
+                        "purpose":  "rapporto della commissione francese incaricata di proporre un diapason uniforme",
+                        "title":  "Rapport de la commission chargée de rechercher les moyens d\u0027établir en France un diapason musical uniforme",
+                        "author":  "Commissione nominata dal ministro di Stato; rapporto presentato nel febbraio 1859",
+                        "year":  "1859",
+                        "publisher_or_journal":  "documento amministrativo francese",
+                        "identifier":  "rapporto della commissione del diapason, Parigi, 1859",
+                        "pages":  "sezioni sulla scelta del diapason normal e sulla frequenza di riferimento",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-PARIS-DIAPASON-ARRETE-1859",
+                        "purpose":  "atto normativo che adotta il diapason normal negli stabilimenti musicali dipendenti dallo Stato",
+                        "title":  "Arrêté du 16 février 1859 relatif au diapason musical uniforme",
+                        "author":  "Ministère d\u0027État, Francia",
+                        "year":  "1859",
+                        "publisher_or_journal":  "amministrazione imperiale francese",
+                        "identifier":  "arrêté del 16 febbraio 1859",
+                        "pages":  "testo dell\u0027atto e definizione del diapason normal",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-PARIS-ELLIS-PITCH-1880",
+                        "purpose":  "ricostruzione contemporanea della storia del pitch e confronto fra standard nazionali",
+                        "title":  "On the History of Musical Pitch",
+                        "author":  "Alexander J. Ellis",
+                        "year":  "1880",
+                        "publisher_or_journal":  "Journal of the Society of Arts 28",
+                        "identifier":  "articolo del 5 marzo 1880; ristampato in Studies in the History of Musical Pitch",
+                        "pages":  "293-336; appendice 400-403",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-PARIS-MENDEL-PITCH-1978",
+                        "purpose":  "riesame musicologico delle fonti e delle misure storiche del diapason occidentale",
+                        "title":  "Pitch in Western Music since 1500: A Re-examination",
+                        "author":  "Arthur Mendel",
+                        "year":  "1978",
+                        "publisher_or_journal":  "Acta Musicologica 50",
+                        "identifier":  "articolo musicologico",
+                        "pages":  "1-93",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-PARIS-HAYNES-PITCH-2002",
+                        "purpose":  "storia critica degli standard di altezza e del diapason normal",
+                        "title":  "A History of Performing Pitch: The Story of \u0027A\u0027",
+                        "author":  "Bruce Haynes",
+                        "year":  "2002",
+                        "publisher_or_journal":  "Scarecrow Press",
+                        "identifier":  "ISBN 9780810841857",
+                        "pages":  "capitoli sul XIX secolo e sulla standardizzazione francese",
+                        "grade":  "B"
+                    }
+                ],
+    "review":  {
+                   "status":  "pubblicato_con_cautela_sul_temperamento",
+                   "reviewer":  "Michele Scattolin - verifica finale richiesta",
+                   "next_action":  "Controllare che l\u0027interfaccia distingua lo standard assoluto A=435 dalla griglia cromatica 12-TET derivata.",
+                   "last_reviewed":  "2026-07-03T15:01:41.3485865+02:00"
+               },
+    "extensions":  {
+                       "storage_model":  "center_local_documented_package",
+                       "package_directory":  "dati/musica_documentata",
+                       "historical_system":  "diapason normal",
+                       "reference_frequency_hz":  435.0,
+                       "temperature_celsius":  15,
+                       "incremental_engine_required":  "VALIDA_CASO_LOCALE.ps1 v1"
+                   }
+}

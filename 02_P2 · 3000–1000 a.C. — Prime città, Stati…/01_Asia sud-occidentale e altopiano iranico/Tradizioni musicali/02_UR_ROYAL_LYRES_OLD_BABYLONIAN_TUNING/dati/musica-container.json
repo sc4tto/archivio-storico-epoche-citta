@@ -1,0 +1,290 @@
+﻿{
+    "container_id":  "CONTAINER-P2-ASW-UR-LYRES-TUNING",
+    "schema_version":  1,
+    "record_status":  "documentato",
+    "area":  {
+                 "id":  "ASW_IRAN",
+                 "label":  "Asia sud-occidentale e altopiano iranico"
+             },
+    "period":  {
+                   "id":  "P2",
+                   "label":  "3000–1000 a.C. — Prime città, Stati…",
+                   "order":  2
+               },
+    "tradition":  {
+                      "id":  "UR_ROYAL_LYRES_OLD_BABYLONIAN_TUNING",
+                      "label":  "Lire di Ur e teoria paleobabilonese dell\u0027accordatura",
+                      "historical_name":  "Etichetta descrittiva moderna che collega il contesto strumentale di Ur ai testi locali di accordatura.",
+                      "documentation_status":  "documentato",
+                      "scope_note":  "Il record riunisce due nuclei locali distinti: gli strumenti del Cimitero Reale e il testo paleobabilonese UET VI/3 899. Non afferma continuità tecnica immutata fra le due fasi.",
+                      "source_ids":  [
+                                         "SRC-UR-WOOLLEY-ROYAL-CEMETERY-1934",
+                                         "SRC-UR-DESCHAUENSEE-TWO-LYRES-2002",
+                                         "SRC-UR-MIRELMAN-KRISPJIN-UET899-2009",
+                                         "SRC-UR-GURNEY-TUNING-TREATISE-1968",
+                                         "SRC-UR-KILMER-MESOPOTAMIAN-THEORY-1971"
+                                     ]
+                  },
+    "scales":  [
+                   {
+                       "scale_id":  "UR_OLD_BABYLONIAN_HEPTATONIC_TUNING_FRAMEWORK",
+                       "name":  "Ur - quadro eptatonico delle accordature paleobabilonesi",
+                       "documentation_status":  "documentato",
+                       "comparison_basis":  "local_archaeological_instruments_and_old_babylonian_tuning_text",
+                       "documentation_scope":  {
+                                                   "documented":  [
+                                                                      "strumenti a corda rinvenuti nel Cimitero Reale di Ur",
+                                                                      "testo paleobabilonese di accordatura UET VI/3 899 proveniente da Ur",
+                                                                      "procedura di riaccordatura basata su coppie di corde e intervalli nominati",
+                                                                      "quadro teorico mesopotamico eptatonico e diatonico ricostruito dalla letteratura assiriologica"
+                                                                  ],
+                                                   "not_documented":  [
+                                                                          "frequenze assolute delle lire del Cimitero Reale",
+                                                                          "altezza di riferimento comune e invariabile",
+                                                                          "impiego dimostrato di UET VI/3 899 sulle lire del III millennio",
+                                                                          "successione melodica di un brano specifico eseguito a Ur",
+                                                                          "temperamento equabile a dodici suoni",
+                                                                          "armonia funzionale o triadi storiche"
+                                                                      ]
+                                               },
+                       "historical_context":  {
+                                                  "city":  "Ur",
+                                                  "archaeological_evidence":  "lire e altri strumenti a corda del Cimitero Reale, Dinastico Arcaico III",
+                                                  "archaeological_date":  "circa 2600-2450 a.C.",
+                                                  "tuning_text":  "UET VI/3 899",
+                                                  "tuning_text_date":  "periodo paleobabilonese, prima metà del II millennio a.C.",
+                                                  "chronology_caution":  "gli strumenti archeologici e il testo di accordatura appartengono a fasi differenti del P2; non si afferma che le lire delle tombe fossero accordate esattamente secondo il testo più tardo"
+                                              },
+                       "historical_tuning":  {
+                                                 "description":  "UET VI/3 899 documenta una procedura di riaccordatura di uno strumento a corde tramite coppie di corde e intervalli nominati. Il record conserva il quadro eptatonico senza fissare una singola altezza assoluta o una melodia.",
+                                                 "theoretical_system":  "teoria mesopotamica delle accordature diatoniche eptatoniche",
+                                                 "text":  "UET VI/3 899",
+                                                 "selected_framework":  "quadro eptatonico generale; nessuna singola accordatura imposta come tonalità moderna",
+                                                 "named_tunings":  [
+                                                                       "nīš tuḫrim",
+                                                                       "išartum",
+                                                                       "embūbum",
+                                                                       "nīd qablim",
+                                                                       "qablītum",
+                                                                       "kitmum",
+                                                                       "pītum"
+                                                                   ],
+                                                 "absolute_pitch":  "non documentata",
+                                                 "tonal_center":  "non determinabile come tonica moderna univoca",
+                                                 "royal_lyres_link":  "contesto strumentale locale diretto; rapporto con la procedura paleobabilonese non dimostrabile strumento per strumento",
+                                                 "calculated_sequence":  [
+                                                                             {
+                                                                                 "degree":  "1",
+                                                                                 "historical_status":  "posizione eptatonica relativa",
+                                                                                 "modern_equivalent":  "Do",
+                                                                                 "pitch_class_12tet":  0,
+                                                                                 "exact_deviation_cents":  null
+                                                                             },
+                                                                             {
+                                                                                 "degree":  "2",
+                                                                                 "historical_status":  "posizione eptatonica relativa",
+                                                                                 "modern_equivalent":  "Re",
+                                                                                 "pitch_class_12tet":  2,
+                                                                                 "exact_deviation_cents":  null
+                                                                             },
+                                                                             {
+                                                                                 "degree":  "3",
+                                                                                 "historical_status":  "posizione eptatonica relativa",
+                                                                                 "modern_equivalent":  "Mi",
+                                                                                 "pitch_class_12tet":  4,
+                                                                                 "exact_deviation_cents":  null
+                                                                             },
+                                                                             {
+                                                                                 "degree":  "4",
+                                                                                 "historical_status":  "posizione eptatonica relativa",
+                                                                                 "modern_equivalent":  "Fa",
+                                                                                 "pitch_class_12tet":  5,
+                                                                                 "exact_deviation_cents":  null
+                                                                             },
+                                                                             {
+                                                                                 "degree":  "5",
+                                                                                 "historical_status":  "posizione eptatonica relativa",
+                                                                                 "modern_equivalent":  "Sol",
+                                                                                 "pitch_class_12tet":  7,
+                                                                                 "exact_deviation_cents":  null
+                                                                             },
+                                                                             {
+                                                                                 "degree":  "6",
+                                                                                 "historical_status":  "posizione eptatonica relativa",
+                                                                                 "modern_equivalent":  "La",
+                                                                                 "pitch_class_12tet":  9,
+                                                                                 "exact_deviation_cents":  null
+                                                                             },
+                                                                             {
+                                                                                 "degree":  "7",
+                                                                                 "historical_status":  "posizione eptatonica relativa",
+                                                                                 "modern_equivalent":  "Si",
+                                                                                 "pitch_class_12tet":  11,
+                                                                                 "exact_deviation_cents":  null
+                                                                             }
+                                                                         ],
+                                                 "calculated_intervals_cents":  [
+
+                                                                                ],
+                                                 "measured_natural_sequence":  [
+
+                                                                               ],
+                                                 "measured_intervals_cents":  [
+
+                                                                              ],
+                                                 "scale_degrees_from_keynote":  [
+                                                                                    "1",
+                                                                                    "2",
+                                                                                    "3",
+                                                                                    "4",
+                                                                                    "5",
+                                                                                    "6",
+                                                                                    "7"
+                                                                                ],
+                                                 "source_ids":  [
+                                                                    "SRC-UR-MIRELMAN-KRISPJIN-UET899-2009",
+                                                                    "SRC-UR-GURNEY-TUNING-TREATISE-1968",
+                                                                    "SRC-UR-KILMER-MESOPOTAMIAN-THEORY-1971"
+                                                                ]
+                                             },
+                       "center":  {
+                                      "label":  "Do",
+                                      "type":  "riferimento convenzionale 12-TET, non storico",
+                                      "pitch_class":  0,
+                                      "historical_reference":  "nessuna altezza assoluta o tonica moderna documentata"
+                                  },
+                       "notes_12tet":  [
+                                           "Do",
+                                           "Re",
+                                           "Mi",
+                                           "Fa",
+                                           "Sol",
+                                           "La",
+                                           "Si"
+                                       ],
+                       "pitch_classes_12tet":  [
+                                                   0,
+                                                   2,
+                                                   4,
+                                                   5,
+                                                   7,
+                                                   9,
+                                                   11
+                                               ],
+                       "approximation":  {
+                                             "system":  "12-TET",
+                                             "status":  "sintesi_operativa_non_storica",
+                                             "quality":  "media_per_sola_struttura_eptatonica; bassa_per_intervalli_e_altezze",
+                                             "deviations_cents":  [
+
+                                                                  ],
+                                             "warning":  "Do-Re-Mi-Fa-Sol-La-Si è una griglia neutra del software. Non identifica una delle accordature mesopotamiche con una tonalità moderna e non ricostruisce l\u0027accordatura delle lire archeologiche."
+                                         },
+                       "harmonization":  {
+                                             "status":  "proposta_moderna_anacronistica",
+                                             "method":  "triadi generate dalla sola collezione 12-TET convenzionale",
+                                             "warning":  "Le fonti non documentano armonia funzionale o successioni di accordi per la pratica di Ur."
+                                         },
+                       "transition_reliability":  {
+                                                      "archaeological_instrument_context":  "alta",
+                                                      "local_tuning_text":  "alta",
+                                                      "historical_pitch_comparison":  "bassa",
+                                                      "structural_scale_comparison":  "media-alta",
+                                                      "twelve_tet_transition":  "bassa-media",
+                                                      "reason":  "Ur offre sia strumenti archeologici sia un testo locale di accordatura, ma non conserva frequenze assolute né una melodia univoca; inoltre i due nuclei documentari sono separati cronologicamente."
+                                                  },
+                       "source_ids":  [
+                                          "SRC-UR-WOOLLEY-ROYAL-CEMETERY-1934",
+                                          "SRC-UR-DESCHAUENSEE-TWO-LYRES-2002",
+                                          "SRC-UR-MIRELMAN-KRISPJIN-UET899-2009",
+                                          "SRC-UR-GURNEY-TUNING-TREATISE-1968",
+                                          "SRC-UR-KILMER-MESOPOTAMIAN-THEORY-1971"
+                                      ],
+                       "documents":  [
+                                         {
+                                             "document_id":  "DOC-UR-LYRES-TUNING-DATA",
+                                             "label":  "Dati documentati sulle lire e sulle accordature di Ur",
+                                             "path":  "../documenti/DATI_DOCUMENTATI_UR_LIRE_ACCORDATURA.txt",
+                                             "type":  "text"
+                                         },
+                                         {
+                                             "document_id":  "DOC-UR-LYRES-TUNING-METHOD",
+                                             "label":  "Nota metodologica sul quadro eptatonico paleobabilonese",
+                                             "path":  "../documenti/NOTA_METODOLOGICA_UR_EPTATONICO.txt",
+                                             "type":  "text"
+                                         }
+                                     ]
+                   }
+               ],
+    "sources":  [
+                    {
+                        "source_id":  "SRC-UR-WOOLLEY-ROYAL-CEMETERY-1934",
+                        "purpose":  "contesto archeologico degli strumenti a corda del Cimitero Reale di Ur",
+                        "title":  "Ur Excavations II: The Royal Cemetery",
+                        "author":  "C. Leonard Woolley",
+                        "year":  "1934",
+                        "publisher_or_journal":  "Joint Expedition of the British Museum and the University Museum, University of Pennsylvania; Oxford University Press",
+                        "identifier":  "Ur Excavations II",
+                        "pages":  "catalogo, descrizioni e tavole relative agli strumenti musicali delle tombe reali",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-UR-DESCHAUENSEE-TWO-LYRES-2002",
+                        "purpose":  "studio organologico e ricostruttivo di due lire provenienti da Ur",
+                        "title":  "Two Lyres from Ur",
+                        "author":  "Maude de Schauensee",
+                        "year":  "2002",
+                        "publisher_or_journal":  "University of Pennsylvania Museum of Archaeology and Anthropology",
+                        "identifier":  "monografia museale",
+                        "pages":  "intero volume",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-UR-MIRELMAN-KRISPJIN-UET899-2009",
+                        "purpose":  "edizione e interpretazione del testo paleobabilonese di accordatura proveniente da Ur",
+                        "title":  "The Old Babylonian Tuning Text UET VI/3 899",
+                        "author":  "Sam Mirelman e Theo J. H. Krispijn",
+                        "year":  "2009",
+                        "publisher_or_journal":  "Iraq 71",
+                        "identifier":  "UET VI/3 899",
+                        "pages":  "43-52",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-UR-GURNEY-TUNING-TREATISE-1968",
+                        "purpose":  "analisi comparativa delle istruzioni paleobabilonesi di riaccordatura",
+                        "title":  "An Old Babylonian Treatise on the Tuning of the Harp",
+                        "author":  "O. R. Gurney",
+                        "year":  "1968",
+                        "publisher_or_journal":  "Iraq 30",
+                        "identifier":  "articolo accademico",
+                        "pages":  "229-233",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-UR-KILMER-MESOPOTAMIAN-THEORY-1971",
+                        "purpose":  "ricostruzione del quadro teorico mesopotamico di corde, intervalli e accordature",
+                        "title":  "The Discovery of an Ancient Mesopotamian Theory of Music",
+                        "author":  "Anne Draffkorn Kilmer",
+                        "year":  "1971",
+                        "publisher_or_journal":  "Proceedings of the American Philosophical Society 115(2)",
+                        "identifier":  "articolo accademico",
+                        "pages":  "131-149",
+                        "grade":  "A"
+                    }
+                ],
+    "documents":  [
+                      {
+                          "document_id":  "DOC-UR-LYRES-TUNING-DATA",
+                          "label":  "Dati documentati sulle lire e sulle accordature di Ur",
+                          "path":  "../documenti/DATI_DOCUMENTATI_UR_LIRE_ACCORDATURA.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-UR-LYRES-TUNING-METHOD",
+                          "label":  "Nota metodologica sul quadro eptatonico paleobabilonese",
+                          "path":  "../documenti/NOTA_METODOLOGICA_UR_EPTATONICO.txt",
+                          "type":  "text"
+                      }
+                  ]
+}

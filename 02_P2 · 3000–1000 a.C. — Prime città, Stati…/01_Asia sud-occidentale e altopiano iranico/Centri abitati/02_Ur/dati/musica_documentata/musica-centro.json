@@ -1,0 +1,211 @@
+﻿{
+    "schema_version":  1,
+    "record_type":  "center_music_profile",
+    "profile_id":  "P2-ASW-UR-LYRES-HEPTATONIC-DOCUMENTED",
+    "record_status":  "documentato",
+    "scope":  {
+                  "type":  "inhabited_center",
+                  "center_id":  "UR",
+                  "center_label":  "Ur",
+                  "folder_name":  "02_Ur"
+              },
+    "period":  {
+                   "id":  "P2",
+                   "label":  "3000–1000 a.C. — Prime città, Stati…",
+                   "order":  2,
+                   "documented_subrange":  "circa 2600-2450 a.C. per gli strumenti; periodo paleobabilonese per UET VI/3 899"
+               },
+    "area":  {
+                 "id":  "ASW_IRAN",
+                 "label":  "Asia sud-occidentale e altopiano iranico"
+             },
+    "documentation":  {
+                          "status":  "documentato",
+                          "confidence":  "alta_per_contesto_archeologico_e_testo_locale; media_alta_per_quadro_eptatonico; bassa_per_altezze_assolute_e_12tet",
+                          "statement":  "Il profilo documenta gli strumenti a corda del Cimitero Reale di Ur e il testo paleobabilonese locale UET VI/3 899, mantenendo distinta la loro cronologia.",
+                          "chronology_status":  "compatibile",
+                          "chronology_statement":  "Entrambi i nuclei appartengono al P2, ma sono separati da diversi secoli e non vengono trattati come un\u0027unica prassi immutata.",
+                          "geography_status":  "compatibile",
+                          "geography_relation":  "nel_centro",
+                          "geography_statement":  "Gli strumenti e UET VI/3 899 provengono dal sito di Ur.",
+                          "historical_system_resolvable":  true,
+                          "limitation_note":  "Il quadro eptatonico e le procedure di riaccordatura sono documentati; frequenze, tonica, melodia e accordatura delle singole lire archeologiche non sono recuperabili."
+                      },
+    "musical_evidence":  [
+                             {
+                                 "evidence_id":  "EVID-UR-ROYAL-CEMETERY-LYRES",
+                                 "type":  "archaeological_instruments",
+                                 "status":  "documentato",
+                                 "statement":  "Il Cimitero Reale di Ur ha restituito lire e altri strumenti a corda in contesti archeologici del Dinastico Arcaico III.",
+                                 "source_ids":  [
+                                                    "SRC-UR-WOOLLEY-ROYAL-CEMETERY-1934",
+                                                    "SRC-UR-DESCHAUENSEE-TWO-LYRES-2002"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-UR-UET899-TUNING-TEXT",
+                                 "type":  "local_tuning_text",
+                                 "status":  "documentato",
+                                 "statement":  "UET VI/3 899, proveniente da Ur, conserva istruzioni paleobabilonesi di riaccordatura mediante corde e intervalli nominati.",
+                                 "source_ids":  [
+                                                    "SRC-UR-MIRELMAN-KRISPJIN-UET899-2009",
+                                                    "SRC-UR-GURNEY-TUNING-TREATISE-1968"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-UR-HEPTATONIC-FRAMEWORK",
+                                 "type":  "tradition_scale",
+                                 "status":  "sintesi",
+                                 "statement":  "Il testo locale e il corpus teorico mesopotamico sostengono un quadro diatonico eptatonico; il profilo non impone una singola tonalità moderna.",
+                                 "source_ids":  [
+                                                    "SRC-UR-MIRELMAN-KRISPJIN-UET899-2009",
+                                                    "SRC-UR-GURNEY-TUNING-TREATISE-1968",
+                                                    "SRC-UR-KILMER-MESOPOTAMIAN-THEORY-1971"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-UR-CHRONOLOGY-CAUTION",
+                                 "type":  "interpretation_limit",
+                                 "status":  "documentato",
+                                 "statement":  "Le lire del Cimitero Reale e UET VI/3 899 appartengono a fasi diverse; non viene affermata identità di accordatura fra i due nuclei.",
+                                 "source_ids":  [
+                                                    "SRC-UR-WOOLLEY-ROYAL-CEMETERY-1934",
+                                                    "SRC-UR-DESCHAUENSEE-TWO-LYRES-2002",
+                                                    "SRC-UR-MIRELMAN-KRISPJIN-UET899-2009"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-UR-12TET-LIMIT",
+                                 "type":  "interpretation_limit",
+                                 "status":  "sintesi",
+                                 "statement":  "Do-Re-Mi-Fa-Sol-La-Si è soltanto una mappatura computazionale della struttura eptatonica e non una ricostruzione sonora.",
+                                 "source_ids":  [
+                                                    "SRC-UR-MIRELMAN-KRISPJIN-UET899-2009",
+                                                    "SRC-UR-KILMER-MESOPOTAMIAN-THEORY-1971"
+                                                ]
+                             }
+                         ],
+    "tradition_links":  [
+                            {
+                                "tradition_id":  "UR_ROYAL_LYRES_OLD_BABYLONIAN_TUNING",
+                                "relation_status":  "documentato",
+                                "source_ids":  [
+                                                   "SRC-UR-WOOLLEY-ROYAL-CEMETERY-1934",
+                                                   "SRC-UR-DESCHAUENSEE-TWO-LYRES-2002",
+                                                   "SRC-UR-MIRELMAN-KRISPJIN-UET899-2009",
+                                                   "SRC-UR-GURNEY-TUNING-TREATISE-1968",
+                                                   "SRC-UR-KILMER-MESOPOTAMIAN-THEORY-1971"
+                                               ],
+                                "relation_note":  "La tradizione descrittiva è radicata in due nuclei provenienti da Ur: strumenti del Cimitero Reale e testi locali di accordatura."
+                            }
+                        ],
+    "scale_links":  [
+                        {
+                            "scale_id":  "UR_OLD_BABYLONIAN_HEPTATONIC_TUNING_FRAMEWORK",
+                            "relation_status":  "documentato",
+                            "source_ids":  [
+                                               "SRC-UR-MIRELMAN-KRISPJIN-UET899-2009",
+                                               "SRC-UR-GURNEY-TUNING-TREATISE-1968",
+                                               "SRC-UR-KILMER-MESOPOTAMIAN-THEORY-1971"
+                                           ],
+                            "relation_note":  "È documentato un quadro paleobabilonese di accordature eptatoniche; la mappatura 12-TET è moderna e non assegna una tonalità storica a Ur."
+                        }
+                    ],
+    "documents":  [
+                      {
+                          "document_id":  "DOC-UR-CENTER-SOURCES",
+                          "label":  "Fonti documentate per Ur",
+                          "path":  "./FONTI_DOCUMENTATE.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-UR-CENTER-MANIFEST",
+                          "label":  "Manifesto della documentazione di Ur",
+                          "path":  "./MANIFESTO_DOCUMENTAZIONE.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-UR-CENTER-DATA",
+                          "label":  "Dati documentati su lire e accordature di Ur",
+                          "path":  "./DATI_DOCUMENTATI_UR_LIRE_ACCORDATURA.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-UR-TRANSITIONS",
+                          "label":  "Nota sulle transizioni da e verso Ur",
+                          "path":  "./NOTA_TRANSIZIONI_UR.txt",
+                          "type":  "text"
+                      }
+                  ],
+    "sources":  [
+                    {
+                        "source_id":  "SRC-UR-WOOLLEY-ROYAL-CEMETERY-1934",
+                        "purpose":  "contesto archeologico degli strumenti a corda del Cimitero Reale di Ur",
+                        "title":  "Ur Excavations II: The Royal Cemetery",
+                        "author":  "C. Leonard Woolley",
+                        "year":  "1934",
+                        "publisher_or_journal":  "Joint Expedition of the British Museum and the University Museum, University of Pennsylvania; Oxford University Press",
+                        "identifier":  "Ur Excavations II",
+                        "pages":  "catalogo, descrizioni e tavole relative agli strumenti musicali delle tombe reali",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-UR-DESCHAUENSEE-TWO-LYRES-2002",
+                        "purpose":  "studio organologico e ricostruttivo di due lire provenienti da Ur",
+                        "title":  "Two Lyres from Ur",
+                        "author":  "Maude de Schauensee",
+                        "year":  "2002",
+                        "publisher_or_journal":  "University of Pennsylvania Museum of Archaeology and Anthropology",
+                        "identifier":  "monografia museale",
+                        "pages":  "intero volume",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-UR-MIRELMAN-KRISPJIN-UET899-2009",
+                        "purpose":  "edizione e interpretazione del testo paleobabilonese di accordatura proveniente da Ur",
+                        "title":  "The Old Babylonian Tuning Text UET VI/3 899",
+                        "author":  "Sam Mirelman e Theo J. H. Krispijn",
+                        "year":  "2009",
+                        "publisher_or_journal":  "Iraq 71",
+                        "identifier":  "UET VI/3 899",
+                        "pages":  "43-52",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-UR-GURNEY-TUNING-TREATISE-1968",
+                        "purpose":  "analisi comparativa delle istruzioni paleobabilonesi di riaccordatura",
+                        "title":  "An Old Babylonian Treatise on the Tuning of the Harp",
+                        "author":  "O. R. Gurney",
+                        "year":  "1968",
+                        "publisher_or_journal":  "Iraq 30",
+                        "identifier":  "articolo accademico",
+                        "pages":  "229-233",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-UR-KILMER-MESOPOTAMIAN-THEORY-1971",
+                        "purpose":  "ricostruzione del quadro teorico mesopotamico di corde, intervalli e accordature",
+                        "title":  "The Discovery of an Ancient Mesopotamian Theory of Music",
+                        "author":  "Anne Draffkorn Kilmer",
+                        "year":  "1971",
+                        "publisher_or_journal":  "Proceedings of the American Philosophical Society 115(2)",
+                        "identifier":  "articolo accademico",
+                        "pages":  "131-149",
+                        "grade":  "A"
+                    }
+                ],
+    "review":  {
+                   "status":  "pubblicato_con_separazione_cronologica_e_cautela_12tet",
+                   "reviewer":  "Michele Scattolin - verifica finale richiesta",
+                   "last_reviewed":  "2026-07-03T14:17:11.6310258+02:00",
+                   "next_action":  "Verificare che l\u0027interfaccia distingua strumenti, testo di accordatura e mappatura 12-TET."
+               },
+    "extensions":  {
+                       "storage_model":  "center_local_documented_package",
+                       "package_directory":  "dati/musica_documentata",
+                       "archaeological_corpus":  "lire e strumenti a corda del Cimitero Reale di Ur",
+                       "tuning_text":  "UET VI/3 899",
+                       "theoretical_system":  "accordature diatoniche eptatoniche mesopotamiche",
+                       "comparison_mapping":  "collezione diatonica neutra 12-TET"
+                   }
+}

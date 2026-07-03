@@ -1,0 +1,50 @@
+﻿NOTA METODOLOGICA — PARIGI 1859
+================================
+
+1. CATENA DOCUMENTALE
+---------------------
+Centro:
+Parigi industriale e haussmanniana.
+
+Tradizione:
+PARIS_SECOND_EMPIRE_DIAPASON_NORMAL
+
+Sistema:
+PARIS_1859_DIAPASON_NORMAL_A435_REFERENCE
+
+2. DISTINZIONE FRA FREQUENZA E TEMPERAMENTO
+-------------------------------------------
+Una frequenza di riferimento stabilisce l'altezza di una nota campione.
+Non definisce automaticamente le distanze fra tutte le altre note.
+
+Per questo il profilo pubblica come dato storico:
+La = 435 Hz.
+
+La tabella delle dodici frequenze è invece costruita con:
+
+f(n) = 435 × 2^(n/12)
+
+ed è marcata come calcolo moderno 12-TET.
+
+3. CONFRONTO CON A=440
+----------------------
+Lo scarto viene calcolato con:
+
+1200 × log2(435/440) = -19.785747 cent.
+
+Il segno negativo indica che il riferimento francese è più basso del
+riferimento A=440 usato nel confronto.
+
+4. TERMINOLOGIA DELLE VIBRAZIONI
+--------------------------------
+Le fonti ottocentesche possono contare le "vibrations simples", cioè i
+singoli spostamenti. 870 vibrations simples corrispondono a 435 cicli
+completi al secondo nella terminologia moderna.
+
+5. LIMITI
+---------
+Il record non sostiene:
+- che tutte le orchestre parigine fossero perfettamente a 435 Hz;
+- che il 12-TET fosse imposto dal solo atto;
+- che 435 Hz produca effetti medici o naturali speciali;
+- che l'altezza moderna A4 fosse nominata nello stesso modo nel 1859.
