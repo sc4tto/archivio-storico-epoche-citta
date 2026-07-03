@@ -11,3 +11,12 @@ _software/Viaggio_Musicale/**/*.tmp
 _software/Viaggio_Musicale/**/*.bak
 Thumbs.db
 .DS_Store
+# Viaggio Musicale - risultati rigenerabili
+_software/Viaggio_Musicale/generated/RAPPORTO_*.txt
+_software/Viaggio_Musicale/generated/scan-report.json
+_software/Viaggio_Musicale/generated/installazioni-musicali-locali.json
+_software/Viaggio_Musicale/inventario/CONFRONTO_GITHUB_DESKTOP_20*.csv
+_software/Viaggio_Musicale/inventario/CONFRONTO_GITHUB_DESKTOP_20*.json
+_software/Viaggio_Musicale/inventario/INVENTARIO_CENTRI_20*.csv
+_software/Viaggio_Musicale/inventario/INVENTARIO_CENTRI_20*.json
+_software/Viaggio_Musicale/inventario/STRUTTURA_CARTELLE_20*.txt
