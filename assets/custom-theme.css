@@ -1,0 +1,92 @@
+/*
+  TEMA GRAFICO PERSONALIZZATO — VIAGGIO MUSICALE
+  Generato dall’Editor visuale del tema.
+*/
+
+:root {
+  --page: #a07f31;
+  --surface: #fffdf8;
+  --surface-alt: #faf8f2;
+  --primary: #2e493f;
+  --text: #1f2933;
+  --muted: #64707d;
+  --border: #d8d1c4;
+  --accent: #c8a970;
+  --control-background: #f3f0e9;
+  --font-family: Georgia, "Times New Roman", serif;
+  --base-size: 16px;
+  --line-height: 1.5;
+  --heading-weight: 700;
+  --label-size: 12px;
+  --content-max-width: 1500px;
+  --panel-padding: 22px;
+  --node-width: 292px;
+  --node-gap: 36px;
+  --control-padding-y: 10px;
+  --control-padding-x: 14px;
+  --panel-radius: 0px;
+  --canvas-radius: 0px;
+  --node-radius: 0px;
+  --control-radius: 0px;
+  --select-radius: 0px;
+  --documentation-card-radius: 0px;
+  --documentation-badge-radius: 0px;
+  --documentation-item-radius: 0px;
+  --documentation-level-radius: 0px;
+  --documentation-card-min-width: 340px;
+  --documentation-title-align: left;
+  --documentation-text-align: left;
+  --panel-shadow: none;
+  --node-shadow: none;
+  --edge-badge-shadow: none;
+}
+
+.documentation-grid {
+  grid-template-columns:
+    repeat(
+      auto-fit,
+      minmax(min(100%, var(--documentation-card-min-width)), 1fr)
+    );
+}
+
+.documentation-grid > div {
+  min-width: 0;
+  overflow: hidden;
+  border-radius: var(--documentation-card-radius);
+  text-align: var(--documentation-text-align);
+}
+
+.documentation-grid dt,
+.documentation-grid dd {
+  min-width: 0;
+  max-width: 100%;
+  overflow-wrap: anywhere;
+  word-break: normal;
+  hyphens: auto;
+}
+
+.documentation-grid dt {
+  text-align: var(--documentation-title-align);
+}
+
+.documentation-badge,
+.source-grade {
+  border-radius: var(--documentation-badge-radius);
+}
+
+.documentation-level {
+  border-radius:
+    0
+    var(--documentation-level-radius)
+    var(--documentation-level-radius)
+    0;
+}
+
+.documentation-warning,
+.documentation-next-action,
+.evidence-item,
+.source-item,
+.documentation-table-shell,
+.documentation-empty {
+  border-radius: var(--documentation-item-radius);
+}
