@@ -1,0 +1,239 @@
+﻿{
+    "schema_version":  1,
+    "record_type":  "center_music_profile",
+    "profile_id":  "P3-EUR-MED-ALEXANDRIA-PTOLEMY-DOCUMENTED",
+    "record_status":  "documentato",
+    "scope":  {
+                  "type":  "inhabited_center",
+                  "center_id":  "ALEXANDRIA",
+                  "center_label":  "Alessandria romana",
+                  "folder_name":  "03_Alessandria_Mediterranea"
+              },
+    "period":  {
+                   "id":  "P3",
+                   "label":  "1000 a.C.–500 d.C. — Imperi classici…",
+                   "order":  3,
+                   "documented_subrange":  "II secolo d.C., circa 100-170"
+               },
+    "area":  {
+                 "id":  "EUR_MED",
+                 "label":  "Mediterraneo europeo ed Europa centro-occidentale"
+             },
+    "documentation":  {
+                          "status":  "documentato",
+                          "confidence":  "alta_per_trattato_rapporti_e_attivita_scientifica; media_per_relazione_fra_teoria_e_prassi_urbana; bassa_per_altezza_assoluta",
+                          "statement":  "Il profilo documenta l\u0027attività armonica di Claudio Tolomeo nel contesto di Alessandria romana e il diatonico intenso espresso mediante rapporti razionali.",
+                          "chronology_status":  "compatibile",
+                          "chronology_statement":  "L\u0027attività di Tolomeo nel II secolo d.C. ricade nel periodo P3.",
+                          "geography_status":  "compatibile",
+                          "geography_relation":  "nel_centro",
+                          "geography_statement":  "Tolomeo è documentato come scienziato attivo ad Alessandria; il profilo non attribuisce automaticamente la sua teoria a ogni pratica musicale cittadina.",
+                          "historical_system_resolvable":  true,
+                          "limitation_note":  "Sono risolvibili trattato, genere, rapporti e struttura relativa. Non sono risolvibili un\u0027altezza assoluta antica, una frequenza moderna di riferimento o una prassi uniforme dell\u0027intera città."
+                      },
+    "review":  {
+                   "status":  "pubblicato_con_rapporti_esatti_e_cautela_12tet",
+                   "reviewer":  "Michele Scattolin - verifica finale richiesta",
+                   "last_reviewed":  "2026-07-03T16:23:23.1690992+02:00",
+                   "next_action":  "Controllare che l\u0027interfaccia distingua rapporti teorici, cent calcolati, note 12-TET e pratica storica."
+               },
+    "extensions":  {
+                       "storage_model":  "center_local_documented_package",
+                       "package_directory":  "dati/musica_documentata",
+                       "block_number":  25,
+                       "incremental_engine_required":  "VALIDA_CASO_LOCALE.ps1 v1",
+                       "historical_author":  "Claudio Tolomeo",
+                       "historical_work":  "Harmonics",
+                       "selected_system":  "diatonico intenso / syntonon",
+                       "ratio_sequence":  [
+                                              "1:1",
+                                              "9:8",
+                                              "5:4",
+                                              "4:3",
+                                              "3:2",
+                                              "5:3",
+                                              "15:8",
+                                              "2:1"
+                                          ],
+                       "step_ratios":  [
+                                           "9:8",
+                                           "10:9",
+                                           "16:15",
+                                           "9:8",
+                                           "10:9",
+                                           "9:8",
+                                           "16:15"
+                                       ],
+                       "continuity_from_profile":  "P3-EUR-MED-ATHENS-ARISTOXENUS-DOCUMENTED",
+                       "installed_at":  "2026-07-03T16:23:23.1710905+02:00"
+                   },
+    "musical_evidence":  [
+                             {
+                                 "evidence_id":  "EVID-ALEXANDRIA-PTOLEMY-CITY",
+                                 "type":  "center_tradition",
+                                 "status":  "documentato",
+                                 "statement":  "Claudio Tolomeo svolse la propria attività scientifica ad Alessandria nel II secolo d.C.; gli Harmonics appartengono al suo corpus scientifico.",
+                                 "source_ids":  [
+                                                    "SRC-ALEXANDRIA-TOOMER-PTOLEMY-1975",
+                                                    "SRC-ALEXANDRIA-PTOLEMY-SOLOMON-2000",
+                                                    "SRC-ALEXANDRIA-BARKER-PTOLEMY-2000"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-ALEXANDRIA-PTOLEMY-HARMONICS",
+                                 "type":  "primary_theoretical_source",
+                                 "status":  "documentato",
+                                 "statement":  "Gli Harmonics documentano una teoria delle consonanze, dei generi e dei sistemi fondata sul confronto fra ragione matematica e percezione.",
+                                 "source_ids":  [
+                                                    "SRC-ALEXANDRIA-PTOLEMY-SOLOMON-2000",
+                                                    "SRC-ALEXANDRIA-BARKER-PTOLEMY-2000",
+                                                    "SRC-ALEXANDRIA-BARKER-GMW2-1989"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-ALEXANDRIA-PTOLEMY-INTENSE-DIATONIC",
+                                 "type":  "tradition_scale",
+                                 "status":  "documentato",
+                                 "statement":  "Il diatonico intenso impiega nel tetracordo i rapporti 9:8, 10:9 e 16:15; il profilo d\u0027ottava usa la sequenza relativa attestata nel contenitore.",
+                                 "source_ids":  [
+                                                    "SRC-ALEXANDRIA-PTOLEMY-SOLOMON-2000",
+                                                    "SRC-ALEXANDRIA-BARKER-GMW2-1989",
+                                                    "SRC-ALEXANDRIA-MATHIESEN-1999"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-ALEXANDRIA-PTOLEMY-CENTS",
+                                 "type":  "calculated_comparison",
+                                 "status":  "sintesi",
+                                 "statement":  "I valori in cent e gli scarti dalla griglia 12-TET sono calcoli moderni ricavati dai rapporti esatti e non misure acustiche antiche.",
+                                 "source_ids":  [
+                                                    "SRC-ALEXANDRIA-PTOLEMY-SOLOMON-2000",
+                                                    "SRC-ALEXANDRIA-BARKER-PTOLEMY-2000"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-ALEXANDRIA-PTOLEMY-LIMITS",
+                                 "type":  "interpretation_limit",
+                                 "status":  "documentato",
+                                 "statement":  "Il primo grado, rappresentato come Do nell\u0027interfaccia, è relativo; il profilo non assegna una frequenza assoluta né deduce armonia funzionale o pratica urbana uniforme.",
+                                 "source_ids":  [
+                                                    "SRC-ALEXANDRIA-PTOLEMY-SOLOMON-2000",
+                                                    "SRC-ALEXANDRIA-MATHIESEN-1999",
+                                                    "SRC-ALEXANDRIA-TOOMER-PTOLEMY-1975"
+                                                ]
+                             }
+                         ],
+    "tradition_links":  [
+                            {
+                                "tradition_id":  "ALEXANDRIA_PTOLEMAIC_HARMONICS",
+                                "relation_status":  "documentato",
+                                "relation_note":  "Il collegamento riguarda Tolomeo, gli Harmonics e il contesto scientifico alessandrino; non tutta la musica della città.",
+                                "source_ids":  [
+                                                   "SRC-ALEXANDRIA-PTOLEMY-SOLOMON-2000",
+                                                   "SRC-ALEXANDRIA-BARKER-PTOLEMY-2000",
+                                                   "SRC-ALEXANDRIA-TOOMER-PTOLEMY-1975"
+                                               ]
+                            }
+                        ],
+    "scale_links":  [
+                        {
+                            "scale_id":  "ALEXANDRIA_PTOLEMY_INTENSE_DIATONIC",
+                            "relation_status":  "documentato",
+                            "relation_note":  "Il diatonico intenso e i suoi rapporti sono documentati; note moderne e cent sono livelli di calcolo separati.",
+                            "source_ids":  [
+                                               "SRC-ALEXANDRIA-PTOLEMY-SOLOMON-2000",
+                                               "SRC-ALEXANDRIA-BARKER-PTOLEMY-2000",
+                                               "SRC-ALEXANDRIA-BARKER-GMW2-1989",
+                                               "SRC-ALEXANDRIA-MATHIESEN-1999"
+                                           ]
+                        }
+                    ],
+    "documents":  [
+                      {
+                          "document_id":  "DOC-ALEXANDRIA-CENTER-SOURCES",
+                          "label":  "Fonti documentate per Alessandria e Tolomeo",
+                          "path":  "./FONTI_DOCUMENTATE.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-ALEXANDRIA-CENTER-MANIFEST",
+                          "label":  "Manifesto della documentazione Alessandria",
+                          "path":  "./MANIFESTO_DOCUMENTAZIONE.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-ALEXANDRIA-CENTER-DATA",
+                          "label":  "Dati documentati sul diatonico intenso di Tolomeo",
+                          "path":  "./DATI_DOCUMENTATI_TOLOMEO.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-ALEXANDRIA-TRANSITIONS",
+                          "label":  "Nota sulle transizioni fra Atene, Alessandria e la rappresentazione moderna",
+                          "path":  "./NOTA_TRANSIZIONI_ALESSANDRIA.txt",
+                          "type":  "text"
+                      }
+                  ],
+    "sources":  [
+                    {
+                        "source_id":  "SRC-ALEXANDRIA-PTOLEMY-SOLOMON-2000",
+                        "purpose":  "traduzione inglese completa e commentata degli Harmonics",
+                        "title":  "Ptolemy: Harmonics",
+                        "author":  "Claudius Ptolemy",
+                        "editor":  "Jon Solomon, translator and commentator",
+                        "year":  "2000",
+                        "publisher_or_journal":  "Mnemosyne Supplements 203, Brill, Leiden and Boston",
+                        "identifier":  "ISBN 9789004110465",
+                        "pages":  "testo completo; libri I-III",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-ALEXANDRIA-BARKER-PTOLEMY-2000",
+                        "purpose":  "analisi specialistica del metodo sperimentale e matematico",
+                        "title":  "Scientific Method in Ptolemy\u0027s Harmonics",
+                        "author":  "Andrew Barker",
+                        "year":  "2000",
+                        "publisher_or_journal":  "Cambridge University Press",
+                        "identifier":  "monografia accademica",
+                        "pages":  "intero volume",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ALEXANDRIA-BARKER-GMW2-1989",
+                        "purpose":  "traduzione di testi armonici greci e inquadramento della teoria",
+                        "title":  "Greek Musical Writings, Volume II: Harmonic and Acoustic Theory",
+                        "author":  "Andrew Barker, editor and translator",
+                        "year":  "1989",
+                        "publisher_or_journal":  "Cambridge University Press",
+                        "identifier":  "ISBN 9780521289955",
+                        "pages":  "sezioni su Tolomeo e la teoria armonica imperiale",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-ALEXANDRIA-MATHIESEN-1999",
+                        "purpose":  "inquadramento storico della teoria musicale greca e romana",
+                        "title":  "Apollo\u0027s Lyre: Greek Music and Music Theory in Antiquity and the Middle Ages",
+                        "author":  "Thomas J. Mathiesen",
+                        "year":  "1999",
+                        "publisher_or_journal":  "University of Nebraska Press",
+                        "identifier":  "ISBN 9780803230798",
+                        "pages":  "sezioni su Tolomeo, generi e tonoi",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-ALEXANDRIA-TOOMER-PTOLEMY-1975",
+                        "purpose":  "biografia scientifica e localizzazione dell\u0027attività ad Alessandria",
+                        "title":  "Ptolemy",
+                        "author":  "Gerald J. Toomer",
+                        "year":  "1975",
+                        "publisher_or_journal":  "Dictionary of Scientific Biography, volume 11",
+                        "identifier":  "voce biografica accademica",
+                        "pages":  "186-206",
+                        "grade":  "B"
+                    }
+                ],
+    "notes":  [
+                  "Il profilo completa il collegamento locale dell\u0027unico contenitore del catalogo privo di un profilo di centro nel ciclo precedente.",
+                  "Non viene modificato il contenitore storico già presente."
+              ]
+}

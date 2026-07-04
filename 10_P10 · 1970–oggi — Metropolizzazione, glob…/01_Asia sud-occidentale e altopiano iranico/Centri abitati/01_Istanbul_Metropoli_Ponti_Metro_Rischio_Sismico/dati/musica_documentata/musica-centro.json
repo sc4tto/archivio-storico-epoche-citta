@@ -25,11 +25,14 @@
                           "statement":  "Il profilo documenta l’istituzionalizzazione contemporanea della musica turca a Istanbul, il corpus SymbTr e il toolbox tomato, mantenendo separati partitura, teoria, registrazione e misura.",
                           "chronology_status":  "compatibile",
                           "chronology_statement":  "L’İTÜ TMDK è attiva dal 1975; SymbTr, gli articoli di analisi e tomato appartengono alla fase contemporanea del periodo P10.",
-                          "geography_status":  "compatibile_con_cautela",
-                          "geography_relation":  "nel_centro_e_in_rete",
                           "geography_statement":  "Istanbul è un centro istituzionale documentato; corpus e software sono risorse digitali prodotte e mantenute anche in reti internazionali.",
                           "historical_system_resolvable":  true,
-                          "limitation_note":  "Sono risolvibili dati simbolici e procedure di analisi. Non si dichiarano valori esecutivi senza una registrazione identificata e analizzata."
+                          "limitation_note":  "Sono risolvibili dati simbolici e procedure di analisi. Non si dichiarano valori esecutivi senza una registrazione identificata e analizzata.",
+                          "geography_status":  "compatibile",
+                          "geography_status_detail":  "compatibile_con_cautela",
+                          "geography_relation":  "nel_centro",
+                          "geography_relation_detail":  "nel_centro_e_in_rete",
+                          "geography_validation_note":  "Il legame istituzionale con Istanbul è documentato; la dimensione di rete resta esplicitamente conservata."
                       },
     "musical_evidence":  [
                              {
@@ -87,26 +90,30 @@
     "tradition_links":  [
                             {
                                 "tradition_id":  "ISTANBUL_CONTEMPORARY_DIGITAL_MAKAM_CORPORA",
-                                "relation_status":  "documentato_con_cautela_geografica",
                                 "relation_note":  "Istanbul è il centro istituzionale del profilo; le risorse digitali sono condivise in reti internazionali.",
                                 "source_ids":  [
                                                    "SRC-ISTANBUL-P10-ITU-TMDK",
                                                    "SRC-ISTANBUL-P10-SYMBTR-REPO",
                                                    "SRC-ISTANBUL-P10-TOMATO-REPO"
-                                               ]
+                                               ],
+                                "relation_status":  "documentato",
+                                "relation_status_detail":  "documentato_con_cautela_geografica",
+                                "validation_compatibility_note":  "Istanbul è il centro istituzionale; corpus e software appartengono anche a reti internazionali."
                             }
                         ],
     "scale_links":  [
                         {
                             "scale_id":  "ISTANBUL_CONTEMPORARY_RAST_SCORE_AUDIO_PROFILE",
-                            "relation_status":  "documentato_con_calcolo_derivato",
                             "relation_note":  "La partitura fornisce il riferimento simbolico; le distribuzioni audio devono essere calcolate su registrazioni specifiche; il 12-TET è solo anteprima.",
                             "source_ids":  [
                                                "SRC-ISTANBUL-P10-SYMBTR-REPO",
                                                "SRC-ISTANBUL-P10-TOMATO-REPO",
                                                "SRC-ISTANBUL-P10-BOZKURT-2008",
                                                "SRC-ISTANBUL-P10-BOZKURT-YARMAN-2009"
-                                           ]
+                                           ],
+                            "relation_status":  "documentato",
+                            "relation_status_detail":  "documentato_con_calcolo_derivato",
+                            "validation_compatibility_note":  "Partitura e riferimento teorico sono documentati; cent, misure e confronto 12-TET restano derivazioni dichiarate."
                         }
                     ],
     "documents":  [
@@ -239,6 +246,10 @@
                        "symbolic_reference":  "Arel-Ezgi-Uzdilek / 53 comma",
                        "selected_makam":  "Rast",
                        "measurement_state":  "nessuna registrazione inclusa",
-                       "continuity_from_profile":  "P9-ASW-ISTANBUL-AEU-RAST-DOCUMENTED"
+                       "continuity_from_profile":  "P9-ASW-ISTANBUL-AEU-RAST-DOCUMENTED",
+                       "incremental_engine_required":  "VALIDA_CASO_LOCALE.ps1 v1",
+                       "block_number":  24,
+                       "cycle_checkpoint":  "blocchi_21_24_finale",
+                       "last_reviewed":  "2026-07-03T16:10:55.7245100+02:00"
                    }
 }

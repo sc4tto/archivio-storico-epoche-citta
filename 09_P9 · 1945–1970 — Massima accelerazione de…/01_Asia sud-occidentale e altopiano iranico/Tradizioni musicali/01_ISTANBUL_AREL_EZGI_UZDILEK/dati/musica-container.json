@@ -31,7 +31,6 @@
                    {
                        "scale_id":  "ISTANBUL_AEU_RAST_53_COMMA_PROFILE",
                        "name":  "Istanbul postbellica - profilo comparativo Rast nel sistema Arel-Ezgi-Uzdilek",
-                       "documentation_status":  "documentato_come_modello_teorico_con_limiti_esecutivi",
                        "comparison_basis":  "arel_ezgi_uzdilek_24_unequal_pitch_notation_53_comma_grid_and_rast_modal_functions",
                        "documentation_scope":  {
                                                    "documented":  [
@@ -321,7 +320,10 @@
                                              "path":  "../documenti/NOTA_METODOLOGICA_AEU.txt",
                                              "type":  "text"
                                          }
-                                     ]
+                                     ],
+                       "documentation_status":  "documentato",
+                       "documentation_status_detail":  "documentato_come_modello_teorico_con_limiti_esecutivi",
+                       "validation_compatibility_note":  "Sono documentati scuola, notazione e modello teorico; 24 posizioni, 53 comma, cent e prassi restano concetti distinti."
                    }
                ],
     "sources":  [

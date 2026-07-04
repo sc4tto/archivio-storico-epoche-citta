@@ -1,0 +1,291 @@
+﻿{
+    "schema_version":  1,
+    "container_id":  "CONTAINER-P4-BYZ-CONSTANTINOPLE-OKTOECHOS",
+    "record_status":  "documentato",
+    "area":  {
+                 "id":  "EUR_MED",
+                 "label":  "Mediterraneo europeo ed Europa centro-occidentale"
+             },
+    "period":  {
+                   "id":  "P4",
+                   "label":  "500–1000 — Sistemi post-classici e r…",
+                   "order":  4
+               },
+    "tradition":  {
+                      "id":  "CONSTANTINOPLE_BYZANTINE_OKTOECHOS_STOUDITE_CHANT",
+                      "label":  "Octoechos bizantino e ricezione stoudita a Costantinopoli",
+                      "historical_name":  "oktōēchos / sistema degli otto echoi; denominazione del contenitore estesa con il contesto costantinopolitano",
+                      "documentation_status":  "documentato",
+                      "scope_note":  "Il record riguarda l\u0027ordinamento modale a otto echoi, il contesto liturgico costantinopolitano e la riorganizzazione stoudita. Non attribuisce a Costantinopoli un\u0027origine esclusiva dell\u0027Octoechos e non rappresenta tutta la musica della città.",
+                      "source_ids":  [
+                                         "SRC-CONSTANTINOPLE-WELLESZ-1961",
+                                         "SRC-CONSTANTINOPLE-STRUNK-1977",
+                                         "SRC-CONSTANTINOPLE-STRUNK-HAGIA-SOPHIA-1956",
+                                         "SRC-CONSTANTINOPLE-RAASTED-HAGIOPOLITES-1983",
+                                         "SRC-CONSTANTINOPLE-JEFFERY-OCTOECHOI-2001"
+                                     ]
+                  },
+    "scales":  [
+                   {
+                       "scale_id":  "CONSTANTINOPLE_OKTOECHOS_DIATONIC_REFERENCE_FRAMEWORK",
+                       "name":  "Costantinopoli bizantina — Octoechos, riferimento diatonico comparativo",
+                       "documentation_status":  "documentato",
+                       "comparison_basis":  "documented_eight_mode_ordering_and_conventional_diatonic_reference",
+                       "documentation_scope":  {
+                                                   "documented":  [
+                                                                      "ordinamento liturgico e melodico in otto echoi",
+                                                                      "quattro echoi principali e quattro forme plagali nella descrizione convenzionale del sistema",
+                                                                      "ruolo di Costantinopoli nella trasmissione liturgica, nella pratica cattedrale e nella riorganizzazione stoudita",
+                                                                      "importanza di formule melodiche, cadenze, ambito e genere di canto oltre alla sola collezione di altezze",
+                                                                      "trasmissione manoscritta e sviluppo delle notazioni bizantine"
+                                                                  ],
+                                                   "not_documented":  [
+                                                                          "un\u0027unica scala di sette note valida per tutti gli echoi",
+                                                                          "un temperamento equabile a dodici suoni",
+                                                                          "frequenze assolute stabili per il periodo P4",
+                                                                          "origine esclusivamente costantinopolitana dell\u0027Octoechos",
+                                                                          "equivalenza diretta con otto modi ecclesiastici occidentali moderni",
+                                                                          "armonia funzionale o successioni accordali storiche"
+                                                                      ]
+                                               },
+                       "historical_context":  {
+                                                  "city":  "Costantinopoli bizantina",
+                                                  "approximate_date":  "VIII-X secolo; focus sulla ricezione e riorganizzazione stoudita nel IX secolo",
+                                                  "institutional_context":  "Santa Sofia, ambienti monastici e riforma del monastero di Stoudios",
+                                                  "liturgical_context":  "rito cattedrale e cicli monastici del canto bizantino",
+                                                  "locality_caution":  "L\u0027ordinamento modale ebbe una storia mediterranea e vicino-orientale più ampia. Il contenitore documenta Costantinopoli come centro di ricezione, rielaborazione e trasmissione, non come unico luogo d\u0027origine."
+                                              },
+                       "historical_tuning":  {
+                                                 "description":  "L\u0027Octoechos classifica repertori e formule secondo otto echoi. Un echos comprende relazioni melodiche, cadenze, ambito, formule e generi; non coincide con una singola scala moderna o con una frequenza assoluta.",
+                                                 "modal_system":  "Octoechos bizantino",
+                                                 "echoi":  [
+                                                               {
+                                                                   "order":  1,
+                                                                   "name":  "protos",
+                                                                   "family":  "kyrios / principale"
+                                                               },
+                                                               {
+                                                                   "order":  2,
+                                                                   "name":  "devteros",
+                                                                   "family":  "kyrios / principale"
+                                                               },
+                                                               {
+                                                                   "order":  3,
+                                                                   "name":  "tritos",
+                                                                   "family":  "kyrios / principale"
+                                                               },
+                                                               {
+                                                                   "order":  4,
+                                                                   "name":  "tetartos",
+                                                                   "family":  "kyrios / principale"
+                                                               },
+                                                               {
+                                                                   "order":  5,
+                                                                   "name":  "plagios protou",
+                                                                   "family":  "plagios"
+                                                               },
+                                                               {
+                                                                   "order":  6,
+                                                                   "name":  "plagios devterou",
+                                                                   "family":  "plagios"
+                                                               },
+                                                               {
+                                                                   "order":  7,
+                                                                   "name":  "varys",
+                                                                   "family":  "funzione convenzionalmente associata al terzo plagal"
+                                                               },
+                                                               {
+                                                                   "order":  8,
+                                                                   "name":  "plagios tetartou",
+                                                                   "family":  "plagios"
+                                                               }
+                                                           ],
+                                                 "exact_interval_status":  "non riducibile a una sola divisione d\u0027ottava per tutti gli echoi del periodo",
+                                                 "absolute_pitch":  "non documentata come standard unico",
+                                                 "tonal_center":  "dipende dall\u0027echos, dal genere, dal repertorio e dalla prassi",
+                                                 "notation_status":  "Le fonti notate e i trattati sono stratificati; una trascrizione moderna non restituisce automaticamente ritmo, intonazione e formula melodica originari.",
+                                                 "source_ids":  [
+                                                                    "SRC-CONSTANTINOPLE-WELLESZ-1961",
+                                                                    "SRC-CONSTANTINOPLE-STRUNK-1977",
+                                                                    "SRC-CONSTANTINOPLE-RAASTED-HAGIOPOLITES-1983",
+                                                                    "SRC-CONSTANTINOPLE-JEFFERY-OCTOECHOI-2001",
+                                                                    "SRC-CONSTANTINOPLE-TROELSGARD-NEUMES-2011"
+                                                                ],
+                                                 "measured_natural_sequence":  [
+
+                                                                               ],
+                                                 "measured_intervals_cents":  [
+
+                                                                              ],
+                                                 "scale_degrees_from_keynote":  [
+                                                                                    "1 convenzionale",
+                                                                                    "2 convenzionale",
+                                                                                    "3 convenzionale",
+                                                                                    "4 convenzionale",
+                                                                                    "5 convenzionale",
+                                                                                    "6 convenzionale",
+                                                                                    "7 convenzionale"
+                                                                                ]
+                                             },
+                       "center":  {
+                                      "label":  "Do",
+                                      "type":  "riferimento neutro 12-TET per l\u0027interfaccia, non finalis storico universale",
+                                      "pitch_class":  0,
+                                      "historical_reference":  "nessun centro assoluto unico attribuito agli otto echoi"
+                                  },
+                       "approximation":  {
+                                             "system":  "12-TET",
+                                             "status":  "sintesi_operativa_non_storica",
+                                             "quality":  "bassa per intonazione e identità modale; utile soltanto per il confronto diatonico generale",
+                                             "warning":  "Do-Re-Mi-Fa-Sol-La-Si è una collezione neutra del software. Non rappresenta un echos specifico, non fissa intervalli medievali e non trasforma l\u0027Octoechos in una scala maggiore."
+                                         },
+                       "harmonization":  {
+                                             "status":  "proposta_moderna_anacronistica",
+                                             "method":  "eventuali triadi generate dalla sola collezione 12-TET convenzionale",
+                                             "warning":  "Il canto bizantino è trattato nel profilo come tradizione melodica e liturgica. Gli accordi dell\u0027interfaccia non costituiscono una pratica storica documentata."
+                                         },
+                       "transition_reliability":  {
+                                                      "eight_mode_ordering":  "alta",
+                                                      "constantinopolitan_institutional_context":  "alta",
+                                                      "exact_historical_intonation":  "bassa",
+                                                      "twelve_tet_transition":  "bassa",
+                                                      "reason":  "L\u0027ordinamento degli echoi e il contesto liturgico sono documentabili; una singola scala, frequenze e intervalli universali non lo sono."
+                                                  },
+                       "notes_12tet":  [
+                                           "Do",
+                                           "Re",
+                                           "Mi",
+                                           "Fa",
+                                           "Sol",
+                                           "La",
+                                           "Si"
+                                       ],
+                       "pitch_classes_12tet":  [
+                                                   0,
+                                                   2,
+                                                   4,
+                                                   5,
+                                                   7,
+                                                   9,
+                                                   11
+                                               ],
+                       "source_ids":  [
+                                          "SRC-CONSTANTINOPLE-WELLESZ-1961",
+                                          "SRC-CONSTANTINOPLE-STRUNK-1977",
+                                          "SRC-CONSTANTINOPLE-STRUNK-HAGIA-SOPHIA-1956",
+                                          "SRC-CONSTANTINOPLE-RAASTED-HAGIOPOLITES-1983",
+                                          "SRC-CONSTANTINOPLE-JEFFERY-OCTOECHOI-2001",
+                                          "SRC-CONSTANTINOPLE-TROELSGARD-NEUMES-2011"
+                                      ],
+                       "documents":  [
+                                         {
+                                             "document_id":  "DOC-CONSTANTINOPLE-OKTOECHOS-DATA",
+                                             "label":  "Dati documentati su Octoechos e Costantinopoli",
+                                             "path":  "../documenti/DATI_DOCUMENTATI_OKTOECHOS_COSTANTINOPOLI.txt",
+                                             "type":  "text"
+                                         },
+                                         {
+                                             "document_id":  "DOC-CONSTANTINOPLE-OKTOECHOS-METHOD",
+                                             "label":  "Nota metodologica sulla riduzione diatonica e 12-TET",
+                                             "path":  "../documenti/NOTA_METODOLOGICA_OKTOECHOS_12TET.txt",
+                                             "type":  "text"
+                                         },
+                                         {
+                                             "document_id":  "DOC-CONSTANTINOPLE-OKTOECHOS-SOURCES",
+                                             "label":  "Fonti documentate per il contenitore",
+                                             "path":  "../documenti/FONTI_DOCUMENTATE.txt",
+                                             "type":  "text"
+                                         }
+                                     ]
+                   }
+               ],
+    "sources":  [
+                    {
+                        "source_id":  "SRC-CONSTANTINOPLE-WELLESZ-1961",
+                        "purpose":  "storia della musica e dell\u0027innografia bizantina, sistema degli echoi e trasmissione dei repertori",
+                        "title":  "A History of Byzantine Music and Hymnography",
+                        "author":  "Egon Wellesz",
+                        "year":  "1961",
+                        "publisher_or_journal":  "Clarendon Press, Oxford, seconda edizione",
+                        "identifier":  "monografia accademica",
+                        "pages":  "capitoli sulla formazione dell\u0027Octoechos, inni e notazioni",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-CONSTANTINOPLE-STRUNK-1977",
+                        "purpose":  "studi sulla liturgia, la teoria e le tradizioni musicali del mondo bizantino",
+                        "title":  "Essays on Music in the Byzantine World",
+                        "author":  "Oliver Strunk",
+                        "year":  "1977",
+                        "publisher_or_journal":  "W. W. Norton, New York",
+                        "identifier":  "raccolta di studi accademici",
+                        "pages":  "saggi sulla liturgia e sul canto bizantino",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-CONSTANTINOPLE-STRUNK-HAGIA-SOPHIA-1956",
+                        "purpose":  "ricostruzione dell\u0027ufficio cattedrale di Santa Sofia e del contesto liturgico costantinopolitano",
+                        "title":  "The Byzantine Office at Hagia Sophia",
+                        "author":  "Oliver Strunk",
+                        "year":  "1956",
+                        "publisher_or_journal":  "Dumbarton Oaks Papers 9/10",
+                        "identifier":  "articolo accademico",
+                        "pages":  "175-202",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-CONSTANTINOPLE-RAASTED-HAGIOPOLITES-1983",
+                        "purpose":  "edizione e studio del trattato Hagiopolites e della teoria degli echoi",
+                        "title":  "The Hagiopolites: A Byzantine Treatise on Musical Theory",
+                        "author":  "Jørgen Raasted",
+                        "year":  "1983",
+                        "publisher_or_journal":  "Cahiers de l\u0027Institut du Moyen-Âge grec et latin 45",
+                        "identifier":  "edizione critica e studio",
+                        "pages":  "testo, traduzione e commento",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-CONSTANTINOPLE-JEFFERY-OCTOECHOI-2001",
+                        "purpose":  "origini e diffusione dell\u0027ordinamento modale a otto echoi, con cautela sulla localizzazione esclusiva",
+                        "title":  "The Earliest Oktōēchoi: The Role of Jerusalem and Palestine in the Beginnings of Modal Ordering",
+                        "author":  "Peter Jeffery",
+                        "year":  "2001",
+                        "publisher_or_journal":  "Princeton University Press",
+                        "identifier":  "monografia accademica",
+                        "pages":  "intero volume",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-CONSTANTINOPLE-TROELSGARD-NEUMES-2011",
+                        "purpose":  "introduzione critica alla notazione musicale medio-bizantina e ai limiti della trascrizione moderna",
+                        "title":  "Byzantine Neumes: A New Introduction to the Middle Byzantine Musical Notation",
+                        "author":  "Christian Troelsgård",
+                        "year":  "2011",
+                        "publisher_or_journal":  "Monumenta Musicae Byzantinae, Subsidia 9, Copenhagen",
+                        "identifier":  "manuale specialistico",
+                        "pages":  "intero volume",
+                        "grade":  "A"
+                    }
+                ],
+    "documents":  [
+                      {
+                          "document_id":  "DOC-CONSTANTINOPLE-OKTOECHOS-DATA",
+                          "label":  "Dati documentati su Octoechos e Costantinopoli",
+                          "path":  "../documenti/DATI_DOCUMENTATI_OKTOECHOS_COSTANTINOPOLI.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-CONSTANTINOPLE-OKTOECHOS-METHOD",
+                          "label":  "Nota metodologica sulla riduzione diatonica e 12-TET",
+                          "path":  "../documenti/NOTA_METODOLOGICA_OKTOECHOS_12TET.txt",
+                          "type":  "text"
+                      },
+                      {
+                          "document_id":  "DOC-CONSTANTINOPLE-OKTOECHOS-SOURCES",
+                          "label":  "Fonti documentate per il contenitore",
+                          "path":  "../documenti/FONTI_DOCUMENTATE.txt",
+                          "type":  "text"
+                      }
+                  ],
+    "installed_at":  "2026-07-03T16:33:32.2971310+02:00"
+}

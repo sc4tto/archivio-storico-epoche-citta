@@ -1,61 +1,37 @@
-﻿ALESSANDRIA — MANIFESTO DELLA DOCUMENTAZIONE MUSICALE
-=====================================================
+﻿MANIFESTO DELLA DOCUMENTAZIONE — ALESSANDRIA E TOLOMEO
+=======================================================
 
-PROFILE ID
-----------
+PROFILO
+-------
 P3-EUR-MED-ALEXANDRIA-PTOLEMY-DOCUMENTED
 
-CENTRO
-------
-Alessandria mediterranea
-
-PERIODO
--------
-P3
-
-Sottointervallo:
-II secolo d.C.
-
-AREA
-----
-EUR_MED — Mediterraneo europeo ed Europa centro-occidentale
-
 TRADIZIONE
------------
-ID:
+----------
 ALEXANDRIA_PTOLEMAIC_HARMONICS
-
-Etichetta:
-Armonica tolemaica ad Alessandria
 
 SISTEMA
 -------
-ID:
 ALEXANDRIA_PTOLEMY_INTENSE_DIATONIC
 
-Etichetta:
-Alessandria, Tolomeo - diatonico intenso per rapporti
-
-DOCUMENTATO
------------
-- Tolomeo nel contesto alessandrino;
-- Harmonics;
+AMMESSO COME DOCUMENTATO
+------------------------
+- attività scientifica di Tolomeo ad Alessandria;
+- Harmonics come fonte teorica;
 - genere diatonico intenso;
 - rapporti 9:8, 10:9 e 16:15;
-- scala relativa per rapporti.
+- sequenza relativa 1:1–2:1;
+- distinzione fra rapporto, percezione e confronto matematico.
 
-NON DOCUMENTATO
----------------
-- altezza assoluta Do;
+CALCOLO MODERNO DICHIARATO
+--------------------------
+- conversione dei rapporti in cent;
+- scarto rispetto al 12-TET;
+- mappatura Do-Re-Mi-Fa-Sol-La-Si.
+
+NON AMMESSO COME DATO STORICO
+-----------------------------
+- Do come altezza assoluta;
 - frequenza moderna di riferimento;
-- 12-TET antico;
-- applicazione a tutta la musica cittadina;
-- armonia funzionale.
-
-MAPPATURA 12-TET
-----------------
-Do, Re, Mi, Fa, Sol, La, Si.
-
-DATA DI INSTALLAZIONE
----------------------
-2026-07-03T01:11:44.0939307+02:00
+- temperamento equabile antico;
+- uso uniforme del sistema da parte dell'intera popolazione;
+- armonia funzionale occidentale.

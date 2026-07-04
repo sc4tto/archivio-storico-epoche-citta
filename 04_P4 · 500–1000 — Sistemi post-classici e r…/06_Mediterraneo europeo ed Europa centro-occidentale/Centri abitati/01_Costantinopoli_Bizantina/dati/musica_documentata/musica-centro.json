@@ -1,0 +1,224 @@
+﻿{
+    "schema_version":  1,
+    "record_type":  "center_music_profile",
+    "profile_id":  "P4-BYZ-CONSTANTINOPLE-OKTOECHOS-DOCUMENTED",
+    "record_status":  "documentato",
+    "scope":  {
+                  "type":  "inhabited_center",
+                  "center_id":  "CONSTANTINOPLE_BYZANTINE",
+                  "center_label":  "Costantinopoli bizantina",
+                  "folder_name":  "01_Costantinopoli_Bizantina"
+              },
+    "period":  {
+                   "id":  "P4",
+                   "label":  "500–1000 — Sistemi post-classici e r…",
+                   "order":  4,
+                   "documented_subrange":  "VIII-X secolo; focus sulla riorganizzazione stoudita del IX secolo"
+               },
+    "area":  {
+                 "id":  "EUR_MED",
+                 "label":  "Mediterraneo europeo ed Europa centro-occidentale"
+             },
+    "documentation":  {
+                          "status":  "documentato",
+                          "confidence":  "alta_per_contesto_liturgico_e_ordinamento_a_otto_echoi; media_per_attribuzione_delle_singole_stratificazioni_al_centro; bassa_per_intervalli_esatti_e_12tet",
+                          "statement":  "Il profilo documenta Costantinopoli come centro della liturgia e della trasmissione del canto bizantino, con attenzione all\u0027Octoechos e alla riorganizzazione stoudita.",
+                          "chronology_status":  "compatibile",
+                          "chronology_statement":  "Le trasformazioni selezionate fra VIII e X secolo ricadono nel P4; le fonti teoriche e notazionali sopravvissute possono essere posteriori ai processi descritti.",
+                          "geography_status":  "compatibile",
+                          "geography_relation":  "regionale_motivata",
+                          "geography_statement":  "Costantinopoli è documentata come centro cattedrale, monastico e imperiale di ricezione e trasmissione. L\u0027origine e la diffusione dell\u0027Octoechos coinvolgono anche altri centri del Mediterraneo orientale e del Vicino Oriente.",
+                          "historical_system_resolvable":  true,
+                          "limitation_note":  "Sono risolvibili l\u0027ordinamento a otto echoi, il contesto istituzionale e la funzione di formule e cadenze. Non è risolvibile una sola scala intonata o un\u0027altezza assoluta valida per tutti i repertori."
+                      },
+    "musical_evidence":  [
+                             {
+                                 "evidence_id":  "EVID-CONSTANTINOPLE-HAGIA-SOPHIA-RITE",
+                                 "type":  "center_tradition",
+                                 "status":  "documentato",
+                                 "statement":  "Santa Sofia e le istituzioni ecclesiastiche di Costantinopoli sono documentate come centri di un articolato ufficio cattedrale e di una tradizione cantoriale.",
+                                 "source_ids":  [
+                                                    "SRC-CONSTANTINOPLE-STRUNK-HAGIA-SOPHIA-1956",
+                                                    "SRC-CONSTANTINOPLE-STRUNK-1977"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-CONSTANTINOPLE-STOUDITE-REFORM",
+                                 "type":  "historical_transmission",
+                                 "status":  "documentato",
+                                 "statement":  "La riorganizzazione stoudita a Costantinopoli contribuì alla ricezione e alla trasmissione di repertori e cicli modali nel IX secolo.",
+                                 "source_ids":  [
+                                                    "SRC-CONSTANTINOPLE-WELLESZ-1961",
+                                                    "SRC-CONSTANTINOPLE-STRUNK-1977",
+                                                    "SRC-CONSTANTINOPLE-JEFFERY-OCTOECHOI-2001"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-CONSTANTINOPLE-EIGHT-ECHOI",
+                                 "type":  "tradition_scale",
+                                 "status":  "documentato",
+                                 "statement":  "L\u0027Octoechos ordina il canto mediante otto echoi; un echos comprende categorie melodiche e liturgiche e non soltanto una successione astratta di altezze.",
+                                 "source_ids":  [
+                                                    "SRC-CONSTANTINOPLE-WELLESZ-1961",
+                                                    "SRC-CONSTANTINOPLE-RAASTED-HAGIOPOLITES-1983",
+                                                    "SRC-CONSTANTINOPLE-JEFFERY-OCTOECHOI-2001"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-CONSTANTINOPLE-NOTATION-LIMIT",
+                                 "type":  "interpretation_limit",
+                                 "status":  "documentato",
+                                 "statement":  "Le notazioni bizantine e le loro stratificazioni richiedono interpretazione; la trascrizione moderna non determina automaticamente intonazione, ritmo e formule originarie.",
+                                 "source_ids":  [
+                                                    "SRC-CONSTANTINOPLE-TROELSGARD-NEUMES-2011",
+                                                    "SRC-CONSTANTINOPLE-WELLESZ-1961"
+                                                ]
+                             },
+                             {
+                                 "evidence_id":  "EVID-CONSTANTINOPLE-12TET-LIMIT",
+                                 "type":  "interpretation_limit",
+                                 "status":  "sintesi",
+                                 "statement":  "La collezione Do-Re-Mi-Fa-Sol-La-Si serve soltanto come riferimento computazionale neutro e non rappresenta un echos specifico o un temperamento medievale.",
+                                 "source_ids":  [
+                                                    "SRC-CONSTANTINOPLE-RAASTED-HAGIOPOLITES-1983",
+                                                    "SRC-CONSTANTINOPLE-TROELSGARD-NEUMES-2011"
+                                                ]
+                             }
+                         ],
+    "tradition_links":  [
+                            {
+                                "tradition_id":  "CONSTANTINOPLE_BYZANTINE_OKTOECHOS_STOUDITE_CHANT",
+                                "relation_status":  "documentato",
+                                "relation_note":  "Il collegamento riguarda la pratica liturgica costantinopolitana, la trasmissione stoudita e l\u0027ordinamento degli echoi, mantenendo la cautela sulla provenienza pluricentrica.",
+                                "source_ids":  [
+                                                   "SRC-CONSTANTINOPLE-WELLESZ-1961",
+                                                   "SRC-CONSTANTINOPLE-STRUNK-1977",
+                                                   "SRC-CONSTANTINOPLE-STRUNK-HAGIA-SOPHIA-1956",
+                                                   "SRC-CONSTANTINOPLE-JEFFERY-OCTOECHOI-2001"
+                                               ]
+                            }
+                        ],
+    "scale_links":  [
+                        {
+                            "scale_id":  "CONSTANTINOPLE_OKTOECHOS_DIATONIC_REFERENCE_FRAMEWORK",
+                            "relation_status":  "documentato",
+                            "relation_note":  "Il sistema a otto echoi è documentato; la collezione diatonica 12-TET è una rappresentazione tecnica separata e dichiaratamente non storica.",
+                            "source_ids":  [
+                                               "SRC-CONSTANTINOPLE-WELLESZ-1961",
+                                               "SRC-CONSTANTINOPLE-RAASTED-HAGIOPOLITES-1983",
+                                               "SRC-CONSTANTINOPLE-JEFFERY-OCTOECHOI-2001",
+                                               "SRC-CONSTANTINOPLE-TROELSGARD-NEUMES-2011"
+                                           ]
+                        }
+                    ],
+    "sources":  [
+                    {
+                        "source_id":  "SRC-CONSTANTINOPLE-WELLESZ-1961",
+                        "purpose":  "storia della musica e dell\u0027innografia bizantina, sistema degli echoi e trasmissione dei repertori",
+                        "title":  "A History of Byzantine Music and Hymnography",
+                        "author":  "Egon Wellesz",
+                        "year":  "1961",
+                        "publisher_or_journal":  "Clarendon Press, Oxford, seconda edizione",
+                        "identifier":  "monografia accademica",
+                        "pages":  "capitoli sulla formazione dell\u0027Octoechos, inni e notazioni",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-CONSTANTINOPLE-STRUNK-1977",
+                        "purpose":  "studi sulla liturgia, la teoria e le tradizioni musicali del mondo bizantino",
+                        "title":  "Essays on Music in the Byzantine World",
+                        "author":  "Oliver Strunk",
+                        "year":  "1977",
+                        "publisher_or_journal":  "W. W. Norton, New York",
+                        "identifier":  "raccolta di studi accademici",
+                        "pages":  "saggi sulla liturgia e sul canto bizantino",
+                        "grade":  "B"
+                    },
+                    {
+                        "source_id":  "SRC-CONSTANTINOPLE-STRUNK-HAGIA-SOPHIA-1956",
+                        "purpose":  "ricostruzione dell\u0027ufficio cattedrale di Santa Sofia e del contesto liturgico costantinopolitano",
+                        "title":  "The Byzantine Office at Hagia Sophia",
+                        "author":  "Oliver Strunk",
+                        "year":  "1956",
+                        "publisher_or_journal":  "Dumbarton Oaks Papers 9/10",
+                        "identifier":  "articolo accademico",
+                        "pages":  "175-202",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-CONSTANTINOPLE-RAASTED-HAGIOPOLITES-1983",
+                        "purpose":  "edizione e studio del trattato Hagiopolites e della teoria degli echoi",
+                        "title":  "The Hagiopolites: A Byzantine Treatise on Musical Theory",
+                        "author":  "Jørgen Raasted",
+                        "year":  "1983",
+                        "publisher_or_journal":  "Cahiers de l\u0027Institut du Moyen-Âge grec et latin 45",
+                        "identifier":  "edizione critica e studio",
+                        "pages":  "testo, traduzione e commento",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-CONSTANTINOPLE-JEFFERY-OCTOECHOI-2001",
+                        "purpose":  "origini e diffusione dell\u0027ordinamento modale a otto echoi, con cautela sulla localizzazione esclusiva",
+                        "title":  "The Earliest Oktōēchoi: The Role of Jerusalem and Palestine in the Beginnings of Modal Ordering",
+                        "author":  "Peter Jeffery",
+                        "year":  "2001",
+                        "publisher_or_journal":  "Princeton University Press",
+                        "identifier":  "monografia accademica",
+                        "pages":  "intero volume",
+                        "grade":  "A"
+                    },
+                    {
+                        "source_id":  "SRC-CONSTANTINOPLE-TROELSGARD-NEUMES-2011",
+                        "purpose":  "introduzione critica alla notazione musicale medio-bizantina e ai limiti della trascrizione moderna",
+                        "title":  "Byzantine Neumes: A New Introduction to the Middle Byzantine Musical Notation",
+                        "author":  "Christian Troelsgård",
+                        "year":  "2011",
+                        "publisher_or_journal":  "Monumenta Musicae Byzantinae, Subsidia 9, Copenhagen",
+                        "identifier":  "manuale specialistico",
+                        "pages":  "intero volume",
+                        "grade":  "A"
+                    }
+                ],
+    "review":  {
+                   "status":  "pubblicato_con_cautela_pluricentrica_e_12tet",
+                   "reviewer":  "Michele Scattolin - verifica finale richiesta",
+                   "next_action":  "Controllare che l\u0027interfaccia presenti Octoechos come ordinamento modale e liturgico, non come unica scala diatonica.",
+                   "last_reviewed":  "2026-07-03T16:33:32.3113089+02:00"
+               },
+    "documents":  [
+                      {
+                          "document_id":  "DOC-CONSTANTINOPLE-CENTER-SOURCES",
+                          "label":  "Fonti documentate per Costantinopoli e Octoechos",
+                          "type":  "text",
+                          "path":  "./FONTI_DOCUMENTATE.txt"
+                      },
+                      {
+                          "document_id":  "DOC-CONSTANTINOPLE-CENTER-MANIFEST",
+                          "label":  "Manifesto della documentazione Costantinopoli",
+                          "type":  "text",
+                          "path":  "./MANIFESTO_DOCUMENTAZIONE.txt"
+                      },
+                      {
+                          "document_id":  "DOC-CONSTANTINOPLE-CENTER-DATA",
+                          "label":  "Dati documentati su Octoechos e riforma stoudita",
+                          "type":  "text",
+                          "path":  "./DATI_DOCUMENTATI_COSTANTINOPOLI_OKTOECHOS.txt"
+                      },
+                      {
+                          "document_id":  "DOC-CONSTANTINOPLE-TRANSITIONS",
+                          "label":  "Nota sulle transizioni da Alessandria a Costantinopoli",
+                          "type":  "text",
+                          "path":  "./NOTA_TRANSIZIONI_COSTANTINOPOLI.txt"
+                      }
+                  ],
+    "extensions":  {
+                       "storage_model":  "center_local_documented_package",
+                       "package_directory":  "dati/musica_documentata",
+                       "block_number":  26,
+                       "incremental_engine_required":  "VALIDA_CASO_LOCALE.ps1 v1",
+                       "global_checkpoint":  "after_block_26",
+                       "historical_system_type":  "modal_liturgical_ordering",
+                       "twelve_tet_role":  "neutral_comparison_only",
+                       "installed_at":  "2026-07-03T16:33:32.3123086+02:00"
+                   }
+}

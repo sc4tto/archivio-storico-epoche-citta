@@ -1,54 +1,36 @@
-﻿TRANSIZIONI CON ALESSANDRIA — AVVERTENZA
-========================================
+﻿NOTA SULLE TRANSIZIONI — ATENE, ALESSANDRIA E 12-TET
+=====================================================
 
-Il sistema tolemaico conserva rapporti relativi esatti:
-
-1:1
-9:8
-5:4
-4:3
-3:2
-5:3
-15:8
-2:1
-
-Il motore principale confronta invece le pitch class:
-
-Do, Re, Mi, Fa, Sol, La, Si.
-
-CONSEGUENZE
-------------
-- la struttura relativa e altamente documentata;
-- l'altezza assoluta non e documentata;
-- la distanza dal centro Do e convenzionale;
-- le differenze di 3,910, -13,686, -1,955, +1,955,
-  -15,641 e -11,731 cent scompaiono nel 12-TET;
-- gli accordi pivot sono moderni.
-
-CONFRONTO CON ATENE
+ATENE E ARISTOSSENO
 -------------------
-Atene:
-struttura aristossenica espressa per funzioni e unita intervallari.
+Il profilo ateniese usa il diatonico teso aristossenico e descrive la
+struttura del tetracordo mediante grandezze intervallari e funzioni del
+sistema. La localizzazione riguarda il contesto peripatetico.
 
-Alessandria:
-struttura tolemaica espressa per rapporti matematici.
+ALESSANDRIA E TOLOMEO
+---------------------
+Il profilo alessandrino usa il diatonico intenso tolemaico e rapporti
+razionali esatti. La localizzazione riguarda l'attività scientifica di
+Tolomeo ad Alessandria.
 
-La somiglianza della mappatura moderna non rende equivalenti i due
-sistemi antichi.
+CONFRONTO CONSENTITO
+--------------------
+Il motore può confrontare:
+- numero dei gradi;
+- struttura dei passi;
+- classi 12-TET approssimate;
+- scarti in cent calcolati per Tolomeo.
 
-AFFIDABILITA
-------------
-Struttura:
-alta.
+CONFRONTO NON CONSENTITO
+------------------------
+Non si deve dedurre:
+- una linea evolutiva semplice da Aristosseno a Tolomeo;
+- identità fra modelli teorici e prassi urbana;
+- altezza assoluta comune;
+- temperamento equabile antico;
+- armonia funzionale storica.
 
-Rapporti:
-alta.
-
-Altezza assoluta:
-bassa.
-
-12-TET:
-media-alta come approssimazione di classe.
-
-Armonizzazione:
-moderna.
+12-TET
+------
+La griglia moderna facilita il confronto ma appiattisce la differenza
+fra tono 9:8, tono 10:9 e semitono 16:15.

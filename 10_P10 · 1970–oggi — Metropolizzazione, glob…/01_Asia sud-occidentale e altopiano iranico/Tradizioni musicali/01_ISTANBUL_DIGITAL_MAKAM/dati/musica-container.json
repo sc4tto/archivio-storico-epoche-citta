@@ -32,7 +32,6 @@
                    {
                        "scale_id":  "ISTANBUL_CONTEMPORARY_RAST_SCORE_AUDIO_PROFILE",
                        "name":  "Istanbul contemporanea — profilo Rast simbolico/audio per corpora digitali",
-                       "documentation_status":  "documentato_come_profilo_analitico_con_riferimento_teorico",
                        "comparison_basis":  "symbtr_symbolic_score_aeu_reference_and_tomato_audio_joint_analysis",
                        "documentation_scope":  {
                                                    "documented":  [
@@ -372,7 +371,10 @@
                                              "path":  "../documenti/NOTA_METODOLOGICA_CORPUS_AUDIO.txt",
                                              "type":  "text"
                                          }
-                                     ]
+                                     ],
+                       "documentation_status":  "documentato",
+                       "documentation_status_detail":  "documentato_come_profilo_analitico_con_riferimento_teorico",
+                       "validation_compatibility_note":  "Sono documentati corpus, strumenti, livelli simbolici e metodi; nessuna misura audio è dichiarata senza registrazione."
                    }
                ],
     "sources":  [

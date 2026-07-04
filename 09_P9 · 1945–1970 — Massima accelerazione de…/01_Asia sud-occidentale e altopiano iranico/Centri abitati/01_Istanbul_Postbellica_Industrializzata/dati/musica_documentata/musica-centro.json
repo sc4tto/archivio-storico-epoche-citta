@@ -35,7 +35,7 @@
                    "status":  "pubblicato_con_modello_teorico_e_scarti_in_cent",
                    "reviewer":  "Michele Scattolin - verifica finale richiesta",
                    "next_action":  "Controllare che l\u0027interfaccia distingua 24 posizioni notazionali, griglia di 53 comma, cent calcolati, misura esecutiva, funzione modale e riduzione 12-TET.",
-                   "last_reviewed":  "2026-07-03T12:09:39.8594172+02:00"
+                   "last_reviewed":  "2026-07-03T16:04:44.4265623+02:00"
                },
     "extensions":  {
                        "storage_model":  "center_local_documented_package",
@@ -49,7 +49,9 @@
                        "notational_inventory":  "24 posizioni non equidistanti",
                        "selected_makam":  "Rast",
                        "notation":  "pentagramma occidentale con alterazioni microtonali",
-                       "continuity_from_profile":  "P8-ASW-ISTANBUL-RAUF-YEKTA-RAST-DOCUMENTED"
+                       "continuity_from_profile":  "P8-ASW-ISTANBUL-RAUF-YEKTA-RAST-DOCUMENTED",
+                       "incremental_engine_required":  "VALIDA_CASO_LOCALE.ps1 v1",
+                       "block_number":  23
                    },
     "musical_evidence":  [
                              {
@@ -121,7 +123,6 @@
     "scale_links":  [
                         {
                             "scale_id":  "ISTANBUL_AEU_RAST_53_COMMA_PROFILE",
-                            "relation_status":  "documentato_con_calcolo_derivato",
                             "relation_note":  "Le posizioni in comma appartengono al modello teorico; cent e scarti 12-TET sono calcoli moderni separati dalla prassi.",
                             "source_ids":  [
                                                "SRC-ISTANBUL-AEU-AREL-NAZARIYAT",
@@ -129,7 +130,10 @@
                                                "SRC-ISTANBUL-AEU-AYANGIL-2008",
                                                "SRC-ISTANBUL-AEU-SIGNELL-1977",
                                                "SRC-ISTANBUL-AEU-BOZKURT-2009"
-                                           ]
+                                           ],
+                            "relation_status":  "documentato",
+                            "relation_status_detail":  "documentato_con_calcolo_derivato",
+                            "validation_compatibility_note":  "Il legame storico e teorico è documentato; cent e confronto 12-TET sono derivazioni moderne dichiarate."
                         }
                     ],
     "documents":  [

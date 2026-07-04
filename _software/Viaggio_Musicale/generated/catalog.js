@@ -1,5 +1,7 @@
 ﻿window.ARCHIVE_CATALOG = {
     "schema_version":  1,
+    "generated_at":  "2026-07-03T16:36:48.8089429+02:00",
+    "archive_root":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta",
     "data_file_name":  "musica-container.json",
     "theme":  {
                   "schema_version":  1,
@@ -132,8 +134,6 @@
                                   "cross_cultural_analytical":  2
                               }
               },
-    "generated_at":  "2026-07-03T15:01:41.7795685+02:00",
-    "archive_root":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta",
     "containers":  [
                        {
                            "schema_version":  1,
@@ -376,6 +376,230 @@
                            "_source_file":  "01_P1 · Prima del 3000 a.C. — Neolitico e pr…\\04_Asia orientale\\Tradizioni musicali\\01_JIAHU_BONE_FLUTE_PRACTICE\\dati\\musica-container.json",
                            "_source_directory":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\01_P1 · Prima del 3000 a.C. — Neolitico e pr…\\04_Asia orientale\\Tradizioni musicali\\01_JIAHU_BONE_FLUTE_PRACTICE\\dati",
                            "_directory_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/01_P1%20%C2%B7%20Prima%20del%203000%20a.C.%20%E2%80%94%20Neolitico%20e%20pr%E2%80%A6/04_Asia%20orientale/Tradizioni%20musicali/01_JIAHU_BONE_FLUTE_PRACTICE/dati"
+                       },
+                       {
+                           "schema_version":  1,
+                           "container_id":  "CONTAINER-P2-ASW-UGARIT-HURRIAN-CULT-SONG",
+                           "record_status":  "documentato",
+                           "area":  {
+                                        "id":  "ASW",
+                                        "label":  "Asia sud-occidentale e altopiano iranico"
+                                    },
+                           "period":  {
+                                          "id":  "P2",
+                                          "label":  "3000–1000 a.C. — Prime città, Stati…",
+                                          "order":  2
+                                      },
+                           "tradition":  {
+                                             "id":  "UGARIT_HURRIAN_CULT_SONG_PRACTICE",
+                                             "label":  "Pratica dei canti cultuali hurriti di Ugarit",
+                                             "historical_name":  "Etichetta descrittiva moderna; non viene proposta come denominazione indigena complessiva.",
+                                             "documentation_status":  "documentato",
+                                             "scope_note":  "Il record riguarda le tavolette musicali hurrite rinvenute a Ugarit, in particolare h.6. Non stabilisce una lettura melodica definitiva.",
+                                             "source_ids":  [
+                                                                "SRC-UGARIT-LAROCHE-1968",
+                                                                "SRC-UGARIT-GUTERBOCK-1970",
+                                                                "SRC-UGARIT-WEST-1994",
+                                                                "SRC-UGARIT-DUCHESNE-1984"
+                                                            ]
+                                         },
+                           "scales":  [
+                                          {
+                                              "scale_id":  "UGARIT_H6_NID_QABLI_FRAMEWORK",
+                                              "name":  "Ugarit h.6 - quadro eptatonico nīd qabli",
+                                              "documentation_status":  "documentato",
+                                              "documentation_scope":  {
+                                                                          "documented":  [
+                                                                                             "nome dell\u0027accordatura nīd qabli nel colophon",
+                                                                                             "uso di termini intervallari accadici",
+                                                                                             "quadro diatonico eptatonico della teoria mesopotamica"
+                                                                                         ],
+                                                                          "not_documented":  [
+                                                                                                 "altezza assoluta",
+                                                                                                 "centro tonale moderno",
+                                                                                                 "una singola ricostruzione definitiva della melodia h.6"
+                                                                                             ]
+                                                                      },
+                                              "archaeological_context":  {
+                                                                             "site":  "Ugarit, Ras Shamra",
+                                                                             "approximate_date":  "XIV secolo a.C.",
+                                                                             "tablet":  "h.6; frammenti RS 15.30, RS 15.49 e RS 17.387",
+                                                                             "context":  "archivi del palazzo reale di Ugarit",
+                                                                             "notation":  "testo hurrita con istruzioni musicali in accadico e colophon"
+                                                                         },
+                                              "historical_tuning":  {
+                                                                        "description":  "Il colophon identifica il canto come appartenente alla configurazione nīd qabli. La notazione usa nomi di intervalli e numerali collegati al sistema eptatonico di strumenti a corde. Le realizzazioni melodiche moderne restano divergenti.",
+                                                                        "tuning_name":  "nīd qabli",
+                                                                        "absolute_pitch":  "non documentata",
+                                                                        "tonal_center":  "non determinabile con sicurezza",
+                                                                        "melodic_reconstruction_status":  "controversa",
+                                                                        "source_ids":  [
+                                                                                           "SRC-UGARIT-LAROCHE-1968",
+                                                                                           "SRC-UGARIT-GUTERBOCK-1970",
+                                                                                           "SRC-UGARIT-WEST-1994",
+                                                                                           "SRC-UGARIT-DUCHESNE-1984"
+                                                                                       ],
+                                                                        "measured_natural_sequence":  [
+
+                                                                                                      ],
+                                                                        "measured_intervals_cents":  [
+
+                                                                                                     ],
+                                                                        "scale_degrees_from_keynote":  [
+
+                                                                                                       ]
+                                                                    },
+                                              "center":  {
+                                                             "label":  "Do",
+                                                             "type":  "riferimento convenzionale 12-TET, non storico",
+                                                             "pitch_class":  0,
+                                                             "historical_reference":  "centro assoluto non documentato"
+                                                         },
+                                              "approximation":  {
+                                                                    "system":  "12-TET",
+                                                                    "quality":  "collezione diatonica neutra usata soltanto dal motore di confronto",
+                                                                    "warning":  "Do-Re-Mi-Fa-Sol-La-Si non costituisce una trascrizione certa della melodia h.6 e non attribuisce un\u0027altezza assoluta a Ugarit. La mappatura serve esclusivamente al confronto computazionale.",
+                                                                    "status":  "sintesi_operativa"
+                                                                },
+                                              "harmonization":  {
+                                                                    "status":  "proposta_moderna",
+                                                                    "method":  "triadi generate dalla collezione 12-TET convenzionale",
+                                                                    "warning":  "Le fonti non documentano armonia funzionale o successioni di accordi per h.6. Gli accordi del software sono moderni."
+                                                                },
+                                              "comparison_basis":  "documented_tuning_name_and_conventional_mapping",
+                                              "transition_reliability":  {
+                                                                             "historical_pitch_comparison":  "bassa",
+                                                                             "structural_scale_comparison":  "media",
+                                                                             "twelve_tet_transition":  "bassa-media",
+                                                                             "reason":  "Il nome dell\u0027accordatura e il quadro eptatonico sono documentati; altezza assoluta e trascrizione melodica no."
+                                                                         },
+                                              "notes_12tet":  [
+                                                                  "Do",
+                                                                  "Re",
+                                                                  "Mi",
+                                                                  "Fa",
+                                                                  "Sol",
+                                                                  "La",
+                                                                  "Si"
+                                                              ],
+                                              "pitch_classes_12tet":  [
+                                                                          0,
+                                                                          2,
+                                                                          4,
+                                                                          5,
+                                                                          7,
+                                                                          9,
+                                                                          11
+                                                                      ],
+                                              "source_ids":  [
+                                                                 "SRC-UGARIT-LAROCHE-1968",
+                                                                 "SRC-UGARIT-GUTERBOCK-1970",
+                                                                 "SRC-UGARIT-WEST-1994",
+                                                                 "SRC-UGARIT-DUCHESNE-1984"
+                                                             ],
+                                              "documents":  [
+                                                                {
+                                                                    "document_id":  "DOC-UGARIT-H6-DATA",
+                                                                    "label":  "Dati documentati della tavoletta h.6",
+                                                                    "path":  "../documenti/DATI_DOCUMENTATI_H6.txt",
+                                                                    "type":  "text",
+                                                                    "_exists":  true,
+                                                                    "_blocked":  false,
+                                                                    "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\01_UGARIT_HURRIAN_CULT_SONG_PRACTICE\\documenti\\DATI_DOCUMENTATI_H6.txt",
+                                                                    "_relative_path":  "02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\01_UGARIT_HURRIAN_CULT_SONG_PRACTICE\\documenti\\DATI_DOCUMENTATI_H6.txt",
+                                                                    "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/02_P2%20%C2%B7%203000%E2%80%931000%20a.C.%20%E2%80%94%20Prime%20citt%C3%A0,%20Stati%E2%80%A6/01_Asia%20sud-occidentale%20e%20altopiano%20iranico/Tradizioni%20musicali/01_UGARIT_HURRIAN_CULT_SONG_PRACTICE/documenti/DATI_DOCUMENTATI_H6.txt",
+                                                                    "_extension":  ".txt"
+                                                                },
+                                                                {
+                                                                    "document_id":  "DOC-UGARIT-H6-METHOD",
+                                                                    "label":  "Nota metodologica sulla ricostruzione",
+                                                                    "path":  "../documenti/NOTA_METODOLOGICA_H6.txt",
+                                                                    "type":  "text",
+                                                                    "_exists":  true,
+                                                                    "_blocked":  false,
+                                                                    "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\01_UGARIT_HURRIAN_CULT_SONG_PRACTICE\\documenti\\NOTA_METODOLOGICA_H6.txt",
+                                                                    "_relative_path":  "02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\01_UGARIT_HURRIAN_CULT_SONG_PRACTICE\\documenti\\NOTA_METODOLOGICA_H6.txt",
+                                                                    "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/02_P2%20%C2%B7%203000%E2%80%931000%20a.C.%20%E2%80%94%20Prime%20citt%C3%A0,%20Stati%E2%80%A6/01_Asia%20sud-occidentale%20e%20altopiano%20iranico/Tradizioni%20musicali/01_UGARIT_HURRIAN_CULT_SONG_PRACTICE/documenti/NOTA_METODOLOGICA_H6.txt",
+                                                                    "_extension":  ".txt"
+                                                                }
+                                                            ]
+                                          }
+                                      ],
+                           "documents":  [
+                                             {
+                                                 "document_id":  "DOC-UGARIT-H6-DATA",
+                                                 "label":  "Dati documentati della tavoletta h.6",
+                                                 "path":  "../documenti/DATI_DOCUMENTATI_H6.txt",
+                                                 "type":  "text",
+                                                 "_exists":  true,
+                                                 "_blocked":  false,
+                                                 "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\01_UGARIT_HURRIAN_CULT_SONG_PRACTICE\\documenti\\DATI_DOCUMENTATI_H6.txt",
+                                                 "_relative_path":  "02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\01_UGARIT_HURRIAN_CULT_SONG_PRACTICE\\documenti\\DATI_DOCUMENTATI_H6.txt",
+                                                 "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/02_P2%20%C2%B7%203000%E2%80%931000%20a.C.%20%E2%80%94%20Prime%20citt%C3%A0,%20Stati%E2%80%A6/01_Asia%20sud-occidentale%20e%20altopiano%20iranico/Tradizioni%20musicali/01_UGARIT_HURRIAN_CULT_SONG_PRACTICE/documenti/DATI_DOCUMENTATI_H6.txt",
+                                                 "_extension":  ".txt"
+                                             },
+                                             {
+                                                 "document_id":  "DOC-UGARIT-H6-METHOD",
+                                                 "label":  "Nota metodologica sulla ricostruzione",
+                                                 "path":  "../documenti/NOTA_METODOLOGICA_H6.txt",
+                                                 "type":  "text",
+                                                 "_exists":  true,
+                                                 "_blocked":  false,
+                                                 "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\01_UGARIT_HURRIAN_CULT_SONG_PRACTICE\\documenti\\NOTA_METODOLOGICA_H6.txt",
+                                                 "_relative_path":  "02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\01_UGARIT_HURRIAN_CULT_SONG_PRACTICE\\documenti\\NOTA_METODOLOGICA_H6.txt",
+                                                 "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/02_P2%20%C2%B7%203000%E2%80%931000%20a.C.%20%E2%80%94%20Prime%20citt%C3%A0,%20Stati%E2%80%A6/01_Asia%20sud-occidentale%20e%20altopiano%20iranico/Tradizioni%20musicali/01_UGARIT_HURRIAN_CULT_SONG_PRACTICE/documenti/NOTA_METODOLOGICA_H6.txt",
+                                                 "_extension":  ".txt"
+                                             }
+                                         ],
+                           "sources":  [
+                                           {
+                                               "source_id":  "SRC-UGARIT-LAROCHE-1968",
+                                               "purpose":  "edizione dei testi hurriti di Ras Shamra e pubblicazione della tavoletta h.6",
+                                               "title":  "Documents en langue hourrite provenant de Ras Shamra",
+                                               "author":  "Emmanuel Laroche",
+                                               "year":  "1968",
+                                               "publisher_or_journal":  "Ugaritica V: Nouveaux textes accadiens, hourrites et ugaritiques",
+                                               "identifier":  "Mission de Ras Shamra 16; Bibliotheque archeologique et historique 80",
+                                               "pages":  "462-496; h.6 trascritta p. 463, testo cuneiforme p. 487",
+                                               "grade":  "A"
+                                           },
+                                           {
+                                               "source_id":  "SRC-UGARIT-GUTERBOCK-1970",
+                                               "purpose":  "analisi della notazione musicale di Ugarit",
+                                               "title":  "Musical Notation in Ugarit",
+                                               "author":  "Hans Gustav Guterbock",
+                                               "year":  "1970",
+                                               "publisher_or_journal":  "Revue d\u0027Assyriologie et d\u0027Archeologie Orientale 64",
+                                               "identifier":  "articolo accademico",
+                                               "pages":  "45-52",
+                                               "grade":  "A"
+                                           },
+                                           {
+                                               "source_id":  "SRC-UGARIT-WEST-1994",
+                                               "purpose":  "analisi della notazione babilonese e dei testi melodici hurriti",
+                                               "title":  "The Babylonian Musical Notation and the Hurrian Melodic Texts",
+                                               "author":  "M. L. West",
+                                               "year":  "1994",
+                                               "publisher_or_journal":  "Music \u0026 Letters 75(2)",
+                                               "identifier":  "articolo accademico",
+                                               "pages":  "161-179",
+                                               "grade":  "A"
+                                           },
+                                           {
+                                               "source_id":  "SRC-UGARIT-DUCHESNE-1984",
+                                               "purpose":  "studio monografico della partitura hurrita e del sistema mesopotamico",
+                                               "title":  "A Hurrian Musical Score from Ugarit: The Discovery of Mesopotamian Music",
+                                               "author":  "Marcelle Duchesne-Guillemin",
+                                               "year":  "1984",
+                                               "publisher_or_journal":  "Sources from the Ancient Near East 2/2, Undena Publications",
+                                               "identifier":  "ISBN 0-89003-158-4",
+                                               "pages":  "intero fascicolo",
+                                               "grade":  "A"
+                                           }
+                                       ],
+                           "_source_file":  "02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\01_UGARIT_HURRIAN_CULT_SONG_PRACTICE\\dati\\musica-container.json",
+                           "_source_directory":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\01_UGARIT_HURRIAN_CULT_SONG_PRACTICE\\dati",
+                           "_directory_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/02_P2%20%C2%B7%203000%E2%80%931000%20a.C.%20%E2%80%94%20Prime%20citt%C3%A0,%20Stati%E2%80%A6/01_Asia%20sud-occidentale%20e%20altopiano%20iranico/Tradizioni%20musicali/01_UGARIT_HURRIAN_CULT_SONG_PRACTICE/dati"
                        },
                        {
                            "container_id":  "CONTAINER-P2-ASW-UR-LYRES-TUNING",
@@ -693,230 +917,6 @@
                            "_source_file":  "02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\02_UR_ROYAL_LYRES_OLD_BABYLONIAN_TUNING\\dati\\musica-container.json",
                            "_source_directory":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\02_UR_ROYAL_LYRES_OLD_BABYLONIAN_TUNING\\dati",
                            "_directory_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/02_P2%20%C2%B7%203000%E2%80%931000%20a.C.%20%E2%80%94%20Prime%20citt%C3%A0,%20Stati%E2%80%A6/01_Asia%20sud-occidentale%20e%20altopiano%20iranico/Tradizioni%20musicali/02_UR_ROYAL_LYRES_OLD_BABYLONIAN_TUNING/dati"
-                       },
-                       {
-                           "schema_version":  1,
-                           "container_id":  "CONTAINER-P2-ASW-UGARIT-HURRIAN-CULT-SONG",
-                           "record_status":  "documentato",
-                           "area":  {
-                                        "id":  "ASW",
-                                        "label":  "Asia sud-occidentale e altopiano iranico"
-                                    },
-                           "period":  {
-                                          "id":  "P2",
-                                          "label":  "3000–1000 a.C. — Prime città, Stati…",
-                                          "order":  2
-                                      },
-                           "tradition":  {
-                                             "id":  "UGARIT_HURRIAN_CULT_SONG_PRACTICE",
-                                             "label":  "Pratica dei canti cultuali hurriti di Ugarit",
-                                             "historical_name":  "Etichetta descrittiva moderna; non viene proposta come denominazione indigena complessiva.",
-                                             "documentation_status":  "documentato",
-                                             "scope_note":  "Il record riguarda le tavolette musicali hurrite rinvenute a Ugarit, in particolare h.6. Non stabilisce una lettura melodica definitiva.",
-                                             "source_ids":  [
-                                                                "SRC-UGARIT-LAROCHE-1968",
-                                                                "SRC-UGARIT-GUTERBOCK-1970",
-                                                                "SRC-UGARIT-WEST-1994",
-                                                                "SRC-UGARIT-DUCHESNE-1984"
-                                                            ]
-                                         },
-                           "scales":  [
-                                          {
-                                              "scale_id":  "UGARIT_H6_NID_QABLI_FRAMEWORK",
-                                              "name":  "Ugarit h.6 - quadro eptatonico nīd qabli",
-                                              "documentation_status":  "documentato",
-                                              "documentation_scope":  {
-                                                                          "documented":  [
-                                                                                             "nome dell\u0027accordatura nīd qabli nel colophon",
-                                                                                             "uso di termini intervallari accadici",
-                                                                                             "quadro diatonico eptatonico della teoria mesopotamica"
-                                                                                         ],
-                                                                          "not_documented":  [
-                                                                                                 "altezza assoluta",
-                                                                                                 "centro tonale moderno",
-                                                                                                 "una singola ricostruzione definitiva della melodia h.6"
-                                                                                             ]
-                                                                      },
-                                              "archaeological_context":  {
-                                                                             "site":  "Ugarit, Ras Shamra",
-                                                                             "approximate_date":  "XIV secolo a.C.",
-                                                                             "tablet":  "h.6; frammenti RS 15.30, RS 15.49 e RS 17.387",
-                                                                             "context":  "archivi del palazzo reale di Ugarit",
-                                                                             "notation":  "testo hurrita con istruzioni musicali in accadico e colophon"
-                                                                         },
-                                              "historical_tuning":  {
-                                                                        "description":  "Il colophon identifica il canto come appartenente alla configurazione nīd qabli. La notazione usa nomi di intervalli e numerali collegati al sistema eptatonico di strumenti a corde. Le realizzazioni melodiche moderne restano divergenti.",
-                                                                        "tuning_name":  "nīd qabli",
-                                                                        "absolute_pitch":  "non documentata",
-                                                                        "tonal_center":  "non determinabile con sicurezza",
-                                                                        "melodic_reconstruction_status":  "controversa",
-                                                                        "source_ids":  [
-                                                                                           "SRC-UGARIT-LAROCHE-1968",
-                                                                                           "SRC-UGARIT-GUTERBOCK-1970",
-                                                                                           "SRC-UGARIT-WEST-1994",
-                                                                                           "SRC-UGARIT-DUCHESNE-1984"
-                                                                                       ],
-                                                                        "measured_natural_sequence":  [
-
-                                                                                                      ],
-                                                                        "measured_intervals_cents":  [
-
-                                                                                                     ],
-                                                                        "scale_degrees_from_keynote":  [
-
-                                                                                                       ]
-                                                                    },
-                                              "center":  {
-                                                             "label":  "Do",
-                                                             "type":  "riferimento convenzionale 12-TET, non storico",
-                                                             "pitch_class":  0,
-                                                             "historical_reference":  "centro assoluto non documentato"
-                                                         },
-                                              "approximation":  {
-                                                                    "system":  "12-TET",
-                                                                    "quality":  "collezione diatonica neutra usata soltanto dal motore di confronto",
-                                                                    "warning":  "Do-Re-Mi-Fa-Sol-La-Si non costituisce una trascrizione certa della melodia h.6 e non attribuisce un\u0027altezza assoluta a Ugarit. La mappatura serve esclusivamente al confronto computazionale.",
-                                                                    "status":  "sintesi_operativa"
-                                                                },
-                                              "harmonization":  {
-                                                                    "status":  "proposta_moderna",
-                                                                    "method":  "triadi generate dalla collezione 12-TET convenzionale",
-                                                                    "warning":  "Le fonti non documentano armonia funzionale o successioni di accordi per h.6. Gli accordi del software sono moderni."
-                                                                },
-                                              "comparison_basis":  "documented_tuning_name_and_conventional_mapping",
-                                              "transition_reliability":  {
-                                                                             "historical_pitch_comparison":  "bassa",
-                                                                             "structural_scale_comparison":  "media",
-                                                                             "twelve_tet_transition":  "bassa-media",
-                                                                             "reason":  "Il nome dell\u0027accordatura e il quadro eptatonico sono documentati; altezza assoluta e trascrizione melodica no."
-                                                                         },
-                                              "notes_12tet":  [
-                                                                  "Do",
-                                                                  "Re",
-                                                                  "Mi",
-                                                                  "Fa",
-                                                                  "Sol",
-                                                                  "La",
-                                                                  "Si"
-                                                              ],
-                                              "pitch_classes_12tet":  [
-                                                                          0,
-                                                                          2,
-                                                                          4,
-                                                                          5,
-                                                                          7,
-                                                                          9,
-                                                                          11
-                                                                      ],
-                                              "source_ids":  [
-                                                                 "SRC-UGARIT-LAROCHE-1968",
-                                                                 "SRC-UGARIT-GUTERBOCK-1970",
-                                                                 "SRC-UGARIT-WEST-1994",
-                                                                 "SRC-UGARIT-DUCHESNE-1984"
-                                                             ],
-                                              "documents":  [
-                                                                {
-                                                                    "document_id":  "DOC-UGARIT-H6-DATA",
-                                                                    "label":  "Dati documentati della tavoletta h.6",
-                                                                    "path":  "../documenti/DATI_DOCUMENTATI_H6.txt",
-                                                                    "type":  "text",
-                                                                    "_exists":  true,
-                                                                    "_blocked":  false,
-                                                                    "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\01_UGARIT_HURRIAN_CULT_SONG_PRACTICE\\documenti\\DATI_DOCUMENTATI_H6.txt",
-                                                                    "_relative_path":  "02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\01_UGARIT_HURRIAN_CULT_SONG_PRACTICE\\documenti\\DATI_DOCUMENTATI_H6.txt",
-                                                                    "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/02_P2%20%C2%B7%203000%E2%80%931000%20a.C.%20%E2%80%94%20Prime%20citt%C3%A0,%20Stati%E2%80%A6/01_Asia%20sud-occidentale%20e%20altopiano%20iranico/Tradizioni%20musicali/01_UGARIT_HURRIAN_CULT_SONG_PRACTICE/documenti/DATI_DOCUMENTATI_H6.txt",
-                                                                    "_extension":  ".txt"
-                                                                },
-                                                                {
-                                                                    "document_id":  "DOC-UGARIT-H6-METHOD",
-                                                                    "label":  "Nota metodologica sulla ricostruzione",
-                                                                    "path":  "../documenti/NOTA_METODOLOGICA_H6.txt",
-                                                                    "type":  "text",
-                                                                    "_exists":  true,
-                                                                    "_blocked":  false,
-                                                                    "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\01_UGARIT_HURRIAN_CULT_SONG_PRACTICE\\documenti\\NOTA_METODOLOGICA_H6.txt",
-                                                                    "_relative_path":  "02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\01_UGARIT_HURRIAN_CULT_SONG_PRACTICE\\documenti\\NOTA_METODOLOGICA_H6.txt",
-                                                                    "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/02_P2%20%C2%B7%203000%E2%80%931000%20a.C.%20%E2%80%94%20Prime%20citt%C3%A0,%20Stati%E2%80%A6/01_Asia%20sud-occidentale%20e%20altopiano%20iranico/Tradizioni%20musicali/01_UGARIT_HURRIAN_CULT_SONG_PRACTICE/documenti/NOTA_METODOLOGICA_H6.txt",
-                                                                    "_extension":  ".txt"
-                                                                }
-                                                            ]
-                                          }
-                                      ],
-                           "documents":  [
-                                             {
-                                                 "document_id":  "DOC-UGARIT-H6-DATA",
-                                                 "label":  "Dati documentati della tavoletta h.6",
-                                                 "path":  "../documenti/DATI_DOCUMENTATI_H6.txt",
-                                                 "type":  "text",
-                                                 "_exists":  true,
-                                                 "_blocked":  false,
-                                                 "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\01_UGARIT_HURRIAN_CULT_SONG_PRACTICE\\documenti\\DATI_DOCUMENTATI_H6.txt",
-                                                 "_relative_path":  "02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\01_UGARIT_HURRIAN_CULT_SONG_PRACTICE\\documenti\\DATI_DOCUMENTATI_H6.txt",
-                                                 "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/02_P2%20%C2%B7%203000%E2%80%931000%20a.C.%20%E2%80%94%20Prime%20citt%C3%A0,%20Stati%E2%80%A6/01_Asia%20sud-occidentale%20e%20altopiano%20iranico/Tradizioni%20musicali/01_UGARIT_HURRIAN_CULT_SONG_PRACTICE/documenti/DATI_DOCUMENTATI_H6.txt",
-                                                 "_extension":  ".txt"
-                                             },
-                                             {
-                                                 "document_id":  "DOC-UGARIT-H6-METHOD",
-                                                 "label":  "Nota metodologica sulla ricostruzione",
-                                                 "path":  "../documenti/NOTA_METODOLOGICA_H6.txt",
-                                                 "type":  "text",
-                                                 "_exists":  true,
-                                                 "_blocked":  false,
-                                                 "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\01_UGARIT_HURRIAN_CULT_SONG_PRACTICE\\documenti\\NOTA_METODOLOGICA_H6.txt",
-                                                 "_relative_path":  "02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\01_UGARIT_HURRIAN_CULT_SONG_PRACTICE\\documenti\\NOTA_METODOLOGICA_H6.txt",
-                                                 "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/02_P2%20%C2%B7%203000%E2%80%931000%20a.C.%20%E2%80%94%20Prime%20citt%C3%A0,%20Stati%E2%80%A6/01_Asia%20sud-occidentale%20e%20altopiano%20iranico/Tradizioni%20musicali/01_UGARIT_HURRIAN_CULT_SONG_PRACTICE/documenti/NOTA_METODOLOGICA_H6.txt",
-                                                 "_extension":  ".txt"
-                                             }
-                                         ],
-                           "sources":  [
-                                           {
-                                               "source_id":  "SRC-UGARIT-LAROCHE-1968",
-                                               "purpose":  "edizione dei testi hurriti di Ras Shamra e pubblicazione della tavoletta h.6",
-                                               "title":  "Documents en langue hourrite provenant de Ras Shamra",
-                                               "author":  "Emmanuel Laroche",
-                                               "year":  "1968",
-                                               "publisher_or_journal":  "Ugaritica V: Nouveaux textes accadiens, hourrites et ugaritiques",
-                                               "identifier":  "Mission de Ras Shamra 16; Bibliotheque archeologique et historique 80",
-                                               "pages":  "462-496; h.6 trascritta p. 463, testo cuneiforme p. 487",
-                                               "grade":  "A"
-                                           },
-                                           {
-                                               "source_id":  "SRC-UGARIT-GUTERBOCK-1970",
-                                               "purpose":  "analisi della notazione musicale di Ugarit",
-                                               "title":  "Musical Notation in Ugarit",
-                                               "author":  "Hans Gustav Guterbock",
-                                               "year":  "1970",
-                                               "publisher_or_journal":  "Revue d\u0027Assyriologie et d\u0027Archeologie Orientale 64",
-                                               "identifier":  "articolo accademico",
-                                               "pages":  "45-52",
-                                               "grade":  "A"
-                                           },
-                                           {
-                                               "source_id":  "SRC-UGARIT-WEST-1994",
-                                               "purpose":  "analisi della notazione babilonese e dei testi melodici hurriti",
-                                               "title":  "The Babylonian Musical Notation and the Hurrian Melodic Texts",
-                                               "author":  "M. L. West",
-                                               "year":  "1994",
-                                               "publisher_or_journal":  "Music \u0026 Letters 75(2)",
-                                               "identifier":  "articolo accademico",
-                                               "pages":  "161-179",
-                                               "grade":  "A"
-                                           },
-                                           {
-                                               "source_id":  "SRC-UGARIT-DUCHESNE-1984",
-                                               "purpose":  "studio monografico della partitura hurrita e del sistema mesopotamico",
-                                               "title":  "A Hurrian Musical Score from Ugarit: The Discovery of Mesopotamian Music",
-                                               "author":  "Marcelle Duchesne-Guillemin",
-                                               "year":  "1984",
-                                               "publisher_or_journal":  "Sources from the Ancient Near East 2/2, Undena Publications",
-                                               "identifier":  "ISBN 0-89003-158-4",
-                                               "pages":  "intero fascicolo",
-                                               "grade":  "A"
-                                           }
-                                       ],
-                           "_source_file":  "02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\01_UGARIT_HURRIAN_CULT_SONG_PRACTICE\\dati\\musica-container.json",
-                           "_source_directory":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\02_P2 · 3000–1000 a.C. — Prime città, Stati…\\01_Asia sud-occidentale e altopiano iranico\\Tradizioni musicali\\01_UGARIT_HURRIAN_CULT_SONG_PRACTICE\\dati",
-                           "_directory_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/02_P2%20%C2%B7%203000%E2%80%931000%20a.C.%20%E2%80%94%20Prime%20citt%C3%A0,%20Stati%E2%80%A6/01_Asia%20sud-occidentale%20e%20altopiano%20iranico/Tradizioni%20musicali/01_UGARIT_HURRIAN_CULT_SONG_PRACTICE/dati"
                        },
                        {
                            "schema_version":  1,
@@ -2257,6 +2257,336 @@
                        },
                        {
                            "schema_version":  1,
+                           "container_id":  "CONTAINER-P4-BYZ-CONSTANTINOPLE-OKTOECHOS",
+                           "record_status":  "documentato",
+                           "area":  {
+                                        "id":  "EUR_MED",
+                                        "label":  "Mediterraneo europeo ed Europa centro-occidentale"
+                                    },
+                           "period":  {
+                                          "id":  "P4",
+                                          "label":  "500–1000 — Sistemi post-classici e r…",
+                                          "order":  4
+                                      },
+                           "tradition":  {
+                                             "id":  "CONSTANTINOPLE_BYZANTINE_OKTOECHOS_STOUDITE_CHANT",
+                                             "label":  "Octoechos bizantino e ricezione stoudita a Costantinopoli",
+                                             "historical_name":  "oktōēchos / sistema degli otto echoi; denominazione del contenitore estesa con il contesto costantinopolitano",
+                                             "documentation_status":  "documentato",
+                                             "scope_note":  "Il record riguarda l\u0027ordinamento modale a otto echoi, il contesto liturgico costantinopolitano e la riorganizzazione stoudita. Non attribuisce a Costantinopoli un\u0027origine esclusiva dell\u0027Octoechos e non rappresenta tutta la musica della città.",
+                                             "source_ids":  [
+                                                                "SRC-CONSTANTINOPLE-WELLESZ-1961",
+                                                                "SRC-CONSTANTINOPLE-STRUNK-1977",
+                                                                "SRC-CONSTANTINOPLE-STRUNK-HAGIA-SOPHIA-1956",
+                                                                "SRC-CONSTANTINOPLE-RAASTED-HAGIOPOLITES-1983",
+                                                                "SRC-CONSTANTINOPLE-JEFFERY-OCTOECHOI-2001"
+                                                            ]
+                                         },
+                           "installed_at":  "2026-07-03T16:33:32.2971310+02:00",
+                           "scales":  [
+                                          {
+                                              "scale_id":  "CONSTANTINOPLE_OKTOECHOS_DIATONIC_REFERENCE_FRAMEWORK",
+                                              "name":  "Costantinopoli bizantina — Octoechos, riferimento diatonico comparativo",
+                                              "documentation_status":  "documentato",
+                                              "comparison_basis":  "documented_eight_mode_ordering_and_conventional_diatonic_reference",
+                                              "documentation_scope":  {
+                                                                          "documented":  [
+                                                                                             "ordinamento liturgico e melodico in otto echoi",
+                                                                                             "quattro echoi principali e quattro forme plagali nella descrizione convenzionale del sistema",
+                                                                                             "ruolo di Costantinopoli nella trasmissione liturgica, nella pratica cattedrale e nella riorganizzazione stoudita",
+                                                                                             "importanza di formule melodiche, cadenze, ambito e genere di canto oltre alla sola collezione di altezze",
+                                                                                             "trasmissione manoscritta e sviluppo delle notazioni bizantine"
+                                                                                         ],
+                                                                          "not_documented":  [
+                                                                                                 "un\u0027unica scala di sette note valida per tutti gli echoi",
+                                                                                                 "un temperamento equabile a dodici suoni",
+                                                                                                 "frequenze assolute stabili per il periodo P4",
+                                                                                                 "origine esclusivamente costantinopolitana dell\u0027Octoechos",
+                                                                                                 "equivalenza diretta con otto modi ecclesiastici occidentali moderni",
+                                                                                                 "armonia funzionale o successioni accordali storiche"
+                                                                                             ]
+                                                                      },
+                                              "historical_context":  {
+                                                                         "city":  "Costantinopoli bizantina",
+                                                                         "approximate_date":  "VIII-X secolo; focus sulla ricezione e riorganizzazione stoudita nel IX secolo",
+                                                                         "institutional_context":  "Santa Sofia, ambienti monastici e riforma del monastero di Stoudios",
+                                                                         "liturgical_context":  "rito cattedrale e cicli monastici del canto bizantino",
+                                                                         "locality_caution":  "L\u0027ordinamento modale ebbe una storia mediterranea e vicino-orientale più ampia. Il contenitore documenta Costantinopoli come centro di ricezione, rielaborazione e trasmissione, non come unico luogo d\u0027origine."
+                                                                     },
+                                              "historical_tuning":  {
+                                                                        "description":  "L\u0027Octoechos classifica repertori e formule secondo otto echoi. Un echos comprende relazioni melodiche, cadenze, ambito, formule e generi; non coincide con una singola scala moderna o con una frequenza assoluta.",
+                                                                        "modal_system":  "Octoechos bizantino",
+                                                                        "echoi":  [
+                                                                                      {
+                                                                                          "order":  1,
+                                                                                          "name":  "protos",
+                                                                                          "family":  "kyrios / principale"
+                                                                                      },
+                                                                                      {
+                                                                                          "order":  2,
+                                                                                          "name":  "devteros",
+                                                                                          "family":  "kyrios / principale"
+                                                                                      },
+                                                                                      {
+                                                                                          "order":  3,
+                                                                                          "name":  "tritos",
+                                                                                          "family":  "kyrios / principale"
+                                                                                      },
+                                                                                      {
+                                                                                          "order":  4,
+                                                                                          "name":  "tetartos",
+                                                                                          "family":  "kyrios / principale"
+                                                                                      },
+                                                                                      {
+                                                                                          "order":  5,
+                                                                                          "name":  "plagios protou",
+                                                                                          "family":  "plagios"
+                                                                                      },
+                                                                                      {
+                                                                                          "order":  6,
+                                                                                          "name":  "plagios devterou",
+                                                                                          "family":  "plagios"
+                                                                                      },
+                                                                                      {
+                                                                                          "order":  7,
+                                                                                          "name":  "varys",
+                                                                                          "family":  "funzione convenzionalmente associata al terzo plagal"
+                                                                                      },
+                                                                                      {
+                                                                                          "order":  8,
+                                                                                          "name":  "plagios tetartou",
+                                                                                          "family":  "plagios"
+                                                                                      }
+                                                                                  ],
+                                                                        "exact_interval_status":  "non riducibile a una sola divisione d\u0027ottava per tutti gli echoi del periodo",
+                                                                        "absolute_pitch":  "non documentata come standard unico",
+                                                                        "tonal_center":  "dipende dall\u0027echos, dal genere, dal repertorio e dalla prassi",
+                                                                        "notation_status":  "Le fonti notate e i trattati sono stratificati; una trascrizione moderna non restituisce automaticamente ritmo, intonazione e formula melodica originari.",
+                                                                        "source_ids":  [
+                                                                                           "SRC-CONSTANTINOPLE-WELLESZ-1961",
+                                                                                           "SRC-CONSTANTINOPLE-STRUNK-1977",
+                                                                                           "SRC-CONSTANTINOPLE-RAASTED-HAGIOPOLITES-1983",
+                                                                                           "SRC-CONSTANTINOPLE-JEFFERY-OCTOECHOI-2001",
+                                                                                           "SRC-CONSTANTINOPLE-TROELSGARD-NEUMES-2011"
+                                                                                       ],
+                                                                        "measured_natural_sequence":  [
+
+                                                                                                      ],
+                                                                        "measured_intervals_cents":  [
+
+                                                                                                     ],
+                                                                        "scale_degrees_from_keynote":  [
+                                                                                                           "1 convenzionale",
+                                                                                                           "2 convenzionale",
+                                                                                                           "3 convenzionale",
+                                                                                                           "4 convenzionale",
+                                                                                                           "5 convenzionale",
+                                                                                                           "6 convenzionale",
+                                                                                                           "7 convenzionale"
+                                                                                                       ]
+                                                                    },
+                                              "center":  {
+                                                             "label":  "Do",
+                                                             "type":  "riferimento neutro 12-TET per l\u0027interfaccia, non finalis storico universale",
+                                                             "pitch_class":  0,
+                                                             "historical_reference":  "nessun centro assoluto unico attribuito agli otto echoi"
+                                                         },
+                                              "approximation":  {
+                                                                    "system":  "12-TET",
+                                                                    "status":  "sintesi_operativa_non_storica",
+                                                                    "quality":  "bassa per intonazione e identità modale; utile soltanto per il confronto diatonico generale",
+                                                                    "warning":  "Do-Re-Mi-Fa-Sol-La-Si è una collezione neutra del software. Non rappresenta un echos specifico, non fissa intervalli medievali e non trasforma l\u0027Octoechos in una scala maggiore."
+                                                                },
+                                              "harmonization":  {
+                                                                    "status":  "proposta_moderna_anacronistica",
+                                                                    "method":  "eventuali triadi generate dalla sola collezione 12-TET convenzionale",
+                                                                    "warning":  "Il canto bizantino è trattato nel profilo come tradizione melodica e liturgica. Gli accordi dell\u0027interfaccia non costituiscono una pratica storica documentata."
+                                                                },
+                                              "transition_reliability":  {
+                                                                             "eight_mode_ordering":  "alta",
+                                                                             "constantinopolitan_institutional_context":  "alta",
+                                                                             "exact_historical_intonation":  "bassa",
+                                                                             "twelve_tet_transition":  "bassa",
+                                                                             "reason":  "L\u0027ordinamento degli echoi e il contesto liturgico sono documentabili; una singola scala, frequenze e intervalli universali non lo sono."
+                                                                         },
+                                              "notes_12tet":  [
+                                                                  "Do",
+                                                                  "Re",
+                                                                  "Mi",
+                                                                  "Fa",
+                                                                  "Sol",
+                                                                  "La",
+                                                                  "Si"
+                                                              ],
+                                              "pitch_classes_12tet":  [
+                                                                          0,
+                                                                          2,
+                                                                          4,
+                                                                          5,
+                                                                          7,
+                                                                          9,
+                                                                          11
+                                                                      ],
+                                              "source_ids":  [
+                                                                 "SRC-CONSTANTINOPLE-WELLESZ-1961",
+                                                                 "SRC-CONSTANTINOPLE-STRUNK-1977",
+                                                                 "SRC-CONSTANTINOPLE-STRUNK-HAGIA-SOPHIA-1956",
+                                                                 "SRC-CONSTANTINOPLE-RAASTED-HAGIOPOLITES-1983",
+                                                                 "SRC-CONSTANTINOPLE-JEFFERY-OCTOECHOI-2001",
+                                                                 "SRC-CONSTANTINOPLE-TROELSGARD-NEUMES-2011"
+                                                             ],
+                                              "documents":  [
+                                                                {
+                                                                    "document_id":  "DOC-CONSTANTINOPLE-OKTOECHOS-DATA",
+                                                                    "label":  "Dati documentati su Octoechos e Costantinopoli",
+                                                                    "path":  "../documenti/DATI_DOCUMENTATI_OKTOECHOS_COSTANTINOPOLI.txt",
+                                                                    "type":  "text",
+                                                                    "_exists":  true,
+                                                                    "_blocked":  false,
+                                                                    "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\04_P4 · 500–1000 — Sistemi post-classici e r…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_CONSTANTINOPLE_BYZANTINE_OKTOECHOS\\documenti\\DATI_DOCUMENTATI_OKTOECHOS_COSTANTINOPOLI.txt",
+                                                                    "_relative_path":  "04_P4 · 500–1000 — Sistemi post-classici e r…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_CONSTANTINOPLE_BYZANTINE_OKTOECHOS\\documenti\\DATI_DOCUMENTATI_OKTOECHOS_COSTANTINOPOLI.txt",
+                                                                    "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/04_P4%20%C2%B7%20500%E2%80%931000%20%E2%80%94%20Sistemi%20post-classici%20e%20r%E2%80%A6/06_Mediterraneo%20europeo%20ed%20Europa%20centro-occidentale/Tradizioni%20musicali/01_CONSTANTINOPLE_BYZANTINE_OKTOECHOS/documenti/DATI_DOCUMENTATI_OKTOECHOS_COSTANTINOPOLI.txt",
+                                                                    "_extension":  ".txt"
+                                                                },
+                                                                {
+                                                                    "document_id":  "DOC-CONSTANTINOPLE-OKTOECHOS-METHOD",
+                                                                    "label":  "Nota metodologica sulla riduzione diatonica e 12-TET",
+                                                                    "path":  "../documenti/NOTA_METODOLOGICA_OKTOECHOS_12TET.txt",
+                                                                    "type":  "text",
+                                                                    "_exists":  true,
+                                                                    "_blocked":  false,
+                                                                    "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\04_P4 · 500–1000 — Sistemi post-classici e r…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_CONSTANTINOPLE_BYZANTINE_OKTOECHOS\\documenti\\NOTA_METODOLOGICA_OKTOECHOS_12TET.txt",
+                                                                    "_relative_path":  "04_P4 · 500–1000 — Sistemi post-classici e r…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_CONSTANTINOPLE_BYZANTINE_OKTOECHOS\\documenti\\NOTA_METODOLOGICA_OKTOECHOS_12TET.txt",
+                                                                    "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/04_P4%20%C2%B7%20500%E2%80%931000%20%E2%80%94%20Sistemi%20post-classici%20e%20r%E2%80%A6/06_Mediterraneo%20europeo%20ed%20Europa%20centro-occidentale/Tradizioni%20musicali/01_CONSTANTINOPLE_BYZANTINE_OKTOECHOS/documenti/NOTA_METODOLOGICA_OKTOECHOS_12TET.txt",
+                                                                    "_extension":  ".txt"
+                                                                },
+                                                                {
+                                                                    "document_id":  "DOC-CONSTANTINOPLE-OKTOECHOS-SOURCES",
+                                                                    "label":  "Fonti documentate per il contenitore",
+                                                                    "path":  "../documenti/FONTI_DOCUMENTATE.txt",
+                                                                    "type":  "text",
+                                                                    "_exists":  true,
+                                                                    "_blocked":  false,
+                                                                    "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\04_P4 · 500–1000 — Sistemi post-classici e r…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_CONSTANTINOPLE_BYZANTINE_OKTOECHOS\\documenti\\FONTI_DOCUMENTATE.txt",
+                                                                    "_relative_path":  "04_P4 · 500–1000 — Sistemi post-classici e r…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_CONSTANTINOPLE_BYZANTINE_OKTOECHOS\\documenti\\FONTI_DOCUMENTATE.txt",
+                                                                    "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/04_P4%20%C2%B7%20500%E2%80%931000%20%E2%80%94%20Sistemi%20post-classici%20e%20r%E2%80%A6/06_Mediterraneo%20europeo%20ed%20Europa%20centro-occidentale/Tradizioni%20musicali/01_CONSTANTINOPLE_BYZANTINE_OKTOECHOS/documenti/FONTI_DOCUMENTATE.txt",
+                                                                    "_extension":  ".txt"
+                                                                }
+                                                            ]
+                                          }
+                                      ],
+                           "documents":  [
+                                             {
+                                                 "document_id":  "DOC-CONSTANTINOPLE-OKTOECHOS-DATA",
+                                                 "label":  "Dati documentati su Octoechos e Costantinopoli",
+                                                 "path":  "../documenti/DATI_DOCUMENTATI_OKTOECHOS_COSTANTINOPOLI.txt",
+                                                 "type":  "text",
+                                                 "_exists":  true,
+                                                 "_blocked":  false,
+                                                 "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\04_P4 · 500–1000 — Sistemi post-classici e r…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_CONSTANTINOPLE_BYZANTINE_OKTOECHOS\\documenti\\DATI_DOCUMENTATI_OKTOECHOS_COSTANTINOPOLI.txt",
+                                                 "_relative_path":  "04_P4 · 500–1000 — Sistemi post-classici e r…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_CONSTANTINOPLE_BYZANTINE_OKTOECHOS\\documenti\\DATI_DOCUMENTATI_OKTOECHOS_COSTANTINOPOLI.txt",
+                                                 "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/04_P4%20%C2%B7%20500%E2%80%931000%20%E2%80%94%20Sistemi%20post-classici%20e%20r%E2%80%A6/06_Mediterraneo%20europeo%20ed%20Europa%20centro-occidentale/Tradizioni%20musicali/01_CONSTANTINOPLE_BYZANTINE_OKTOECHOS/documenti/DATI_DOCUMENTATI_OKTOECHOS_COSTANTINOPOLI.txt",
+                                                 "_extension":  ".txt"
+                                             },
+                                             {
+                                                 "document_id":  "DOC-CONSTANTINOPLE-OKTOECHOS-METHOD",
+                                                 "label":  "Nota metodologica sulla riduzione diatonica e 12-TET",
+                                                 "path":  "../documenti/NOTA_METODOLOGICA_OKTOECHOS_12TET.txt",
+                                                 "type":  "text",
+                                                 "_exists":  true,
+                                                 "_blocked":  false,
+                                                 "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\04_P4 · 500–1000 — Sistemi post-classici e r…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_CONSTANTINOPLE_BYZANTINE_OKTOECHOS\\documenti\\NOTA_METODOLOGICA_OKTOECHOS_12TET.txt",
+                                                 "_relative_path":  "04_P4 · 500–1000 — Sistemi post-classici e r…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_CONSTANTINOPLE_BYZANTINE_OKTOECHOS\\documenti\\NOTA_METODOLOGICA_OKTOECHOS_12TET.txt",
+                                                 "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/04_P4%20%C2%B7%20500%E2%80%931000%20%E2%80%94%20Sistemi%20post-classici%20e%20r%E2%80%A6/06_Mediterraneo%20europeo%20ed%20Europa%20centro-occidentale/Tradizioni%20musicali/01_CONSTANTINOPLE_BYZANTINE_OKTOECHOS/documenti/NOTA_METODOLOGICA_OKTOECHOS_12TET.txt",
+                                                 "_extension":  ".txt"
+                                             },
+                                             {
+                                                 "document_id":  "DOC-CONSTANTINOPLE-OKTOECHOS-SOURCES",
+                                                 "label":  "Fonti documentate per il contenitore",
+                                                 "path":  "../documenti/FONTI_DOCUMENTATE.txt",
+                                                 "type":  "text",
+                                                 "_exists":  true,
+                                                 "_blocked":  false,
+                                                 "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\04_P4 · 500–1000 — Sistemi post-classici e r…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_CONSTANTINOPLE_BYZANTINE_OKTOECHOS\\documenti\\FONTI_DOCUMENTATE.txt",
+                                                 "_relative_path":  "04_P4 · 500–1000 — Sistemi post-classici e r…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_CONSTANTINOPLE_BYZANTINE_OKTOECHOS\\documenti\\FONTI_DOCUMENTATE.txt",
+                                                 "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/04_P4%20%C2%B7%20500%E2%80%931000%20%E2%80%94%20Sistemi%20post-classici%20e%20r%E2%80%A6/06_Mediterraneo%20europeo%20ed%20Europa%20centro-occidentale/Tradizioni%20musicali/01_CONSTANTINOPLE_BYZANTINE_OKTOECHOS/documenti/FONTI_DOCUMENTATE.txt",
+                                                 "_extension":  ".txt"
+                                             }
+                                         ],
+                           "sources":  [
+                                           {
+                                               "source_id":  "SRC-CONSTANTINOPLE-WELLESZ-1961",
+                                               "purpose":  "storia della musica e dell\u0027innografia bizantina, sistema degli echoi e trasmissione dei repertori",
+                                               "title":  "A History of Byzantine Music and Hymnography",
+                                               "author":  "Egon Wellesz",
+                                               "year":  "1961",
+                                               "publisher_or_journal":  "Clarendon Press, Oxford, seconda edizione",
+                                               "identifier":  "monografia accademica",
+                                               "pages":  "capitoli sulla formazione dell\u0027Octoechos, inni e notazioni",
+                                               "grade":  "B"
+                                           },
+                                           {
+                                               "source_id":  "SRC-CONSTANTINOPLE-STRUNK-1977",
+                                               "purpose":  "studi sulla liturgia, la teoria e le tradizioni musicali del mondo bizantino",
+                                               "title":  "Essays on Music in the Byzantine World",
+                                               "author":  "Oliver Strunk",
+                                               "year":  "1977",
+                                               "publisher_or_journal":  "W. W. Norton, New York",
+                                               "identifier":  "raccolta di studi accademici",
+                                               "pages":  "saggi sulla liturgia e sul canto bizantino",
+                                               "grade":  "B"
+                                           },
+                                           {
+                                               "source_id":  "SRC-CONSTANTINOPLE-STRUNK-HAGIA-SOPHIA-1956",
+                                               "purpose":  "ricostruzione dell\u0027ufficio cattedrale di Santa Sofia e del contesto liturgico costantinopolitano",
+                                               "title":  "The Byzantine Office at Hagia Sophia",
+                                               "author":  "Oliver Strunk",
+                                               "year":  "1956",
+                                               "publisher_or_journal":  "Dumbarton Oaks Papers 9/10",
+                                               "identifier":  "articolo accademico",
+                                               "pages":  "175-202",
+                                               "grade":  "A"
+                                           },
+                                           {
+                                               "source_id":  "SRC-CONSTANTINOPLE-RAASTED-HAGIOPOLITES-1983",
+                                               "purpose":  "edizione e studio del trattato Hagiopolites e della teoria degli echoi",
+                                               "title":  "The Hagiopolites: A Byzantine Treatise on Musical Theory",
+                                               "author":  "Jørgen Raasted",
+                                               "year":  "1983",
+                                               "publisher_or_journal":  "Cahiers de l\u0027Institut du Moyen-Âge grec et latin 45",
+                                               "identifier":  "edizione critica e studio",
+                                               "pages":  "testo, traduzione e commento",
+                                               "grade":  "A"
+                                           },
+                                           {
+                                               "source_id":  "SRC-CONSTANTINOPLE-JEFFERY-OCTOECHOI-2001",
+                                               "purpose":  "origini e diffusione dell\u0027ordinamento modale a otto echoi, con cautela sulla localizzazione esclusiva",
+                                               "title":  "The Earliest Oktōēchoi: The Role of Jerusalem and Palestine in the Beginnings of Modal Ordering",
+                                               "author":  "Peter Jeffery",
+                                               "year":  "2001",
+                                               "publisher_or_journal":  "Princeton University Press",
+                                               "identifier":  "monografia accademica",
+                                               "pages":  "intero volume",
+                                               "grade":  "A"
+                                           },
+                                           {
+                                               "source_id":  "SRC-CONSTANTINOPLE-TROELSGARD-NEUMES-2011",
+                                               "purpose":  "introduzione critica alla notazione musicale medio-bizantina e ai limiti della trascrizione moderna",
+                                               "title":  "Byzantine Neumes: A New Introduction to the Middle Byzantine Musical Notation",
+                                               "author":  "Christian Troelsgård",
+                                               "year":  "2011",
+                                               "publisher_or_journal":  "Monumenta Musicae Byzantinae, Subsidia 9, Copenhagen",
+                                               "identifier":  "manuale specialistico",
+                                               "pages":  "intero volume",
+                                               "grade":  "A"
+                                           }
+                                       ],
+                           "_source_file":  "04_P4 · 500–1000 — Sistemi post-classici e r…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_CONSTANTINOPLE_BYZANTINE_OKTOECHOS\\dati\\musica-container.json",
+                           "_source_directory":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\04_P4 · 500–1000 — Sistemi post-classici e r…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_CONSTANTINOPLE_BYZANTINE_OKTOECHOS\\dati",
+                           "_directory_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/04_P4%20%C2%B7%20500%E2%80%931000%20%E2%80%94%20Sistemi%20post-classici%20e%20r%E2%80%A6/06_Mediterraneo%20europeo%20ed%20Europa%20centro-occidentale/Tradizioni%20musicali/01_CONSTANTINOPLE_BYZANTINE_OKTOECHOS/dati"
+                       },
+                       {
+                           "schema_version":  1,
                            "container_id":  "CONTAINER-P5-ASW-BAGHDAD-URMAWI",
                            "record_status":  "documentato",
                            "area":  {
@@ -2884,8 +3214,8 @@
                            "_directory_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/06_P6%20%C2%B7%201500%E2%80%931800%20%E2%80%94%20Imperi%20oceanici,%20colonia%E2%80%A6/01_Asia%20sud-occidentale%20e%20altopiano%20iranico/Tradizioni%20musicali/01_ISTANBUL_OTTOMAN_KANTEMIR_EDVAR/dati"
                        },
                        {
-                           "container_id":  "CONTAINER-P7-ASW-ISTANBUL-HAMPARSUM",
                            "schema_version":  1,
+                           "container_id":  "CONTAINER-P7-ASW-ISTANBUL-HAMPARSUM",
                            "record_status":  "documentato",
                            "area":  {
                                         "id":  "ASW_IRAN",
@@ -2893,15 +3223,15 @@
                                     },
                            "period":  {
                                           "id":  "P7",
-                                          "label":  "1800–1900 — Industrializzazione iniz…",
-                                          "order":  7
+                                          "order":  7,
+                                          "label":  "1800–1900 — Industrializzazione iniz…"
                                       },
                            "tradition":  {
                                              "id":  "ISTANBUL_TANZIMAT_HAMPARSUM_MANUSCRIPT_TRADITION",
                                              "label":  "Tradizione manoscritta Hamparsum nella Istanbul ottomana del XIX secolo",
-                                             "historical_name":  "Etichetta descrittiva moderna riferita a Hamparsum Limonciyan e al corpus manoscritto ottocentesco.",
+                                             "historical_name":  "Notazione Hamparsum; etichetta del contenitore estesa al corpus manoscritto istanbuliota.",
                                              "documentation_status":  "documentato",
-                                             "scope_note":  "Il record riguarda notazione, repertorio e trasmissione della musica d\u0027arte ottomana in ambiente istanbuliota; non rappresenta ogni pratica musicale urbana o armena.",
+                                             "scope_note":  "Il record riguarda Limonciyan, la notazione Hamparsum e il corpus manoscritto ottocentesco nel contesto di Istanbul. Non rappresenta ogni pratica ottomana o armena.",
                                              "source_ids":  [
                                                                 "SRC-ISTANBUL-HAMPARSUM-JAGER-1996",
                                                                 "SRC-ISTANBUL-HAMPARSUM-KARABASOGLU-2015",
@@ -2915,44 +3245,43 @@
                                           {
                                               "scale_id":  "ISTANBUL_HAMPARSUM_RAST_NOTATED_PROFILE",
                                               "name":  "Istanbul Tanzimat - profilo Rast trasmesso in notazione Hamparsum",
-                                              "documentation_status":  "documentato_con_limiti_intonativi",
+                                              "documentation_status":  "documentato",
                                               "comparison_basis":  "hamparsum_notation_named_perdes_modal_functions_and_repertory_transmission",
                                               "documentation_scope":  {
                                                                           "documented":  [
-                                                                                             "Hamparsum Limonciyan nel contesto musicale e armeno-ottomano di Istanbul",
-                                                                                             "elaborazione della notazione Hamparsum all\u0027inizio del XIX secolo",
-                                                                                             "uso della notazione in manoscritti e raccolte di musica d\u0027arte ottomana del XIX secolo",
-                                                                                             "segni per posizioni di altezza e durata all\u0027interno di una pratica ancora fondata anche sul meşk",
-                                                                                             "continuità del sistema dei makam, delle perdes nominate e degli usûl",
-                                                                                             "Rast come profilo comparativo per collegare il caso P7 al precedente caso Kantemiroğlu"
+                                                                                             "Hamparsum Limonciyan nel contesto musicale di Istanbul",
+                                                                                             "uso della notazione Hamparsum nella trasmissione manoscritta ottocentesca",
+                                                                                             "presenza di repertori ottomani e armeni nel corpus collegato alla notazione",
+                                                                                             "continuità dei concetti di makam, perdes, usûl e meşk",
+                                                                                             "Rast come profilo modale comparativo fra P6 Kantemiroğlu e P7 Hamparsum"
                                                                                          ],
                                                                           "not_documented":  [
-                                                                                                 "frequenze assolute univoche per i manoscritti Hamparsum",
-                                                                                                 "capacità della notazione di fissare integralmente ogni sfumatura intonativa e ornamentale",
-                                                                                                 "temperamento equabile a dodici suoni come sistema storico ottomano",
-                                                                                                 "equivalenza grafica perfetta fra segni Hamparsum e note occidentali",
-                                                                                                 "armonia funzionale o triadi come struttura storica del repertorio"
+                                                                                                 "frequenze assolute univoche",
+                                                                                                 "valori storici invarianti in cent",
+                                                                                                 "temperamento equabile ottomano",
+                                                                                                 "equivalenza del makam Rast con Sol maggiore",
+                                                                                                 "conversione diplomatica automatica di ogni segno Hamparsum",
+                                                                                                 "armonia funzionale storica"
                                                                                              ]
                                                                       },
                                               "historical_context":  {
-                                                                         "city":  "Istanbul / Costantinopoli ottomana nel lungo XIX secolo",
-                                                                         "author":  "Hamparsum Limonciyan e copisti della tradizione manoscritta Hamparsum",
-                                                                         "approximate_date":  "circa 1813-1890, dall\u0027elaborazione del sistema alla sua ampia circolazione ottocentesca",
-                                                                         "work":  "notazione Hamparsum e corpus manoscritti di musica ottomana del XIX secolo",
-                                                                         "intellectual_context":  "corte, comunità armene urbane, circoli mevlevi, musicisti professionali e trasmissione manoscritta",
-                                                                         "locality_caution":  "il profilo documenta una rete musicale istanbuliota e una tecnologia di scrittura; non rappresenta tutta la musica della città né tutto il periodo Tanzimat"
+                                                                         "city":  "Istanbul / Costantinopoli ottomana",
+                                                                         "author":  "Hamparsum Limonciyan",
+                                                                         "documented_subrange":  "XIX secolo, circa 1813-1890",
+                                                                         "notation":  "Hamparsum",
+                                                                         "corpus":  "manoscritti e raccolte in notazione Hamparsum",
+                                                                         "locality_caution":  "Il profilo descrive un circuito urbano e manoscritto documentato, non tutta la musica della città."
                                                                      },
                                               "historical_tuning":  {
-                                                                        "description":  "La notazione Hamparsum registra posizioni di altezza e durate, ma la realizzazione intonativa resta dipendente da makam, meşk, strumento, scuola e prassi. Il profilo Rast è un ancoraggio comparativo, non una scala temperata.",
-                                                                        "modal_system":  "makam ottomano",
-                                                                        "selected_makam":  "Rast, come profilo di continuità comparativa",
+                                                                        "description":  "Il sistema Hamparsum registra altezze o perdes e durate mediante segni convenzionali. Il profilo Rast conserva nomi e funzioni modali senza fissare frequenze o cent.",
                                                                         "notation_system":  "Hamparsum",
-                                                                        "theoretical_status":  "notazione e repertorio storicamente documentati; conversione intonativa moderna non univoca",
-                                                                        "absolute_pitch":  "non documentata come frequenza unica e invariabile",
-                                                                        "tonal_center":  "Rast come durak; Sol soltanto come riferimento grafico 12-TET",
+                                                                        "modal_system":  "makam ottomano",
+                                                                        "selected_makam":  "Rast",
+                                                                        "absolute_pitch":  "non documentata in modo univoco",
+                                                                        "tonal_center":  "Rast come durak storico; Sol soltanto come riferimento grafico 12-TET",
                                                                         "durak":  "Rast",
-                                                                        "guclu":  "Nevâ nel profilo comparativo moderno; verificare il seyir delle singole composizioni",
-                                                                        "seyir":  "non ricavabile dalla sola successione dei segni; deve essere letto nella composizione e nella tradizione esecutiva",
+                                                                        "guclu":  "Nevâ",
+                                                                        "seyir":  "da leggere nel repertorio e nella trasmissione; non ridotto a una scala ascendente",
                                                                         "historical_perde_sequence":  [
                                                                                                           "Rast",
                                                                                                           "Dügâh",
@@ -2963,13 +3292,6 @@
                                                                                                           "Evç",
                                                                                                           "Gerdâniye"
                                                                                                       ],
-                                                                        "documented_modal_functions":  [
-                                                                                                           "durak",
-                                                                                                           "güçlü",
-                                                                                                           "seyir",
-                                                                                                           "asma karar",
-                                                                                                           "formule cadenzali e sviluppo della singola composizione"
-                                                                                                       ],
                                                                         "calculated_sequence":  [
                                                                                                     {
                                                                                                         "degree":  "1",
@@ -2977,7 +3299,8 @@
                                                                                                         "function":  "durak / finalis",
                                                                                                         "modern_equivalent":  "Sol",
                                                                                                         "pitch_class_12tet":  7,
-                                                                                                        "exact_deviation_cents":  null
+                                                                                                        "exact_deviation_cents":  null,
+                                                                                                        "value_status":  "mappatura_comparativa_moderna_non_misurata"
                                                                                                     },
                                                                                                     {
                                                                                                         "degree":  "2",
@@ -2985,15 +3308,17 @@
                                                                                                         "function":  "seconda posizione",
                                                                                                         "modern_equivalent":  "La",
                                                                                                         "pitch_class_12tet":  9,
-                                                                                                        "exact_deviation_cents":  null
+                                                                                                        "exact_deviation_cents":  null,
+                                                                                                        "value_status":  "mappatura_comparativa_moderna_non_misurata"
                                                                                                     },
                                                                                                     {
                                                                                                         "degree":  "3",
                                                                                                         "historical_perde":  "Segâh",
-                                                                                                        "function":  "perde caratteristica, intonazione non equabile",
+                                                                                                        "function":  "perde caratteristica; intonazione non equabile",
                                                                                                         "modern_equivalent":  "Si",
                                                                                                         "pitch_class_12tet":  11,
-                                                                                                        "exact_deviation_cents":  null
+                                                                                                        "exact_deviation_cents":  null,
+                                                                                                        "value_status":  "mappatura_comparativa_moderna_non_misurata"
                                                                                                     },
                                                                                                     {
                                                                                                         "degree":  "4",
@@ -3001,7 +3326,8 @@
                                                                                                         "function":  "quarta posizione",
                                                                                                         "modern_equivalent":  "Do",
                                                                                                         "pitch_class_12tet":  0,
-                                                                                                        "exact_deviation_cents":  null
+                                                                                                        "exact_deviation_cents":  null,
+                                                                                                        "value_status":  "mappatura_comparativa_moderna_non_misurata"
                                                                                                     },
                                                                                                     {
                                                                                                         "degree":  "5",
@@ -3009,7 +3335,8 @@
                                                                                                         "function":  "güçlü / polo melodico principale",
                                                                                                         "modern_equivalent":  "Re",
                                                                                                         "pitch_class_12tet":  2,
-                                                                                                        "exact_deviation_cents":  null
+                                                                                                        "exact_deviation_cents":  null,
+                                                                                                        "value_status":  "mappatura_comparativa_moderna_non_misurata"
                                                                                                     },
                                                                                                     {
                                                                                                         "degree":  "6",
@@ -3017,15 +3344,17 @@
                                                                                                         "function":  "sesta posizione",
                                                                                                         "modern_equivalent":  "Mi",
                                                                                                         "pitch_class_12tet":  4,
-                                                                                                        "exact_deviation_cents":  null
+                                                                                                        "exact_deviation_cents":  null,
+                                                                                                        "value_status":  "mappatura_comparativa_moderna_non_misurata"
                                                                                                     },
                                                                                                     {
                                                                                                         "degree":  "7",
                                                                                                         "historical_perde":  "Evç",
-                                                                                                        "function":  "perde acuta caratteristica, intonazione non equabile",
+                                                                                                        "function":  "perde acuta caratteristica; intonazione non equabile",
                                                                                                         "modern_equivalent":  "Fa#",
                                                                                                         "pitch_class_12tet":  6,
-                                                                                                        "exact_deviation_cents":  null
+                                                                                                        "exact_deviation_cents":  null,
+                                                                                                        "value_status":  "mappatura_comparativa_moderna_non_misurata"
                                                                                                     },
                                                                                                     {
                                                                                                         "degree":  "8",
@@ -3033,11 +3362,19 @@
                                                                                                         "function":  "ottava del Rast",
                                                                                                         "modern_equivalent":  "Sol",
                                                                                                         "pitch_class_12tet":  7,
-                                                                                                        "exact_deviation_cents":  null
+                                                                                                        "exact_deviation_cents":  null,
+                                                                                                        "value_status":  "mappatura_comparativa_moderna_non_misurata"
                                                                                                     }
                                                                                                 ],
                                                                         "calculated_intervals_cents":  [
 
+                                                                                                       ],
+                                                                        "documented_modal_functions":  [
+                                                                                                           "durak",
+                                                                                                           "güçlü",
+                                                                                                           "seyir",
+                                                                                                           "asma karar",
+                                                                                                           "formule cadenzali e sviluppo della singola composizione"
                                                                                                        ],
                                                                         "source_ids":  [
                                                                                            "SRC-ISTANBUL-HAMPARSUM-JAGER-1996",
@@ -3064,6 +3401,37 @@
                                                                                                            "8"
                                                                                                        ]
                                                                     },
+                                              "center":  {
+                                                             "label":  "Sol",
+                                                             "type":  "mappatura grafica moderna del durak Rast",
+                                                             "pitch_class":  7,
+                                                             "historical_reference":  "Rast; nessuna frequenza assoluta unica attribuita alla prassi ottomana del periodo"
+                                                         },
+                                              "approximation":  {
+                                                                    "system":  "12-TET",
+                                                                    "status":  "riduzione_tecnica_non_storica",
+                                                                    "quality":  "bassa_per_intonazione_e_paleografia; media_per_sola_disposizione_grafica",
+                                                                    "deviations_cents":  [
+
+                                                                                         ],
+                                                                    "unresolved_perdes":  [
+                                                                                              "Segâh",
+                                                                                              "Evç"
+                                                                                          ],
+                                                                    "warning":  "Sol-La-Si-Do-Re-Mi-Fa# è una griglia dell’interfaccia. Non è una trascrizione diplomatica, non conserva l’intonazione delle perdes e non rende Rast equivalente a Sol maggiore."
+                                                                },
+                                              "harmonization":  {
+                                                                    "status":  "proposta_moderna_fortemente_anacronistica",
+                                                                    "method":  "triadi generate dalla sola riduzione 12-TET",
+                                                                    "warning":  "Il sistema storico è melodico-modale; gli accordi del software non sono pratica storica documentata."
+                                                                },
+                                              "transition_reliability":  {
+                                                                             "notation_and_manuscripts":  "alta",
+                                                                             "modal_continuity":  "media-alta",
+                                                                             "historical_pitch_comparison":  "bassa",
+                                                                             "twelve_tet_transition":  "bassa",
+                                                                             "reason":  "La notazione e il corpus sono documentati; intonazione, frequenze e conversione 12-TET non sono univoche."
+                                                                         },
                                               "notation":  {
                                                                "system":  "Hamparsum",
                                                                "representation":  "segni per altezze relative o posizioni di perde con segni ritmici e modificatori",
@@ -3071,38 +3439,6 @@
                                                                "performance_limit":  "la scrittura non sostituisce il meşk e non esaurisce intonazione, ornamentazione e stile",
                                                                "interoperability_note":  "la trascrizione in notazione occidentale richiede scelte editoriali dichiarate"
                                                            },
-                                              "center":  {
-                                                             "label":  "Sol",
-                                                             "type":  "mappatura grafica moderna del durak Rast",
-                                                             "pitch_class":  7,
-                                                             "historical_reference":  "Rast; nessuna frequenza assoluta unica attribuita al corpus Hamparsum"
-                                                         },
-                                              "approximation":  {
-                                                                    "system":  "12-TET",
-                                                                    "status":  "riduzione_tecnica_non_storica",
-                                                                    "quality":  "bassa_per_intonazione_e_notazione; media_per_sola_disposizione_grafica",
-                                                                    "deviations_cents":  [
-
-                                                                                         ],
-                                                                    "unresolved_perdes":  [
-                                                                                              "Segâh",
-                                                                                              "Evç e altre distinzioni dipendenti dal makam e dalla prassi"
-                                                                                          ],
-                                                                    "warning":  "La griglia Sol-La-Si-Do-Re-Mi-Fa# non è una trascrizione diplomatica dei segni Hamparsum, non conserva le sfumature intonative e non rende Rast equivalente a Sol maggiore."
-                                                                },
-                                              "harmonization":  {
-                                                                    "status":  "proposta_moderna_fortemente_anacronistica",
-                                                                    "method":  "triadi generate dalla sola riduzione 12-TET",
-                                                                    "warning":  "Il repertorio storico è melodico-modale e monodico/eterofonico; gli accordi funzionali non sono deducibili dalla notazione Hamparsum."
-                                                                },
-                                              "transition_reliability":  {
-                                                                             "kantemir_to_hamparsum_notation":  "alta_per_cambio_del_sistema_di_scrittura; media_per_confronto_segno_per_segno",
-                                                                             "named_perde_continuity":  "media-alta",
-                                                                             "historical_pitch_comparison":  "bassa",
-                                                                             "repertory_and_manuscript_comparison":  "alta",
-                                                                             "twelve_tet_transition":  "bassa",
-                                                                             "reason":  "Le fonti documentano manoscritti, notazione, repertorio e concetti modali; non forniscono una conversione univoca di ogni segno e di ogni esecuzione in frequenze temperate."
-                                                                         },
                                               "notes_12tet":  [
                                                                   "Sol",
                                                                   "La",
@@ -3186,7 +3522,7 @@
                            "sources":  [
                                            {
                                                "source_id":  "SRC-ISTANBUL-HAMPARSUM-JAGER-1996",
-                                               "purpose":  "studio sistematico delle fonti manoscritte della musica d\u0027arte turca nel XIX secolo",
+                                               "purpose":  "studio sistematico delle fonti manoscritte della musica d’arte turca nel XIX secolo",
                                                "title":  "Türkische Kunstmusik und ihre handschriftlichen Quellen aus dem 19. Jahrhundert",
                                                "author":  "Ralf Martin Jäger",
                                                "year":  "1996",
@@ -3219,7 +3555,7 @@
                                            },
                                            {
                                                "source_id":  "SRC-ISTANBUL-HAMPARSUM-SIGNELL-1977",
-                                               "purpose":  "analisi della pratica modale, dell\u0027intonazione e del seyir nel makam turco",
+                                               "purpose":  "analisi della pratica modale, dell’intonazione e del seyir nel makam turco",
                                                "title":  "Makam: Modal Practice in Turkish Art Music",
                                                "author":  "Karl L. Signell",
                                                "year":  "1977; ristampa 1986",
@@ -3230,7 +3566,7 @@
                                            },
                                            {
                                                "source_id":  "SRC-ISTANBUL-HAMPARSUM-REINHARD-1984",
-                                               "purpose":  "inquadramento storico ed etnomusicologico della musica d\u0027arte ottomana e turca",
+                                               "purpose":  "inquadramento storico ed etnomusicologico della musica d’arte ottomana e turca",
                                                "title":  "Musik der Türkei, Band 1: Die Kunstmusik",
                                                "author":  "Kurt Reinhard e Ursula Reinhard",
                                                "year":  "1984",
@@ -3282,32 +3618,6 @@
                                                                 "SRC-PARIS-HAYNES-PITCH-2002"
                                                             ]
                                          },
-                           "documents":  [
-                                             {
-                                                 "document_id":  "DOC-PARIS-DIAPASON-1859-DATA",
-                                                 "label":  "Dati documentati del diapason normal del 1859",
-                                                 "path":  "../documenti/DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt",
-                                                 "type":  "text",
-                                                 "_exists":  true,
-                                                 "_blocked":  false,
-                                                 "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL\\documenti\\DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt",
-                                                 "_relative_path":  "07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL\\documenti\\DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt",
-                                                 "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/07_P7%20%C2%B7%201800%E2%80%931900%20%E2%80%94%20Industrializzazione%20iniz%E2%80%A6/06_Mediterraneo%20europeo%20ed%20Europa%20centro-occidentale/Tradizioni%20musicali/01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL/documenti/DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt",
-                                                 "_extension":  ".txt"
-                                             },
-                                             {
-                                                 "document_id":  "DOC-PARIS-DIAPASON-1859-METHOD",
-                                                 "label":  "Nota metodologica sul riferimento A=435 e sul 12-TET operativo",
-                                                 "path":  "../documenti/NOTA_METODOLOGICA_PARIGI_DIAPASON_1859.txt",
-                                                 "type":  "text",
-                                                 "_exists":  true,
-                                                 "_blocked":  false,
-                                                 "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL\\documenti\\NOTA_METODOLOGICA_PARIGI_DIAPASON_1859.txt",
-                                                 "_relative_path":  "07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL\\documenti\\NOTA_METODOLOGICA_PARIGI_DIAPASON_1859.txt",
-                                                 "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/07_P7%20%C2%B7%201800%E2%80%931900%20%E2%80%94%20Industrializzazione%20iniz%E2%80%A6/06_Mediterraneo%20europeo%20ed%20Europa%20centro-occidentale/Tradizioni%20musicali/01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL/documenti/NOTA_METODOLOGICA_PARIGI_DIAPASON_1859.txt",
-                                                 "_extension":  ".txt"
-                                             }
-                                         ],
                            "scales":  [
                                           {
                                               "scale_id":  "PARIS_1859_DIAPASON_NORMAL_A435_REFERENCE",
@@ -3618,32 +3928,6 @@
                                                                              "twelve_tet_transition":  "media-alta",
                                                                              "reason":  "Il riferimento A=435 è documentato; le restanti frequenze della griglia sono derivate e non attestano uno specifico temperamento per ogni pratica parigina."
                                                                          },
-                                              "documents":  [
-                                                                {
-                                                                    "document_id":  "DOC-PARIS-DIAPASON-1859-DATA",
-                                                                    "label":  "Dati documentati del diapason normal del 1859",
-                                                                    "path":  "../documenti/DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt",
-                                                                    "type":  "text",
-                                                                    "_exists":  true,
-                                                                    "_blocked":  false,
-                                                                    "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL\\documenti\\DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt",
-                                                                    "_relative_path":  "07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL\\documenti\\DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt",
-                                                                    "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/07_P7%20%C2%B7%201800%E2%80%931900%20%E2%80%94%20Industrializzazione%20iniz%E2%80%A6/06_Mediterraneo%20europeo%20ed%20Europa%20centro-occidentale/Tradizioni%20musicali/01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL/documenti/DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt",
-                                                                    "_extension":  ".txt"
-                                                                },
-                                                                {
-                                                                    "document_id":  "DOC-PARIS-DIAPASON-1859-METHOD",
-                                                                    "label":  "Nota metodologica sul riferimento A=435 e sul 12-TET operativo",
-                                                                    "path":  "../documenti/NOTA_METODOLOGICA_PARIGI_DIAPASON_1859.txt",
-                                                                    "type":  "text",
-                                                                    "_exists":  true,
-                                                                    "_blocked":  false,
-                                                                    "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL\\documenti\\NOTA_METODOLOGICA_PARIGI_DIAPASON_1859.txt",
-                                                                    "_relative_path":  "07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL\\documenti\\NOTA_METODOLOGICA_PARIGI_DIAPASON_1859.txt",
-                                                                    "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/07_P7%20%C2%B7%201800%E2%80%931900%20%E2%80%94%20Industrializzazione%20iniz%E2%80%A6/06_Mediterraneo%20europeo%20ed%20Europa%20centro-occidentale/Tradizioni%20musicali/01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL/documenti/NOTA_METODOLOGICA_PARIGI_DIAPASON_1859.txt",
-                                                                    "_extension":  ".txt"
-                                                                }
-                                                            ],
                                               "notes_12tet":  [
                                                                   "La",
                                                                   "La diesis",
@@ -3678,9 +3962,61 @@
                                                                  "SRC-PARIS-ELLIS-PITCH-1880",
                                                                  "SRC-PARIS-MENDEL-PITCH-1978",
                                                                  "SRC-PARIS-HAYNES-PITCH-2002"
-                                                             ]
+                                                             ],
+                                              "documents":  [
+                                                                {
+                                                                    "document_id":  "DOC-PARIS-DIAPASON-1859-DATA",
+                                                                    "label":  "Dati documentati del diapason normal del 1859",
+                                                                    "path":  "../documenti/DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt",
+                                                                    "type":  "text",
+                                                                    "_exists":  true,
+                                                                    "_blocked":  false,
+                                                                    "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL\\documenti\\DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt",
+                                                                    "_relative_path":  "07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL\\documenti\\DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt",
+                                                                    "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/07_P7%20%C2%B7%201800%E2%80%931900%20%E2%80%94%20Industrializzazione%20iniz%E2%80%A6/06_Mediterraneo%20europeo%20ed%20Europa%20centro-occidentale/Tradizioni%20musicali/01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL/documenti/DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt",
+                                                                    "_extension":  ".txt"
+                                                                },
+                                                                {
+                                                                    "document_id":  "DOC-PARIS-DIAPASON-1859-METHOD",
+                                                                    "label":  "Nota metodologica sul riferimento A=435 e sul 12-TET operativo",
+                                                                    "path":  "../documenti/NOTA_METODOLOGICA_PARIGI_DIAPASON_1859.txt",
+                                                                    "type":  "text",
+                                                                    "_exists":  true,
+                                                                    "_blocked":  false,
+                                                                    "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL\\documenti\\NOTA_METODOLOGICA_PARIGI_DIAPASON_1859.txt",
+                                                                    "_relative_path":  "07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL\\documenti\\NOTA_METODOLOGICA_PARIGI_DIAPASON_1859.txt",
+                                                                    "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/07_P7%20%C2%B7%201800%E2%80%931900%20%E2%80%94%20Industrializzazione%20iniz%E2%80%A6/06_Mediterraneo%20europeo%20ed%20Europa%20centro-occidentale/Tradizioni%20musicali/01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL/documenti/NOTA_METODOLOGICA_PARIGI_DIAPASON_1859.txt",
+                                                                    "_extension":  ".txt"
+                                                                }
+                                                            ]
                                           }
                                       ],
+                           "documents":  [
+                                             {
+                                                 "document_id":  "DOC-PARIS-DIAPASON-1859-DATA",
+                                                 "label":  "Dati documentati del diapason normal del 1859",
+                                                 "path":  "../documenti/DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt",
+                                                 "type":  "text",
+                                                 "_exists":  true,
+                                                 "_blocked":  false,
+                                                 "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL\\documenti\\DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt",
+                                                 "_relative_path":  "07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL\\documenti\\DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt",
+                                                 "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/07_P7%20%C2%B7%201800%E2%80%931900%20%E2%80%94%20Industrializzazione%20iniz%E2%80%A6/06_Mediterraneo%20europeo%20ed%20Europa%20centro-occidentale/Tradizioni%20musicali/01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL/documenti/DATI_DOCUMENTATI_PARIGI_DIAPASON_1859.txt",
+                                                 "_extension":  ".txt"
+                                             },
+                                             {
+                                                 "document_id":  "DOC-PARIS-DIAPASON-1859-METHOD",
+                                                 "label":  "Nota metodologica sul riferimento A=435 e sul 12-TET operativo",
+                                                 "path":  "../documenti/NOTA_METODOLOGICA_PARIGI_DIAPASON_1859.txt",
+                                                 "type":  "text",
+                                                 "_exists":  true,
+                                                 "_blocked":  false,
+                                                 "_resolved_path":  "C:\\Users\\miche\\Desktop\\Archivio_storico_epoche_citta\\07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL\\documenti\\NOTA_METODOLOGICA_PARIGI_DIAPASON_1859.txt",
+                                                 "_relative_path":  "07_P7 · 1800–1900 — Industrializzazione iniz…\\06_Mediterraneo europeo ed Europa centro-occidentale\\Tradizioni musicali\\01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL\\documenti\\NOTA_METODOLOGICA_PARIGI_DIAPASON_1859.txt",
+                                                 "_file_url":  "file:///C:/Users/miche/Desktop/Archivio_storico_epoche_citta/07_P7%20%C2%B7%201800%E2%80%931900%20%E2%80%94%20Industrializzazione%20iniz%E2%80%A6/06_Mediterraneo%20europeo%20ed%20Europa%20centro-occidentale/Tradizioni%20musicali/01_PARIS_SECOND_EMPIRE_DIAPASON_NORMAL/documenti/NOTA_METODOLOGICA_PARIGI_DIAPASON_1859.txt",
+                                                 "_extension":  ".txt"
+                                             }
+                                         ],
                            "sources":  [
                                            {
                                                "source_id":  "SRC-PARIS-DIAPASON-COMMISSION-1859",
@@ -3774,7 +4110,6 @@
                                           {
                                               "scale_id":  "ISTANBUL_RAUF_YEKTA_RAST_53_COMMA_PROFILE",
                                               "name":  "Istanbul repubblicana - profilo teorico Rast di Rauf Yekta su griglia di 53 comma",
-                                              "documentation_status":  "documentato_come_modello_teorico_con_limiti_esecutivi",
                                               "comparison_basis":  "rauf_yekta_theory_named_perdes_53_comma_normalization_and_rast_modal_functions",
                                               "documentation_scope":  {
                                                                           "documented":  [
@@ -4014,6 +4349,9 @@
                                                                              "twelve_tet_transition":  "bassa",
                                                                              "reason":  "Le fonti fissano teoria, nomi delle perdes e notazione; le misure di esecuzioni mostrano che un modello teorico non coincide automaticamente con tutta la prassi."
                                                                          },
+                                              "documentation_status":  "documentato",
+                                              "documentation_status_detail":  "documentato_come_modello_teorico_con_limiti_esecutivi",
+                                              "validation_compatibility_note":  "La catena è documentata; cent e scarti 12-TET restano calcoli moderni del modello a 53 comma e non misure esecutive.",
                                               "notes_12tet":  [
                                                                   "Sol",
                                                                   "La",
@@ -4200,7 +4538,6 @@
                                           {
                                               "scale_id":  "ISTANBUL_AEU_RAST_53_COMMA_PROFILE",
                                               "name":  "Istanbul postbellica - profilo comparativo Rast nel sistema Arel-Ezgi-Uzdilek",
-                                              "documentation_status":  "documentato_come_modello_teorico_con_limiti_esecutivi",
                                               "comparison_basis":  "arel_ezgi_uzdilek_24_unequal_pitch_notation_53_comma_grid_and_rast_modal_functions",
                                               "documentation_scope":  {
                                                                           "documented":  [
@@ -4450,6 +4787,9 @@
                                                                              "twelve_tet_transition":  "bassa",
                                                                              "reason":  "Le fonti fissano teoria, terminologia e notazione; le misure di esecuzioni mostrano che un modello teorico non coincide automaticamente con tutta la prassi."
                                                                          },
+                                              "documentation_status":  "documentato",
+                                              "documentation_status_detail":  "documentato_come_modello_teorico_con_limiti_esecutivi",
+                                              "validation_compatibility_note":  "Sono documentati scuola, notazione e modello teorico; 24 posizioni, 53 comma, cent e prassi restano concetti distinti.",
                                               "notes_12tet":  [
                                                                   "Sol",
                                                                   "La",
@@ -4645,7 +4985,6 @@
                                           {
                                               "scale_id":  "ISTANBUL_CONTEMPORARY_RAST_SCORE_AUDIO_PROFILE",
                                               "name":  "Istanbul contemporanea — profilo Rast simbolico/audio per corpora digitali",
-                                              "documentation_status":  "documentato_come_profilo_analitico_con_riferimento_teorico",
                                               "comparison_basis":  "symbtr_symbolic_score_aeu_reference_and_tomato_audio_joint_analysis",
                                               "documentation_scope":  {
                                                                           "documented":  [
@@ -4953,6 +5292,9 @@
                                                                              "twelve_tet_transition":  "bassa",
                                                                              "reason":  "Il corpus e il software documentano dati e metodi, ma ogni risultato audio richiede una registrazione, una tonica e un processo di analisi riproducibile."
                                                                          },
+                                              "documentation_status":  "documentato",
+                                              "documentation_status_detail":  "documentato_come_profilo_analitico_con_riferimento_teorico",
+                                              "validation_compatibility_note":  "Sono documentati corpus, strumenti, livelli simbolici e metodi; nessuna misura audio è dichiarata senza registrazione.",
                                               "notes_12tet":  [
                                                                   "Sol",
                                                                   "La",
@@ -5133,10 +5475,10 @@
 
                ],
     "stats":  {
-                  "files_found":  14,
-                  "containers":  14,
-                  "scales":  14,
-                  "documents":  56,
+                  "files_found":  110,
+                  "containers":  15,
+                  "scales":  15,
+                  "documents":  62,
                   "missing_documents":  0,
                   "errors":  0
               }

@@ -1,87 +1,69 @@
-﻿ALESSANDRIA — DATI DOCUMENTATI DELL'ARMONICA TOLEMAICA
-======================================================
+﻿ALESSANDRIA ROMANA — TOLOMEO E DIATONICO INTENSO
+=================================================
 
-CENTRO
-------
-Alessandria mediterranea, Egitto romano.
+AUTORE E CONTESTO
+-----------------
+Claudio Tolomeo svolse la propria attività scientifica ad Alessandria
+nel II secolo d.C. Il profilo riguarda gli Harmonics e non pretende di
+rappresentare tutta la musica della città.
 
-AUTORE
-------
-Claudio Tolomeo.
-Circa 100-170 d.C.
+TETRACORDO DIATONICO INTENSO
+----------------------------
+Rapporti dei passi:
+- 9:8, tono maggiore;
+- 10:9, tono minore;
+- 16:15, semitono diatonico.
 
-OPERA
------
-Harmonics, tre libri.
-
-CONTESTO
---------
-Le osservazioni e l'attivita scientifica note di Tolomeo sono associate
-ad Alessandria.
-
-Il record collega alla citta il teorico e il suo ambiente scientifico.
-Non attribuisce il sistema a tutta la popolazione urbana.
-
-NUCLEO SELEZIONATO
-------------------
-Genere:
-diatonico.
-
-Forma:
-intensa / syntonon.
-
-Rapporti del tetracordo:
+SEQUENZA RELATIVA D'OTTAVA
+--------------------------
+1:1
 9:8
-10:9
-16:15
+5:4
+4:3
+3:2
+5:3
+15:8
+2:1
 
-SCALA RELATIVA
+CENT CALCOLATI
 --------------
-Grado 1: 1:1     = 0,000 cent
-Grado 2: 9:8     = 203,910 cent
-Grado 3: 5:4     = 386,314 cent
-Grado 4: 4:3     = 498,045 cent
-Grado 5: 3:2     = 701,955 cent
-Grado 6: 5:3     = 884,359 cent
-Grado 7: 15:8    = 1088,269 cent
-Grado 8: 2:1     = 1200,000 cent
+0,000
+203,910
+386,314
+498,045
+701,955
+884,359
+1088,269
+1200,000
 
-PASSI
------
-9:8     = 203,910 cent
-10:9    = 182,404 cent
-16:15   = 111,731 cent
-9:8     = 203,910 cent
-10:9    = 182,404 cent
-9:8     = 203,910 cent
-16:15   = 111,731 cent
+PASSI CALCOLATI
+---------------
+203,910
+182,404
+111,731
+203,910
+182,404
+203,910
+111,731
 
-MAPPATURA 12-TET
-----------------
-Do, Re, Mi, Fa, Sol, La, Si.
+RAPPRESENTAZIONE 12-TET
+-----------------------
+Do - Re - Mi - Fa - Sol - La - Si.
 
-Scarti rispetto al 12-TET:
-
-Do    0,000 cent
-Re   +3,910 cent
-Mi  -13,686 cent
-Fa   -1,955 cent
-Sol  +1,955 cent
-La  -15,641 cent
-Si  -11,731 cent
-Do    0,000 cent
+SCARTI IN CENT
+--------------
+0,000
++3,910
+-13,686
+-1,955
++1,955
+-15,641
+-11,731
+0,000
 
 LIMITI
 ------
-- Do e il rapporto relativo 1:1, non una frequenza assoluta;
-- il 12-TET cancella la differenza fra i due toni;
-- il record non rappresenta tutta la musica di Alessandria;
-- gli accordi generati dal software sono moderni.
-
-FONTI
------
-Claudio Tolomeo, Harmonics, traduzione di Jon Solomon, 2000.
-Andrew Barker, Scientific Method in Ptolemy's Harmonics, 2000.
-Andrew Barker, Greek Musical Writings II, 1989.
-Thomas J. Mathiesen, Apollo's Lyre, 1999.
-Gerald J. Toomer, Ptolemy, 1975.
+I cent sono derivati matematicamente dai rapporti. Non sono misure di
+un'esecuzione antica. Do è il primo grado relativo dell'interfaccia e
+non una frequenza attribuita a Tolomeo. Gli accordi generati dal software
+non costituiscono armonia storica documentata.

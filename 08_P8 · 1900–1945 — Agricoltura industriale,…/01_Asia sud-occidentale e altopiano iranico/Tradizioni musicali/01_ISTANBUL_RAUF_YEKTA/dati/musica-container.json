@@ -30,7 +30,6 @@
                    {
                        "scale_id":  "ISTANBUL_RAUF_YEKTA_RAST_53_COMMA_PROFILE",
                        "name":  "Istanbul repubblicana - profilo teorico Rast di Rauf Yekta su griglia di 53 comma",
-                       "documentation_status":  "documentato_come_modello_teorico_con_limiti_esecutivi",
                        "comparison_basis":  "rauf_yekta_theory_named_perdes_53_comma_normalization_and_rast_modal_functions",
                        "documentation_scope":  {
                                                    "documented":  [
@@ -309,7 +308,10 @@
                                              "path":  "../documenti/NOTA_METODOLOGICA_RAUF_YEKTA.txt",
                                              "type":  "text"
                                          }
-                                     ]
+                                     ],
+                       "documentation_status":  "documentato",
+                       "documentation_status_detail":  "documentato_come_modello_teorico_con_limiti_esecutivi",
+                       "validation_compatibility_note":  "La catena è documentata; cent e scarti 12-TET restano calcoli moderni del modello a 53 comma e non misure esecutive."
                    }
                ],
     "sources":  [

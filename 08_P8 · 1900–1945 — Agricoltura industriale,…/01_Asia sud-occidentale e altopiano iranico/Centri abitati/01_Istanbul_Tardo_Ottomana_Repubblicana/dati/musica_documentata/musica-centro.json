@@ -34,8 +34,8 @@
     "review":  {
                    "status":  "pubblicato_con_modello_teorico_e_scarti_in_cent",
                    "reviewer":  "Michele Scattolin - verifica finale richiesta",
-                   "last_reviewed":  "2026-07-03T11:57:05.4711969+02:00",
-                   "next_action":  "Controllare che l\u0027interfaccia distingua comma teorico, cent calcolato, misura esecutiva, funzione modale e riduzione 12-TET."
+                   "next_action":  "Controllare che l\u0027interfaccia distingua comma teorico, cent calcolato, misura esecutiva, funzione modale e riduzione 12-TET.",
+                   "last_reviewed":  "2026-07-03T15:32:16.1260444+02:00"
                },
     "extensions":  {
                        "storage_model":  "center_local_documented_package",
@@ -45,7 +45,9 @@
                        "theoretical_grid":  "53 comma",
                        "selected_makam":  "Rast",
                        "notation":  "pentagramma occidentale modificato",
-                       "continuity_from_profile":  "P7-ASW-ISTANBUL-HAMPARSUM-RAST-DOCUMENTED"
+                       "continuity_from_profile":  "P7-ASW-ISTANBUL-HAMPARSUM-RAST-DOCUMENTED",
+                       "incremental_engine_required":  "VALIDA_CASO_LOCALE.ps1 v1",
+                       "block_number":  22
                    },
     "musical_evidence":  [
                              {
@@ -116,14 +118,16 @@
     "scale_links":  [
                         {
                             "scale_id":  "ISTANBUL_RAUF_YEKTA_RAST_53_COMMA_PROFILE",
-                            "relation_status":  "documentato_con_calcolo_derivato",
                             "relation_note":  "Le posizioni in comma appartengono al modello teorico; cent e scarti 12-TET sono calcoli moderni esplicitamente separati dalla prassi.",
                             "source_ids":  [
                                                "SRC-ISTANBUL-RAUF-YEKTA-LA-MUSIQUE-TURQUE-1922",
                                                "SRC-ISTANBUL-RAUF-YEKTA-AYANGIL-2008",
                                                "SRC-ISTANBUL-RAUF-YEKTA-SIGNELL-1977",
                                                "SRC-ISTANBUL-RAUF-YEKTA-BOZKURT-2009"
-                                           ]
+                                           ],
+                            "relation_status":  "documentato",
+                            "relation_status_detail":  "documentato_con_calcolo_derivato",
+                            "validation_compatibility_note":  "Sono documentati modello, perdes e posizioni in comma; cent e confronto 12-TET sono derivazioni moderne dichiarate."
                         }
                     ],
     "documents":  [

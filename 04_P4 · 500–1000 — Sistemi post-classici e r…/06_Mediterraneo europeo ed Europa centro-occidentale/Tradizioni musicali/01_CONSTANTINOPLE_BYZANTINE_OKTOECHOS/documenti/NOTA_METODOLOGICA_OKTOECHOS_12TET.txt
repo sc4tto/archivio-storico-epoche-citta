@@ -1,0 +1,42 @@
+﻿NOTA METODOLOGICA — OCTOECHOS E 12-TET
+===========================================
+
+PROBLEMA
+--------
+Il motore richiede classi di altezza per visualizzare confronti e
+transizioni. L'Octoechos, invece, non è riducibile a una sola scala
+intonata valida per ogni repertorio.
+
+SOLUZIONE OPERATIVA
+-------------------
+Il contenitore usa la collezione diatonica neutra:
+
+0, 2, 4, 5, 7, 9, 11
+
+ovvero:
+
+Do, Re, Mi, Fa, Sol, La, Si.
+
+STATO
+-----
+SINTESI OPERATIVA NON STORICA.
+
+USO CONSENTITO
+--------------
+- confronto del carattere eptatonico generale;
+- visualizzazione tecnica;
+- calcolo di somiglianze astratte dichiarate come moderne.
+
+USO VIETATO
+------------
+- identificare Do come finalis universale;
+- trasformare gli otto echoi in Do maggiore;
+- assegnare rapporti o cent medievali non documentati;
+- dedurre una performance da una classificazione modale;
+- generare accordi presentandoli come pratica bizantina.
+
+NOTAZIONE
+---------
+Le notazioni bizantine sono storicamente stratificate. Una trascrizione
+moderna richiede decisioni interpretative e non determina da sola tutti
+gli aspetti di ritmo, intonazione e formula.
