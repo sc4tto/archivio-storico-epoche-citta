@@ -153,7 +153,7 @@ def make_svg(tree: dict[str, Any], statuses: dict[str, dict[str, Any]]) -> str:
         parts.append(
             f'<path class="edge" data-source="{esc(tree["id"])}" data-target="{esc(category["id"])}" '
             f'data-status="{esc(status)}" d="M {sx:.3f} {sy:.3f} Q {cx:.3f} {cy:.3f} {tx:.3f} {ty:.3f}" '
-            f'fill="none" stroke="{esc(info["color"])}" stroke-width="2.2" opacity="{info.get("opacity",1)}"{dash}>'
+            f'fill="none" stroke="{esc(info["color"])}" stroke-width="1.7" opacity="{info.get("opacity",1)}"{dash}>'
             f'<title>{esc(tree["label"])} → {esc(category["label"])}</title></path>'
         )
         for leaf in category.get("children", []):
@@ -164,7 +164,7 @@ def make_svg(tree: dict[str, Any], statuses: dict[str, dict[str, Any]]) -> str:
             parts.append(
                 f'<path class="edge" data-source="{esc(category["id"])}" data-target="{esc(leaf["id"])}" '
                 f'data-status="{esc(leaf_status)}" d="M {tx:.3f} {ty:.3f} Q {cx:.3f} {cy:.3f} {lx:.3f} {ly:.3f}" '
-                f'fill="none" stroke="{esc(leaf_info["color"])}" stroke-width="2.2" opacity="{leaf_info.get("opacity",1)}"{leaf_dash}>'
+                f'fill="none" stroke="{esc(leaf_info["color"])}" stroke-width="1.7" opacity="{leaf_info.get("opacity",1)}"{leaf_dash}>'
                 f'<title>{esc(category["label"])} → {esc(leaf["label"])}</title></path>'
             )
 
@@ -172,7 +172,7 @@ def make_svg(tree: dict[str, Any], statuses: dict[str, dict[str, Any]]) -> str:
     first_line, second_line = split_center_label(tree.get("label", "Conoscenze"))
     parts.append(
         f'<g class="node" data-id="{esc(tree["id"])}" data-status="{esc(root_status)}">'
-        f'<circle cx="{cx}" cy="{cy}" r="82" fill="#2e493f" filter="url(#shadow)"/>'
+        f'<circle cx="{cx}" cy="{cy}" r="82" fill="#2e493f"/>'
         f'<text x="{cx}" y="{cy-8}" text-anchor="middle" dominant-baseline="middle" font-size="16" font-weight="700" fill="white">{esc(first_line)}</text>'
         f'<text x="{cx}" y="{cy+16}" text-anchor="middle" dominant-baseline="middle" font-size="16" font-weight="700" fill="white">{esc(second_line)}</text></g>'
     )
@@ -183,7 +183,7 @@ def make_svg(tree: dict[str, Any], statuses: dict[str, dict[str, Any]]) -> str:
         info = status_info(statuses, status)
         parts.append(
             f'<g class="node" data-id="{esc(category["id"])}" data-status="{esc(status)}"><title>{esc(category["label"])}</title>'
-            f'<circle cx="{x:.3f}" cy="{y:.3f}" r="55" fill="#f2eadc" stroke="{esc(info["color"])}" stroke-width="3" filter="url(#shadow)"/>'
+            f'<circle cx="{x:.3f}" cy="{y:.3f}" r="55" fill="#f2eadc" stroke="{esc(info["color"])}" stroke-width="2.1"/>'
             f'{category_text(x, y, category["label"])}</g>'
         )
 
@@ -195,7 +195,7 @@ def make_svg(tree: dict[str, Any], statuses: dict[str, dict[str, Any]]) -> str:
         dx = 12 if anchor == "start" else -12
         parts.append(
             f'<g class="node" data-id="{esc(leaf["id"])}" data-status="{esc(status)}"><title>{esc(leaf["label"])}</title>'
-            f'<circle cx="{x:.3f}" cy="{y:.3f}" r="9" fill="white" stroke="{esc(info["color"])}" stroke-width="3"/>'
+            f'<circle cx="{x:.3f}" cy="{y:.3f}" r="9" fill="white" stroke="{esc(info["color"])}" stroke-width="2.1"/>'
             f'<text x="{x+dx:.3f}" y="{y:.3f}" text-anchor="{anchor}" dominant-baseline="middle" font-size="12" font-weight="600" fill="#1f2933">{esc(leaf["label"])}</text></g>'
         )
     parts.append("</svg>")
