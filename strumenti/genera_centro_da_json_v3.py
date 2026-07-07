@@ -32,7 +32,7 @@ def textlines(x,y,text,maxc=27,fs=12,weight=600,fill='var(--ink)',maxl=3):
     lines=wrap(text,maxc,maxl);lh=fs+4;start=y-(len(lines)-1)*lh/2
     ts=''.join(f'<tspan x="{x:.1f}" y="{start+i*lh:.1f}">{esc(t)}</tspan>' for i,t in enumerate(lines))
     return f'<text text-anchor="middle" dominant-baseline="middle" font-size="{fs}" font-weight="{weight}" fill="{fill}">{ts}</text>'
-def defs():return '<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="context-stroke"/></marker><filter id="shadow"><feDropShadow dx="0" dy="2" stdDeviation="2" flood-opacity=".18"/></filter></defs>'
+def defs():return '<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.4" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M 1 1 L 9 5 L 1 9 z" fill="context-stroke"/></marker><filter id="shadow"><feDropShadow dx="0" dy="2" stdDeviation="2" flood-opacity=".18"/></filter></defs>'
 def legend(sts):
     out=[]
     for k in ['documentato','sintesi','inferito','non_documentato']:
@@ -62,49 +62,71 @@ def layered(data,sts,titles,height):
         if i in xs:p.append(f'<text x="{xs[i]:.1f}" y="42" text-anchor="middle" font-size="16" font-weight="700" fill="var(--forest)">{esc(t)}</text>')
     for e in edges:
         sx,sy=pos[e['source']];tx,ty=pos[e['target']];s=stmap(sts,e['status']);x1=sx+nw/2;x2=tx-nw/2;mid=(x1+x2)/2;dash=f' stroke-dasharray="{s["dash"]}"' if s['dash'] else ''
-        p.append(f'<path class="edge" data-source="{esc(e["source"])}" data-target="{esc(e["target"])}" data-status="{esc(e["status"])}" d="M {x1:.1f} {sy:.1f} C {mid:.1f} {sy:.1f}, {mid:.1f} {ty:.1f}, {x2:.1f} {ty:.1f}" fill="none" stroke="{s["color"]}" stroke-width="2.3" opacity="{s["opacity"]}"{dash} marker-end="url(#arrow)"><title>{esc(e.get("label",""))} — {esc(s["label"])}</title></path>')
+        p.append(f'<path class="edge" data-source="{esc(e["source"])}" data-target="{esc(e["target"])}" data-status="{esc(e["status"])}" d="M {x1:.1f} {sy:.1f} C {mid:.1f} {sy:.1f}, {mid:.1f} {ty:.1f}, {x2:.1f} {ty:.1f}" fill="none" stroke="{s["color"]}" stroke-width="1.8" opacity="{s["opacity"]}"{dash} marker-end="url(#arrow)"><title>{esc(e.get("label",""))} — {esc(s["label"])}</title></path>')
     for n in nodes:
         x,y=pos[n['id']];s=stmap(sts,n['status'])
-        p.append(f'<g class="node" data-id="{esc(n["id"])}" data-status="{esc(n["status"])}"><title>{esc(n["label"])} — {esc(s["label"])}</title><rect x="{x-nw/2:.1f}" y="{y-nh/2:.1f}" width="{nw}" height="{nh}" rx="12" fill="var(--surface)" stroke="{s["color"]}" stroke-width="2" filter="url(#shadow)"/>{textlines(x,y,n["label"])}</g>')
+        p.append(f'<g class="node" data-id="{esc(n["id"])}" data-status="{esc(n["status"])}"><title>{esc(n["label"])} — {esc(s["label"])}</title><rect x="{x-nw/2:.1f}" y="{y-nh/2:.1f}" width="{nw}" height="{nh}" rx="4" fill="var(--surface)" stroke="{s["color"]}" stroke-width="1.45"/>{textlines(x,y,n["label"])}</g>')
     p.append('</svg>');return ''.join(p)
 
 def provenance(data,sts):
     places=data['places'];flows=data['flows'];local=[p for p in places if p.get('kind')!='lungadistanza'];distant=[p for p in places if p.get('kind')=='lungadistanza'];W,H=1500,850;px0,py0,pw,ph=70,130,1090,590
     lats=[float(p['lat']) for p in local];lons=[float(p['lon']) for p in local];latpad=max(.08,(max(lats)-min(lats))*.18);lonpad=max(.12,(max(lons)-min(lons))*.12);latmin,latmax=min(lats)-latpad,max(lats)+latpad;lonmin,lonmax=min(lons)-lonpad,max(lons)+lonpad
     def proj(p):return (px0+(float(p['lon'])-lonmin)/(lonmax-lonmin)*pw,py0+(latmax-float(p['lat']))/(latmax-latmin)*ph)
-    pos={p['id']:proj(p) for p in local};p=[f'<svg viewBox="0 0 {W} {H}" role="img">',defs(),f'<rect x="{px0}" y="{py0}" width="{pw}" height="{ph}" rx="18" fill="var(--surface)" stroke="var(--line)"/>']
+    pos={p['id']:proj(p) for p in local};p=[f'<svg viewBox="0 0 {W} {H}" role="img">',defs(),f'<rect x="{px0}" y="{py0}" width="{pw}" height="{ph}" rx="4" fill="var(--surface)" stroke="var(--line)"/>']
     for i in range(1,5):
         x=px0+i*pw/5;lon=lonmin+i*(lonmax-lonmin)/5;p+= [f'<line x1="{x:.1f}" y1="{py0}" x2="{x:.1f}" y2="{py0+ph}" stroke="var(--line)"/>',f'<text x="{x:.1f}" y="{py0+ph+22}" text-anchor="middle" font-size="11" fill="var(--ink)">{abs(lon):.2f}°{'E' if lon >= 0 else 'W'}</text>']
     for i in range(1,4):
         y=py0+i*ph/4;lat=latmax-i*(latmax-latmin)/4;p += [f'<line x1="{px0}" y1="{y:.1f}" x2="{px0+pw}" y2="{y:.1f}" stroke="var(--line)"/>',f'<text x="{px0-12}" y="{y:.1f}" text-anchor="end" dominant-baseline="middle" font-size="11" fill="var(--ink)">{lat:.2f}°N</text>']
-    p += ['<text x="615" y="88" text-anchor="middle" font-size="18" font-weight="700" fill="var(--forest)">Territori di approvvigionamento — coordinate moderne indicative</text>','<rect x="1200" y="92" width="270" height="195" rx="16" fill="var(--paper)" stroke="var(--line)"/>','<text x="1335" y="116" text-anchor="middle" font-size="13" font-weight="700" fill="var(--ink)">Connessioni a lunga distanza</text>']
+    p += ['<text x="615" y="88" text-anchor="middle" font-size="18" font-weight="700" fill="var(--forest)">Territori di approvvigionamento — coordinate moderne indicative</text>','<rect x="1200" y="92" width="270" height="195" rx="4" fill="var(--paper)" stroke="var(--line)"/>','<text x="1335" y="116" text-anchor="middle" font-size="13" font-weight="700" fill="var(--ink)">Connessioni a lunga distanza</text>']
     dpos={}
     for i,q in enumerate(distant):
-        x,y=1335,160+i*74;dpos[q['id']]=(x,y);s=stmap(sts,q['status']);p.append(f'<g class="node" data-id="{esc(q["id"])}" data-status="{esc(q["status"])}"><circle cx="{x}" cy="{y}" r="9" fill="#fff" stroke="{s["color"]}" stroke-width="3"/>{textlines(x,y+31,q["label"],30,11,600,"var(--ink)",3)}</g>')
+        x,y=1335,160+i*74;dpos[q['id']]=(x,y);s=stmap(sts,q['status']);p.append(f'<g class="node" data-id="{esc(q["id"])}" data-status="{esc(q["status"])}"><circle cx="{x}" cy="{y}" r="9" fill="#fff" stroke="{s["color"]}" stroke-width="2.1"/>{textlines(x,y+31,q["label"],30,11,600,"var(--ink)",3)}</g>')
     apos={**pos,**dpos}
     for f in flows:
         if f['source'] not in apos or f['target'] not in apos:continue
         sx,sy=apos[f['source']];tx,ty=apos[f['target']];s=stmap(sts,f['status']);dash=f' stroke-dasharray="{s["dash"]}"' if s['dash'] else ''
         d=f'M {sx-12:.1f} {sy:.1f} C 1165 {sy:.1f}, 1145 {ty:.1f}, {tx:.1f} {ty:.1f}' if f['source'] in dpos else f'M {sx:.1f} {sy:.1f} Q {(sx+tx)/2:.1f} {min(sy,ty)-55:.1f} {tx:.1f} {ty:.1f}'
-        p.append(f'<path class="edge" data-source="{esc(f["source"])}" data-target="{esc(f["target"])}" data-status="{esc(f["status"])}" d="{d}" fill="none" stroke="{s["color"]}" stroke-width="3" opacity="{s["opacity"]}"{dash} marker-end="url(#arrow)"><title>{esc(f.get("label",""))}; alimenti: {esc(f.get("food",""))}</title></path>')
+        p.append(f'<path class="edge" data-source="{esc(f["source"])}" data-target="{esc(f["target"])}" data-status="{esc(f["status"])}" d="{d}" fill="none" stroke="{s["color"]}" stroke-width="2.1" opacity="{s["opacity"]}"{dash} marker-end="url(#arrow)"><title>{esc(f.get("label",""))}; alimenti: {esc(f.get("food",""))}</title></path>')
     for q in local:
         x,y=pos[q['id']];s=stmap(sts,q['status']);r=11 if q.get('kind')=='centro' else 8;fill=s['color'] if q.get('kind')=='centro' else 'var(--surface)'
-        p.append(f'<g class="node" data-id="{esc(q["id"])}" data-status="{esc(q["status"])}"><title>{esc(q["label"])} — {esc(s["label"])}</title><circle cx="{x:.1f}" cy="{y:.1f}" r="{r}" fill="{fill}" stroke="{s["color"]}" stroke-width="3"/><text x="{x+float(q.get("dx",0)):.1f}" y="{y+float(q.get("dy",24)):.1f}" text-anchor="{esc(q.get("anchor","middle"))}" font-size="12" font-weight="600" fill="var(--ink)">{esc(q["label"])}</text></g>')
-    p.append('</svg>');return ''.join(p)
+        p.append(f'<g class="node" data-id="{esc(q["id"])}" data-status="{esc(q["status"])}"><title>{esc(q["label"])} — {esc(s["label"])}</title><circle cx="{x:.1f}" cy="{y:.1f}" r="{r}" fill="{fill}" stroke="{s["color"]}" stroke-width="2.1"/><text x="{x+float(q.get("dx",0)):.1f}" y="{y+float(q.get("dy",24)):.1f}" text-anchor="{esc(q.get("anchor","middle"))}" font-size="12" font-weight="600" fill="var(--ink)">{esc(q["label"])}</text></g>')
+    p.append('</svg>')
+    svg=''.join(p)
+    map_places=[{k:q.get(k) for k in ('id','label','lat','lon','kind','status')} for q in places]
+    map_flows=[{k:f.get(k) for k in ('source','target','status','label','food')} for f in flows]
+    return '<div class="leaflet-provenance-map" data-places="'+esc(json.dumps(map_places,ensure_ascii=False))+'" data-flows="'+esc(json.dumps(map_flows,ensure_ascii=False))+'"></div><div class="provenance-svg-fallback">'+svg+'</div>'
 
 def timeline(data,sts):
     phases=data['phases'];items=data['items'];lanes=[]
     for i in items:
         if i['lane'] not in lanes:lanes.append(i['lane'])
-    W=1500;H=max(760,205+len(lanes)*88);left,right,top=245,60,145;pw=(W-left-right)/len(phases);lh=(H-top-45)/len(lanes);p=[f'<svg viewBox="0 0 {W} {H}" role="img">',defs()]
-    for i,phase in enumerate(phases):
-        x=left+i*pw;fill='var(--surface)' if i%2==0 else 'var(--paper)';p += [f'<rect x="{x:.1f}" y="{top}" width="{pw:.1f}" height="{H-top-35}" fill="{fill}" stroke="var(--line)"/>',f'<text x="{x+pw/2:.1f}" y="76" text-anchor="middle" font-size="18" font-weight="700" fill="var(--forest)">{esc(phase)}</text>']
-    for i,lane in enumerate(lanes):
-        cy=top+(i+.5)*lh;p += [f'<text x="{left-18}" y="{cy:.1f}" text-anchor="end" dominant-baseline="middle" font-size="13" font-weight="700" fill="var(--muted)">{esc(lane)}</text>',f'<line x1="{left}" y1="{top+(i+1)*lh:.1f}" x2="{W-right}" y2="{top+(i+1)*lh:.1f}" stroke="var(--line)"/>']
+    W=1500;left,right,top=245,60,145;pw=(W-left-right)/len(phases);base_lh=96
+    lane_items={lane:[] for lane in lanes}
     for it in items:
-        li=lanes.index(it['lane']);cy=top+(li+.5)*lh;x1=left+int(it['start'])*pw+18;x2=left+(int(it['end'])+1)*pw-18;hh=min(57,lh-18);s=stmap(sts,it['status'])
-        p.append(f'<g class="node" data-id="{esc(it["id"])}" data-status="{esc(it["status"])}"><title>{esc(it["label"])} — {esc(s["label"])}</title><rect x="{x1:.1f}" y="{cy-hh/2:.1f}" width="{x2-x1:.1f}" height="{hh:.1f}" rx="11" fill="#fff" stroke="{s["color"]}" stroke-width="2" filter="url(#shadow)"/>{textlines((x1+x2)/2,cy,it["label"],max(22,int((x2-x1)/8)),12)}</g>')
+        x1=left+int(it['start'])*pw+18;x2=left+(int(it['end'])+1)*pw-18
+        lane_items[it['lane']].append((it,x1,x2))
+    lane_tracks={};lane_heights={}
+    for lane,entries in lane_items.items():
+        tracks=[];assigned=[]
+        for it,x1,x2 in sorted(entries,key=lambda e:(e[1],e[2])):
+            track=0
+            while track<len(tracks) and x1<tracks[track]+14:track+=1
+            if track==len(tracks):tracks.append(x2)
+            else:tracks[track]=x2
+            assigned.append((it,x1,x2,track))
+        lane_tracks[lane]=assigned;lane_heights[lane]=base_lh+max(0,len(tracks)-1)*34
+    H=max(760,top+sum(lane_heights.values())+55);p=[f'<svg viewBox="0 0 {W} {H}" role="img">',defs()]
+    for i,phase in enumerate(phases):
+        x=left+i*pw;fill='var(--surface)' if i%2==0 else 'var(--surface-alt)';p += [f'<rect x="{x:.1f}" y="{top}" width="{pw:.1f}" height="{H-top-35}" fill="{fill}" stroke="var(--line)"/>',f'<text x="{x+pw/2:.1f}" y="76" text-anchor="middle" font-size="18" font-weight="700" fill="var(--forest)">{esc(phase)}</text>']
+    lane_top=top
+    for lane in lanes:
+        lh=lane_heights[lane];cy=lane_top+lh/2;p += [f'<text x="{left-18}" y="{cy:.1f}" text-anchor="end" dominant-baseline="middle" font-size="13" font-weight="700" fill="var(--muted)">{esc(lane)}</text>',f'<line x1="{left}" y1="{lane_top+lh:.1f}" x2="{W-right}" y2="{lane_top+lh:.1f}" stroke="var(--line)"/>']
+        for it,x1,x2,track in lane_tracks[lane]:
+            hh=min(48,lh-22);offset=(track-(max([a[3] for a in lane_tracks[lane]] or [0])/2))*34;y=cy+offset;s=stmap(sts,it['status'])
+            p.append(f'<g class="node" data-id="{esc(it["id"])}" data-status="{esc(it["status"])}"><title>{esc(it["label"])} &#8212; {esc(s["label"])}</title><rect x="{x1:.1f}" y="{y-hh/2:.1f}" width="{x2-x1:.1f}" height="{hh:.1f}" rx="4" fill="var(--surface)" stroke="{s["color"]}" stroke-width="1.45"/>{textlines((x1+x2)/2,y,it["label"],max(22,int((x2-x1)/8)),12)}</g>')
+        lane_top+=lh
     p.append('</svg>');return ''.join(p)
+
 
 def knowledge(data,sts):
     W,H=1500,1100;cx,cy=W/2,H/2;cats=data.get('children',[]);r1,r2=210,410
@@ -126,13 +148,13 @@ def knowledge(data,sts):
     walk(data);by={n['id']:n for n in nodes};p=[f'<svg class="knowledge-radial" viewBox="0 0 {W} {H}" role="img" style="font-family:Georgia,\'Times New Roman\',serif">',defs()]
     for a,b in edges:
         sx,sy=pos[a];tx,ty=pos[b];s=stmap(sts,by[b]['status']);dash=f' stroke-dasharray="{s["dash"]}"' if s['dash'] else ''
-        p.append(f'<path class="edge" data-source="{esc(a)}" data-target="{esc(b)}" data-status="{esc(by[b]["status"])}" d="M {sx:.1f} {sy:.1f} Q {cx:.1f} {cy:.1f} {tx:.1f} {ty:.1f}" fill="none" stroke="{s["color"]}" stroke-width="2.2" opacity="{s["opacity"]}"{dash}><title>{esc(by[a]["label"])} → {esc(by[b]["label"])}</title></path>')
-    root=nodes[0];s=stmap(sts,root['status']);p.append(f'<g class="node" data-id="{esc(root["id"])}" data-status="{esc(root["status"])}"><circle cx="{cx}" cy="{cy}" r="82" fill="var(--forest)" stroke="{s["color"]}" stroke-width="2" filter="url(#shadow)"/>{textlines(cx,cy,root["label"],22,16,700,"#fff",3)}</g>')
+        p.append(f'<path class="edge" data-source="{esc(a)}" data-target="{esc(b)}" data-status="{esc(by[b]["status"])}" d="M {sx:.1f} {sy:.1f} Q {cx:.1f} {cy:.1f} {tx:.1f} {ty:.1f}" fill="none" stroke="{s["color"]}" stroke-width="1.7" opacity="{s["opacity"]}"{dash}><title>{esc(by[a]["label"])} → {esc(by[b]["label"])}</title></path>')
+    root=nodes[0];s=stmap(sts,root['status']);p.append(f'<g class="node" data-id="{esc(root["id"])}" data-status="{esc(root["status"])}"><circle cx="{cx}" cy="{cy}" r="82" fill="var(--forest)" stroke="{s["color"]}" stroke-width="1.45"/>{textlines(cx,cy,root["label"],22,16,700,"#fff",3)}</g>')
     for c in cats:
-        x,y=pos[c['id']];s=stmap(sts,c['status']);p.append(f'<g class="node" data-id="{esc(c["id"])}" data-status="{esc(c["status"])}"><title>{esc(c["label"])} — {esc(s["label"])}</title><circle cx="{x:.1f}" cy="{y:.1f}" r="55" fill="var(--paper)" stroke="{s["color"]}" stroke-width="3" filter="url(#shadow)"/>{textlines(x,y,c["label"],19,12,700,"var(--ink)",3)}</g>')
+        x,y=pos[c['id']];s=stmap(sts,c['status']);p.append(f'<g class="node" data-id="{esc(c["id"])}" data-status="{esc(c["status"])}"><title>{esc(c["label"])} — {esc(s["label"])}</title><circle cx="{x:.1f}" cy="{y:.1f}" r="55" fill="var(--paper)" stroke="{s["color"]}" stroke-width="2.1"/>{textlines(x,y,c["label"],19,12,700,"var(--ink)",3)}</g>')
     for c,ch in leaves:
         x,y=pos[ch['id']];s=stmap(sts,ch['status']);anchor='start' if x>=cx else 'end';dx=14 if anchor=='start' else -14
-        p.append(f'<g class="node" data-id="{esc(ch["id"])}" data-status="{esc(ch["status"])}"><title>{esc(ch["label"])} — {esc(s["label"])}</title><circle cx="{x:.1f}" cy="{y:.1f}" r="9" fill="#fff" stroke="{s["color"]}" stroke-width="3"/><text x="{x+dx:.1f}" y="{y:.1f}" text-anchor="{anchor}" dominant-baseline="middle" font-size="12" font-weight="600" fill="var(--ink)">{esc(ch["label"])}</text></g>')
+        p.append(f'<g class="node" data-id="{esc(ch["id"])}" data-status="{esc(ch["status"])}"><title>{esc(ch["label"])} — {esc(s["label"])}</title><circle cx="{x:.1f}" cy="{y:.1f}" r="9" fill="#fff" stroke="{s["color"]}" stroke-width="2.1"/><text x="{x+dx:.1f}" y="{y:.1f}" text-anchor="{anchor}" dominant-baseline="middle" font-size="12" font-weight="600" fill="var(--ink)">{esc(ch["label"])}</text></g>')
     p.append('</svg>');return ''.join(p)
 
 def claims_table(rows,sts):
@@ -155,8 +177,66 @@ def generate(data_dir:Path,out:Path,root:Path):
     build=load(data_dir/FILES['building']);b=intro('Perché un grafo di processo','La tecnica costruttiva viene scomposta in quattro livelli: <strong>materia prima → operazione → componente → struttura</strong>.','Il modello distingue materiali, lavorazioni, componenti edilizi e risultati architettonici.',sts)+f'<div class="card"><h2>Catene costruttive</h2>{controls()}<div class="graph-wrap">{layered(build,sts,["Materia prima","Operazione tecnica","Componente edilizio","Struttura / risultato"],820)}</div></div>';p=docs/'04_costruzione.html';p.write_text(shell(f'{display} — Tecniche costruttive','Grafo di processo dai materiali alle strutture.','04_costruzione.html',cssd,jsd,b),encoding='utf-8');made.append(p)
     know=load(data_dir/FILES['knowledge']);b=intro('Perché un albero radiale','Le conoscenze sono organizzate in famiglie parallele: ambiente, agricoltura, acqua, tecnologie, edilizia e coordinamento sociale.','Il termine conoscenza indica qui sapere empirico e operativo, non necessariamente scienza formalizzata.',sts)+f'<div class="card"><h2>Gerarchia delle competenze</h2>{controls()}<div class="graph-wrap">{knowledge(know,sts)}</div></div>';p=docs/'05_conoscenze.html';p.write_text(shell(f'{display} — Conoscenze','Albero radiale delle competenze necessarie o documentate.','05_conoscenze.html',cssd,jsd,b),encoding='utf-8');made.append(p)
     cl=load(data_dir/FILES['claims']);b=intro('Perché una matrice di controllo','Questa vista controlla la qualità del modello: ogni affermazione è collegata a un tema, un livello di attendibilità e una fonte.','Le domande aperte restano visibili e non vengono colmate con dati inventati.',sts)+f'<div class="card"><h2>Affermazioni e stato della verifica</h2>{controls()}<div class="graph-wrap">{claims_table(cl,sts)}</div></div><div class="card"><h2>Repertorio delle fonti</h2>{sources(master)}</div>';p=docs/'06_fonti_certezza.html';p.write_text(shell(f'{display} — Fonti e certezza','Matrice di controllo delle affermazioni usate nei grafi.','06_fonti_certezza.html',cssd,jsd,b),encoding='utf-8');made.append(p)
+    for page in made: inject_hierarchy_nav(page,root)
     return made
 
+def inject_hierarchy_nav(page:Path, root:Path):
+    try:
+        rel_parts=page.resolve().relative_to(root.resolve()).parts
+    except Exception:
+        return
+    if len(rel_parts)<4 or rel_parts[2] != 'Centri abitati':
+        return
+    def strip_num(x):
+        return re.sub(r'^\d+_', '', x)
+    def period_code(x):
+        m=re.match(r'^\d+_(P\d+)', x)
+        return m.group(1) if m else x
+    def text_title(markup):
+        m=re.search(r'<h1>(.*?)</h1>', markup, flags=re.S)
+        if not m:
+            m=re.search(r'<title>(.*?)</title>', markup, flags=re.S)
+        return html.unescape(re.sub(r'<[^>]+>', '', m.group(1))).strip() if m else 'Pagina'
+    def city_title(markup):
+        title=text_title(markup)
+        for sep in [' — modulo',' — modulo',' - modulo']:
+            if sep in title:
+                return title.split(sep,1)[0].strip()
+        return title.strip()
+    def doc_title(markup, name):
+        title=text_title(markup)
+        for sep in [' — ',' — ',' - ']:
+            if sep in title:
+                return title.split(sep,1)[1].strip()
+        labels={'01_alimentazione.html':'Alimentazione','02_provenienze.html':'Provenienze','03_insediamento.html':'Insediamento','04_costruzione.html':'Costruzione','05_conoscenze.html':'Conoscenze','06_fonti_certezza.html':'Fonti e certezza'}
+        return labels.get(name, name)
+    def link(href,label):
+        return f'      <li><a href="{esc(href)}">{esc(label)}</a></li>'
+    def text(label):
+        return f'      <li>{esc(label)}</li>'
+    def current(label):
+        return f'      <li aria-current="page">{esc(label)}</li>'
+    def block(items, back_href, back_label):
+        crumbs='\n'.join(items)
+        return f'    <nav class="breadcrumb" aria-label="Percorso di navigazione">\n    <ol>\n{crumbs}\n    </ol>\n    </nav>\n    <a class="back-link" href="{esc(back_href)}"><span aria-hidden="true">&larr;</span> {esc(back_label)}</a>\n'
+    markup=page.read_text(encoding='utf-8')
+    pcode=period_code(rel_parts[0]); area=strip_num(rel_parts[1])
+    nav=None
+    if len(rel_parts)==4 and page.name=='index.html':
+        nav=block([link('../../../index.html','Home'),link('../../index.html',f'Periodo {pcode}'),text(area),current('Centri')], '../../index.html', f'Torna alle aree del Periodo {pcode}')
+    elif len(rel_parts)==5 and page.name=='index.html':
+        cname=city_title(markup)
+        nav=block([link('../../../../index.html','Home'),link('../../../index.html',f'Periodo {pcode}'),text(area),link('../index.html','Centri'),current(cname)], '../index.html', "Torna all'elenco dei centri")
+    elif len(rel_parts)==6 and rel_parts[4]=='documenti' and page.suffix.lower()=='.html':
+        city_index=page.parent.parent/'index.html'
+        cname=city_title(city_index.read_text(encoding='utf-8')) if city_index.exists() else strip_num(rel_parts[3])
+        dname=doc_title(markup, page.name)
+        nav=block([link('../../../../../index.html','Home'),link('../../../../index.html',f'Periodo {pcode}'),text(area),link('../../index.html','Centri'),link('../index.html',cname),current(dname)], '../index.html', f'Torna a {cname}')
+    if not nav:
+        return
+    new=re.sub(r'(?s)<main>\s*(?:<nav class="breadcrumb".*?</nav>\s*)?(?:<a class="back-link".*?</a>\s*)?', '<main>\n'+nav, markup, count=1)
+    if new != markup:
+        page.write_text(new, encoding='utf-8')
 def verify(data_dir,out,root):
     errors=[]
     try:
@@ -188,3 +268,5 @@ def main():
         return 1
     print('Verifica superata: JSON, pagine, collegamenti e archi SVG sono coerenti.');return 0
 if __name__=='__main__':raise SystemExit(main())
+
+
